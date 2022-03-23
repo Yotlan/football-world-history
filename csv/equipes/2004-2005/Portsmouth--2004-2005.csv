@@ -1,0 +1,30 @@
+,,,,Temps de jeu,Temps de jeu,Temps de jeu,Temps de jeu,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Par 90 minutes,Par 90 minutes,Par 90 minutes,Par 90 minutes,Par 90 minutes,
+Joueur,Nation,Pos,Âge,MJ,Titulaire,Min,90,Buts,PD,B-PénM,PénM,PénT,CJ,CR,Buts,PD,B+PD,B-PénM,B+PD-PénM,Matchs
+Dejan Stefanović\1efa2799,rs SRB,DF,29,32,32,2880,32.0,1,0,1,0,0,4,0,0.03,0.00,0.03,0.03,0.03,Matchs
+Arjan de Zeeuw\93d6bcd9,nl NED,DF,34,32,32,2757,30.6,3,1,3,0,0,3,0,0.10,0.03,0.13,0.10,0.13,Matchs
+Linvoy Primus\9098de87,eng ENG,DF,30,35,31,2870,31.9,1,0,1,0,0,2,0,0.03,0.00,0.03,0.03,0.03,Matchs
+Patrik Berger\f16325b3,cz CZE,MT,30,32,30,2506,27.8,3,5,3,0,0,0,0,0.11,0.18,0.29,0.11,0.29,Matchs
+Yakubu Aiyegbeni\a1fe3f62,ng NGA,AT,21,30,29,2467,27.4,13,3,9,4,4,2,0,0.47,0.11,0.58,0.33,0.44,Matchs
+Steve Stone\4592c48e,eng ENG,MT,32,23,22,1879,20.9,3,1,3,0,0,1,0,0.14,0.05,0.19,0.14,0.19,Matchs
+Matthew Taylor\3b2c9cac,eng ENG,DFMT,22,32,21,2150,23.9,1,1,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08,Matchs
+Gary O'Neil\754d4ac4,eng ENG,MT,21,24,21,1889,21.0,2,2,2,0,0,3,0,0.10,0.10,0.19,0.10,0.19,Matchs
+Lomana LuaLua\27bd6d81,cd COD,ATMT,23,25,20,1733,19.3,6,3,6,0,0,2,1,0.31,0.16,0.47,0.31,0.47,Matchs
+Nigel Quashie\9b9a2d62,sct SCO,MT,26,19,19,1693,18.8,0,,,,,2,0,0.00,,,,,Matchs
+Andy Griffin\38517dc5,eng ENG,DF,25,22,18,1609,17.9,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Amdy Faye\c0e82ee2,sn SEN,DFMT,27,20,17,1531,17.0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matchs
+Shaka Hislop\7f44f7dd,tt TRI,GB,35,17,17,1530,17.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Jamie Ashdown\0f056348,eng ENG,GB,23,16,16,1440,16.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Diomansy Kamara\71e8454e,sn SEN,AT,23,25,15,1372,15.2,4,0,4,0,0,3,0,0.26,0.00,0.26,0.26,0.26,Matchs
+David Unsworth\05fcbb55,eng ENG,DF,30,15,15,1194,13.3,2,3,0,2,2,4,0,0.15,0.23,0.38,0.00,0.23,Matchs
+Ricardo Fuller\c764fa54,jm JAM,AT,24,31,13,1470,16.3,1,1,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matchs
+Richard Hughes\7ff95c96,sct SCO,MT,25,16,13,1143,12.7,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Aliou Cissé\0717f817,sn SEN,DFMT,28,20,12,1156,12.8,0,1,0,0,0,0,0,0.00,0.08,0.08,0.00,0.08,Matchs
+Giannis Skopelitis\6c4a0c90,gr GRE,MT,26,13,9,800,8.9,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Eyal Berkovic\10e485ae,il ISR,MT,32,11,6,445,4.9,1,4,1,0,0,0,0,0.20,0.81,1.01,0.20,1.01,Matchs
+Kostas Chalkias\8c36086c,gr GRE,GB,30,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Valéry Mézague\f499aac7,cm CMR,MT,20,11,3,369,4.1,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Aleksandar Rodić\92cc86d0,si SVN,AT,24,4,1,118,1.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+James Keene\93876c6b,eng ENG,AT,18,2,1,111,1.2,0,,0,0,,0,0,0.00,,,0.00,,Matchs
+John Curtis\3edb83bf,eng ENG,DF,25,1,0,21,0.2,0,,0,0,,0,0,0.00,,,0.00,,Matchs
+Total de l'équipe,,,27.6,38,386,,,41,30,35,6,6,52,2,1.08,0.79,1.87,0.92,1.71,
+Total adversaire,,,26.8,38,,,,,,,,,,,,,,,,

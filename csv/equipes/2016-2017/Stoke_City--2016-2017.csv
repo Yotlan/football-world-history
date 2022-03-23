@@ -1,0 +1,34 @@
+,,,,Temps de jeu,Temps de jeu,Temps de jeu,Temps de jeu,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Par 90 minutes,Par 90 minutes,Par 90 minutes,Par 90 minutes,Par 90 minutes,
+Joueur,Nation,Pos,Âge,MJ,Titulaire,Min,90,Buts,PD,B-PénM,PénM,PénT,CJ,CR,Buts,PD,B+PD,B-PénM,B+PD-PénM,Matchs
+Erik Pieters\1ef37668,nl NED,DFMT,27,36,35,3151,35.0,0,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matchs
+Ryan Shawcross\285a3d44,eng ENG,DF,28,35,35,3150,35.0,1,1,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matchs
+Bruno Martins Indi\7bc34048,nl NED,DF,24,35,35,3146,35.0,1,0,1,0,0,4,0,0.03,0.00,0.03,0.03,0.03,Matchs
+Joe Allen\9feb8f24,wls WAL,MT,26,36,34,2930,32.6,6,2,6,0,0,9,0,0.18,0.06,0.25,0.18,0.25,Matchs
+Marko Arnautović\00459419,at AUT,MTAT,27,32,32,2714,30.2,6,5,6,0,1,9,1,0.20,0.17,0.36,0.20,0.36,Matchs
+Lee Grant\9dab6e3b,eng ENG,GB,33,28,28,2520,28.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Glenn Whelan\d5bd56a5,ie IRL,MT,32,30,26,2275,25.3,0,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04,Matchs
+Glen Johnson\8cceca90,eng ENG,DF,31,23,21,1957,21.7,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Xherdan Shaqiri\6421ec64,ch SUI,MT,24,21,21,1698,18.9,4,2,4,0,0,2,0,0.21,0.11,0.32,0.21,0.32,Matchs
+Geoff Cameron\1a160ea3,us USA,MTDF,31,19,18,1629,18.1,0,2,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matchs
+Charlie Adam\aff418dc,sct SCO,MT,30,24,17,1517,16.9,1,3,0,1,1,7,0,0.06,0.18,0.24,0.00,0.18,Matchs
+Mame Biram Diouf\7f4f3e49,sn SEN,MTAT,28,27,15,1385,15.4,1,2,1,0,0,3,0,0.06,0.13,0.19,0.06,0.19,Matchs
+Phil Bardsley\1ae30132,sct SCO,DF,31,15,14,1168,13.0,0,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00,Matchs
+Peter Crouch\73d9bdc7,eng ENG,AT,35,27,13,1343,14.9,7,2,7,0,0,3,0,0.47,0.13,0.60,0.47,0.60,Matchs
+Jonathan Walters\0356cf4f,ie IRL,ATMT,32,23,13,1304,14.5,4,2,3,1,1,1,0,0.28,0.14,0.41,0.21,0.35,Matchs
+Giannelli Imbula\b86fe156,cd COD,MT,23,12,9,796,8.8,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Wilfried Bony\61abe9b6,ci CIV,AT,27,10,9,684,7.6,2,0,2,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matchs
+Ramadan Sobhi\98be0d02,eg EGY,MT,19,17,8,854,9.5,0,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matchs
+Saido Berahino\25b166d0,bi BDI,AT,22,13,8,720,8.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Marc Muniesa\4db76f57,es ESP,DF,24,10,7,650,7.2,1,0,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matchs
+Bojan Krkić\9fa0a0b8,es ESP,MTAT,25,9,5,475,5.3,3,0,1,2,3,1,0,0.57,0.00,0.57,0.19,0.19,Matchs
+Jack Butland\cc70a1d5,eng ENG,GB,23,5,5,450,5.0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Shay Given\0db918ff,ie IRL,GB,40,5,5,450,5.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Ibrahim Afellay\9a8c6673,nl NED,MT,30,12,3,384,4.3,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Philipp Wollscheid\c4cca587,de GER,DF,27,2,2,180,2.0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Julien Ngoy\87449a74,be BEL,ATMT,18,5,0,49,0.5,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matchs
+Tom Edwards\1b780599,eng ENG,DF,17,0,0,,,,,,,,,,,,,,,Matchs
+Jakob Haugaard\142741bb,dk DEN,GB,24,0,0,,,,,,,,,,,,,,,Matchs
+Joel Taylor\3a6e34b9,eng ENG,DF,20,0,0,,,,,,,,,,,,,,,Matchs
+Thibaud Verlinden\e5c026d6,be BEL,MT,17,0,0,,,,,,,,,,,,,,,Matchs
+Total de l'équipe,,,28.7,38,418,3420,38.0,37,24,33,4,6,0,1,0.97,0.63,1.61,0.87,1.50,
+Total adversaire,,,27.4,38,418,3420,38.0,51,38,50,1,2,80,2,1.34,1.00,2.34,1.32,2.32,
