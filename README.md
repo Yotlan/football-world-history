@@ -2,7 +2,12 @@
 
 ## TABLE OF CONTENTS
 
-[[_TOC_]]
+- [AUTHORS](#authors)
+- [LICENSES](#licenses)
+  * [LICENSE OF OUR DATASET](#license-of-our-dataset)
+- [SOURCES](#sources)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## AUTHORS
 - Yotlan LE CROM (<https://github.com/Yotlan>)
