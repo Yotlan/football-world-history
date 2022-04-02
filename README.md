@@ -16,8 +16,8 @@
 
 ### FIRST DIVISION OF ENGLAND FOOTBALL
 To have all the first division of england football since his creation in 1888, you need to take all csv files in these folders :
-- `csv/Football_League_First_Division/saisons/*.csv` (1888 - 1992)
-- `csv/Premier_League/saisons/*.csv` (1992 - 2021)
+- `csv/England/D1/Football_League_First_Division/saisons/*.csv` (1888 - 1992)
+- `csv/England/D1/Premier_League/saisons/*.csv` (1992 - 2021)
 
 ## AUTHORS
 - Yotlan LE CROM (<https://github.com/Yotlan>)
@@ -32,6 +32,6 @@ To have all the first division of england football since his creation in 1888, y
 - CC BY-SA 3.0
 
 ## SOURCES
-- FBREF (<https://fbref.com/fr/>) from Sports Reference (<https://www.sports-reference.com>) for csv files in `csv/Premier_League/equipes/*/*.csv` and `csv/Premier_League/saisons/*.csv`
-- Wikipedia (<https://en.wikipedia.org/wiki/Main_Page>) for csv files in `csv/Premier_League/*.csv` and `csv/Football_League_First_Division/saisons/*.csv`
+- FBREF (<https://fbref.com/fr/>) from Sports Reference (<https://www.sports-reference.com>) for csv files in `csv/England/D1/Premier_League/equipes/*/*.csv` and `csv/England/D1/Premier_League/saisons/*.csv`
+- Wikipedia (<https://en.wikipedia.org/wiki/Main_Page>) for csv files in `csv/England/D1/Premier_League/*.csv` and `csv/England/D1/Football_League_First_Division/saisons/*.csv`
 - Simplemaps (https://simplemaps.com/) for csv file `csv/worldcities.csv`
