@@ -1,36 +1,37 @@
-No.,Pos.,Nation,Player
-—,{{{pos}}}, ENG,Robert Smalley 18 appearances in goal
-—,{{{pos}}}, ENG,George Dobson 18 appearances at right back
-—,{{{pos}}}, SCO,Nick Ross 19 appearances at left back
-—,{{{pos}}}, SCO,James Weir 16 appearances at centre back
-—,{{{pos}}}, ENG,Johnny Holt 17 appearances at centre back
-—,{{{pos}}}, WAL,George Farmer 21 appearances at centre half
-—,{{{pos}}}, WAL,Joe Davies 8 appearances at outside right
-—,{{{pos}}}, ENG,Robert Watson 18 appearances at inside right
-—,{{{pos}}}, ENG,Frank Sugg 9 appearances at centre forward
-—,{{{pos}}}, ENG,Edgar Chadwick ever present inside left
-—,{{{pos}}}, ENG,James Costley 6 appearances at outside left
-—,{{{pos}}},,Jack Angus (5 appearances at outside left)
-—,{{{pos}}},,William Briscoe (3 apps – inside left)
-—,{{{pos}}},,William Brown (6 apps – outside left)
-—,{{{pos}}},,Albert Chadwick (2 apps – left back)
-—,{{{pos}}},,J Coyne (2 apps – inside right)
-—,{{{pos}}},,George Davie (2 apps – centre forward)
-—,{{{pos}}},,Alec Dick (9 apps – right back)
-—,{{{pos}}},,George Fleming (4 apps – outside right)
-—,{{{pos}}},,Mike Higgins (1 app – centre half)
-—,{{{pos}}},,Charles Jolliffe (4 apps – goalkeeper)
-—,{{{pos}}},,Robert Jones (1 app – centre back)
-—,{{{pos}}},,Bob Kelso (1 app – centre back)
-—,{{{pos}}},,J Keys (1 app – centre forward)
-—,{{{pos}}},,Wiliam Lewis (3 apps – centre forward)
-—,{{{pos}}},,Alex McKinnon (6 apps – outside right)
-—,{{{pos}}},,Alf Milward (6 apps – centre forward)
-—,{{{pos}}},,R Morris (1 app – centre forward)
-—,{{{pos}}},,Henry Parkinson (1 app – centre half)
-—,{{{pos}}},,Hugh Pollock (1 app – centre back)
-—,{{{pos}}},,Roberts (1 app – centre back)
-—,{{{pos}}},,George Stephenson (1 app – centre back)
-—,{{{pos}}},,Harry Warmby (1 app – centre back)
-—,{{{pos}}},,David Waugh (7 apps – inside right)
-—,{{{pos}}},,Walter Wilson (1 app – left back)
+Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
+,,,Apps,Goals,Apps,Goals,Apps,Goals
+GK,Robert Smalley,ENG,18,0,0,0,18,0
+FB,George Dobson,ENG,18,0,0,0,18,0
+FB,Nick Ross,SCO,19,5,0,0,19,5
+FB,James Weir,SCO,16,0,0,0,16,0
+FB,Johnny Holt,ENG,17,0,0,0,17,0
+HB,George Farmer,WAL,21,1,0,0,21,1
+FW,Joe Davies,WAL,8,2,0,0,8,2
+FW,Robert Watson,ENG,18,4,0,0,18,4
+FW,Frank Sugg,ENG,9,0,0,0,9,0
+FW,Edgar Chadwick,ENG,22,6,0,0,22,6
+FW,James Costley,ENG,6,3,0,0,6,3
+FW,Jack Angus,SCO,5,0,0,0,5,0
+FW,William Briscoe,ENG,3,0,0,0,3,0
+FW,William Brown,ENG,6,2,0,0,6,2
+FB,Albert Chadwick,ENG,2,0,0,0,2,0
+FW,J Coyne,ENG,2,1,0,0,2,1
+FW,George Davie,ENG,2,0,0,0,2,0
+FB,Alec Dick,SCO,9,0,0,0,9,0
+FW,George Fleming,SCO,4,2,0,0,4,2
+HB,Mike Higgins,ENG,1,0,0,0,1,0
+GK,Charles Jolliffe,ENG,4,0,0,0,4,0
+FB,Robert Jones,WAL,1,0,0,0,1,0
+FB,Bob Kelso,SCO,1,0,0,0,1,0
+FW,J Keys,,1,0,0,0,1,0
+FW,Wiliam Lewis,WAL,3,1,0,0,3,1
+FW,Alex McKinnon,SCO,6,4,0,0,6,4
+FW,Alf Milward,ENG,6,2,0,0,6,2
+FW,R Morris,,1,0,0,0,1,0
+HB,Henry Parkinson,ENG,1,0,0,0,1,0
+FB,Hugh Pollock,SCO,1,0,0,0,1,0
+FB,Roberts,,1,0,0,0,1,0
+FB,George Stephenson,ENG,1,0,0,0,1,0
+FB,Harry Warmby,ENG,1,0,0,0,1,0
+FW,David Waugh,ENG,7,2,0,0,7,2
+FB,Walter Wilson,ENG,1,0,0,0,1,0
