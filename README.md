@@ -27,11 +27,13 @@ To have all the first division of england football since his creation in 1888, y
 - CC-BY 4.0 (FBREF from Sports Reference)
 - CC BY-SA 3.0 (Wikipedia)
 - CC BY 4.0 (Simplemaps)
+- CC BY 4.0 (The Origins of the Football League: The First Season 1888/89)
 
 ### LICENSE OF OUR DATASET
 - CC BY-SA 3.0
 
 ## SOURCES
 - FBREF (<https://fbref.com/fr/>) from Sports Reference (<https://www.sports-reference.com>) for csv files in `csv/England/D1/Premier_League/equipes/*/*.csv` and `csv/England/D1/Premier_League/saisons/*.csv`
-- Wikipedia (<https://en.wikipedia.org/wiki/Main_Page>) for csv files in `csv/England/D1/Premier_League/*.csv` and `csv/England/D1/Football_League_First_Division/saisons/*.csv`
+- Wikipedia (<https://en.wikipedia.org/wiki/Main_Page>) for csv files in `csv/England/D1/Premier_League/*.csv` and `csv/England/D1/Football_League_First_Division/*/*.csv`
 - Simplemaps (https://simplemaps.com/) for csv file `csv/worldcities.csv`
+- The Origins of the Football League: The First Season 1888/89 by Mark Metcalf for csv file `csv/England/D1/Football_League_First_Division/equipes/Burnley--1888-1889.csv`
