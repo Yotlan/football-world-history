@@ -1,25 +1,25 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-HB, Willie Almond,ENG,21,1,5,0,26,1
-GK, Herby Arthur,ENG,15,0,5,0,20,0
-HB, John Barton,ENG,5,0,1,1,6,1
-FW, James Beresford,ENG,12,4,1,0,13,4
-FB, Joe Beverley,ENG,8,0,0,0,8,0
-FW, James Brown,ENG,4,0,0,0,4,0
-HB, Jimmy Douglas,SCO,21,0,5,0,26,0
-U, James Duerden,ENG,2,0,0,0,2,0
-FW, Harry Fecitt,ENG,17,12,5,0,22,12
-FB, John Forbes,SCO,16,0,5,0,21,0
-HB, Jimmy Forrest,ENG,19,1,5,0,24,1
-FW, Robert Haresnape,ENG,9,2,4,6,13,8
-GK, William Holden,ENG,1,0,0,0,1,0
-GK, Billy McOwen,ENG,5,0,0,0,5,0
-FW, W. Mitchell,ENG,1,2,0,0,1,2
-FW, Robert Porter,ENG,1,0,0,0,1,0
-FW, Jack Southworth,ENG,21,17,5,4,26,21
-FB, James Southworth,ENG,19,0,4,0,23,0
-FW, James Stothert,ENG,1,1,0,0,1,1
-GK, Fergus Suter,SCO,1,0,0,0,1,0
-FW, William Townley,ENG,19,8,5,2,24,10
-FW, Nat Walton,ENG,20,10,5,1,25,11
-FW, Bernard Whittaker,ENG,4,1,0,0,4,1
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALMOND, Willie ",Centre Half,21,1,0,5,0,0,0,0,0
+,"ARTHUR, Herbie ",Goalkeeper,15,0,0,5,0,0,0,0,0
+,"BARTON, Jack ",Wing Half,5,0,0,1,1,0,0,0,0
+,"BERESFORD, James ",Winger,12,4,0,1,0,0,0,0,0
+,"BEVERLEY, Joe ",Full Back,8,0,0,0,0,0,0,0,0
+,"BROWN, Jimmy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"DOUGLAS, Jimmy ",Wing Half,21,0,0,5,0,0,0,0,0
+,"DUERDEN, James ",Full Back,2,0,0,0,0,0,0,0,0
+,"FECITT, Harry ",Inside Forward,17,12,0,5,0,0,0,0,0
+,"FORBES, John ",Full Back,16,0,0,5,0,0,0,0,0
+,"FORREST, Jimmy ",Wing Half,19,1,0,5,0,0,0,0,0
+,"HARESNAPE, Robert ",Winger,9,2,0,4,6,0,0,0,0
+,"HOLDEN, William ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MCOWEN, Billy ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"MITCHELL, W ",Winger,1,2,0,0,0,0,0,0,0
+,"PORTER, Robert ",Winger,1,0,0,0,0,0,0,0,0
+,"SOUTHWORTH, Jack ",Centre Forward,21,17,0,5,4,0,0,0,0
+,"SOUTHWORTH, James ",Full Back,19,0,0,4,0,0,0,0,0
+,"STOTHERT, James ",Full Back,1,1,0,0,0,0,0,0,0
+,"SUTER, Fergie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"TOWNLEY, Billy ",Winger,19,8,0,5,2,0,0,0,0
+,"WALTON, Nat ",Inside Forward,20,10,0,5,1,0,0,0,0
+,"WHITTAKER, Bernard ",Inside Forward,4,1,0,0,0,0,0,0,0

@@ -1,37 +1,38 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-GK,Robert Smalley,ENG,18,0,0,0,18,0
-FB,George Dobson,ENG,18,0,0,0,18,0
-FB,Nick Ross,SCO,19,5,0,0,19,5
-FB,James Weir,SCO,16,0,0,0,16,0
-FB,Johnny Holt,ENG,17,0,0,0,17,0
-HB,George Farmer,WAL,21,1,0,0,21,1
-FW,Joe Davies,WAL,8,2,0,0,8,2
-FW,Robert Watson,ENG,18,4,0,0,18,4
-FW,Frank Sugg,ENG,9,0,0,0,9,0
-FW,Edgar Chadwick,ENG,22,6,0,0,22,6
-FW,James Costley,ENG,6,3,0,0,6,3
-FW,Jack Angus,SCO,5,0,0,0,5,0
-FW,William Briscoe,ENG,3,0,0,0,3,0
-FW,William Brown,ENG,6,2,0,0,6,2
-FB,Albert Chadwick,ENG,2,0,0,0,2,0
-FW,J Coyne,ENG,2,1,0,0,2,1
-FW,George Davie,ENG,2,0,0,0,2,0
-FB,Alec Dick,SCO,9,0,0,0,9,0
-FW,George Fleming,SCO,4,2,0,0,4,2
-HB,Mike Higgins,ENG,1,0,0,0,1,0
-GK,Charles Jolliffe,ENG,4,0,0,0,4,0
-FB,Robert Jones,WAL,1,0,0,0,1,0
-FB,Bob Kelso,SCO,1,0,0,0,1,0
-FW,J Keys,,1,0,0,0,1,0
-FW,Wiliam Lewis,WAL,3,1,0,0,3,1
-FW,Alex McKinnon,SCO,6,4,0,0,6,4
-FW,Alf Milward,ENG,6,2,0,0,6,2
-FW,R Morris,,1,0,0,0,1,0
-HB,Henry Parkinson,ENG,1,0,0,0,1,0
-FB,Hugh Pollock,SCO,1,0,0,0,1,0
-FB,Roberts,,1,0,0,0,1,0
-FB,George Stephenson,ENG,1,0,0,0,1,0
-FB,Harry Warmby,ENG,1,0,0,0,1,0
-FW,David Waugh,ENG,7,2,0,0,7,2
-FB,Walter Wilson,ENG,1,0,0,0,1,0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANGUS, Jack ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"BRISCOE, William ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"BROWN, William ",Winger,6,1,0,0,0,0,0,0,0
+,"CHADWICK, Arthur ",Full Back,2,0,0,0,0,0,0,0,0
+,"CHADWICK, Edgar ",Inside Forward,22,6,0,0,0,0,0,0,0
+,"COSTLEY, Thomas ",Winger,6,3,0,0,0,0,0,0,0
+,"COYNE, J ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"DAVIE, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"DAVIES, Joe ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"DICK, Alec ",Full Back,9,0,0,0,0,0,0,0,0
+,"DOBSON, George ",Full Back,18,0,0,0,0,0,0,0,0
+,"FARMER, George ",Wing Half,21,1,0,0,0,0,0,0,0
+,"FLEMING, George ",Winger,4,2,0,0,0,0,0,0,0
+,"HARBOUR, William ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HIGGINS, Mike ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HOLT, Johnny ",Centre Half,17,0,0,0,0,0,0,0,0
+,"JOLLIFFE, Charles ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"JONES, Robert ",Full Back,1,0,0,0,0,0,0,0,0
+,"KELSO, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"KEYS, Jack ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LEWIS, William ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"MCKINNON, Alex ",Winger,6,5,0,0,0,0,0,0,0
+,"MILWARD, Alf ",Winger,6,2,0,0,0,0,0,0,0
+,"MORRIS, R ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"PARKINSON, Harry ",Wing Half,1,0,0,0,0,0,0,0,0
+,"POLLOCK, Hugh ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ROBERTS, ? ",Centre Half,1,0,0,0,0,0,0,0,0
+,"ROSS, Nick ",Full Back,19,4,0,0,0,0,0,0,0
+,"SMALLEY, Robert ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"STEPHENSON, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SUGG, Frank ",Centre Forward,9,0,0,0,0,0,0,0,0
+,"WARMBY, Harry ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WATSON, Robert ",Inside Forward,18,5,0,0,0,0,0,0,0
+,"WAUGH, David ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"WEIR, Jimmy ",Wing Half,16,0,0,0,0,0,0,0,0
+,"WILSON, Walter ",Full Back,1,0,0,0,0,0,0,0,0

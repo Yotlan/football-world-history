@@ -1,37 +1,42 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-FW, Thomas Allin,ENG,6,2,0,0,6,2
-FW, L.F. Bailey,ENG,1,1,0,0,1,1
-HB, George Brown,ENG,19,1,3,0,22,1
-FW, H.H. Brown,ENG,0,0,2,2,2,2
-FW, John Brown,ENG,1,0,0,0,1,0
-FB, John Clements,ENG,12,0,3,0,15,0
-FB, Henry Cursham,ENG,8,2,2,1,10,3
-FW, Harry Daft,ENG,19,8,4,1,23,9
-HB, Charles Dobson,ENG,1,0,0,0,1,0
-HB, Herbert Emmitt,ENG,4,0,3,1,7,1
-FW, Galbraith,ENG,1,0,0,0,1,0
-FW, William Gunn,ENG,1,0,0,0,1,0
-FB, Frank Guttridge,ENG,17,0,1,0,18,0
-FW, Ted Harker,ENG,2,0,3,2,5,2
-FW, Bill Hodder,ENG,20,3,2,0,22,3
-GK, Jack Holland,ENG,9,0,1,0,10,0
-FW, Harry Jackson,ENG,5,3,3,1,8,4
-FW, Bob Jardine,SCO,18,9,0,0,18,9
-FW, J.T. Marshall,ENG,0,0,2,3,2,3
-HB, Billy May,ENG,4,0,0,0,4,0
-FW, Edward May,ENG,11,3,3,0,14,3
-FB, Tom McLean,SCO,12,0,2,0,14,0
-FW, Albert Moore,ENG,10,3,3,1,13,4
-FB, Haydn Morley,ENG,2,0,0,0,2,0
-GK, Hugh Owen,ENG,1,0,0,0,1,0
-FW, Albert Shaw,ENG,2,0,0,0,2,0
-HB, Alf Shelton,ENG,21,0,4,1,25,1
-HB, Charlie Shelton,ENG,15,1,3,1,18,2
-GK, Mordecai Sherwin,ENG,1,0,4,0,5,0
-FB, Herbert Snook,ENG,1,0,5,1,6,1
-FW, H. Stevens,ENG,0,0,1,0,1,0
-HB, Ben Warburton,ENG,2,0,2,0,4,0
-HB, Edwin Wardle,ENG,2,0,2,1,4,1
-FW, Fred Weightman,ENG,1,1,0,0,1,1
-GK, Tom Widdowson,ENG,12,0,2,0,14,0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLIN, Tom ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"BAILEY, LF ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"BROWN, George ",Wing Half,19,1,0,3,0,0,0,0,0
+,"BROWN, Noel ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"BROWN, Henry ",Winger,0,0,0,2,2,0,0,0,0
+,"BROWN, John ",Winger,1,0,0,0,0,0,0,0,0
+,"CLEMENTS, John ",Full Back,12,0,0,3,0,0,0,0,0
+,"COOKE, Thomas ",Winger,1,0,0,0,0,0,0,0,0
+,"COTTERILL, William ",Wing Half,0,0,0,1,0,0,0,0,0
+,"CURSHAM, Harry ",Full Back,8,2,0,2,1,0,0,0,0
+,"DAFT, Harry ",Winger,19,8,0,4,2,0,0,0,0
+,"DOBSON, Charley ",Centre Half,1,0,0,2,0,0,0,0,0
+,"EMMITT, Herbert ",Wing Half,4,0,0,3,1,0,0,0,0
+,"GALBRAITH, Dugald ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"GEARY, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GUNN, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"GUTTRIDGE, Frank ",Full Back,17,0,0,1,0,0,0,0,0
+,"HARKER, Ted ",Inside Forward,2,0,0,3,2,0,0,0,0
+,"HODDER, Bill ",Winger,20,3,0,2,0,0,0,0,0
+,"HOLLAND, Jack ",Goalkeeper,9,0,0,1,0,0,0,0,0
+,"JACKSON, Harry ",Centre Forward,5,3,0,3,1,0,0,0,0
+,"JARDINE, Bob ",Winger,18,9,0,0,0,0,0,0,0
+,"MARSHALL, JT ",Inside Forward,0,0,0,2,3,0,0,0,0
+,"MAY, Teddy ",Winger,11,3,0,3,0,0,0,0,0
+,"MAY, Billy ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"MCLEAN, Tom ",Full Back,12,0,0,2,0,0,0,0,0
+,"MOORE, Albert ",Inside Forward,10,3,0,3,1,0,0,0,0
+,"MORLEY, Haydn ",Full Back,2,0,0,0,0,0,0,0,0
+,"OWEN, Hugh ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SHAW, Arthur ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SHELTON, Alf ",Wing Half,21,0,0,4,1,0,0,0,0
+,"SHELTON, Charlie ",Centre Half,15,1,0,3,1,0,0,0,0
+,"SHERWIN, Mordecai ",Goalkeeper,1,0,0,3,0,0,0,0,0
+,"SNOOK, Frederick ",Centre Forward,0,0,0,2,1,0,0,0,0
+,"SNOOK, Herbert ",Full Back,1,0,0,3,0,0,0,0,0
+,"STEVENS, Harold ",Inside Forward,0,0,0,2,0,0,0,0,0
+,"WARBURTON, Ben ",Centre Half,2,0,0,2,0,0,0,0,0
+,"WARDLE, Edwin ",Winger,2,0,0,4,1,0,0,0,0
+,"WEIGHTMAN, Fred ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"WIDDOWSON, Tom ",Goalkeeper,12,0,0,2,0,0,0,0,0

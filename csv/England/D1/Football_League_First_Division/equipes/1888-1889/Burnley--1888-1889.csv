@@ -1,26 +1,28 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-GK,William Stevenson Smith,ENG,3,0,0,0,3,0
-GK,Walter (William) Cox,SCO,13,0,1,0,14,0
-GK,Robert McCrae,SCO,2,0,1,0,3,0
-FB,William Harold Bury,ENG,20,0,2,0,22,0
-FB,Alexander (Sandy) Lang,SCO,21,0,2,1,23,1
-FB,Kavanagh,SCO,1,0,0,0,1,0
-HB,John (Jack) Abrahams,ENG,13,1,2,0,15,1
-HB,Daniel Friel,SCO,22,0,2,0,24,0
-HB,Jack Keenan,ENG,20,0,2,0,22,0
-HB,J. Risdale,ENG,1,0,0,0,1,0
-FW,Alexander (Alec) Brady,SCO,20,7,2,0,22,7
-FW,William Brady,SCO,9,2,2,1,11,3
-FW,Robert William Duckworth,ENG,1,0,0,0,1,0
-FW,Patrick (Pat) Gallocher,SCO,20,6,2,3,22,9
-FW,John Salmon (Jack) Hibbert,ENG,1,0,0,0,1,0
-FW,Leonard (Len) Mudie,SCO,1,0,0,0,1,0
-FW,Fred Poland,SCO,9,5,0,0,9,5
-FW,William Tait,SCO,5,5,0,0,5,5
-FW,James Woods,ENG,1,0,0,0,1,0
-FW,John (Jack) Yates,ENG,21,5,0,0,21,5
-FW,Thomas Midgley,ENG,1,0,0,0,1,0
-FW,John Ashworth,ENG,0,0,0,0,0,0
-FW,Ross McMahon,SCO,2,0,2,0,4,0
-FW,William McKay,SCO,14,6,0,0,14,6
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABRAMS, Jack ",Wing Half,13,1,0,1,0,0,0,0,0
+,"BRADY, Alec ",Inside Forward,8,4,0,0,0,0,0,0,0
+,"BRADY, Willie ",Inside Forward,21,5,0,2,1,0,0,0,0
+,"BURY, William ",Full Back,20,0,0,1,0,0,0,0,0
+,"CAVANAGH, ? ",Full Back,1,0,0,0,0,0,0,0,0
+,"COX, Walter ",Goalkeeper,13,0,0,2,0,0,0,0,0
+,"DUCKWORTH, Robert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"FRIEL, Dannie ",Centre Half,22,0,0,2,0,0,0,0,0
+,"GALLOCHER, Pat ",Inside Forward,20,6,0,2,3,0,0,0,0
+,"HARGREAVES, A ",Full Back,0,0,0,1,0,0,0,0,0
+,"HIBBERT, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"KAY, Robert ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"KEENAN, Jack ",Wing Half,20,0,0,2,0,0,0,0,0
+,"LANG, Sandy ",Full Back,21,0,0,2,1,0,0,0,0
+,"MCCRAE, Robert ",Inside Forward,2,0,0,1,0,0,0,0,0
+,"MCFETRIDGE, Bill ",Wing Half,16,0,0,2,0,0,0,0,0
+,"MCKAY, Willie ",Inside Forward,14,7,0,0,0,0,0,0,0
+,"MCMAHON, Ross ",Centre Forward,2,0,0,2,0,0,0,0,0
+,"MIDGLEY, Thomas ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MUDIE, Len ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"POLAND, Fred ",Centre Forward,9,6,0,0,0,0,0,0,0
+,"RIDSDALE, J ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SMITH, William ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"TAIT, William ",Inside Forward,5,5,0,0,0,0,0,0,0
+,"WOODS, James ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"YATES, Jack ",Winger,21,5,0,2,0,0,0,0,0

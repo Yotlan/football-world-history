@@ -1,22 +1,24 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-FW, Billy Bassett,ENG,21,11,4,2,25,13
-U, Jem Bayliss,ENG,21,1,4,2,25,3
-FW, Fredrick Crabtree,ENG,1,1,0,0,1,1
-FB, Harry Green,ENG,9,0,4,0,13,0
-FW, George Haynes,ENG,5,0,0,0,5,0
-FW, Billy Hendry,SCO,16,4,0,0,16,4
-HB, Ezra Horton,ENG,8,0,4,0,12,0
-FB, Jack Horton,ENG,19,0,1,0,20,0
-HB, Albert Millard,ENG,1,0,0,0,1,0
-FB, Harold Oliver,ENG,1,0,0,0,1,0
-FW, Tom Pearson,ENG,22,11,4,1,26,12
-HB, Charlie Perry,ENG,20,0,4,0,24,0
-FW, Walter Perry,ENG,9,4,4,6,13,10
-FB, Alexander Ramsey,ENG,1,0,0,0,1,0
-GK, Bob Roberts,ENG,22,0,4,0,26,0
-FW, Charlie Shaw,ENG,1,1,0,0,1,1
-HB, George Timmins,ENG,22,0,4,1,26,1
-FB, Luther Walker,ENG,12,0,0,0,12,0
-FW, Joe Wilson,ENG,20,4,4,5,24,9
-FW, George Woodhall,ENG,10,3,0,0,10,3
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASSETT, Billy ",Winger,21,11,0,4,2,0,0,0,0
+,"BAYLISS, Jem ",Wing Half,22,2,0,4,3,0,0,0,0
+,"CRABTREE, Frederick ",Winger,1,0,0,0,0,0,0,0,0
+,"GREEN, Harry ",Full Back,9,0,0,4,0,0,0,0,0
+,"HANNAH, Andrew ",Full Back,0,0,0,0,0,0,0,0,0
+,"HAYNES, George ",Winger,5,0,0,0,0,0,0,0,0
+,"HENDRY, Billy ",Centre Half,16,3,0,0,0,0,0,0,0
+,"HORTON, Ezra ",Wing Half,8,0,0,4,0,0,0,0,0
+,"HORTON, Jack ",Full Back,19,0,0,1,0,0,0,0,0
+,"MILLARD, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"OLIVER, Harold ",Full Back,1,0,0,0,0,0,0,0,0
+,"PEARSON, Tom ",Inside Forward,22,12,0,4,1,0,0,0,0
+,"PERRY, Charlie ",Centre Half,20,0,0,4,0,0,0,0,0
+,"PERRY, Walter ",Winger,9,4,0,4,5,0,0,0,0
+,"RAMSAY, George ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Bob ",Goalkeeper,22,0,0,4,0,0,0,0,0
+,"ROBINSON, Bethel ",Full Back,0,0,0,3,0,0,0,0,0
+,"SHAW, B ",Winger,1,1,0,0,0,0,0,0,0
+,"TIMMINS, George ",Wing Half,22,0,0,4,1,0,0,0,0
+,"WALKER, Luther ",Full Back,12,0,0,0,0,0,0,0,0
+,"WILSON, Joe ",Winger,20,4,0,4,5,0,0,0,0
+,"WOODHALL, George 'Spry' ",Winger,10,3,0,0,0,0,0,0,0

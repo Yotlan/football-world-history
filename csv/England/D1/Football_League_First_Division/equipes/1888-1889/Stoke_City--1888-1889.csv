@@ -1,35 +1,35 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-GK, Charlie Hassall,ENG,0,0,1,0,1,0,
-GK, Wilf Merritt,ENG,1,0,0,0,1,0,
-GK, Bill Rowley,ENG,21,0,0,0,21,0,
-FB, George Bateman,ENG,0,0,0,0,0,0,
-FB, Albert Bourne,ENG,0,0,1,0,1,0,
-FB, Tommy Clare,ENG,21,0,0,0,21,0,
-FB, Edgar Montford,WAL,0,0,1,0,1,0,
-FB, Alf Underwood,ENG,22,0,0,0,22,0,
-HB, Albert Farmer,ENG,0,0,1,0,1,0,
-HB, Billy Hendry,SCO,2,0,0,0,2,0,
-HB, Will Holford,ENG,0,0,1,0,1,0,
-HB, Bob Ramsay,ENG,21,0,0,0,21,0,
-HB, George Shutt,ENG,21,1,0,0,21,1,
-HB, Elijah Smith,ENG,21,0,0,0,21,0,
-FW, Charlie Baker,ENG,1,0,0,0,1,0,
-FW, Bob Barr,SCO,3,0,0,0,3,0,
-FW, Alfred Dempsey,ENG,1,0,0,0,1,0,
-FW, Alf Edge,ENG,19,3,1,0,20,3,
-FW, Tom Forrester,ENG,0,0,1,0,1,0,
-FW, Freddie Gee,ENG,1,0,0,0,1,0,
-FW, Billy Hutchinson,ENG,1,0,0,0,1,0,
-FW, George Lawton,ENG,13,1,0,0,13,1,
-FW, Bob McSkimming,SCO,22,6,0,0,22,6,
-FW, Bob Milarvie,SCO,15,5,0,0,15,5,
-FW, Harry Montford,ENG,1,0,1,0,2,0,
-FW, Thomas Moore,SCO,1,0,0,0,1,0,
-FW, Jimmy Sayer,ENG,7,1,1,0,8,1,
-FW, George Slater,ENG,2,1,0,0,2,1,
-FW, Jimmy Sloane,SCO,11,2,0,0,11,2,
-FW, Bill Smalley,ENG,1,0,0,0,1,0,
-FW, Frank Staton,ENG,4,2,0,0,4,2,
-FW, Billy Tunnicliffe,ENG,8,4,1,0,9,4,
-FW, Tom Wainwright,ENG,1,0,1,1,2,1
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Charlie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BARR, Bob ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"BATEMAN, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"BOURNE, Albert ",Full Back,0,0,0,1,0,0,0,0,0
+,"CLARE, Tommy ",Full Back,21,0,0,0,0,0,0,0,0
+,"DEMPSEY, Alfred ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"EDGE, Alf ",Inside Forward,19,3,0,1,0,0,0,0,0
+,"FARMER, Albert ",Centre Half,0,0,0,1,0,0,0,0,0
+,"FORRESTER, Tom ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"GEE, Freddie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HASSALL, Charlie ",Goalkeeper,0,0,0,1,0,0,0,0,0
+,"HENDRY, Billy ",Centre Half,2,0,0,0,0,0,0,0,0
+,"HOLFORD, Will ",Wing Half,0,0,0,1,0,0,0,0,0
+,"HUTCHINSON, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"LAWTON, George ",Winger,13,1,0,0,0,0,0,0,0
+,"MCSKIMMING, Bob ",Inside Forward,22,6,0,0,0,0,0,0,0
+,"MERRITT, William ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MILARVIE, Bob ",Winger,15,5,0,0,0,0,0,0,0
+,"MONTFORD, Edgar ",Full Back,0,0,0,1,0,0,0,0,0
+,"MONTFORD, Harry ",Inside Forward,1,0,0,1,0,0,0,0,0
+,"MOORE, Thomas ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"RAMSAY, Bob ",Wing Half,21,0,0,0,0,0,0,0,0
+,"ROWLEY, Billy ",Goalkeeper,21,0,0,0,0,0,0,0,0
+,"SAYER, Jimmy ",Winger,7,1,0,1,0,0,0,0,0
+,"SHUTT, George ",Centre Half,21,1,0,0,0,0,0,0,0
+,"SLATER, George ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"SLOANE, Jimmy ",Centre Forward,11,2,0,0,0,0,0,0,0
+,"SMALLEY, Walter ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SMITH, Elijah 'Father' ",Wing Half,21,0,0,0,0,0,0,0,0
+,"STATON, Fred ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"TUNNICLIFFE, Billy ",Winger,8,4,0,1,0,0,0,0,0
+,"UNDERWOOD, Alf ",Full Back,22,0,0,0,0,0,0,0,0
+,"WAINWRIGHT, Tom ",Inside Forward,1,0,0,1,1,0,0,0,0

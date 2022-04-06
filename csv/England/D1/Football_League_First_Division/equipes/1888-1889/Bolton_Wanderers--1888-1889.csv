@@ -1,26 +1,36 @@
-Pos.,Name,Nation,League,League,FA Cup,FA Cup,Total,Total
-,,,Apps,Goals,Apps,Goals,Apps,Goals
-FW, Alexander Barbour,SCO,14,9,0,0,14,9
-FW, James Brogan,SCO,22,13,0,0,22,13
-HB, Peter Bullough,ENG,15,1,1,0,16,1
-FW, Thomas Coupar,SCO,3,1,0,0,3,1
-FW, Kenny Davenport,ENG,22,11,0,0,22,11
-FW, Frank Dyer,SCO,1,0,0,0,1,0
-FB, W. Flitcroft,ENG,7,0,0,0,7,0
-GK, Sam Gillam,WAL,2,0,0,0,2,0
-GK, Charlie Harrison,ENG,19,0,0,0,19,0
-FB, Di Jones,WAL,12,0,0,0,12,0
-FW, H. McGuinness,ENG,1,1,0,0,1,1
-FB, D. Mercer,ENG,1,0,0,0,1,0
-FW, John Milne,ENG,22,6,0,0,22,6
-FB, John Mitchell,ENG,2,0,0,0,2,0
-FW, G. Owen,ENG,7,3,0,0,7,3
-FB, Jim Parkinson,ENG,2,0,0,0,2,0
-HB, Bob Roberts,WAL,22,2,0,0,22,2
-FB, Bethel Robinson,ENG,18,0,0,0,18,0
-HB, J. Scowcroft,ENG,9,1,0,0,9,1
-FB, E. Siddons,ENG,1,0,0,0,1,0
-FB, W. Simmers,ENG,2,0,2,0,4,0
-FW, Jimmy Turner,ENG,2,1,3,3,5,4
-FW, Harry Tyrer,ENG,14,2,0,0,14,2
-FW, David Weir,ENG,22,10,0,0,22,10
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARBOUR, Alec ",Centre Forward,14,9,0,0,0,0,0,0,0
+,"BROGAN, Jimmy ",Inside Forward,22,13,0,0,0,0,0,0,0
+,"BULLOUGH, Peter ",Wing Half,15,1,0,2,0,0,0,0,0
+,"COUPAR, Peter ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"DAVENPORT, Kenny ",Winger,22,11,0,0,0,0,0,0,0
+,"DYER, Frank ",Wing Half,1,0,0,0,0,0,0,0,0
+,"FARMAN, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"FLITCROFT, Walter ",Full Back,7,0,0,0,0,0,0,0,0
+,"GILLAM, Sam ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"GREENHALGH, ? ",Wing Half,0,0,0,3,0,0,0,0,0
+,"HARRISON, Charlie ",Goalkeeper,19,0,0,0,0,0,0,0,0
+,"HAYDOCK, Tom ",Full Back,0,0,0,3,0,0,0,0,0
+,"JACKSON, ? ",Full Back,0,0,0,3,0,0,0,0,0
+,"JONES, Di ",Full Back,12,0,0,0,0,0,0,0,0
+,"KNOWLES, ? ",Inside Forward,0,0,0,3,0,0,0,0,0
+,"MCGUINNESS, H ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"MERCER, D ",Full Back,1,0,0,0,0,0,0,0,0
+,"MILNE, John ",Inside Forward,22,6,0,0,0,0,0,0,0
+,"MITCHELL, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"MOORES, ? ",Goalkeeper,0,0,0,3,0,0,0,0,0
+,"OWEN, G ",Winger,7,3,0,0,0,0,0,0,0
+,"PARKINSON, James ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"PEARSON, Joe ",Wing Half,0,0,0,3,0,0,0,0,0
+,"ROBERTS, Bob ",Wing Half,22,2,0,0,0,0,0,0,0
+,"ROBINSON, Bethel ",Full Back,18,0,0,0,0,0,0,0,0
+,"RUSHTON, Walter ",Inside Forward,0,0,0,3,0,0,0,0,0
+,"SCOWCROFT, Joe ",Centre Half,9,1,0,0,0,0,0,0,0
+,"SIDDONS, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"SIMMERS, William ",Centre Half,2,0,0,1,0,0,0,0,0
+,"TURNER, Jimmy ",Wing Half,2,1,0,3,0,0,0,0,0
+,"TURNER, Richard ",Centre Forward,0,0,0,3,0,0,0,0,0
+,"TYRER, Harry ",Inside Forward,14,2,0,0,0,0,0,0,0
+,"WEIR, Davie ",Centre Half,22,10,0,0,0,0,0,0,0
+,"WHITTLE, ? ",Winger,0,0,0,3,0,0,0,0,0
