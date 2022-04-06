@@ -24,13 +24,13 @@ To have all the first division of england football since his creation in 1888, y
 - Endy YU (<https://github.com/endyappel>)
 
 ## LICENSES
-- CC BY-NC 2.0 (FBREF from Sports Reference)
+- CC BY-NC-SA 4.0 (FBREF from Sports Reference)
 - CC BY-SA 3.0 (Wikipedia)
-- CC BY-NC 2.0 (ENFA)
+- CC BY-NC-SA 4.0 (ENFA)
 - CC BY 4.0 (Simplemaps)
 
 ### LICENSE OF OUR DATASET
-- CC BY-NC 2.0
+- CC BY-NC-SA 4.0
 
 ## SOURCES
 - FBREF (<https://fbref.com/fr/>) from Sports Reference (<https://www.sports-reference.com>) for csv files in `csv/England/D1/Premier_League/equipes/*/*.csv` and `csv/England/D1/Premier_League/saisons/*.csv`
