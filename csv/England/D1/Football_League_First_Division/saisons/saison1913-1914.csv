@@ -1,21 +1,21 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Blackburn Rovers,38,14,4,1,51,15,6,7,6,27,27,1.857,51,League Champions
-2,Aston Villa,38,11,3,5,36,21,8,3,8,29,29,1.300,44,
-3,Middlesbrough,38,14,2,3,55,20,5,3,11,22,40,1.283,43,
-4,Oldham Athletic,38,11,5,3,34,16,6,4,9,21,29,1.222,43,
-5,West Bromwich Albion,38,11,7,1,30,16,4,6,9,16,26,1.095,43,
-6,Bolton Wanderers,38,13,4,2,41,14,3,6,10,24,38,1.250,42,
-7,Sunderland,38,11,3,5,32,17,6,3,10,31,35,1.212,40,
-8,Chelsea,38,12,3,4,28,18,4,4,11,18,37,0.836,39,
-9,Bradford City,38,8,6,5,23,17,4,8,7,17,23,1.000,38,
-10,Sheffield United,38,11,4,4,36,19,5,1,13,27,41,1.050,37,
-11,Newcastle United,38,9,6,4,27,18,4,5,10,12,30,0.813,37,
-12,Burnley,38,10,4,5,43,20,2,8,9,18,33,1.151,36,FA Cup Winners
-13,Manchester City,38,9,3,7,28,23,5,5,9,23,30,0.962,36,
-14,Manchester United,38,8,4,7,27,23,7,2,10,25,39,0.839,36,
-15,Everton,38,8,7,4,32,18,4,4,11,14,37,0.836,35,
-16,Liverpool,38,8,4,7,27,25,6,3,10,19,37,0.742,35,
-17,Tottenham Hotspur,38,9,6,4,30,19,3,4,12,20,43,0.806,34,
-18,The Wednesday,38,8,4,7,34,34,5,4,10,19,36,0.757,34,
-19,Preston North End,38,9,4,6,39,31,3,2,14,13,38,0.754,30,Relegated
-20,Derby County,38,6,5,8,34,32,2,6,11,21,39,0.775,27,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Blackburn Rovers,38,20,11,7,78,42,1.857,36,51,,,,League Champions
+2,Aston Villa,38,19,6,13,65,50,1.300,15,44,,,,
+3,Middlesbrough,38,19,5,14,77,60,1.283,17,43,,,,
+4,Oldham Athletic,38,17,9,12,55,45,1.222,10,43,,,,
+5,West Bromwich Albion,38,15,13,10,46,42,1.095,4,43,,,,
+6,Bolton Wanderers,38,16,10,12,65,52,1.250,13,42,,,,
+7,Sunderland,38,17,6,15,63,52,1.212,11,40,,,,
+8,Chelsea,38,16,7,15,46,55,0.836,-9,39,,,,
+9,Bradford City,38,12,14,12,40,40,1.000,0,38,,,,
+10,Sheffield United,38,16,5,17,63,60,1.050,3,37,,,,
+11,Newcastle United,38,13,11,14,39,48,0.813,-9,37,,,,
+12,Burnley,38,12,12,14,61,53,1.151,8,36,,,,FA Cup Winners
+13,Manchester City,38,14,8,16,51,53,0.962,-2,36,,,,
+14,Manchester United,38,15,6,17,52,62,0.839,-10,36,,,,
+15,Everton,38,12,11,15,46,55,0.836,-9,35,,,,
+16,Liverpool,38,14,7,17,46,62,0.742,-16,35,,,,
+17,Tottenham Hotspur,38,12,10,16,50,62,0.806,-12,34,,,,
+18,The Wednesday,38,13,8,17,53,70,0.757,-17,34,,,,
+19,Preston North End,38,12,6,20,52,69,0.754,-17,30,,,,Relegated
+20,Derby County,38,8,11,19,55,71,0.775,-16,27,,,,Relegated

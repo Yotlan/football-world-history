@@ -1,21 +1,21 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Manchester United,38,14,4,1,47,18,8,4,7,25,22,1.800,52,League Champions
-2,Aston Villa,38,15,3,1,50,18,7,4,8,19,23,1.683,51,
-3,Sunderland,38,10,6,3,44,22,5,9,5,23,26,1.396,45,
-4,Everton,38,12,3,4,34,17,7,4,8,16,19,1.389,45,
-5,Bradford City,38,13,1,5,33,16,7,4,8,18,26,1.214,45,FA Cup Winners
-6,The Wednesday,38,10,5,4,24,15,7,3,9,23,33,0.979,42,
-7,Oldham Athletic,38,13,4,2,30,12,3,5,11,14,29,1.073,41,
-8,Newcastle United,38,8,7,4,37,18,7,3,9,24,25,1.419,40,
-9,Sheffield United,38,8,3,8,27,21,7,5,7,22,22,1.140,38,
-10,Woolwich Arsenal,38,9,6,4,24,14,4,6,9,17,35,0.837,38,
-11,Notts County,38,9,6,4,21,16,5,4,10,16,29,0.822,38,
-12,Blackburn Rovers,38,12,2,5,40,14,1,9,9,22,40,1.148,37,
-13,Liverpool,38,11,3,5,38,19,4,4,11,15,34,1.000,37,
-14,Preston North End,38,8,5,6,25,19,4,6,9,15,30,0.816,35,
-15,Tottenham Hotspur,38,10,5,4,40,23,3,1,15,12,40,0.825,32,
-16,Middlesbrough,38,9,5,5,31,21,2,5,12,18,42,0.778,32,
-17,Manchester City,38,7,5,7,26,26,2,8,9,17,32,0.741,31,
-18,Bury,38,8,9,2,27,18,1,2,16,16,53,0.606,29,
-19,Bristol City,38,8,4,7,23,21,3,1,15,20,45,0.652,27,Relegated
-20,Nottingham Forest,38,5,4,10,28,31,4,3,12,27,44,0.733,25,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Manchester United,38,22,8,8,72,40,1.800,32,52,,,,League Champions
+2,Aston Villa,38,22,7,9,69,41,1.683,28,51,,,,
+3,Sunderland,38,15,15,8,67,48,1.396,19,45,,,,
+4,Everton,38,19,7,12,50,36,1.389,14,45,,,,
+5,Bradford City,38,20,5,13,51,42,1.214,9,45,,,,FA Cup Winners
+6,The Wednesday,38,17,8,13,47,48,0.979,-1,42,,,,
+7,Oldham Athletic,38,16,9,13,44,41,1.073,3,41,,,,
+8,Newcastle United,38,15,10,13,61,43,1.419,18,40,,,,
+9,Sheffield United,38,15,8,15,49,43,1.140,6,38,,,,
+10,Woolwich Arsenal,38,13,12,13,41,49,0.837,-8,38,,,,
+11,Notts County,38,14,10,14,37,45,0.822,-8,38,,,,
+12,Blackburn Rovers,38,13,11,14,62,54,1.148,8,37,,,,
+13,Liverpool,38,15,7,16,53,53,1.000,0,37,,,,
+14,Preston North End,38,12,11,15,40,49,0.816,-9,35,,,,
+15,Tottenham Hotspur,38,13,6,19,52,63,0.825,-11,32,,,,
+16,Middlesbrough,38,11,10,17,49,63,0.778,-14,32,,,,
+17,Manchester City,38,9,13,16,43,58,0.741,-15,31,,,,
+18,Bury,38,9,11,18,43,71,0.606,-28,29,,,,
+19,Bristol City,38,11,5,22,43,66,0.652,-23,27,,,,Relegated
+20,Nottingham Forest,38,9,7,22,55,75,0.733,-20,25,,,,Relegated

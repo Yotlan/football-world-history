@@ -1,21 +1,21 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Sunderland,38,14,2,3,47,17,11,2,6,39,26,2.000,54,League Champions
-2,Aston Villa,38,13,4,2,57,21,6,8,5,29,31,1.654,50,FA Cup Winners
-3,The Wednesday,38,12,4,3,44,23,9,3,7,31,32,1.364,49,
-4,Manchester United,38,13,3,3,41,14,6,5,8,28,29,1.605,46,
-5,Blackburn Rovers,38,10,5,4,54,21,6,8,5,25,22,1.837,45,
-6,Manchester City,38,12,3,4,34,15,6,5,8,19,22,1.432,44,
-7,Derby County,38,10,2,7,40,29,7,6,6,29,37,1.045,42,
-8,Bolton Wanderers,38,10,6,3,36,20,6,4,9,26,43,0.984,42,
-9,Oldham Athletic,38,11,7,1,33,12,3,7,9,17,43,0.909,42,
-10,West Bromwich Albion,38,8,7,4,30,20,5,5,9,27,30,1.140,38,
-11,Everton,38,8,2,9,28,31,7,5,7,20,23,0.889,37,
-12,Liverpool,38,12,2,5,40,24,4,3,12,21,47,0.859,37,
-13,Bradford City,38,10,5,4,33,22,2,6,11,17,38,0.833,35,
-14,Newcastle United,38,8,5,6,30,23,5,3,11,17,24,1.000,34,
-15,Sheffield United,38,10,5,4,36,24,4,1,14,20,46,0.800,34,
-16,Middlesbrough,38,6,9,4,29,22,5,1,13,26,47,0.797,32,
-17,Tottenham Hotspur,38,9,3,7,28,25,3,3,13,17,47,0.625,30,
-18,Chelsea,38,7,2,10,29,40,4,4,11,22,33,0.699,28,
-19,Notts County,38,6,4,9,19,20,1,5,13,9,36,0.500,23,Relegated
-20,Woolwich Arsenal,38,1,8,10,11,31,2,4,13,15,43,0.351,18,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Sunderland,38,25,4,9,86,43,2.000,43,54,,,,League Champions
+2,Aston Villa,38,19,12,7,86,52,1.654,34,50,,,,FA Cup Winners
+3,The Wednesday,38,21,7,10,75,55,1.364,20,49,,,,
+4,Manchester United,38,19,8,11,69,43,1.605,26,46,,,,
+5,Blackburn Rovers,38,16,13,9,79,43,1.837,36,45,,,,
+6,Manchester City,38,18,8,12,53,37,1.432,16,44,,,,
+7,Derby County,38,17,8,13,69,66,1.045,3,42,,,,
+8,Bolton Wanderers,38,16,10,12,62,63,0.984,-1,42,,,,
+9,Oldham Athletic,38,14,14,10,50,55,0.909,-5,42,,,,
+10,West Bromwich Albion,38,13,12,13,57,50,1.140,7,38,,,,
+11,Everton,38,15,7,16,48,54,0.889,-6,37,,,,
+12,Liverpool,38,16,5,17,61,71,0.859,-10,37,,,,
+13,Bradford City,38,12,11,15,50,60,0.833,-10,35,,,,
+14,Newcastle United,38,13,8,17,47,47,1.000,0,34,,,,
+15,Sheffield United,38,14,6,18,56,70,0.800,-14,34,,,,
+16,Middlesbrough,38,11,10,17,55,69,0.797,-14,32,,,,
+17,Tottenham Hotspur,38,12,6,20,45,72,0.625,-27,30,,,,
+18,Chelsea,38,11,6,21,51,73,0.699,-22,28,,,,
+19,Notts County,38,7,9,22,28,56,0.500,-28,23,,,,Relegated
+20,Woolwich Arsenal,38,3,12,23,26,74,0.351,-48,18,,,,Relegated

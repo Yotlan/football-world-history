@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Newcastle United,42,19,1,1,64,20,6,5,10,32,38,1.655,56,League Champions
-2,Huddersfield Town,42,13,6,2,41,19,4,11,6,35,41,1.267,51,
-3,Sunderland,42,15,3,3,70,28,6,4,11,28,42,1.400,49,
-4,Bolton Wanderers,42,15,5,1,54,19,4,5,12,30,43,1.355,48,
-5,Burnley,42,15,4,2,55,30,4,5,12,36,50,1.138,47,
-6,West Ham United,42,9,6,6,50,36,10,2,9,36,34,1.229,46,
-7,Leicester City,42,13,4,4,58,33,4,8,9,27,37,1.214,46,
-8,Sheffield United,42,12,6,3,46,33,5,4,12,28,53,0.860,44,
-9,Liverpool,42,13,4,4,47,27,5,3,13,22,34,1.131,43,
-10,Aston Villa,42,11,4,6,51,34,7,3,11,30,49,0.976,43,
-11,Arsenal,42,12,5,4,47,30,5,4,12,30,56,0.895,43,
-12,Derby County,42,14,4,3,60,28,3,3,15,26,45,1.178,41,
-13,Tottenham Hotspur,42,11,4,6,48,33,5,5,11,28,45,0.974,41,
-14,Cardiff City[a],42,12,3,6,31,17,4,6,11,24,48,0.846,41,FA Cup Winners and Welsh Cup winners
-15,Manchester United,42,9,8,4,29,19,4,6,11,23,45,0.813,40,
-16,The Wednesday,42,15,3,3,49,29,0,6,15,26,63,0.815,39,
-17,Birmingham,42,13,3,5,36,17,4,1,16,28,56,0.877,38,
-18,Blackburn Rovers,42,9,5,7,40,40,6,3,12,37,56,0.802,38,
-19,Bury,42,8,5,8,43,38,4,7,10,25,39,0.883,36,
-20,Everton,42,10,6,5,35,30,2,4,15,29,60,0.711,34,
-21,Leeds United,42,9,7,5,43,31,2,1,18,26,57,0.784,30,Relegated
-22,West Bromwich Albion,42,10,4,7,47,33,1,4,16,18,53,0.756,30,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Newcastle United,42,25,6,11,96,58,1.655,38,56,,,,League Champions
+2,Huddersfield Town,42,17,17,8,76,60,1.267,16,51,,,,
+3,Sunderland,42,21,7,14,98,70,1.400,28,49,,,,
+4,Bolton Wanderers,42,19,10,13,84,62,1.355,22,48,,,,
+5,Burnley,42,19,9,14,91,80,1.138,11,47,,,,
+6,West Ham United,42,19,8,15,86,70,1.229,16,46,,,,
+7,Leicester City,42,17,12,13,85,70,1.214,15,46,,,,
+8,Sheffield United,42,17,10,15,74,86,0.860,-12,44,,,,
+9,Liverpool,42,18,7,17,69,61,1.131,8,43,,,,
+10,Aston Villa,42,18,7,17,81,83,0.976,-2,43,,,,
+11,Arsenal,42,17,9,16,77,86,0.895,-9,43,,,,
+12,Derby County,42,17,7,18,86,73,1.178,13,41,,,,
+13,Tottenham Hotspur,42,16,9,17,76,78,0.974,-2,41,,,,
+14,Cardiff City[a],42,16,9,17,55,65,0.846,-10,41,,,,FA Cup Winners andï¿½Welsh Cupï¿½winners
+15,Manchester United,42,13,14,15,52,64,0.813,-12,40,,,,
+16,The Wednesday,42,15,9,18,75,92,0.815,-17,39,,,,
+17,Birmingham,42,17,4,21,64,73,0.877,-9,38,,,,
+18,Blackburn Rovers,42,15,8,19,77,96,0.802,-19,38,,,,
+19,Bury,42,12,12,18,68,77,0.883,-9,36,,,,
+20,Everton,42,12,10,20,64,90,0.711,-26,34,,,,
+21,Leeds United,42,11,8,23,69,88,0.784,-19,30,,,,Relegated
+22,West Bromwich Albion,42,11,8,23,65,86,0.756,-21,30,,,,Relegated

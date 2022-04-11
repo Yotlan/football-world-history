@@ -1,19 +1,19 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Sunderland,34,12,3,2,32,14,7,3,7,18,21,1.429,44,League Champions
-2,Everton,34,11,2,4,31,11,6,5,6,22,24,1.514,41,
-3,Newcastle United,34,11,3,3,41,14,3,6,8,7,20,1.412,37,
-4,Blackburn Rovers,34,12,2,3,36,16,3,4,10,16,32,1.083,36,
-5,Nottingham Forest,34,11,4,2,32,13,2,5,10,11,30,1.000,35,
-6,Derby County,34,11,5,1,26,10,2,4,11,13,31,0.951,35,
-7,Bury,34,11,5,1,31,9,2,3,12,13,29,1.158,34,
-8,Aston Villa,34,9,5,3,27,13,4,3,10,15,27,1.050,34,
-9,The Wednesday,34,9,5,3,30,14,4,3,10,18,38,0.923,34,
-10,Sheffield United,34,10,5,2,38,13,3,2,12,15,35,1.104,33,FA Cup Winners
-11,Liverpool,34,8,3,6,28,16,2,9,6,14,22,1.105,32,
-12,Bolton Wanderers,34,10,6,1,38,17,2,2,13,13,39,0.911,32,
-13,Notts County,34,12,2,3,44,19,2,2,13,7,38,0.895,32,
-14,Wolverhampton Wanderers,34,12,3,2,32,13,1,3,13,14,44,0.807,32,
-15,Grimsby Town,34,11,3,3,33,16,2,3,12,11,44,0.733,32,
-16,Stoke,34,10,4,3,31,12,1,5,11,14,43,0.818,31,
-17,Small Heath,34,8,5,4,31,14,3,3,11,16,31,1.044,30,Relegated
-18,Manchester City,34,10,3,4,28,17,1,3,13,14,41,0.724,28,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Sunderland,34,19,6,9,50,35,1.429,15,44,,,,League Champions
+2,Everton,34,17,7,10,53,35,1.514,18,41,,,,
+3,Newcastle United,34,14,9,11,48,34,1.412,14,37,,,,
+4,Blackburn Rovers,34,15,6,13,52,48,1.083,4,36,,,,
+5,Nottingham Forest,34,13,9,12,43,43,1.000,0,35,,,,
+6,Derby County,34,13,9,12,39,41,0.951,-2,35,,,,
+7,Bury,34,13,8,13,44,38,1.158,6,34,,,,
+8,Aston Villa,34,13,8,13,42,40,1.050,2,34,,,,
+9,The Wednesday,34,13,8,13,48,52,0.923,-4,34,,,,
+10,Sheffield United,34,13,7,14,53,48,1.104,5,33,,,,
+11,Liverpool,34,10,12,12,42,38,1.105,4,32,,,,
+12,Bolton Wanderers,34,12,8,14,51,56,0.911,-5,32,,,,
+13,Notts County,34,14,4,16,51,57,0.895,-6,32,,,,
+14,Wolverhampton Wanderers,34,13,6,15,46,57,0.807,-11,32,,,,
+15,Grimsby Town,34,13,6,15,44,60,0.733,-16,32,,,,
+16,Stoke,34,11,9,14,45,55,0.818,-10,31,,,,
+17,Small Heath,34,11,8,15,47,45,1.044,2,30,,,,Re-elected
+18,Manchester City,34,11,6,17,42,58,0.724,-16,28,,,,Re-elected

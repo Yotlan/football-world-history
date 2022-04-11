@@ -1,19 +1,19 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,The Wednesday,34,12,3,2,31,7,7,1,9,23,29,1.500,42,League Champions
-2,Aston Villa,34,11,3,3,43,18,8,0,9,18,22,1.525,41,
-3,Sunderland,34,10,5,2,27,11,6,4,7,24,25,1.417,41,
-4,Sheffield United,34,11,0,6,36,22,6,5,6,22,22,1.318,39,
-5,Liverpool,34,11,3,3,48,21,6,1,10,20,28,1.388,38,
-6,Stoke,34,11,2,4,29,11,4,5,8,17,27,1.211,37,
-7,West Bromwich Albion,34,10,2,5,37,27,6,2,9,17,26,1.019,36,
-8,Bury,34,14,1,2,41,14,2,2,13,13,29,1.256,35,FA Cup Winners
-9,Derby County,34,13,2,2,34,11,3,1,13,16,36,1.064,35,
-10,Nottingham Forest,34,10,3,4,33,22,4,4,9,16,25,1.043,35,
-11,Wolverhampton Wanderers,34,12,2,3,34,17,2,3,12,14,40,0.842,33,
-12,Everton,34,10,2,5,28,18,3,4,10,17,29,0.957,32,
-13,Middlesbrough,34,10,3,4,27,16,4,1,12,14,34,0.820,32,
-14,Newcastle United,34,12,1,4,31,11,2,3,12,10,40,0.804,32,
-15,Notts County,34,8,5,4,25,16,4,2,11,16,33,0.837,31,
-16,Blackburn Rovers,34,9,2,6,27,24,3,3,11,17,39,0.698,29,
-17,Grimsby Town,34,6,5,6,28,22,2,4,11,15,40,0.694,25,Relegated
-18,Bolton Wanderers,34,6,2,9,18,20,2,1,14,19,53,0.507,19,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,The Wednesday,34,19,4,11,54,36,1.500,18,42,,,,League Champions
+2,Aston Villa,34,19,3,12,61,40,1.525,21,41,,,,
+3,Sunderland,34,16,9,9,51,36,1.417,15,41,,,,
+4,Sheffield United,34,17,5,12,58,44,1.318,14,39,,,,
+5,Liverpool,34,17,4,13,68,49,1.388,19,38,,,,
+6,Stoke,34,15,7,12,46,38,1.211,8,37,,,,
+7,West Bromwich Albion,34,16,4,14,54,53,1.019,1,36,,,,
+8,Bury,34,16,3,15,54,43,1.256,11,35,,,,
+9,Derby County,34,16,3,15,50,47,1.064,3,35,,,,
+10,Nottingham Forest,34,14,7,13,49,47,1.043,2,35,,,,FA Cup Winners
+11,Wolverhampton Wanderers,34,14,5,15,48,57,0.842,-9,33,,,,
+12,Everton,34,13,6,15,45,47,0.957,-2,32,,,,
+13,Middlesbrough,34,14,4,16,41,50,0.820,-9,32,,,,
+14,Newcastle United,34,14,4,16,41,51,0.804,-10,32,,,,
+15,Notts County,34,12,7,15,41,49,0.837,-8,31,,,,
+16,Blackburn Rovers,34,12,5,17,44,63,0.698,-19,29,,,,
+17,Grimsby Town,34,8,9,17,43,62,0.694,-19,25,,,,Relegated
+18,Bolton Wanderers,34,8,3,23,37,73,0.507,-36,19,,,,Relegated
