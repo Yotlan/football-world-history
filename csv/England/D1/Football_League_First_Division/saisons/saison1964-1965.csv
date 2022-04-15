@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Manchester United,42,16,4,1,52,13,10,5,6,37,26,2.282,61,"Participated in 1964–65 Inter-Cities Fairs Cup; League Champions, qualified for European Cup 1965–66 Preliminary round"
-2,Leeds United,42,16,3,2,53,23,10,6,5,30,29,1.596,61,
-3,Chelsea,42,15,2,4,48,19,9,6,6,41,35,1.648,56,League Cup Winners
-4,Everton,42,9,10,2,37,22,8,5,8,32,38,1.150,49,Participated in 1964–65 Inter-Cities Fairs Cup
-5,Nottingham Forest,42,10,7,4,45,33,7,6,8,26,34,1.060,47,
-6,Tottenham Hotspur,42,18,3,0,65,20,1,4,16,22,51,1.225,45,
-7,Liverpool,42,12,5,4,42,33,5,5,11,25,40,0.918,44,"FA Cup winners, qualified for UEFA Cup Winners' Cup 1965–66 First round[a]"
-8,Sheffield Wednesday,42,13,5,3,37,15,3,6,12,20,40,1.036,43,
-9,West Ham United,42,14,2,5,48,25,5,2,14,34,46,1.155,42,UEFA Cup Winners' Cup 1965–66 First round[b]
-10,Blackburn Rovers,42,12,2,7,46,33,4,8,9,37,46,1.051,42,
-11,Stoke City,42,11,4,6,40,27,5,6,10,27,39,1.015,42,
-12,Burnley,42,9,9,3,39,26,7,1,13,31,44,1.000,42,
-13,Arsenal,42,11,5,5,42,31,6,2,13,27,44,0.920,41,
-14,West Bromwich Albion,42,10,5,6,45,25,3,8,10,25,40,1.077,39,
-15,Sunderland,42,12,6,3,45,26,2,3,16,19,48,0.865,37,
-16,Aston Villa,42,14,1,6,36,24,2,4,15,21,58,0.695,37,
-17,Blackpool,42,9,7,5,41,28,3,4,14,26,50,0.859,35,
-18,Leicester City,42,9,6,6,43,36,2,7,12,26,49,0.812,35,
-19,Sheffield United,42,7,5,9,30,29,5,6,10,20,35,0.781,35,
-20,Fulham,42,10,5,6,44,32,1,7,13,16,46,0.769,34,
-21,Wolverhampton Wanderers,42,8,2,11,33,36,5,2,14,26,53,0.663,30,Relegated
-22,Birmingham City,42,6,8,7,36,40,2,3,16,28,56,0.667,27,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Manchester United,42,26,9,7,89,39,2.282,+50,61,,,,Participated in 1964-65 Inter-Cities Fairs Cup and League Champions and qualified for European Cup 1965-66 Preliminary round
+2,Leeds United,42,26,9,7,83,52,1.596,+31,61,,,,
+3,Chelsea,42,24,8,10,89,54,1.648,+35,56,,,,League Cup Winners
+4,Everton,42,17,15,10,69,60,1.150,+9,49,,,,Participated in 1964-65 Inter-Cities Fairs Cup
+5,Nottingham Forest,42,17,13,12,71,67,1.060,+4,47,,,,
+6,Tottenham Hotspur,42,19,7,16,87,71,1.225,+16,45,,,,
+7,Liverpool,42,17,10,15,67,73,0.918,-6,44,,,,FA Cup winners and qualified for UEFA Cup Winners` Cup 1965-66 First round
+8,Sheffield Wednesday,42,16,11,15,57,55,1.036,+2,43,,,,
+9,West Ham United,42,19,4,19,82,71,1.155,+11,42,,,, UEFA Cup Winners` Cup 1965-66 First round
+10,Blackburn Rovers,42,16,10,16,83,79,1.051,+4,42,,,,
+11,Stoke City,42,16,10,16,67,66,1.015,+1,42,,,,
+12,Burnley,42,16,10,16,70,70,1.000,+0,42,,,,
+13,Arsenal,42,17,7,18,69,75,0.920,-6,41,,,,
+14,West Bromwich Albion,42,13,13,16,70,65,1.077,+5,39,,,,
+15,Sunderland,42,14,9,19,64,74,0.865,-10,37,,,,
+16,Aston Villa,42,16,5,21,57,82,0.695,-25,37,,,,
+17,Blackpool,42,12,11,19,67,78,0.859,-11,35,,,,
+18,Leicester City,42,11,13,18,69,85,0.812,-16,35,,,,
+19,Sheffield United,42,12,11,19,50,64,0.781,-14,35,,,,
+20,Fulham,42,11,12,19,60,78,0.769,-18,34,,,,
+21,Wolverhampton Wanderers,42,13,4,25,59,89,0.663,-30,30,,,,Relegated
+22,Birmingham City,42,8,11,23,64,96,0.667,-32,27,,,,Relegated

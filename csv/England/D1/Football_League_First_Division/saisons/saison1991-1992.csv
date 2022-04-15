@@ -1,26 +1,23 @@
-Pos,"Team
-v
-t
-e",Pld,W,D,L,GF,GA,GD,Pts,Qualification or relegation
-1,Leeds United (C),42,22,16,4,74,37,37,82,Qualification for the UEFA Champions League first round
-2,Manchester United,42,21,15,6,63,33,30,78,Qualification for the UEFA Cup[a]
-3,Sheffield Wednesday,42,21,12,9,62,49,13,75,
-4,Arsenal,42,19,15,8,81,47,34,72,
-5,Manchester City,42,20,10,12,61,48,13,70,
-6,Liverpool,42,16,16,10,47,40,7,64,Qualification for the European Cup Winners' Cup first round
-7,Aston Villa,42,17,9,16,48,44,4,60,
-8,Nottingham Forest,42,16,11,15,60,58,2,59,
-9,Sheffield United,42,16,9,17,65,63,2,57,
-10,Crystal Palace,42,14,15,13,53,61,?8,57,
-11,Queens Park Rangers,42,12,18,12,48,47,1,54,
-12,Everton,42,13,14,15,52,51,1,53,
-13,Wimbledon,42,13,14,15,53,53,0,53,
-14,Chelsea,42,13,14,15,50,60,?10,53,
-15,Tottenham Hotspur,42,15,7,20,58,63,?5,52,
-16,Southampton,42,14,10,18,39,55,?16,52,
-17,Oldham Athletic,42,14,9,19,63,67,?4,51,
-18,Norwich City,42,11,12,19,47,63,?16,45,
-19,Coventry City,42,11,11,20,35,44,?9,44,
-20,Luton Town (R),42,10,12,20,39,71,?32,42,Relegation to the Football League First Division[b]
-21,Notts County (R),42,10,10,22,40,62,?22,40,
-22,West Ham United (R),42,9,11,22,37,59,?22,38,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Leeds United,42,22,16,4,74,37,2,+37,82,,,,League Champions and Qualification for the UEFA Champions League first round
+2,Manchester United,42,21,15,6,63,33,1.90909090909091,+30,78,,,,Qualification for the UEFA Cup
+3,Sheffield Wednesday,42,21,12,9,62,49,1.26530612244898,+13,75,,,,Qualification for the UEFA Cup
+4,Arsenal,42,19,15,8,81,47,1.72340425531915,+34,72,,,,
+5,Manchester City,42,20,10,12,61,48,1.27083333333333,+13,70,,,,
+6,Liverpool,42,16,16,10,47,40,1.175,+7,64,,,,Qualification for the European Cup Winners` Cup first round
+7,Aston Villa,42,17,9,16,48,44,1.09090909090909,+4,60,,,,
+8,Nottingham Forest,42,16,11,15,60,58,1.03448275862069,+2,59,,,,
+9,Sheffield United,42,16,9,17,65,63,1.03174603174603,+2,57,,,,
+10,Crystal Palace,42,14,15,13,53,61,0.868852459016393,-8,57,,,,
+11,Queens Park Rangers,42,12,18,12,48,47,1.02127659574468,+1,54,,,,
+12,Everton,42,13,14,15,52,51,1.01960784313725,+1,53,,,,
+13,Wimbledon,42,13,14,15,53,53,1,+0,53,,,,
+14,Chelsea,42,13,14,15,50,60,0.833333333333333,-10,53,,,,
+15,Tottenham Hotspur,42,15,7,20,58,63,0.920634920634921,-5,52,,,,
+16,Southampton,42,14,10,18,39,55,0.709090909090909,-16,52,,,,
+17,Oldham Athletic,42,14,9,19,63,67,0.940298507462687,-4,51,,,,
+18,Norwich City,42,11,12,19,47,63,0.746031746031746,-16,45,,,,
+19,Coventry City,42,11,11,20,35,44,0.795454545454545,-9,44,,,,
+20,Luton Town,42,10,12,20,39,71,0.549295774647887,-32,42,,,,Relegation to the Football League First Division
+21,Notts County,42,10,10,22,40,62,0.645161290322581,-22,40,,,,Relegation to the Football League First Division
+22,West Ham United,42,9,11,22,37,59,0.627118644067797,-22,38,,,,Relegation to the Football League First Division

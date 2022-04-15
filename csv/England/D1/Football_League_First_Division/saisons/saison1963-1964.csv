@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Liverpool,42,16,0,5,60,18,10,5,6,32,27,2.044,57,"League Champions, qualified for European Cup 1964–65 Preliminary round"
-2,Manchester United,42,15,3,3,54,19,8,4,9,36,43,1.452,53,
-3,Everton,42,14,4,3,53,26,7,6,8,31,38,1.313,52,
-4,Tottenham Hotspur,42,13,3,5,54,31,9,4,8,43,50,1.198,51,
-5,Chelsea,42,12,3,6,36,24,8,7,6,36,32,1.286,50,
-6,Sheffield Wednesday,42,15,3,3,50,24,4,8,9,34,43,1.254,49,Participated in Inter-Cities Fairs Cup 1963–64
-7,Blackburn Rovers,42,10,4,7,44,28,8,6,7,45,37,1.369,46,
-8,Arsenal,42,10,7,4,56,37,7,4,10,34,45,1.098,45,Participated in Inter-Cities Fairs Cup 1963–64
-9,Burnley,42,14,3,4,46,23,3,7,11,25,41,1.109,44,
-10,West Bromwich Albion,42,9,6,6,43,35,7,5,9,27,26,1.148,43,
-11,Leicester City,42,9,4,8,33,27,7,7,7,28,31,1.052,43,League Cup Winners
-12,Sheffield United,42,10,6,5,35,22,6,5,10,26,42,0.953,43,
-13,Nottingham Forest,42,9,5,7,34,24,7,4,10,30,44,0.941,41,
-14,West Ham United,42,8,7,6,45,38,6,5,10,24,36,0.932,40,"FA Cup winners, qualified for UEFA Cup Winners' Cup 1964–65 First round"
-15,Fulham,42,11,8,2,45,23,2,5,14,13,42,0.892,39,
-16,Wolverhampton Wanderers,42,6,9,6,36,34,6,6,9,34,46,0.875,39,
-17,Stoke City,42,9,6,6,49,33,5,4,12,28,45,0.987,38,
-18,Blackpool,42,8,6,7,26,29,5,3,13,26,44,0.712,35,
-19,Aston Villa,42,8,6,7,35,29,3,6,12,27,42,0.873,34,
-20,Birmingham City,42,7,7,7,33,32,4,0,17,21,60,0.587,29,
-21,Bolton Wanderers,42,6,5,10,30,35,4,3,14,18,45,0.600,28,Relegated
-22,Ipswich Town,42,9,3,9,38,45,0,4,17,18,76,0.463,25,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Liverpool,42,26,5,11,92,45,2.044,+47,57,,,,League Champions and qualified for European Cup 1964-65 Preliminary round
+2,Manchester United,42,23,7,12,90,62,1.452,+28,53,,,,
+3,Everton,42,21,10,11,84,64,1.313,+20,52,,,,
+4,Tottenham Hotspur,42,22,7,13,97,81,1.198,+16,51,,,,
+5,Chelsea,42,20,10,12,72,56,1.286,+16,50,,,,
+6,Sheffield Wednesday,42,19,11,12,84,67,1.254,+17,49,,,,Participated in Inter-Cities Fairs Cup 1963-64
+7,Blackburn Rovers,42,18,10,14,89,65,1.369,+24,46,,,,
+8,Arsenal,42,17,11,14,90,82,1.098,+8,45,,,,Participated in Inter-Cities Fairs Cup 1963-64
+9,Burnley,42,17,10,15,71,64,1.109,+7,44,,,,
+10,West Bromwich Albion,42,16,11,15,70,61,1.148,+9,43,,,,
+11,Leicester City,42,16,11,15,61,58,1.052,+3,43,,,,League Cup Winners
+12,Sheffield United,42,16,11,15,61,64,0.953,-3,43,,,,
+13,Nottingham Forest,42,16,9,17,64,68,0.941,-4,41,,,,
+14,West Ham United,42,14,12,16,69,74,0.932,-5,40,,,,FA Cup winners and qualified for UEFA Cup Winners` Cup 1964-65 First round
+15,Fulham,42,13,13,16,58,65,0.892,-7,39,,,,
+16,Wolverhampton Wanderers,42,12,15,15,70,80,0.875,-10,39,,,,
+17,Stoke City,42,14,10,18,77,78,0.987,-1,38,,,,
+18,Blackpool,42,13,9,20,52,73,0.712,-21,35,,,,
+19,Aston Villa,42,11,12,19,62,71,0.873,-9,34,,,,
+20,Birmingham City,42,11,7,24,54,92,0.587,-38,29,,,,
+21,Bolton Wanderers,42,10,8,24,48,80,0.600,-32,28,,,,Relegated
+22,Ipswich Town,42,9,7,26,56,121,0.463,-65,25,,,,Relegated

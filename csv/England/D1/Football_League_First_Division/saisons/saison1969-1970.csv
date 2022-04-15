@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Everton,42,17,3,1,46,19,12,5,4,26,15,2.118,66,"League Champions, qualified for European Cup 1970–71 First round"
-2,Leeds United,42,15,4,2,50,19,6,11,4,34,30,1.714,57,
-3,Chelsea,42,13,7,1,36,18,8,6,7,34,32,1.400,55,"FA Cup winners, qualified for UEFA Cup Winners' Cup 1970–71 First round"
-4,Derby County,42,15,3,3,45,14,7,6,8,19,23,1.730,53,
-5,Liverpool,42,10,7,4,34,20,10,4,7,31,22,1.548,51,Participated in the 1969–70 Inter-Cities Fairs Cup
-6,Coventry City,42,9,6,6,35,28,10,5,6,23,20,1.208,49,
-7,Newcastle United,42,14,2,5,42,16,3,11,7,15,19,1.629,47,Participated in the 1969–70 Inter-Cities Fairs Cup[a]
-8,Manchester United,42,8,9,4,37,27,6,8,7,29,34,1.082,45,
-9,Stoke City,42,10,7,4,31,23,5,8,8,25,29,1.077,45,
-10,Manchester City,42,8,6,7,25,22,8,5,8,30,26,1.146,43,UEFA Cup Winners' Cup 1970–71 First round[b]
-11,Tottenham Hotspur,42,11,2,8,27,21,6,7,8,27,34,0.982,43,
-12,Arsenal,42,7,10,4,29,23,5,8,8,22,26,1.041,42,Winners of the 1969–70 Inter-Cities Fairs Cup[c]
-13,Wolverhampton Wanderers,42,8,8,5,30,23,4,8,9,25,34,0.965,40,
-14,Burnley,42,7,7,7,33,29,5,8,8,23,32,0.918,39,
-15,Nottingham Forest,42,8,9,4,28,28,2,9,10,22,43,0.704,38,
-16,West Bromwich Albion,42,10,6,5,39,25,4,3,14,19,41,0.879,37,
-17,West Ham United,42,8,8,5,28,21,4,4,13,23,39,0.850,36,
-18,Ipswich Town,42,9,5,7,23,20,1,6,14,17,43,0.635,31,
-19,Southampton,42,3,12,6,24,27,3,5,13,22,40,0.687,29,Participated in the 1969–70 Inter-Cities Fairs Cup
-20,Crystal Palace,42,5,6,10,20,36,1,9,11,14,32,0.500,27,
-21,Sunderland,42,4,11,6,17,24,2,3,16,13,44,0.441,26,Relegated
-22,Sheffield Wednesday,42,6,5,10,23,27,2,4,15,17,44,0.563,25,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Everton,42,29,8,5,72,34,2.118,+38,66,,,,League Champions and qualified for European Cup 1970-71 First round
+2,Leeds United,42,21,15,6,84,49,1.714,+35,57,,,,
+3,Chelsea,42,21,13,8,70,50,1.400,+20,55,,,,FA Cup winners and qualified for UEFA Cup Winners` Cup 1970-71 First round
+4,Derby County,42,22,9,11,64,37,1.730,+27,53,,,,
+5,Liverpool,42,20,11,11,65,42,1.548,+23,51,,,,Participated in the 1969-70 Inter-Cities Fairs Cup
+6,Coventry City,42,19,11,12,58,48,1.208,+10,49,,,,
+7,Newcastle United,42,17,13,12,57,35,1.629,+22,47,,,,Participated in the 1969-70 Inter-Cities Fairs Cup
+8,Manchester United,42,14,17,11,66,61,1.082,+5,45,,,,
+9,Stoke City,42,15,15,12,56,52,1.077,+4,45,,,,
+10,Manchester City,42,16,11,15,55,48,1.146,+7,43,,,,UEFA Cup Winners` Cup 1970-71 First round
+11,Tottenham Hotspur,42,17,9,16,54,55,0.982,-1,43,,,,
+12,Arsenal,42,12,18,12,51,49,1.041,+2,42,,,,Winners of the 1969-70 Inter-Cities Fairs Cup
+13,Wolverhampton Wanderers,42,12,16,14,55,57,0.965,-2,40,,,,
+14,Burnley,42,12,15,15,56,61,0.918,-5,39,,,,
+15,Nottingham Forest,42,10,18,14,50,71,0.704,-21,38,,,,
+16,West Bromwich Albion,42,14,9,19,58,66,0.879,-8,37,,,,
+17,West Ham United,42,12,12,18,51,60,0.850,-9,36,,,,
+18,Ipswich Town,42,10,11,21,40,63,0.635,-23,31,,,,
+19,Southampton,42,6,17,19,46,67,0.687,-21,29,,,,Participated in the 1969-70 Inter-Cities Fairs Cup
+20,Crystal Palace,42,6,15,21,34,68,0.500,-34,27,,,,
+21,Sunderland,42,6,14,22,30,68,0.441,-38,26,,,,Relegated
+22,Sheffield Wednesday,42,8,9,25,40,71,0.563,-31,25,,,,Relegated

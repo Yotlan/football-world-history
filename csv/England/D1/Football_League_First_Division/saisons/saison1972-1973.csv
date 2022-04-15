@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Liverpool,42,17,3,1,45,19,8,7,6,27,23,1.714,60,European Cup
-2,Arsenal,42,14,5,2,31,14,9,6,6,26,29,1.326,57[a],
-3,Leeds United,42,15,4,2,45,13,6,7,8,26,32,1.578,53,UEFA Cup
-4,Ipswich Town,42,10,7,4,34,20,7,7,7,21,25,1.222,48,
-5,Wolverhampton Wanderers,42,13,3,5,43,23,5,8,8,23,31,1.222,47,
-6,West Ham United,42,12,5,4,45,25,5,7,9,22,28,1.264,46,
-7,Derby County,42,15,3,3,43,18,4,5,12,13,36,1.037,46,
-8,Tottenham Hotspur,42,10,5,6,33,23,6,8,7,25,25,1.208,45,UEFA Cup[b]
-9,Newcastle United,42,12,6,3,35,19,4,7,10,25,32,1.176,45,
-10,Birmingham City,42,11,7,3,39,22,4,5,12,14,32,0.981,42,
-11,Manchester City,42,12,4,5,36,20,3,7,11,21,40,0.950,41,
-12,Chelsea,42,9,6,6,30,22,4,8,9,19,29,0.961,40,
-13,Southampton,42,8,11,2,26,17,3,7,11,21,35,0.904,40,
-14,Sheffield United,42,11,4,6,28,18,4,6,11,23,41,0.864,40,
-15,Stoke City,42,11,8,2,38,17,3,2,16,23,39,1.089,38,
-16,Leicester City,42,7,9,5,23,18,3,8,10,17,28,0.870,37,
-17,Everton,42,9,5,7,27,21,4,6,11,14,28,0.837,37,
-18,Manchester United,42,9,7,5,24,19,3,6,12,20,41,0.733,37,
-19,Coventry City,42,9,5,7,27,24,4,4,13,13,31,0.727,35,
-20,Norwich City,42,7,9,5,22,19,4,1,16,14,44,0.571,32,
-21,Crystal Palace,42,7,7,7,25,21,2,5,14,16,37,0.707,30,Relegated
-22,West Bromwich Albion,42,8,7,6,25,24,1,3,17,13,38,0.613,28,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Liverpool,42,25,10,7,72,42,1.714,+30,60,,,,League Champions and European Cup
+2,Arsenal,42,23,11,8,57,43,1.326,+14,57,,,,
+3,Leeds United,42,21,11,10,71,45,1.578,+26,53,,,,UEFA Cup
+4,Ipswich Town,42,17,14,11,55,45,1.222,+10,48,,,,UEFA Cup
+5,Wolverhampton Wanderers,42,18,11,13,66,54,1.222,+12,47,,,,UEFA Cup
+6,West Ham United,42,17,12,13,67,53,1.264,+14,46,,,,
+7,Derby County,42,19,8,15,56,54,1.037,+2,46,,,,
+8,Tottenham Hotspur,42,16,13,13,58,48,1.208,+10,45,,,,UEFA Cup 
+9,Newcastle United,42,16,13,13,60,51,1.176,+9,45,,,,
+10,Birmingham City,42,15,12,15,53,54,0.981,-1,42,,,,
+11,Manchester City,42,15,11,16,57,60,0.950,-3,41,,,,
+12,Chelsea,42,13,14,15,49,51,0.961,-2,40,,,,
+13,Southampton,42,11,18,13,47,52,0.904,-5,40,,,,
+14,Sheffield United,42,15,10,17,51,59,0.864,-8,40,,,,
+15,Stoke City,42,14,10,18,61,56,1.089,+5,38,,,,
+16,Leicester City,42,10,17,15,40,46,0.870,-6,37,,,,
+17,Everton,42,13,11,18,41,49,0.837,-8,37,,,,
+18,Manchester United,42,12,13,17,44,60,0.733,-16,37,,,,
+19,Coventry City,42,13,9,20,40,55,0.727,-15,35,,,,
+20,Norwich City,42,11,10,21,36,63,0.571,-27,32,,,,
+21,Crystal Palace,42,9,12,21,41,58,0.707,-17,30,,,,Relegated
+22,West Bromwich Albion,42,9,10,23,38,62,0.613,-24,28,,,,Relegated

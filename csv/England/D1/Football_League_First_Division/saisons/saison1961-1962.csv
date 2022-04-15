@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Ipswich Town,42,17,2,2,58,28,7,6,8,35,39,1.388,56,"League Champions, qualified for European Cup 1962–63 Preliminary round"
-2,Burnley,42,14,4,3,57,26,7,7,7,44,41,1.507,53,
-3,Tottenham Hotspur,42,14,4,3,59,34,7,6,8,29,35,1.275,52,"FA Cup winners, qualified for UEFA Cup Winners' Cup 1962–63 First round"
-4,Everton,42,17,2,2,64,21,3,9,9,24,33,1.630,51,
-5,Sheffield United,42,13,5,3,37,23,6,4,11,24,46,0.884,47,
-6,Sheffield Wednesday,42,14,4,3,47,23,6,2,13,25,35,1.241,46,Participated in 1961–62 Inter-Cities Fairs Cup
-7,Aston Villa,42,13,5,3,45,20,5,3,13,20,36,1.161,44,
-8,West Ham United,42,11,6,4,49,37,6,4,11,27,45,0.927,44,
-9,West Bromwich Albion,42,10,7,4,50,23,5,6,10,33,44,1.239,43,
-10,Arsenal,42,9,6,6,39,31,7,5,9,32,41,0.986,43,
-11,Bolton Wanderers,42,11,7,3,35,22,5,3,13,27,44,0.939,42,
-12,Manchester City,42,11,3,7,46,38,6,4,11,32,43,0.963,41,
-13,Blackpool,42,10,4,7,41,30,5,7,9,29,45,0.933,41,
-14,Leicester City,42,12,2,7,38,27,5,4,12,34,44,1.014,40,
-15,Manchester United,42,10,3,8,44,31,5,6,10,28,44,0.960,39,
-16,Blackburn Rovers,42,10,6,5,33,22,4,5,12,17,36,0.862,39,
-17,Birmingham City,42,9,6,6,37,35,5,4,12,28,46,0.802,38,Participated in 1961–62 Inter-Cities Fairs Cup
-18,Wolverhampton Wanderers,42,8,7,6,38,34,5,3,13,35,52,0.849,36,
-19,Nottingham Forest,42,12,4,5,39,23,1,6,14,24,56,0.797,36,Participated in 1961–62 Inter-Cities Fairs Cup
-20,Fulham,42,8,3,10,38,34,5,4,12,28,40,0.892,33,
-21,Cardiff City,42,6,9,6,30,33,3,5,13,20,48,0.617,32,Relegated
-22,Chelsea,42,7,7,7,34,29,2,3,16,29,65,0.670,28,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Ipswich Town,42,24,8,10,93,67,1.388,+26,56,,,,League Champions and qualified for European Cup 1962-63 Preliminary round
+2,Burnley,42,21,11,10,101,67,1.507,+34,53,,,,
+3,Tottenham Hotspur,42,21,10,11,88,69,1.275,+19,52,,,,FA Cup winners and qualified forUEFA Cup Winners` Cup 1962-63 First round
+4,Everton,42,20,11,11,88,54,1.630,+34,51,,,,
+5,Sheffield United,42,19,9,14,61,69,0.884,-8,47,,,,
+6,Sheffield Wednesday,42,20,6,16,72,58,1.241,+14,46,,,,Participated in 1961-62 Inter-Cities Fairs Cup
+7,Aston Villa,42,18,8,16,65,56,1.161,+9,44,,,,
+8,West Ham United,42,17,10,15,76,82,0.927,-6,44,,,,
+9,West Bromwich Albion,42,15,13,14,83,67,1.239,+16,43,,,,
+10,Arsenal,42,16,11,15,71,72,0.986,-1,43,,,,
+11,Bolton Wanderers,42,16,10,16,62,66,0.939,-4,42,,,,
+12,Manchester City,42,17,7,18,78,81,0.963,-3,41,,,,
+13,Blackpool,42,15,11,16,70,75,0.933,-5,41,,,,
+14,Leicester City,42,17,6,19,72,71,1.014,+1,40,,,,
+15,Manchester United,42,15,9,18,72,75,0.960,-3,39,,,,
+16,Blackburn Rovers,42,14,11,17,50,58,0.862,-8,39,,,,
+17,Birmingham City,42,14,10,18,65,81,0.802,-16,38,,,,Participated in 1961-62 Inter-Cities Fairs Cup
+18,Wolverhampton Wanderers,42,13,10,19,73,86,0.849,-13,36,,,,
+19,Nottingham Forest,42,13,10,19,63,79,0.797,-16,36,,,,Participated in 1961-62 Inter-Cities Fairs Cup
+20,Fulham,42,13,7,22,66,74,0.892,-8,33,,,,
+21,Cardiff City,42,9,14,19,50,81,0.617,-31,32,,,,Relegated
+22,Chelsea,42,9,10,23,63,94,0.670,-31,28,,,,Relegated

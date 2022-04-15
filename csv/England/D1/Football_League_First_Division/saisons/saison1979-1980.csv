@@ -1,23 +1,23 @@
-Pos,Team,Pld,W,D,L,GF,GA,GD,Pts,Qualification or relegation
-1,Liverpool (C),42,25,10,7,81,30,51,60,Qualification for the European Cup first round
-2,Manchester United,42,24,10,8,65,35,30,58,Qualification for the UEFA Cup
-3,Ipswich Town,42,22,9,11,68,39,29,53,
-4,Arsenal,42,18,16,8,52,36,16,52,
-5,Nottingham Forest,42,20,8,14,63,43,20,48,Qualification for the European Cup first round[a]
-6,Wolverhampton Wanderers,42,19,9,14,58,47,11,47,Qualification for the UEFA Cup[b]
-7,Aston Villa,42,16,14,12,51,50,1,46,
-8,Southampton,42,18,9,15,65,53,12,45,
-9,Middlesbrough,42,16,12,14,50,44,6,44,
-10,West Bromwich Albion,42,11,19,12,54,50,4,41,
-11,Leeds United,42,13,14,15,46,50,?4,40,
-12,Norwich City,42,13,14,15,58,66,?8,40,
-13,Crystal Palace,42,12,16,14,41,50,?9,40,
-14,Tottenham Hotspur,42,15,10,17,52,62,?10,40,
-15,Coventry City,42,16,7,19,56,66,?10,39,
-16,Brighton & Hove Albion,42,11,15,16,47,57,?10,37,
-17,Manchester City,42,12,13,17,43,66,?23,37,
-18,Stoke City,42,13,10,19,44,58,?14,36,
-19,Everton,42,9,17,16,43,51,?8,35,
-20,Bristol City (R),42,9,13,20,37,66,?29,31,Relegation to the Second Division
-21,Derby County (R),42,11,8,23,47,67,?20,30,
-22,Bolton Wanderers (R),42,5,15,22,38,73,?35,25,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Liverpool,42,25,10,7,81,30,2.7,+51,60,,,,League Champions and Qualification for the European Cup first round
+2,Manchester United,42,24,10,8,65,35,1.85714285714286,+30,58,,,,Qualification for the UEFA Cup
+3,Ipswich Town,42,22,9,11,68,39,1.74358974358974,+29,53,,,,Qualification for the UEFA Cup
+4,Arsenal,42,18,16,8,52,36,1.44444444444444,+16,52,,,,
+5,Nottingham Forest,42,20,8,14,63,43,1.46511627906977,+20,48,,,,Qualification for the European Cup first round
+6,Wolverhampton Wanderers,42,19,9,14,58,47,1.23404255319149,+11,47,,,,Qualification for the UEFA Cup
+7,Aston Villa,42,16,14,12,51,50,1.02,+1,46,,,,
+8,Southampton,42,18,9,15,65,53,1.22641509433962,+12,45,,,,
+9,Middlesbrough,42,16,12,14,50,44,1.13636363636364,+6,44,,,,
+10,West Bromwich Albion,42,11,19,12,54,50,1.08,+4,41,,,,
+11,Leeds United,42,13,14,15,46,50,0.92,-4,40,,,,
+12,Norwich City,42,13,14,15,58,66,0.878787878787879,-8,40,,,,
+13,Crystal Palace,42,12,16,14,41,50,0.82,-9,40,,,,
+14,Tottenham Hotspur,42,15,10,17,52,62,0.838709677419355,-10,40,,,,
+15,Coventry City,42,16,7,19,56,66,0.848484848484848,-10,39,,,,
+16,Brighton & Hove Albion,42,11,15,16,47,57,0.824561403508772,-10,37,,,,
+17,Manchester City,42,12,13,17,43,66,0.651515151515152,-23,37,,,,
+18,Stoke City,42,13,10,19,44,58,0.758620689655172,-14,36,,,,
+19,Everton,42,9,17,16,43,51,0.843137254901961,-8,35,,,,
+20,Bristol City,42,9,13,20,37,66,0.560606060606061,-29,31,,,,Relegation to the Second Division
+21,Derby County,42,11,8,23,47,67,0.701492537313433,-20,30,,,,Relegation to the Second Division
+22,Bolton Wanderers,42,5,15,22,38,73,0.520547945205479,-35,25,,,,Relegation to the Second Division

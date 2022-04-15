@@ -1,26 +1,23 @@
-Pos,"Team
-v
-t
-e",Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Manchester United (C),42,17,4,0,51,13,7,8,6,33,32,1.867,60,Qualified for European Cup
-2,Nottingham Forest,42,16,4,1,41,13,7,6,8,23,28,1.561,56,
-3,Tottenham Hotspur,42,15,3,3,44,21,9,5,7,27,27,1.479,56,"FA Cup winners, qualified for Cup Winners' Cup"
-4,Leeds United,42,15,4,2,41,17,7,7,7,21,25,1.476,55,1967-68 Inter-Cities Fairs Cup
-5,Liverpool,42,12,7,2,36,17,7,6,8,28,30,1.362,51,
-6,Everton,42,11,4,6,39,22,8,6,7,26,24,1.413,48,
-7,Arsenal,42,11,6,4,32,20,5,8,8,26,27,1.234,46,
-8,Leicester City,42,12,4,5,47,28,6,4,11,31,43,1.099,44,
-9,Chelsea,42,7,9,5,33,29,8,5,8,34,33,1.081,44,
-10,Sheffield United,42,11,5,5,34,22,5,5,11,18,37,0.881,42,
-11,Sheffield Wednesday,42,9,7,5,39,19,5,6,10,17,28,1.191,41,
-12,Stoke City,42,11,5,5,40,21,6,2,13,23,37,1.086,41,
-13,West Bromwich Albion,42,11,1,9,40,28,5,6,10,37,45,1.055,39,1967-68 Inter-Cities Fairs Cup
-14,Burnley,42,11,4,6,43,28,4,5,12,23,48,0.868,39,
-15,Manchester City,42,8,9,4,27,25,4,6,11,16,27,0.827,39,
-16,West Ham United,42,8,6,7,40,31,6,2,13,40,53,0.952,36,
-17,Sunderland,42,12,3,6,39,26,2,5,14,19,46,0.806,36,
-18,Fulham,42,8,7,6,49,34,3,5,13,22,49,0.855,34,
-19,Southampton,42,10,3,8,49,41,4,3,14,25,51,0.804,34,
-20,Newcastle United,42,9,5,7,24,27,3,4,14,15,54,0.481,33,
-21,Aston Villa,42,7,5,9,30,33,4,2,15,24,52,0.635,29,Relegated
-22,Blackpool,42,1,5,15,18,36,5,4,12,23,40,0.539,21,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Manchester United,42,24,12,6,84,45,1.867,+39,60,,,,League Champions and Qualified for European Cup
+2,Nottingham Forest,42,23,10,9,64,41,1.561,+23,56,,,,
+3,Tottenham Hotspur,42,24,8,10,71,48,1.479,+23,56,,,,FA Cup winners and qualified for Cup Winners` Cup
+4,Leeds United,42,22,11,9,62,42,1.476,+20,55,,,,1967-68 Inter-Cities Fairs Cup
+5,Liverpool,42,19,13,10,64,47,1.362,+17,51,,,,1967-68 Inter-Cities Fairs Cup
+6,Everton,42,19,10,13,65,46,1.413,+19,48,,,,
+7,Arsenal,42,16,14,12,58,47,1.234,+11,46,,,,
+8,Leicester City,42,18,8,16,78,71,1.099,+7,44,,,,
+9,Chelsea,42,15,14,13,67,62,1.081,+5,44,,,,
+10,Sheffield United,42,16,10,16,52,59,0.881,-7,42,,,,
+11,Sheffield Wednesday,42,14,13,15,56,47,1.191,+9,41,,,,
+12,Stoke City,42,17,7,18,63,58,1.086,+5,41,,,,
+13,West Bromwich Albion,42,16,7,19,77,73,1.055,+4,39,,,,1967-68 Inter-Cities Fairs Cup
+14,Burnley,42,15,9,18,66,76,0.868,-10,39,,,,1967-68 Inter-Cities Fairs Cup
+15,Manchester City,42,12,15,15,43,52,0.827,-9,39,,,,
+16,West Ham United,42,14,8,20,80,84,0.952,-4,36,,,,
+17,Sunderland,42,14,8,20,58,72,0.806,-14,36,,,,
+18,Fulham,42,11,12,19,71,83,0.855,-12,34,,,,
+19,Southampton,42,14,6,22,74,92,0.804,-18,34,,,,
+20,Newcastle United,42,12,9,21,39,81,0.481,-42,33,,,,
+21,Aston Villa,42,11,7,24,54,85,0.635,-31,29,,,,Relegated
+22,Blackpool,42,6,9,27,41,76,0.539,-35,21,,,,Relegated
