@@ -22,6 +22,7 @@ To have all the first division of england football since his creation in 1888, y
 ## AUTHORS
 - Yotlan LE CROM (<https://github.com/Yotlan>)
 - Endy YU (<https://github.com/endyappel>)
+- Samuel PENAULT (<https://github.com/Samuel-Penault>)
 
 ## LICENSES
 - CC BY-NC-SA 4.0 (FBREF from Sports Reference)
