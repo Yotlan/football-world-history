@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Manchester United,42,14,4,3,55,25,14,4,3,48,29,1.907,64,"League Champions, qualified for 1957–58 European Cup: Preliminary Round"
-2,Tottenham Hotspur,42,15,4,2,70,24,7,8,6,34,32,1.857,56,
-3,Preston North End,42,15,4,2,50,19,8,6,7,34,37,1.500,56,
-4,Blackpool,42,14,3,4,55,26,8,6,7,38,39,1.431,53,
-5,Arsenal,42,12,5,4,45,21,9,3,9,40,48,1.232,50,
-6,Wolverhampton Wanderers,42,17,2,2,70,29,3,6,12,24,41,1.343,48,
-7,Burnley,42,14,5,2,41,21,4,5,12,15,29,1.120,46,
-8,Leeds United,42,10,8,3,42,18,5,6,10,30,45,1.143,44,
-9,Bolton Wanderers,42,13,6,2,42,23,3,6,12,23,42,1.000,44,
-10,Aston Villa,42,10,8,3,45,25,4,7,10,20,30,1.182,43,FA Cup winners
-11,West Bromwich Albion,42,8,8,5,31,25,6,6,9,28,36,0.967,42,
-12,Birmingham City,42,12,5,4,52,25,3,4,14,17,44,1.000,39,Participated in 1955–58 Inter-Cities Fairs Cup
-13,Chelsea,42,7,8,6,43,36,6,5,10,30,37,1.000,39,
-14,Sheffield Wednesday,42,14,3,4,55,29,2,3,16,27,59,0.932,38,
-15,Everton,42,10,5,6,34,28,4,5,12,27,51,0.772,38,
-16,Luton Town,42,10,4,7,32,26,4,5,12,26,50,0.763,37,
-17,Newcastle United,42,10,5,6,43,31,4,3,14,24,56,0.770,36,
-18,Manchester City,42,10,2,9,48,42,3,7,11,30,46,0.886,35,
-19,Portsmouth,42,8,6,7,37,35,2,7,12,25,57,0.674,33,
-20,Sunderland,42,9,5,7,40,30,3,3,15,27,58,0.761,32,
-21,Cardiff City,42,7,6,8,35,34,3,3,15,18,54,0.602,29,Relegated
-22,Charlton Athletic,42,7,3,11,31,44,2,1,18,31,76,0.517,22,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Manchester United,42,28,8,6,103,54,1.907,49,64,,,,League Champions qualified for 1957â€“58 European Cup: Preliminary Round
+2,Tottenham Hotspur,42,22,12,8,104,56,1.857,48,56,,,,
+3,Preston North End,42,23,10,9,84,56,1.500,28,56,,,,
+4,Blackpool,42,22,9,11,93,65,1.431,28,53,,,,
+5,Arsenal,42,21,8,13,85,69,1.232,16,50,,,,
+6,Wolverhampton Wanderers,42,20,8,14,94,70,1.343,24,48,,,,
+7,Burnley,42,18,10,14,56,50,1.120,6,46,,,,
+8,Leeds United,42,15,14,13,72,63,1.143,9,44,,,,
+9,Bolton Wanderers,42,16,12,14,65,65,1.000,0,44,,,,
+10,Aston Villa,42,14,15,13,65,55,1.182,10,43,,,,FA Cup winners
+11,West Bromwich Albion,42,14,14,14,59,61,0.967,-2,42,,,,
+12,Birmingham City,42,15,9,18,69,69,1.000,0,39,,,,Participated in 1955â€“58 Inter-Cities Fairs Cup
+13,Chelsea,42,13,13,16,73,73,1.000,0,39,,,,
+14,Sheffield Wednesday,42,16,6,20,82,88,0.932,-6,38,,,,
+15,Everton,42,14,10,18,61,79,0.772,-18,38,,,,
+16,Luton Town,42,14,9,19,58,76,0.763,-18,37,,,,
+17,Newcastle United,42,14,8,20,67,87,0.770,-20,36,,,,
+18,Manchester City,42,13,9,20,78,88,0.886,-10,35,,,,
+19,Portsmouth,42,10,13,19,62,92,0.674,-30,33,,,,
+20,Sunderland,42,12,8,22,67,88,0.761,-21,32,,,,
+21,Cardiff City,42,10,9,23,53,88,0.602,-35,29,,,,Relegated
+22,Charlton Athletic,42,9,4,29,62,120,0.517,-58,22,,,,Relegated

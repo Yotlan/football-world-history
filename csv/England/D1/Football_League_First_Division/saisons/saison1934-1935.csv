@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Arsenal,42,15,4,2,74,17,8,8,5,41,29,2.500,58,League Champions
-2,Sunderland,42,13,4,4,57,24,6,12,3,33,27,1.765,54,
-3,Sheffield Wednesday,42,14,7,0,42,17,4,6,11,28,47,1.094,49,FA Cup Winners
-4,Manchester City,42,13,5,3,53,25,7,3,11,29,42,1.224,48,
-5,Grimsby Town,42,13,6,2,49,25,4,5,12,29,35,1.300,45,
-6,Derby County,42,10,4,7,44,28,8,5,8,37,38,1.227,45,
-7,Liverpool,42,13,4,4,53,29,6,3,12,32,59,0.966,45,
-8,Everton,42,14,5,2,64,32,2,7,12,25,56,1.011,44,
-9,West Bromwich Albion,42,10,8,3,55,33,7,2,12,28,50,1.000,44,
-10,Stoke City,42,12,5,4,46,20,6,1,14,25,50,1.014,42,
-11,Preston North End,42,11,5,5,33,22,4,7,10,29,45,0.925,42,
-12,Chelsea,42,11,5,5,49,32,5,4,12,24,50,0.890,41,
-13,Aston Villa,42,11,6,4,50,36,3,7,11,24,52,0.841,41,
-14,Portsmouth,42,10,5,6,41,24,5,5,11,30,48,0.986,40,
-15,Blackburn Rovers,42,12,5,4,42,23,2,6,13,24,55,0.846,39,
-16,Huddersfield Town,42,11,5,5,52,27,3,5,13,24,44,1.070,38,
-17,Wolverhampton Wanderers,42,13,3,5,65,38,2,5,14,23,56,0.936,38,
-18,Leeds United,42,10,6,5,48,35,3,6,12,27,57,0.815,38,
-19,Birmingham,42,10,3,8,36,36,3,7,11,27,45,0.778,36,
-20,Middlesbrough,42,8,9,4,38,29,2,5,14,32,61,0.778,34,
-21,Leicester City,42,9,4,8,39,30,3,5,13,22,56,0.709,33,Relegated
-22,Tottenham Hotspur,42,8,8,5,34,31,2,2,17,20,62,0.581,30,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Arsenal,42,23,12,7,115,46,2.500,69,58,,,,League Champions
+2,Sunderland,42,19,16,7,90,51,1.765,39,54,,,,
+3,Sheffield Wednesday,42,18,13,11,70,64,1.094,6,49,,,,FA Cup Winners
+4,Manchester City,42,20,8,14,82,67,1.224,15,48,,,,
+5,Grimsby Town,42,17,11,14,78,60,1.300,18,45,,,,
+6,Derby County,42,18,9,15,81,66,1.227,15,45,,,,
+7,Liverpool,42,19,7,16,85,88,0.966,-3,45,,,,
+8,Everton,42,16,12,14,89,88,1.011,1,44,,,,
+9,West Bromwich Albion,42,17,10,15,83,83,1.000,0,44,,,,
+10,Stoke City,42,18,6,18,71,70,1.014,1,42,,,,
+11,Preston North End,42,15,12,15,62,67,0.925,-5,42,,,,
+12,Chelsea,42,16,9,17,73,82,0.890,-9,41,,,,
+13,Aston Villa,42,14,13,15,74,88,0.841,-14,41,,,,
+14,Portsmouth,42,15,10,17,71,72,0.986,-1,40,,,,
+15,Blackburn Rovers,42,14,11,17,66,78,0.846,-12,39,,,,
+16,Huddersfield Town,42,14,10,18,76,71,1.070,5,38,,,,
+17,Wolverhampton Wanderers,42,15,8,19,88,94,0.936,-6,38,,,,
+18,Leeds United,42,13,12,17,75,92,0.815,-17,38,,,,
+19,Birmingham,42,13,10,19,63,81,0.778,-18,36,,,,
+20,Middlesbrough,42,10,14,18,70,90,0.778,-20,34,,,,
+21,Leicester City,42,12,9,21,61,86,0.709,-25,33,,,,Relegated
+22,Tottenham Hotspur,42,10,10,22,54,93,0.581,-39,30,,,,Relegated

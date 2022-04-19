@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Wolverhampton Wanderers,42,15,3,3,68,19,13,2,6,42,30,2.245,61,"League Champions, qualified for European Cup 1959–60 Preliminary Round"
-2,Manchester United,42,14,4,3,58,27,10,3,8,45,39,1.561,55,
-3,Arsenal,42,14,3,4,53,29,7,5,9,35,39,1.294,50,
-4,Bolton Wanderers,42,14,3,4,56,30,6,7,8,23,36,1.197,50,
-5,West Bromwich Albion,42,8,7,6,41,33,10,6,5,47,35,1.294,49,
-6,West Ham United,42,15,3,3,59,29,6,3,12,26,41,1.214,48,
-7,Burnley,42,11,4,6,41,29,8,6,7,40,41,1.157,48,
-8,Blackpool,42,12,7,2,39,13,6,4,11,27,36,1.347,47,
-9,Birmingham City,42,14,1,6,54,35,6,5,10,30,33,1.235,46,Participated in 1958–60 Inter-Cities Fairs Cup
-10,Blackburn Rovers,42,12,3,6,48,28,5,7,9,28,42,1.086,44,
-11,Newcastle United,42,11,3,7,40,29,6,4,11,40,51,1.000,41,
-12,Preston North End,42,9,3,9,40,39,8,4,9,30,38,0.909,41,
-13,Nottingham Forest,42,9,4,8,37,32,8,2,11,34,42,0.959,40,1958–59 FA Cup winners
-14,Chelsea,42,13,2,6,52,37,5,2,14,25,61,0.786,40,Participated in 1958–60 Inter-Cities Fairs Cup
-15,Leeds United,42,8,7,6,28,27,7,2,12,29,47,0.770,39,
-16,Everton,42,11,3,7,39,38,6,1,14,32,49,0.816,38,
-17,Luton Town,42,11,6,4,50,26,1,7,13,18,45,0.958,37,
-18,Tottenham Hotspur,42,10,3,8,56,42,3,7,11,29,53,0.895,36,
-19,Leicester City,42,7,6,8,34,36,4,4,13,33,62,0.684,32,
-20,Manchester City,42,8,7,6,40,32,3,2,16,24,63,0.674,31,
-21,Aston Villa,42,8,5,8,31,33,3,3,15,27,54,0.667,30,Relegated
-22,Portsmouth,42,5,4,12,38,47,1,5,15,26,65,0.571,21,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Wolverhampton Wanderers,42,28,5,9,110,49,2.245,61,61,,,,"League Champions, qualified for European Cup 1959â€“60 Preliminary Round"
+2,Manchester United,42,24,7,11,103,66,1.561,37,55,,,,
+3,Arsenal,42,21,8,13,88,68,1.294,20,50,,,,
+4,Bolton Wanderers,42,20,10,12,79,66,1.197,13,50,,,,
+5,West Bromwich Albion,42,18,13,11,88,68,1.294,20,49,,,,
+6,West Ham United,42,21,6,15,85,70,1.214,15,48,,,,
+7,Burnley,42,19,10,13,81,70,1.157,11,48,,,,
+8,Blackpool,42,18,11,13,66,49,1.347,17,47,,,,
+9,Birmingham City,42,20,6,16,84,68,1.235,16,46,,,,Participated in 1958â€“60 Inter-Cities Fairs Cup
+10,Blackburn Rovers,42,17,10,15,76,70,1.086,6,44,,,,
+11,Newcastle United,42,17,7,18,80,80,1.000,0,41,,,,
+12,Preston North End,42,17,7,18,70,77,0.909,-7,41,,,,
+13,Nottingham Forest,42,17,6,19,71,74,0.959,-3,40,,,,1958â€“59 FA Cup winners
+14,Chelsea,42,18,4,20,77,98,0.786,-21,40,,,,Participated in 1958â€“60 Inter-Cities Fairs Cup
+15,Leeds United,42,15,9,18,57,74,0.770,-17,39,,,,
+16,Everton,42,17,4,21,71,87,0.816,-16,38,,,,
+17,Luton Town,42,12,13,17,68,71,0.958,-3,37,,,,
+18,Tottenham Hotspur,42,13,10,19,85,95,0.895,-10,36,,,,
+19,Leicester City,42,11,10,21,67,98,0.684,-31,32,,,,
+20,Manchester City,42,11,9,22,64,95,0.674,-31,31,,,,
+21,Aston Villa,42,11,8,23,58,87,0.667,-29,30,,,,Relegated
+22,Portsmouth,42,6,9,27,64,112,0.571,-48,21,,,,Relegated

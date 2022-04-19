@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Burnley,42,15,2,4,52,28,9,5,7,33,33,1.393,55,"League Champions, qualified for 1960–61 European Cup First round"
-2,Wolverhampton Wanderers,42,15,3,3,63,28,9,3,9,43,39,1.582,54,"FA Cup winners, qualified for 1960–61 UEFA Cup Winners' Cup Quarter-finals"
-3,Tottenham Hotspur,42,10,6,5,43,24,11,5,5,43,26,1.720,53,
-4,West Bromwich Albion,42,12,4,5,48,25,7,7,7,35,32,1.456,49,
-5,Sheffield Wednesday,42,12,7,2,48,20,7,4,10,32,39,1.356,49,
-6,Bolton Wanderers,42,12,5,4,37,27,8,3,10,22,24,1.157,48,
-7,Manchester United,42,13,3,5,53,30,6,4,11,49,50,1.275,45,
-8,Newcastle United,42,10,5,6,42,32,8,3,10,40,46,1.051,44,
-9,Preston North End,42,10,6,5,43,34,6,6,9,36,42,1.039,44,
-10,Fulham,42,12,4,5,42,28,5,6,10,31,52,0.913,44,
-11,Blackpool,42,9,6,6,32,32,6,4,11,27,39,0.831,40,
-12,Leicester City,42,8,6,7,38,32,5,7,9,28,43,0.880,39,
-13,Arsenal,42,9,5,7,39,38,6,4,11,29,42,0.850,39,
-14,West Ham United,42,12,3,6,47,33,4,3,14,28,58,0.824,38,
-15,Everton,42,13,3,5,50,20,0,8,13,23,58,0.936,37,
-16,Manchester City,42,11,2,8,47,34,6,1,14,31,50,0.929,37,
-17,Blackburn Rovers,42,12,3,6,38,29,4,2,15,22,41,0.857,37,
-18,Chelsea,42,7,5,9,44,50,7,4,10,32,41,0.835,37,Participated in 1958–60 Inter-Cities Fairs Cup
-19,Birmingham City,42,9,5,7,37,36,4,5,12,26,44,0.788,36,
-20,Nottingham Forest,42,8,6,7,30,28,5,3,13,20,46,0.676,35,
-21,Leeds United,42,7,5,9,37,46,5,5,11,28,46,0.707,34,Relegated
-22,Luton Town,42,6,5,10,25,29,3,7,11,25,44,0.685,30,
+Clt,Ã‰quipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'Ã©quipe,Gardien de but,Qualification or relegation
+1,Burnley,42,24,7,11,85,61,1.393,24,55,,,,"League Champions, qualified for 1960â€“61 European Cup First round"
+2,Wolverhampton Wanderers,42,24,6,12,106,67,1.582,39,54,,,,"FA Cup winners, qualified for 1960â€“61 UEFA Cup Winners' Cup Quarter-finals"
+3,Tottenham Hotspur,42,21,11,10,86,50,1.720,36,53,,,,
+4,West Bromwich Albion,42,19,11,12,83,57,1.456,26,49,,,,
+5,Sheffield Wednesday,42,19,11,12,80,59,1.356,21,49,,,,
+6,Bolton Wanderers,42,20,8,14,59,51,1.157,8,48,,,,
+7,Manchester United,42,19,7,16,102,80,1.275,22,45,,,,
+8,Newcastle United,42,18,8,16,82,78,1.051,4,44,,,,
+9,Preston North End,42,16,12,14,79,76,1.039,3,44,,,,
+10,Fulham,42,17,10,15,73,80,0.913,-7,44,,,,
+11,Blackpool,42,15,10,17,59,71,0.831,-12,40,,,,
+12,Leicester City,42,13,13,16,66,75,0.880,-9,39,,,,
+13,Arsenal,42,15,9,18,68,80,0.850,-12,39,,,,
+14,West Ham United,42,16,6,20,75,91,0.824,-16,38,,,,
+15,Everton,42,13,11,18,73,78,0.936,-5,37,,,,
+16,Manchester City,42,17,3,22,78,84,0.929,-6,37,,,,
+17,Blackburn Rovers,42,16,5,21,60,70,0.857,-10,37,,,,
+18,Chelsea,42,14,9,19,76,91,0.835,-15,37,,,,Participated in 1958â€“60 Inter-Cities Fairs Cup
+19,Birmingham City,42,13,10,19,63,80,0.788,-17,36,,,,Participated in 1958â€“60 Inter-Cities Fairs Cup
+20,Nottingham Forest,42,13,9,20,50,74,0.676,-24,35,,,,
+21,Leeds United,42,12,10,20,65,92,0.707,-27,34,,,,Relegated
+22,Luton Town,42,9,12,21,50,73,0.685,-23,30,,,,Relegated

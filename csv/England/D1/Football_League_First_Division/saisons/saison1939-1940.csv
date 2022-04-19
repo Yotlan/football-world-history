@@ -1,23 +1,23 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts
-1,Blackpool,3,2,0,0,4,2,1,0,0,1,0,2.500,6
-2,Sheffield United,3,1,0,0,2,1,1,1,0,1,0,3.000,5
-3,Arsenal,3,2,0,0,6,2,0,1,0,2,2,2.000,5
-4,Liverpool,3,2,0,0,5,1,0,0,1,1,2,2.000,4
-5,Everton,3,0,1,0,1,1,1,1,0,4,3,1.250,4
-6,Bolton Wanderers,3,1,0,0,2,1,1,0,1,4,4,1.200,4
-7,Derby County,3,2,0,0,3,0,0,0,1,0,3,1.000,4
-8,Charlton Athletic,3,1,0,0,2,0,1,0,1,1,4,0.750,4
-9,Stoke City,3,1,0,1,5,2,0,1,0,2,2,1.750,3
-10,Manchester United,3,1,0,0,4,0,0,1,1,1,3,1.667,3
-11,Chelsea,3,1,1,0,4,3,0,0,1,0,1,1.000,3
-12,Brentford,3,1,0,0,1,0,0,1,1,2,3,1.000,3
-13,Grimsby Town,3,1,1,0,2,0,0,0,1,0,4,0.500,3
-14,Aston Villa,3,1,0,1,3,2,0,0,1,0,1,1.000,2
-15,Sunderland,3,1,0,1,4,2,0,0,1,2,5,0.857,2
-16,Wolverhampton Wanderers,3,0,1,0,2,2,0,1,1,1,2,0.750,2
-17,Huddersfield Town,3,0,0,1,0,1,1,0,1,2,2,0.667,2
-18,Portsmouth,3,1,0,0,2,1,0,0,2,1,4,0.600,2
-19,Preston North End,3,0,2,0,0,0,0,0,1,0,2,0.000,2
-20,Blackburn Rovers,3,0,1,0,2,2,0,0,2,1,3,0.600,1
-21,Middlesbrough,3,0,1,0,2,2,0,0,2,1,6,0.375,1
-22,Leeds United,3,0,0,2,0,2,0,1,0,0,0,0.000,1
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Blackpool,3,3,0,0,5,2,2.500,3,6,,,,
+2,Sheffield United,3,2,1,0,3,1,3.000,2,5,,,,
+3,Arsenal,3,2,1,0,8,4,2.000,4,5,,,,
+4,Liverpool,3,2,0,1,6,3,2.000,3,4,,,,
+5,Everton,3,1,2,0,5,4,1.250,1,4,,,,
+6,Bolton Wanderers,3,2,0,1,6,5,1.200,1,4,,,,
+7,Derby County,3,2,0,1,3,3,1.000,0,4,,,,
+8,Charlton Athletic,3,2,0,1,3,4,0.750,-1,4,,,,
+9,Stoke City,3,1,1,1,7,4,1.750,3,3,,,,
+10,Manchester United,3,1,1,1,5,3,1.667,2,3,,,,
+11,Chelsea,3,1,1,1,4,4,1.000,0,3,,,,
+12,Brentford,3,1,1,1,3,3,1.000,0,3,,,,
+13,Grimsby Town,3,1,1,1,2,4,0.500,-2,3,,,,
+14,Aston Villa,3,1,0,2,3,3,1.000,0,2,,,,
+15,Sunderland,3,1,0,2,6,7,0.857,-1,2,,,,
+16,Wolverhampton Wanderers,3,0,2,1,3,4,0.750,-1,2,,,,
+17,Huddersfield Town,3,1,0,2,2,3,0.667,-1,2,,,,
+18,Portsmouth,3,1,0,2,3,5,0.600,-2,2,,,,
+19,Preston North End,3,0,2,1,0,2,0.000,-2,2,,,,
+20,Blackburn Rovers,3,0,1,2,3,5,0.600,-2,1,,,,
+21,Middlesbrough,3,0,1,2,3,8,0.375,-5,1,,,,
+22,Leeds United,3,0,1,2,0,2,0.000,-2,1,,,,
