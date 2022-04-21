@@ -1,7 +1,7 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Sheffield Wednesday,34,20,7,7,48,28,1.714,+20,47,,,,League Champions
+1,Sheffield Wednesday,34,20,7,7,48,28,1.714,+20,47,12595,,,League Champions
 2,Manchester City,34,19,6,9,71,45,1.578,+26,44,,,,FA Cup Winners
-3,Everton,34,19,5,10,59,32,1.844,+27,43,,,,
+3,Everton,34,19,5,10,59,32,1.844,+27,43,18412,,,
 4,Newcastle United,34,18,6,10,58,45,1.289,+13,42,,,,
 5,Aston Villa,34,17,7,10,70,48,1.458,+22,41,,,,
 6,Sunderland,34,17,5,12,63,49,1.286,+14,39,,,,
@@ -9,11 +9,11 @@ Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gar
 8,Wolverhampton Wanderers,34,14,8,12,44,66,0.667,-22,36,,,,
 9,Nottingham Forest,34,11,9,14,57,57,1.000,+0,31,,,,
 10,Middlesbrough,34,9,12,13,46,47,0.979,-1,30,,,,
-11,Birminghan City,34,11,8,15,39,52,0.750,-13,30,,,,
+11,Birminghan City,34,11,8,15,39,52,0.750,-13,30,11386,,,
 12,Bury,34,7,15,12,40,53,0.755,-13,29,,,,
 13,Notts County,34,12,5,17,37,61,0.607,-24,29,,,,
 14,Derby County,34,9,10,15,58,60,0.967,-2,28,,,,
-15,Blackburn Rovers,34,11,6,17,48,60,0.800,-12,28,,,,
-16,Stoke City,34,10,7,17,54,57,0.947,-3,27,,,,
+15,Blackburn Rovers,34,11,6,17,48,60,0.800,-12,28,9395,,,
+16,Stoke City,34,10,7,17,54,57,0.947,-3,27,8610,,,
 17,Liverpool,34,9,8,17,49,62,0.790,-13,26,,,,Relegated
-18,West Bromwich Albion,34,7,10,17,36,60,0.600,-24,24,,,,Relegated
+18,West Bromwich Albion,34,7,10,17,36,60,0.600,-24,24,13356,,,Relegated
