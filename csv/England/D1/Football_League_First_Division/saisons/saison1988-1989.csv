@@ -1,8 +1,8 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Arsenal,38,22,10,6,73,36,2.02777777777778,+37,76,,,,League Champions and Excluded from the European Cup
-2,Liverpool,38,22,10,6,65,28,2.32142857142857,+37,76,,,,Excluded from the European Cup Winners` Cup
-3,Nottingham Forest,38,17,13,8,64,43,1.48837209302326,+21,64,,,,Excluded from the UEFA Cup
-4,Norwich City,38,17,11,10,48,45,1.06666666666667,+3,62,,,,Excluded from the UEFA Cup
+1,Arsenal,38,22,10,6,73,36,2.02777777777778,+37,76,,,,League Champions and Excluded from the UEFA Champions League
+2,Liverpool,38,22,10,6,65,28,2.32142857142857,+37,76,,,,Excluded from the UEFA Cup Winners` Cup and FA Cup winners
+3,Nottingham Forest,38,17,13,8,64,43,1.48837209302326,+21,64,,,,Excluded from the UEFA Europa League
+4,Norwich City,38,17,11,10,48,45,1.06666666666667,+3,62,,,,Excluded from the UEFA Europa League
 5,Derby County,38,17,7,14,40,38,1.05263157894737,+2,58,,,,
 6,Tottenham Hotspur,38,15,12,11,60,46,1.30434782608696,+14,57,,,,
 7,Coventry City,38,14,13,11,47,42,1.11904761904762,+5,55,,,,
@@ -16,6 +16,6 @@ Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gar
 15,Sheffield Wednesday,38,10,12,16,34,51,0.666666666666667,-17,42,,,,
 16,Luton Town,38,10,11,17,42,52,0.807692307692308,-10,41,,,,
 17,Aston Villa,38,9,13,16,45,56,0.803571428571429,-11,40,,,,
-18,Middlesbrough,38,9,12,17,44,61,0.721311475409836,-17,39,,,,Relegation to the Second Division
-19,West Ham United,38,10,8,20,37,62,0.596774193548387,-25,38,,,,Relegation to the Second Division
-20,Newcastle United,38,7,10,21,32,63,0.507936507936508,-31,31,,,,Relegation to the Second Division
+18,Middlesbrough,38,9,12,17,44,61,0.721311475409836,-17,39,,,,Relegated
+19,West Ham United,38,10,8,20,37,62,0.596774193548387,-25,38,,,,Relegated
+20,Newcastle United,38,7,10,21,32,63,0.507936507936508,-31,31,,,,Relegated

@@ -1,15 +1,15 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Liverpool,42,26,9,7,80,32,2.5,+48,87,,,,League Champions and Qualification for the European Cup first round
-2,Ipswich Town,42,26,5,11,75,53,1.41509433962264,+22,83,,,,Qualification for the UEFA Cup
-3,Manchester United,42,22,12,8,59,29,2.03448275862069,+30,78,,,,Qualification for the UEFA Cup
-4,Tottenham Hotspur,42,20,11,11,67,48,1.39583333333333,+19,71,,,,Qualification for the European Cup Winners` Cup first round
-5,Arsenal,42,20,11,11,48,37,1.2972972972973,+11,71,,,,Qualification for the UEFA Cup
-6,Swansea City,42,21,6,15,58,51,1.13725490196078,+7,69,,,,Qualification for the European Cup Winners` Cup preliminary round
-7,Southampton,42,19,9,14,72,67,1.07462686567164,+5,66,,,,Qualification for the UEFA Cup
+1,Liverpool,42,26,9,7,80,32,2.5,+48,87,,,,League Champions and qualified for the UEFA Champions League
+2,Ipswich Town,42,26,5,11,75,53,1.41509433962264,+22,83,,,,qualified for the UEFA Europa League
+3,Manchester United,42,22,12,8,59,29,2.03448275862069,+30,78,,,,qualified for the UEFA Europa League
+4,Tottenham Hotspur,42,20,11,11,67,48,1.39583333333333,+19,71,,,,qualified for the UEFA Cup Winners` Cup and FA Cup winners
+5,Arsenal,42,20,11,11,48,37,1.2972972972973,+11,71,,,,qualified for the UEFA Europa League
+6,Swansea City,42,21,6,15,58,51,1.13725490196078,+7,69,,,,qualified for the UEFA Cup Winners` Cup and Welsh Cup winners
+7,Southampton,42,19,9,14,72,67,1.07462686567164,+5,66,,,,qualified for the UEFA Europa League
 8,Everton,42,17,13,12,56,50,1.12,+6,64,,,,
 9,West Ham United,42,14,16,12,66,57,1.15789473684211,+9,58,,,,
 10,Manchester City,42,15,13,14,49,50,0.98,-1,58,,,,
-11,Aston Villa,42,15,12,15,55,53,1.0377358490566,+2,57,,,,Qualification for the European Cup first round
+11,Aston Villa,42,15,12,15,55,53,1.0377358490566,+2,57,,,,qualified for the UEFA Champions League
 12,Nottingham Forest,42,15,12,15,42,48,0.875,-6,57,,,,
 13,Brighton & Hove Albion,42,13,13,16,43,52,0.826923076923077,-9,52,,,,
 14,Coventry City,42,13,11,18,56,62,0.903225806451613,-6,50,,,,
@@ -18,6 +18,6 @@ Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gar
 17,West Bromwich Albion,42,11,11,20,46,57,0.807017543859649,-11,44,,,,
 18,Stoke City,42,12,8,22,44,63,0.698412698412698,-19,44,,,,
 19,Sunderland,42,11,11,20,38,58,0.655172413793103,-20,44,,,,
-20,Leeds United,42,10,12,20,39,61,0.639344262295082,-22,42,,,,Relegation to the Second Division
-21,Wolverhampton Wanderers,42,10,10,22,32,63,0.507936507936508,-31,40,,,,Relegation to the Second Division
-22,Middlesbrough,42,8,15,19,34,52,0.653846153846154,-18,39,,,,Relegation to the Second Division
+20,Leeds United,42,10,12,20,39,61,0.639344262295082,-22,42,,,,Relegated
+21,Wolverhampton Wanderers,42,10,10,22,32,63,0.507936507936508,-31,40,,,,Relegated
+22,Middlesbrough,42,8,15,19,34,52,0.653846153846154,-18,39,,,,Relegated
