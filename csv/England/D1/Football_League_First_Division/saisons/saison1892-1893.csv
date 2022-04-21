@@ -1,17 +1,17 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification
-1,Sunderland,30,13,2,0,58,17,9,2,4,42,19,2.778,48,League Champions
-2,Preston North End,30,11,2,2,34,10,6,1,8,23,29,1.462,37,
-3,Everton,30,9,3,3,44,17,7,1,7,30,34,1.451,36,
-4,Aston Villa,30,12,1,2,50,24,4,2,9,23,38,1.177,35,
-5,Bolton Wanderers,30,12,1,2,43,21,1,5,9,13,34,1.018,32,
-6,Burnley,30,10,2,3,37,15,3,2,10,14,29,1.159,30,
-7,Stoke City,30,8,2,5,33,16,4,3,8,25,32,1.208,29,
-8,West Bromwich Albion,30,9,2,4,35,17,3,3,9,23,52,0.841,29,
-9,Blackburn Rovers,30,5,8,2,29,24,3,5,7,18,32,0.839,29,
-10,Nottingham Forest,30,7,2,6,30,27,3,6,6,18,25,0.923,28,
-11,Wolverhampton Wanderers,30,11,2,2,32,17,1,2,12,15,51,0.691,28,FA Cup Winners
-12,Sheffield Wednesday,30,8,2,5,34,28,4,1,10,21,37,0.846,27,
-13,Derby County,30,5,6,4,30,28,4,3,8,22,36,0.813,27,
-14,Notts County,30,8,3,4,34,15,2,1,12,19,46,0.869,24,Into a test match
-15,Accrington,30,5,5,5,29,34,1,6,8,28,47,0.704,23,
-16,Manchester United,30,6,3,6,39,35,0,3,12,11,50,0.588,18,
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Sunderland,30,22,4,4,100,36,2.778,+64,48,6900,"CAMPBELL, Johnny - 30","DOIG, Ned ",League Champions
+2,Preston North End,30,17,3,10,57,39,1.462,+18,37,,"BECTON, Frank - 15","TRAINER, Jimmy ",
+3,Everton,30,16,4,10,74,51,1.451,+23,36,12964,"GEARY, Fred - 19","WILLIAMS, Dick ",
+4,Aston Villa,30,16,3,11,73,62,1.177,+11,35,,"DEVEY, Jack - 18","DUNNING, Willie ",
+5,Bolton Wanderers,30,13,6,11,56,55,1.018,+1,32,,"CASSIDY, Jimmy / DICKENSON, Joe - 9","SUTCLIFFE, John ",
+6,Burnley,30,13,4,13,51,44,1.159,+7,30,6805,"BOWES, Billy / BUCHANAN, Bob - 8","HILLMAN, Jack ",
+7,Stoke City,30,12,5,13,58,48,1.208,+10,29,5070,"SCHOFIELD, Joe - 13","ROWLEY, Billy ",
+8,West Bromwich Albion,30,12,5,13,58,69,0.841,-11,29,5113,"BASSETT, Billy / PEARSON, Tom - 11","READER, Joe ",
+9,Blackburn Rovers,30,8,13,9,47,56,0.839,-9,29,5970,"SAWERS, Bill - 11","ARTHUR, Herbie ",
+10,Nottingham Forest,30,10,8,12,48,52,0.923,-4,28,,"HIGGINS, Sandy - 12","BROWN, William ",
+11,Wolverhampton Wanderers,30,12,4,14,47,68,0.691,-21,28,,"WOOD, Harry - 16","ROSE, Billy ",FA Cup Winners
+12,Sheffield Wednesday,30,12,3,15,55,65,0.846,-10,27,10500,"ROWAN, Sandy / SPIKSLEY, Fred - 13","ALLAN, Bill ",
+13,Derby County,30,9,9,12,52,64,0.813,-12,27,,"GOODALL, John - 13","ROBINSON, Jack ",
+14,Notts County,30,10,4,16,53,61,0.869,-8,24,,"BRUCE, Dan / OSWALD, Jimmy - 11","TOONE, George ",Invited to join Second Division after losing test match to Darwen
+15,Accrington,30,6,11,13,57,81,0.704,-24,23,,"COOKSON, Harry - 14","HAY, Tom ",Resigned from Football League after losing test match to Sheffield United
+16,Manchester United,30,6,6,18,50,85,0.588,-35,18,,"DONALDSON, Bobby - 16","WARNER, Jimmy ",Remained in First Division after winning test match against Birmingham City
