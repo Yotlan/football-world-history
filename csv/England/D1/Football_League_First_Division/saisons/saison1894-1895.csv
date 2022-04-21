@@ -1,17 +1,17 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification
-1,Sunderland,30,13,2,0,51,14,8,3,4,29,23,2.162,47,League Champions
-2,Everton,30,12,2,1,47,18,6,4,5,35,32,1.640,42,
-3,Aston Villa,30,12,2,1,51,12,5,3,7,31,31,1.907,39,FA Cup Winners
-4,Preston North End,30,9,3,3,32,14,6,2,7,30,32,1.348,35,
-5,Blackburn Rovers,30,9,5,1,40,15,2,5,8,19,34,1.204,32,
-6,Sheffield United,30,10,2,3,33,17,4,2,9,24,38,1.036,32,
-7,Nottingham Forest,30,10,1,4,33,22,3,4,8,17,34,0.893,31,
-8,Sheffield Wednesday,30,10,2,3,36,19,2,2,11,14,36,0.909,28,
-9,Burnley,30,8,2,5,28,24,3,2,10,16,32,0.786,26,
-10,Bolton Wanderers,30,8,3,4,45,23,1,4,10,16,39,0.984,25,
-11,Wolverhampton Wanderers,30,7,4,4,24,25,2,3,10,19,38,0.683,25,
-12,Birminghan City,30,6,6,3,35,28,3,1,11,15,46,0.676,25,
-13,West Bromwich Albion,30,9,2,4,38,21,1,2,12,13,45,0.773,24,
-14,Stoke City,30,7,3,5,35,25,2,3,10,15,42,0.746,24,Remained in First Division
-15,Derby County,30,4,5,6,23,23,3,4,8,22,45,0.662,23,Remained in First Division
-16,Liverpool,30,6,4,5,38,28,1,4,10,13,42,0.729,22,Invited to join Second Division
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Sunderland,30,21,5,4,80,37,2.162,+43,47,,,,League Champions
+2,Everton,30,18,6,6,82,50,1.640,+32,42,,,,
+3,Aston Villa,30,17,5,8,82,43,1.907,+39,39,,,,FA Cup Winners
+4,Preston North End,30,15,5,10,62,46,1.348,+16,35,,,,
+5,Blackburn Rovers,30,11,10,9,59,49,1.204,+10,32,,,,
+6,Sheffield United,30,14,4,12,57,55,1.036,+2,32,,,,
+7,Nottingham Forest,30,13,5,12,50,56,0.893,-6,31,,,,
+8,The Wednesday,30,12,4,14,50,55,0.909,-5,28,,,,
+9,Burnley,30,11,4,15,44,56,0.786,-12,26,,,,
+10,Bolton Wanderers,30,9,7,14,61,62,0.984,-1,25,,,,
+11,Wolverhampton Wanderers,30,9,7,14,43,63,0.683,-20,25,,,,
+12,Small Heath,30,9,7,14,50,74,0.676,-24,25,,,,
+13,West Bromwich Albion,30,10,4,16,51,66,0.773,-15,24,,,,
+14,Stoke,30,9,6,15,50,67,0.746,-17,24,,,,Into a test match
+15,Derby County,30,7,9,14,45,68,0.662,-23,23,,,,Into a test match
+16,Liverpool,30,7,8,15,51,70,0.729,-19,22,,,,Into a test match

@@ -1,17 +1,17 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification
-1,Sheffield United,30,9,4,2,27,14,8,4,3,29,17,1.806,42,League Champions
-2,Sunderland,30,12,2,1,27,8,4,3,8,16,22,1.433,37,
-3,Wolverhampton Wanderers,30,10,4,1,36,14,4,3,8,21,27,1.390,35,
-4,Everton,30,11,3,1,33,12,2,6,7,15,27,1.231,35,
-5,Sheffield Wednesday,30,12,0,3,39,15,3,3,9,12,27,1.214,33,
-6,Aston Villa,30,12,1,2,47,21,2,4,9,14,30,1.196,33,
-7,West Bromwich Albion,30,8,5,2,25,16,3,5,7,19,29,0.978,32,
-8,Nottingham Forest,30,7,5,3,30,19,4,4,7,17,30,0.959,31,FA Cup Winners
-9,Liverpool,30,7,4,4,27,16,4,2,9,21,29,1.067,28,
-10,Derby County,30,10,3,2,40,19,1,3,11,17,42,0.934,28,
-11,Bolton Wanderers,30,9,2,4,18,13,2,2,11,10,28,0.683,26,
-12,Preston North End,30,7,5,3,26,15,1,3,11,9,28,0.814,24,
-13,Notts County,30,4,6,5,23,23,4,2,9,13,23,0.783,24,
-14,Bury,30,8,3,4,25,19,0,5,10,14,32,0.765,24,
-15,Blackburn Rovers,30,4,7,4,20,22,3,3,9,19,32,0.722,24,Remained in First Division
-16,Stoke City,30,8,3,4,21,14,0,5,10,14,41,0.636,24,Remained in First Division
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Sheffield United,30,17,8,5,56,31,1.806,+25,42,,,,League Champions
+2,Sunderland,30,16,5,9,43,30,1.433,+13,37,,,,
+3,Wolverhampton Wanderers,30,14,7,9,57,41,1.390,+16,35,,,,
+4,Everton,30,13,9,8,48,39,1.231,+9,35,,,,
+5,The Wednesday,30,15,3,12,51,42,1.214,+9,33,,,,
+6,Aston Villa,30,14,5,11,61,51,1.196,+10,33,,,,
+7,West Bromwich Albion,30,11,10,9,44,45,0.978,-1,32,,,,
+8,Nottingham Forest,30,11,9,10,47,49,0.959,-2,31,,,,FA Cup Winners
+9,Liverpool,30,11,6,13,48,45,1.067,+3,28,,,,
+10,Derby County,30,11,6,13,57,61,0.934,-4,28,,,,
+11,Bolton Wanderers,30,11,4,15,28,41,0.683,-13,26,,,,
+12,Preston North End,30,8,8,14,35,43,0.814,-8,24,,,,
+13,Notts County,30,8,8,14,36,46,0.783,-10,24,,,,
+14,Bury,30,8,8,14,39,51,0.765,-12,24,,,,
+15,Blackburn Rovers,30,7,10,13,39,54,0.722,-15,24,,,,Into test matches
+16,Stoke,30,8,8,14,35,55,0.636,-20,24,,,,Into test matches

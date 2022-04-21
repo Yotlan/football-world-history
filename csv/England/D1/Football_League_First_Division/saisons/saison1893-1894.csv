@@ -1,20 +1,17 @@
-Pos,"Team
-v�
-t�
-e�",Pld,W,D,L,GF,GA,GAv,Pts,Qualification
-1,Aston Villa,30,19,6,5,84,42,2.000,44,League Champions
-2,Sunderland,30,17,4,9,72,44,1.636,38,
-3,Derby County,30,16,4,10,73,62,1.177,36,
-4,Blackburn Rovers,30,16,2,12,69,53,1.302,34,
-5,Burnley,30,15,4,11,61,51,1.196,34,
-6,Everton,30,15,3,12,90,57,1.579,33,
-7,Nottingham Forest,30,14,4,12,57,48,1.188,32,
-8,West Bromwich Albion,30,14,4,12,66,59,1.119,32,
-9,Wolverhampton Wanderers,30,14,3,13,52,63,0.825,31,
-10,Sheffield United,30,13,5,12,47,61,0.770,31,
-11,Stoke City,30,13,3,14,65,79,0.823,29,
-12,Sheffield Wednesday,30,9,8,13,48,57,0.842,26,
-13,Bolton Wanderers,30,10,4,16,38,52,0.731,24,
-14,Preston North End,30,10,3,17,44,56,0.786,23,Remained in First Division
-15,Darwen,30,7,5,18,37,83,0.446,19,Invited to join Second Division
-16,Manchester United,30,6,2,22,36,72,0.500,14,Invited to join Second Division
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Aston Villa,30,19,6,5,84,42,2.000,+42,44,,,,League Champions
+2,Sunderland,30,17,4,9,72,44,1.636,+28,38,,,,
+3,Derby County,30,16,4,10,73,62,1.177,+11,36,,,,
+4,Blackburn Rovers,30,16,2,12,69,53,1.302,+16,34,,,,
+5,Burnley,30,15,4,11,61,51,1.196,+10,34,,,,
+6,Everton,30,15,3,12,90,57,1.579,+33,33,,,,
+7,Nottingham Forest,30,14,4,12,57,48,1.188,+9,32,,,,
+8,West Bromwich Albion,30,14,4,12,66,59,1.119,+7,32,,,,
+9,Wolverhampton Wanderers,30,14,3,13,52,63,0.825,-11,31,,,,
+10,Sheffield United,30,13,5,12,47,61,0.770,-14,31,,,,
+11,Stoke,30,13,3,14,65,79,0.823,-14,29,,,,
+12,The Wednesday,30,9,8,13,48,57,0.842,-9,26,,,,
+13,Bolton Wanderers,30,10,4,16,38,52,0.731,-14,24,,,,
+14,Preston North End,30,10,3,17,44,56,0.786,-12,23,,,,Into a test match
+15,Darwen,30,7,5,18,37,83,0.446,-46,19,,,,Into a test match
+16,Newton Heath,30,6,2,22,36,72,0.500,-36,14,,,,Into a test match

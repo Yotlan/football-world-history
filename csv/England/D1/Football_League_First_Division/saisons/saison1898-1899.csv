@@ -1,19 +1,19 @@
-Pos,Team,Pld,HW,HD,HL,HGF,HGA,AW,AD,AL,AGF,AGA,GAv,Pts,Qualification or relegation
-1,Aston Villa,34,15,2,0,58,13,4,5,8,18,27,1.900,45,League Champions
-2,Liverpool,34,12,3,2,29,10,7,2,8,20,23,1.485,43,
-3,Burnley,34,11,5,1,32,15,4,4,9,13,32,0.957,39,
-4,Everton,34,10,2,5,25,13,5,6,6,23,28,1.171,38,
-5,Notts County,34,9,6,2,33,20,3,7,7,14,31,0.922,37,
-6,Blackburn Rovers,34,9,5,3,41,23,5,3,9,19,29,1.154,36,
-7,Sunderland,34,11,3,3,26,10,4,3,10,15,31,1.000,36,
-8,Wolverhampton Wanderers,34,9,5,3,30,13,5,2,10,24,35,1.125,35,
-9,Derby County,34,11,5,1,46,19,1,6,10,16,38,1.088,35,
-10,Bury,34,9,5,3,31,18,5,2,10,17,31,0.980,35,
-11,Nottingham Forest,34,6,6,5,22,18,5,5,7,20,24,1.000,33,
-12,Stoke City,34,10,4,3,29,17,3,3,11,18,35,0.904,33,
-13,Newcastle United,34,9,3,5,33,18,2,5,10,16,30,1.021,30,
-14,West Bromwich Albion,34,11,1,5,28,9,1,5,11,14,48,0.737,30,
-15,Preston North End,34,10,4,3,29,14,0,5,12,15,33,0.936,29,
-16,Sheffield United,34,7,8,2,31,20,2,3,12,14,31,0.882,29,FA Cup Winners
-17,Bolton Wanderers,34,6,5,6,24,21,3,2,12,13,30,0.725,25,Relegated
-18,Sheffield Wednesday,34,8,2,7,26,24,0,6,11,6,37,0.525,24,Relegated
+Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
+1,Aston Villa,34,19,7,8,76,40,1.900,+36,45,,,,League Champions
+2,Liverpool,34,19,5,10,49,33,1.485,+16,43,,,,
+3,Burnley,34,15,9,10,45,47,0.957,-2,39,,,,
+4,Everton,34,15,8,11,48,41,1.171,+7,38,,,,
+5,Notts County,34,12,13,9,47,51,0.922,-4,37,,,,
+6,Blackburn Rovers,34,14,8,12,60,52,1.154,+8,36,,,,
+7,Sunderland,34,15,6,13,41,41,1.000,+0,36,,,,
+8,Wolverhampton Wanderers,34,14,7,13,54,48,1.125,+6,35,,,,
+9,Derby County,34,12,11,11,62,57,1.088,+5,35,,,,
+10,Bury,34,14,7,13,48,49,0.980,-1,35,,,,
+11,Nottingham Forest,34,11,11,12,42,42,1.000,+0,33,,,,
+12,Stoke,34,13,7,14,47,52,0.904,-5,33,,,,
+13,Newcastle United,34,11,8,15,49,48,1.021,+1,30,,,,
+14,West Bromwich Albion,34,12,6,16,42,57,0.737,-15,30,,,,
+15,Preston North End,34,10,9,15,44,47,0.936,-3,29,,,,
+16,Sheffield United,34,9,11,14,45,51,0.882,-6,29,,,,FA Cup Winners
+17,Bolton Wanderers,34,9,7,18,37,51,0.725,-14,25,,,,Relegated
+18,The Wednesday,34,8,8,18,32,61,0.525,-29,24,,,,Relegated
