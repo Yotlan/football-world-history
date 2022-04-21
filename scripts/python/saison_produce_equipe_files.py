@@ -2,16 +2,6 @@ import click
 import csv
 import os.path
 import pandas as pd
-#===========#
-# Variables #
-#===========#
-
-
-#==========#
-# Terminal #
-#==========#
-
-# Take files in arguments
 
 @click.group()
 def cli():
@@ -19,8 +9,6 @@ def cli():
 
 @cli.command()
 @click.argument('file_saison')
-
-# Main
 
 def producteur(file_saison):
     global file
@@ -60,12 +48,6 @@ def producteur(file_saison):
 
 
     creating(saved_equipe,path)
-    
-
-#===========#
-# Functions #
-#===========#
-
 
 # transformer noms in noms of files
 def changeName(equipes,deb,fin):
