@@ -1,19 +1,19 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Aston Villa,34,22,6,6,77,35,2.200,+42,50,,,,League Champions
-2,Sheffield United,34,18,12,4,63,33,1.909,+30,48,,,,
-3,Sunderland,34,19,3,12,50,35,1.429,+15,41,,,,
-4,Wolverhampton Wanderers,34,15,9,10,48,37,1.297,+11,39,,,,
-5,Newcastle United,34,13,10,11,53,43,1.233,+10,36,,,,
-6,Derby County,34,14,8,12,45,43,1.047,+2,36,,,,
-7,Manchester City,34,13,8,13,50,44,1.136,+6,34,,,,
-8,Nottingham Forest,34,13,8,13,56,55,1.018,+1,34,,,,
-9,Stoke City,34,13,8,13,37,45,0.822,-8,34,7250,,,
-10,Liverpool,34,14,5,15,49,45,1.089,+4,33,,,,
-11,Everton,34,13,7,14,47,49,0.959,-2,33,15531,,,
-12,Bury,34,13,6,15,40,44,0.909,-4,32,,,,FA Cup Winners
-13,West Bromwich Albion,34,11,8,15,43,51,0.843,-8,30,5695,,,
-14,Blackburn Rovers,34,13,4,17,49,61,0.803,-12,30,6725,,,
-15,Notts County,34,9,11,14,46,60,0.767,-14,29,,,,
-16,Preston North End,34,12,4,18,38,48,0.792,-10,28,,,,
-17,Burnley,34,11,5,18,34,54,0.630,-20,27,5880,,,Relegated
-18,Glossop North End,34,4,10,20,31,74,0.419,-43,18,,,,Relegated
+1,Aston Villa,34,22,6,6,77,35,2.200,+42,50,,"GARRATY, Billy - 27","GEORGE, Billy ",League Champions
+2,Sheffield United,34,18,12,4,63,33,1.909,+30,48,,"HEDLEY, George - 14","FOULKE, Willie ",
+3,Sunderland,34,19,3,12,50,35,1.429,+15,41,,"MCLATCHIE, Colin - 11","DOIG, Ned ",
+4,Wolverhampton Wanderers,34,15,9,10,48,37,1.297,+11,39,,"HARPER, George - 10","BADDELEY, Tom ",
+5,Newcastle United,34,13,10,11,53,43,1.233,+10,36,,"PEDDIE, Jock - 15","KINGSLEY, Matt ",
+6,Derby County,34,14,8,12,45,43,1.047,+2,36,,"BLOOMER, Steve - 19","FRYER, Jack ",
+7,Manchester City,34,13,8,13,50,44,1.136,+6,34,,"MEREDITH, Billy - 14","WILLIAMS, Charlie ",
+8,Nottingham Forest,34,13,8,13,56,55,1.018,+1,34,,"CALVEY, Jack - 17","ALLSOPP, Dan ",
+9,Stoke City,34,13,8,13,37,45,0.822,-8,34,7250,"MAXWELL, Willie - 11","WILKES, Tom ",
+10,Liverpool,34,14,5,15,49,45,1.089,+4,33,,"WALKER, John - 10","PERKINS, Bill ",
+11,Everton,34,13,7,14,47,49,0.959,-2,33,15531,"SETTLE, Jimmy - 10","MUIR, Willie ",
+12,Bury,34,13,6,15,40,44,0.909,-4,32,,"MCLUCKIE, James - 13","THOMPSON, Fred ",FA Cup Winners
+13,West Bromwich Albion,34,11,8,15,43,51,0.843,-8,30,5695,"SIMMONS, Charlie 'Chippy' - 12","READER, Joe ",
+14,Blackburn Rovers,34,13,4,17,49,61,0.803,-12,30,6725,"WHITTAKER, Arnie - 11","KNOWLES, Albert ",
+15,Notts County,34,9,11,14,46,60,0.767,-14,29,,"MCMAIN, Joe - 13","SUTER, Bob ",
+16,Preston North End,34,12,4,18,38,48,0.792,-10,28,,"HENDERSON, Adam - 12","MCBRIDE, Peter ",
+17,Burnley,34,11,5,18,34,54,0.630,-20,27,5880,"CHADWICK, Edgar - 10","HILLMAN, Jack ",Relegated
+18,Glossop North End,34,4,10,20,31,74,0.419,-43,18,,"GALLACHER, Willie - 7","WILLIAMS, Dick ",Relegated
