@@ -64,7 +64,7 @@ def producteur(file,path_directory,directory):
     attribut=['Position\tApp\tGls\tPen\tApp\tGls\tPen\tApp\tGls\tPen']
 
     for row in reader :
-        print(row)
+        #print(row)
         #check head
         
         if (head_found==0) :
@@ -140,9 +140,9 @@ def producteur(file,path_directory,directory):
 
                 #other values
                 elif (position_found==1) :
-                    print('-----------------------------------------')
-                    print('x take = ',row[1][a])
-                    print('condition a valide ? ',row[1][a]!=chr(9))
+                    #print('-----------------------------------------')
+                    #print('x take = ',row[1][a])
+                    #print('condition a valide ? ',row[1][a]!=chr(9))
                     #rencontre une valeur
                     if ((row[1][a]!=chr(9)) and (a<len(row[1])-1) ) :
                         #condition de addition
@@ -154,13 +154,13 @@ def producteur(file,path_directory,directory):
                         else :
                             #empile value
                             memo=memo+row[1][a]
-                            print('memo =' ,memo)
+                            #print('memo =' ,memo)
                     else :
                         #make sum
                         if ((calcul==1) and (a<len(row[1])-1)) :
                             memo=int(memo)
                             tmp.append(x+memo)
-                            print('tmp = ',tmp)
+                            #print('tmp = ',tmp)
                             x=0
                             memo=''
                             calcul=0
@@ -169,20 +169,20 @@ def producteur(file,path_directory,directory):
                             memo=memo+row[1][a]
                             memo=int(memo)
                             tmp.append(memo+x)
-                            print('tmp = ',tmp)
+                            #print('tmp = ',tmp)
 
                         #put in list
                         elif ((calcul==0) and (a<len(row[1])-1)) :
                             tmp.append(memo)
                             memo=''
-                            print('tmp = ',tmp)
+                            #print('tmp = ',tmp)
 
                         elif ((calcul==0) and (a==len(row[1])-1)) :
                             #last case
                             memo=memo+row[1][a]
                             memo=int(memo)
                             tmp.append(memo)
-                            print('tmp = ',tmp)
+                            #print('tmp = ',tmp)
                 a=a+1
 
             #in dictionary all components    
