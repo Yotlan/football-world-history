@@ -1,19 +1,19 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Aston Villa,34,19,7,8,76,40,1.900,+36,45,,,,League Champions
-2,Liverpool,34,19,5,10,49,33,1.485,+16,43,,,,
-3,Burnley,34,15,9,10,45,47,0.957,-2,39,6355,,,
-4,Everton,34,15,8,11,48,41,1.171,+7,38,15929,,,
-5,Notts County,34,12,13,9,47,51,0.922,-4,37,,,,
-6,Blackburn Rovers,34,14,8,12,60,52,1.154,+8,36,8920,,,
-7,Sunderland,34,15,6,13,41,41,1.000,+0,36,,,,
-8,Wolverhampton Wanderers,34,14,7,13,54,48,1.125,+6,35,,,,
-9,Derby County,34,12,11,11,62,57,1.088,+5,35,,,,
-10,Bury,34,14,7,13,48,49,0.980,-1,35,,,,
-11,Nottingham Forest,34,11,11,12,42,42,1.000,+0,33,,,,
-12,Stoke City,34,13,7,14,47,52,0.904,-5,33,7600,,,
-13,Newcastle United,34,11,8,15,49,48,1.021,+1,30,,,,
-14,West Bromwich Albion,34,12,6,16,42,57,0.737,-15,30,5350,,,
-15,Preston North End,34,10,9,15,44,47,0.936,-3,29,,,,
-16,Sheffield United,34,9,11,14,45,51,0.882,-6,29,,,,FA Cup Winners
-17,Bolton Wanderers,34,9,7,18,37,51,0.725,-14,25,,,,Relegated
-18,Sheffield Wednesday,34,8,8,18,32,61,0.525,-29,24,8150,,,Relegated
+1,Aston Villa,34,19,7,8,76,40,1.900,+36,45,,"DEVEY, Jack - 21","GEORGE, Billy ",League Champions
+2,Liverpool,34,19,5,10,49,33,1.485,+16,43,,"MORGAN, Hugh / ROBERTSON, Tommy - 10","STORER, Harry ",
+3,Burnley,34,15,9,10,45,47,0.957,-2,39,6355,"TOMAN, Wilf - 11","HILLMAN, Jack ",
+4,Everton,34,15,8,11,48,41,1.171,+7,38,15929,"PROUDFOOT, John - 12","MUIR, Willie ",
+5,Notts County,34,12,13,9,47,51,0.922,-4,37,,"MACONNACHIE, Alex - 14","TOONE, George ",
+6,Blackburn Rovers,34,14,8,12,60,52,1.154,+8,36,8920,"HURST, Daniel - 14","CARTER, James ",
+7,Sunderland,34,15,6,13,41,41,1.000,+0,36,,"LESLIE, Jim - 8","DOIG, Ned ",
+8,Wolverhampton Wanderers,34,14,7,13,54,48,1.125,+6,35,,"MILLER, Jack - 12","BADDELEY, Tom ",
+9,Derby County,34,12,11,11,62,57,1.088,+5,35,,"BLOOMER, Steve - 24","FRYER, Jack ",
+10,Bury,34,14,7,13,48,49,0.980,-1,35,,"SAGAR, Charles - 12","MONTGOMERY, Archie ",
+11,Nottingham Forest,34,11,11,12,42,42,1.000,+0,33,,"SPENCER, Fred - 9","ALLSOPP, Dan ",
+12,Stoke City,34,13,7,14,47,52,0.904,-5,33,7600,"MAXWELL, Willie - 17","CLAWLEY, George ",
+13,Newcastle United,34,11,8,15,49,48,1.021,+1,30,,"PEDDIE, Jock - 18","KINGSLEY, Matt ",
+14,West Bromwich Albion,34,12,6,16,42,57,0.737,-15,30,5350,"RICHARDS, William -10","READER, Joe ",
+15,Preston North End,34,10,9,15,44,47,0.936,-3,29,,"PRATT, Tom - 13","MCBRIDE, Peter ",
+16,Sheffield United,34,9,11,14,45,51,0.882,-6,29,,"HEDLEY, George - 10","FOULKE, Willie ",FA Cup Winners
+17,Bolton Wanderers,34,9,7,18,37,51,0.725,-14,25,,"GILLIGAN, Sandy / MORGAN, Hugh - 6","SUTCLIFFE, John ",Relegated
+18,Sheffield Wednesday,34,8,8,18,32,61,0.525,-29,24,8150,"HEMMINGFIELD, Bill - 8","MASSEY, Jimmy ",Relegated
