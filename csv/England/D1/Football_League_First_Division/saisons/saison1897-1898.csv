@@ -1,17 +1,17 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Sheffield United,30,17,8,5,56,31,1.806,+25,42,,,,League Champions
-2,Sunderland,30,16,5,9,43,30,1.433,+13,37,,,,
-3,Wolverhampton Wanderers,30,14,7,9,57,41,1.390,+16,35,,,,
-4,Everton,30,13,9,8,48,39,1.231,+9,35,15380,,,
-5,Sheffield Wednesday,30,15,3,12,51,42,1.214,+9,33,9625,,,
-6,Aston Villa,30,14,5,11,61,51,1.196,+10,33,,,,
-7,West Bromwich Albion,30,11,10,9,44,45,0.978,-1,32,7013,,,
-8,Nottingham Forest,30,11,9,10,47,49,0.959,-2,31,,,,FA Cup Winners
-9,Liverpool,30,11,6,13,48,45,1.067,+3,28,,,,
-10,Derby County,30,11,6,13,57,61,0.934,-4,28,,,,
-11,Bolton Wanderers,30,11,4,15,28,41,0.683,-13,26,,,,
-12,Preston North End,30,8,8,14,35,43,0.814,-8,24,,,,
-13,Notts County,30,8,8,14,36,46,0.783,-10,24,,,,
-14,Bury,30,8,8,14,39,51,0.765,-12,24,,,,
-15,Blackburn Rovers,30,7,10,13,39,54,0.722,-15,24,7845,,,
-16,Stoke City,30,8,8,14,35,55,0.636,-20,24,7350,,,
+1,Sheffield United,30,17,8,5,56,31,1.806,+25,42,,"BENNETT, Walter - 12","FOULKE, Willie ",League Champions
+2,Sunderland,30,16,5,9,43,30,1.433,+13,37,,"BROWN, Jock / LESLIE, Jim / WILSON, Hughie - 8","DOIG, Ned ",
+3,Wolverhampton Wanderers,30,14,7,9,57,41,1.390,+16,35,,"BEATS, Billy / SMITH, Billy / WOOD, Harry - 11","BADDELEY, Tom ",
+4,Everton,30,13,9,8,48,39,1.231,+9,35,15380,"BELL, Laurie - 12","MUIR, Willie ",
+5,Sheffield Wednesday,30,15,3,12,51,42,1.214,+9,33,9625,"SPIKSLEY, Fred - 17","MASSEY, Jimmy ",
+6,Aston Villa,30,14,5,11,61,51,1.196,+10,33,,"WHELDON, Fred - 23","WHITEHOUSE, Jimmy ",
+7,West Bromwich Albion,30,11,10,9,44,45,0.978,-1,32,7013,"GARFIELD, Ben - 12","READER, Joe ",
+8,Nottingham Forest,30,11,9,10,47,49,0.959,-2,31,,"BENBOW, Len - 11","ALLSOPP, Dan ",FA Cup Winners
+9,Liverpool,30,11,6,13,48,45,1.067,+3,28,,"BECTON, Frank - 11","STORER, Harry ",
+10,Derby County,30,11,6,13,57,61,0.934,-4,28,,"BLOOMER, Steve - 15","FRYER, Jack ",
+11,Bolton Wanderers,30,11,4,15,28,41,0.683,-13,26,,"CASSIDY, Jimmy - 7","SUTCLIFFE, John ",
+12,Preston North End,30,8,8,14,35,43,0.814,-8,24,,"BROWN, Sandy - 12","TRAINER, Jimmy ",
+13,Notts County,30,8,8,14,36,46,0.783,-10,24,,"BOUCHER, Tom - 7","TOONE, George ",
+14,Bury,30,8,8,14,39,51,0.765,-12,24,,"SETTLE, Jimmy - 12","MONTGOMERY, Archie ",
+15,Blackburn Rovers,30,7,10,13,39,54,0.722,-15,24,7845,"PROUDFOOT, John - 9","CARTER, James ",
+16,Stoke City,30,8,8,14,35,55,0.636,-20,24,7350,"MAXWELL, Willie - 11","JOHNSTON, Zeke ",
