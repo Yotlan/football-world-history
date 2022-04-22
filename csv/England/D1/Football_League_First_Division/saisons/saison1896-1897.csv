@@ -1,17 +1,17 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Aston Villa,30,21,5,4,73,38,1.921,+35,47,,,,League Champions and FA Cup winners
-2,Sheffield United,30,13,10,7,42,29,1.448,+13,36,,,,
-3,Derby County,30,16,4,10,70,50,1.400,+20,36,,,,
-4,Preston North End,30,11,12,7,55,40,1.375,+15,34,,,,
-5,Liverpool,30,12,9,9,46,38,1.211,+8,33,,,,
-6,Sheffield Wednesday,30,10,11,9,42,37,1.135,+5,31,8550,,,
-7,Everton,30,14,3,13,62,57,1.088,+5,31,15913,,,
-8,Bolton Wanderers,30,12,6,12,40,43,0.930,-3,30,,,,
-9,Bury,30,10,10,10,39,44,0.886,-5,30,,,,
-10,Wolverhampton Wanderers,30,11,6,13,45,41,1.098,+4,28,,,,
-11,Nottingham Forest,30,9,8,13,44,49,0.898,-5,26,,,,
-12,West Bromwich Albion,30,10,6,14,33,56,0.589,-23,26,6190,,,
-13,Stoke City,30,11,3,16,48,59,0.814,-11,25,5400,,,
-14,Blackburn Rovers,30,11,3,16,35,62,0.565,-27,25,7005,,,
-15,Sunderland,30,7,9,14,34,47,0.723,-13,23,,,,Remained in First Division
-16,Burnley,30,6,7,17,43,61,0.705,-18,19,5250,,,Invited to join Second Division
+1,Aston Villa,30,21,5,4,73,38,1.921,+35,47,,"WHELDON, Fred - 18","WHITEHOUSE, Jimmy ",League Champions and FA Cup winners
+2,Sheffield United,30,13,10,7,42,29,1.448,+13,36,,"PRIEST, Fred - 12","FOULKE, Willie ",
+3,Derby County,30,16,4,10,70,50,1.400,+20,36,,"BLOOMER, Steve - 24","ROBINSON, Jack ",
+4,Preston North End,30,11,12,7,55,40,1.375,+15,34,,"BOYD, David - 12","TRAINER, Jimmy ",
+5,Liverpool,30,12,9,9,46,38,1.211,+8,33,,"ALLAN, George - 17","STORER, Harry ",
+6,Sheffield Wednesday,30,10,11,9,42,37,1.135,+5,31,8550,"SPIKSLEY, Fred - 10","MASSEY, Jimmy ",
+7,Everton,30,14,3,13,62,57,1.088,+5,31,15913,"BELL, Jack - 15","MENHAM, Bob ",
+8,Bolton Wanderers,30,12,6,12,40,43,0.930,-3,30,,"JACK, Bob - 11","SUTCLIFFE, John ",
+9,Bury,30,10,10,10,39,44,0.886,-5,30,,"MILLAR, Harry - 11","MONTGOMERY, Archie ",
+10,Wolverhampton Wanderers,30,11,6,13,45,41,1.098,+4,28,,"BEATS, Billy - 8","TENNANT, Billy ",
+11,Nottingham Forest,30,9,8,13,44,49,0.898,-5,26,,"RICHARDS, Charlie - 8","ALLSOPP, Dan ",
+12,West Bromwich Albion,30,10,6,14,33,56,0.589,-23,26,6190,"FLEWITT, Albert - 6","READER, Joe ",
+13,Stoke City,30,11,3,16,48,59,0.814,-11,25,5400,"MAXWELL, Willie - 13","JOHNSTON, Zeke ",
+14,Blackburn Rovers,30,11,3,16,35,62,0.565,-27,25,7005,"WILKIE, John - 7","OGILVIE, Adam ",
+15,Sunderland,30,7,9,14,34,47,0.723,-13,23,,"GILLESPIE, James - 8","DOIG, Ned ",Remained in First Division
+16,Burnley,30,6,7,17,43,61,0.705,-18,19,5250,"BOWES, Billy - 11","TATHAM, Willie ",Invited to join Second Division
