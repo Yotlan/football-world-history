@@ -56,7 +56,7 @@ def producteur(file,path_directory,directory):
     att_att=['','','','League','League','League','FA Cup','FA Cup','FA Cup','Other','Other','Other']
 
     #found caracters
-    head=0
+    head_found=0
     tab=['\t\t\t\t\t\t\t\t\t\t']
     vide=[]
     date_t=year+'/'+year_fin[2]+year_fin[3]
@@ -64,15 +64,15 @@ def producteur(file,path_directory,directory):
     attribut=['Position\tApp\tGls\tPen\tApp\tGls\tPen\tApp\tGls\tPen']
 
     for row in reader :
+        print(row)
         #check head
-        for x in row :
-            if ('-' in x) :
-                head=1
-
-        if (head==1) :
+        
+        if (head_found==0) :
+            for x in row :
+                if ('-' in x) :
+                    head_found=1
+                    writer.writerow(att_head)
             #print('head complete')
-            writer.writerow(att_head)
-            head=0
         elif (row==date) :
             pass
         elif (row==tab ) :
@@ -93,6 +93,8 @@ def producteur(file,path_directory,directory):
             capt=0
             nom_found=0
             position_found=0 
+            calcul=0 #in case of addition +
+            memo=''
 
             last_name=''
             position=''
@@ -138,11 +140,52 @@ def producteur(file,path_directory,directory):
 
                 #other values
                 elif (position_found==1) :
+                    print('-----------------------------------------')
+                    print('x take = ',row[1][a])
+                    print('condition a valide ? ',row[1][a]!=chr(9))
+                    #rencontre une valeur
+                    if ((row[1][a]!=chr(9)) and (a<len(row[1])-1) ) :
+                        #condition de addition
+                        if (row[1][a]=='+') :
+                            #print('condition + valide')
+                            calcul=1
+                            x=int(memo)
+                            memo=''
+                        else :
+                            #empile value
+                            memo=memo+row[1][a]
+                            print('memo =' ,memo)
+                    else :
+                        #make sum
+                        if ((calcul==1) and (a<len(row[1])-1)) :
+                            memo=int(memo)
+                            tmp.append(x+memo)
+                            print('tmp = ',tmp)
+                            x=0
+                            memo=''
+                            calcul=0
+                        elif ((calcul==1) and (a==len(row[1])-1)) :
+                            #last case
+                            memo=memo+row[1][a]
+                            memo=int(memo)
+                            tmp.append(memo+x)
+                            print('tmp = ',tmp)
 
-                    if (row[1][a]!=chr(9)) :
-                        tmp.append(row[1][a])
+                        #put in list
+                        elif ((calcul==0) and (a<len(row[1])-1)) :
+                            tmp.append(memo)
+                            memo=''
+                            print('tmp = ',tmp)
 
+                        elif ((calcul==0) and (a==len(row[1])-1)) :
+                            #last case
+                            memo=memo+row[1][a]
+                            memo=int(memo)
+                            tmp.append(memo)
+                            print('tmp = ',tmp)
                 a=a+1
+
+            #in dictionary all components    
             tmp_name=""+first_name+last_name
             content.append(tmp_name)
             content.append(position)
