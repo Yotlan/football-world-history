@@ -11,6 +11,26 @@ def produce():
         season = file.split('/')[7]
         season = season[6:15]
         print(season)
+        last = 1
+        nbatt = 0
+        with open(file) as avgfile:
+            avg = csv.reader(avgfile)
+            j = 0
+            for row in avg:
+                if j>0 and row != []:
+                    if int(season[0:4])>1991:
+                        if int(season[0:4])>2016:
+                            if row[14] != '':
+                                nbatt+=int(row[14])
+                        else:
+                            if row[10] != '':
+                                nbatt+=int(row[10])
+                    else:
+                        if row[11] != '':
+                            nbatt+=int(row[11])
+                    last = int(row[0])
+                j+=1
+            nbatt = nbatt / last
         with open(file) as csvfile:
             seasonfile = csv.reader(csvfile)
             pos = 0
@@ -52,7 +72,10 @@ def produce():
                         gd = row[8]
                         points = row[9]
                         if int(season[0:4])>2016:
-                            att = row[14]
+                            if row[14] != '':
+                                att = round((((nbatt - int(row[14])) / nbatt) * 100),2)
+                            else:
+                                att = 0
                             #look if FA Cup is in Notes
                             if 'FA Cup' in row[17]:
                                 facup = 1
@@ -72,7 +95,10 @@ def produce():
                             if ('Failed' in row[17]) or ('Second Division' in row[17]) or ('Relegated' in row[17]) or ('Relégué' in row[17]):
                                 status = 'Relegated'
                         else:
-                            att = row[10]
+                            if row[10] != '':
+                                att = round((((nbatt - int(row[10])) / nbatt) * 100),2)
+                            else:
+                                att = 0
                             #look if FA Cup is in Notes
                             if 'FA Cup' in row[13]:
                                 facup = 1
@@ -94,7 +120,10 @@ def produce():
                     else:
                         gd = row[9]
                         points = row[10]
-                        att = row[11]
+                        if row[11] != '':
+                            att = round((((nbatt - int(row[11])) / nbatt) * 100),2)
+                        else:
+                            att = 0
                         #look if FA Cup is in Notes
                         if 'FA Cup' in row[14]:
                             facup = 1
