@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Portsmouth,42,22,9,11,74,38,1.947,36,53,37004,,,League Champions
+1,Portsmouth,42,22,9,11,74,38,1.947,36,53,37004,"CLARKE, Ike - 17","BUTLER, Ernie ",League Champions
 2,Wolverhampton Wanderers,42,20,13,9,76,49,1.551,27,53,45466,,,
 3,Sunderland,42,21,10,11,83,62,1.339,21,52,47785,,,
 4,Manchester United,42,18,14,10,69,44,1.568,25,50,43282,,,
 5,Newcastle United,42,19,12,11,77,55,1.400,22,50,24651,,,
 6,Arsenal,42,19,11,12,79,55,1.436,24,49,49001,"GORING, Peter - 21","SWINDIN, George",FA Cup winners
 7,Blackpool,42,17,15,10,46,35,1.314,11,49,26336,,,
-8,Liverpool,42,17,14,11,64,54,1.185,10,48,45783,,,
-9,Middlesbrough,42,20,7,15,59,48,1.229,11,47,35407,,,
+8,Liverpool,42,17,14,11,64,54,1.185,10,48,45783,"LIDDELL, Billy - 18","SIDLOW, Cyril",
+9,Middlesbrough,42,20,7,15,59,48,1.229,11,47,35407,"MCKENNAN, Peter - 15","UGOLINI, Rolando ",
 10,Burnley,42,16,13,13,40,40,1.000,0,45,27631,,,
-11,Derby County,42,17,10,15,69,61,1.131,8,44,26283,,,
+11,Derby County,42,17,10,15,69,61,1.131,8,44,26283,"STAMPS, Jackie - 22","TOWNSEND, Billy ",
 12,Aston Villa,42,15,12,15,61,61,1.000,0,42,42677,"FORD, Trevor - 18","RUTHERFORD, Joe ",
 13,Chelsea,42,12,16,14,58,65,0.892,-7,40,42238,,,
 14,West Bromwich Albion,42,14,12,16,47,53,0.887,-6,40,39588,,,
-15,Huddersfield Town,42,14,9,19,52,73,0.712,-21,37,23542,,,
+15,Huddersfield Town,42,14,9,19,52,73,0.712,-21,37,23542,"METCALFE, Vic  - 11","MILLS, Harry ",
 16,Bolton Wanderers,42,10,14,18,45,59,0.763,-14,34,29789,,,
 17,Fulham,42,10,14,18,41,54,0.759,-13,34,33030,,,
 18,Everton,42,10,14,18,42,66,0.636,-24,34,43936,,,
 19,Stoke City,42,11,12,19,45,75,0.600,-30,34,27215,,,
 20,Charlton Athletic,42,13,6,23,53,65,0.815,-12,32,34567,,,
-21,Manchester City,42,8,13,21,36,68,0.529,-32,29,39381,,,Relegated
+21,Manchester City,42,8,13,21,36,68,0.529,-32,29,39381,"CLARKE, Roy - 9","TRAUTMANN, Bert",Relegated
 22,Birmingham City,42,7,14,21,31,67,0.463,-36,28,34310,,,Relegated

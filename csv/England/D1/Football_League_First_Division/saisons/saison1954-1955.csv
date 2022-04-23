@@ -1,16 +1,16 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
 1,Chelsea,42,20,12,10,81,57,1.421,24,52,48260,,,League champions and qualified for UEFA Champions League
 2,Wolverhampton Wanderers,42,19,10,13,89,70,1.271,19,48,36477,,,
-3,Portsmouth,42,18,12,12,74,62,1.194,12,48,29868,,,
+3,Portsmouth,42,18,12,12,74,62,1.194,12,48,29868,"HARRIS, Peter - 23","UPRICHARD, Norman",
 4,Sunderland,42,15,18,9,64,54,1.185,10,48,43043,,,
 5,Manchester United,42,20,7,15,84,74,1.135,10,47,35960,,,
 6,Aston Villa,42,20,7,15,72,73,0.986,-1,47,29578,"THOMPSON, Tommy - 14","JONES, Keith ",
-7,Manchester City,42,18,10,14,76,69,1.101,7,46,35217,,,
+7,Manchester City,42,18,10,14,76,69,1.101,7,46,35217,"HART, Johnny - 14","TRAUTMANN, Bert ",
 8,Newcastle United,42,17,9,16,89,77,1.156,12,43,42925,,,FA Cup winners
 9,Arsenal,42,17,9,16,69,63,1.095,6,43,43725,"LISHMAN, Doug - 19","KELSEY, Jack ",
 10,Burnley,42,17,9,16,51,48,1.063,3,43,25094,,,
 11,Everton,42,16,10,16,62,68,0.912,-6,42,46394,,,
-12,Huddersfield Town,42,14,13,15,63,68,0.926,-5,41,24974,,,
+12,Huddersfield Town,42,14,13,15,63,68,0.926,-5,41,24974,"GLAZZARD, Jimmy  - 26","WHEELER, Jack ",
 13,Sheffield United,42,17,7,18,70,86,0.814,-16,41,23880,,,
 14,Preston North End,42,16,8,18,83,64,1.297,19,40,26625,,,
 15,Charlton Athletic,42,15,10,17,76,75,1.013,1,40,24005,,,
@@ -20,4 +20,4 @@ Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gar
 19,Blackpool,42,14,10,18,60,64,0.938,-4,38,23959,,,
 20,Cardiff City,42,13,11,18,62,76,0.816,-14,37,24311,,,
 21,Leicester City,42,12,11,19,74,86,0.860,-12,35,31067,,,Relegated
-22,Sheffield Wednesday,42,8,10,24,63,100,0.630,-37,26,27149,,,Relegated
+22,Sheffield Wednesday,42,8,10,24,63,100,0.630,-37,26,27149,"SEWELL, Jackie - 14","MCINTOSH, Dave",Relegated
