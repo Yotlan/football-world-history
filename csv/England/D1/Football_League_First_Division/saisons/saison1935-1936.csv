@@ -1,5 +1,5 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Sunderland,42,25,6,11,109,74,1.473,35,56,30378,,,League Champions
+1,Sunderland,42,25,6,11,109,74,1.473,35,56,30378,"GURNEY, Bobby - 31","THORPE, Jimmy",League Champions
 2,Derby County,42,18,12,12,61,52,1.173,9,48,20932,"GALLACHER, Hughie - 15","KIRBY, Jack ",
 3,Huddersfield Town,42,18,12,12,59,56,1.054,3,48,15097,"LYTHGOE, Alf - 16","TURNER, Hugh",
 4,Stoke City,42,20,7,15,57,57,1.000,0,47,21586,,,
@@ -20,4 +20,4 @@ Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gar
 19,Liverpool,42,13,12,17,60,64,0.938,-4,38,27265,"HOWE, Fred - 17","RILEY, Arthur",
 20,Sheffield Wednesday,42,13,12,17,63,77,0.818,-14,38,18127,"DEWAR, Neil - 19","BROWN, Jack",
 21,Aston Villa,42,13,9,20,81,110,0.736,-29,35,40864,"ASTLEY, Dai - 21","MORTON, Harry",Relegated
-22,Blackburn Rovers,42,12,9,21,55,96,0.573,-41,33,,,,Relegated
+22,Blackburn Rovers,42,12,9,21,55,96,0.573,-41,33,,"THOMPSON, Ernie - 15","BINNS, Cliff",Relegated
