@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Burnley,42,24,7,11,85,61,1.393,24,55,26978,,,League Champions and qualified for UEFA Champions League
-2,Wolverhampton Wanderers,42,24,6,12,106,67,1.582,39,54,36244,,,FA Cup winners and qualified UEFA Cup Winners' Cup
-3,Tottenham Hotspur,42,21,11,10,86,50,1.720,36,53,47948,,,
-4,West Bromwich Albion,42,19,11,12,83,57,1.456,26,49,28362,,,
+1,Burnley,42,24,7,11,85,61,1.393,24,55,26978,"CONNELLY, John - 20","BLACKLAW, Adam",League Champions and qualified for UEFA Champions League
+2,Wolverhampton Wanderers,42,24,6,12,106,67,1.582,39,54,36244,"MURRAY, Jimmy - 29","FINLAYSON, Malcolm",FA Cup winners and qualified UEFA Cup Winners' Cup
+3,Tottenham Hotspur,42,21,11,10,86,50,1.720,36,53,47948,"SMITH, Bobby - 25","BROWN, Bill",
+4,West Bromwich Albion,42,19,11,12,83,57,1.456,26,49,28362,"KEVAN, Derek - 26","WALLACE, Jock",
 5,Sheffield Wednesday,42,19,11,12,80,59,1.356,21,49,32703,"FANTHAM, John - 17","SPRINGETT, Ron",
-6,Bolton Wanderers,42,20,8,14,59,51,1.157,8,48,25998,,,
-7,Manchester United,42,19,7,16,102,80,1.275,22,45,47288,,,
-8,Newcastle United,42,18,8,16,82,78,1.051,4,44,36037,,,
-9,Preston North End,42,16,12,14,79,76,1.039,3,44,24552,,,
-10,Fulham,42,17,10,15,73,80,0.913,-7,44,30271,,,
-11,Blackpool,42,15,10,17,59,71,0.831,-12,40,21783,,,
-12,Leicester City,42,13,13,16,66,75,0.880,-9,39,25399,,,
+6,Bolton Wanderers,42,20,8,14,59,51,1.157,8,48,25998,"STEVENS, Dennis - 14","HOPKINSON, Eddie",
+7,Manchester United,42,19,7,16,102,80,1.275,22,45,47288,"VIOLLET, Dennis - 32","GREGG, Harry",
+8,Newcastle United,42,18,8,16,82,78,1.051,4,44,36037,"WHITE, Len - 28","HARVEY, Bryan",
+9,Preston North End,42,16,12,14,79,76,1.039,3,44,24552,"FINNEY, Tom - 17","ELSE, Fred",
+10,Fulham,42,17,10,15,73,80,0.913,-7,44,30271,"LEGGAT, Graham - 18","MACEDO, Tony",
+11,Blackpool,42,15,10,17,59,71,0.831,-12,40,21783,"CHARNLEY, Ray - 18","FARM, George",
+12,Leicester City,42,13,13,16,66,75,0.880,-9,39,25399,"CHEESEBROUGH, Albert - 15","BANKS, Gordon",
 13,Arsenal,42,15,9,18,68,80,0.850,-12,39,39341,"HERD, David","KELSEY, Jack",
-14,West Ham United,42,16,6,20,75,91,0.824,-16,38,28554,,,
-15,Everton,42,13,11,18,73,78,0.936,-5,37,40788,,,
+14,West Ham United,42,16,6,20,75,91,0.824,-16,38,28554,"MUSGROVE, Malcolm - 15","DWYER, Noel",
+15,Everton,42,13,11,18,73,78,0.936,-5,37,40788,"COLLINS, Bobby - 14","DUNLOP, Albert",
 16,Manchester City,42,17,3,22,78,84,0.929,-6,37,35637,"MCADAMS, Billy - 22","TRAUTMANN, Bert",
 17,Blackburn Rovers,42,16,5,21,60,70,0.857,-10,37,27299,"DOBING, Peter - 18","LEYLAND, Harry",
-18,Chelsea,42,14,9,19,76,91,0.835,-15,37,39423,,,Participated in Inter-Cities Fairs Cup
-19,Birmingham City,42,13,10,19,63,80,0.788,-17,36,26880,,,Participated in Inter-Cities Fairs Cup
-20,Nottingham Forest,42,13,9,20,50,74,0.676,-24,35,26739,,,
-21,Leeds United,42,12,10,20,65,92,0.707,-27,34,21877,,,Relegated
-22,Luton Town,42,9,12,21,50,73,0.685,-23,30,17067,,,Relegated
+18,Chelsea,42,14,9,19,76,91,0.835,-15,37,39423,"GREAVES, Jimmy - 29","MATTHEWS, Reg",Participated in Inter-Cities Fairs Cup
+19,Birmingham City,42,13,10,19,63,80,0.788,-17,36,26880,"GORDON, Johnny - 16","SCHOFIELD, John",Participated in Inter-Cities Fairs Cup
+20,Nottingham Forest,42,13,9,20,50,74,0.676,-24,35,26739,"WILSON, Tommy - 11","THOMSON, Chic",
+21,Leeds United,42,12,10,20,65,92,0.707,-27,34,21877,"MCCOLE, Johnny - 22","BURGIN, Ted",Relegated
+22,Luton Town,42,9,12,21,50,73,0.685,-23,30,17067,"BINGHAM, Billy - 16","BAYNHAM, Ron",Relegated

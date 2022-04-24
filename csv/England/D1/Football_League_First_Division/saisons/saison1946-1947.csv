@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
 1,Liverpool,42,25,7,10,84,52,1.615,32,57,45732,"BALMER, Jack/STUBBINS, Albert - 24","SIDLOW, Cyril",League Champions
-2,Manchester United,42,22,12,8,95,54,1.759,41,56,43945,,,
-3,Wolverhampton Wanderers,42,25,6,11,98,56,1.750,42,56,43254,,,
-4,Stoke City,42,24,7,11,90,53,1.698,37,55,30863,,,
-5,Blackpool,42,22,6,14,71,70,1.014,1,50,21552,,,
-6,Sheffield United,42,21,7,14,89,75,1.187,14,49,29537,,,
-7,Preston North End,42,18,11,13,76,74,1.027,2,47,26649,,,
+2,Manchester United,42,22,12,8,95,54,1.759,41,56,43945,"ROWLEY, Jack - 26","CROMPTON, Jack",
+3,Wolverhampton Wanderers,42,25,6,11,98,56,1.750,42,56,43254,"WESTCOTT, Dennis - 38","WILLIAMS, Bert",
+4,Stoke City,42,24,7,11,90,53,1.698,37,55,30863,"STEELE, Freddie - 29,"JEPSON, Arthur",
+5,Blackpool,42,22,6,14,71,70,1.014,1,50,21552,"MORTENSEN, Stan - 28","WALLACE, Jock",
+6,Sheffield United,42,21,7,14,89,75,1.187,14,49,29537,"COLLINDRIDGE, Colin - 18","SMITH, Jack",
+7,Preston North End,42,18,11,13,76,74,1.027,2,47,26649,"MCINTOSH, Willie - 27","FAIRBROTHER, Jack",
 8,Aston Villa,42,18,9,15,67,53,1.264,14,45,38944,"DORSETT, Dickie - 13","RUTHERFORD, Joe",
 9,Sunderland,42,18,8,16,65,66,0.985,-1,44,35301,"ROBINSON, Jackie - 17","MAPSON, Johnny",
-10,Everton,42,17,9,16,62,67,0.925,-5,43,40855,,,
+10,Everton,42,17,9,16,62,67,0.925,-5,43,40855,"DODDS, Jock - 17","SAGAR, Ted",
 11,Middlesbrough,42,17,8,17,73,68,1.074,5,42,35912,"FENTON, Micky/MANNION, Wilf - 18","CUMMING, Dave",
 12,Portsmouth,42,16,9,17,66,60,1.100,6,41,30198,"REID, Duggie - 29","BUTLER, Ernie ",
 13,Arsenal,42,16,9,17,72,70,1.029,2,41,43266,"LEWIS, Reg - 29","SWINDIN, George ",
 14,Derby County,42,18,5,19,73,79,0.924,-6,41,23708,"CARTER, Raich - 19","WOODLEY, Vic ",
-15,Chelsea,42,16,7,19,69,84,0.821,-15,39,44550,,,
-16,Grimsby Town,42,13,12,17,61,82,0.744,-21,38,16220,,,
+15,Chelsea,42,16,7,19,69,84,0.821,-15,39,44550,"LAWTON, Tommy - 26","ROBERTSON, Bill",
+16,Grimsby Town,42,13,12,17,61,82,0.744,-21,38,16220,"CAIRNS, Billy - 18","TWEEDY, George",
 17,Blackburn Rovers,42,14,8,20,45,53,0.849,-8,36,26367,"SMITH, Jack - 12","MARKS, George",
-18,Bolton Wanderers,42,13,8,21,57,69,0.826,-12,34,28692,,,
-19,Charlton Athletic,42,11,12,19,57,71,0.803,-14,34,32401,,,FA Cup winners
+18,Bolton Wanderers,42,13,8,21,57,69,0.826,-12,34,28692,"LOFTHOUSE, Nat - 18","HANSON, Stan",
+19,Charlton Athletic,42,11,12,19,57,71,0.803,-14,34,32401,"ROBINSON, Bill - 13","BARTRAM, Sam",FA Cup winners
 20,Huddersfield Town,42,13,7,22,53,79,0.671,-26,33,19813,"GLAZZARD, Jimmy - 11","HESFORD, Bob ",
-21,Brentford,42,9,7,26,45,88,0.511,-43,25,25768,,,Relegated
-22,Leeds United,42,6,6,30,45,90,0.500,-45,18,26049,,,Relegated
+21,Brentford,42,9,7,26,45,88,0.511,-43,25,25768,"TOWNSEND, Len - 8","CROZIER, Joe",Relegated
+22,Leeds United,42,6,6,30,45,90,0.500,-45,18,26049,"AINSLEY, George - 11","HODGSON, John",Relegated

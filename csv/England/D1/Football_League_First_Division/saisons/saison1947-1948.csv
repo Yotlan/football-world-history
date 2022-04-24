@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
 1,Arsenal,42,23,13,6,81,32,2.531,49,59,54982,"ROOKE, Ronnie - 33","SWINDIN, George ",League Champions
-2,Manchester United,42,19,14,9,81,48,1.688,33,52,54890,,,FA Cup winners
-3,Burnley,42,20,12,10,56,43,1.302,13,52,33621,,,
+2,Manchester United,42,19,14,9,81,48,1.688,33,52,54890,"ROWLEY, Jack - 23"","CROMPTON, Jack",FA Cup winners
+3,Burnley,42,20,12,10,56,43,1.302,13,52,33621,"POTTS, Harry - 14","STRONG, Jimmy",
 4,Derby County,42,19,12,11,77,57,1.351,20,50,27044,"HARRISON, Reg" - 15,"TOWNSEND, Billy",
-5,Wolverhampton Wanderers,42,19,9,14,83,70,1.186,13,47,39636,,,
+5,Wolverhampton Wanderers,42,19,9,14,83,70,1.186,13,47,39636,"PYE, Jesse  - 16","WILLIAMS, Bert",
 6,Aston Villa,42,19,9,14,65,57,1.140,8,47,41431,"FORD, Trevor - 18","RUTHERFORD, Joe",
-7,Preston North End,42,20,7,15,67,68,0.985,-1,47,30400,,,
+7,Preston North End,42,20,7,15,67,68,0.985,-1,47,30400,"MCLAREN, Andy - 17","GOOCH, Jimmy",
 8,Portsmouth,42,19,7,16,68,50,1.360,18,45,31226,"REID, Duggie - 14","BUTLER, Ernie ",
-9,Blackpool,42,17,10,15,57,41,1.390,16,44,25195,,,
+9,Blackpool,42,17,10,15,57,41,1.390,16,44,25195,"MORTENSEN, Stan - 21","WALLACE, Jock",
 10,Manchester City,42,15,12,15,52,47,1.106,5,42,42725,"BLACK, Andy - 16","SWIFT, Frank",
 11,Liverpool,42,16,10,16,65,61,1.066,4,42,44299,"STUBBINS, Albert - 24","SIDLOW, Cyril",
-12,Sheffield United,42,16,10,16,65,70,0.929,-5,42,35094,,,
-13,Charlton Athletic,42,17,6,19,57,66,0.864,-9,40,36253,,,
-14,Everton,42,17,6,19,52,66,0.788,-14,40,44205,,,
-15,Stoke City,42,14,10,18,41,55,0.745,-14,38,31590,,,
+12,Sheffield United,42,16,10,16,65,70,0.929,-5,42,35094,"COLLINDRIDGE, Colin - 11","SMITH, Jack",
+13,Charlton Athletic,42,17,6,19,57,66,0.864,-9,40,36253,"VAUGHAN, Charlie - 15","BARTRAM, Sam",
+14,Everton,42,17,6,19,52,66,0.788,-14,40,44205,"DODDS, Jock - 13","SAGAR, Ted",
+15,Stoke City,42,14,10,18,41,55,0.745,-14,38,31590,"STEELE, Freddie - 10","HEROD, Dennis",
 16,Middlesbrough,42,14,9,19,71,73,0.973,-2,37,33901,"FENTON, Micky - 28","GOODFELLOW, Derwick",
-17,Bolton Wanderers,42,16,5,21,46,58,0.793,-12,37,29408,,,
-18,Chelsea,42,14,9,19,53,71,0.746,-18,37,47592,,,
+17,Bolton Wanderers,42,16,5,21,46,58,0.793,-12,37,29408,"LOFTHOUSE, Nat - 18","HANSON, Stan",
+18,Chelsea,42,14,9,19,53,71,0.746,-18,37,47592,"ARMSTRONG, Ken - 11","MEDHURST, Harry",
 19,Huddersfield Town,42,12,12,18,51,60,0.850,-9,36,25548,"DOHERTY, Peter - 13","HESFORD, Bob ",
 20,Sunderland,42,13,10,19,56,67,0.836,-11,36,42888,"DAVIS, Dickie - 12","MAPSON, Johnny",
 21,Blackburn Rovers,42,11,10,21,54,72,0.750,-18,32,27883,"GRAHAM, Les - 15","MARKS, George",Relegated
-22,Grimsby Town,42,8,6,28,45,111,0.405,-66,22,16031,,,Relegated
+22,Grimsby Town,42,8,6,28,45,111,0.405,-66,22,16031,"CAIRNS, Billy - 16","TWEEDY, George",Relegated
