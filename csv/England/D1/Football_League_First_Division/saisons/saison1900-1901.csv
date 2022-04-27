@@ -1,22 +1,22 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Liverpool,34,19,7,8,59,35,1.686,+24,45,15195,,,League Champions
-2,Sunderland,34,15,,13,6,57,26,2.192,+31,43,11695,,,
-3,Notts County,34,18,4,12,54,46,1.174,+8,40,,,,
-4,Nottingham Forest,34,16,7,11,53,36,1.472,+17,39,9815,,,
-5,Bury,34,16,7,11,53,37,1.432,+16,39,,,,
-6,Newcastle United,34,14,10,10,42,37,1.135,+5,38,15575,,,
-7,Everton,34,16,5,13,55,42,1.310,+13,37,16765,,,
-8,Sheffield Wednesday,34,13,10,11,52,42,1.238,+10,36,9600,,,
-9,Blackburn Rovers,34,12,9,13,39,47,0.830,-8,33,6225,,,
-10,Bolton Wanderers,34,13,7,14,39,55,0.709,-16,33,9700,,,
-11,Manchester City,34,13,6,15,48,58,0.828,-10,32,17135,,,
-12,Derby County,34,12,7,15,55,42,1.310,+13,31,7995,,,
-13,Wolverhampton Wanderers,34,9,13,12,39,55,0.709,-16,31,6365,,,
-14,Sheffield United,34,12,7,15,35,52,0.673,-17,31,14110,,,
-15,Aston Villa,34,10,10,14,45,51,0.882,-6,30,17530,,,
-16,Stoke City,34,11,5,18,46,57,0.807,-11,27,7650,,,
-17,Preston North End,34,9,7,18,49,75,0.653,-26,25,6170,,,Relegated
-18,West Bromwich Albion,34,7,8,19,35,62,0.565,-27,22,13090,,,Relegated
+1,Liverpool,34,19,7,8,59,35,1.686,+24,45,15195,"RAYBOULD, Sam - 17 ","PERKINS, Bill ,League Champions
+2,Sunderland,34,15,,13,6,57,26,2.192,+31,43,11695,"LIVINGSTONE, Geordie - 12","DOIG, Ned ",
+3,Notts County,34,18,4,12,54,46,1.174,+8,40,,"MORRIS, Jack - 16","PENNINGTON, Harry ",
+4,Nottingham Forest,34,16,7,11,53,36,1.472,+17,39,9815,"MORRIS, Grenville - 14","LINACRE, Harry ",
+5,Bury,34,16,7,11,53,37,1.432,+16,39,,"MCLUCKIE, James - 13","THOMPSON, Fred ",
+6,Newcastle United,34,14,10,10,42,37,1.135,+5,38,15575,"PEDDIE, Jock - 16","KINGSLEY, Matt ",
+7,Everton,34,16,5,13,55,42,1.310,+13,37,16765,"TAYLOR, Jack - 11","MUIR, Willie ",
+8,Sheffield Wednesday,34,13,10,11,52,42,1.238,+10,36,9600,"WILSON, Andy - 13","MASSEY, Jimmy ",
+9,Blackburn Rovers,34,12,9,13,39,47,0.830,-8,33,6225,"WHITTAKER, Arnie - 8","WHITTAKER, Walter ",
+10,Bolton Wanderers,34,13,7,14,39,55,0.709,-16,33,9700,"MCKIE, James / BELL, Laurie - 8","SUTCLIFFE, John ",
+11,Manchester City,34,13,6,15,48,58,0.828,-10,32,17135,"CASSIDY, Joseph - 14","WILLIAMS, Charlie ",
+12,Derby County,34,12,7,15,55,42,1.310,+13,31,7995,"BLOOMER, Steve - 24","FRYER, Jack ",
+13,Wolverhampton Wanderers,34,9,13,12,39,55,0.709,-16,31,6365,"WOOLDRIDGE, Billy / HARPER, George - 6","BADDELEY, Tom ",
+14,Sheffield United,34,12,7,15,35,52,0.673,-17,31,14110,"BENNETT, Walter - 7","FOULKE, Willie ",
+15,Aston Villa,34,10,10,14,45,51,0.882,-6,30,17530,"DEVEY, Jack - 13","GEORGE, Billy ,
+16,Stoke City,34,11,5,18,46,57,0.807,-11,27,7650,"MAXWELL, Willie - 16","WILKES, Tom ",
+17,Preston North End,34,9,7,18,49,75,0.653,-26,25,6170,"GARA, Andy - 11","MCBRIDE, Peter ",Relegated
+18,West Bromwich Albion,34,7,8,19,35,62,0.565,-27,22,13090,"ROBERTS, Richard / SIMMONS, Charlie - 5","READER, Joe ",Relegated
 
 
 
