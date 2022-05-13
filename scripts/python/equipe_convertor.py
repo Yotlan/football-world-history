@@ -1,7 +1,11 @@
 import click
+import glob
 import csv
 import os.path
 import pandas as pd
+
+#Select files
+files = glob.glob('../../csv/**/**/**/saisons/*.csv')
 
 @click.group()
 def cli():
