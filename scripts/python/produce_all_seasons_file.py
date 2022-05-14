@@ -7,7 +7,7 @@ files = glob.glob('../../csv/**/**/**/saisons/*.csv')
 def produce():
     print('Start...')
     #Create new csv file to add all value
-    with open('all_seasons.csv','a') as sfile:
+    with open('../../csv/England/D1/all_seasons.csv','a') as sfile:
         sfile.write('season,position,squad,match_played,victory,draw,lose,goal_for,goal_against,goal_difference,points,attendance,win_facup,win_eflcup,qualif_uefacup,status\n')
     for file in files:
         #Select year of the season
