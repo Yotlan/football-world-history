@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1959/60
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALSTON, Alec 	Forward	10	3	0	0	0	0	0	0	0
-										
-CAMPBELL, Les 	Winger	8	2	0	0	0	0	0	0	0
-										
-CUNNINGHAM, Willie 	Full Back	24	1	0	0	0	0	0	0	0
-										
-DAGGER, Les 	Winger	14	5	0	4	0	0	0	0	0
-										
-DUNN, Joe 	Central Defender	29	0	0	5	0	0	0	0	0
-										
-ELSE, Fred 	Goalkeeper	42	0	0	6	0	0	0	0	0
-										
-FARRALL, Alec 	Midfielder	10	4	1	0	0	0	0	0	0
-										
-FINNEY, Tom 	Winger	37	17	2	6	4	0	0	0	0
-										
-FULLAM, Johnny 	Wing Half	12	0	0	0	0	0	0	0	0
-										
-HATSELL, Dennis 	Centre Forward	3	0	0	0	0	0	0	0	0
-										
-HEYES, Ken 	Full Back	3	0	0	0	0	0	0	0	0
-										
-HUMES, Jimmy 	Winger	1	0	0	0	0	0	0	0	0
-										
-LAMBERT, Gil 	Inside Forward	3	2	0	0	0	0	0	0	0
-										
-MAYERS, Derek 	Winger	19	4	0	2	1	0	0	0	0
-										
-MILNE, Gordon 	Midfielder	38	2	0	6	0	0	0	0	0
-										
-O'FARRELL, Frank 	Wing Half	10	1	0	0	0	0	0	0	0
-										
-RICHARDSON, Garbutt 	Central Defender	13	0	0	1	0	0	0	0	0
-										
-SMITH, Jim 	Central Defender	34	3	0	6	0	0	0	0	0
-										
-SNEDDON, Dave 	Inside Forward	40	11	0	6	3	0	0	0	0
-										
-TAYLOR, Sammy 	Winger	34	10	0	6	4	0	0	0	0
-										
-THOMPSON, Tommy 	Inside Forward	21	12	0	6	2	0	0	0	0
-										
-WALTON, Joe 	Full Back	42	1	0	6	0	0	0	0	0
-										
-WILSON, Bob 	Full Back	15	0	0	6	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALSTON, Alec ",Forward,10,3,0,0,0,0,0,0,0
+,"CAMPBELL, Les ",Winger,8,2,0,0,0,0,0,0,0
+,"CUNNINGHAM, Willie ",Full Back,24,1,0,0,0,0,0,0,0
+,"DAGGER, Les ",Winger,14,5,0,4,0,0,0,0,0
+,"DUNN, Joe ",Central Defender,29,0,0,5,0,0,0,0,0
+,"ELSE, Fred ",Goalkeeper,42,0,0,6,0,0,0,0,0
+,"FARRALL, Alec ",Midfielder,10,4,1,0,0,0,0,0,0
+,"FINNEY, Tom ",Winger,37,17,2,6,4,0,0,0,0
+,"FULLAM, Johnny ",Wing Half,12,0,0,0,0,0,0,0,0
+,"HATSELL, Dennis ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"HEYES, Ken ",Full Back,3,0,0,0,0,0,0,0,0
+,"HUMES, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"LAMBERT, Gil ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"MAYERS, Derek ",Winger,19,4,0,2,1,0,0,0,0
+,"MILNE, Gordon ",Midfielder,38,2,0,6,0,0,0,0,0
+,"O'FARRELL, Frank ",Wing Half,10,1,0,0,0,0,0,0,0
+,"RICHARDSON, Garbutt ",Central Defender,13,0,0,1,0,0,0,0,0
+,"SMITH, Jim ",Central Defender,34,3,0,6,0,0,0,0,0
+,"SNEDDON, Dave ",Inside Forward,40,11,0,6,3,0,0,0,0
+,"TAYLOR, Sammy ",Winger,34,10,0,6,4,0,0,0,0
+,"THOMPSON, Tommy ",Inside Forward,21,12,0,6,2,0,0,0,0
+,"WALTON, Joe ",Full Back,42,1,0,6,0,0,0,0,0
+,"WILSON, Bob ",Full Back,15,0,0,6,0,0,0,0,0

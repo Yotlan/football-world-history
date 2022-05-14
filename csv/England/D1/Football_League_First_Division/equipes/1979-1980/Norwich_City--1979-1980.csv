@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1979/80
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARHAM, Mark 	Winger	3+1	0	0	0	0	0	0	0	0
-										
-BENNETT, Dave 	Winger	4	0	0	0	0	0	1	1	0
-										
-BOND, Kevin 	Central Defender	40	9	6	3	2	0	5	0	0
-										
-BROWN, Roger 	Central Defender	16	0	0	3	0	0	2	0	0
-										
-BUDD, Kevin 	Full Back	0	0	0	0	0	0	0	0	0
-										
-DOWNS, Greg 	Full Back	17+1	0	0	3	0	0	3	0	0
-										
-EVANS, Doug 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-FASHANU, Justin 	Forward	31+3	11	0	3	1	0	4	1	0
-										
-GOBLE, Steve 	Winger	5	1	0	0	0	0	2	0	0
-										
-HALSEY, Mark 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-HANSBURY, Roger 	Goalkeeper	16	0	0	0	0	0	0	0	0
-										
-HOADLEY, Phil 	Central Defender	15	0	0	0	0	0	4	1	0
-										
-JONES, David 	Central Defender	22+1	1	0	0	0	0	0+1	0	0
-										
-KEELAN, Kevin 	Goalkeeper	26	0	0	3	0	0	6	0	0
-										
-LYTHGOE, Phil 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-MCDOWELL, John 	Full Back	20+1	0	0	0	0	0	2	0	0
-										
-MCGUIRE, Mick 	Midfielder	14+5	2	0	0	0	0	4	1	0
-										
-MENDHAM, Peter 	Midfielder	17+3	2	0	3	1	0	1	0	0
-										
-NEIGHBOUR, Jimmy 	Winger	5	0	0	0	0	0	1	0	0
-										
-NIGHTINGALE, Mark 	Full Back	6+3	0	0	0	0	0	2	0	0
-										
-PADDON, Graham 	Midfielder	39+1	2	0	3	1	0	6	2	0
-										
-PETERS, Martin 	Midfielder	40	8	0	3	0	0	5	0	0
-										
-POWELL, Tony 	Central Defender	21	0	0	3	0	0	4	0	0
-										
-REEVES, Kevin 	Forward	23	8	0	2	0	0	6	4	0
-										
-ROBSON, Keith 	Forward	23	8	0	1	1	0	2	0	0
-										
-RYAN, John 	Full Back	10+2	0	0	3	0	0	2+1	0	0
-										
-SHEPHERD, Greig 	Forward	1	0	0	0+1	0	0	0	0	0
-										
-SYMONDS, Richard 	Full Back	14+1	0	0	0	0	0	1	0	0
-										
-TAYLOR, Alan 	Forward	20+4	5	0	0	0	0	3+1	2	0
-										
-WOODS, Clive 	Winger	11	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARHAM, Mark ",Winger,3+1,0,0,0,0,0,0,0,0
+,"BENNETT, Dave ",Winger,4,0,0,0,0,0,1,1,0
+,"BOND, Kevin ",Central Defender,40,9,6,3,2,0,5,0,0
+,"BROWN, Roger ",Central Defender,16,0,0,3,0,0,2,0,0
+,"BUDD, Kevin ",Full Back,0,0,0,0,0,0,0,0,0
+,"DOWNS, Greg ",Full Back,17+1,0,0,3,0,0,3,0,0
+,"EVANS, Doug ",Midfielder,1,0,0,0,0,0,0,0,0
+,"FASHANU, Justin ",Forward,31+3,11,0,3,1,0,4,1,0
+,"GOBLE, Steve ",Winger,5,1,0,0,0,0,2,0,0
+,"HALSEY, Mark ",Midfielder,2,0,0,0,0,0,0,0,0
+,"HANSBURY, Roger ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"HOADLEY, Phil ",Central Defender,15,0,0,0,0,0,4,1,0
+,"JONES, David ",Central Defender,22+1,1,0,0,0,0,0+1,0,0
+,"KEELAN, Kevin ",Goalkeeper,26,0,0,3,0,0,6,0,0
+,"LYTHGOE, Phil ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"MCDOWELL, John ",Full Back,20+1,0,0,0,0,0,2,0,0
+,"MCGUIRE, Mick ",Midfielder,14+5,2,0,0,0,0,4,1,0
+,"MENDHAM, Peter ",Midfielder,17+3,2,0,3,1,0,1,0,0
+,"NEIGHBOUR, Jimmy ",Winger,5,0,0,0,0,0,1,0,0
+,"NIGHTINGALE, Mark ",Full Back,6+3,0,0,0,0,0,2,0,0
+,"PADDON, Graham ",Midfielder,39+1,2,0,3,1,0,6,2,0
+,"PETERS, Martin ",Midfielder,40,8,0,3,0,0,5,0,0
+,"POWELL, Tony ",Central Defender,21,0,0,3,0,0,4,0,0
+,"REEVES, Kevin ",Forward,23,8,0,2,0,0,6,4,0
+,"ROBSON, Keith ",Forward,23,8,0,1,1,0,2,0,0
+,"RYAN, John ",Full Back,10+2,0,0,3,0,0,2+1,0,0
+,"SHEPHERD, Greig ",Forward,1,0,0,0+1,0,0,0,0,0
+,"SYMONDS, Richard ",Full Back,14+1,0,0,0,0,0,1,0,0
+,"TAYLOR, Alan ",Forward,20+4,5,0,0,0,0,3+1,2,0
+,"WOODS, Clive ",Winger,11,1,0,0,0,0,0,0,0

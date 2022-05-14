@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1971/72
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Bobby 	Central Defender	10	0	0	0	0	0	0	0	0
-										
-BIRCHENALL, Alan 	Midfielder	5	1	0	0	0	0	0	0	0
-										
-BLYTH, Mel 	Central Defender	41	2	0	2	0	0	3	0	0
-										
-CRAVEN, John 	Midfielder	33	7	0	2	0	0	2	1	0
-										
-GOLDTHORPE, Bobby 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-GOODWIN, Sam 	Midfielder	18+7	0	0	0	0	0	2	0	0
-										
-HOADLEY, Phil 	Central Defender	6+3	0	0	0	0	0	1	0	0
-										
-HUGHES, John 	Forward	10	3	0	2	0	0	0	0	0
-										
-JACKSON, John 	Goalkeeper	42	0	0	2	0	0	3	0	0
-										
-JENKINS, Ross 	Forward	4	1	0	0	0	0	1	0	0
-										
-KELLARD, Bobby 	Midfielder	32	3	3	2	0	0	0	0	0
-										
-KEMBER, Steve 	Midfielder	9	0	0	0	0	0	1	0	0
-										
-LOUGHLAN, John 	Full Back	0+2	0	0	0	0	0	0	0	0
-										
-MCCORMICK, John 	Central Defender	35	1	0	2	0	0	3	0	0
-										
-NORRIS, Graham 	Winger	0	0	0	0	0	0	0	0	0
-										
-PAYNE, David 	Full Back	41	1	0	2	0	0	3	0	0
-										
-PINKNEY, Alan 	Midfielder	1+1	0	0	0	0	0	2	0	0
-										
-QUEEN, Gerry 	Forward	31+2	5	0	1	0	0	2	1	0
-										
-SCOTT, Jim 	Winger	4+2	1	0	0	0	0	1	0	0
-										
-TAMBLING, Bobby 	Forward	33	8	0	1	2	0	3	1	1
-										
-TAYLOR, Tony 	Full Back	41	2	0	2	0	0	3	1	0
-										
-WALL, Peter 	Full Back	32+4	1	0	2	0	0	3	0	0
-										
-WALLACE, Willie 	Forward	27+2	3	0	2	2	0	0	0	0
-										
-WHARTON, Terry 	Winger	6	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Bobby ",Central Defender,10,0,0,0,0,0,0,0,0
+,"BIRCHENALL, Alan ",Midfielder,5,1,0,0,0,0,0,0,0
+,"BLYTH, Mel ",Central Defender,41,2,0,2,0,0,3,0,0
+,"CRAVEN, John ",Midfielder,33,7,0,2,0,0,2,1,0
+,"GOLDTHORPE, Bobby ",Central Defender,1,0,0,0,0,0,0,0,0
+,"GOODWIN, Sam ",Midfielder,18+7,0,0,0,0,0,2,0,0
+,"HOADLEY, Phil ",Central Defender,6+3,0,0,0,0,0,1,0,0
+,"HUGHES, John ",Forward,10,3,0,2,0,0,0,0,0
+,"JACKSON, John ",Goalkeeper,42,0,0,2,0,0,3,0,0
+,"JENKINS, Ross ",Forward,4,1,0,0,0,0,1,0,0
+,"KELLARD, Bobby ",Midfielder,32,3,3,2,0,0,0,0,0
+,"KEMBER, Steve ",Midfielder,9,0,0,0,0,0,1,0,0
+,"LOUGHLAN, John ",Full Back,0+2,0,0,0,0,0,0,0,0
+,"MCCORMICK, John ",Central Defender,35,1,0,2,0,0,3,0,0
+,"NORRIS, Graham ",Winger,0,0,0,0,0,0,0,0,0
+,"PAYNE, David ",Full Back,41,1,0,2,0,0,3,0,0
+,"PINKNEY, Alan ",Midfielder,1+1,0,0,0,0,0,2,0,0
+,"QUEEN, Gerry ",Forward,31+2,5,0,1,0,0,2,1,0
+,"SCOTT, Jim ",Winger,4+2,1,0,0,0,0,1,0,0
+,"TAMBLING, Bobby ",Forward,33,8,0,1,2,0,3,1,1
+,"TAYLOR, Tony ",Full Back,41,2,0,2,0,0,3,1,0
+,"WALL, Peter ",Full Back,32+4,1,0,2,0,0,3,0,0
+,"WALLACE, Willie ",Forward,27+2,3,0,2,2,0,0,0,0
+,"WHARTON, Terry ",Winger,6,0,0,0,0,0,0,0,0

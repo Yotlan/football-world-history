@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1946/47
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Harry 	Wing Half	31	0	0	4	0	0	0	0	0
-										
-BRIGGS, Wally 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-CUMMING, Dave 	Goalkeeper	37	0	0	7	0	0	0	0	0
-										
-DEWS, George 	Inside Forward	27	8	0	6	0	0	0	0	0
-										
-DOBBIE, Harold 	Centre Forward	4	2	0	0	0	0	0	0	0
-										
-DOUGLAS, John 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-FENTON, Micky 	Centre Forward	40	18	0	7	5	0	0	0	0
-										
-GALLACHER, Con 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-GORDON, Jimmy 	Wing Half	36	1	0	7	0	0	0	0	0
-										
-HARDWICK, George 	Full Back	33	1	1	7	0	0	0	0	0
-										
-HEPPLE, Gordon 	Full Back	1	0	0	0	0	0	0	0	0
-										
-LAKING, George 	Full Back	1	0	0	0	0	0	0	0	0
-										
-LINWOOD, Alec 	Centre Forward	14	3	0	1	0	0	0	0	0
-										
-MADDISON, Jimmy 	Winger	1	0	0	0	0	0	0	0	0
-										
-MALAN, Norman 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-MANNION, Wilf 	Inside Forward	37	18	2	7	5	2	0	0	0
-										
-MATTINSON, Harry 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-MCCABE, Jim 	Wing Half	27	0	0	5	0	0	0	0	0
-										
-MCCORMACK, Cec 	Centre Forward	3	0	0	0	0	0	0	0	0
-										
-MURPHY, Eddie 	Inside Forward	8	1	0	0	0	0	0	0	0
-										
-NASH, Paddy 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-ROBINSON, Norman 	Central Defender	15	0	0	1	0	0	0	0	0
-										
-ROBINSON, Dicky 	Full Back	40	0	0	7	0	0	0	0	0
-										
-SHEPHERDSON, Harold 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-SPUHLER, Johnny 	Winger	32	10	0	7	4	0	0	0	0
-										
-STUART, Bobby 	Full Back	20	0	0	5	0	0	0	0	0
-										
-WALKER, Geoff 	Winger	41	8	0	6	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Harry ",Wing Half,31,0,0,4,0,0,0,0,0
+,"BRIGGS, Wally ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CUMMING, Dave ",Goalkeeper,37,0,0,7,0,0,0,0,0
+,"DEWS, George ",Inside Forward,27,8,0,6,0,0,0,0,0
+,"DOBBIE, Harold ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"DOUGLAS, John ",Wing Half,2,0,0,0,0,0,0,0,0
+,"FENTON, Micky ",Centre Forward,40,18,0,7,5,0,0,0,0
+,"GALLACHER, Con ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GORDON, Jimmy ",Wing Half,36,1,0,7,0,0,0,0,0
+,"HARDWICK, George ",Full Back,33,1,1,7,0,0,0,0,0
+,"HEPPLE, Gordon ",Full Back,1,0,0,0,0,0,0,0,0
+,"LAKING, George ",Full Back,1,0,0,0,0,0,0,0,0
+,"LINWOOD, Alec ",Centre Forward,14,3,0,1,0,0,0,0,0
+,"MADDISON, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"MALAN, Norman ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MANNION, Wilf ",Inside Forward,37,18,2,7,5,2,0,0,0
+,"MATTINSON, Harry ",Central Defender,3,0,0,0,0,0,0,0,0
+,"MCCABE, Jim ",Wing Half,27,0,0,5,0,0,0,0,0
+,"MCCORMACK, Cec ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"MURPHY, Eddie ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"NASH, Paddy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"ROBINSON, Norman ",Central Defender,15,0,0,1,0,0,0,0,0
+,"ROBINSON, Dicky ",Full Back,40,0,0,7,0,0,0,0,0
+,"SHEPHERDSON, Harold ",Central Defender,3,0,0,0,0,0,0,0,0
+,"SPUHLER, Johnny ",Winger,32,10,0,7,4,0,0,0,0
+,"STUART, Bobby ",Full Back,20,0,0,5,0,0,0,0,0
+,"WALKER, Geoff ",Winger,41,8,0,6,1,0,0,0,0

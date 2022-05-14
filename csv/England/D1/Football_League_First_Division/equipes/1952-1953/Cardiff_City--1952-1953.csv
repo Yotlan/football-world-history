@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1952/53
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Billy 	Wing Half	29	0	0	1	1	0	0	0	0
-										
-BLAIR, Dougie 	Inside Forward	32	4	0	1	0	0	0	0	0
-										
-CALLAN, Dennis 	Winger	0	0	0	0	0	0	0	0	0
-										
-CHISHOLM, Ken 	Inside Forward	34	13	0	1	0	0	0	0	0
-										
-EDWARDS, George 	Winger	28	4	0	1	0	0	0	0	0
-										
-FROWEN, John 	Full Back	6	0	0	0	0	0	0	0	0
-										
-GRANT, Wilf 	Centre Forward	31	11	0	1	0	0	0	0	0
-										
-HARRINGTON, Alan 	Full Back	10	0	0	0	0	0	0	0	0
-										
-HAZLETT, George 	Winger	7	1	0	0	0	0	0	0	0
-										
-HOLLYMAN, Ken 	Wing Half	7	0	0	0	0	0	0	0	0
-										
-HOWELLS, Ron 	Goalkeeper	41	0	0	1	0	0	0	0	0
-										
-MANSELL, Jack 	Full Back	11	0	0	1	0	0	0	0	0
-										
-MCLAUGHLIN, Bobby 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-MONTGOMERY, Stan 	Central Defender	39	0	0	1	0	0	0	0	0
-										
-MORGAN, Wendell 	Winger	0	0	0	0	0	0	0	0	0
-										
-NORTHCOTT, Tommy 	Centre Forward	23	5	0	0	0	0	0	0	0
-										
-NUGENT, Cliff 	Winger	0	0	0	1	0	0	0	0	0
-										
-SHERWOOD, Alf 	Full Back	39	2	0	1	0	0	0	0	0
-										
-STITFALL, Ron 	Full Back	27	0	0	0	0	0	0	0	0
-										
-SULLIVAN, Derrick 	Wing Half	21	0	0	1	0	0	0	0	0
-										
-THOMAS, Keith 	Winger	6	4	0	0	0	0	0	0	0
-										
-TIDDY, Mike 	Winger	32	5	0	0	0	0	0	0	0
-										
-VEARNCOMBE, Graham 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Roley 	Inside Forward	21	5	0	0	0	0	0	0	0
-										
-WILLIAMS, Glyn 	Wing Half	14	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Billy ",Wing Half,29,0,0,1,1,0,0,0,0
+,"BLAIR, Dougie ",Inside Forward,32,4,0,1,0,0,0,0,0
+,"CALLAN, Dennis ",Winger,0,0,0,0,0,0,0,0,0
+,"CHISHOLM, Ken ",Inside Forward,34,13,0,1,0,0,0,0,0
+,"EDWARDS, George ",Winger,28,4,0,1,0,0,0,0,0
+,"FROWEN, John ",Full Back,6,0,0,0,0,0,0,0,0
+,"GRANT, Wilf ",Centre Forward,31,11,0,1,0,0,0,0,0
+,"HARRINGTON, Alan ",Full Back,10,0,0,0,0,0,0,0,0
+,"HAZLETT, George ",Winger,7,1,0,0,0,0,0,0,0
+,"HOLLYMAN, Ken ",Wing Half,7,0,0,0,0,0,0,0,0
+,"HOWELLS, Ron ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"MANSELL, Jack ",Full Back,11,0,0,1,0,0,0,0,0
+,"MCLAUGHLIN, Bobby ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MONTGOMERY, Stan ",Central Defender,39,0,0,1,0,0,0,0,0
+,"MORGAN, Wendell ",Winger,0,0,0,0,0,0,0,0,0
+,"NORTHCOTT, Tommy ",Centre Forward,23,5,0,0,0,0,0,0,0
+,"NUGENT, Cliff ",Winger,0,0,0,1,0,0,0,0,0
+,"SHERWOOD, Alf ",Full Back,39,2,0,1,0,0,0,0,0
+,"STITFALL, Ron ",Full Back,27,0,0,0,0,0,0,0,0
+,"SULLIVAN, Derrick ",Wing Half,21,0,0,1,0,0,0,0,0
+,"THOMAS, Keith ",Winger,6,4,0,0,0,0,0,0,0
+,"TIDDY, Mike ",Winger,32,5,0,0,0,0,0,0,0
+,"VEARNCOMBE, Graham ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Roley ",Inside Forward,21,5,0,0,0,0,0,0,0
+,"WILLIAMS, Glyn ",Wing Half,14,0,0,0,0,0,0,0,0

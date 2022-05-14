@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1953/54
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AINSCOUGH, Jack 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-BROWN, Allan 	Inside Forward	26	11	0	7	2	0	0	0	0
-										
-CROSLAND, Johnny 	Central Defender	10	0	0	4	0	0	0	0	0
-										
-DURIE, Dave 	Wing Half	4	1	0	0	0	0	0	0	0
-										
-FARM, George 	Goalkeeper	33	0	0	7	0	0	1	0	0
-										
-FENTON, Ewan 	Wing Half	36	3	2	6	0	0	1	0	0
-										
-FRITH, David 	Full Back	7	0	0	4	0	0	0	0	0
-										
-GARRETT, Tommy 	Full Back	28	0	0	3	0	0	1	0	0
-										
-GRATRIX, Roy 	Central Defender	9	0	0	0	0	0	0	0	0
-										
-GRYBA, Ray 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HARRIS, Sandy 	Winger	5	0	0	0	0	0	0	0	0
-										
-HOBSON, Albert 	Winger	5	0	0	0	0	0	0	0	0
-										
-JOHNSTON, Harry 	Wing Half	35	0	0	4	1	0	1	0	0
-										
-KELLY, Hugh 	Wing Half	36	0	0	6	0	0	1	0	0
-										
-MATTHEWS, Stanley 	Winger	30	2	0	7	0	0	1	0	0
-										
-MCKNIGHT, George 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-MORTENSEN, Stan 	Centre Forward	31	21	0	2	1	0	1	1	0
-										
-MUDIE, Jackie 	Inside Forward	25	11	0	1	0	0	1	0	0
-										
-PERRY, Bill 	Winger	42	15	0	7	3	0	1	0	0
-										
-ROBINSON, Cyril 	Wing Half	4	0	0	1	0	0	0	0	0
-										
-SHIMWELL, Eddie 	Full Back	32	0	0	7	0	0	1	0	0
-										
-STEPHENSON, Len 	Centre Forward	9	4	0	4	1	0	0	0	0
-										
-TAYLOR, Ernie 	Inside Forward	34	12	0	7	0	0	1	0	0
-										
-WITHERS, Alan 	Winger	1	0	0	0	0	0	0	0	0
-										
-WRIGHT, Jackie 	Full Back	9	0	0	0	0	0	0	0	0
-										
-WYLLIE, Bob 	Goalkeeper	9	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AINSCOUGH, Jack ",Central Defender,1,0,0,0,0,0,0,0,0
+,"BROWN, Allan ",Inside Forward,26,11,0,7,2,0,0,0,0
+,"CROSLAND, Johnny ",Central Defender,10,0,0,4,0,0,0,0,0
+,"DURIE, Dave ",Wing Half,4,1,0,0,0,0,0,0,0
+,"FARM, George ",Goalkeeper,33,0,0,7,0,0,1,0,0
+,"FENTON, Ewan ",Wing Half,36,3,2,6,0,0,1,0,0
+,"FRITH, David ",Full Back,7,0,0,4,0,0,0,0,0
+,"GARRETT, Tommy ",Full Back,28,0,0,3,0,0,1,0,0
+,"GRATRIX, Roy ",Central Defender,9,0,0,0,0,0,0,0,0
+,"GRYBA, Ray ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HARRIS, Sandy ",Winger,5,0,0,0,0,0,0,0,0
+,"HOBSON, Albert ",Winger,5,0,0,0,0,0,0,0,0
+,"JOHNSTON, Harry ",Wing Half,35,0,0,4,1,0,1,0,0
+,"KELLY, Hugh ",Wing Half,36,0,0,6,0,0,1,0,0
+,"MATTHEWS, Stanley ",Winger,30,2,0,7,0,0,1,0,0
+,"MCKNIGHT, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MORTENSEN, Stan ",Centre Forward,31,21,0,2,1,0,1,1,0
+,"MUDIE, Jackie ",Inside Forward,25,11,0,1,0,0,1,0,0
+,"PERRY, Bill ",Winger,42,15,0,7,3,0,1,0,0
+,"ROBINSON, Cyril ",Wing Half,4,0,0,1,0,0,0,0,0
+,"SHIMWELL, Eddie ",Full Back,32,0,0,7,0,0,1,0,0
+,"STEPHENSON, Len ",Centre Forward,9,4,0,4,1,0,0,0,0
+,"TAYLOR, Ernie ",Inside Forward,34,12,0,7,0,0,1,0,0
+,"WITHERS, Alan ",Winger,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Jackie ",Full Back,9,0,0,0,0,0,0,0,0
+,"WYLLIE, Bob ",Goalkeeper,9,0,0,0,0,0,0,0,0

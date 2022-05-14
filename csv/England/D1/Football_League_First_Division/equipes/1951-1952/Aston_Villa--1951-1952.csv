@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1951/52
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDIS, Peter 	Full Back	17	0	0	0	0	0	0	0	0
-										
-BLANCHFLOWER, Danny 	Wing Half	42	0	0	1	0	0	0	0	0
-										
-CANNING, Larry 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-CORDELL, Graham 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-DIXON, Johnny 	Inside Forward	42	26	0	1	2	0	0	0	0
-										
-DORSETT, Dickie 	Wing Half	38	1	0	1	0	0	0	0	0
-										
-GIBSON, Colin 	Winger	19	6	0	1	0	0	0	0	0
-										
-GOFFIN, Billy 	Winger	35	10	0	1	0	0	0	0	0
-										
-JONES, Keith 	Goalkeeper	11	0	0	0	0	0	0	0	0
-										
-LYNN, Stan 	Full Back	25	1	0	1	0	0	0	0	0
-										
-MARTIN, Con 	Central Defender	27	0	0	1	0	0	0	0	0
-										
-MOSS, Amos 	Wing Half	11	1	0	0	0	0	0	0	0
-										
-MOSS, Frank 	Central Defender	39	0	0	1	0	0	0	0	0
-										
-PACE, Derek 'Doc' 	Centre Forward	7	2	0	0	0	0	0	0	0
-										
-PARKES, Harry 	Full Back	42	0	0	1	0	0	0	0	0
-										
-ROBERTS, Ken 	Winger	8	1	0	0	0	0	0	0	0
-										
-RUTHERFORD, Joe 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-SMITH, Herbie 	Winger	26	4	0	1	0	0	0	0	0
-										
-SMITH, Leslie 	Winger	8	3	0	0	0	0	0	0	0
-										
-THOMPSON, Tommy 	Inside Forward	36	13	0	1	0	0	0	0	0
-										
-WALSH, Davy 	Centre Forward	23	8	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDIS, Peter ",Full Back,17,0,0,0,0,0,0,0,0
+,"BLANCHFLOWER, Danny ",Wing Half,42,0,0,1,0,0,0,0,0
+,"CANNING, Larry ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CORDELL, Graham ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"DIXON, Johnny ",Inside Forward,42,26,0,1,2,0,0,0,0
+,"DORSETT, Dickie ",Wing Half,38,1,0,1,0,0,0,0,0
+,"GIBSON, Colin ",Winger,19,6,0,1,0,0,0,0,0
+,"GOFFIN, Billy ",Winger,35,10,0,1,0,0,0,0,0
+,"JONES, Keith ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"LYNN, Stan ",Full Back,25,1,0,1,0,0,0,0,0
+,"MARTIN, Con ",Central Defender,27,0,0,1,0,0,0,0,0
+,"MOSS, Amos ",Wing Half,11,1,0,0,0,0,0,0,0
+,"MOSS, Frank ",Central Defender,39,0,0,1,0,0,0,0,0
+,"PACE, Derek 'Doc' ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"PARKES, Harry ",Full Back,42,0,0,1,0,0,0,0,0
+,"ROBERTS, Ken ",Winger,8,1,0,0,0,0,0,0,0
+,"RUTHERFORD, Joe ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"SMITH, Herbie ",Winger,26,4,0,1,0,0,0,0,0
+,"SMITH, Leslie ",Winger,8,3,0,0,0,0,0,0,0
+,"THOMPSON, Tommy ",Inside Forward,36,13,0,1,0,0,0,0,0
+,"WALSH, Davy ",Centre Forward,23,8,0,0,0,0,0,0,0

@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1987/88
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABLETT, Gary 	Central Defender	15+2	0	0	5	0	0	0	0	0
-										
-ALDRIDGE, John 	Forward	36	26	10	6	2	1	3	1	0
-										
-BARNES, John 	Winger	38	15	0	7	2	0	3	0	0
-										
-BEARDSLEY, Peter 	Forward	36+2	15	0	7	3	1	3	0	0
-										
-BOYD, Charlie 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-DALEY, Peter 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-DALGLISH, Kenny 	Forward	0+2	0	0	0	0	0	0	0	0
-										
-GILLESPIE, Gary 	Central Defender	35	4	0	5	0	0	2	0	0
-										
-GROBBELAAR, Bruce 	Goalkeeper	38	0	0	5	0	0	3	0	0
-										
-HANSEN, Alan 	Central Defender	39	1	0	7	0	0	3	0	0
-										
-HOOPER, Mike 	Goalkeeper	2	0	0	2	0	0	0	0	0
-										
-HOUGHTON, Ray 	Midfielder	26+2	5	0	7	2	0	0	0	0
-										
-JEFFERS, John 	Winger	0	0	0	0	0	0	0	0	0
-										
-JOHNSTON, Craig 	Midfielder	18+12	5	0	1+2	1	0	2	0	0
-										
-LAWRENSON, Mark 	Central Defender	10+4	0	0	2	0	0	2+1	0	0
-										
-MACDONALD, Kevin 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-MCMAHON, Steve 	Midfielder	40	9	0	7	0	0	2	0	0
-										
-MERCER, Billy 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-MOLBY, Jan 	Midfielder	1+6	0	0	0+1	0	0	0	0	0
-										
-NICOL, Steve 	Midfielder	40	6	0	7	0	0	3	1	0
-										
-SMYTH, John 	Full Back	0	0	0	0	0	0	0	0	0
-										
-SPACKMAN, Nigel 	Midfielder	19+8	0	0	5	0	0	1	0	0
-										
-VENISON, Barry 	Full Back	18	0	0	2	0	0	2	0	0
-										
-WALSH, Paul 	Forward	1+7	0	0	0	0	0	0+1	0	0
-										
-WARK, John 	Midfielder	0+1	0	0	0	0	0	1	0	0
-										
-WATSON, Alex 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-WHELAN, Ronnie 	Midfielder	26+2	1	0	2	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABLETT, Gary ",Central Defender,15+2,0,0,5,0,0,0,0,0
+,"ALDRIDGE, John ",Forward,36,26,10,6,2,1,3,1,0
+,"BARNES, John ",Winger,38,15,0,7,2,0,3,0,0
+,"BEARDSLEY, Peter ",Forward,36+2,15,0,7,3,1,3,0,0
+,"BOYD, Charlie ",Midfielder,0,0,0,0,0,0,0,0,0
+,"DALEY, Peter ",Midfielder,0,0,0,0,0,0,0,0,0
+,"DALGLISH, Kenny ",Forward,0+2,0,0,0,0,0,0,0,0
+,"GILLESPIE, Gary ",Central Defender,35,4,0,5,0,0,2,0,0
+,"GROBBELAAR, Bruce ",Goalkeeper,38,0,0,5,0,0,3,0,0
+,"HANSEN, Alan ",Central Defender,39,1,0,7,0,0,3,0,0
+,"HOOPER, Mike ",Goalkeeper,2,0,0,2,0,0,0,0,0
+,"HOUGHTON, Ray ",Midfielder,26+2,5,0,7,2,0,0,0,0
+,"JEFFERS, John ",Winger,0,0,0,0,0,0,0,0,0
+,"JOHNSTON, Craig ",Midfielder,18+12,5,0,1+2,1,0,2,0,0
+,"LAWRENSON, Mark ",Central Defender,10+4,0,0,2,0,0,2+1,0,0
+,"MACDONALD, Kevin ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"MCMAHON, Steve ",Midfielder,40,9,0,7,0,0,2,0,0
+,"MERCER, Billy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MOLBY, Jan ",Midfielder,1+6,0,0,0+1,0,0,0,0,0
+,"NICOL, Steve ",Midfielder,40,6,0,7,0,0,3,1,0
+,"SMYTH, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"SPACKMAN, Nigel ",Midfielder,19+8,0,0,5,0,0,1,0,0
+,"VENISON, Barry ",Full Back,18,0,0,2,0,0,2,0,0
+,"WALSH, Paul ",Forward,1+7,0,0,0,0,0,0+1,0,0
+,"WARK, John ",Midfielder,0+1,0,0,0,0,0,1,0,0
+,"WATSON, Alex ",Central Defender,2,0,0,0,0,0,0,0,0
+,"WHELAN, Ronnie ",Midfielder,26+2,1,0,2,0,0,3,0,0

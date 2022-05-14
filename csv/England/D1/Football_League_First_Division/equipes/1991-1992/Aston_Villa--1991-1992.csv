@@ -1,83 +1,41 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1991/92
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATKINSON, Dalian 	Forward	11+3	1	0	1	0	0	2	0	0
-										
-BARRETT, Earl 	Full Back	13	0	0	0	0	0	0	0	0
-										
-BEINLICH, Stefan 	Midfielder	0+2	0	0	0	0	0	0+1	0	0
-										
-BERRY, Trevor 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-BLAKE, Mark 	Midfielder	14	2	0	2	0	0	3	0	0
-										
-BODEN, Chris 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BOSNICH, Mark 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-BREITKREUTZ, Matthias 	Midfielder	7+1	0	0	0	0	0	0	0	0
-										
-CARRUTHERS, Martin 	Forward	2+1	0	0	0+1	0	0	0+1	0	0
-										
-COWANS, Gordon 	Midfielder	10+2	0	0	0	0	0	2+1	0	0
-										
-COX, Neil 	Full Back	4+3	0	0	0	0	0	1	0	0
-										
-CRISP, Richard 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-DALEY, Tony 	Winger	29+5	7	0	5	0	0	2	0	0
-										
-EHIOGU, Ugo 	Central Defender	4+4	0	0	0+1	0	0	1	0	0
-										
-FENTON, Graham 	Forward	0	0	0	0	0	0	0	0	0
-										
-FROGGATT, Steve 	Winger	6+3	0	0	2+1	1	0	0	0	0
-										
-GOODWIN, Craig 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-KUBICKI, Dariusz 	Full Back	23	0	0	4+1	0	0	3	0	0
-										
-LIVINGSTONE, Glen 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-MCGRATH, Paul 	Central Defender	41	1	0	5	0	0	2	0	0
-										
-MCLOUGHLIN, Alan 	Midfielder	0	0	0	0	0	0	1	0	0
-										
-MORTIMER, Paul 	Midfielder	10+2	1	0	0	0	0	2	0	0
-										
-MOUNTFIELD, Derek 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-NIELSEN, Kent 	Central Defender	3+3	0	0	0	0	0	1	0	0
-										
-OAKES, Mike 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-OLNEY, Ian 	Forward	14+6	2	0	0	0	0	2+1	1	0
-										
-ORMONDROYD, Ian 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-PARKER, Garry 	Midfielder	25	1	0	5	1	0	0	0	0
-										
-PENRICE, Gary 	Forward	5+3	1	0	0	0	0	0	0	0
-										
-PRICE, Chris 	Full Back	2+1	0	0	0	0	0	1	0	0
-										
-REGIS, Cyrille 	Forward	39	11	0	5	0	0	2	0	0
-										
-RICHARDSON, Kevin 	Midfielder	42	6	0	5	0	0	4	0	0
-										
-SEALEY, Les 	Goalkeeper	18	0	0	4	0	0	2	0	0
-										
-SMALL, Bryan 	Full Back	8	0	0	2+1	0	0	2	0	0
-										
-SPINK, Nigel 	Goalkeeper	23	0	0	1	0	0	2	0	0
-										
-STAUNTON, Steve 	Central Defender	37	4	1	4	0	0	2	0	0
-										
-TEALE, Shaun 	Central Defender	42	0	0	5	0	0	4	1	0
-										
-WILLIAMS, Lee 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-YORKE, Dwight 	Forward	27+5	11	0	5	5	0	3	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATKINSON, Dalian ",Forward,11+3,1,0,1,0,0,2,0,0
+,"BARRETT, Earl ",Full Back,13,0,0,0,0,0,0,0,0
+,"BEINLICH, Stefan ",Midfielder,0+2,0,0,0,0,0,0+1,0,0
+,"BERRY, Trevor ",Midfielder,0,0,0,0,0,0,0,0,0
+,"BLAKE, Mark ",Midfielder,14,2,0,2,0,0,3,0,0
+,"BODEN, Chris ",Full Back,0,0,0,0,0,0,0,0,0
+,"BOSNICH, Mark ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BREITKREUTZ, Matthias ",Midfielder,7+1,0,0,0,0,0,0,0,0
+,"CARRUTHERS, Martin ",Forward,2+1,0,0,0+1,0,0,0+1,0,0
+,"COWANS, Gordon ",Midfielder,10+2,0,0,0,0,0,2+1,0,0
+,"COX, Neil ",Full Back,4+3,0,0,0,0,0,1,0,0
+,"CRISP, Richard ",Midfielder,0,0,0,0,0,0,0,0,0
+,"DALEY, Tony ",Winger,29+5,7,0,5,0,0,2,0,0
+,"EHIOGU, Ugo ",Central Defender,4+4,0,0,0+1,0,0,1,0,0
+,"FENTON, Graham ",Forward,0,0,0,0,0,0,0,0,0
+,"FROGGATT, Steve ",Winger,6+3,0,0,2+1,1,0,0,0,0
+,"GOODWIN, Craig ",Central Defender,0,0,0,0,0,0,0,0,0
+,"KUBICKI, Dariusz ",Full Back,23,0,0,4+1,0,0,3,0,0
+,"LIVINGSTONE, Glen ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MCGRATH, Paul ",Central Defender,41,1,0,5,0,0,2,0,0
+,"MCLOUGHLIN, Alan ",Midfielder,0,0,0,0,0,0,1,0,0
+,"MORTIMER, Paul ",Midfielder,10+2,1,0,0,0,0,2,0,0
+,"MOUNTFIELD, Derek ",Central Defender,2,0,0,0,0,0,0,0,0
+,"NIELSEN, Kent ",Central Defender,3+3,0,0,0,0,0,1,0,0
+,"OAKES, Mike ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"OLNEY, Ian ",Forward,14+6,2,0,0,0,0,2+1,1,0
+,"ORMONDROYD, Ian ",Forward,0+1,0,0,0,0,0,0,0,0
+,"PARKER, Garry ",Midfielder,25,1,0,5,1,0,0,0,0
+,"PENRICE, Gary ",Forward,5+3,1,0,0,0,0,0,0,0
+,"PRICE, Chris ",Full Back,2+1,0,0,0,0,0,1,0,0
+,"REGIS, Cyrille ",Forward,39,11,0,5,0,0,2,0,0
+,"RICHARDSON, Kevin ",Midfielder,42,6,0,5,0,0,4,0,0
+,"SEALEY, Les ",Goalkeeper,18,0,0,4,0,0,2,0,0
+,"SMALL, Bryan ",Full Back,8,0,0,2+1,0,0,2,0,0
+,"SPINK, Nigel ",Goalkeeper,23,0,0,1,0,0,2,0,0
+,"STAUNTON, Steve ",Central Defender,37,4,1,4,0,0,2,0,0
+,"TEALE, Shaun ",Central Defender,42,0,0,5,0,0,4,1,0
+,"WILLIAMS, Lee ",Midfielder,0,0,0,0,0,0,0,0,0
+,"YORKE, Dwight ",Forward,27+5,11,0,5,5,0,3,1,0

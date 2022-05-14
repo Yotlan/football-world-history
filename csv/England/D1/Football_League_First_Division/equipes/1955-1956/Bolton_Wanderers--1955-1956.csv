@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1955/56
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLCOCK, Terry 	Inside Forward	5	1	0	0	0	0	0	0	0
-										
-BALL, John 	Full Back	2	0	0	0	0	0	0	0	0
-										
-BANKS, Tommy 	Full Back	39	0	0	2	0	0	0	0	0
-										
-BANNISTER, Neville 	Winger	2	0	0	0	0	0	0	0	0
-										
-BARNARD, Arthur 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-BARRASS, Malcolm 	Central Defender	32	2	1	1	0	0	0	0	0
-										
-BIRCH, Brian 	Winger	11	0	0	0	0	0	0	0	0
-										
-DEAN, Joe 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-DYER, Ray 	Winger	0	0	0	0	0	0	0	0	0
-										
-EDWARDS, Bryan 	Wing Half	42	2	0	2	0	0	0	0	0
-										
-GREENWOOD, Peter 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-GRIEVES, Ken 	Goalkeeper	37	0	0	1	0	0	0	0	0
-										
-GUBBINS, Ralph 	Winger	34	6	0	2	0	0	0	0	0
-										
-HANSON, Stan 	Goalkeeper	2	0	0	1	0	0	0	0	0
-										
-HARTLE, Roy 	Full Back	40	1	0	2	1	0	0	0	0
-										
-HENNIN, Derek 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-HIGGINS, John 	Central Defender	10	0	0	0	0	0	0	0	0
-										
-HOLDEN, Doug 	Winger	40	4	0	2	0	0	0	0	0
-										
-LEE, Tony 	Winger	0	0	0	0	0	0	0	0	0
-										
-LOFTHOUSE, Nat 	Centre Forward	36	32	1	2	1	0	0	0	0
-										
-MOIR, Willie 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-NEILL, Tommy 	Wing Half	6	1	0	2	1	0	0	0	0
-										
-PARRY, Ray 	Midfielder	33	7	1	2	0	0	0	0	0
-										
-STEVENS, Dennis 	Forward	39	13	0	2	1	0	0	0	0
-										
-STOKES, Derek 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-THORPE, Arthur 	Winger	0	0	0	0	0	0	0	0	0
-										
-THRELFALL, Jack 	Full Back	3	0	0	0	0	0	0	0	0
-										
-WEBSTER, Harry 	Inside Forward	2	1	0	0	0	0	0	0	0
-										
-WHEELER, Johnny 	Wing Half	40	1	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLCOCK, Terry ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"BALL, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"BANKS, Tommy ",Full Back,39,0,0,2,0,0,0,0,0
+,"BANNISTER, Neville ",Winger,2,0,0,0,0,0,0,0,0
+,"BARNARD, Arthur ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BARRASS, Malcolm ",Central Defender,32,2,1,1,0,0,0,0,0
+,"BIRCH, Brian ",Winger,11,0,0,0,0,0,0,0,0
+,"DEAN, Joe ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DYER, Ray ",Winger,0,0,0,0,0,0,0,0,0
+,"EDWARDS, Bryan ",Wing Half,42,2,0,2,0,0,0,0,0
+,"GREENWOOD, Peter ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GRIEVES, Ken ",Goalkeeper,37,0,0,1,0,0,0,0,0
+,"GUBBINS, Ralph ",Winger,34,6,0,2,0,0,0,0,0
+,"HANSON, Stan ",Goalkeeper,2,0,0,1,0,0,0,0,0
+,"HARTLE, Roy ",Full Back,40,1,0,2,1,0,0,0,0
+,"HENNIN, Derek ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HIGGINS, John ",Central Defender,10,0,0,0,0,0,0,0,0
+,"HOLDEN, Doug ",Winger,40,4,0,2,0,0,0,0,0
+,"LEE, Tony ",Winger,0,0,0,0,0,0,0,0,0
+,"LOFTHOUSE, Nat ",Centre Forward,36,32,1,2,1,0,0,0,0
+,"MOIR, Willie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"NEILL, Tommy ",Wing Half,6,1,0,2,1,0,0,0,0
+,"PARRY, Ray ",Midfielder,33,7,1,2,0,0,0,0,0
+,"STEVENS, Dennis ",Forward,39,13,0,2,1,0,0,0,0
+,"STOKES, Derek ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"THORPE, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"THRELFALL, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"WEBSTER, Harry ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"WHEELER, Johnny ",Wing Half,40,1,0,1,0,0,0,0,0

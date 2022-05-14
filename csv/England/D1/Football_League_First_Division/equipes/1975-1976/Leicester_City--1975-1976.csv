@@ -1,45 +1,22 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1975/76
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Brian 	Winger	37+2	4	0	3	0	0	5+1	0	0
-										
-BIRCHENALL, Alan 	Midfielder	7+1	0	0	0	0	0	4	0	0
-										
-BLOCKLEY, Jeff 	Central Defender	31	1	0	3	0	0	4	0	0
-										
-CROSS, Graham 	Central Defender	1+1	0	0	0	0	0	0	0	0
-										
-EARLE, Steve 	Forward	3+1	0	0	0	0	0	0	0	0
-										
-GARLAND, Chris 	Forward	28+2	4	0	3	3	0	7	1	0
-										
-GLOVER, Len 	Winger	0+2	0	0	0	0	0	1	0	0
-										
-HOULT, Alan 	Forward	0	0	0	0	0	0	0	0	0
-										
-KEMBER, Steve 	Midfielder	41	2	0	3	0	0	7	0	0
-										
-LEE, Bob 	Forward	34+4	11	0	3	2	0	5	2	0
-										
-ROFE, Dennis 	Full Back	42	1	0	3	0	0	6	0	0
-										
-SAMMELS, Jon 	Midfielder	31+2	5	2	0+1	0	0	7	3	1
-										
-SIMS, Steve 	Central Defender	10	0	0	0	0	0	3	0	0
-										
-TOMLIN, Dave 	Winger	2	0	0	0	0	0	1+2	0	0
-										
-WALLINGTON, Mark 	Goalkeeper	42	0	0	3	0	0	7	0	0
-										
-WELLER, Keith 	Winger	38+1	7	0	3	0	0	4	1	0
-										
-WHITWORTH, Steve 	Full Back	42	0	0	3	0	0	7	0	0
-										
-WOOLLETT, Alan 	Central Defender	35	0	0	3	0	0	3	0	0
-										
-WORTHINGTON, Frank 	Forward	38+1	9	0	3	0	0	5+1	0	0
-										
-YATES, Steve 	Full Back	0	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Brian ",Winger,37+2,4,0,3,0,0,5+1,0,0
+,"BIRCHENALL, Alan ",Midfielder,7+1,0,0,0,0,0,4,0,0
+,"BLOCKLEY, Jeff ",Central Defender,31,1,0,3,0,0,4,0,0
+,"CROSS, Graham ",Central Defender,1+1,0,0,0,0,0,0,0,0
+,"EARLE, Steve ",Forward,3+1,0,0,0,0,0,0,0,0
+,"GARLAND, Chris ",Forward,28+2,4,0,3,3,0,7,1,0
+,"GLOVER, Len ",Winger,0+2,0,0,0,0,0,1,0,0
+,"HOULT, Alan ",Forward,0,0,0,0,0,0,0,0,0
+,"KEMBER, Steve ",Midfielder,41,2,0,3,0,0,7,0,0
+,"LEE, Bob ",Forward,34+4,11,0,3,2,0,5,2,0
+,"ROFE, Dennis ",Full Back,42,1,0,3,0,0,6,0,0
+,"SAMMELS, Jon ",Midfielder,31+2,5,2,0+1,0,0,7,3,1
+,"SIMS, Steve ",Central Defender,10,0,0,0,0,0,3,0,0
+,"TOMLIN, Dave ",Winger,2,0,0,0,0,0,1+2,0,0
+,"WALLINGTON, Mark ",Goalkeeper,42,0,0,3,0,0,7,0,0
+,"WELLER, Keith ",Winger,38+1,7,0,3,0,0,4,1,0
+,"WHITWORTH, Steve ",Full Back,42,0,0,3,0,0,7,0,0
+,"WOOLLETT, Alan ",Central Defender,35,0,0,3,0,0,3,0,0
+,"WORTHINGTON, Frank ",Forward,38+1,9,0,3,0,0,5+1,0,0
+,"YATES, Steve ",Full Back,0,0,0,0,0,0,1,0,0

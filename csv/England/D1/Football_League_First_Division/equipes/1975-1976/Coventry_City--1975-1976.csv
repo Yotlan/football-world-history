@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1975/76
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLYTH, Jim 	Goalkeeper	19	0	0	1	0	0	0	0	0
-										
-BROGAN, Jim 	Full Back	28	0	0	3	0	0	2	0	0
-										
-CARTWRIGHT, Les 	Midfielder	13+2	1	0	3	0	0	0	0	0
-										
-CATTLIN, Chris 	Full Back	14	0	0	0	0	0	0	0	0
-										
-COOP, Mick 	Full Back	42	4	2	3	0	0	2	0	0
-										
-CRAVEN, John 	Midfielder	27+1	3	0	2	0	0	2	0	0
-										
-CROSS, David 	Forward	37+1	14	0	3	1	0	2	1	0
-										
-DANGERFIELD, Chris 	Forward	0	0	0	0	0	0	0	0	0
-										
-DUGDALE, Alan 	Central Defender	34	0	0	3	0	0	2	0	0
-										
-FERGUSON, Mick 	Forward	11+4	3	0	0	0	0	0+2	1	0
-										
-GREEN, Alan 	Forward	29+2	9	0	3	0	0	2	1	0
-										
-HINDLEY, Peter 	Full Back	1	0	0	0	0	0	0	0	0
-										
-HOLMES, Jimmy 	Full Back	34+1	0	0	3	0	0	1	0	0
-										
-HUTCHISON, Tommy 	Winger	42	1	0	3	0	0	2	0	0
-										
-KING, Bryan 	Goalkeeper	23	0	0	2	0	0	2	0	0
-										
-LLOYD, Larry 	Central Defender	11	0	0	0	0	0	0	0	0
-										
-MORTIMER, Dennis 	Midfielder	22	1	0	0	0	0	2	0	0
-										
-MURPHY, Donal 	Winger	19+3	4	0	3	1	0	0	0	0
-										
-OAKEY, Graham 	Full Back	22+1	0	0	0+1	0	0	2	0	0
-										
-POWELL, Barry 	Midfielder	32+2	7	0	1+1	0	0	1	0	0
-										
-ROBERTS, Brian 	Full Back	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLYTH, Jim ",Goalkeeper,19,0,0,1,0,0,0,0,0
+,"BROGAN, Jim ",Full Back,28,0,0,3,0,0,2,0,0
+,"CARTWRIGHT, Les ",Midfielder,13+2,1,0,3,0,0,0,0,0
+,"CATTLIN, Chris ",Full Back,14,0,0,0,0,0,0,0,0
+,"COOP, Mick ",Full Back,42,4,2,3,0,0,2,0,0
+,"CRAVEN, John ",Midfielder,27+1,3,0,2,0,0,2,0,0
+,"CROSS, David ",Forward,37+1,14,0,3,1,0,2,1,0
+,"DANGERFIELD, Chris ",Forward,0,0,0,0,0,0,0,0,0
+,"DUGDALE, Alan ",Central Defender,34,0,0,3,0,0,2,0,0
+,"FERGUSON, Mick ",Forward,11+4,3,0,0,0,0,0+2,1,0
+,"GREEN, Alan ",Forward,29+2,9,0,3,0,0,2,1,0
+,"HINDLEY, Peter ",Full Back,1,0,0,0,0,0,0,0,0
+,"HOLMES, Jimmy ",Full Back,34+1,0,0,3,0,0,1,0,0
+,"HUTCHISON, Tommy ",Winger,42,1,0,3,0,0,2,0,0
+,"KING, Bryan ",Goalkeeper,23,0,0,2,0,0,2,0,0
+,"LLOYD, Larry ",Central Defender,11,0,0,0,0,0,0,0,0
+,"MORTIMER, Dennis ",Midfielder,22,1,0,0,0,0,2,0,0
+,"MURPHY, Donal ",Winger,19+3,4,0,3,1,0,0,0,0
+,"OAKEY, Graham ",Full Back,22+1,0,0,0+1,0,0,2,0,0
+,"POWELL, Barry ",Midfielder,32+2,7,0,1+1,0,0,1,0,0
+,"ROBERTS, Brian ",Full Back,2,0,0,0,0,0,0,0,0

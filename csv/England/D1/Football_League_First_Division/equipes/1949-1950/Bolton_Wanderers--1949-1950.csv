@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASPINALL, Jack 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-BANKS, Ralph 	Full Back	22	0	0	3	0	0	0	0	0
-										
-BANKS, Tommy 	Full Back	3	0	0	0	0	0	0	0	0
-										
-BARBER, Eric 	Winger	0	0	0	0	0	0	0	0	0
-										
-BARRASS, Malcolm 	Central Defender	36	2	0	3	0	0	0	0	0
-										
-BINGLEY, Walter 	Full Back	2	0	0	0	0	0	0	0	0
-										
-BRADLEY, Jack 	Inside Forward	27	8	0	3	0	0	0	0	0
-										
-CORFIELD, Ernie 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-CUNLIFFE, Jack 'Dickie' 	Winger	0	0	0	0	0	0	0	0	0
-										
-DILLON, Vince 	Centre Forward	5	0	0	0	0	0	0	0	0
-										
-ELVY, Reg 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-EVANS, Ron 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-GILLIES, Matt 	Central Defender	41	0	0	3	0	0	0	0	0
-										
-HANSON, Stan 	Goalkeeper	39	0	0	3	0	0	0	0	0
-										
-HERNON, Jimmy 	Inside Forward	22	1	0	0	0	0	0	0	0
-										
-HOWE, Don 	Wing Half	38	5	3	3	0	0	0	0	0
-										
-HUGHES, Billy 	Winger	6	0	0	0	0	0	0	0	0
-										
-JACKSON, Jimmy 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-KENYON, Roy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-KINSELL, Harry 	Full Back	17	0	0	0	0	0	0	0	0
-										
-LANGTON, Bobby 	Winger	23	1	0	3	1	0	0	0	0
-										
-LAYTON, Alan 	Winger	0	0	0	0	0	0	0	0	0
-										
-LOFTHOUSE, Nat 	Centre Forward	35	10	0	3	3	0	0	0	0
-										
-MCMILLAN, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-MCSHANE, Harry 	Winger	40	4	0	3	1	0	0	0	0
-										
-MOIR, Willie 	Inside Forward	31	9	0	3	0	0	0	0	0
-										
-MURPHY, Danny 	Wing Half	21	1	0	0	0	0	0	0	0
-										
-PRICE, Dudley 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-ROBERTS, Jackie 	Full Back	37	3	3	3	0	0	0	0	0
-										
-WEBSTER, Harry 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-WOOD, Les 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-WOODWARD, Tom 	Winger	7	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASPINALL, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BANKS, Ralph ",Full Back,22,0,0,3,0,0,0,0,0
+,"BANKS, Tommy ",Full Back,3,0,0,0,0,0,0,0,0
+,"BARBER, Eric ",Winger,0,0,0,0,0,0,0,0,0
+,"BARRASS, Malcolm ",Central Defender,36,2,0,3,0,0,0,0,0
+,"BINGLEY, Walter ",Full Back,2,0,0,0,0,0,0,0,0
+,"BRADLEY, Jack ",Inside Forward,27,8,0,3,0,0,0,0,0
+,"CORFIELD, Ernie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"CUNLIFFE, Jack 'Dickie' ",Winger,0,0,0,0,0,0,0,0,0
+,"DILLON, Vince ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"ELVY, Reg ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"EVANS, Ron ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GILLIES, Matt ",Central Defender,41,0,0,3,0,0,0,0,0
+,"HANSON, Stan ",Goalkeeper,39,0,0,3,0,0,0,0,0
+,"HERNON, Jimmy ",Inside Forward,22,1,0,0,0,0,0,0,0
+,"HOWE, Don ",Wing Half,38,5,3,3,0,0,0,0,0
+,"HUGHES, Billy ",Winger,6,0,0,0,0,0,0,0,0
+,"JACKSON, Jimmy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"KENYON, Roy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"KINSELL, Harry ",Full Back,17,0,0,0,0,0,0,0,0
+,"LANGTON, Bobby ",Winger,23,1,0,3,1,0,0,0,0
+,"LAYTON, Alan ",Winger,0,0,0,0,0,0,0,0,0
+,"LOFTHOUSE, Nat ",Centre Forward,35,10,0,3,3,0,0,0,0
+,"MCMILLAN, George ",Winger,0,0,0,0,0,0,0,0,0
+,"MCSHANE, Harry ",Winger,40,4,0,3,1,0,0,0,0
+,"MOIR, Willie ",Inside Forward,31,9,0,3,0,0,0,0,0
+,"MURPHY, Danny ",Wing Half,21,1,0,0,0,0,0,0,0
+,"PRICE, Dudley ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Jackie ",Full Back,37,3,3,3,0,0,0,0,0
+,"WEBSTER, Harry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WOOD, Les ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WOODWARD, Tom ",Winger,7,1,0,0,0,0,0,0,0

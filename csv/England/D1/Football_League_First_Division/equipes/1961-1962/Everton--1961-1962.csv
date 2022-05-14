@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1961/62
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BINGHAM, Billy 	Winger	37	9	0	3	1	0	0	0	0
-										
-BRADLEY, Keith 	Full Back	0	0	0	0	0	0	0	0	0
-										
-COLLINS, Bobby 	Midfielder	19	5	0	3	2	0	0	0	0
-										
-DUNLOP, Albert 	Goalkeeper	30	0	0	3	0	0	0	0	0
-										
-FELL, Jimmy 	Winger	21	4	0	1	1	0	0	0	0
-										
-GABRIEL, Jimmy 	Midfielder	42	6	0	3	0	0	0	0	0
-										
-GANNON, Mick 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-GREEN, Colin 	Full Back	8	1	0	2	0	0	0	0	0
-										
-HARRIS, Brian 	Central Defender	33	1	0	3	0	0	0	0	0
-										
-JARVIS, Alan 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-JONES, Tommy 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-LABONE, Brian 	Central Defender	41	0	0	3	0	0	0	0	0
-										
-LILL, Mickey 	Winger	11	1	0	2	1	0	0	0	0
-										
-MEAGAN, Mick 	Central Defender	18	0	0	0	0	0	0	0	0
-										
-PARKER, Alex 	Full Back	31	0	0	3	0	0	0	0	0
-										
-PARNELL, Roy 	Winger	1	0	0	0	0	0	0	0	0
-										
-RUSSELL, Alex 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-STEVENS, Dennis 	Forward	12	4	0	0	0	0	0	0	0
-										
-TEMPLE, Derek 	Winger	17	10	0	0	0	0	0	0	0
-										
-THOMSON, George 	Full Back	32	1	0	1	0	0	0	0	0
-										
-TYRER, Alan 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-VERNON, Roy 	Forward	37	26	3	3	2	1	0	0	0
-										
-WEBBER, Keith 	Forward	3	0	0	0	0	0	0	0	0
-										
-WELSH, Colin 	Winger	0	0	0	0	0	0	0	0	0
-										
-WEST, Gordon 	Goalkeeper	12	0	0	0	0	0	0	0	0
-										
-WIGNALL, Frank 	Forward	11	5	0	0	0	0	0	0	0
-										
-YOUNG, Alex 	Forward	40	14	0	3	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BINGHAM, Billy ",Winger,37,9,0,3,1,0,0,0,0
+,"BRADLEY, Keith ",Full Back,0,0,0,0,0,0,0,0,0
+,"COLLINS, Bobby ",Midfielder,19,5,0,3,2,0,0,0,0
+,"DUNLOP, Albert ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"FELL, Jimmy ",Winger,21,4,0,1,1,0,0,0,0
+,"GABRIEL, Jimmy ",Midfielder,42,6,0,3,0,0,0,0,0
+,"GANNON, Mick ",Central Defender,3,0,0,0,0,0,0,0,0
+,"GREEN, Colin ",Full Back,8,1,0,2,0,0,0,0,0
+,"HARRIS, Brian ",Central Defender,33,1,0,3,0,0,0,0,0
+,"JARVIS, Alan ",Midfielder,0,0,0,0,0,0,0,0,0
+,"JONES, Tommy ",Central Defender,1,0,0,0,0,0,0,0,0
+,"LABONE, Brian ",Central Defender,41,0,0,3,0,0,0,0,0
+,"LILL, Mickey ",Winger,11,1,0,2,1,0,0,0,0
+,"MEAGAN, Mick ",Central Defender,18,0,0,0,0,0,0,0,0
+,"PARKER, Alex ",Full Back,31,0,0,3,0,0,0,0,0
+,"PARNELL, Roy ",Winger,1,0,0,0,0,0,0,0,0
+,"RUSSELL, Alex ",Midfielder,0,0,0,0,0,0,0,0,0
+,"STEVENS, Dennis ",Forward,12,4,0,0,0,0,0,0,0
+,"TEMPLE, Derek ",Winger,17,10,0,0,0,0,0,0,0
+,"THOMSON, George ",Full Back,32,1,0,1,0,0,0,0,0
+,"TYRER, Alan ",Midfielder,2,0,0,0,0,0,0,0,0
+,"VERNON, Roy ",Forward,37,26,3,3,2,1,0,0,0
+,"WEBBER, Keith ",Forward,3,0,0,0,0,0,0,0,0
+,"WELSH, Colin ",Winger,0,0,0,0,0,0,0,0,0
+,"WEST, Gordon ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"WIGNALL, Frank ",Forward,11,5,0,0,0,0,0,0,0
+,"YOUNG, Alex ",Forward,40,14,0,3,0,0,0,0,0

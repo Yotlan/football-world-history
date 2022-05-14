@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1975/76
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Charlie 	Full Back	21	1	0	0+1	0	0	4	0	0
-										
-BURRIDGE, John 	Goalkeeper	30	0	0	2	0	0	0	0	0
-										
-CARRODUS, Frank 	Winger	39	1	0	2	0	0	4	0	0
-										
-COWANS, Gordon 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-CUMBES, Jim 	Goalkeeper	7	0	0	0	0	0	2	0	0
-										
-DEEHAN, John 	Forward	14+1	7	0	2	0	0	0	0	0
-										
-FINDLAY, Jake 	Goalkeeper	5	0	0	0	0	0	2	0	0
-										
-GIDMAN, John 	Full Back	39	0	0	2	0	0	3	0	0
-										
-GRAY, Andy 	Forward	30	10	0	2	1	0	1	1	0
-										
-GRAYDON, Ray 	Winger	38	12	4	2	1	0	4	1	0
-										
-HAMILTON, Ian 'Chico' 	Midfielder	29+2	4	0	2	0	0	4	0	0
-										
-HARRISON, Andy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HOOKS, Paul 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-HUNT, Steve 	Winger	3+1	1	0	0	0	0	0+1	0	0
-										
-LEONARD, Keith 	Forward	7	3	0	0	0	0	1	1	0
-										
-LITTLE, Brian 	Forward	20	1	0	0	0	0	3	0	0
-										
-MASEFIELD, Keith 	Full Back	0+1	0	0	0	0	0	0	0	0
-										
-MCDONALD, Bobby 	Full Back	10+3	2	0	0	0	0	1	0	0
-										
-MORGAN, Sammy 	Forward	2+1	0	0	0	0	0	1+1	0	0
-										
-MORTIMER, Dennis 	Midfielder	14	0	0	0	0	0	0	0	0
-										
-NICHOLL, Chris 	Central Defender	40	4	0	2	0	0	4	1	0
-										
-OVERTON, John 	Central Defender	2+1	0	0	0	0	0	0	0	0
-										
-PETERS, Alan 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-PHILLIPS, Leighton 	Central Defender	33+2	2	0	2	0	0	4	0	0
-										
-PIMBLETT, Frank 	Midfielder	7	0	0	0	0	0	0	0	0
-										
-ROBSON, John 	Full Back	34+2	0	0	2	0	0	2+1	0	0
-										
-ROSS, Ian 	Central Defender	38	0	0	2	0	0	4	0	0
-										
-WILLIAMS, Keith 	Midfielder	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Charlie ",Full Back,21,1,0,0+1,0,0,4,0,0
+,"BURRIDGE, John ",Goalkeeper,30,0,0,2,0,0,0,0,0
+,"CARRODUS, Frank ",Winger,39,1,0,2,0,0,4,0,0
+,"COWANS, Gordon ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"CUMBES, Jim ",Goalkeeper,7,0,0,0,0,0,2,0,0
+,"DEEHAN, John ",Forward,14+1,7,0,2,0,0,0,0,0
+,"FINDLAY, Jake ",Goalkeeper,5,0,0,0,0,0,2,0,0
+,"GIDMAN, John ",Full Back,39,0,0,2,0,0,3,0,0
+,"GRAY, Andy ",Forward,30,10,0,2,1,0,1,1,0
+,"GRAYDON, Ray ",Winger,38,12,4,2,1,0,4,1,0
+,"HAMILTON, Ian 'Chico' ",Midfielder,29+2,4,0,2,0,0,4,0,0
+,"HARRISON, Andy ",Full Back,0,0,0,0,0,0,0,0,0
+,"HOOKS, Paul ",Midfielder,0,0,0,0,0,0,0,0,0
+,"HUNT, Steve ",Winger,3+1,1,0,0,0,0,0+1,0,0
+,"LEONARD, Keith ",Forward,7,3,0,0,0,0,1,1,0
+,"LITTLE, Brian ",Forward,20,1,0,0,0,0,3,0,0
+,"MASEFIELD, Keith ",Full Back,0+1,0,0,0,0,0,0,0,0
+,"MCDONALD, Bobby ",Full Back,10+3,2,0,0,0,0,1,0,0
+,"MORGAN, Sammy ",Forward,2+1,0,0,0,0,0,1+1,0,0
+,"MORTIMER, Dennis ",Midfielder,14,0,0,0,0,0,0,0,0
+,"NICHOLL, Chris ",Central Defender,40,4,0,2,0,0,4,1,0
+,"OVERTON, John ",Central Defender,2+1,0,0,0,0,0,0,0,0
+,"PETERS, Alan ",Midfielder,0,0,0,0,0,0,0,0,0
+,"PHILLIPS, Leighton ",Central Defender,33+2,2,0,2,0,0,4,0,0
+,"PIMBLETT, Frank ",Midfielder,7,0,0,0,0,0,0,0,0
+,"ROBSON, John ",Full Back,34+2,0,0,2,0,0,2+1,0,0
+,"ROSS, Ian ",Central Defender,38,0,0,2,0,0,4,0,0
+,"WILLIAMS, Keith ",Midfielder,0,0,0,0,0,0,0,0,0

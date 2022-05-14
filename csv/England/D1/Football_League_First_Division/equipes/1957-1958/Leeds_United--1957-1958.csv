@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1957/58
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Joe 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-ASHALL, Jimmy 	Full Back	9	0	0	0	0	0	0	0	0
-										
-BAIRD, Hugh 	Centre Forward	39	20	4	0	0	0	0	0	0
-										
-BROOK, Harold 	Inside Forward	9	3	0	0	0	0	0	0	0
-										
-CHARLTON, Jack 	Central Defender	40	0	0	1	0	0	0	0	0
-										
-CLARK, Clive 	Winger	0	0	0	0	0	0	0	0	0
-										
-COPP, Lenny 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-CROWE, Chris 	Midfielder	19	2	0	1	0	0	0	0	0
-										
-CUSH, Wilbur 	Wing Half	21	3	0	1	0	0	0	0	0
-										
-DUNN, Jimmy 	Full Back	35	0	0	1	0	0	0	0	0
-										
-FORREST, Bobby 	Inside Forward	24	7	0	1	1	0	0	0	0
-										
-FRANCIS, Gerry 	Winger	1	0	0	0	0	0	0	0	0
-										
-GIBSON, Archie 	Wing Half	25	1	0	1	0	0	0	0	0
-										
-HAIR, Grenville 	Full Back	34	0	0	1	0	0	0	0	0
-										
-HOGGART, Dennis 	Winger	0	0	0	0	0	0	0	0	0
-										
-KERFOOT, Eric 	Wing Half	42	1	0	1	0	0	0	0	0
-										
-MARSDEN, Jack 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-MEEK, George 	Winger	40	4	0	1	0	0	0	0	0
-										
-NIMMO, Willie 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-O'BRIEN, George 	Forward	19	3	0	0	0	0	0	0	0
-										
-OVERFIELD, Jack 	Winger	36	4	0	1	0	0	0	0	0
-										
-PEYTON, Noel 	Inside Forward	11	2	0	0	0	0	0	0	0
-										
-RIPLEY, Keith 	Wing Half	12	1	0	0	0	0	0	0	0
-										
-SCOTT, John 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-SHEAVILLS, Jimmy 	Winger	0	0	0	0	0	0	0	0	0
-										
-STOWELL, Bruce 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-WOOD, Roy 	Goalkeeper	41	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ASHALL, Jimmy ",Full Back,9,0,0,0,0,0,0,0,0
+,"BAIRD, Hugh ",Centre Forward,39,20,4,0,0,0,0,0,0
+,"BROOK, Harold ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"CHARLTON, Jack ",Central Defender,40,0,0,1,0,0,0,0,0
+,"CLARK, Clive ",Winger,0,0,0,0,0,0,0,0,0
+,"COPP, Lenny ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CROWE, Chris ",Midfielder,19,2,0,1,0,0,0,0,0
+,"CUSH, Wilbur ",Wing Half,21,3,0,1,0,0,0,0,0
+,"DUNN, Jimmy ",Full Back,35,0,0,1,0,0,0,0,0
+,"FORREST, Bobby ",Inside Forward,24,7,0,1,1,0,0,0,0
+,"FRANCIS, Gerry ",Winger,1,0,0,0,0,0,0,0,0
+,"GIBSON, Archie ",Wing Half,25,1,0,1,0,0,0,0,0
+,"HAIR, Grenville ",Full Back,34,0,0,1,0,0,0,0,0
+,"HOGGART, Dennis ",Winger,0,0,0,0,0,0,0,0,0
+,"KERFOOT, Eric ",Wing Half,42,1,0,1,0,0,0,0,0
+,"MARSDEN, Jack ",Central Defender,4,0,0,0,0,0,0,0,0
+,"MEEK, George ",Winger,40,4,0,1,0,0,0,0,0
+,"NIMMO, Willie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"O'BRIEN, George ",Forward,19,3,0,0,0,0,0,0,0
+,"OVERFIELD, Jack ",Winger,36,4,0,1,0,0,0,0,0
+,"PEYTON, Noel ",Inside Forward,11,2,0,0,0,0,0,0,0
+,"RIPLEY, Keith ",Wing Half,12,1,0,0,0,0,0,0,0
+,"SCOTT, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SHEAVILLS, Jimmy ",Winger,0,0,0,0,0,0,0,0,0
+,"STOWELL, Bruce ",Midfielder,0,0,0,0,0,0,0,0,0
+,"WOOD, Roy ",Goalkeeper,41,0,0,1,0,0,0,0,0

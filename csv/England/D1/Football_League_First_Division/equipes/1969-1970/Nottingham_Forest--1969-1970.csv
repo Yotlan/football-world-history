@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1969/70
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARNWELL, John 	Midfielder	13+5	0	0	0	0	0	2+1	1	0
-										
-BRIDGETT, Ray 	Full Back	1	0	0	0	0	0	0	0	0
-										
-BRINDLEY, Bill 	Full Back	0+3	0	0	1	0	0	0	0	0
-										
-BUCKLEY, Steve 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CHAPMAN, Bob 	Central Defender	35	2	0	2	0	0	2	0	0
-										
-COLLIER, Graham 	Midfielder	6	1	0	0	0	0	0	0	0
-										
-CORMACK, Peter 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-GRUMMITT, Peter 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HALL, Colin 	Winger	9+4	0	0	0	0	0	0	0	0
-										
-HARRIS, Len 	Full Back	1	0	0	0	0	0	0	0	0
-										
-HENNESSEY, Terry 	Central Defender	21	0	0	0	0	0	3	0	0
-										
-HILL, Alan 	Goalkeeper	31	0	0	2	0	0	3	0	0
-										
-HILLEY, Dave 	Forward	37	8	0	2	0	0	3	0	0
-										
-HINDLEY, Peter 	Full Back	41	2	0	2	0	0	3	0	0
-										
-HOLLINS, Dave 	Goalkeeper	9	0	0	0	0	0	0	0	0
-										
-INGRAM, Alex 	Forward	16	3	0	0	0	0	0	0	0
-										
-LYONS, Barry 	Winger	36	5	0	2	0	0	3	1	0
-										
-MCCAFFREY, Jim 	Winger	2+6	1	0	0+2	1	0	0	0	0
-										
-MCKENZIE, Duncan 	Forward	1	0	0	0	0	0	0	0	0
-										
-MCKINLAY, Bobby 	Central Defender	5+1	0	0	0	0	0	0	0	0
-										
-NEWTON, Henry 	Midfielder	41	7	0	2	0	0	3	0	0
-										
-O'KANE, Liam 	Central Defender	24+3	0	0	2	0	0	1+1	0	0
-										
-PIEKALNIETIS, John 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-REES, Ronnie 	Winger	32	8	0	2	0	0	3	0	0
-										
-RICHARDSON, Paul 	Midfielder	27+2	1	0	2	0	0	1	0	0
-										
-STOREY-MOORE, Ian 	Winger	30	11	1	2	0	0	3	1	0
-										
-WINFIELD, John 	Full Back	41	0	0	1	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARNWELL, John ",Midfielder,13+5,0,0,0,0,0,2+1,1,0
+,"BRIDGETT, Ray ",Full Back,1,0,0,0,0,0,0,0,0
+,"BRINDLEY, Bill ",Full Back,0+3,0,0,1,0,0,0,0,0
+,"BUCKLEY, Steve ",Full Back,0,0,0,0,0,0,0,0,0
+,"CHAPMAN, Bob ",Central Defender,35,2,0,2,0,0,2,0,0
+,"COLLIER, Graham ",Midfielder,6,1,0,0,0,0,0,0,0
+,"CORMACK, Peter ",Midfielder,1,0,0,0,0,0,0,0,0
+,"GRUMMITT, Peter ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HALL, Colin ",Winger,9+4,0,0,0,0,0,0,0,0
+,"HARRIS, Len ",Full Back,1,0,0,0,0,0,0,0,0
+,"HENNESSEY, Terry ",Central Defender,21,0,0,0,0,0,3,0,0
+,"HILL, Alan ",Goalkeeper,31,0,0,2,0,0,3,0,0
+,"HILLEY, Dave ",Forward,37,8,0,2,0,0,3,0,0
+,"HINDLEY, Peter ",Full Back,41,2,0,2,0,0,3,0,0
+,"HOLLINS, Dave ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"INGRAM, Alex ",Forward,16,3,0,0,0,0,0,0,0
+,"LYONS, Barry ",Winger,36,5,0,2,0,0,3,1,0
+,"MCCAFFREY, Jim ",Winger,2+6,1,0,0+2,1,0,0,0,0
+,"MCKENZIE, Duncan ",Forward,1,0,0,0,0,0,0,0,0
+,"MCKINLAY, Bobby ",Central Defender,5+1,0,0,0,0,0,0,0,0
+,"NEWTON, Henry ",Midfielder,41,7,0,2,0,0,3,0,0
+,"O'KANE, Liam ",Central Defender,24+3,0,0,2,0,0,1+1,0,0
+,"PIEKALNIETIS, John ",Central Defender,0,0,0,0,0,0,0,0,0
+,"REES, Ronnie ",Winger,32,8,0,2,0,0,3,0,0
+,"RICHARDSON, Paul ",Midfielder,27+2,1,0,2,0,0,1,0,0
+,"STOREY-MOORE, Ian ",Winger,30,11,1,2,0,0,3,1,0
+,"WINFIELD, John ",Full Back,41,0,0,1,0,0,3,0,0

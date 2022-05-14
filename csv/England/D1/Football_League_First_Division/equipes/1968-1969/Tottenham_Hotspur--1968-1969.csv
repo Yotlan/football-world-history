@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1968/69
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEAL, Phil 	Central Defender	39	1	0	4	0	0	6	0	0
-										
-BOND, Dennis 	Midfielder	2	0	0	0	0	0	2+1	0	0
-										
-CHIVERS, Martin 	Forward	10	3	0	0	0	0	1	3	0
-										
-COLLINS, Peter 	Central Defender	22+3	0	0	4	0	0	3+1	1	0
-										
-ENGLAND, Mike 	Central Defender	36	3	0	4	1	0	5	0	0
-										
-EVANS, Ray 	Full Back	5+1	0	0	0	0	0	0	0	0
-										
-GILZEAN, Alan 	Forward	37	7	0	4	0	0	6	0	0
-										
-GREAVES, Jimmy 	Forward	42	27	3	4	4	1	6	5	0
-										
-JENKINS, David 	Forward	10+1	2	0	2+1	0	0	0	0	0
-										
-JENNINGS, Pat 	Goalkeeper	42	0	0	4	0	0	6	0	0
-										
-JOHNSON, Neil 	Winger	13+3	3	0	3	1	0	0	0	0
-										
-JONES, Cliff 	Winger	6+1	5	0	0	0	0	2	1	0
-										
-KINNEAR, Joe 	Central Defender	24	0	0	1	0	0	6	0	0
-										
-KNOWLES, Cyril 	Full Back	36+1	2	0	4	0	0	5	0	0
-										
-MCCULLOCH, Andy 	Forward	0	0	0	0	0	0	0	0	0
-										
-MORGAN, Roger 	Winger	13	3	0	0	0	0	0	0	0
-										
-MULLERY, Alan 	Midfielder	41	1	0	4	0	0	6	0	0
-										
-PEARCE, Jimmy 	Winger	24+3	3	0	2	0	0	5	2	0
-										
-PRATT, John 	Midfielder	8+1	0	0	0	0	0	0	0	0
-										
-ROBERTSON, Jimmy 	Winger	8+3	1	0	0	0	0	1	0	0
-										
-SHANAHAN, Terry 	Forward	0	0	0	0	0	0	0	0	0
-										
-VENABLES, Terry 	Midfielder	37	0	0	4	0	0	5	1	0
-										
-WANT, Tony 	Full Back	7+1	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEAL, Phil ",Central Defender,39,1,0,4,0,0,6,0,0
+,"BOND, Dennis ",Midfielder,2,0,0,0,0,0,2+1,0,0
+,"CHIVERS, Martin ",Forward,10,3,0,0,0,0,1,3,0
+,"COLLINS, Peter ",Central Defender,22+3,0,0,4,0,0,3+1,1,0
+,"ENGLAND, Mike ",Central Defender,36,3,0,4,1,0,5,0,0
+,"EVANS, Ray ",Full Back,5+1,0,0,0,0,0,0,0,0
+,"GILZEAN, Alan ",Forward,37,7,0,4,0,0,6,0,0
+,"GREAVES, Jimmy ",Forward,42,27,3,4,4,1,6,5,0
+,"JENKINS, David ",Forward,10+1,2,0,2+1,0,0,0,0,0
+,"JENNINGS, Pat ",Goalkeeper,42,0,0,4,0,0,6,0,0
+,"JOHNSON, Neil ",Winger,13+3,3,0,3,1,0,0,0,0
+,"JONES, Cliff ",Winger,6+1,5,0,0,0,0,2,1,0
+,"KINNEAR, Joe ",Central Defender,24,0,0,1,0,0,6,0,0
+,"KNOWLES, Cyril ",Full Back,36+1,2,0,4,0,0,5,0,0
+,"MCCULLOCH, Andy ",Forward,0,0,0,0,0,0,0,0,0
+,"MORGAN, Roger ",Winger,13,3,0,0,0,0,0,0,0
+,"MULLERY, Alan ",Midfielder,41,1,0,4,0,0,6,0,0
+,"PEARCE, Jimmy ",Winger,24+3,3,0,2,0,0,5,2,0
+,"PRATT, John ",Midfielder,8+1,0,0,0,0,0,0,0,0
+,"ROBERTSON, Jimmy ",Winger,8+3,1,0,0,0,0,1,0,0
+,"SHANAHAN, Terry ",Forward,0,0,0,0,0,0,0,0,0
+,"VENABLES, Terry ",Midfielder,37,0,0,4,0,0,5,1,0
+,"WANT, Tony ",Full Back,7+1,0,0,0,0,0,1,0,0

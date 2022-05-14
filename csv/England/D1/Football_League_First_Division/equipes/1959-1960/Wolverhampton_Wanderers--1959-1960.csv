@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1959/60
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOOTH, Colin 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-BROADBENT, Peter 	Midfielder	33	14	0	7	2	0	7	3	0
-										
-CLAMP, Eddie 	Wing Half	38	8	1	7	2	1	6	0	0
-										
-COCKCROFT, Vic 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CONNOLLY, Mike 	Winger	0	0	0	0	0	0	0	0	0
-										
-COOPER, Terry 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CORBETT, Tony 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CORNER, Norman 	Forward	0	0	0	0	0	0	0	0	0
-										
-DEELEY, Norman 	Winger	37	14	1	7	4	0	7	1	0
-										
-DURANDT, Cliff 	Inside Forward	7	0	0	0	0	0	0	0	0
-										
-FINLAYSON, Malcolm 	Goalkeeper	35	0	0	5	0	0	6	0	0
-										
-FLOWERS, Ron 	Central Defender	35	4	1	7	2	0	7	0	0
-										
-HARKIN, Terry 	Forward	0	0	0	0	0	0	0	0	0
-										
-HARRIS, Gerry 	Full Back	37	0	0	7	0	0	6	0	0
-										
-HORNE, Des 	Winger	26	9	0	6	2	0	4	0	0
-										
-JONES, Gwyn 	Full Back	5	0	0	0	0	0	1	0	0
-										
-KELLY, Phil 	Full Back	4	0	0	0	0	0	0	0	0
-										
-KIRKHAM, Johnny 	Midfielder	3	0	0	0	0	0	0	0	0
-										
-LILL, Mickey 	Winger	11	2	0	0	0	0	3	1	0
-										
-MANNION, Gerry 	Winger	10	6	0	1	0	0	0	0	0
-										
-MASON, Bobby 	Inside Forward	37	13	0	6	2	0	7	4	0
-										
-MCBRIDE, Joe 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-MURRAY, Jimmy 	Forward	40	29	0	6	2	0	7	3	0
-										
-OLIPHANT, David 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-READ, Tony 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-SHOWELL, George 	Full Back	32	0	0	3	0	0	7	0	0
-										
-SIDEBOTTOM, Geoff 	Goalkeeper	7	0	0	2	0	0	1	0	0
-										
-SLATER, Bill 	Wing Half	30	2	0	7	0	0	2	0	0
-										
-STOBART, Barry 	Forward	4	2	0	2	0	0	0	0	0
-										
-STUART, Eddie 	Full Back	28	0	0	4	0	0	6	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOOTH, Colin ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"BROADBENT, Peter ",Midfielder,33,14,0,7,2,0,7,3,0
+,"CLAMP, Eddie ",Wing Half,38,8,1,7,2,1,6,0,0
+,"COCKCROFT, Vic ",Full Back,0,0,0,0,0,0,0,0,0
+,"CONNOLLY, Mike ",Winger,0,0,0,0,0,0,0,0,0
+,"COOPER, Terry ",Full Back,0,0,0,0,0,0,0,0,0
+,"CORBETT, Tony ",Full Back,0,0,0,0,0,0,0,0,0
+,"CORNER, Norman ",Forward,0,0,0,0,0,0,0,0,0
+,"DEELEY, Norman ",Winger,37,14,1,7,4,0,7,1,0
+,"DURANDT, Cliff ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"FINLAYSON, Malcolm ",Goalkeeper,35,0,0,5,0,0,6,0,0
+,"FLOWERS, Ron ",Central Defender,35,4,1,7,2,0,7,0,0
+,"HARKIN, Terry ",Forward,0,0,0,0,0,0,0,0,0
+,"HARRIS, Gerry ",Full Back,37,0,0,7,0,0,6,0,0
+,"HORNE, Des ",Winger,26,9,0,6,2,0,4,0,0
+,"JONES, Gwyn ",Full Back,5,0,0,0,0,0,1,0,0
+,"KELLY, Phil ",Full Back,4,0,0,0,0,0,0,0,0
+,"KIRKHAM, Johnny ",Midfielder,3,0,0,0,0,0,0,0,0
+,"LILL, Mickey ",Winger,11,2,0,0,0,0,3,1,0
+,"MANNION, Gerry ",Winger,10,6,0,1,0,0,0,0,0
+,"MASON, Bobby ",Inside Forward,37,13,0,6,2,0,7,4,0
+,"MCBRIDE, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MURRAY, Jimmy ",Forward,40,29,0,6,2,0,7,3,0
+,"OLIPHANT, David ",Wing Half,0,0,0,0,0,0,0,0,0
+,"READ, Tony ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SHOWELL, George ",Full Back,32,0,0,3,0,0,7,0,0
+,"SIDEBOTTOM, Geoff ",Goalkeeper,7,0,0,2,0,0,1,0,0
+,"SLATER, Bill ",Wing Half,30,2,0,7,0,0,2,0,0
+,"STOBART, Barry ",Forward,4,2,0,2,0,0,0,0,0
+,"STUART, Eddie ",Full Back,28,0,0,4,0,0,6,0,0

@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1963/64
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROWN, Stan 	Midfielder	15	0	0	0	0	0	0	0	0
-										
-CALLAGHAN, Fred 	Full Back	8	0	0	0	0	0	0	0	0
-										
-CHAMBERLAIN, Trevor 'Tosh' 	Winger	7	2	1	0	0	0	0	0	0
-										
-COHEN, George 	Full Back	41	1	0	2	0	0	1	0	0
-										
-COOK, Maurice 	Centre Forward	29	5	0	2	1	0	1	0	0
-										
-DILLSWORTH, Eddie 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-DODGIN, Bill 	Central Defender	7	0	0	0	0	0	0	0	0
-										
-DRAKE, Bobby 	Full Back	7	0	0	0	0	0	0	0	0
-										
-EARLE, Steve 	Forward	12	5	0	0	0	0	0	0	0
-										
-EDWARDS, David 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-HAYNES, Johnny 	Midfielder	40	8	0	2	0	0	1	0	0
-										
-HENDERSON, Jackie 	Centre Forward	4	0	0	0	0	0	0	0	0
-										
-HOWFIELD, Bobby 	Winger	14	6	0	2	1	0	0	0	0
-										
-KEETCH, Bobby 	Central Defender	38	2	0	2	0	0	1	0	0
-										
-KEY, Johnny 	Winger	27	5	0	1	0	0	1	1	0
-										
-LANGLEY, Jimmy 	Full Back	31	1	1	2	0	0	1	0	0
-										
-LEGGAT, Graham 	Winger	25	15	0	2	1	0	1	0	0
-										
-MACEDO, Tony 	Goalkeeper	24	0	0	2	0	0	0	0	0
-										
-MARSH, Rodney 	Forward	4	1	0	0	0	0	0	0	0
-										
-MEALAND, Barry 	Full Back	1	0	0	0	0	0	0	0	0
-										
-METCHICK, Dave 	Midfielder	8	1	0	1	0	0	1	2	0
-										
-MULLERY, Alan 	Midfielder	34	3	0	2	1	0	1	0	0
-										
-O'CONNELL, Pat 	Winger	13	1	0	0	0	0	0	0	0
-										
-ROBSON, Bobby 	Inside Forward	39	1	0	2	0	0	1	0	0
-										
-STRATTON, Reg 	Forward	11	1	0	0	0	0	0	0	0
-										
-TOWNSEND, Martin 	Goalkeeper	2	0	0	0	0	0	1	0	0
-										
-UNDERWOOD, Dave 	Goalkeeper	16	0	0	0	0	0	0	0	0
-										
-WATSON, Trevor 	Winger	4	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROWN, Stan ",Midfielder,15,0,0,0,0,0,0,0,0
+,"CALLAGHAN, Fred ",Full Back,8,0,0,0,0,0,0,0,0
+,"CHAMBERLAIN, Trevor 'Tosh' ",Winger,7,2,1,0,0,0,0,0,0
+,"COHEN, George ",Full Back,41,1,0,2,0,0,1,0,0
+,"COOK, Maurice ",Centre Forward,29,5,0,2,1,0,1,0,0
+,"DILLSWORTH, Eddie ",Central Defender,0,0,0,0,0,0,0,0,0
+,"DODGIN, Bill ",Central Defender,7,0,0,0,0,0,0,0,0
+,"DRAKE, Bobby ",Full Back,7,0,0,0,0,0,0,0,0
+,"EARLE, Steve ",Forward,12,5,0,0,0,0,0,0,0
+,"EDWARDS, David ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HAYNES, Johnny ",Midfielder,40,8,0,2,0,0,1,0,0
+,"HENDERSON, Jackie ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"HOWFIELD, Bobby ",Winger,14,6,0,2,1,0,0,0,0
+,"KEETCH, Bobby ",Central Defender,38,2,0,2,0,0,1,0,0
+,"KEY, Johnny ",Winger,27,5,0,1,0,0,1,1,0
+,"LANGLEY, Jimmy ",Full Back,31,1,1,2,0,0,1,0,0
+,"LEGGAT, Graham ",Winger,25,15,0,2,1,0,1,0,0
+,"MACEDO, Tony ",Goalkeeper,24,0,0,2,0,0,0,0,0
+,"MARSH, Rodney ",Forward,4,1,0,0,0,0,0,0,0
+,"MEALAND, Barry ",Full Back,1,0,0,0,0,0,0,0,0
+,"METCHICK, Dave ",Midfielder,8,1,0,1,0,0,1,2,0
+,"MULLERY, Alan ",Midfielder,34,3,0,2,1,0,1,0,0
+,"O'CONNELL, Pat ",Winger,13,1,0,0,0,0,0,0,0
+,"ROBSON, Bobby ",Inside Forward,39,1,0,2,0,0,1,0,0
+,"STRATTON, Reg ",Forward,11,1,0,0,0,0,0,0,0
+,"TOWNSEND, Martin ",Goalkeeper,2,0,0,0,0,0,1,0,0
+,"UNDERWOOD, Dave ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"WATSON, Trevor ",Winger,4,0,0,0,0,0,0,0,0

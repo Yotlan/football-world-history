@@ -1,47 +1,23 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROOKES, Johnny 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-BURGIN, Andy 	Full Back	1	0	0	2	0	0	0	0	0
-										
-DOBSON, Colin 	Winger	42	9	3	2	0	0	0	0	0
-										
-EUSTACE, Peter 	Midfielder	31	2	0	2	0	0	0	0	0
-										
-FANTHAM, John 	Forward	41	19	0	2	1	0	0	0	0
-										
-FINNEY, Alan 	Winger	27	2	0	2	0	0	0	0	0
-										
-HICKTON, John 	Forward	26	10	0	2	0	0	0	0	0
-										
-HILL, Brian 	Full Back	39	0	0	0	0	0	0	0	0
-										
-JOHNSON, Peter 	Full Back	2	0	0	0	0	0	0	0	0
-										
-MACLAREN, Roy 	Goalkeeper	0	0	0	1	0	0	0	0	0
-										
-MCANEARNEY, Tom 	Midfielder	15	1	1	0	0	0	0	0	0
-										
-MEGSON, Don 	Full Back	42	0	0	2	0	0	0	0	0
-										
-MOBLEY, Vic 	Central Defender	42	2	0	2	0	0	0	0	0
-										
-PEARSON, Mark 	Midfielder	11	3	0	0	0	0	0	0	0
-										
-QUINN, Johnny 	Midfielder	40	6	0	2	1	0	0	0	0
-										
-SMITH, Wilf 	Full Back	17	0	0	2	0	0	0	0	0
-										
-SPRINGETT, Ron 	Goalkeeper	41	0	0	1	0	0	0	0	0
-										
-WICKS, Peter 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-WILKINSON, Derek 	Winger	7	2	0	0	0	0	0	0	0
-										
-WILKINSON, Howard 	Winger	14	0	0	0	0	0	0	0	0
-										
-YOUNG, Gerry 	Central Defender	23	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROOKES, Johnny ",Midfielder,0,0,0,0,0,0,0,0,0
+,"BURGIN, Andy ",Full Back,1,0,0,2,0,0,0,0,0
+,"DOBSON, Colin ",Winger,42,9,3,2,0,0,0,0,0
+,"EUSTACE, Peter ",Midfielder,31,2,0,2,0,0,0,0,0
+,"FANTHAM, John ",Forward,41,19,0,2,1,0,0,0,0
+,"FINNEY, Alan ",Winger,27,2,0,2,0,0,0,0,0
+,"HICKTON, John ",Forward,26,10,0,2,0,0,0,0,0
+,"HILL, Brian ",Full Back,39,0,0,0,0,0,0,0,0
+,"JOHNSON, Peter ",Full Back,2,0,0,0,0,0,0,0,0
+,"MACLAREN, Roy ",Goalkeeper,0,0,0,1,0,0,0,0,0
+,"MCANEARNEY, Tom ",Midfielder,15,1,1,0,0,0,0,0,0
+,"MEGSON, Don ",Full Back,42,0,0,2,0,0,0,0,0
+,"MOBLEY, Vic ",Central Defender,42,2,0,2,0,0,0,0,0
+,"PEARSON, Mark ",Midfielder,11,3,0,0,0,0,0,0,0
+,"QUINN, Johnny ",Midfielder,40,6,0,2,1,0,0,0,0
+,"SMITH, Wilf ",Full Back,17,0,0,2,0,0,0,0,0
+,"SPRINGETT, Ron ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"WICKS, Peter ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WILKINSON, Derek ",Winger,7,2,0,0,0,0,0,0,0
+,"WILKINSON, Howard ",Winger,14,0,0,0,0,0,0,0,0
+,"YOUNG, Gerry ",Central Defender,23,0,0,0,0,0,0,0,0

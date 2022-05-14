@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1930/31
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENTON, Billy 	Wing Half	18	2	1	1	0	0	0	0	0
-										
-BROADHURST, Charlie 	Centre Forward	3	1	0	0	0	0	0	0	0
-										
-BROOKES, Syd 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-CARDWELL, Louis 	Central Defender	1	0	0	2	0	0	0	0	0
-										
-CARR, Jackie 	Inside Forward	14	2	0	0	0	0	0	0	0
-										
-DOWNES, Percy 	Winger	16	0	0	2	1	0	0	0	0
-										
-GRANT, William 	Full Back	42	0	0	2	0	0	0	0	0
-										
-HALL, Billy 	Winger	15	2	0	0	0	0	0	0	0
-										
-HAMPSON, Jimmy 	Centre Forward	41	32	2	2	1	0	0	0	0
-										
-HUTCHINSON, Alex 	Winger	6	2	0	0	0	0	0	0	0
-										
-LAUDERDALE, Jock 	Inside Forward	4	2	0	2	0	0	0	0	0
-										
-LONGDEN, Eric 	Inside Forward	12	3	0	0	0	0	0	0	0
-										
-MCCLELLAND, Jimmy 	Inside Forward	13	4	0	0	0	0	0	0	0
-										
-MCMAHON, Hugh 	Central Defender	26	1	0	1	0	0	0	0	0
-										
-MEACOCK, Bob 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-NEAL, Dick 	Winger	4	1	0	0	0	0	0	0	0
-										
-O'DONNELL, Jack 	Full Back	23	0	0	2	0	0	0	0	0
-										
-OXBERRY, Jack 	Inside Forward	23	7	0	0	0	0	0	0	0
-										
-PEARSON, Horace 	Goalkeeper	40	0	0	2	0	0	0	0	0
-										
-QUINN, Cyril 	Winger	15	3	0	0	0	0	0	0	0
-										
-RAMSAY, Stan 	Full Back	30	0	0	0	0	0	0	0	0
-										
-RATTRAY, Charlie 	Winger	19	1	0	2	0	0	0	0	0
-										
-RITCHIE, Alex 	Winger	2	0	0	0	0	0	0	0	0
-										
-SHANKLY, John 	Inside Forward	5	0	0	0	0	0	0	0	0
-										
-SMALLEY, Arthur 	Wing Half	5	1	0	0	0	0	0	0	0
-										
-TREMELLING, Billy 	Central Defender	11	1	0	0	0	0	0	0	0
-										
-TUFFNELL, Syd 	Wing Half	15	0	0	1	0	0	0	0	0
-										
-UPTON, Billy 	Inside Forward	16	5	0	2	1	0	0	0	0
-										
-WATSON, Albert 	Wing Half	37	1	0	0	0	0	0	0	0
-										
-WILSON, Harry 	Wing Half	1	0	0	1	0	0	0	0	0
-										
-WOLF, George 	Goalkeeper	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENTON, Billy ",Wing Half,18,2,1,1,0,0,0,0,0
+,"BROADHURST, Charlie ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"BROOKES, Syd ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"CARDWELL, Louis ",Central Defender,1,0,0,2,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,14,2,0,0,0,0,0,0,0
+,"DOWNES, Percy ",Winger,16,0,0,2,1,0,0,0,0
+,"GRANT, William ",Full Back,42,0,0,2,0,0,0,0,0
+,"HALL, Billy ",Winger,15,2,0,0,0,0,0,0,0
+,"HAMPSON, Jimmy ",Centre Forward,41,32,2,2,1,0,0,0,0
+,"HUTCHINSON, Alex ",Winger,6,2,0,0,0,0,0,0,0
+,"LAUDERDALE, Jock ",Inside Forward,4,2,0,2,0,0,0,0,0
+,"LONGDEN, Eric ",Inside Forward,12,3,0,0,0,0,0,0,0
+,"MCCLELLAND, Jimmy ",Inside Forward,13,4,0,0,0,0,0,0,0
+,"MCMAHON, Hugh ",Central Defender,26,1,0,1,0,0,0,0,0
+,"MEACOCK, Bob ",Central Defender,0,0,0,0,0,0,0,0,0
+,"NEAL, Dick ",Winger,4,1,0,0,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,23,0,0,2,0,0,0,0,0
+,"OXBERRY, Jack ",Inside Forward,23,7,0,0,0,0,0,0,0
+,"PEARSON, Horace ",Goalkeeper,40,0,0,2,0,0,0,0,0
+,"QUINN, Cyril ",Winger,15,3,0,0,0,0,0,0,0
+,"RAMSAY, Stan ",Full Back,30,0,0,0,0,0,0,0,0
+,"RATTRAY, Charlie ",Winger,19,1,0,2,0,0,0,0,0
+,"RITCHIE, Alex ",Winger,2,0,0,0,0,0,0,0,0
+,"SHANKLY, John ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"SMALLEY, Arthur ",Wing Half,5,1,0,0,0,0,0,0,0
+,"TREMELLING, Billy ",Central Defender,11,1,0,0,0,0,0,0,0
+,"TUFFNELL, Syd ",Wing Half,15,0,0,1,0,0,0,0,0
+,"UPTON, Billy ",Inside Forward,16,5,0,2,1,0,0,0,0
+,"WATSON, Albert ",Wing Half,37,1,0,0,0,0,0,0,0
+,"WILSON, Harry ",Wing Half,1,0,0,1,0,0,0,0,0
+,"WOLF, George ",Goalkeeper,2,0,0,0,0,0,0,0,0

@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1957/58
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERRY, Johnny 	Winger	20	4	0	0	0	0	4	2	1
-										
-BLANCHFLOWER, Jackie 	Inside Forward	18	0	0	0	0	0	3	0	0
-										
-BRENNAN, Shay 	Full Back	5	0	0	2	3	0	0	0	0
-										
-BROOKES, Colin 	Winger	0	0	0	0	0	0	0	0	0
-										
-BYRNE, Roger 	Full Back	26	0	0	2	0	0	7	0	0
-										
-CHARLTON, Bobby 	Midfielder	21	8	0	7	5	0	2	3	0
-										
-COLMAN, Eddie 	Wing Half	24	0	0	2	0	0	5	1	0
-										
-COPE, Ronnie 	Central Defender	13	0	0	6	0	0	2	0	0
-										
-CROWTHER, Stan 	Wing Half	11	0	0	5	0	0	2	0	0
-										
-DAWSON, Alex 	Forward	12	5	0	6	5	0	0	0	0
-										
-DOHERTY, John 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-EDWARDS, Duncan 	Wing Half	26	6	2	2	0	0	6	0	0
-										
-ENGLISH, Bobby 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-FOULKES, Bill 	Central Defender	42	0	0	8	0	0	9	0	0
-										
-GASKELL, David 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-GOODWIN, Freddie 	Wing Half	16	0	0	6	0	0	4	0	0
-										
-GREAVES, Ian 	Full Back	12	0	0	6	0	0	2	0	0
-										
-GREGG, Harry 	Goalkeeper	19	0	0	8	0	0	4	0	0
-										
-HARDISTY, Bob 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HARROP, Bobby 	Wing Half	5	0	0	1	0	0	0	0	0
-										
-HERON, Tommy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-HOLLAND, Reg 	Full Back	0	0	0	0	0	0	0	0	0
-										
-JONES, Peter 	Full Back	1	0	0	0	0	0	0	0	0
-										
-JONES, Mark 	Central Defender	10	0	0	2	0	0	4	0	0
-										
-LEWIN, Derek 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-MCGUINNESS, Wilf 	Wing Half	7	0	0	0	0	0	1	0	0
-										
-MORGANS, Kenny 	Winger	13	0	0	2	0	0	4	0	0
-										
-PEARSON, Mark 	Midfielder	8	0	0	4	0	0	2	0	0
-										
-PEGG, David 	Winger	21	4	0	0	0	0	5	3	0
-										
-RUDD, Billy 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-SCANLON, Albert 	Winger	9	3	0	2	0	0	3	0	0
-										
-TAYLOR, Ernie 	Inside Forward	11	2	0	6	1	0	2	1	1
-										
-TAYLOR, Tommy 	Centre Forward	25	16	0	2	0	0	7	6	0
-										
-VIOLLET, Dennis 	Inside Forward	22	16	0	3	3	0	7	4	0
-										
-WEBSTER, Colin 	Inside Forward	20	6	0	6	1	0	5	1	0
-										
-WHELAN, Liam 	Inside Forward	20	12	0	0	0	0	4	2	0
-										
-WOOD, Ray 	Goalkeeper	20	0	0	0	0	0	5	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERRY, Johnny ",Winger,20,4,0,0,0,0,4,2,1
+,"BLANCHFLOWER, Jackie ",Inside Forward,18,0,0,0,0,0,3,0,0
+,"BRENNAN, Shay ",Full Back,5,0,0,2,3,0,0,0,0
+,"BROOKES, Colin ",Winger,0,0,0,0,0,0,0,0,0
+,"BYRNE, Roger ",Full Back,26,0,0,2,0,0,7,0,0
+,"CHARLTON, Bobby ",Midfielder,21,8,0,7,5,0,2,3,0
+,"COLMAN, Eddie ",Wing Half,24,0,0,2,0,0,5,1,0
+,"COPE, Ronnie ",Central Defender,13,0,0,6,0,0,2,0,0
+,"CROWTHER, Stan ",Wing Half,11,0,0,5,0,0,2,0,0
+,"DAWSON, Alex ",Forward,12,5,0,6,5,0,0,0,0
+,"DOHERTY, John ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"EDWARDS, Duncan ",Wing Half,26,6,2,2,0,0,6,0,0
+,"ENGLISH, Bobby ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FOULKES, Bill ",Central Defender,42,0,0,8,0,0,9,0,0
+,"GASKELL, David ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"GOODWIN, Freddie ",Wing Half,16,0,0,6,0,0,4,0,0
+,"GREAVES, Ian ",Full Back,12,0,0,6,0,0,2,0,0
+,"GREGG, Harry ",Goalkeeper,19,0,0,8,0,0,4,0,0
+,"HARDISTY, Bob ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARROP, Bobby ",Wing Half,5,0,0,1,0,0,0,0,0
+,"HERON, Tommy ",Full Back,1,0,0,0,0,0,0,0,0
+,"HOLLAND, Reg ",Full Back,0,0,0,0,0,0,0,0,0
+,"JONES, Peter ",Full Back,1,0,0,0,0,0,0,0,0
+,"JONES, Mark ",Central Defender,10,0,0,2,0,0,4,0,0
+,"LEWIN, Derek ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCGUINNESS, Wilf ",Wing Half,7,0,0,0,0,0,1,0,0
+,"MORGANS, Kenny ",Winger,13,0,0,2,0,0,4,0,0
+,"PEARSON, Mark ",Midfielder,8,0,0,4,0,0,2,0,0
+,"PEGG, David ",Winger,21,4,0,0,0,0,5,3,0
+,"RUDD, Billy ",Midfielder,0,0,0,0,0,0,0,0,0
+,"SCANLON, Albert ",Winger,9,3,0,2,0,0,3,0,0
+,"TAYLOR, Ernie ",Inside Forward,11,2,0,6,1,0,2,1,1
+,"TAYLOR, Tommy ",Centre Forward,25,16,0,2,0,0,7,6,0
+,"VIOLLET, Dennis ",Inside Forward,22,16,0,3,3,0,7,4,0
+,"WEBSTER, Colin ",Inside Forward,20,6,0,6,1,0,5,1,0
+,"WHELAN, Liam ",Inside Forward,20,12,0,0,0,0,4,2,0
+,"WOOD, Ray ",Goalkeeper,20,0,0,0,0,0,5,0,0

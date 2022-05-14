@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1962/63
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BISHOP, Sid 	Central Defender	39	1	0	4	0	0	3	0	0
-										
-BOLLAND, Gordon 	Midfielder	24	3	0	4	0	0	2	2	0
-										
-CHARLTON, Stan 	Full Back	42	0	0	4	0	0	5	0	0
-										
-CLAPTON, Dennis 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-CLARK, David 	Central Defender	3	0	0	0	0	0	2	0	0
-										
-DEELEY, Norman 	Winger	36	5	1	4	1	0	5	2	0
-										
-DUNMORE, Dave 	Centre Forward	37	11	2	4	1	0	5	2	0
-										
-ELWOOD, Joe 	Winger	11	1	0	2	1	0	0	0	0
-										
-FOSTER, Ronnie 	Midfielder	4	0	0	0	0	0	1	2	0
-										
-GEORGE, Frank 	Goalkeeper	7	0	0	2	0	0	2	0	0
-										
-GIBBS, Derek 	Inside Forward	17	1	0	3	1	0	3	0	0
-										
-GRAHAM, Malcolm 	Inside Forward	27	9	0	2	0	0	2	5	0
-										
-GREGORY, Harry 	Midfielder	6	1	0	0	0	0	2	1	0
-										
-LEA, Cyril 	Central Defender	40	0	0	4	0	0	4	0	0
-										
-LEWIS, Eddie 	Full Back	28	0	0	4	0	0	2	0	0
-										
-LUCAS, Mal 	Midfielder	37	0	0	2	0	0	3	0	0
-										
-MASON, Bobby 	Inside Forward	13	0	0	0	0	0	0	0	0
-										
-MCDONALD, Terry 	Winger	20	2	0	0	0	0	4	0	0
-										
-MUSGROVE, Malcolm 	Winger	18	3	0	3	2	0	0	0	0
-										
-PINNER, Mike 	Goalkeeper	19	0	0	0	0	0	1	0	0
-										
-ROBERTSON, Bill 	Goalkeeper	16	0	0	2	0	0	2	0	0
-										
-TAYLOR, Billy 	Midfielder	16	0	0	0	0	0	4	0	0
-										
-WAITES, George 	Winger	2	0	0	0	0	0	2	3	0
-										
-WEDGE, Roger 	Winger	0	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BISHOP, Sid ",Central Defender,39,1,0,4,0,0,3,0,0
+,"BOLLAND, Gordon ",Midfielder,24,3,0,4,0,0,2,2,0
+,"CHARLTON, Stan ",Full Back,42,0,0,4,0,0,5,0,0
+,"CLAPTON, Dennis ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CLARK, David ",Central Defender,3,0,0,0,0,0,2,0,0
+,"DEELEY, Norman ",Winger,36,5,1,4,1,0,5,2,0
+,"DUNMORE, Dave ",Centre Forward,37,11,2,4,1,0,5,2,0
+,"ELWOOD, Joe ",Winger,11,1,0,2,1,0,0,0,0
+,"FOSTER, Ronnie ",Midfielder,4,0,0,0,0,0,1,2,0
+,"GEORGE, Frank ",Goalkeeper,7,0,0,2,0,0,2,0,0
+,"GIBBS, Derek ",Inside Forward,17,1,0,3,1,0,3,0,0
+,"GRAHAM, Malcolm ",Inside Forward,27,9,0,2,0,0,2,5,0
+,"GREGORY, Harry ",Midfielder,6,1,0,0,0,0,2,1,0
+,"LEA, Cyril ",Central Defender,40,0,0,4,0,0,4,0,0
+,"LEWIS, Eddie ",Full Back,28,0,0,4,0,0,2,0,0
+,"LUCAS, Mal ",Midfielder,37,0,0,2,0,0,3,0,0
+,"MASON, Bobby ",Inside Forward,13,0,0,0,0,0,0,0,0
+,"MCDONALD, Terry ",Winger,20,2,0,0,0,0,4,0,0
+,"MUSGROVE, Malcolm ",Winger,18,3,0,3,2,0,0,0,0
+,"PINNER, Mike ",Goalkeeper,19,0,0,0,0,0,1,0,0
+,"ROBERTSON, Bill ",Goalkeeper,16,0,0,2,0,0,2,0,0
+,"TAYLOR, Billy ",Midfielder,16,0,0,0,0,0,4,0,0
+,"WAITES, George ",Winger,2,0,0,0,0,0,2,3,0
+,"WEDGE, Roger ",Winger,0,0,0,0,0,0,1,0,0

@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1968/69
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALDWIN, Tommy 	Forward	25	16	0	0	0	0	6	1	0
-										
-BIRCHENALL, Alan 	Midfielder	39	12	0	5	1	0	7	3	0
-										
-BONETTI, Peter 	Goalkeeper	41	0	0	5	0	0	7	0	0
-										
-BOYLE, John 	Midfielder	33+1	1	0	4+1	0	0	5	1	0
-										
-BUSBY, Viv 	Forward	0	0	0	0	0	0	0	0	0
-										
-COOKE, Charlie 	Winger	25+1	0	0	5	1	0	5	1	0
-										
-DEMPSEY, John 	Central Defender	15	0	0	1	0	0	0	0	0
-										
-FASCIONE, Joe 	Winger	0+1	0	0	0	0	0	0	0	0
-										
-HARRIS, Ron 	Central Defender	40	0	0	5	0	0	7	0	0
-										
-HINTON, Marvin 	Central Defender	6+3	0	0	0	0	0	3+1	0	0
-										
-HOLLINS, John 	Midfielder	37	2	0	5	0	0	6	1	0
-										
-HOUSEMAN, Peter 	Winger	29+3	3	0	2	0	0	3	1	0
-										
-HOUSTON, Stewart 	Full Back	2	0	0	3	0	0	0	0	0
-										
-HUDSON, Alan 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-HUGHES, Tommy 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-HUTCHINSON, Ian 	Forward	14+1	6	0	0	0	0	1	0	0
-										
-LLOYD, Barry 	Midfielder	3+2	0	0	0	0	0	0	0	0
-										
-MCCREADIE, Eddie 	Full Back	38	0	0	5	0	0	7	0	0
-										
-OSGOOD, Peter 	Forward	35	9	4	5	3	0	6+1	1	0
-										
-TAMBLING, Bobby 	Forward	36+2	17	0	5	1	0	7	1	0
-										
-TURNER, Brian 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-WEBB, Dave 	Central Defender	42	6	0	5	2	0	7	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALDWIN, Tommy ",Forward,25,16,0,0,0,0,6,1,0
+,"BIRCHENALL, Alan ",Midfielder,39,12,0,5,1,0,7,3,0
+,"BONETTI, Peter ",Goalkeeper,41,0,0,5,0,0,7,0,0
+,"BOYLE, John ",Midfielder,33+1,1,0,4+1,0,0,5,1,0
+,"BUSBY, Viv ",Forward,0,0,0,0,0,0,0,0,0
+,"COOKE, Charlie ",Winger,25+1,0,0,5,1,0,5,1,0
+,"DEMPSEY, John ",Central Defender,15,0,0,1,0,0,0,0,0
+,"FASCIONE, Joe ",Winger,0+1,0,0,0,0,0,0,0,0
+,"HARRIS, Ron ",Central Defender,40,0,0,5,0,0,7,0,0
+,"HINTON, Marvin ",Central Defender,6+3,0,0,0,0,0,3+1,0,0
+,"HOLLINS, John ",Midfielder,37,2,0,5,0,0,6,1,0
+,"HOUSEMAN, Peter ",Winger,29+3,3,0,2,0,0,3,1,0
+,"HOUSTON, Stewart ",Full Back,2,0,0,3,0,0,0,0,0
+,"HUDSON, Alan ",Midfielder,1,0,0,0,0,0,0,0,0
+,"HUGHES, Tommy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HUTCHINSON, Ian ",Forward,14+1,6,0,0,0,0,1,0,0
+,"LLOYD, Barry ",Midfielder,3+2,0,0,0,0,0,0,0,0
+,"MCCREADIE, Eddie ",Full Back,38,0,0,5,0,0,7,0,0
+,"OSGOOD, Peter ",Forward,35,9,4,5,3,0,6+1,1,0
+,"TAMBLING, Bobby ",Forward,36+2,17,0,5,1,0,7,1,0
+,"TURNER, Brian ",Midfielder,0,0,0,0,0,0,0,0,0
+,"WEBB, Dave ",Central Defender,42,6,0,5,2,0,7,0,0

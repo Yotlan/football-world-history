@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Frank 	Winger	11	0	0	0	0	0	0	0	0
-										
-BARKER, Bill 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-BOWYER, Frank 	Inside Forward	42	15	0	1	0	0	0	0	0
-										
-BROWN, Roy 	Centre Forward	0	0	0	1	0	0	0	0	0
-										
-CATON, Bill 	Inside Forward	9	0	0	0	0	0	0	0	0
-										
-FRANKLIN, Neil 	Central Defender	34	0	0	1	0	0	0	0	0
-										
-GODWIN, Verdi 	Centre Forward	22	2	0	1	0	0	0	0	0
-										
-HAMPSON, Eric 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-HEROD, Dennis 	Goalkeeper	20	0	0	1	0	0	0	0	0
-										
-JOHNSTON, Les 	Inside Forward	27	5	0	1	0	0	0	0	0
-										
-JONES, Roy 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-KIRTON, Jock 	Wing Half	15	1	0	0	0	0	0	0	0
-										
-LEAKE, Albert 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MALKIN, Jack 	Winger	28	1	0	1	0	0	0	0	0
-										
-MCCUE, John 	Full Back	35	0	0	0	0	0	0	0	0
-										
-MEAKIN, Harry 	Full Back	5	0	0	1	0	0	0	0	0
-										
-MOULD, Billy 	Full Back	7	0	0	0	0	0	0	0	0
-										
-MOUNTFORD, Frank 	Wing Half	37	5	5	0	0	0	0	0	0
-										
-MOUNTFORD, George 	Winger	32	6	0	0	0	0	0	0	0
-										
-ORMSTON, Alec 	Winger	5	0	0	0	0	0	0	0	0
-										
-OSCROFT, Harry 	Winger	16	3	0	0	0	0	0	0	0
-										
-PEPPITT, Syd 	Inside Forward	9	2	0	0	0	0	0	0	0
-										
-PICKUP, Reg 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-SELLARS, Johnny 	Wing Half	40	3	0	1	0	0	0	0	0
-										
-WATKIN, Cyril 	Full Back	37	0	0	1	0	0	0	0	0
-										
-WHISTON, Don 	Full Back	4	2	0	1	0	0	0	0	0
-										
-WILKINSON, Norman 	Goalkeeper	22	0	0	0	0	0	0	0	0
-										
-WILLDIG, Pat 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-WORDLEY, Ted 	Wing Half	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Frank ",Winger,11,0,0,0,0,0,0,0,0
+,"BARKER, Bill ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BOWYER, Frank ",Inside Forward,42,15,0,1,0,0,0,0,0
+,"BROWN, Roy ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"CATON, Bill ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"FRANKLIN, Neil ",Central Defender,34,0,0,1,0,0,0,0,0
+,"GODWIN, Verdi ",Centre Forward,22,2,0,1,0,0,0,0,0
+,"HAMPSON, Eric ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HEROD, Dennis ",Goalkeeper,20,0,0,1,0,0,0,0,0
+,"JOHNSTON, Les ",Inside Forward,27,5,0,1,0,0,0,0,0
+,"JONES, Roy ",Central Defender,1,0,0,0,0,0,0,0,0
+,"KIRTON, Jock ",Wing Half,15,1,0,0,0,0,0,0,0
+,"LEAKE, Albert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MALKIN, Jack ",Winger,28,1,0,1,0,0,0,0,0
+,"MCCUE, John ",Full Back,35,0,0,0,0,0,0,0,0
+,"MEAKIN, Harry ",Full Back,5,0,0,1,0,0,0,0,0
+,"MOULD, Billy ",Full Back,7,0,0,0,0,0,0,0,0
+,"MOUNTFORD, Frank ",Wing Half,37,5,5,0,0,0,0,0,0
+,"MOUNTFORD, George ",Winger,32,6,0,0,0,0,0,0,0
+,"ORMSTON, Alec ",Winger,5,0,0,0,0,0,0,0,0
+,"OSCROFT, Harry ",Winger,16,3,0,0,0,0,0,0,0
+,"PEPPITT, Syd ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"PICKUP, Reg ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SELLARS, Johnny ",Wing Half,40,3,0,1,0,0,0,0,0
+,"WATKIN, Cyril ",Full Back,37,0,0,1,0,0,0,0,0
+,"WHISTON, Don ",Full Back,4,2,0,1,0,0,0,0,0
+,"WILKINSON, Norman ",Goalkeeper,22,0,0,0,0,0,0,0,0
+,"WILLDIG, Pat ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WORDLEY, Ted ",Wing Half,1,0,0,0,0,0,0,0,0

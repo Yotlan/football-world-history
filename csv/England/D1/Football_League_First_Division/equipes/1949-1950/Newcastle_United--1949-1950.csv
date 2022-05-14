@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATTY, Ron 	Full Back	18	0	0	2	0	0	0	0	0
-										
-BRENNAN, Frank 	Central Defender	41	0	0	2	0	0	0	0	0
-										
-BRUNSKILL, Joe 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-CONNER, Dick 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-CORBETT, Bobby 	Full Back	13	1	1	0	0	0	0	0	0
-										
-COWELL, Bobby 	Full Back	20	0	0	0	0	0	0	0	0
-										
-CRAIG, Benny 	Full Back	7	0	0	0	0	0	0	0	0
-										
-CROWE, Charlie 	Wing Half	26	0	0	2	0	0	0	0	0
-										
-DODGIN, Norman 	Wing Half	17	0	0	0	0	0	0	0	0
-										
-FAIRBROTHER, Jack 	Goalkeeper	22	0	0	2	0	0	0	0	0
-										
-GARBUTT, Eric 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-GRAHAM, Doug 	Full Back	15	0	0	2	0	0	0	0	0
-										
-GRAVER, Andy 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-HANNAH, George 	Inside Forward	25	7	0	2	0	0	0	0	0
-										
-HARVEY, Joe 	Wing Half	22	1	0	0	0	0	0	0	0
-										
-HERRON, Alan 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-HOUGHTON, Frank 	Wing Half	32	7	0	2	1	0	0	0	0
-										
-LOWERY, Jerry 	Goalkeeper	5	0	0	0	0	0	0	0	0
-										
-LOWRIE, George 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-MCMICHAEL, Alf 	Full Back	11	0	0	0	0	0	0	0	0
-										
-MILBURN, Jackie 	Centre Forward	30	18	2	2	3	0	0	0	0
-										
-MITCHELL, Bobby 	Winger	38	8	0	2	1	0	0	0	0
-										
-ROBLEDO, Ted 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-ROBLEDO, George 	Centre Forward	30	11	0	2	0	0	0	0	0
-										
-SCOTT, Joe 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-SIBLEY, Joe 	Winger	3	0	0	0	0	0	0	0	0
-										
-SMITH, Tot 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-STODDART, Terry 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-TAYLOR, Ernie 	Inside Forward	22	7	0	0	0	0	0	0	0
-										
-THOMPSON, Tommy 	Inside Forward	6	3	0	0	0	0	0	0	0
-										
-TUCKER, Malcolm 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WALKER, Tommy 	Winger	38	12	0	2	2	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATTY, Ron ",Full Back,18,0,0,2,0,0,0,0,0
+,"BRENNAN, Frank ",Central Defender,41,0,0,2,0,0,0,0,0
+,"BRUNSKILL, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CONNER, Dick ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CORBETT, Bobby ",Full Back,13,1,1,0,0,0,0,0,0
+,"COWELL, Bobby ",Full Back,20,0,0,0,0,0,0,0,0
+,"CRAIG, Benny ",Full Back,7,0,0,0,0,0,0,0,0
+,"CROWE, Charlie ",Wing Half,26,0,0,2,0,0,0,0,0
+,"DODGIN, Norman ",Wing Half,17,0,0,0,0,0,0,0,0
+,"FAIRBROTHER, Jack ",Goalkeeper,22,0,0,2,0,0,0,0,0
+,"GARBUTT, Eric ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"GRAHAM, Doug ",Full Back,15,0,0,2,0,0,0,0,0
+,"GRAVER, Andy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"HANNAH, George ",Inside Forward,25,7,0,2,0,0,0,0,0
+,"HARVEY, Joe ",Wing Half,22,1,0,0,0,0,0,0,0
+,"HERRON, Alan ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HOUGHTON, Frank ",Wing Half,32,7,0,2,1,0,0,0,0
+,"LOWERY, Jerry ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"LOWRIE, George ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"MCMICHAEL, Alf ",Full Back,11,0,0,0,0,0,0,0,0
+,"MILBURN, Jackie ",Centre Forward,30,18,2,2,3,0,0,0,0
+,"MITCHELL, Bobby ",Winger,38,8,0,2,1,0,0,0,0
+,"ROBLEDO, Ted ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ROBLEDO, George ",Centre Forward,30,11,0,2,0,0,0,0,0
+,"SCOTT, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SIBLEY, Joe ",Winger,3,0,0,0,0,0,0,0,0
+,"SMITH, Tot ",Central Defender,1,0,0,0,0,0,0,0,0
+,"STODDART, Terry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Ernie ",Inside Forward,22,7,0,0,0,0,0,0,0
+,"THOMPSON, Tommy ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"TUCKER, Malcolm ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WALKER, Tommy ",Winger,38,12,0,2,2,0,0,0,0

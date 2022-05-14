@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1948/49
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATTY, Ron 	Full Back	30	0	0	1	0	0	0	0	0
-										
-BRENNAN, Frank 	Central Defender	41	0	0	1	0	0	0	0	0
-										
-CLARK, Albert 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-COWELL, Bobby 	Full Back	38	0	0	1	0	0	0	0	0
-										
-CRAIG, Benny 	Full Back	10	0	0	0	0	0	0	0	0
-										
-DODGIN, Norman 	Wing Half	41	0	0	1	0	0	0	0	0
-										
-DONALDSON, Andy 	Centre Forward	13	5	1	0	0	0	0	0	0
-										
-FAIRBROTHER, Jack 	Goalkeeper	41	0	0	1	0	0	0	0	0
-										
-FRASER, Robert 	Full Back	3	0	0	0	0	0	0	0	0
-										
-GARBUTT, Eric 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-GIBSON, Colin 	Winger	23	5	0	1	0	0	0	0	0
-										
-GRAHAM, Doug 	Full Back	4	0	0	0	0	0	0	0	0
-										
-HAIR, George 	Winger	14	4	0	1	0	0	0	0	0
-										
-HARBERTSON, Ron 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HARVEY, Joe 	Wing Half	38	2	0	1	0	0	0	0	0
-										
-HOUGHTON, Frank 	Wing Half	6	1	0	0	0	0	0	0	0
-										
-LOWRIE, George 	Inside Forward	4	3	0	0	0	0	0	0	0
-										
-MCCALL, Willie 	Winger	1	0	0	0	0	0	0	0	0
-										
-MIDDLETON, Fred 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MILBURN, Jackie 	Centre Forward	34	19	0	1	0	0	0	0	0
-										
-MITCHELL, Bobby 	Winger	13	3	0	0	0	0	0	0	0
-										
-ROBLEDO, George 	Centre Forward	15	6	0	0	0	0	0	0	0
-										
-ROBSON, Ray 	Full Back	0	0	0	0	0	0	0	0	0
-										
-SIBLEY, Joe 	Winger	8	2	0	0	0	0	0	0	0
-										
-STEELE, Joe 	Winger	0	0	0	0	0	0	0	0	0
-										
-STOBBART, George 	Centre Forward	23	5	0	1	0	0	0	0	0
-										
-STOREY, Jim 	Full Back	0	0	0	0	0	0	0	0	0
-										
-TAYLOR, Ernie 	Inside Forward	28	3	0	1	0	0	0	0	0
-										
-THOMPSON, Tommy 	Inside Forward	10	1	0	0	0	0	0	0	0
-										
-TOASE, Don 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WALKER, Tommy 	Winger	22	5	0	0	0	0	0	0	0
-										
-WILSON, Glen 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-WOOD, Ray 	Goalkeeper	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATTY, Ron ",Full Back,30,0,0,1,0,0,0,0,0
+,"BRENNAN, Frank ",Central Defender,41,0,0,1,0,0,0,0,0
+,"CLARK, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"COWELL, Bobby ",Full Back,38,0,0,1,0,0,0,0,0
+,"CRAIG, Benny ",Full Back,10,0,0,0,0,0,0,0,0
+,"DODGIN, Norman ",Wing Half,41,0,0,1,0,0,0,0,0
+,"DONALDSON, Andy ",Centre Forward,13,5,1,0,0,0,0,0,0
+,"FAIRBROTHER, Jack ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"FRASER, Robert ",Full Back,3,0,0,0,0,0,0,0,0
+,"GARBUTT, Eric ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"GIBSON, Colin ",Winger,23,5,0,1,0,0,0,0,0
+,"GRAHAM, Doug ",Full Back,4,0,0,0,0,0,0,0,0
+,"HAIR, George ",Winger,14,4,0,1,0,0,0,0,0
+,"HARBERTSON, Ron ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARVEY, Joe ",Wing Half,38,2,0,1,0,0,0,0,0
+,"HOUGHTON, Frank ",Wing Half,6,1,0,0,0,0,0,0,0
+,"LOWRIE, George ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"MCCALL, Willie ",Winger,1,0,0,0,0,0,0,0,0
+,"MIDDLETON, Fred ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MILBURN, Jackie ",Centre Forward,34,19,0,1,0,0,0,0,0
+,"MITCHELL, Bobby ",Winger,13,3,0,0,0,0,0,0,0
+,"ROBLEDO, George ",Centre Forward,15,6,0,0,0,0,0,0,0
+,"ROBSON, Ray ",Full Back,0,0,0,0,0,0,0,0,0
+,"SIBLEY, Joe ",Winger,8,2,0,0,0,0,0,0,0
+,"STEELE, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"STOBBART, George ",Centre Forward,23,5,0,1,0,0,0,0,0
+,"STOREY, Jim ",Full Back,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Ernie ",Inside Forward,28,3,0,1,0,0,0,0,0
+,"THOMPSON, Tommy ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"TOASE, Don ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALKER, Tommy ",Winger,22,5,0,0,0,0,0,0,0
+,"WILSON, Glen ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WOOD, Ray ",Goalkeeper,0,0,0,0,0,0,0,0,0

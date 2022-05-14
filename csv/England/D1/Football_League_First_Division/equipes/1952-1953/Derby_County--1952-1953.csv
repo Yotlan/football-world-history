@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1952/53
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARROWCLIFFE, Geoff 	Full Back	22	0	0	2	0	0	0	0	0
-										
-BELL, Colin 	Wing Half	22	0	0	0	0	0	0	0	0
-										
-DUNN, Jimmy 	Inside Forward	6	3	0	0	0	0	0	0	0
-										
-HARRISON, Reg 	Winger	24	3	0	1	0	0	0	0	0
-										
-HAZLEDINE, Don 	Inside Forward	23	6	0	1	0	0	0	0	0
-										
-HOLDING, Eddie 	Full Back	0	0	0	0	0	0	0	0	0
-										
-LAW, Cecil 	Winger	3	0	0	0	0	0	0	0	0
-										
-LEE, Jack 	Centre Forward	27	16	0	2	1	0	0	0	0
-										
-MAYS, Albert 	Wing Half	32	0	0	0	0	0	0	0	0
-										
-MCLACHLAN, Steve 	Wing Half	12	0	0	2	1	0	0	0	0
-										
-MCLAREN, Hugh 	Winger	29	11	0	2	1	0	0	0	0
-										
-MCQUILLAN, Dennis 	Winger	1	0	0	0	0	0	0	0	0
-										
-MIDDLETON, Ray 	Goalkeeper	39	0	0	1	0	0	0	0	0
-										
-MORRIS, Johnny 	Inside Forward	5	1	0	0	0	0	0	0	0
-										
-MOZLEY, Bert 	Full Back	37	0	0	2	0	0	0	0	0
-										
-MUSSON, Chick 	Wing Half	14	0	0	2	0	0	0	0	0
-										
-NIELSON, Norman 	Central Defender	20	0	0	0	0	0	0	0	0
-										
-OLIVER, Ken 	Central Defender	25	0	0	2	0	0	0	0	0
-										
-PARR, Jackie 	Full Back	2	0	0	0	0	0	0	0	0
-										
-PARRY, Jack 	Inside Forward	17	3	0	1	1	0	0	0	0
-										
-PATRICK, Roy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-POWELL, Tommy 	Winger	23	1	0	1	0	0	0	0	0
-										
-SAVIN, Keith 	Full Back	17	0	0	0	0	0	0	0	0
-										
-SINCLAIR, Dennis 	Winger	0	0	0	0	0	0	0	0	0
-										
-STAMPS, Jackie 	Centre Forward	30	10	1	2	0	0	0	0	0
-										
-STRAW, Ray 	Centre Forward	15	4	1	0	0	0	0	0	0
-										
-TOWNSEND, Billy 	Goalkeeper	3	0	0	1	0	0	0	0	0
-										
-WALKER, Colin 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-WESTON, Reg 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WHEATLEY, Steve 	Winger	3	0	0	0	0	0	0	0	0
-										
-WILKINS, Ray 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Peter 	Winger	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARROWCLIFFE, Geoff ",Full Back,22,0,0,2,0,0,0,0,0
+,"BELL, Colin ",Wing Half,22,0,0,0,0,0,0,0,0
+,"DUNN, Jimmy ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"HARRISON, Reg ",Winger,24,3,0,1,0,0,0,0,0
+,"HAZLEDINE, Don ",Inside Forward,23,6,0,1,0,0,0,0,0
+,"HOLDING, Eddie ",Full Back,0,0,0,0,0,0,0,0,0
+,"LAW, Cecil ",Winger,3,0,0,0,0,0,0,0,0
+,"LEE, Jack ",Centre Forward,27,16,0,2,1,0,0,0,0
+,"MAYS, Albert ",Wing Half,32,0,0,0,0,0,0,0,0
+,"MCLACHLAN, Steve ",Wing Half,12,0,0,2,1,0,0,0,0
+,"MCLAREN, Hugh ",Winger,29,11,0,2,1,0,0,0,0
+,"MCQUILLAN, Dennis ",Winger,1,0,0,0,0,0,0,0,0
+,"MIDDLETON, Ray ",Goalkeeper,39,0,0,1,0,0,0,0,0
+,"MORRIS, Johnny ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"MOZLEY, Bert ",Full Back,37,0,0,2,0,0,0,0,0
+,"MUSSON, Chick ",Wing Half,14,0,0,2,0,0,0,0,0
+,"NIELSON, Norman ",Central Defender,20,0,0,0,0,0,0,0,0
+,"OLIVER, Ken ",Central Defender,25,0,0,2,0,0,0,0,0
+,"PARR, Jackie ",Full Back,2,0,0,0,0,0,0,0,0
+,"PARRY, Jack ",Inside Forward,17,3,0,1,1,0,0,0,0
+,"PATRICK, Roy ",Full Back,1,0,0,0,0,0,0,0,0
+,"POWELL, Tommy ",Winger,23,1,0,1,0,0,0,0,0
+,"SAVIN, Keith ",Full Back,17,0,0,0,0,0,0,0,0
+,"SINCLAIR, Dennis ",Winger,0,0,0,0,0,0,0,0,0
+,"STAMPS, Jackie ",Centre Forward,30,10,1,2,0,0,0,0,0
+,"STRAW, Ray ",Centre Forward,15,4,1,0,0,0,0,0,0
+,"TOWNSEND, Billy ",Goalkeeper,3,0,0,1,0,0,0,0,0
+,"WALKER, Colin ",Wing Half,6,0,0,0,0,0,0,0,0
+,"WESTON, Reg ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WHEATLEY, Steve ",Winger,3,0,0,0,0,0,0,0,0
+,"WILKINS, Ray ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"WILLIAMS, Peter ",Winger,2,0,0,0,0,0,0,0,0

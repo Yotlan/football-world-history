@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1932/33
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned 	Full Back	28	0	0	5	0	0	0	0	0
-										
-BOOTON, Harold 	Full Back	42	0	0	5	0	0	0	0	0
-										
-BRADBURY, Tommy 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-BRADFORD, Joe 	Centre Forward	26	14	0	0	0	0	0	0	0
-										
-BRIGGS, George 	Winger	35	6	0	5	0	0	0	0	0
-										
-CALLADINE, Charlie 	Wing Half	22	1	0	5	0	0	0	0	0
-										
-CRINGAN, Jimmy 	Central Defender	5	1	0	0	0	0	0	0	0
-										
-CURTIS, Ernie 	Inside Forward	36	11	3	5	3	0	0	0	0
-										
-FILLINGHAM, Tom 	Central Defender	15	0	0	0	0	0	0	0	0
-										
-FIRTH, Jack 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-GREGG, Bob 	Inside Forward	34	7	0	5	2	0	0	0	0
-										
-GRICE, Tommy 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-GROSVENOR, Tom 	Inside Forward	42	9	0	5	1	0	0	0	0
-										
-HAYWOOD, George 	Centre Forward	11	5	0	5	2	0	0	0	0
-										
-HIBBS, Harry 	Goalkeeper	40	0	0	5	0	0	0	0	0
-										
-HORSMAN, Bill 	Winger	6	0	0	0	0	0	0	0	0
-										
-LEA, Isaac 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-MITTELL, Jackie 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-MORRALL, George 	Central Defender	38	0	0	5	0	0	0	0	0
-										
-MURRAY, Joe 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-RANDLE, Jackie 	Full Back	4	0	0	0	0	0	0	0	0
-										
-ROBINSON, Tommy 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-SHELLEY, Albert 	Winger	0	0	0	0	0	0	0	0	0
-										
-SMITH, Bernard 	Full Back	9	0	0	0	0	0	0	0	0
-										
-SMITH, Sam 	Centre Forward	6	0	0	0	0	0	0	0	0
-										
-STOKER, Lew 	Wing Half	38	0	0	5	0	0	0	0	0
-										
-THOROGOOD, Jack 	Winger	9	2	0	0	0	0	0	0	0
-										
-WHITE, Frank 	Winger	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,28,0,0,5,0,0,0,0,0
+,"BOOTON, Harold ",Full Back,42,0,0,5,0,0,0,0,0
+,"BRADBURY, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BRADFORD, Joe ",Centre Forward,26,14,0,0,0,0,0,0,0
+,"BRIGGS, George ",Winger,35,6,0,5,0,0,0,0,0
+,"CALLADINE, Charlie ",Wing Half,22,1,0,5,0,0,0,0,0
+,"CRINGAN, Jimmy ",Central Defender,5,1,0,0,0,0,0,0,0
+,"CURTIS, Ernie ",Inside Forward,36,11,3,5,3,0,0,0,0
+,"FILLINGHAM, Tom ",Central Defender,15,0,0,0,0,0,0,0,0
+,"FIRTH, Jack ",Wing Half,5,0,0,0,0,0,0,0,0
+,"GREGG, Bob ",Inside Forward,34,7,0,5,2,0,0,0,0
+,"GRICE, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GROSVENOR, Tom ",Inside Forward,42,9,0,5,1,0,0,0,0
+,"HAYWOOD, George ",Centre Forward,11,5,0,5,2,0,0,0,0
+,"HIBBS, Harry ",Goalkeeper,40,0,0,5,0,0,0,0,0
+,"HORSMAN, Bill ",Winger,6,0,0,0,0,0,0,0,0
+,"LEA, Isaac ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MITTELL, Jackie ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MORRALL, George ",Central Defender,38,0,0,5,0,0,0,0,0
+,"MURRAY, Joe ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"RANDLE, Jackie ",Full Back,4,0,0,0,0,0,0,0,0
+,"ROBINSON, Tommy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"SHELLEY, Albert ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Bernard ",Full Back,9,0,0,0,0,0,0,0,0
+,"SMITH, Sam ",Centre Forward,6,0,0,0,0,0,0,0,0
+,"STOKER, Lew ",Wing Half,38,0,0,5,0,0,0,0,0
+,"THOROGOOD, Jack ",Winger,9,2,0,0,0,0,0,0,0
+,"WHITE, Frank ",Winger,1,0,0,0,0,0,0,0,0

@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1934/35
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABEL, Robert 	Full Back	1	0	0	0	0	0	0	0	0
-										
-BAILEY, Harry 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BARTHOLOMEW, Roland 	Winger	0	0	0	0	0	0	0	0	0
-										
-COCHRANE, Tom 	Winger	41	1	0	3	1	0	0	0	0
-										
-COOKE, Wilf 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-DANIELS, Jack 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-DUGGAN, Harry 	Winger	35	9	0	2	1	0	0	0	0
-										
-EDWARDS, Willis 	Wing Half	28	0	0	2	0	0	0	0	0
-										
-FIRTH, Joe 	Inside Forward	7	1	0	1	0	0	0	0	0
-										
-FURNESS, Billy 	Inside Forward	34	16	0	2	1	0	0	0	0
-										
-HART, Ernie 	Central Defender	27	1	0	1	0	0	0	0	0
-										
-HORNBY, Cecil 	Wing Half	34	3	0	0	0	0	0	0	0
-										
-HYDES, Arthur 	Centre Forward	30	22	0	3	3	0	0	0	0
-										
-KEETLEY, Charlie 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-KELLY, Jack 	Centre Forward	10	1	0	1	0	0	0	0	0
-										
-KELLY, Mick 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-MAHON, Jack 	Winger	32	8	0	3	2	0	0	0	0
-										
-MCDOUGALL, Jock 	Central Defender	11	0	0	3	0	0	0	0	0
-										
-MILBURN, George 	Full Back	17	1	0	0	0	0	0	0	0
-										
-MILBURN, Jack 	Full Back	41	6	5	3	0	0	0	0	0
-										
-MILLS, Fred 	Wing Half	16	2	0	0	0	0	0	0	0
-										
-MOORE, Stan 	Goalkeeper	14	0	0	3	0	0	0	0	0
-										
-NEAL, Tom 	Wing Half	9	0	0	3	0	0	0	0	0
-										
-ROBINSON, Ike 	Full Back	0	0	0	0	0	0	0	0	0
-										
-ROPER, Harry 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-SAVAGE, Reg 	Goalkeeper	27	0	0	0	0	0	0	0	0
-										
-SPROSTON, Bert 	Full Back	25	0	0	3	0	0	0	0	0
-										
-STEPHENSON, Eric 	Inside Forward	4	2	0	0	0	0	0	0	0
-										
-TRAVIS, Harry 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-TURNER, Charlie 	Central Defender	5	0	0	0	0	0	0	0	0
-										
-WILCOCKSON, Stan 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-WORSLEY, Bert 	Winger	3	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABEL, Robert ",Full Back,1,0,0,0,0,0,0,0,0
+,"BAILEY, Harry ",Full Back,0,0,0,0,0,0,0,0,0
+,"BARTHOLOMEW, Roland ",Winger,0,0,0,0,0,0,0,0,0
+,"COCHRANE, Tom ",Winger,41,1,0,3,1,0,0,0,0
+,"COOKE, Wilf ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DANIELS, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DUGGAN, Harry ",Winger,35,9,0,2,1,0,0,0,0
+,"EDWARDS, Willis ",Wing Half,28,0,0,2,0,0,0,0,0
+,"FIRTH, Joe ",Inside Forward,7,1,0,1,0,0,0,0,0
+,"FURNESS, Billy ",Inside Forward,34,16,0,2,1,0,0,0,0
+,"HART, Ernie ",Central Defender,27,1,0,1,0,0,0,0,0
+,"HORNBY, Cecil ",Wing Half,34,3,0,0,0,0,0,0,0
+,"HYDES, Arthur ",Centre Forward,30,22,0,3,3,0,0,0,0
+,"KEETLEY, Charlie ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"KELLY, Jack ",Centre Forward,10,1,0,1,0,0,0,0,0
+,"KELLY, Mick ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"MAHON, Jack ",Winger,32,8,0,3,2,0,0,0,0
+,"MCDOUGALL, Jock ",Central Defender,11,0,0,3,0,0,0,0,0
+,"MILBURN, George ",Full Back,17,1,0,0,0,0,0,0,0
+,"MILBURN, Jack ",Full Back,41,6,5,3,0,0,0,0,0
+,"MILLS, Fred ",Wing Half,16,2,0,0,0,0,0,0,0
+,"MOORE, Stan ",Goalkeeper,14,0,0,3,0,0,0,0,0
+,"NEAL, Tom ",Wing Half,9,0,0,3,0,0,0,0,0
+,"ROBINSON, Ike ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROPER, Harry ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"SAVAGE, Reg ",Goalkeeper,27,0,0,0,0,0,0,0,0
+,"SPROSTON, Bert ",Full Back,25,0,0,3,0,0,0,0,0
+,"STEPHENSON, Eric ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"TRAVIS, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"TURNER, Charlie ",Central Defender,5,0,0,0,0,0,0,0,0
+,"WILCOCKSON, Stan ",Wing Half,4,0,0,0,0,0,0,0,0
+,"WORSLEY, Bert ",Winger,3,0,0,0,0,0,0,0,0

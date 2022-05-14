@@ -1,95 +1,47 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1937/38
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHALL, George 	Winger	32	1	0	2	0	0	0	0	0
-										
-BIRD, Ken 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-BROCK, George 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-CLAYTON, James 	Centre Forward	7	5	0	0	0	0	0	0	0
-										
-CULLIS, Stan 	Central Defender	36	0	0	2	0	0	0	0	0
-										
-DAVIES, Joe 	Winger	0	0	0	0	0	0	0	0	0
-										
-DORSETT, Dickie 	Wing Half	10	6	0	0	0	0	0	0	0
-										
-DOWEN, Jack 	Full Back	3	0	0	0	0	0	0	0	0
-										
-ELLIOTT, Billy 	Winger	0	0	0	0	0	0	0	0	0
-										
-FLATLEY, Bert 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-FLOWERS, Ivan 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-FORD, Arthur 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-GALLEY, Tom 	Wing Half	35	11	7	2	0	0	0	0	0
-										
-GARDINER, Joe 	Wing Half	38	0	0	2	0	0	0	0	0
-										
-GRANT, Cyril 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-GRIMLEY, Tom 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-HARSTON, Jack 	Full Back	0	0	0	0	0	0	0	0	0
-										
-JONES, Bryn 	Inside Forward	36	15	0	2	2	0	0	0	0
-										
-KEARNS, Jack 	Full Back	0	0	0	0	0	0	0	0	0
-										
-KIRKHAM, Jack 	Centre Forward	8	2	0	2	0	0	0	0	0
-										
-LANGLEY, Bill 	Centre Forward	7	3	0	0	0	0	0	0	0
-										
-MAGUIRE, Teddy 	Winger	33	5	0	0	0	0	0	0	0
-										
-MCINTOSH, Alex 	Inside Forward	8	0	0	0	0	0	0	0	0
-										
-MORRIS, Billy 	Full Back	40	0	0	2	0	0	0	0	0
-										
-NELSON, Albert 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-ORDISH, Cyril 	Full Back	1	0	0	0	0	0	0	0	0
-										
-PATON, Tommy 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-POOLE, Cyril 	Full Back	0	0	0	0	0	0	0	0	0
-										
-PRICE, Jack 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-REECE, Tom 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-RUDKIN, Tommy 	Winger	0	0	0	0	0	0	0	0	0
-										
-SCOTT, Robert 	Goalkeeper	39	0	0	2	0	0	0	0	0
-										
-SHERWOOD, Cliff 	Winger	0	0	0	0	0	0	0	0	0
-										
-SHIELD, Jack 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-SIDLOW, Cyril 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-SMALLEY, Tom 	Wing Half	29	1	0	2	0	0	0	0	0
-										
-SMITH, Reg 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-STATHAM, Alwyne 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-TAYLOR, Frank 	Full Back	2	0	0	0	0	0	0	0	0
-										
-TAYLOR, Jack 	Full Back	39	0	0	2	0	0	0	0	0
-										
-THOMPSON, Harry 	Inside Forward	17	3	0	0	0	0	0	0	0
-										
-WESTCOTT, Dennis 	Centre Forward	26	19	0	2	3	0	0	0	0
-										
-WHARTON, Guy 	Wing Half	8	0	0	0	0	0	0	0	0
-										
-WILSON, Arthur 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WRIGHT, Ray 	Inside Forward	3	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHALL, George ",Winger,32,1,0,2,0,0,0,0,0
+,"BIRD, Ken ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BROCK, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CLAYTON, James ",Centre Forward,7,5,0,0,0,0,0,0,0
+,"CULLIS, Stan ",Central Defender,36,0,0,2,0,0,0,0,0
+,"DAVIES, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"DORSETT, Dickie ",Wing Half,10,6,0,0,0,0,0,0,0
+,"DOWEN, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"ELLIOTT, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"FLATLEY, Bert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FLOWERS, Ivan ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FORD, Arthur ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GALLEY, Tom ",Wing Half,35,11,7,2,0,0,0,0,0
+,"GARDINER, Joe ",Wing Half,38,0,0,2,0,0,0,0,0
+,"GRANT, Cyril ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GRIMLEY, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HARSTON, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"JONES, Bryn ",Inside Forward,36,15,0,2,2,0,0,0,0
+,"KEARNS, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"KIRKHAM, Jack ",Centre Forward,8,2,0,2,0,0,0,0,0
+,"LANGLEY, Bill ",Centre Forward,7,3,0,0,0,0,0,0,0
+,"MAGUIRE, Teddy ",Winger,33,5,0,0,0,0,0,0,0
+,"MCINTOSH, Alex ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"MORRIS, Billy ",Full Back,40,0,0,2,0,0,0,0,0
+,"NELSON, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ORDISH, Cyril ",Full Back,1,0,0,0,0,0,0,0,0
+,"PATON, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"POOLE, Cyril ",Full Back,0,0,0,0,0,0,0,0,0
+,"PRICE, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"REECE, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"RUDKIN, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"SCOTT, Robert ",Goalkeeper,39,0,0,2,0,0,0,0,0
+,"SHERWOOD, Cliff ",Winger,0,0,0,0,0,0,0,0,0
+,"SHIELD, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SIDLOW, Cyril ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"SMALLEY, Tom ",Wing Half,29,1,0,2,0,0,0,0,0
+,"SMITH, Reg ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"STATHAM, Alwyne ",Wing Half,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Frank ",Full Back,2,0,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Full Back,39,0,0,2,0,0,0,0,0
+,"THOMPSON, Harry ",Inside Forward,17,3,0,0,0,0,0,0,0
+,"WESTCOTT, Dennis ",Centre Forward,26,19,0,2,3,0,0,0,0
+,"WHARTON, Guy ",Wing Half,8,0,0,0,0,0,0,0,0
+,"WILSON, Arthur ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WRIGHT, Ray ",Inside Forward,3,0,0,0,0,0,0,0,0

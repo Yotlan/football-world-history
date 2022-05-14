@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1934/35
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALMOND, Jack 	Winger	1	1	0	0	0	0	0	0	0
-										
-BAMBER, Jack 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-BULLER, Joe 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-DAVIES, Harry 	Inside Forward	35	5	0	1	0	0	0	0	0
-										
-HARVEY, Jack 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HOULDSWORTH, Freddie 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-JOHNSON, Joe 	Winger	38	11	0	1	0	0	0	0	0
-										
-LEWIS, Norman 	Goalkeeper	36	0	0	1	0	0	0	0	0
-										
-LEWIS, Jack 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-LIDDLE, Bobby 	Winger	38	10	0	1	0	0	0	0	0
-										
-MATTHEWS, Stanley 	Winger	36	10	0	1	1	0	0	0	0
-										
-MAYER, Wilf 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-MCARDLE, Peter 	Winger	1	0	0	0	0	0	0	0	0
-										
-MCGRORY, Bob 	Full Back	42	0	0	1	0	0	0	0	0
-										
-MIDDLETON, Charlie 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-OLIVER, John 	Full Back	0	0	0	0	0	0	0	0	0
-										
-ROBSON, Billy 	Centre Forward	3	2	0	0	0	0	0	0	0
-										
-SALE, Tommy 	Centre Forward	35	24	0	1	0	0	0	0	0
-										
-SCATTERGOOD, Ken 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-SCRIMSHAW, Charlie 	Full Back	1	0	0	0	0	0	0	0	0
-										
-SELLARS, Harry 	Wing Half	40	0	0	1	0	0	0	0	0
-										
-SOO, Frank 	Wing Half	9	0	0	0	0	0	0	0	0
-										
-SPENCER, Billy 	Full Back	41	0	0	1	0	0	0	0	0
-										
-STEELE, Freddie 	Centre Forward	9	1	0	0	0	0	0	0	0
-										
-TURNER, Arthur 	Central Defender	39	4	3	1	0	0	0	0	0
-										
-TUTIN, Arthur 	Wing Half	41	1	0	1	0	0	0	0	0
-										
-WARE, Harry 	Inside Forward	4	2	0	0	0	0	0	0	0
-										
-WRIGHT, Bill 	Full Back	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALMOND, Jack ",Winger,1,1,0,0,0,0,0,0,0
+,"BAMBER, Jack ",Central Defender,3,0,0,0,0,0,0,0,0
+,"BULLER, Joe ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DAVIES, Harry ",Inside Forward,35,5,0,1,0,0,0,0,0
+,"HARVEY, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HOULDSWORTH, Freddie ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"JOHNSON, Joe ",Winger,38,11,0,1,0,0,0,0,0
+,"LEWIS, Norman ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"LEWIS, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"LIDDLE, Bobby ",Winger,38,10,0,1,0,0,0,0,0
+,"MATTHEWS, Stanley ",Winger,36,10,0,1,1,0,0,0,0
+,"MAYER, Wilf ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCARDLE, Peter ",Winger,1,0,0,0,0,0,0,0,0
+,"MCGRORY, Bob ",Full Back,42,0,0,1,0,0,0,0,0
+,"MIDDLETON, Charlie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"OLIVER, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROBSON, Billy ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"SALE, Tommy ",Centre Forward,35,24,0,1,0,0,0,0,0
+,"SCATTERGOOD, Ken ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SCRIMSHAW, Charlie ",Full Back,1,0,0,0,0,0,0,0,0
+,"SELLARS, Harry ",Wing Half,40,0,0,1,0,0,0,0,0
+,"SOO, Frank ",Wing Half,9,0,0,0,0,0,0,0,0
+,"SPENCER, Billy ",Full Back,41,0,0,1,0,0,0,0,0
+,"STEELE, Freddie ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"TURNER, Arthur ",Central Defender,39,4,3,1,0,0,0,0,0
+,"TUTIN, Arthur ",Wing Half,41,1,0,1,0,0,0,0,0
+,"WARE, Harry ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"WRIGHT, Bill ",Full Back,0,0,0,0,0,0,0,0,0

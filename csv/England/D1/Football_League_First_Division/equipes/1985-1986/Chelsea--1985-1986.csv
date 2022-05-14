@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1985/86
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BUMSTEAD, John 	Midfielder	32	1	0	1	0	0	9	1	0
-										
-CANOVILLE, Paul 	Winger	4+9	1	0	0+2	0	0	1+3	0	0
-										
-DAVIES, Gordon 	Forward	1	0	0	0	0	0	0	0	0
-										
-DIXON, Kerry 	Forward	38	14	0	2	0	0	11	9	0
-										
-DUBLIN, Keith 	Central Defender	11	0	0	2	0	0	8+1	0	0
-										
-DURIE, Gordon 	Forward	1	0	0	0	0	0	0	0	0
-										
-FRANCIS, Steve 	Goalkeeper	3	0	0	0	0	0	1	0	0
-										
-FRIDGE, Les 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-GODDEN, Tony 	Goalkeeper	8	0	0	0	0	0	0	0	0
-										
-HAZARD, Micky 	Midfielder	17+1	1	1	1	0	0	5+2	2	0
-										
-HOWARD, Terry 	Full Back	1	0	0	0	0	0	0	0	0
-										
-ISAAC, Bobby 	Central Defender	3	0	0	0	0	0	3	0	0
-										
-JASPER, Dale 	Midfielder	0	0	0	0	0	0	1+1	0	0
-										
-JONES, Keith 	Midfielder	10+4	2	0	1	0	0	6+1	0	0
-										
-LEE, Colin 	Forward	12+1	0	0	1	0	0	2+1	2	0
-										
-MCALLISTER, Kevin 	Winger	13+7	0	0	0	0	0	6+3	1	0
-										
-MCLAUGHLIN, Joe 	Central Defender	40	1	0	1	0	0	10	1	0
-										
-MCNAUGHT, John 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-MILLAR, John 	Full Back	7	0	0	0	0	0	0	0	0
-										
-MURPHY, Jerry 	Midfielder	21	3	0	1	0	0	4	0	0
-										
-NEVIN, Pat 	Winger	39+1	7	0	2	0	0	14	5	0
-										
-NIEDZWIECKI, Eddie 	Goalkeeper	30	0	0	2	0	0	13	0	0
-										
-PATES, Colin 	Central Defender	35	1	0	2	0	0	13	0	0
-										
-ROUGVIE, Doug 	Full Back	34	2	0	2	0	0	9	0	0
-										
-SHEARER, Duncan 	Forward	2	1	0	0	0	0	0	0	0
-										
-SPACKMAN, Nigel 	Midfielder	37+2	7	4	2	0	0	13+1	0	0
-										
-SPEEDIE, David 	Forward	34	14	0	2	2	0	13	6	0
-										
-WOOD, Darren 	Full Back	28	0	0	0	0	0	12	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BUMSTEAD, John ",Midfielder,32,1,0,1,0,0,9,1,0
+,"CANOVILLE, Paul ",Winger,4+9,1,0,0+2,0,0,1+3,0,0
+,"DAVIES, Gordon ",Forward,1,0,0,0,0,0,0,0,0
+,"DIXON, Kerry ",Forward,38,14,0,2,0,0,11,9,0
+,"DUBLIN, Keith ",Central Defender,11,0,0,2,0,0,8+1,0,0
+,"DURIE, Gordon ",Forward,1,0,0,0,0,0,0,0,0
+,"FRANCIS, Steve ",Goalkeeper,3,0,0,0,0,0,1,0,0
+,"FRIDGE, Les ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"GODDEN, Tony ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"HAZARD, Micky ",Midfielder,17+1,1,1,1,0,0,5+2,2,0
+,"HOWARD, Terry ",Full Back,1,0,0,0,0,0,0,0,0
+,"ISAAC, Bobby ",Central Defender,3,0,0,0,0,0,3,0,0
+,"JASPER, Dale ",Midfielder,0,0,0,0,0,0,1+1,0,0
+,"JONES, Keith ",Midfielder,10+4,2,0,1,0,0,6+1,0,0
+,"LEE, Colin ",Forward,12+1,0,0,1,0,0,2+1,2,0
+,"MCALLISTER, Kevin ",Winger,13+7,0,0,0,0,0,6+3,1,0
+,"MCLAUGHLIN, Joe ",Central Defender,40,1,0,1,0,0,10,1,0
+,"MCNAUGHT, John ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"MILLAR, John ",Full Back,7,0,0,0,0,0,0,0,0
+,"MURPHY, Jerry ",Midfielder,21,3,0,1,0,0,4,0,0
+,"NEVIN, Pat ",Winger,39+1,7,0,2,0,0,14,5,0
+,"NIEDZWIECKI, Eddie ",Goalkeeper,30,0,0,2,0,0,13,0,0
+,"PATES, Colin ",Central Defender,35,1,0,2,0,0,13,0,0
+,"ROUGVIE, Doug ",Full Back,34,2,0,2,0,0,9,0,0
+,"SHEARER, Duncan ",Forward,2,1,0,0,0,0,0,0,0
+,"SPACKMAN, Nigel ",Midfielder,37+2,7,4,2,0,0,13+1,0,0
+,"SPEEDIE, David ",Forward,34,14,0,2,2,0,13,6,0
+,"WOOD, Darren ",Full Back,28,0,0,0,0,0,12,0,0

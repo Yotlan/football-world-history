@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1959/60
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOND, John 	Full Back	35	7	3	2	0	0	0	0	0
-										
-BOVINGTON, Eddie 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-BRETT, Ron 	Winger	7	2	0	0	0	0	0	0	0
-										
-BROWN, Ken 	Central Defender	40	0	0	2	0	0	0	0	0
-										
-CANTWELL, Noel 	Full Back	40	3	3	2	0	0	0	0	0
-										
-CARTWRIGHT, John 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-DICK, John 	Inside Forward	24	11	0	1	1	0	0	0	0
-										
-DUNMORE, Dave 	Centre Forward	9	2	0	0	0	0	0	0	0
-										
-DWYER, Noel 	Goalkeeper	26	0	0	2	0	0	0	0	0
-										
-GREGORY, Ernie 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-GRICE, Mike 	Winger	34	5	0	2	0	0	0	0	0
-										
-HURST, Geoff 	Forward	3	0	0	0	0	0	0	0	0
-										
-KEEBLE, Vic 	Centre Forward	15	6	0	0	0	0	0	0	0
-										
-KIRKUP, Joe 	Full Back	16	0	0	0	0	0	0	0	0
-										
-LANSDOWNE, Bill 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-LYALL, John 	Full Back	2	0	0	0	0	0	0	0	0
-										
-MALCOLM, Andy 	Wing Half	40	0	0	2	0	0	0	0	0
-										
-MOORE, Bobby 	Central Defender	13	0	0	0	0	0	0	0	0
-										
-MUSGROVE, Malcolm 	Winger	41	15	0	2	1	0	0	0	0
-										
-OBENEY, Harry 	Wing Half	9	5	0	2	0	0	0	0	0
-										
-READER, Peter 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-RHODES, Brian 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-SCOTT, Tony 	Winger	4	1	0	0	0	0	0	0	0
-										
-SMILLIE, Andy 	Midfielder	13	3	0	1	0	0	0	0	0
-										
-SMITH, John 	Midfielder	28	1	0	2	0	0	0	0	0
-										
-WOODLEY, Derek 	Winger	3	2	0	0	0	0	0	0	0
-										
-WOOSNAM, Phil 	Inside Forward	38	11	0	2	0	0	0	0	0
-										
-WRAGG, Doug 	Winger	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOND, John ",Full Back,35,7,3,2,0,0,0,0,0
+,"BOVINGTON, Eddie ",Midfielder,1,0,0,0,0,0,0,0,0
+,"BRETT, Ron ",Winger,7,2,0,0,0,0,0,0,0
+,"BROWN, Ken ",Central Defender,40,0,0,2,0,0,0,0,0
+,"CANTWELL, Noel ",Full Back,40,3,3,2,0,0,0,0,0
+,"CARTWRIGHT, John ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"DICK, John ",Inside Forward,24,11,0,1,1,0,0,0,0
+,"DUNMORE, Dave ",Centre Forward,9,2,0,0,0,0,0,0,0
+,"DWYER, Noel ",Goalkeeper,26,0,0,2,0,0,0,0,0
+,"GREGORY, Ernie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"GRICE, Mike ",Winger,34,5,0,2,0,0,0,0,0
+,"HURST, Geoff ",Forward,3,0,0,0,0,0,0,0,0
+,"KEEBLE, Vic ",Centre Forward,15,6,0,0,0,0,0,0,0
+,"KIRKUP, Joe ",Full Back,16,0,0,0,0,0,0,0,0
+,"LANSDOWNE, Bill ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LYALL, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"MALCOLM, Andy ",Wing Half,40,0,0,2,0,0,0,0,0
+,"MOORE, Bobby ",Central Defender,13,0,0,0,0,0,0,0,0
+,"MUSGROVE, Malcolm ",Winger,41,15,0,2,1,0,0,0,0
+,"OBENEY, Harry ",Wing Half,9,5,0,2,0,0,0,0,0
+,"READER, Peter ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"RHODES, Brian ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"SCOTT, Tony ",Winger,4,1,0,0,0,0,0,0,0
+,"SMILLIE, Andy ",Midfielder,13,3,0,1,0,0,0,0,0
+,"SMITH, John ",Midfielder,28,1,0,2,0,0,0,0,0
+,"WOODLEY, Derek ",Winger,3,2,0,0,0,0,0,0,0
+,"WOOSNAM, Phil ",Inside Forward,38,11,0,2,0,0,0,0,0
+,"WRAGG, Doug ",Winger,1,0,0,0,0,0,0,0,0

@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1934/35
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAIRD, Walter 	Full Back	1	0	0	0	0	0	0	0	0
-										
-BROWN, Jack 	Goalkeeper	40	0	0	6	0	0	0	0	0
-										
-BURGESS, Harry 	Inside Forward	23	9	0	0	0	0	0	0	0
-										
-BURROWS, Horace 	Wing Half	42	3	1	6	0	0	0	0	0
-										
-CATLIN, Ted 	Full Back	29	0	0	6	0	0	0	0	0
-										
-COLQUHOUN, Duncan 	Winger	0	0	0	0	0	0	0	0	0
-										
-COOPER, Sedley 	Winger	7	1	0	0	0	0	0	0	0
-										
-DEWAR, Neil 	Centre Forward	18	6	0	0	0	0	0	0	0
-										
-DOBSON, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-HILL, Haydn 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HINDMARSH, John 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HINSLEY, George 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HOOPER, Mark 	Winger	29	7	0	6	2	0	0	0	0
-										
-KITCHEN, Norrie 	Winger	0	0	0	0	0	0	0	0	0
-										
-LAW, Alec 	Centre Forward	1	2	0	0	0	0	0	0	0
-										
-LEYLAND, Peter 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-MALLOCH, Gavin 	Wing Half	14	0	0	0	0	0	0	0	0
-										
-MILLERSHIP, Walter 	Central Defender	42	2	0	6	0	0	0	0	0
-										
-MULRENAN, Barney 	Winger	0	0	0	0	0	0	0	0	0
-										
-NEVIN, George 	Full Back	0	0	0	0	0	0	0	0	0
-										
-NIBLOE, Joe 	Full Back	34	0	0	5	0	0	0	0	0
-										
-NICHOLS, Harry 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-OXLEY, Bernard 	Winger	13	3	0	0	0	0	0	0	0
-										
-PALETHORPE, Jackie 	Centre Forward	20	8	1	6	4	0	0	0	0
-										
-PARKINSON, Ken 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-PERCIVAL, Peter 	Winger	0	0	0	0	0	0	0	0	0
-										
-PICKARD, Frank 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-RIMMER, Ellis 	Winger	38	18	0	6	8	0	0	0	0
-										
-ROBINSON, Jackie 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-SHARP, Wilf 	Wing Half	24	1	0	6	0	0	0	0	0
-										
-SMITH, Tom 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-STARLING, Ronnie 	Inside Forward	38	5	2	6	0	0	0	0	0
-										
-STRANGE, Alf 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-SURTEES, Jack 	Inside Forward	21	2	0	6	1	0	0	0	0
-										
-WALKER, Tommy 	Full Back	19	0	0	1	0	0	0	0	0
-										
-WARING, Jack 	Winger	0	0	0	0	0	0	0	0	0
-										
-WRIGHT, Jim 	Full Back	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAIRD, Walter ",Full Back,1,0,0,0,0,0,0,0,0
+,"BROWN, Jack ",Goalkeeper,40,0,0,6,0,0,0,0,0
+,"BURGESS, Harry ",Inside Forward,23,9,0,0,0,0,0,0,0
+,"BURROWS, Horace ",Wing Half,42,3,1,6,0,0,0,0,0
+,"CATLIN, Ted ",Full Back,29,0,0,6,0,0,0,0,0
+,"COLQUHOUN, Duncan ",Winger,0,0,0,0,0,0,0,0,0
+,"COOPER, Sedley ",Winger,7,1,0,0,0,0,0,0,0
+,"DEWAR, Neil ",Centre Forward,18,6,0,0,0,0,0,0,0
+,"DOBSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"HILL, Haydn ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HINDMARSH, John ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HINSLEY, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HOOPER, Mark ",Winger,29,7,0,6,2,0,0,0,0
+,"KITCHEN, Norrie ",Winger,0,0,0,0,0,0,0,0,0
+,"LAW, Alec ",Centre Forward,1,2,0,0,0,0,0,0,0
+,"LEYLAND, Peter ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MALLOCH, Gavin ",Wing Half,14,0,0,0,0,0,0,0,0
+,"MILLERSHIP, Walter ",Central Defender,42,2,0,6,0,0,0,0,0
+,"MULRENAN, Barney ",Winger,0,0,0,0,0,0,0,0,0
+,"NEVIN, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"NIBLOE, Joe ",Full Back,34,0,0,5,0,0,0,0,0
+,"NICHOLS, Harry ",Wing Half,3,0,0,0,0,0,0,0,0
+,"OXLEY, Bernard ",Winger,13,3,0,0,0,0,0,0,0
+,"PALETHORPE, Jackie ",Centre Forward,20,8,1,6,4,0,0,0,0
+,"PARKINSON, Ken ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"PERCIVAL, Peter ",Winger,0,0,0,0,0,0,0,0,0
+,"PICKARD, Frank ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"RIMMER, Ellis ",Winger,38,18,0,6,8,0,0,0,0
+,"ROBINSON, Jackie ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"SHARP, Wilf ",Wing Half,24,1,0,6,0,0,0,0,0
+,"SMITH, Tom ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"STARLING, Ronnie ",Inside Forward,38,5,2,6,0,0,0,0,0
+,"STRANGE, Alf ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SURTEES, Jack ",Inside Forward,21,2,0,6,1,0,0,0,0
+,"WALKER, Tommy ",Full Back,19,0,0,1,0,0,0,0,0
+,"WARING, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"WRIGHT, Jim ",Full Back,1,0,0,0,0,0,0,0,0

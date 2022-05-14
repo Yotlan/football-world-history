@@ -1,49 +1,24 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1977/78
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALBISTON, Arthur 	Full Back	27+1	0	0	4	0	0	6	0	0
-										
-BUCHAN, Martin 	Central Defender	28	1	0	4	0	0	6	0	0
-										
-COPPELL, Steve 	Winger	42	5	0	4	1	0	6	3	0
-										
-FORSYTH, Alex 	Full Back	3	0	0	0	0	0	0+1	0	0
-										
-GREENHOFF, Brian 	Central Defender	31	1	0	1	0	0	4	0	0
-										
-GREENHOFF, Jimmy 	Forward	22+1	6	0	2+1	0	0	2	0	0
-										
-GRIMES, Ashley 	Full Back	7+6	2	1	1	0	0	1+2	0	0
-										
-HILL, Gordon 	Winger	36	17	7	3	1	0	6	1	0
-										
-HOUSTON, Stewart 	Full Back	31	0	0	3	0	0	2+1	0	0
-										
-JONES, Steve 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-JORDAN, Joe 	Forward	14	3	0	2	0	0	0	0	0
-										
-MACARI, Lou 	Midfielder	32	8	0	4	3	0	4	0	0
-										
-MCCREERY, David 	Midfielder	13+4	1	0	0+1	0	0	4+1	1	0
-										
-MCGRATH, Chris 	Winger	9+9	1	0	0	0	0	3+2	0	0
-										
-MCILROY, Sammy 	Midfielder	39	9	0	4	0	0	5	0	0
-										
-MCQUEEN, Gordon 	Central Defender	14	1	0	0	0	0	0	0	0
-										
-NICHOLL, Jimmy 	Full Back	37	2	0	4	0	0	6	1	0
-										
-PEARSON, Stuart 	Forward	30	10	1	4	3	0	5	2	0
-										
-RITCHIE, Andy 	Forward	4	0	0	0	0	0	0	0	0
-										
-ROCHE, Paddy 	Goalkeeper	19	0	0	4	0	0	0	0	0
-										
-ROGERS, Martyn 	Full Back	1	0	0	0	0	0	0	0	0
-										
-STEPNEY, Alex 	Goalkeeper	23	0	0	0	0	0	6	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALBISTON, Arthur ",Full Back,27+1,0,0,4,0,0,6,0,0
+,"BUCHAN, Martin ",Central Defender,28,1,0,4,0,0,6,0,0
+,"COPPELL, Steve ",Winger,42,5,0,4,1,0,6,3,0
+,"FORSYTH, Alex ",Full Back,3,0,0,0,0,0,0+1,0,0
+,"GREENHOFF, Brian ",Central Defender,31,1,0,1,0,0,4,0,0
+,"GREENHOFF, Jimmy ",Forward,22+1,6,0,2+1,0,0,2,0,0
+,"GRIMES, Ashley ",Full Back,7+6,2,1,1,0,0,1+2,0,0
+,"HILL, Gordon ",Winger,36,17,7,3,1,0,6,1,0
+,"HOUSTON, Stewart ",Full Back,31,0,0,3,0,0,2+1,0,0
+,"JONES, Steve ",Midfielder,0,0,0,0,0,0,0,0,0
+,"JORDAN, Joe ",Forward,14,3,0,2,0,0,0,0,0
+,"MACARI, Lou ",Midfielder,32,8,0,4,3,0,4,0,0
+,"MCCREERY, David ",Midfielder,13+4,1,0,0+1,0,0,4+1,1,0
+,"MCGRATH, Chris ",Winger,9+9,1,0,0,0,0,3+2,0,0
+,"MCILROY, Sammy ",Midfielder,39,9,0,4,0,0,5,0,0
+,"MCQUEEN, Gordon ",Central Defender,14,1,0,0,0,0,0,0,0
+,"NICHOLL, Jimmy ",Full Back,37,2,0,4,0,0,6,1,0
+,"PEARSON, Stuart ",Forward,30,10,1,4,3,0,5,2,0
+,"RITCHIE, Andy ",Forward,4,0,0,0,0,0,0,0,0
+,"ROCHE, Paddy ",Goalkeeper,19,0,0,4,0,0,0,0,0
+,"ROGERS, Martyn ",Full Back,1,0,0,0,0,0,0,0,0
+,"STEPNEY, Alex ",Goalkeeper,23,0,0,0,0,0,6,0,0

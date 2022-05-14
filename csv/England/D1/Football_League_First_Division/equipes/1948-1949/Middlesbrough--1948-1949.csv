@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1948/49
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Harry 	Wing Half	30	0	0	1	0	0	0	0	0
-										
-BLENKINSOPP, Tommy 	Wing Half	40	0	0	1	0	0	0	0	0
-										
-DICKS, Ronnie 	Wing Half	19	2	0	0	0	0	0	0	0
-										
-DOBBIE, Harold 	Centre Forward	11	3	0	0	0	0	0	0	0
-										
-DONALDSON, Andy 	Centre Forward	14	6	0	0	0	0	0	0	0
-										
-FENTON, Micky 	Centre Forward	24	12	1	1	0	0	0	0	0
-										
-GORDON, Jimmy 	Wing Half	38	1	0	1	0	0	0	0	0
-										
-HARDWICK, George 	Full Back	39	2	2	1	0	0	0	0	0
-										
-HARTNETT, Jimmy 	Winger	12	4	0	0	0	0	0	0	0
-										
-HEPPLE, Gordon 	Full Back	3	0	0	0	0	0	0	0	0
-										
-HODGSON, John 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-JOHNSTON, Pat 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-MANNION, Wilf 	Inside Forward	17	4	0	0	0	0	0	0	0
-										
-MCCORMACK, Cec 	Centre Forward	8	0	0	0	0	0	0	0	0
-										
-MCCRAE, Alex 	Inside Forward	20	2	0	0	0	0	0	0	0
-										
-REAGAN, Martin 	Winger	11	1	0	1	0	0	0	0	0
-										
-RICKABY, Stan 	Full Back	1	0	0	0	0	0	0	0	0
-										
-ROBINSON, Dicky 	Full Back	41	0	0	1	0	0	0	0	0
-										
-SPUHLER, Johnny 	Winger	31	6	0	1	1	0	0	0	0
-										
-UGOLINI, Rolando 	Goalkeeper	39	0	0	1	0	0	0	0	0
-										
-WALKER, Geoff 	Winger	30	3	0	1	1	0	0	0	0
-										
-WARDLE, Ernie 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WHITAKER, Billy 	Central Defender	30	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Harry ",Wing Half,30,0,0,1,0,0,0,0,0
+,"BLENKINSOPP, Tommy ",Wing Half,40,0,0,1,0,0,0,0,0
+,"DICKS, Ronnie ",Wing Half,19,2,0,0,0,0,0,0,0
+,"DOBBIE, Harold ",Centre Forward,11,3,0,0,0,0,0,0,0
+,"DONALDSON, Andy ",Centre Forward,14,6,0,0,0,0,0,0,0
+,"FENTON, Micky ",Centre Forward,24,12,1,1,0,0,0,0,0
+,"GORDON, Jimmy ",Wing Half,38,1,0,1,0,0,0,0,0
+,"HARDWICK, George ",Full Back,39,2,2,1,0,0,0,0,0
+,"HARTNETT, Jimmy ",Winger,12,4,0,0,0,0,0,0,0
+,"HEPPLE, Gordon ",Full Back,3,0,0,0,0,0,0,0,0
+,"HODGSON, John ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"JOHNSTON, Pat ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MANNION, Wilf ",Inside Forward,17,4,0,0,0,0,0,0,0
+,"MCCORMACK, Cec ",Centre Forward,8,0,0,0,0,0,0,0,0
+,"MCCRAE, Alex ",Inside Forward,20,2,0,0,0,0,0,0,0
+,"REAGAN, Martin ",Winger,11,1,0,1,0,0,0,0,0
+,"RICKABY, Stan ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Dicky ",Full Back,41,0,0,1,0,0,0,0,0
+,"SPUHLER, Johnny ",Winger,31,6,0,1,1,0,0,0,0
+,"UGOLINI, Rolando ",Goalkeeper,39,0,0,1,0,0,0,0,0
+,"WALKER, Geoff ",Winger,30,3,0,1,1,0,0,0,0
+,"WARDLE, Ernie ",Full Back,0,0,0,0,0,0,0,0,0
+,"WHITAKER, Billy ",Central Defender,30,0,0,1,0,0,0,0,0

@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1959/60
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy 	Winger	16	0	0	0	0	0	0	0	0
-										
-ALLEN, Ronnie 	Centre Forward	36	15	3	3	0	0	0	0	0
-										
-BANNISTER, Jack 	Full Back	1	0	0	0	0	0	0	0	0
-										
-BARLOW, Ray 	Wing Half	7	0	0	0	0	0	0	0	0
-										
-BURNSIDE, David 	Midfielder	31	11	0	3	1	0	0	0	0
-										
-CARTER, Geoff 	Winger	1	0	0	0	0	0	0	0	0
-										
-CRAM, Bobby 	Full Back	1	0	0	0	0	0	0	0	0
-										
-DIXON, Bobby 	Winger	7	1	0	0	0	0	0	0	0
-										
-DRURY, Chuck 	Central Defender	20	0	0	3	0	0	0	0	0
-										
-DUDLEY, Jimmy 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-HOGG, Derek 	Winger	31	5	0	3	0	0	0	0	0
-										
-HOPE, Bobby 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-HOWE, Don 	Full Back	41	0	0	3	0	0	0	0	0
-										
-JACKSON, Alec 	Winger	31	11	0	3	1	0	0	0	0
-										
-KENNEDY, Joe 	Central Defender	41	0	0	3	1	0	0	0	0
-										
-KEVAN, Derek 	Forward	42	26	0	3	3	0	0	0	0
-										
-POTTER, Ray 	Goalkeeper	12	0	0	0	0	0	0	0	0
-										
-ROBSON, Bobby 	Inside Forward	41	6	0	3	0	0	0	0	0
-										
-SETTERS, Maurice 	Central Defender	20	2	0	0	0	0	0	0	0
-										
-SMITH, Keith 	Forward	2	0	0	0	0	0	0	0	0
-										
-STYLES, Arthur 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-WALLACE, Jock 	Goalkeeper	30	0	0	3	0	0	0	0	0
-										
-WHITEHOUSE, Brian 	Inside Forward	4	3	0	0	0	0	0	0	0
-										
-WILLIAMS, Graham 	Full Back	20	0	0	3	0	0	0	0	0
-										
-WILLIAMS, Stuart 	Full Back	23	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Winger,16,0,0,0,0,0,0,0,0
+,"ALLEN, Ronnie ",Centre Forward,36,15,3,3,0,0,0,0,0
+,"BANNISTER, Jack ",Full Back,1,0,0,0,0,0,0,0,0
+,"BARLOW, Ray ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BURNSIDE, David ",Midfielder,31,11,0,3,1,0,0,0,0
+,"CARTER, Geoff ",Winger,1,0,0,0,0,0,0,0,0
+,"CRAM, Bobby ",Full Back,1,0,0,0,0,0,0,0,0
+,"DIXON, Bobby ",Winger,7,1,0,0,0,0,0,0,0
+,"DRURY, Chuck ",Central Defender,20,0,0,3,0,0,0,0,0
+,"DUDLEY, Jimmy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HOGG, Derek ",Winger,31,5,0,3,0,0,0,0,0
+,"HOPE, Bobby ",Midfielder,1,0,0,0,0,0,0,0,0
+,"HOWE, Don ",Full Back,41,0,0,3,0,0,0,0,0
+,"JACKSON, Alec ",Winger,31,11,0,3,1,0,0,0,0
+,"KENNEDY, Joe ",Central Defender,41,0,0,3,1,0,0,0,0
+,"KEVAN, Derek ",Forward,42,26,0,3,3,0,0,0,0
+,"POTTER, Ray ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"ROBSON, Bobby ",Inside Forward,41,6,0,3,0,0,0,0,0
+,"SETTERS, Maurice ",Central Defender,20,2,0,0,0,0,0,0,0
+,"SMITH, Keith ",Forward,2,0,0,0,0,0,0,0,0
+,"STYLES, Arthur ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WALLACE, Jock ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"WHITEHOUSE, Brian ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"WILLIAMS, Graham ",Full Back,20,0,0,3,0,0,0,0,0
+,"WILLIAMS, Stuart ",Full Back,23,0,0,0,0,0,0,0,0

@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1976/77
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BECK, John 	Midfielder	40	3	0	2	0	0	3	0	0
-										
-BLYTH, Jim 	Goalkeeper	31	0	0	2	0	0	3	0	0
-										
-CARTWRIGHT, Les 	Midfielder	11+8	1	0	0+1	0	0	3	1	0
-										
-COOP, Mick 	Full Back	39	2	2	2	0	0	3	1	1
-										
-CRAVEN, John 	Midfielder	4+1	0	0	1	0	0	2	0	0
-										
-CROSS, David 	Forward	2	0	0	0	0	0	0+1	0	0
-										
-CUMBES, Jim 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-DUGDALE, Alan 	Central Defender	25	0	0	2	0	0	3	0	0
-										
-FERGUSON, Mick 	Forward	32	13	0	0	0	0	3	2	0
-										
-GOODING, Ray 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-GREEN, Alan 	Forward	14+3	4	0	2	0	0	1+1	0	0
-										
-HOLMES, Jimmy 	Full Back	25+1	0	0	1	0	0	3	0	0
-										
-HOLTON, Jim 	Central Defender	8	0	0	0	0	0	0	0	0
-										
-HUNT, Paul 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-HUTCHISON, Tommy 	Winger	31+2	3	0	2	1	0	0	0	0
-										
-LLOYD, Larry 	Central Defender	5	0	0	0	0	0	0	0	0
-										
-MCDONALD, Bobby 	Full Back	39	1	0	2	1	0	3	0	0
-										
-MCGRELLIS, Frank 	Forward	0	0	0	0	0	0	0	0	0
-										
-MURPHY, Donal 	Winger	13+5	6	0	2	0	0	2	0	0
-										
-OAKEY, Graham 	Full Back	13	0	0	0	0	0	0	0	0
-										
-POWELL, Barry 	Midfielder	40	4	0	2	0	0	1	0	0
-										
-REEVES, Peter 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-ROBERTS, Brian 	Full Back	12	0	0	1	0	0	0	0	0
-										
-SEALEY, Les 	Goalkeeper	11	0	0	0	0	0	0	0	0
-										
-THOMAS, Valmore 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WALLACE, Ian 	Forward	24+2	9	0	0	0	0	0	0	0
-										
-YORATH, Terry 	Midfielder	38	1	0	1	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BECK, John ",Midfielder,40,3,0,2,0,0,3,0,0
+,"BLYTH, Jim ",Goalkeeper,31,0,0,2,0,0,3,0,0
+,"CARTWRIGHT, Les ",Midfielder,11+8,1,0,0+1,0,0,3,1,0
+,"COOP, Mick ",Full Back,39,2,2,2,0,0,3,1,1
+,"CRAVEN, John ",Midfielder,4+1,0,0,1,0,0,2,0,0
+,"CROSS, David ",Forward,2,0,0,0,0,0,0+1,0,0
+,"CUMBES, Jim ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DUGDALE, Alan ",Central Defender,25,0,0,2,0,0,3,0,0
+,"FERGUSON, Mick ",Forward,32,13,0,0,0,0,3,2,0
+,"GOODING, Ray ",Midfielder,5,0,0,0,0,0,0,0,0
+,"GREEN, Alan ",Forward,14+3,4,0,2,0,0,1+1,0,0
+,"HOLMES, Jimmy ",Full Back,25+1,0,0,1,0,0,3,0,0
+,"HOLTON, Jim ",Central Defender,8,0,0,0,0,0,0,0,0
+,"HUNT, Paul ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HUTCHISON, Tommy ",Winger,31+2,3,0,2,1,0,0,0,0
+,"LLOYD, Larry ",Central Defender,5,0,0,0,0,0,0,0,0
+,"MCDONALD, Bobby ",Full Back,39,1,0,2,1,0,3,0,0
+,"MCGRELLIS, Frank ",Forward,0,0,0,0,0,0,0,0,0
+,"MURPHY, Donal ",Winger,13+5,6,0,2,0,0,2,0,0
+,"OAKEY, Graham ",Full Back,13,0,0,0,0,0,0,0,0
+,"POWELL, Barry ",Midfielder,40,4,0,2,0,0,1,0,0
+,"REEVES, Peter ",Midfielder,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Brian ",Full Back,12,0,0,1,0,0,0,0,0
+,"SEALEY, Les ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"THOMAS, Valmore ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALLACE, Ian ",Forward,24+2,9,0,0,0,0,0,0,0
+,"YORATH, Terry ",Midfielder,38,1,0,1,0,0,3,0,0

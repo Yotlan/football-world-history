@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1958/59
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHALL, Jimmy 	Full Back	32	0	0	1	0	0	0	0	0
-										
-BAIRD, Hugh 	Centre Forward	6	2	1	0	0	0	0	0	0
-										
-BURGIN, Ted 	Goalkeeper	16	0	0	0	0	0	0	0	0
-										
-CHARLTON, Jack 	Central Defender	39	1	0	1	0	0	0	0	0
-										
-CROWE, Chris 	Midfielder	35	12	5	1	0	0	0	0	0
-										
-CUSH, Wilbur 	Wing Half	36	3	0	1	0	0	0	0	0
-										
-DUNN, Jimmy 	Full Back	10	0	0	0	0	0	0	0	0
-										
-FORREST, Bobby 	Inside Forward	15	2	0	0	0	0	0	0	0
-										
-FULLERTON, George 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-GIBSON, Archie 	Wing Half	31	1	0	1	0	0	0	0	0
-										
-HAIR, Grenville 	Full Back	37	0	0	1	0	0	0	0	0
-										
-HENDERSON, Tommy 	Winger	0	0	0	0	0	0	0	0	0
-										
-HUMPHRIES, Willie 	Winger	23	2	0	1	0	0	0	0	0
-										
-KEMP, John 	Winger	1	0	0	0	0	0	0	0	0
-										
-KERFOOT, Eric 	Wing Half	16	0	0	0	0	0	0	0	0
-										
-KILFORD, John 	Full Back	1	0	0	0	0	0	0	0	0
-										
-MARSDEN, Jack 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-MCCONNELL, Peter 	Midfielder	6	0	0	0	0	0	0	0	0
-										
-MEEK, George 	Winger	18	1	0	0	0	0	0	0	0
-										
-MITCHELL, Ron 	Full Back	4	0	0	0	0	0	0	0	0
-										
-O'BRIEN, George 	Forward	17	3	0	0	0	0	0	0	0
-										
-OVERFIELD, Jack 	Winger	35	8	0	1	0	0	0	0	0
-										
-PEYTON, Noel 	Inside Forward	8	1	0	0	0	0	0	0	0
-										
-REVIE, Don 	Inside Forward	20	2	0	1	0	0	0	0	0
-										
-SHACKLETON, Alan 	Centre Forward	28	16	0	1	1	0	0	0	0
-										
-WOOD, Roy 	Goalkeeper	26	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHALL, Jimmy ",Full Back,32,0,0,1,0,0,0,0,0
+,"BAIRD, Hugh ",Centre Forward,6,2,1,0,0,0,0,0,0
+,"BURGIN, Ted ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"CHARLTON, Jack ",Central Defender,39,1,0,1,0,0,0,0,0
+,"CROWE, Chris ",Midfielder,35,12,5,1,0,0,0,0,0
+,"CUSH, Wilbur ",Wing Half,36,3,0,1,0,0,0,0,0
+,"DUNN, Jimmy ",Full Back,10,0,0,0,0,0,0,0,0
+,"FORREST, Bobby ",Inside Forward,15,2,0,0,0,0,0,0,0
+,"FULLERTON, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"GIBSON, Archie ",Wing Half,31,1,0,1,0,0,0,0,0
+,"HAIR, Grenville ",Full Back,37,0,0,1,0,0,0,0,0
+,"HENDERSON, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"HUMPHRIES, Willie ",Winger,23,2,0,1,0,0,0,0,0
+,"KEMP, John ",Winger,1,0,0,0,0,0,0,0,0
+,"KERFOOT, Eric ",Wing Half,16,0,0,0,0,0,0,0,0
+,"KILFORD, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"MARSDEN, Jack ",Central Defender,2,0,0,0,0,0,0,0,0
+,"MCCONNELL, Peter ",Midfielder,6,0,0,0,0,0,0,0,0
+,"MEEK, George ",Winger,18,1,0,0,0,0,0,0,0
+,"MITCHELL, Ron ",Full Back,4,0,0,0,0,0,0,0,0
+,"O'BRIEN, George ",Forward,17,3,0,0,0,0,0,0,0
+,"OVERFIELD, Jack ",Winger,35,8,0,1,0,0,0,0,0
+,"PEYTON, Noel ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"REVIE, Don ",Inside Forward,20,2,0,1,0,0,0,0,0
+,"SHACKLETON, Alan ",Centre Forward,28,16,0,1,1,0,0,0,0
+,"WOOD, Roy ",Goalkeeper,26,0,0,1,0,0,0,0,0

@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1956/57
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENT, Geoff 	Full Back	6	0	0	0	0	0	0	0	0
-										
-BERRY, Johnny 	Winger	40	8	2	5	4	1	9	2	0
-										
-BLANCHFLOWER, Jackie 	Inside Forward	11	0	0	2	0	0	3	0	0
-										
-BYRNE, Roger 	Full Back	36	0	0	6	1	1	9	0	0
-										
-CHARLTON, Bobby 	Midfielder	14	10	0	2	1	0	1	1	0
-										
-CLAYTON, Gordon 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-COLMAN, Eddie 	Wing Half	36	1	0	6	0	0	9	0	0
-										
-COPE, Ronnie 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-DAWSON, Alex 	Forward	3	3	0	0	0	0	0	0	0
-										
-DODD, Billy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-DOHERTY, John 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-EDWARDS, Duncan 	Wing Half	34	5	0	6	1	0	8	0	0
-										
-FIDLER, Dennis 	Winger	0	0	0	0	0	0	0	0	0
-										
-FOULKES, Bill 	Central Defender	39	0	0	6	0	0	9	0	0
-										
-GASKELL, David 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-GOODWIN, Freddie 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-GREAVES, Ian 	Full Back	3	0	0	0	0	0	0	0	0
-										
-HAWKSWORTH, Tony 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-JONES, Mark 	Central Defender	29	0	0	4	0	0	7	0	0
-										
-MCGUINNESS, Wilf 	Wing Half	13	0	0	1	0	0	1	0	0
-										
-PEGG, David 	Winger	37	6	0	6	0	0	9	1	0
-										
-SCANLON, Albert 	Winger	5	2	1	0	0	0	0	0	0
-										
-SHIELS, Jimmy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-TAYLOR, Tommy 	Centre Forward	32	22	0	4	4	0	9	8	0
-										
-VIOLLET, Dennis 	Inside Forward	27	16	0	5	0	0	7	10	0
-										
-WEBSTER, Colin 	Inside Forward	5	3	0	1	0	0	0	0	0
-										
-WHELAN, Liam 	Inside Forward	39	26	0	6	4	0	9	3	0
-										
-WOOD, Ray 	Goalkeeper	39	0	0	6	0	0	9	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENT, Geoff ",Full Back,6,0,0,0,0,0,0,0,0
+,"BERRY, Johnny ",Winger,40,8,2,5,4,1,9,2,0
+,"BLANCHFLOWER, Jackie ",Inside Forward,11,0,0,2,0,0,3,0,0
+,"BYRNE, Roger ",Full Back,36,0,0,6,1,1,9,0,0
+,"CHARLTON, Bobby ",Midfielder,14,10,0,2,1,0,1,1,0
+,"CLAYTON, Gordon ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"COLMAN, Eddie ",Wing Half,36,1,0,6,0,0,9,0,0
+,"COPE, Ronnie ",Central Defender,2,0,0,0,0,0,0,0,0
+,"DAWSON, Alex ",Forward,3,3,0,0,0,0,0,0,0
+,"DODD, Billy ",Full Back,0,0,0,0,0,0,0,0,0
+,"DOHERTY, John ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"EDWARDS, Duncan ",Wing Half,34,5,0,6,1,0,8,0,0
+,"FIDLER, Dennis ",Winger,0,0,0,0,0,0,0,0,0
+,"FOULKES, Bill ",Central Defender,39,0,0,6,0,0,9,0,0
+,"GASKELL, David ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"GOODWIN, Freddie ",Wing Half,6,0,0,0,0,0,0,0,0
+,"GREAVES, Ian ",Full Back,3,0,0,0,0,0,0,0,0
+,"HAWKSWORTH, Tony ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"JONES, Mark ",Central Defender,29,0,0,4,0,0,7,0,0
+,"MCGUINNESS, Wilf ",Wing Half,13,0,0,1,0,0,1,0,0
+,"PEGG, David ",Winger,37,6,0,6,0,0,9,1,0
+,"SCANLON, Albert ",Winger,5,2,1,0,0,0,0,0,0
+,"SHIELS, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Tommy ",Centre Forward,32,22,0,4,4,0,9,8,0
+,"VIOLLET, Dennis ",Inside Forward,27,16,0,5,0,0,7,10,0
+,"WEBSTER, Colin ",Inside Forward,5,3,0,1,0,0,0,0,0
+,"WHELAN, Liam ",Inside Forward,39,26,0,6,4,0,9,3,0
+,"WOOD, Ray ",Goalkeeper,39,0,0,6,0,0,9,0,0

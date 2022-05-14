@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1972/73
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARROWCLOUGH, Stewart 	Winger	39	6	1	2	0	0	14	2	0
-										
-BURLEIGH, Martin 	Goalkeeper	7	0	0	0	0	0	4	0	0
-										
-CANNELL, Paul 	Forward	0	0	0	0	0	0	1	0	0
-										
-CASSIDY, Tommy 	Midfielder	1+2	0	0	0	0	0	1+1	0	0
-										
-CLARK, Frank 	Full Back	41	0	0	2	0	0	15	0	0
-										
-COWAN, John 	Midfielder	3+2	0	0	0	0	0	0+1	0	0
-										
-CRAIG, David 	Full Back	42	3	0	2	0	0	13	2	0
-										
-GIBB, Tommy 	Midfielder	13	1	0	0	0	0	8+2	3	0
-										
-GREEN, Tony 	Midfielder	6	1	0	0	0	0	0+1	0	0
-										
-GUTHRIE, Ron 	Full Back	3	1	0	0	0	0	1	0	0
-										
-HIBBITT, Terry 	Winger	41	3	0	1	0	0	15	3	0
-										
-HODGSON, Gordon 	Midfielder	5+1	0	0	1	0	0	1	0	0
-										
-HOWARD, Pat 	Central Defender	41	1	0	2	0	0	14	0	0
-										
-KENNEDY, Alan 	Full Back	2	0	0	0	0	0	2	0	0
-										
-MACDONALD, Malcolm 	Forward	35	17	1	2	1	0	10	6	0
-										
-MCDERMOTT, Terry 	Midfielder	7+1	1	0	0	0	0	6	0	0
-										
-MCFAUL, Iam 	Goalkeeper	35	0	0	2	0	0	11	0	0
-										
-MONCUR, Bobby 	Central Defender	32	0	0	2	0	0	12	1	0
-										
-NATTRASS, Irving 	Full Back	21+4	3	0	2	0	0	5	0	0
-										
-REID, Alex 	Midfielder	3+2	0	0	0+1	0	0	1	0	0
-										
-ROBSON, Keith 	Forward	2	0	0	0	0	0	0	0	0
-										
-SMITH, Jim 	Midfielder	32	5	0	2	0	0	12	2	0
-										
-STEELE, Eric 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-THOMSON, John 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-TUDOR, John 	Forward	42	18	0	2	0	0	15	6	0
-										
-YOUNG, David 	Central Defender	9	0	0	0	0	0	4+1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARROWCLOUGH, Stewart ",Winger,39,6,1,2,0,0,14,2,0
+,"BURLEIGH, Martin ",Goalkeeper,7,0,0,0,0,0,4,0,0
+,"CANNELL, Paul ",Forward,0,0,0,0,0,0,1,0,0
+,"CASSIDY, Tommy ",Midfielder,1+2,0,0,0,0,0,1+1,0,0
+,"CLARK, Frank ",Full Back,41,0,0,2,0,0,15,0,0
+,"COWAN, John ",Midfielder,3+2,0,0,0,0,0,0+1,0,0
+,"CRAIG, David ",Full Back,42,3,0,2,0,0,13,2,0
+,"GIBB, Tommy ",Midfielder,13,1,0,0,0,0,8+2,3,0
+,"GREEN, Tony ",Midfielder,6,1,0,0,0,0,0+1,0,0
+,"GUTHRIE, Ron ",Full Back,3,1,0,0,0,0,1,0,0
+,"HIBBITT, Terry ",Winger,41,3,0,1,0,0,15,3,0
+,"HODGSON, Gordon ",Midfielder,5+1,0,0,1,0,0,1,0,0
+,"HOWARD, Pat ",Central Defender,41,1,0,2,0,0,14,0,0
+,"KENNEDY, Alan ",Full Back,2,0,0,0,0,0,2,0,0
+,"MACDONALD, Malcolm ",Forward,35,17,1,2,1,0,10,6,0
+,"MCDERMOTT, Terry ",Midfielder,7+1,1,0,0,0,0,6,0,0
+,"MCFAUL, Iam ",Goalkeeper,35,0,0,2,0,0,11,0,0
+,"MONCUR, Bobby ",Central Defender,32,0,0,2,0,0,12,1,0
+,"NATTRASS, Irving ",Full Back,21+4,3,0,2,0,0,5,0,0
+,"REID, Alex ",Midfielder,3+2,0,0,0+1,0,0,1,0,0
+,"ROBSON, Keith ",Forward,2,0,0,0,0,0,0,0,0
+,"SMITH, Jim ",Midfielder,32,5,0,2,0,0,12,2,0
+,"STEELE, Eric ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"THOMSON, John ",Central Defender,0,0,0,0,0,0,0,0,0
+,"TUDOR, John ",Forward,42,18,0,2,0,0,15,6,0
+,"YOUNG, David ",Central Defender,9,0,0,0,0,0,4+1,0,0

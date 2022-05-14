@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Ken 	Wing Half	41	0	0	7	0	0	0	0	0
-										
-BATHGATE, Syd 	Full Back	10	0	0	0	0	0	0	0	0
-										
-BENTLEY, Roy 	Centre Forward	39	18	0	6	5	0	0	0	0
-										
-BILLINGTON, Hugh 	Centre Forward	35	18	0	6	3	0	0	0	0
-										
-BOWIE, Jimmy 	Inside Forward	16	4	0	4	2	0	0	0	0
-										
-CAMPBELL, Bobby 	Winger	35	3	0	6	2	0	0	0	0
-										
-DICKSON, Bill 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-EDWARDS, Stan 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-GOULDEN, Len 	Inside Forward	14	1	0	2	0	0	0	0	0
-										
-GRAY, Billy 	Winger	39	1	0	7	0	0	0	0	0
-										
-HARPER, Ivor 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HARRIS, John 	Central Defender	39	3	3	6	0	0	0	0	0
-										
-HUGHES, John 	Winger	0	0	0	0	0	0	0	0	0
-										
-HUGHES, Billy 	Full Back	24	0	0	7	0	0	0	0	0
-										
-JENKINS, Fred 	Inside Forward	5	0	0	0	0	0	0	0	0
-										
-JONES, Benny 	Winger	6	2	0	0	0	0	0	0	0
-										
-MACAULEY, Jimmy 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-MCINNES, John 	Winger	1	0	0	0	0	0	0	0	0
-										
-MCKNIGHT, Phil 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-MEDHURST, Harry 	Goalkeeper	41	0	0	7	0	0	0	0	0
-										
-MITCHELL, Frank 	Wing Half	33	0	0	7	0	0	0	0	0
-										
-PICKERING, Peter 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SAUNDERS, Jack 	Central Defender	3	0	0	1	0	0	0	0	0
-										
-WILLEMSE, Stan 	Full Back	18	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Reg 	Inside Forward	21	6	0	4	0	0	0	0	0
-										
-WINTER, Danny 	Full Back	32	0	0	7	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Ken ",Wing Half,41,0,0,7,0,0,0,0,0
+,"BATHGATE, Syd ",Full Back,10,0,0,0,0,0,0,0,0
+,"BENTLEY, Roy ",Centre Forward,39,18,0,6,5,0,0,0,0
+,"BILLINGTON, Hugh ",Centre Forward,35,18,0,6,3,0,0,0,0
+,"BOWIE, Jimmy ",Inside Forward,16,4,0,4,2,0,0,0,0
+,"CAMPBELL, Bobby ",Winger,35,3,0,6,2,0,0,0,0
+,"DICKSON, Bill ",Wing Half,3,0,0,0,0,0,0,0,0
+,"EDWARDS, Stan ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GOULDEN, Len ",Inside Forward,14,1,0,2,0,0,0,0,0
+,"GRAY, Billy ",Winger,39,1,0,7,0,0,0,0,0
+,"HARPER, Ivor ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARRIS, John ",Central Defender,39,3,3,6,0,0,0,0,0
+,"HUGHES, John ",Winger,0,0,0,0,0,0,0,0,0
+,"HUGHES, Billy ",Full Back,24,0,0,7,0,0,0,0,0
+,"JENKINS, Fred ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"JONES, Benny ",Winger,6,2,0,0,0,0,0,0,0
+,"MACAULEY, Jimmy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MCINNES, John ",Winger,1,0,0,0,0,0,0,0,0
+,"MCKNIGHT, Phil ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MEDHURST, Harry ",Goalkeeper,41,0,0,7,0,0,0,0,0
+,"MITCHELL, Frank ",Wing Half,33,0,0,7,0,0,0,0,0
+,"PICKERING, Peter ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SAUNDERS, Jack ",Central Defender,3,0,0,1,0,0,0,0,0
+,"WILLEMSE, Stan ",Full Back,18,0,0,0,0,0,0,0,0
+,"WILLIAMS, Reg ",Inside Forward,21,6,0,4,0,0,0,0,0
+,"WINTER, Danny ",Full Back,32,0,0,7,0,0,0,0,0

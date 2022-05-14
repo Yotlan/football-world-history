@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1962/63
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROWN, Mick 	Winger	2	0	0	0	0	0	0	0	0
-										
-BROWN, Stan 	Midfielder	34	7	0	2	0	0	3	1	0
-										
-CHAMBERLAIN, Trevor 'Tosh' 	Winger	3	0	0	0	0	0	1	0	0
-										
-COHEN, George 	Full Back	38	0	0	2	0	0	1	0	0
-										
-COOK, Maurice 	Centre Forward	35	15	0	2	0	0	2	0	0
-										
-DODGIN, Bill 	Central Defender	16	0	0	0	0	0	2	0	0
-										
-HAYNES, Johnny 	Midfielder	8	0	0	1	0	0	0	0	0
-										
-HENDERSON, Jackie 	Centre Forward	23	2	0	1	0	0	2	1	0
-										
-KEETCH, Bobby 	Central Defender	12	0	0	0	0	0	2	0	0
-										
-KEY, Johnny 	Winger	22	4	0	1	0	0	2	3	0
-										
-LAMPE, Derek 	Central Defender	3	0	0	0	0	0	1	0	0
-										
-LANGLEY, Jimmy 	Full Back	42	4	2	2	0	0	3	0	0
-										
-LEGGAT, Graham 	Winger	33	10	0	1	0	0	1	0	0
-										
-LOWE, Eddie 	Wing Half	28	0	0	2	0	0	2	0	0
-										
-MACEDO, Tony 	Goalkeeper	42	0	0	2	0	0	3	0	0
-										
-MARSH, Rodney 	Forward	1	1	0	0	0	0	0	0	0
-										
-MEALAND, Barry 	Full Back	3	0	0	0	0	0	0	0	0
-										
-METCHICK, Dave 	Midfielder	9	0	0	1	0	0	2	1	0
-										
-MULLERY, Alan 	Midfielder	38	1	0	2	0	0	2	0	0
-										
-O'CONNELL, Pat 	Winger	31	2	0	0	0	0	2	0	0
-										
-ROBSON, Bobby 	Inside Forward	34	1	0	2	1	0	2	0	0
-										
-STRATTON, Reg 	Forward	3	0	0	1	0	0	0	0	0
-										
-WATSON, Trevor 	Winger	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROWN, Mick ",Winger,2,0,0,0,0,0,0,0,0
+,"BROWN, Stan ",Midfielder,34,7,0,2,0,0,3,1,0
+,"CHAMBERLAIN, Trevor 'Tosh' ",Winger,3,0,0,0,0,0,1,0,0
+,"COHEN, George ",Full Back,38,0,0,2,0,0,1,0,0
+,"COOK, Maurice ",Centre Forward,35,15,0,2,0,0,2,0,0
+,"DODGIN, Bill ",Central Defender,16,0,0,0,0,0,2,0,0
+,"HAYNES, Johnny ",Midfielder,8,0,0,1,0,0,0,0,0
+,"HENDERSON, Jackie ",Centre Forward,23,2,0,1,0,0,2,1,0
+,"KEETCH, Bobby ",Central Defender,12,0,0,0,0,0,2,0,0
+,"KEY, Johnny ",Winger,22,4,0,1,0,0,2,3,0
+,"LAMPE, Derek ",Central Defender,3,0,0,0,0,0,1,0,0
+,"LANGLEY, Jimmy ",Full Back,42,4,2,2,0,0,3,0,0
+,"LEGGAT, Graham ",Winger,33,10,0,1,0,0,1,0,0
+,"LOWE, Eddie ",Wing Half,28,0,0,2,0,0,2,0,0
+,"MACEDO, Tony ",Goalkeeper,42,0,0,2,0,0,3,0,0
+,"MARSH, Rodney ",Forward,1,1,0,0,0,0,0,0,0
+,"MEALAND, Barry ",Full Back,3,0,0,0,0,0,0,0,0
+,"METCHICK, Dave ",Midfielder,9,0,0,1,0,0,2,1,0
+,"MULLERY, Alan ",Midfielder,38,1,0,2,0,0,2,0,0
+,"O'CONNELL, Pat ",Winger,31,2,0,0,0,0,2,0,0
+,"ROBSON, Bobby ",Inside Forward,34,1,0,2,1,0,2,0,0
+,"STRATTON, Reg ",Forward,3,0,0,1,0,0,0,0,0
+,"WATSON, Trevor ",Winger,2,0,0,0,0,0,0,0,0

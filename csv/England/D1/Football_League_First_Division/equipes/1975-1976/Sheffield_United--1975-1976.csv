@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1975/76
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BADGER, Len 	Full Back	17+1	0	0	0	0	0	4	1	0
-										
-BRADFORD, David 	Midfielder	31	1	0	1	0	0	4	0	0
-										
-BROWN, Jim 	Goalkeeper	37	0	0	1	0	0	5	0	0
-										
-CALVERT, Cliff 	Full Back	14	0	0	0	0	0	0	0	0
-										
-CAMMACK, Steve 	Forward	6+6	0	0	0	0	0	3	0	0
-										
-COLQUHOUN, Eddie 	Central Defender	36+1	1	0	1	0	0	3	0	0
-										
-CURRIE, Tony 	Midfielder	33	1	0	1	0	0	4	0	0
-										
-DEARDEN, Billy 	Forward	7+1	1	0	0	0	0	0	0	0
-										
-EDDY, Keith 	Central Defender	23	3	3	1	0	0	5	1	1
-										
-EDWARDS, Keith 	Forward	2+1	0	0	1	0	0	0	0	0
-										
-FAULKNER, Steve 	Central Defender	4+1	0	0	0	0	0	0	0	0
-										
-FIELD, Tony 	Forward	11+3	1	0	0	0	0	1+2	0	0
-										
-FLYNN, John 	Central Defender	18+2	1	0	0	0	0	4	0	0
-										
-FRANKS, Colin 	Central Defender	32+1	0	0	1	0	0	2	0	0
-										
-GARBETT, Terry 	Midfielder	9+1	0	0	0	0	0	2+2	0	0
-										
-GARNER, Paul 	Full Back	25	1	0	1	0	0	0	0	0
-										
-GOULDING, Steve 	Full Back	6	0	0	0	0	0	0	0	0
-										
-GUTHRIE, Chris 	Forward	37+2	9	0	0	0	0	5	3	0
-										
-HEMSLEY, Ted 	Full Back	9	0	0	0	0	0	3	0	0
-										
-IRVING, David 	Forward	0+2	0	0	0	0	0	0	0	0
-										
-JOHNSTONE, Jimmy 	Winger	6	1	0	1	0	0	0	0	0
-										
-KENWORTHY, Tony 	Central Defender	6	0	0	0	0	0	0	0	0
-										
-LUDLAM, Steve 	Midfielder	12	0	0	1	0	0	0	0	0
-										
-MCALISTER, Tom 	Goalkeeper	5	0	0	0	0	0	0	0	0
-										
-MCGEADY, John 	Winger	11	0	0	0	0	0	0	0	0
-										
-SPEIGHT, Mick 	Midfielder	17+2	0	0	0+1	0	0	5	1	0
-										
-STAINROD, Simon 	Forward	7	2	0	0	0	0	0	0	0
-										
-WOODWARD, Alan 	Winger	41	10	1	1	0	0	5	2	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BADGER, Len ",Full Back,17+1,0,0,0,0,0,4,1,0
+,"BRADFORD, David ",Midfielder,31,1,0,1,0,0,4,0,0
+,"BROWN, Jim ",Goalkeeper,37,0,0,1,0,0,5,0,0
+,"CALVERT, Cliff ",Full Back,14,0,0,0,0,0,0,0,0
+,"CAMMACK, Steve ",Forward,6+6,0,0,0,0,0,3,0,0
+,"COLQUHOUN, Eddie ",Central Defender,36+1,1,0,1,0,0,3,0,0
+,"CURRIE, Tony ",Midfielder,33,1,0,1,0,0,4,0,0
+,"DEARDEN, Billy ",Forward,7+1,1,0,0,0,0,0,0,0
+,"EDDY, Keith ",Central Defender,23,3,3,1,0,0,5,1,1
+,"EDWARDS, Keith ",Forward,2+1,0,0,1,0,0,0,0,0
+,"FAULKNER, Steve ",Central Defender,4+1,0,0,0,0,0,0,0,0
+,"FIELD, Tony ",Forward,11+3,1,0,0,0,0,1+2,0,0
+,"FLYNN, John ",Central Defender,18+2,1,0,0,0,0,4,0,0
+,"FRANKS, Colin ",Central Defender,32+1,0,0,1,0,0,2,0,0
+,"GARBETT, Terry ",Midfielder,9+1,0,0,0,0,0,2+2,0,0
+,"GARNER, Paul ",Full Back,25,1,0,1,0,0,0,0,0
+,"GOULDING, Steve ",Full Back,6,0,0,0,0,0,0,0,0
+,"GUTHRIE, Chris ",Forward,37+2,9,0,0,0,0,5,3,0
+,"HEMSLEY, Ted ",Full Back,9,0,0,0,0,0,3,0,0
+,"IRVING, David ",Forward,0+2,0,0,0,0,0,0,0,0
+,"JOHNSTONE, Jimmy ",Winger,6,1,0,1,0,0,0,0,0
+,"KENWORTHY, Tony ",Central Defender,6,0,0,0,0,0,0,0,0
+,"LUDLAM, Steve ",Midfielder,12,0,0,1,0,0,0,0,0
+,"MCALISTER, Tom ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"MCGEADY, John ",Winger,11,0,0,0,0,0,0,0,0
+,"SPEIGHT, Mick ",Midfielder,17+2,0,0,0+1,0,0,5,1,0
+,"STAINROD, Simon ",Forward,7,2,0,0,0,0,0,0,0
+,"WOODWARD, Alan ",Winger,41,10,1,1,0,0,5,2,0

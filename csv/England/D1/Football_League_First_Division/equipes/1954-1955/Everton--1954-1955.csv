@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1954/55
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BUCKLE, Ted 	Winger	1	0	0	0	0	0	0	0	0
-										
-DAVOCK, Mike 	Winger	0	0	0	0	0	0	0	0	0
-										
-DONOVAN, Don 	Full Back	35	0	0	0	0	0	0	0	0
-										
-EGLINGTON, Tommy 	Winger	41	9	0	2	0	0	0	0	0
-										
-FARRALL, Alec 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-FARRELL, Peter 	Wing Half	41	0	0	2	0	0	0	0	0
-										
-FIELDING, Wally 	Inside Forward	33	4	0	2	1	0	0	0	0
-										
-GRANT, Jackie 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-HICKSON, Dave 	Centre Forward	39	12	0	2	1	0	0	0	0
-										
-JONES, Tommy 	Central Defender	41	4	4	2	0	0	0	0	0
-										
-KIDD, John 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-LELLO, Cyril 	Wing Half	42	2	0	2	0	0	0	0	0
-										
-LEWIS, Gwyn 	Centre Forward	3	1	0	0	0	0	0	0	0
-										
-LEYLAND, Harry 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-MCNAMARA, Tony 	Winger	27	4	0	0	0	0	0	0	0
-										
-MOORE, Eric 	Full Back	41	0	0	2	0	0	0	0	0
-										
-O'NEILL, Jimmy 	Goalkeeper	41	0	0	2	0	0	0	0	0
-										
-PARKER, John Willie 	Inside Forward	34	19	0	0	0	0	0	0	0
-										
-POTTS, Harry 	Inside Forward	4	1	0	2	1	0	0	0	0
-										
-RANKIN, George 	Full Back	3	0	0	2	0	0	0	0	0
-										
-SAUNDERS, Ron 	Centre Forward	3	0	0	0	0	0	0	0	0
-										
-STEPHENS, Terry 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-TANSEY, Jimmy 	Full Back	5	0	0	0	0	0	0	0	0
-										
-WAINWRIGHT, Eddie 	Inside Forward	24	4	0	2	0	0	0	0	0
-										
-WILLIAMS, Keith 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-WOODS, Matt 	Central Defender	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BUCKLE, Ted ",Winger,1,0,0,0,0,0,0,0,0
+,"DAVOCK, Mike ",Winger,0,0,0,0,0,0,0,0,0
+,"DONOVAN, Don ",Full Back,35,0,0,0,0,0,0,0,0
+,"EGLINGTON, Tommy ",Winger,41,9,0,2,0,0,0,0,0
+,"FARRALL, Alec ",Midfielder,1,0,0,0,0,0,0,0,0
+,"FARRELL, Peter ",Wing Half,41,0,0,2,0,0,0,0,0
+,"FIELDING, Wally ",Inside Forward,33,4,0,2,1,0,0,0,0
+,"GRANT, Jackie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HICKSON, Dave ",Centre Forward,39,12,0,2,1,0,0,0,0
+,"JONES, Tommy ",Central Defender,41,4,4,2,0,0,0,0,0
+,"KIDD, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LELLO, Cyril ",Wing Half,42,2,0,2,0,0,0,0,0
+,"LEWIS, Gwyn ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"LEYLAND, Harry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MCNAMARA, Tony ",Winger,27,4,0,0,0,0,0,0,0
+,"MOORE, Eric ",Full Back,41,0,0,2,0,0,0,0,0
+,"O'NEILL, Jimmy ",Goalkeeper,41,0,0,2,0,0,0,0,0
+,"PARKER, John Willie ",Inside Forward,34,19,0,0,0,0,0,0,0
+,"POTTS, Harry ",Inside Forward,4,1,0,2,1,0,0,0,0
+,"RANKIN, George ",Full Back,3,0,0,2,0,0,0,0,0
+,"SAUNDERS, Ron ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"STEPHENS, Terry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"TANSEY, Jimmy ",Full Back,5,0,0,0,0,0,0,0,0
+,"WAINWRIGHT, Eddie ",Inside Forward,24,4,0,2,0,0,0,0,0
+,"WILLIAMS, Keith ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WOODS, Matt ",Central Defender,1,0,0,0,0,0,0,0,0

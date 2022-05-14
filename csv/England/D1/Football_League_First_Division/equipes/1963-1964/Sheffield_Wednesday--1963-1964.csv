@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1963/64
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATE, Dick 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-DOBSON, Colin 	Winger	36	11	0	1	0	0	2	1	0
-										
-ELLIS, Keith 	Centre Forward	3	0	0	0	0	0	0	0	0
-										
-FANTHAM, John 	Forward	19	12	0	0	0	0	1	0	0
-										
-FINNEY, Alan 	Winger	36	7	0	1	1	0	4	0	0
-										
-HARDY, Robin 	Central Defender	8	1	0	0	0	0	1	0	0
-										
-HARVEY, Brian 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HICKTON, John 	Forward	2	0	0	0	0	0	0	0	0
-										
-HILL, Brian 	Full Back	29	0	0	1	0	0	3	0	0
-										
-HOLLIDAY, Eddie 	Winger	22	8	0	1	1	0	4	1	0
-										
-JOHNSON, Peter 	Full Back	10	1	0	0	0	0	1	0	0
-										
-LAYNE, David 	Forward	35	23	3	1	0	0	3	5	1
-										
-MACLAREN, Roy 	Goalkeeper	13	0	0	1	0	0	0	0	0
-										
-MANSLEY, Allan 	Winger	0	0	0	0	0	0	0	0	0
-										
-MCANEARNEY, Tom 	Midfielder	34	5	4	1	0	0	3	0	0
-										
-MCGEOUGH, Jimmy 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-MEGSON, Don 	Full Back	42	0	0	1	0	0	4	0	0
-										
-MOBLEY, Vic 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-NOBLE, Frank 	Full Back	1	0	0	0	0	0	0	0	0
-										
-PEARSON, Mark 	Midfielder	28	6	0	1	0	0	2	2	0
-										
-QUINN, Johnny 	Midfielder	13	2	0	0	0	0	3	1	0
-										
-SPRINGETT, Ron 	Goalkeeper	29	0	0	0	0	0	4	0	0
-										
-SWAN, Peter 	Central Defender	39	0	0	1	0	0	4	0	0
-										
-WILKINSON, Derek 	Winger	18	8	0	0	0	0	1	0	0
-										
-YOUNG, Gerry 	Central Defender	42	0	0	1	0	0	4	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATE, Dick ",Central Defender,0,0,0,0,0,0,0,0,0
+,"DOBSON, Colin ",Winger,36,11,0,1,0,0,2,1,0
+,"ELLIS, Keith ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"FANTHAM, John ",Forward,19,12,0,0,0,0,1,0,0
+,"FINNEY, Alan ",Winger,36,7,0,1,1,0,4,0,0
+,"HARDY, Robin ",Central Defender,8,1,0,0,0,0,1,0,0
+,"HARVEY, Brian ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HICKTON, John ",Forward,2,0,0,0,0,0,0,0,0
+,"HILL, Brian ",Full Back,29,0,0,1,0,0,3,0,0
+,"HOLLIDAY, Eddie ",Winger,22,8,0,1,1,0,4,1,0
+,"JOHNSON, Peter ",Full Back,10,1,0,0,0,0,1,0,0
+,"LAYNE, David ",Forward,35,23,3,1,0,0,3,5,1
+,"MACLAREN, Roy ",Goalkeeper,13,0,0,1,0,0,0,0,0
+,"MANSLEY, Allan ",Winger,0,0,0,0,0,0,0,0,0
+,"MCANEARNEY, Tom ",Midfielder,34,5,4,1,0,0,3,0,0
+,"MCGEOUGH, Jimmy ",Midfielder,0,0,0,0,0,0,0,0,0
+,"MEGSON, Don ",Full Back,42,0,0,1,0,0,4,0,0
+,"MOBLEY, Vic ",Central Defender,3,0,0,0,0,0,0,0,0
+,"NOBLE, Frank ",Full Back,1,0,0,0,0,0,0,0,0
+,"PEARSON, Mark ",Midfielder,28,6,0,1,0,0,2,2,0
+,"QUINN, Johnny ",Midfielder,13,2,0,0,0,0,3,1,0
+,"SPRINGETT, Ron ",Goalkeeper,29,0,0,0,0,0,4,0,0
+,"SWAN, Peter ",Central Defender,39,0,0,1,0,0,4,0,0
+,"WILKINSON, Derek ",Winger,18,8,0,0,0,0,1,0,0
+,"YOUNG, Gerry ",Central Defender,42,0,0,1,0,0,4,0,0

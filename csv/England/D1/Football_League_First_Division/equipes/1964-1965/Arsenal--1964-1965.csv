@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Vince 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-ANDERSON, Terry 	Winger	10	2	0	0	0	0	1	3	0
-										
-ARMSTRONG, George 	Winger	40	4	0	2	1	0	1	1	0
-										
-BAKER, Joe 	Forward	42	25	0	2	0	0	1	1	0
-										
-BALDWIN, Tommy 	Forward	1	0	0	0	0	0	0	0	0
-										
-BURNS, Tony 	Goalkeeper	24	0	0	2	0	0	1	0	0
-										
-CLARKE, Fred 	Full Back	15	0	0	2	0	0	1	0	0
-										
-COURT, David 	Midfielder	33	3	0	2	0	0	0	0	0
-										
-EASTHAM, George 	Midfielder	42	10	4	2	0	0	1	0	0
-										
-FERRY, Gordon 	Central Defender	11	0	0	0	0	0	1	0	0
-										
-FURNELL, Jim 	Goalkeeper	18	0	0	0	0	0	0	0	0
-										
-HOWE, Don 	Full Back	40	0	0	2	0	0	1	0	0
-										
-MAGILL, Jimmy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-MCCULLOUGH, Billy 	Full Back	30	0	0	0	0	0	0	0	0
-										
-MCLEOD, John 	Winger	1	1	0	0	0	0	0	0	0
-										
-MCLINTOCK, Frank 	Midfielder	25	2	0	2	0	0	1	0	0
-										
-NEILL, Terry 	Central Defender	29	1	0	0	0	0	0	0	0
-										
-RADFORD, John 	Forward	13	7	0	2	2	0	0	0	0
-										
-RYAN, John 	Full Back	0	0	0	0	0	0	0	0	0
-										
-SAMMELS, Jon 	Midfielder	17	5	0	0	0	0	0	0	0
-										
-SIMPSON, Peter 	Central Defender	6	2	0	0	0	0	1	0	0
-										
-SKIRTON, Alan 	Winger	22	3	0	2	0	0	0	0	0
-										
-SNEDDEN, John 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-STRONG, Geoff 	Inside Forward	12	3	0	0	0	0	1	2	0
-										
-TAWSE, Brian 	Winger	5	0	0	0	0	0	0	0	0
-										
-THEAR, Tony 	Forward	0	0	0	0	0	0	0	0	0
-										
-URE, Ian 	Central Defender	22	1	0	2	0	0	0	0	0
-										
-WILKINSON, Ernie 	Central Defender	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Vince ",Midfielder,0,0,0,0,0,0,0,0,0
+,"ANDERSON, Terry ",Winger,10,2,0,0,0,0,1,3,0
+,"ARMSTRONG, George ",Winger,40,4,0,2,1,0,1,1,0
+,"BAKER, Joe ",Forward,42,25,0,2,0,0,1,1,0
+,"BALDWIN, Tommy ",Forward,1,0,0,0,0,0,0,0,0
+,"BURNS, Tony ",Goalkeeper,24,0,0,2,0,0,1,0,0
+,"CLARKE, Fred ",Full Back,15,0,0,2,0,0,1,0,0
+,"COURT, David ",Midfielder,33,3,0,2,0,0,0,0,0
+,"EASTHAM, George ",Midfielder,42,10,4,2,0,0,1,0,0
+,"FERRY, Gordon ",Central Defender,11,0,0,0,0,0,1,0,0
+,"FURNELL, Jim ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"HOWE, Don ",Full Back,40,0,0,2,0,0,1,0,0
+,"MAGILL, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCCULLOUGH, Billy ",Full Back,30,0,0,0,0,0,0,0,0
+,"MCLEOD, John ",Winger,1,1,0,0,0,0,0,0,0
+,"MCLINTOCK, Frank ",Midfielder,25,2,0,2,0,0,1,0,0
+,"NEILL, Terry ",Central Defender,29,1,0,0,0,0,0,0,0
+,"RADFORD, John ",Forward,13,7,0,2,2,0,0,0,0
+,"RYAN, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"SAMMELS, Jon ",Midfielder,17,5,0,0,0,0,0,0,0
+,"SIMPSON, Peter ",Central Defender,6,2,0,0,0,0,1,0,0
+,"SKIRTON, Alan ",Winger,22,3,0,2,0,0,0,0,0
+,"SNEDDEN, John ",Central Defender,3,0,0,0,0,0,0,0,0
+,"STRONG, Geoff ",Inside Forward,12,3,0,0,0,0,1,2,0
+,"TAWSE, Brian ",Winger,5,0,0,0,0,0,0,0,0
+,"THEAR, Tony ",Forward,0,0,0,0,0,0,0,0,0
+,"URE, Ian ",Central Defender,22,1,0,2,0,0,0,0,0
+,"WILKINSON, Ernie ",Central Defender,0,0,0,0,0,0,0,0,0

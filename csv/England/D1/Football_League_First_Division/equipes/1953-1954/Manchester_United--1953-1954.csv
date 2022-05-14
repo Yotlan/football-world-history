@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1953/54
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTON, John 	Full Back	12	2	0	0	0	0	0	0	0
-										
-BERRY, Johnny 	Winger	37	5	0	1	0	0	0	0	0
-										
-BLANCHFLOWER, Jackie 	Inside Forward	27	13	0	1	1	0	0	0	0
-										
-BYRNE, Roger 	Full Back	41	3	3	1	0	0	0	0	0
-										
-CHILTON, Allenby 	Central Defender	42	1	0	1	0	0	0	0	0
-										
-COCKBURN, Henry 	Wing Half	18	0	0	0	0	0	0	0	0
-										
-CROMPTON, Jack 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-EDWARDS, Duncan 	Wing Half	24	0	0	1	0	0	0	0	0
-										
-FOULKES, Bill 	Central Defender	32	1	0	1	0	0	0	0	0
-										
-FULTON, Bryce 	Full Back	0	0	0	0	0	0	0	0	0
-										
-GIBSON, Don 	Wing Half	7	0	0	0	0	0	0	0	0
-										
-LEWIS, Eddie 	Full Back	6	1	0	0	0	0	0	0	0
-										
-LOWRY, Brian 	Winger	0	0	0	0	0	0	0	0	0
-										
-MCFARLANE, Noel 	Winger	1	0	0	0	0	0	0	0	0
-										
-MCNULTY, Tom 	Full Back	4	0	0	0	0	0	0	0	0
-										
-MCSHANE, Harry 	Winger	9	0	0	0	0	0	0	0	0
-										
-PEARSON, Stan 	Inside Forward	11	2	0	0	0	0	0	0	0
-										
-PEGG, David 	Winger	9	0	0	0	0	0	0	0	0
-										
-REDMAN, Bill 	Full Back	1	0	0	0	0	0	0	0	0
-										
-ROWLEY, Jack 	Centre Forward	36	12	0	1	0	0	0	0	0
-										
-TAYLOR, Tommy 	Centre Forward	35	22	0	1	1	0	0	0	0
-										
-VIOLLET, Dennis 	Inside Forward	29	11	0	1	1	0	0	0	0
-										
-WEBSTER, Colin 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-WHITEFOOT, Jeff 	Wing Half	38	0	0	1	0	0	0	0	0
-										
-WOOD, Ray 	Goalkeeper	27	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTON, John ",Full Back,12,2,0,0,0,0,0,0,0
+,"BERRY, Johnny ",Winger,37,5,0,1,0,0,0,0,0
+,"BLANCHFLOWER, Jackie ",Inside Forward,27,13,0,1,1,0,0,0,0
+,"BYRNE, Roger ",Full Back,41,3,3,1,0,0,0,0,0
+,"CHILTON, Allenby ",Central Defender,42,1,0,1,0,0,0,0,0
+,"COCKBURN, Henry ",Wing Half,18,0,0,0,0,0,0,0,0
+,"CROMPTON, Jack ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"EDWARDS, Duncan ",Wing Half,24,0,0,1,0,0,0,0,0
+,"FOULKES, Bill ",Central Defender,32,1,0,1,0,0,0,0,0
+,"FULTON, Bryce ",Full Back,0,0,0,0,0,0,0,0,0
+,"GIBSON, Don ",Wing Half,7,0,0,0,0,0,0,0,0
+,"LEWIS, Eddie ",Full Back,6,1,0,0,0,0,0,0,0
+,"LOWRY, Brian ",Winger,0,0,0,0,0,0,0,0,0
+,"MCFARLANE, Noel ",Winger,1,0,0,0,0,0,0,0,0
+,"MCNULTY, Tom ",Full Back,4,0,0,0,0,0,0,0,0
+,"MCSHANE, Harry ",Winger,9,0,0,0,0,0,0,0,0
+,"PEARSON, Stan ",Inside Forward,11,2,0,0,0,0,0,0,0
+,"PEGG, David ",Winger,9,0,0,0,0,0,0,0,0
+,"REDMAN, Bill ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROWLEY, Jack ",Centre Forward,36,12,0,1,0,0,0,0,0
+,"TAYLOR, Tommy ",Centre Forward,35,22,0,1,1,0,0,0,0
+,"VIOLLET, Dennis ",Inside Forward,29,11,0,1,1,0,0,0,0
+,"WEBSTER, Colin ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WHITEFOOT, Jeff ",Wing Half,38,0,0,1,0,0,0,0,0
+,"WOOD, Ray ",Goalkeeper,27,0,0,1,0,0,0,0,0

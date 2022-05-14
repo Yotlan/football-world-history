@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1989/90
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Malcolm 	Forward	9+3	3	1	0	0	0	0+2	0	0
-										
-BOWEN, Mark 	Full Back	38	7	0	4	0	0	5	0	0
-										
-BUTTERWORTH, Ian 	Central Defender	22	0	0	4	0	0	5	0	0
-										
-CONEY, Dean 	Forward	6+3	0	0	0	0	0	0	0	0
-										
-COOK, Paul 	Midfielder	0+2	0	0	0	0	0	0	0	0
-										
-CROOK, Ian 	Midfielder	34+1	0	0	4	0	0	5	1	0
-										
-CULVERHOUSE, Ian 	Full Back	31+1	0	0	4	0	0	1	0	0
-										
-FLECK, Robert 	Forward	25+2	7	2	4	2	0	4	3	0
-										
-FLYNN, Mike 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-FOX, Ruel 	Winger	6+1	3	0	0	0	0	0	0	0
-										
-GORDON, Dale 	Winger	26	3	0	4	1	0	5	2	0
-										
-GOSS, Jerry 	Midfielder	3+4	0	0	0	0	0	0	0	0
-										
-GUNN, Bryan 	Goalkeeper	37	0	0	4	0	0	5	0	0
-										
-HEALD, Greg 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-LINIGHAN, Andy 	Central Defender	37	2	0	4	0	0	5	0	0
-										
-MORTENSEN, Henrik 	Forward	12+3	0	0	0	0	0	1	1	0
-										
-PENNOCK, Adrian 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-PHILLIPS, David 	Midfielder	38	4	0	4	0	0	5	1	0
-										
-POWER, Lee 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-ROSARIO, Robert 	Forward	29+2	5	0	4	1	0	5	1	0
-										
-SHERWOOD, Tim 	Midfielder	22+5	3	0	0	0	0	4+1	1	0
-										
-SMITH, Dave 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-TANNER, Nicky 	Central Defender	6	0	0	0	0	0	0	0	0
-										
-THEODOSIOU, Andy 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-TOWNSEND, Andy 	Midfielder	35	3	2	4	0	0	5	0	0
-										
-WALTON, Mark 	Goalkeeper	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Malcolm ",Forward,9+3,3,1,0,0,0,0+2,0,0
+,"BOWEN, Mark ",Full Back,38,7,0,4,0,0,5,0,0
+,"BUTTERWORTH, Ian ",Central Defender,22,0,0,4,0,0,5,0,0
+,"CONEY, Dean ",Forward,6+3,0,0,0,0,0,0,0,0
+,"COOK, Paul ",Midfielder,0+2,0,0,0,0,0,0,0,0
+,"CROOK, Ian ",Midfielder,34+1,0,0,4,0,0,5,1,0
+,"CULVERHOUSE, Ian ",Full Back,31+1,0,0,4,0,0,1,0,0
+,"FLECK, Robert ",Forward,25+2,7,2,4,2,0,4,3,0
+,"FLYNN, Mike ",Central Defender,0,0,0,0,0,0,0,0,0
+,"FOX, Ruel ",Winger,6+1,3,0,0,0,0,0,0,0
+,"GORDON, Dale ",Winger,26,3,0,4,1,0,5,2,0
+,"GOSS, Jerry ",Midfielder,3+4,0,0,0,0,0,0,0,0
+,"GUNN, Bryan ",Goalkeeper,37,0,0,4,0,0,5,0,0
+,"HEALD, Greg ",Central Defender,0,0,0,0,0,0,0,0,0
+,"LINIGHAN, Andy ",Central Defender,37,2,0,4,0,0,5,0,0
+,"MORTENSEN, Henrik ",Forward,12+3,0,0,0,0,0,1,1,0
+,"PENNOCK, Adrian ",Central Defender,1,0,0,0,0,0,0,0,0
+,"PHILLIPS, David ",Midfielder,38,4,0,4,0,0,5,1,0
+,"POWER, Lee ",Forward,0+1,0,0,0,0,0,0,0,0
+,"ROSARIO, Robert ",Forward,29+2,5,0,4,1,0,5,1,0
+,"SHERWOOD, Tim ",Midfielder,22+5,3,0,0,0,0,4+1,1,0
+,"SMITH, Dave ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"TANNER, Nicky ",Central Defender,6,0,0,0,0,0,0,0,0
+,"THEODOSIOU, Andy ",Central Defender,0,0,0,0,0,0,0,0,0
+,"TOWNSEND, Andy ",Midfielder,35,3,2,4,0,0,5,0,0
+,"WALTON, Mark ",Goalkeeper,1,0,0,0,0,0,0,0,0

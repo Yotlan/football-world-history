@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1957/58
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALSTON, Alec 	Forward	2	1	0	0	0	0	0	0	0
-										
-BAXTER, Jimmy 	Inside Forward	37	5	1	1	0	0	0	0	0
-										
-BROWN, Alex 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BYRNE, John 	Forward	0	0	0	0	0	0	0	0	0
-										
-CUNNINGHAM, Willie 	Full Back	42	0	0	1	0	0	0	0	0
-										
-DAGGER, Les 	Winger	10	1	0	0	0	0	0	0	0
-										
-DOCHERTY, Tommy 	Wing Half	40	1	0	1	0	0	0	0	0
-										
-DUNN, Joe 	Central Defender	37	0	0	1	0	0	0	0	0
-										
-ELSE, Fred 	Goalkeeper	40	0	0	1	0	0	0	0	0
-										
-FARRALL, Alec 	Midfielder	6	1	0	0	0	0	0	0	0
-										
-FINNEY, Tom 	Winger	34	26	5	1	0	0	0	0	0
-										
-HARRIS, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-HATSELL, Dennis 	Centre Forward	10	3	0	1	0	0	0	0	0
-										
-HEYS, Mike 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-KNOWLES, Jimmy 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-MATTINSON, Harry 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-MAYERS, Derek 	Winger	34	12	0	1	0	0	0	0	0
-										
-MILNE, Gordon 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-O'FARRELL, Frank 	Wing Half	40	0	0	1	0	0	0	0	0
-										
-TAYLOR, Sammy 	Winger	36	14	1	0	0	0	0	0	0
-										
-THOMPSON, Tommy 	Inside Forward	41	34	0	1	0	0	0	0	0
-										
-WALTON, Joe 	Full Back	42	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALSTON, Alec ",Forward,2,1,0,0,0,0,0,0,0
+,"BAXTER, Jimmy ",Inside Forward,37,5,1,1,0,0,0,0,0
+,"BROWN, Alex ",Full Back,0,0,0,0,0,0,0,0,0
+,"BYRNE, John ",Forward,0,0,0,0,0,0,0,0,0
+,"CUNNINGHAM, Willie ",Full Back,42,0,0,1,0,0,0,0,0
+,"DAGGER, Les ",Winger,10,1,0,0,0,0,0,0,0
+,"DOCHERTY, Tommy ",Wing Half,40,1,0,1,0,0,0,0,0
+,"DUNN, Joe ",Central Defender,37,0,0,1,0,0,0,0,0
+,"ELSE, Fred ",Goalkeeper,40,0,0,1,0,0,0,0,0
+,"FARRALL, Alec ",Midfielder,6,1,0,0,0,0,0,0,0
+,"FINNEY, Tom ",Winger,34,26,5,1,0,0,0,0,0
+,"HARRIS, George ",Winger,0,0,0,0,0,0,0,0,0
+,"HATSELL, Dennis ",Centre Forward,10,3,0,1,0,0,0,0,0
+,"HEYS, Mike ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"KNOWLES, Jimmy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MATTINSON, Harry ",Central Defender,4,0,0,0,0,0,0,0,0
+,"MAYERS, Derek ",Winger,34,12,0,1,0,0,0,0,0
+,"MILNE, Gordon ",Midfielder,5,0,0,0,0,0,0,0,0
+,"O'FARRELL, Frank ",Wing Half,40,0,0,1,0,0,0,0,0
+,"TAYLOR, Sammy ",Winger,36,14,1,0,0,0,0,0,0
+,"THOMPSON, Tommy ",Inside Forward,41,34,0,1,0,0,0,0,0
+,"WALTON, Joe ",Full Back,42,0,0,1,0,0,0,0,0

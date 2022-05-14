@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1981/82
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLISSETT, Gary 	Forward	0	0	0	0	0	0	0	0	0
-										
-BOND, Kevin 	Central Defender	32+1	3	2	2	1	1	4	0	0
-										
-BOOTH, Tommy 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-BOYER, Phil 	Forward	10+2	1	0	0	0	0	1	0	0
-										
-BUDD, Kevin 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CATON, Tommy 	Central Defender	39	1	0	2	0	0	4	0	0
-										
-CORRIGAN, Joe 	Goalkeeper	39	0	0	2	0	0	4	0	0
-										
-ELLIOTT, Andy 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-FRANCIS, Trevor 	Forward	26	12	0	2	2	0	1	0	0
-										
-GOW, Gerry 	Midfielder	6	0	0	2	0	0	0	0	0
-										
-HAREIDE, Aage 	Central Defender	9+7	0	0	0	0	0	0+1	0	0
-										
-HARTFORD, Asa 	Midfielder	30	3	0	2	0	0	4	1	0
-										
-HENRY, Tony 	Midfielder	0+2	0	0	0	0	0	0	0	0
-										
-HUDSON, John 	Winger	0	0	0	0	0	0	0	0	0
-										
-HUTCHISON, Tommy 	Winger	20+2	1	0	2	0	0	3+1	0	0
-										
-JACKSON, Gary 	Midfielder	6+2	0	0	0	0	0	0	0	0
-										
-JONES, Robert 	Forward	0	0	0	0	0	0	0	0	0
-										
-KINSEY, Steve 	Winger	13+3	0	0	0+1	0	0	0	0	0
-										
-MAY, Andy 	Midfielder	3+3	0	0	0	0	0	0	0	0
-										
-MCDONALD, Bobby 	Full Back	36	4	0	2	1	0	2	1	0
-										
-MUMFORD, Wayne 	Full Back	0	0	0	0	0	0	0	0	0
-										
-O'NEILL, Martin 	Midfielder	12+1	0	0	0	0	0	3	0	0
-										
-POWER, Paul 	Midfielder	25	1	0	1	0	0	1	0	0
-										
-RANSON, Ray 	Full Back	36	0	0	1	0	0	4	0	0
-										
-REEVES, Kevin 	Forward	42	13	0	2	0	0	4	0	0
-										
-REID, Nicky 	Central Defender	36	0	0	2	0	0	4	0	0
-										
-RYAN, John 	Full Back	19	0	0	0	0	0	0	0	0
-										
-SHERIDAN, John 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-TUEART, Dennis 	Winger	15	9	2	0	0	0	4	2	0
-										
-WILLIAMS, Alex 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-WILSON, Clive 	Full Back	3+1	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLISSETT, Gary ",Forward,0,0,0,0,0,0,0,0,0
+,"BOND, Kevin ",Central Defender,32+1,3,2,2,1,1,4,0,0
+,"BOOTH, Tommy ",Central Defender,1,0,0,0,0,0,0,0,0
+,"BOYER, Phil ",Forward,10+2,1,0,0,0,0,1,0,0
+,"BUDD, Kevin ",Full Back,0,0,0,0,0,0,0,0,0
+,"CATON, Tommy ",Central Defender,39,1,0,2,0,0,4,0,0
+,"CORRIGAN, Joe ",Goalkeeper,39,0,0,2,0,0,4,0,0
+,"ELLIOTT, Andy ",Midfielder,1,0,0,0,0,0,0,0,0
+,"FRANCIS, Trevor ",Forward,26,12,0,2,2,0,1,0,0
+,"GOW, Gerry ",Midfielder,6,0,0,2,0,0,0,0,0
+,"HAREIDE, Aage ",Central Defender,9+7,0,0,0,0,0,0+1,0,0
+,"HARTFORD, Asa ",Midfielder,30,3,0,2,0,0,4,1,0
+,"HENRY, Tony ",Midfielder,0+2,0,0,0,0,0,0,0,0
+,"HUDSON, John ",Winger,0,0,0,0,0,0,0,0,0
+,"HUTCHISON, Tommy ",Winger,20+2,1,0,2,0,0,3+1,0,0
+,"JACKSON, Gary ",Midfielder,6+2,0,0,0,0,0,0,0,0
+,"JONES, Robert ",Forward,0,0,0,0,0,0,0,0,0
+,"KINSEY, Steve ",Winger,13+3,0,0,0+1,0,0,0,0,0
+,"MAY, Andy ",Midfielder,3+3,0,0,0,0,0,0,0,0
+,"MCDONALD, Bobby ",Full Back,36,4,0,2,1,0,2,1,0
+,"MUMFORD, Wayne ",Full Back,0,0,0,0,0,0,0,0,0
+,"O'NEILL, Martin ",Midfielder,12+1,0,0,0,0,0,3,0,0
+,"POWER, Paul ",Midfielder,25,1,0,1,0,0,1,0,0
+,"RANSON, Ray ",Full Back,36,0,0,1,0,0,4,0,0
+,"REEVES, Kevin ",Forward,42,13,0,2,0,0,4,0,0
+,"REID, Nicky ",Central Defender,36,0,0,2,0,0,4,0,0
+,"RYAN, John ",Full Back,19,0,0,0,0,0,0,0,0
+,"SHERIDAN, John ",Midfielder,0,0,0,0,0,0,0,0,0
+,"TUEART, Dennis ",Winger,15,9,2,0,0,0,4,2,0
+,"WILLIAMS, Alex ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WILSON, Clive ",Full Back,3+1,0,0,0,0,0,1,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1936/37
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Jimmy 	Goalkeeper	14	0	0	3	0	0	0	0	0
-										
-BOYES, Wally 	Winger	39	4	0	5	1	0	0	0	0
-										
-BROCKHURST, Bill 	Central Defender	5	0	0	0	0	0	0	0	0
-										
-BROOKES, Arthur 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-COEN, Laurie 	Full Back	7	4	0	2	0	0	0	0	0
-										
-DRISCOLL, Jack 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-EDWARDS, Jimmy 	Wing Half	1	0	0	1	0	0	0	0	0
-										
-FINCH, Bob 	Full Back	28	0	0	5	0	0	0	0	0
-										
-FOULKES, Hugh 	Full Back	3	0	0	0	0	0	0	0	0
-										
-GALE, Arthur 	Winger	2	1	0	0	0	0	0	0	0
-										
-GREEN, Tommy 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-HEASELGRAVE, Sammy 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-JONES, Harry 	Centre Forward	35	17	0	5	1	0	0	0	0
-										
-LIGHT, Billy 	Goalkeeper	13	0	0	2	0	0	0	0	0
-										
-MAHON, Jack 	Winger	35	9	0	5	5	0	0	0	0
-										
-MORRIS, Trevor 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-MURPHY, Jimmy 	Wing Half	21	0	0	5	0	0	0	0	0
-										
-PEARSON, Harold 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-PREW, Jimmy 	Winger	7	1	0	0	0	0	0	0	0
-										
-RICHARDSON, Billy 'Ginger' 	Centre Forward	39	16	1	5	6	0	0	0	0
-										
-RICHARDSON, Bill 	Central Defender	22	1	0	2	0	0	0	0	0
-										
-RIDYARD, Alf 	Central Defender	11	0	0	1	0	0	0	0	0
-										
-RIX, Jack 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-ROBBINS, Walter 	Winger	16	9	0	1	1	0	0	0	0
-										
-SANDFORD, Teddy 	Inside Forward	28	5	0	4	2	0	0	0	0
-										
-SANKEY, Jack 	Wing Half	37	0	0	3	0	0	0	0	0
-										
-SHAW, Cecil 	Full Back	22	2	2	5	0	0	0	0	0
-										
-SHAW, George 	Full Back	9	0	0	0	0	0	0	0	0
-										
-SWINDEN, Sid 	Full Back	4	0	0	0	0	0	0	0	0
-										
-TRENTHAM, Bert 	Full Back	18	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Jimmy ",Goalkeeper,14,0,0,3,0,0,0,0,0
+,"BOYES, Wally ",Winger,39,4,0,5,1,0,0,0,0
+,"BROCKHURST, Bill ",Central Defender,5,0,0,0,0,0,0,0,0
+,"BROOKES, Arthur ",Wing Half,0,0,0,0,0,0,0,0,0
+,"COEN, Laurie ",Full Back,7,4,0,2,0,0,0,0,0
+,"DRISCOLL, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"EDWARDS, Jimmy ",Wing Half,1,0,0,1,0,0,0,0,0
+,"FINCH, Bob ",Full Back,28,0,0,5,0,0,0,0,0
+,"FOULKES, Hugh ",Full Back,3,0,0,0,0,0,0,0,0
+,"GALE, Arthur ",Winger,2,1,0,0,0,0,0,0,0
+,"GREEN, Tommy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HEASELGRAVE, Sammy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"JONES, Harry ",Centre Forward,35,17,0,5,1,0,0,0,0
+,"LIGHT, Billy ",Goalkeeper,13,0,0,2,0,0,0,0,0
+,"MAHON, Jack ",Winger,35,9,0,5,5,0,0,0,0
+,"MORRIS, Trevor ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MURPHY, Jimmy ",Wing Half,21,0,0,5,0,0,0,0,0
+,"PEARSON, Harold ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"PREW, Jimmy ",Winger,7,1,0,0,0,0,0,0,0
+,"RICHARDSON, Billy 'Ginger' ",Centre Forward,39,16,1,5,6,0,0,0,0
+,"RICHARDSON, Bill ",Central Defender,22,1,0,2,0,0,0,0,0
+,"RIDYARD, Alf ",Central Defender,11,0,0,1,0,0,0,0,0
+,"RIX, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"ROBBINS, Walter ",Winger,16,9,0,1,1,0,0,0,0
+,"SANDFORD, Teddy ",Inside Forward,28,5,0,4,2,0,0,0,0
+,"SANKEY, Jack ",Wing Half,37,0,0,3,0,0,0,0,0
+,"SHAW, Cecil ",Full Back,22,2,2,5,0,0,0,0,0
+,"SHAW, George ",Full Back,9,0,0,0,0,0,0,0,0
+,"SWINDEN, Sid ",Full Back,4,0,0,0,0,0,0,0,0
+,"TRENTHAM, Bert ",Full Back,18,0,0,0,0,0,0,0,0

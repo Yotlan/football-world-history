@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1971/72
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELFITT, Rod 	Forward	26	7	0	2	0	0	0	0	0
-										
-BELL, Bobby 	Central Defender	7	0	0	0	0	0	1	0	0
-										
-BEST, David 	Goalkeeper	27	0	0	2	0	0	1	0	0
-										
-CARROLL, Tommy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-CLARKE, Frank 	Forward	18+3	5	2	0	0	0	1	0	0
-										
-COLLARD, Ian 	Midfielder	13+1	1	0	0	0	0	0	0	0
-										
-HAMILTON, Bryan 	Midfielder	8+8	1	0	0	0	0	0+1	0	0
-										
-HAMMOND, Geoff 	Full Back	15	0	0	0	0	0	1	0	0
-										
-HARPER, Colin 	Full Back	42	2	0	2	0	0	1	0	0
-										
-HILL, Mick 	Forward	20+1	7	0	2	1	0	1	0	0
-										
-HUNTER, Allan 	Central Defender	35	2	0	2	0	0	0	0	0
-										
-JEFFERSON, Derek 	Central Defender	42	0	0	2	0	0	1	0	0
-										
-LAMBERT, Mick 	Winger	14+2	2	0	0	0	0	0	0	0
-										
-MCNEIL, Mick 	Full Back	1	0	0	1	0	0	0	0	0
-										
-MILLER, Johnny 	Winger	29+1	1	0	1+1	0	0	1	0	0
-										
-MILLS, Mick 	Full Back	35	0	0	2	0	0	1	0	0
-										
-MORRIS, Peter 	Midfielder	29+2	2	0	2	0	0	1	0	0
-										
-ROBERTSON, Jimmy 	Winger	40	2	0	2	0	0	1	1	0
-										
-SIVELL, Laurie 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-VILJOEN, Colin 	Midfielder	32	2	1	2	1	0	0	0	0
-										
-WHYMARK, Trevor 	Forward	12+2	4	0	0	0	0	0	0	0
-										
-WOODS, Clive 	Winger	1+4	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELFITT, Rod ",Forward,26,7,0,2,0,0,0,0,0
+,"BELL, Bobby ",Central Defender,7,0,0,0,0,0,1,0,0
+,"BEST, David ",Goalkeeper,27,0,0,2,0,0,1,0,0
+,"CARROLL, Tommy ",Full Back,1,0,0,0,0,0,0,0,0
+,"CLARKE, Frank ",Forward,18+3,5,2,0,0,0,1,0,0
+,"COLLARD, Ian ",Midfielder,13+1,1,0,0,0,0,0,0,0
+,"HAMILTON, Bryan ",Midfielder,8+8,1,0,0,0,0,0+1,0,0
+,"HAMMOND, Geoff ",Full Back,15,0,0,0,0,0,1,0,0
+,"HARPER, Colin ",Full Back,42,2,0,2,0,0,1,0,0
+,"HILL, Mick ",Forward,20+1,7,0,2,1,0,1,0,0
+,"HUNTER, Allan ",Central Defender,35,2,0,2,0,0,0,0,0
+,"JEFFERSON, Derek ",Central Defender,42,0,0,2,0,0,1,0,0
+,"LAMBERT, Mick ",Winger,14+2,2,0,0,0,0,0,0,0
+,"MCNEIL, Mick ",Full Back,1,0,0,1,0,0,0,0,0
+,"MILLER, Johnny ",Winger,29+1,1,0,1+1,0,0,1,0,0
+,"MILLS, Mick ",Full Back,35,0,0,2,0,0,1,0,0
+,"MORRIS, Peter ",Midfielder,29+2,2,0,2,0,0,1,0,0
+,"ROBERTSON, Jimmy ",Winger,40,2,0,2,0,0,1,1,0
+,"SIVELL, Laurie ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"VILJOEN, Colin ",Midfielder,32,2,1,2,1,0,0,0,0
+,"WHYMARK, Trevor ",Forward,12+2,4,0,0,0,0,0,0,0
+,"WOODS, Clive ",Winger,1+4,0,0,0,0,0,0,0,0

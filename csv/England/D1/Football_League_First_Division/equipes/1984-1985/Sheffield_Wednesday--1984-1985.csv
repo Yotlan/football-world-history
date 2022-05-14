@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1984/85
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLAIR, Andy 	Midfielder	41	3	0	3	0	0	7	3	3
-										
-BRADSHAW, Darren 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-BROWN, Richard 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CHAPMAN, Lee 	Forward	40	15	0	2	3	0	7	2	0
-										
-COOMBES, Lee 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HEARD, Pat 	Midfielder	1	0	0	0	0	0	1	0	0
-										
-HODGE, Martin 	Goalkeeper	42	0	0	3	0	0	7	0	0
-										
-JONSSON, Siggi 	Midfielder	2+1	0	0	0	0	0	0	0	0
-										
-KERR, Dylan 	Full Back	0	0	0	0	0	0	0	0	0
-										
-LYONS, Mike 	Central Defender	37	3	0	3	1	0	7	2	0
-										
-MADDEN, Lawrie 	Central Defender	18+1	0	0	2	0	0	3	1	0
-										
-MARWOOD, Brian 	Winger	41	7	2	3	1	0	7	4	0
-										
-MILLS, Simon 	Full Back	0+2	0	0	0	0	0	0	0	0
-										
-MORRIS, Chris 	Full Back	11+3	0	0	0	0	0	0+4	0	0
-										
-OLIVER, Gavin 	Central Defender	9+1	0	0	1+1	0	0	2+1	0	0
-										
-PEARSON, John 	Forward	3+6	2	0	1	0	0	1+1	0	0
-										
-RYAN, John 	Full Back	5+3	1	0	0	0	0	1	0	0
-										
-SHELTON, Gary 	Midfielder	41	4	0	3	0	0	6	1	0
-										
-SHIRTLIFF, Peter 	Central Defender	35	0	0	1+1	0	0	6	0	0
-										
-SHOWLER, Paul 	Winger	0	0	0	0	0	0	0	0	0
-										
-SMITH, Alan 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-SMITH, Mark 	Central Defender	36	2	0	2	0	0	4	0	0
-										
-STAINROD, Simon 	Forward	5+4	1	0	0	0	0	0	0	0
-										
-STERLAND, Mel 	Full Back	21+3	2	1	3	1	0	6	3	2
-										
-VARADI, Imre 	Forward	37+1	16	0	3	4	0	6	1	0
-										
-WORTHINGTON, Nigel 	Full Back	37+1	1	0	3	0	0	6	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLAIR, Andy ",Midfielder,41,3,0,3,0,0,7,3,3
+,"BRADSHAW, Darren ",Central Defender,0,0,0,0,0,0,0,0,0
+,"BROWN, Richard ",Full Back,0,0,0,0,0,0,0,0,0
+,"CHAPMAN, Lee ",Forward,40,15,0,2,3,0,7,2,0
+,"COOMBES, Lee ",Full Back,0,0,0,0,0,0,0,0,0
+,"HEARD, Pat ",Midfielder,1,0,0,0,0,0,1,0,0
+,"HODGE, Martin ",Goalkeeper,42,0,0,3,0,0,7,0,0
+,"JONSSON, Siggi ",Midfielder,2+1,0,0,0,0,0,0,0,0
+,"KERR, Dylan ",Full Back,0,0,0,0,0,0,0,0,0
+,"LYONS, Mike ",Central Defender,37,3,0,3,1,0,7,2,0
+,"MADDEN, Lawrie ",Central Defender,18+1,0,0,2,0,0,3,1,0
+,"MARWOOD, Brian ",Winger,41,7,2,3,1,0,7,4,0
+,"MILLS, Simon ",Full Back,0+2,0,0,0,0,0,0,0,0
+,"MORRIS, Chris ",Full Back,11+3,0,0,0,0,0,0+4,0,0
+,"OLIVER, Gavin ",Central Defender,9+1,0,0,1+1,0,0,2+1,0,0
+,"PEARSON, John ",Forward,3+6,2,0,1,0,0,1+1,0,0
+,"RYAN, John ",Full Back,5+3,1,0,0,0,0,1,0,0
+,"SHELTON, Gary ",Midfielder,41,4,0,3,0,0,6,1,0
+,"SHIRTLIFF, Peter ",Central Defender,35,0,0,1+1,0,0,6,0,0
+,"SHOWLER, Paul ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Alan ",Central Defender,0,0,0,0,0,0,0,0,0
+,"SMITH, Mark ",Central Defender,36,2,0,2,0,0,4,0,0
+,"STAINROD, Simon ",Forward,5+4,1,0,0,0,0,0,0,0
+,"STERLAND, Mel ",Full Back,21+3,2,1,3,1,0,6,3,2
+,"VARADI, Imre ",Forward,37+1,16,0,3,4,0,6,1,0
+,"WORTHINGTON, Nigel ",Full Back,37+1,1,0,3,0,0,6,0,0

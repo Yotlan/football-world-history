@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Ronnie 	Centre Forward	11	5	0	0	0	0	0	0	0
-										
-BARLOW, Ray 	Wing Half	23	3	0	2	0	0	0	0	0
-										
-BETTERIDGE, Mick 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-DUDLEY, Jimmy 	Wing Half	13	0	0	0	0	0	0	0	0
-										
-ELLIOTT, Billy 	Winger	21	7	1	0	0	0	0	0	0
-										
-FLOYD, Ron 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-GORDON, Denis 	Winger	11	1	0	2	0	0	0	0	0
-										
-HAINES, Jack 	Inside Forward	11	3	0	0	0	0	0	0	0
-										
-HOOD, Glyn 	Wing Half	13	0	0	0	0	0	0	0	0
-										
-HORNE, Les 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-INWOOD, Gordon 	Winger	10	0	0	2	1	0	0	0	0
-										
-JACKSON, Dennis 	Full Back	0	0	0	0	0	0	0	0	0
-										
-KENNEDY, Joe 	Central Defender	34	0	0	2	0	0	0	0	0
-										
-LEE, George 	Winger	25	2	0	0	0	0	0	0	0
-										
-MCILVENNY, John 	Winger	0	0	0	0	0	0	0	0	0
-										
-MICKLEWRIGHT, Andy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-MILLARD, Len 	Full Back	41	0	0	2	0	0	0	0	0
-										
-PEMBERTON, Jim 	Full Back	40	0	0	2	0	0	0	0	0
-										
-RICKABY, Stan 	Full Back	1	0	0	0	0	0	0	0	0
-										
-RYAN, Reg 	Inside Forward	34	1	0	2	0	0	0	0	0
-										
-SANDERS, Jim 	Goalkeeper	42	0	0	2	0	0	0	0	0
-										
-SMITH, Arthur 	Inside Forward	21	1	0	0	0	0	0	0	0
-										
-TAYLOR, Doug 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-VERNON, Jack 	Central Defender	40	0	0	2	0	0	0	0	0
-										
-WALSH, Davy 	Centre Forward	37	15	0	2	0	0	0	0	0
-										
-WILCOX, Eddie 	Inside Forward	4	1	0	0	0	0	0	0	0
-										
-WILLIAMS, Cyril 	Inside Forward	26	8	0	2	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Ronnie ",Centre Forward,11,5,0,0,0,0,0,0,0
+,"BARLOW, Ray ",Wing Half,23,3,0,2,0,0,0,0,0
+,"BETTERIDGE, Mick ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"DUDLEY, Jimmy ",Wing Half,13,0,0,0,0,0,0,0,0
+,"ELLIOTT, Billy ",Winger,21,7,1,0,0,0,0,0,0
+,"FLOYD, Ron ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"GORDON, Denis ",Winger,11,1,0,2,0,0,0,0,0
+,"HAINES, Jack ",Inside Forward,11,3,0,0,0,0,0,0,0
+,"HOOD, Glyn ",Wing Half,13,0,0,0,0,0,0,0,0
+,"HORNE, Les ",Central Defender,2,0,0,0,0,0,0,0,0
+,"INWOOD, Gordon ",Winger,10,0,0,2,1,0,0,0,0
+,"JACKSON, Dennis ",Full Back,0,0,0,0,0,0,0,0,0
+,"KENNEDY, Joe ",Central Defender,34,0,0,2,0,0,0,0,0
+,"LEE, George ",Winger,25,2,0,0,0,0,0,0,0
+,"MCILVENNY, John ",Winger,0,0,0,0,0,0,0,0,0
+,"MICKLEWRIGHT, Andy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MILLARD, Len ",Full Back,41,0,0,2,0,0,0,0,0
+,"PEMBERTON, Jim ",Full Back,40,0,0,2,0,0,0,0,0
+,"RICKABY, Stan ",Full Back,1,0,0,0,0,0,0,0,0
+,"RYAN, Reg ",Inside Forward,34,1,0,2,0,0,0,0,0
+,"SANDERS, Jim ",Goalkeeper,42,0,0,2,0,0,0,0,0
+,"SMITH, Arthur ",Inside Forward,21,1,0,0,0,0,0,0,0
+,"TAYLOR, Doug ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"VERNON, Jack ",Central Defender,40,0,0,2,0,0,0,0,0
+,"WALSH, Davy ",Centre Forward,37,15,0,2,0,0,0,0,0
+,"WILCOX, Eddie ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"WILLIAMS, Cyril ",Inside Forward,26,8,0,2,1,0,0,0,0

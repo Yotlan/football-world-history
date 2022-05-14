@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1990/91
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABLETT, Gary 	Central Defender	23	0	0	5+1	0	0	2	0	0
-										
-BARNES, John 	Winger	35	16	1	7	1	0	3	1	1
-										
-BEARDSLEY, Peter 	Forward	24+3	11	0	2+3	2	0	3	0	0
-										
-BURROWS, David 	Full Back	34+1	0	0	5	0	0	4	0	0
-										
-CARTER, Jimmy 	Winger	2+3	0	0	2	0	0	0	0	0
-										
-COUSINS, Tony 	Forward	0	0	0	0	0	0	0	0	0
-										
-GILLESPIE, Gary 	Central Defender	30	1	0	2	0	0	3	1	0
-										
-GROBBELAAR, Bruce 	Goalkeeper	31	0	0	7	0	0	4	0	0
-										
-HOLLIS, Steve 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HOOPER, Mike 	Goalkeeper	7	0	0	0	0	0	0	0	0
-										
-HOUGHTON, Ray 	Midfielder	31+1	7	0	3	1	0	4	2	0
-										
-HOWARD, Andy 	Forward	0	0	0	0	0	0	0	0	0
-										
-HYSEN, Glenn 	Central Defender	32	0	0	5	0	0	3	0	0
-										
-MARSH, Mike 	Midfielder	1+1	0	0	0	0	0	1	0	0
-										
-MCMAHON, Steve 	Midfielder	22	0	0	4	2	0	3	1	0
-										
-MCMANAMAN, Steve 	Midfielder	0+2	0	0	0+1	0	0	0	0	0
-										
-MOLBY, Jan 	Midfielder	22+3	9	8	5+2	0	0	1+1	0	0
-										
-MUGGLETON, Carl 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-NICOL, Steve 	Midfielder	35	3	0	7	0	0	2	0	0
-										
-PAYNE, Russell 	Winger	0	0	0	0	0	0	0	0	0
-										
-ROBINSON, Jamie 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-ROSENTHAL, Ronny 	Forward	4+12	5	0	3	0	0	0+4	0	0
-										
-RUSH, Ian 	Forward	37	16	0	7	5	0	4	5	0
-										
-SPEEDIE, David 	Forward	8+4	6	0	1+1	0	0	0	0	0
-										
-STAUNTON, Steve 	Central Defender	20+4	0	0	7	1	0	2	1	0
-										
-VENISON, Barry 	Full Back	6	0	0	4+1	0	0	3	0	0
-										
-WHELAN, Ronnie 	Midfielder	14	1	0	1	0	0	2	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABLETT, Gary ",Central Defender,23,0,0,5+1,0,0,2,0,0
+,"BARNES, John ",Winger,35,16,1,7,1,0,3,1,1
+,"BEARDSLEY, Peter ",Forward,24+3,11,0,2+3,2,0,3,0,0
+,"BURROWS, David ",Full Back,34+1,0,0,5,0,0,4,0,0
+,"CARTER, Jimmy ",Winger,2+3,0,0,2,0,0,0,0,0
+,"COUSINS, Tony ",Forward,0,0,0,0,0,0,0,0,0
+,"GILLESPIE, Gary ",Central Defender,30,1,0,2,0,0,3,1,0
+,"GROBBELAAR, Bruce ",Goalkeeper,31,0,0,7,0,0,4,0,0
+,"HOLLIS, Steve ",Full Back,0,0,0,0,0,0,0,0,0
+,"HOOPER, Mike ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"HOUGHTON, Ray ",Midfielder,31+1,7,0,3,1,0,4,2,0
+,"HOWARD, Andy ",Forward,0,0,0,0,0,0,0,0,0
+,"HYSEN, Glenn ",Central Defender,32,0,0,5,0,0,3,0,0
+,"MARSH, Mike ",Midfielder,1+1,0,0,0,0,0,1,0,0
+,"MCMAHON, Steve ",Midfielder,22,0,0,4,2,0,3,1,0
+,"MCMANAMAN, Steve ",Midfielder,0+2,0,0,0+1,0,0,0,0,0
+,"MOLBY, Jan ",Midfielder,22+3,9,8,5+2,0,0,1+1,0,0
+,"MUGGLETON, Carl ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"NICOL, Steve ",Midfielder,35,3,0,7,0,0,2,0,0
+,"PAYNE, Russell ",Winger,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Jamie ",Central Defender,0,0,0,0,0,0,0,0,0
+,"ROSENTHAL, Ronny ",Forward,4+12,5,0,3,0,0,0+4,0,0
+,"RUSH, Ian ",Forward,37,16,0,7,5,0,4,5,0
+,"SPEEDIE, David ",Forward,8+4,6,0,1+1,0,0,0,0,0
+,"STAUNTON, Steve ",Central Defender,20+4,0,0,7,1,0,2,1,0
+,"VENISON, Barry ",Full Back,6,0,0,4+1,0,0,3,0,0
+,"WHELAN, Ronnie ",Midfielder,14,1,0,1,0,0,2,0,0

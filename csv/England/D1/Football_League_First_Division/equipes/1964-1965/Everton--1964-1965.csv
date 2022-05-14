@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROWN, Sandy 	Full Back	28	5	1	1	0	0	4	0	0
-										
-CLARKE, Ambrose 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-GABRIEL, Jimmy 	Midfielder	37	4	0	4	0	0	5	0	0
-										
-GLOVER, Gerry 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-HARRIS, Brian 	Central Defender	31	3	0	1	0	0	4	0	0
-										
-HARVEY, Colin 	Midfielder	32	2	0	4	1	0	4	2	0
-										
-HUSBAND, Jimmy 	Winger	1	0	0	0	0	0	0	0	0
-										
-LABONE, Brian 	Central Defender	42	0	0	4	0	0	6	0	0
-										
-MCLOUGHLIN, Tony 	Winger	0	0	0	0	0	0	0	0	0
-										
-MORRISSEY, Johnny 	Winger	25	5	0	4	0	0	3	1	0
-										
-PARKER, Alex 	Full Back	12	0	0	0	0	0	0	0	0
-										
-PICKERING, Fred 	Forward	41	27	0	4	4	1	6	6	0
-										
-RANKIN, Andy 	Goalkeeper	22	0	0	0	0	0	4	0	0
-										
-REES, Barrie 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-SCOTT, Alex 	Winger	36	6	0	4	0	0	4	1	0
-										
-SHAW, Stuart 	Winger	1	0	0	0	0	0	0	0	0
-										
-STEVENS, Dennis 	Forward	18	0	0	2	0	0	6	0	0
-										
-TEMPLE, Derek 	Winger	39	11	0	4	1	0	6	2	0
-										
-VERNON, Roy 	Forward	16	3	0	0	0	0	4	1	0
-										
-WEST, Gordon 	Goalkeeper	20	0	0	4	0	0	2	0	0
-										
-WHITEHEAD, Norman 	Winger	0	0	0	0	0	0	0	0	0
-										
-WILSON, Ray 	Full Back	17	0	0	4	0	0	2	0	0
-										
-WRIGHT, Tommy 	Full Back	22	0	0	3	0	0	3	0	0
-										
-YOUNG, Alex 	Forward	20	3	0	1	0	0	3	3	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROWN, Sandy ",Full Back,28,5,1,1,0,0,4,0,0
+,"CLARKE, Ambrose ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GABRIEL, Jimmy ",Midfielder,37,4,0,4,0,0,5,0,0
+,"GLOVER, Gerry ",Midfielder,1,0,0,0,0,0,0,0,0
+,"HARRIS, Brian ",Central Defender,31,3,0,1,0,0,4,0,0
+,"HARVEY, Colin ",Midfielder,32,2,0,4,1,0,4,2,0
+,"HUSBAND, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"LABONE, Brian ",Central Defender,42,0,0,4,0,0,6,0,0
+,"MCLOUGHLIN, Tony ",Winger,0,0,0,0,0,0,0,0,0
+,"MORRISSEY, Johnny ",Winger,25,5,0,4,0,0,3,1,0
+,"PARKER, Alex ",Full Back,12,0,0,0,0,0,0,0,0
+,"PICKERING, Fred ",Forward,41,27,0,4,4,1,6,6,0
+,"RANKIN, Andy ",Goalkeeper,22,0,0,0,0,0,4,0,0
+,"REES, Barrie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SCOTT, Alex ",Winger,36,6,0,4,0,0,4,1,0
+,"SHAW, Stuart ",Winger,1,0,0,0,0,0,0,0,0
+,"STEVENS, Dennis ",Forward,18,0,0,2,0,0,6,0,0
+,"TEMPLE, Derek ",Winger,39,11,0,4,1,0,6,2,0
+,"VERNON, Roy ",Forward,16,3,0,0,0,0,4,1,0
+,"WEST, Gordon ",Goalkeeper,20,0,0,4,0,0,2,0,0
+,"WHITEHEAD, Norman ",Winger,0,0,0,0,0,0,0,0,0
+,"WILSON, Ray ",Full Back,17,0,0,4,0,0,2,0,0
+,"WRIGHT, Tommy ",Full Back,22,0,0,3,0,0,3,0,0
+,"YOUNG, Alex ",Forward,20,3,0,1,0,0,3,3,0

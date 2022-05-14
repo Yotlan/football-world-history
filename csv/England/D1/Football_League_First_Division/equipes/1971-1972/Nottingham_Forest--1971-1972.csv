@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1971/72
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRON, Jim 	Goalkeeper	37	0	0	1	0	0	2	0	0
-										
-BUCKLEY, Alan 	Forward	9+1	0	0	0	0	0	0	0	0
-										
-CHAPMAN, Bob 	Central Defender	34	0	0	1	0	0	3	0	0
-										
-CORMACK, Peter 	Midfielder	32	7	0	1	0	0	1	1	0
-										
-COTTAM, John 	Central Defender	17	0	0	1	0	0	0	0	0
-										
-DULSON, Garry 	Full Back	0	0	0	0	0	0	0	0	0
-										
-FRASER, Doug 	Central Defender	36	0	0	1	0	0	2	1	0
-										
-GEMMELL, Tommy 	Full Back	18	5	1	1	0	0	0	0	0
-										
-GRAY, Bobby 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-HINDLEY, Peter 	Full Back	40	0	0	1	0	0	3	0	0
-										
-HULME, Eric 	Goalkeeper	5	0	0	0	0	0	1	0	0
-										
-JACKSON, Tommy 	Midfielder	12+3	1	0	0	0	0	3	0	0
-										
-LYONS, Barry 	Winger	19+1	1	0	1	0	0	2	0	0
-										
-MARTIN, Neil 	Forward	23+2	5	0	0	0	0	3	1	0
-										
-MCCAFFREY, Jim 	Winger	0	0	0	0	0	0	0+1	0	0
-										
-MCINTOSH, Jim 	Winger	11+3	1	0	1	0	0	0	0	0
-										
-MCKENZIE, Duncan 	Forward	31+2	7	0	0	0	0	3	3	0
-										
-O'KANE, Liam 	Central Defender	22	0	0	0	0	0	3	0	0
-										
-O'NEILL, Martin 	Midfielder	10+7	2	0	0	0	0	0	0	0
-										
-PEACOCK, Dennis 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-REES, Ronnie 	Winger	7	0	0	0	0	0	0+1	0	0
-										
-RICHARDSON, Paul 	Midfielder	32+2	5	0	1	1	0	1	0	0
-										
-ROBERTSON, John 	Winger	12+1	0	0	0	0	0	0	0	0
-										
-SERELLA, Dave 	Central Defender	8	0	0	0	0	0	0	0	0
-										
-STOREY-MOORE, Ian 	Winger	30	13	3	1	0	0	3	1	0
-										
-WHITE, Tom 	Midfielder	0	0	0	0	0	0	0+1	0	0
-										
-WINFIELD, John 	Full Back	17	0	0	0	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRON, Jim ",Goalkeeper,37,0,0,1,0,0,2,0,0
+,"BUCKLEY, Alan ",Forward,9+1,0,0,0,0,0,0,0,0
+,"CHAPMAN, Bob ",Central Defender,34,0,0,1,0,0,3,0,0
+,"CORMACK, Peter ",Midfielder,32,7,0,1,0,0,1,1,0
+,"COTTAM, John ",Central Defender,17,0,0,1,0,0,0,0,0
+,"DULSON, Garry ",Full Back,0,0,0,0,0,0,0,0,0
+,"FRASER, Doug ",Central Defender,36,0,0,1,0,0,2,1,0
+,"GEMMELL, Tommy ",Full Back,18,5,1,1,0,0,0,0,0
+,"GRAY, Bobby ",Midfielder,0,0,0,0,0,0,0,0,0
+,"HINDLEY, Peter ",Full Back,40,0,0,1,0,0,3,0,0
+,"HULME, Eric ",Goalkeeper,5,0,0,0,0,0,1,0,0
+,"JACKSON, Tommy ",Midfielder,12+3,1,0,0,0,0,3,0,0
+,"LYONS, Barry ",Winger,19+1,1,0,1,0,0,2,0,0
+,"MARTIN, Neil ",Forward,23+2,5,0,0,0,0,3,1,0
+,"MCCAFFREY, Jim ",Winger,0,0,0,0,0,0,0+1,0,0
+,"MCINTOSH, Jim ",Winger,11+3,1,0,1,0,0,0,0,0
+,"MCKENZIE, Duncan ",Forward,31+2,7,0,0,0,0,3,3,0
+,"O'KANE, Liam ",Central Defender,22,0,0,0,0,0,3,0,0
+,"O'NEILL, Martin ",Midfielder,10+7,2,0,0,0,0,0,0,0
+,"PEACOCK, Dennis ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"REES, Ronnie ",Winger,7,0,0,0,0,0,0+1,0,0
+,"RICHARDSON, Paul ",Midfielder,32+2,5,0,1,1,0,1,0,0
+,"ROBERTSON, John ",Winger,12+1,0,0,0,0,0,0,0,0
+,"SERELLA, Dave ",Central Defender,8,0,0,0,0,0,0,0,0
+,"STOREY-MOORE, Ian ",Winger,30,13,3,1,0,0,3,1,0
+,"WHITE, Tom ",Midfielder,0,0,0,0,0,0,0+1,0,0
+,"WINFIELD, John ",Full Back,17,0,0,0,0,0,3,0,0

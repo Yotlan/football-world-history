@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1955/56
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARNES, Walley 	Full Back	8	0	0	0	0	0	0	0	0
-										
-BATSFORD, Allen 		0	0	0	0	0	0	0	0	0
-										
-BLOOMFIELD, Jimmy 	Midfielder	32	3	0	5	1	0	0	0	0
-										
-BOWEN, David 	Wing Half	22	0	0	2	0	0	0	0	0
-										
-CHARLTON, Stan 	Full Back	19	0	0	5	2	1	0	0	0
-										
-CLAPTON, Danny 	Winger	39	2	0	4	0	0	0	0	0
-										
-DICKSON, Bill 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-DODGIN, Bill 	Central Defender	15	0	0	3	0	0	0	0	0
-										
-EVANS, Dennis 	Full Back	42	0	0	5	0	0	0	0	0
-										
-FORBES, Alex 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-FOTHERINGHAM, Jim 	Central Defender	25	0	0	2	0	0	0	0	0
-										
-GORING, Peter 	Wing Half	37	0	0	5	0	0	0	0	0
-										
-GROVES, Vic 	Wing Half	15	8	0	5	4	0	0	0	0
-										
-HAVERTY, Joe 	Winger	8	2	0	0	0	0	0	0	0
-										
-HERD, David 	Forward	5	2	0	0	0	0	0	0	0
-										
-HOLTON, Cliff 	Forward	31	8	0	3	0	0	0	0	0
-										
-KELSEY, Jack 	Goalkeeper	32	0	0	4	0	0	0	0	0
-										
-LAWTON, Tommy 	Centre Forward	8	6	0	0	0	0	0	0	0
-										
-LISHMAN, Doug 	Inside Forward	15	5	0	0	0	0	0	0	0
-										
-NICHOLAS, Ken 	Full Back	0	0	0	0	0	0	0	0	0
-										
-NUTT, Gordon 	Winger	8	1	0	1	0	0	0	0	0
-										
-ROPER, Don 	Winger	16	4	0	1	0	0	0	0	0
-										
-SULLIVAN, Con 	Goalkeeper	10	0	0	1	0	0	0	0	0
-										
-SWALLOW, Ray 	Winger	1	1	0	0	0	0	0	0	0
-										
-TAPSCOTT, Derek 	Inside Forward	31	17	0	5	4	0	0	0	0
-										
-TIDDY, Mike 	Winger	21	0	0	4	0	0	0	0	0
-										
-WALSH, Brian 	Winger	1	0	0	0	0	0	0	0	0
-										
-WILLS, Len 	Full Back	15	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARNES, Walley ",Full Back,8,0,0,0,0,0,0,0,0
+,"BATSFORD, Allen ",,0,0,0,0,0,0,0,0,0
+,"BLOOMFIELD, Jimmy ",Midfielder,32,3,0,5,1,0,0,0,0
+,"BOWEN, David ",Wing Half,22,0,0,2,0,0,0,0,0
+,"CHARLTON, Stan ",Full Back,19,0,0,5,2,1,0,0,0
+,"CLAPTON, Danny ",Winger,39,2,0,4,0,0,0,0,0
+,"DICKSON, Bill ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DODGIN, Bill ",Central Defender,15,0,0,3,0,0,0,0,0
+,"EVANS, Dennis ",Full Back,42,0,0,5,0,0,0,0,0
+,"FORBES, Alex ",Wing Half,5,0,0,0,0,0,0,0,0
+,"FOTHERINGHAM, Jim ",Central Defender,25,0,0,2,0,0,0,0,0
+,"GORING, Peter ",Wing Half,37,0,0,5,0,0,0,0,0
+,"GROVES, Vic ",Wing Half,15,8,0,5,4,0,0,0,0
+,"HAVERTY, Joe ",Winger,8,2,0,0,0,0,0,0,0
+,"HERD, David ",Forward,5,2,0,0,0,0,0,0,0
+,"HOLTON, Cliff ",Forward,31,8,0,3,0,0,0,0,0
+,"KELSEY, Jack ",Goalkeeper,32,0,0,4,0,0,0,0,0
+,"LAWTON, Tommy ",Centre Forward,8,6,0,0,0,0,0,0,0
+,"LISHMAN, Doug ",Inside Forward,15,5,0,0,0,0,0,0,0
+,"NICHOLAS, Ken ",Full Back,0,0,0,0,0,0,0,0,0
+,"NUTT, Gordon ",Winger,8,1,0,1,0,0,0,0,0
+,"ROPER, Don ",Winger,16,4,0,1,0,0,0,0,0
+,"SULLIVAN, Con ",Goalkeeper,10,0,0,1,0,0,0,0,0
+,"SWALLOW, Ray ",Winger,1,1,0,0,0,0,0,0,0
+,"TAPSCOTT, Derek ",Inside Forward,31,17,0,5,4,0,0,0,0
+,"TIDDY, Mike ",Winger,21,0,0,4,0,0,0,0,0
+,"WALSH, Brian ",Winger,1,0,0,0,0,0,0,0,0
+,"WILLS, Len ",Full Back,15,0,0,0,0,0,0,0,0

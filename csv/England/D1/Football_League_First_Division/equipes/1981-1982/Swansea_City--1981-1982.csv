@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1981/82
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATTLEY, Brian 	Full Back	2+2	0	0	0	0	0	2+1	0	0
-										
-CHARLES, Jeremy 	Forward	9+4	2	0	0	0	0	2	1	0
-										
-CURTIS, Alan 	Forward	40	10	0	1	0	0	4	1	0
-										
-DAVIES, Dai 	Goalkeeper	41	0	0	1	0	0	4	0	0
-										
-EVANS, Wyndham 	Full Back	1	0	0	0	0	0	0+2	0	0
-										
-GALE, Darren 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-GILES, David 	Winger	0+2	0	0	0	0	0	0+2	0	0
-										
-HADZIABDIC, Dzemal 	Full Back	25+1	0	0	0	0	0	2	0	0
-										
-IRWIN, Colin 	Central Defender	37	0	0	1	0	0	2	1	0
-										
-JAMES, Leighton 	Winger	34+4	9	3	1	0	0	4	1	1
-										
-JAMES, Robbie 	Midfielder	42	14	2	1	0	0	3	0	0
-										
-KENNEDY, Ray 	Midfielder	18	2	0	0	0	0	0	0	0
-										
-LATCHFORD, Bob 	Forward	31	12	0	1	0	0	4	0	0
-										
-LEWIS, Dudley 	Central Defender	1	0	0	0	0	0	1	0	0
-										
-LOVERIDGE, Jimmy 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-MAHONEY, John 	Midfielder	25	0	0	1	0	0	2	0	0
-										
-MARUSTIK, Chris 	Midfielder	19+3	1	0	1	0	0	2	0	0
-										
-RAJKOVIC, Ante 	Central Defender	40	1	0	1	0	0	3	0	0
-										
-RICHARDS, Gary 	Full Back	1	0	0	0	0	0	0	0	0
-										
-ROBINSON, Neil 	Full Back	27+2	1	0	0	0	0	4	0	0
-										
-SANDER, Chris 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-STANLEY, Garry 	Midfielder	22+7	3	0	1	0	0	2	0	0
-										
-STEVENSON, Nigel 	Central Defender	20	0	0	1	0	0	2+1	0	0
-										
-THOMPSON, Max 	Central Defender	22+1	1	0	0+1	0	0	1	0	0
-										
-WALSH, Ian 	Forward	3+2	2	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATTLEY, Brian ",Full Back,2+2,0,0,0,0,0,2+1,0,0
+,"CHARLES, Jeremy ",Forward,9+4,2,0,0,0,0,2,1,0
+,"CURTIS, Alan ",Forward,40,10,0,1,0,0,4,1,0
+,"DAVIES, Dai ",Goalkeeper,41,0,0,1,0,0,4,0,0
+,"EVANS, Wyndham ",Full Back,1,0,0,0,0,0,0+2,0,0
+,"GALE, Darren ",Forward,0+1,0,0,0,0,0,0,0,0
+,"GILES, David ",Winger,0+2,0,0,0,0,0,0+2,0,0
+,"HADZIABDIC, Dzemal ",Full Back,25+1,0,0,0,0,0,2,0,0
+,"IRWIN, Colin ",Central Defender,37,0,0,1,0,0,2,1,0
+,"JAMES, Leighton ",Winger,34+4,9,3,1,0,0,4,1,1
+,"JAMES, Robbie ",Midfielder,42,14,2,1,0,0,3,0,0
+,"KENNEDY, Ray ",Midfielder,18,2,0,0,0,0,0,0,0
+,"LATCHFORD, Bob ",Forward,31,12,0,1,0,0,4,0,0
+,"LEWIS, Dudley ",Central Defender,1,0,0,0,0,0,1,0,0
+,"LOVERIDGE, Jimmy ",Midfielder,1,0,0,0,0,0,0,0,0
+,"MAHONEY, John ",Midfielder,25,0,0,1,0,0,2,0,0
+,"MARUSTIK, Chris ",Midfielder,19+3,1,0,1,0,0,2,0,0
+,"RAJKOVIC, Ante ",Central Defender,40,1,0,1,0,0,3,0,0
+,"RICHARDS, Gary ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Neil ",Full Back,27+2,1,0,0,0,0,4,0,0
+,"SANDER, Chris ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"STANLEY, Garry ",Midfielder,22+7,3,0,1,0,0,2,0,0
+,"STEVENSON, Nigel ",Central Defender,20,0,0,1,0,0,2+1,0,0
+,"THOMPSON, Max ",Central Defender,22+1,1,0,0+1,0,0,1,0,0
+,"WALSH, Ian ",Forward,3+2,2,0,0,0,0,0,0,0

@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1961/62
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ACKERLEY, Ernie 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-BRADLEY, Warren 	Winger	6	0	0	1	0	0	0	0	0
-										
-BRENNAN, Shay 	Full Back	41	2	1	6	0	0	0	0	0
-										
-BRIGGS, Ronnie 	Goalkeeper	8	0	0	0	0	0	0	0	0
-										
-CANTWELL, Noel 	Full Back	17	2	0	2	0	0	0	0	0
-										
-CHARLTON, Bobby 	Midfielder	37	8	0	6	2	0	0	0	0
-										
-CHISNALL, Phil 	Midfielder	9	1	0	4	0	0	0	0	0
-										
-DAWSON, Alex 	Forward	4	2	0	0	0	0	0	0	0
-										
-DUNNE, Tony 	Full Back	28	0	0	7	0	0	0	0	0
-										
-FOULKES, Bill 	Central Defender	40	0	0	7	0	0	0	0	0
-										
-GASKELL, David 	Goalkeeper	21	0	0	7	0	0	0	0	0
-										
-GILES, Johnny 	Midfielder	30	2	0	7	1	0	0	0	0
-										
-GRAYSON, Barry 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-GREGG, Harry 	Goalkeeper	13	0	0	0	0	0	0	0	0
-										
-HAYDOCK, Frank 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-HERD, David 	Forward	27	14	0	5	3	0	0	0	0
-										
-JOHNSTON, Willie 	Winger	0	0	0	0	0	0	0	0	0
-										
-LATHAM, David 	Winger	0	0	0	0	0	0	0	0	0
-										
-LAWTON, Nobby 	Midfielder	20	6	0	7	0	0	0	0	0
-										
-MCMILLAN, Sammy 	Forward	11	6	0	0	0	0	0	0	0
-										
-MOIR, Ian 	Winger	9	0	0	0	0	0	0	0	0
-										
-NICHOLSON, Jimmy 	Midfielder	17	0	0	4	1	0	0	0	0
-										
-PEARSON, Mark 	Midfielder	17	1	0	0	0	0	0	0	0
-										
-QUIXALL, Albert 	Inside Forward	21	10	3	3	0	0	0	0	0
-										
-SETTERS, Maurice 	Central Defender	38	3	0	7	1	0	0	0	0
-										
-SMITH, Bobby 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-STILES, Nobby 	Midfielder	34	7	0	4	0	0	0	0	0
-										
-VIOLLET, Dennis 	Inside Forward	13	7	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ACKERLEY, Ernie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BRADLEY, Warren ",Winger,6,0,0,1,0,0,0,0,0
+,"BRENNAN, Shay ",Full Back,41,2,1,6,0,0,0,0,0
+,"BRIGGS, Ronnie ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"CANTWELL, Noel ",Full Back,17,2,0,2,0,0,0,0,0
+,"CHARLTON, Bobby ",Midfielder,37,8,0,6,2,0,0,0,0
+,"CHISNALL, Phil ",Midfielder,9,1,0,4,0,0,0,0,0
+,"DAWSON, Alex ",Forward,4,2,0,0,0,0,0,0,0
+,"DUNNE, Tony ",Full Back,28,0,0,7,0,0,0,0,0
+,"FOULKES, Bill ",Central Defender,40,0,0,7,0,0,0,0,0
+,"GASKELL, David ",Goalkeeper,21,0,0,7,0,0,0,0,0
+,"GILES, Johnny ",Midfielder,30,2,0,7,1,0,0,0,0
+,"GRAYSON, Barry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GREGG, Harry ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"HAYDOCK, Frank ",Central Defender,1,0,0,0,0,0,0,0,0
+,"HERD, David ",Forward,27,14,0,5,3,0,0,0,0
+,"JOHNSTON, Willie ",Winger,0,0,0,0,0,0,0,0,0
+,"LATHAM, David ",Winger,0,0,0,0,0,0,0,0,0
+,"LAWTON, Nobby ",Midfielder,20,6,0,7,0,0,0,0,0
+,"MCMILLAN, Sammy ",Forward,11,6,0,0,0,0,0,0,0
+,"MOIR, Ian ",Winger,9,0,0,0,0,0,0,0,0
+,"NICHOLSON, Jimmy ",Midfielder,17,0,0,4,1,0,0,0,0
+,"PEARSON, Mark ",Midfielder,17,1,0,0,0,0,0,0,0
+,"QUIXALL, Albert ",Inside Forward,21,10,3,3,0,0,0,0,0
+,"SETTERS, Maurice ",Central Defender,38,3,0,7,1,0,0,0,0
+,"SMITH, Bobby ",Midfielder,0,0,0,0,0,0,0,0,0
+,"STILES, Nobby ",Midfielder,34,7,0,4,0,0,0,0,0
+,"VIOLLET, Dennis ",Inside Forward,13,7,0,0,0,0,0,0,0

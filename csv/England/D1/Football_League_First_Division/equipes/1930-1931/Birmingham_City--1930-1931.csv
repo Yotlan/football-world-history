@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1930/31
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned 	Full Back	33	0	0	7	0	0	0	0	0
-										
-BENNETT, Jack 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BLYTH, Billy 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-BOND, Benny 	Winger	3	0	0	0	0	0	0	0	0
-										
-BOOTON, Harold 	Full Back	10	0	0	0	0	0	0	0	0
-										
-BRADFORD, Joe 	Centre Forward	22	15	0	7	8	0	0	0	0
-										
-BRIGGS, George 	Winger	32	14	0	6	0	0	0	0	0
-										
-CALLADINE, Charlie 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-CRINGAN, Jimmy 	Central Defender	34	1	0	7	0	0	0	0	0
-										
-CROSBIE, Johnny 	Inside Forward	31	2	0	7	0	0	0	0	0
-										
-CURTIS, Ernie 	Inside Forward	40	8	0	7	6	0	0	0	0
-										
-DRANSFIELD, Ted 	Full Back	0	0	0	0	0	0	0	0	0
-										
-FILLINGHAM, Tom 	Central Defender	21	2	0	0	0	0	0	0	0
-										
-FIRTH, Jack 	Wing Half	25	4	0	2	1	0	0	0	0
-										
-GREGG, Bob 	Inside Forward	15	3	0	4	0	0	0	0	0
-										
-HAYWOOD, George 	Centre Forward	4	0	0	0	0	0	0	0	0
-										
-HIBBS, Harry 	Goalkeeper	36	0	0	7	0	0	0	0	0
-										
-HICKS, George 	Winger	7	1	0	0	0	0	0	0	0
-										
-HORSMAN, Bill 	Winger	25	1	0	2	0	0	0	0	0
-										
-LANE, Harry 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-LESLIE, Alec 	Wing Half	24	0	0	7	0	0	0	0	0
-										
-LIDDELL, George 	Wing Half	29	0	0	7	0	0	0	0	0
-										
-MASON, George 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-MORFITT, Jack 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-MORRALL, George 	Central Defender	31	2	0	7	0	0	0	0	0
-										
-RANDLE, Harry 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-RANDLE, Jackie 	Full Back	13	0	0	0	0	0	0	0	0
-										
-ROBINSON, Tommy 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-STOKER, Lew 	Wing Half	7	0	0	0	0	0	0	0	0
-										
-TEWKESBURY, Ken 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-THOROGOOD, Jack 	Winger	7	0	0	0	0	0	0	0	0
-										
-TREMELLING, Dan 	Goalkeeper	5	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,33,0,0,7,0,0,0,0,0
+,"BENNETT, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BOND, Benny ",Winger,3,0,0,0,0,0,0,0,0
+,"BOOTON, Harold ",Full Back,10,0,0,0,0,0,0,0,0
+,"BRADFORD, Joe ",Centre Forward,22,15,0,7,8,0,0,0,0
+,"BRIGGS, George ",Winger,32,14,0,6,0,0,0,0,0
+,"CALLADINE, Charlie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CRINGAN, Jimmy ",Central Defender,34,1,0,7,0,0,0,0,0
+,"CROSBIE, Johnny ",Inside Forward,31,2,0,7,0,0,0,0,0
+,"CURTIS, Ernie ",Inside Forward,40,8,0,7,6,0,0,0,0
+,"DRANSFIELD, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"FILLINGHAM, Tom ",Central Defender,21,2,0,0,0,0,0,0,0
+,"FIRTH, Jack ",Wing Half,25,4,0,2,1,0,0,0,0
+,"GREGG, Bob ",Inside Forward,15,3,0,4,0,0,0,0,0
+,"HAYWOOD, George ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"HIBBS, Harry ",Goalkeeper,36,0,0,7,0,0,0,0,0
+,"HICKS, George ",Winger,7,1,0,0,0,0,0,0,0
+,"HORSMAN, Bill ",Winger,25,1,0,2,0,0,0,0,0
+,"LANE, Harry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"LESLIE, Alec ",Wing Half,24,0,0,7,0,0,0,0,0
+,"LIDDELL, George ",Wing Half,29,0,0,7,0,0,0,0,0
+,"MASON, George ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MORFITT, Jack ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"MORRALL, George ",Central Defender,31,2,0,7,0,0,0,0,0
+,"RANDLE, Harry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"RANDLE, Jackie ",Full Back,13,0,0,0,0,0,0,0,0
+,"ROBINSON, Tommy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"STOKER, Lew ",Wing Half,7,0,0,0,0,0,0,0,0
+,"TEWKESBURY, Ken ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"THOROGOOD, Jack ",Winger,7,0,0,0,0,0,0,0,0
+,"TREMELLING, Dan ",Goalkeeper,5,0,0,0,0,0,0,0,0

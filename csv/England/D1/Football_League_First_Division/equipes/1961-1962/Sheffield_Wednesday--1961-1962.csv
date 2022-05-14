@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1961/62
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CRAIG, Bobby 	Inside Forward	23	4	0	4	1	0	4	0	0
-										
-DOBSON, Colin 	Winger	28	11	0	2	0	0	3	1	0
-										
-ELLIS, Keith 	Centre Forward	21	9	0	4	1	0	2	1	0
-										
-FANTHAM, John 	Forward	42	19	0	4	0	0	5	5	0
-										
-FINNEY, Alan 	Winger	41	6	0	4	1	0	5	1	0
-										
-GRIFFIN, Billy 	Midfielder	10	6	0	0	0	0	1	1	0
-										
-HARDY, Robin 	Central Defender	16	0	0	0	0	0	2	0	0
-										
-HENNIGAN, Mike 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-HOLLIDAY, Eddie 	Winger	11	1	0	0	0	0	1	0	0
-										
-JOHNSON, Peter 	Full Back	40	0	0	4	0	0	6	0	0
-										
-KAY, Tony 	Wing Half	42	2	0	4	0	0	6	0	0
-										
-MACLAREN, Roy 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-MCANEARNEY, Tom 	Midfielder	26	3	2	4	0	0	4	1	1
-										
-MEGSON, Don 	Full Back	42	2	0	4	0	0	6	0	0
-										
-O'DONNELL, Ralph 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-QUINN, Johnny 	Midfielder	3	1	0	0	0	0	0	0	0
-										
-RADFORD, Ronnie 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-SPRINGETT, Ron 	Goalkeeper	39	0	0	4	0	0	6	0	0
-										
-SWAN, Peter 	Central Defender	40	0	0	4	0	0	6	0	0
-										
-THOMPSON, Peter 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-WALKER, Mickey 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-WILKINSON, Derek 	Winger	20	5	0	2	0	0	5	0	0
-										
-YOUNG, Gerry 	Central Defender	11	3	0	0	0	0	4	4	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CRAIG, Bobby ",Inside Forward,23,4,0,4,1,0,4,0,0
+,"DOBSON, Colin ",Winger,28,11,0,2,0,0,3,1,0
+,"ELLIS, Keith ",Centre Forward,21,9,0,4,1,0,2,1,0
+,"FANTHAM, John ",Forward,42,19,0,4,0,0,5,5,0
+,"FINNEY, Alan ",Winger,41,6,0,4,1,0,5,1,0
+,"GRIFFIN, Billy ",Midfielder,10,6,0,0,0,0,1,1,0
+,"HARDY, Robin ",Central Defender,16,0,0,0,0,0,2,0,0
+,"HENNIGAN, Mike ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HOLLIDAY, Eddie ",Winger,11,1,0,0,0,0,1,0,0
+,"JOHNSON, Peter ",Full Back,40,0,0,4,0,0,6,0,0
+,"KAY, Tony ",Wing Half,42,2,0,4,0,0,6,0,0
+,"MACLAREN, Roy ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MCANEARNEY, Tom ",Midfielder,26,3,2,4,0,0,4,1,1
+,"MEGSON, Don ",Full Back,42,2,0,4,0,0,6,0,0
+,"O'DONNELL, Ralph ",Wing Half,4,0,0,0,0,0,0,0,0
+,"QUINN, Johnny ",Midfielder,3,1,0,0,0,0,0,0,0
+,"RADFORD, Ronnie ",Midfielder,0,0,0,0,0,0,0,0,0
+,"SPRINGETT, Ron ",Goalkeeper,39,0,0,4,0,0,6,0,0
+,"SWAN, Peter ",Central Defender,40,0,0,4,0,0,6,0,0
+,"THOMPSON, Peter ",Midfielder,0,0,0,0,0,0,0,0,0
+,"WALKER, Mickey ",Midfielder,0,0,0,0,0,0,0,0,0
+,"WILKINSON, Derek ",Winger,20,5,0,2,0,0,5,0,0
+,"YOUNG, Gerry ",Central Defender,11,3,0,0,0,0,4,4,0

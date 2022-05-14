@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1961/62
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOND, John 	Full Back	37	2	2	1	0	0	2	0	0
-										
-BOVINGTON, Eddie 	Midfielder	7	0	0	0	0	0	0	0	0
-										
-BOYCE, Ronnie 	Midfielder	4	1	0	0	0	0	0	0	0
-										
-BROWN, Ken 	Central Defender	38	0	0	1	0	0	2	0	0
-										
-BURKETT, Jack 	Full Back	1	0	0	0	0	0	0	0	0
-										
-BYRNE, Johnny 	Forward	11	1	0	0	0	0	0	0	0
-										
-CRAWFORD, Ian 	Full Back	19	5	0	1	0	0	1	2	0
-										
-DICK, John 	Inside Forward	35	23	0	1	0	0	2	0	0
-										
-DICKIE, Alan 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HURST, Geoff 	Forward	24	1	0	1	0	0	2	0	0
-										
-KIRKUP, Joe 	Full Back	41	1	0	1	0	0	2	0	0
-										
-LANSDOWNE, Bill 	Wing Half	4	1	0	0	0	0	0	0	0
-										
-LESLIE, Lawrie 	Goalkeeper	37	0	0	1	0	0	1	0	0
-										
-LYALL, John 	Full Back	4	0	0	0	0	0	0	0	0
-										
-MALCOLM, Andy 	Wing Half	8	0	0	0	0	0	0	0	0
-										
-MOORE, Bobby 	Central Defender	41	3	0	1	0	0	2	0	0
-										
-MUSGROVE, Malcolm 	Winger	36	13	0	1	0	0	1	1	0
-										
-PETERS, Martin 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-RHODES, Brian 	Goalkeeper	3	0	0	0	0	0	1	0	0
-										
-SCOTT, Tony 	Winger	22	4	0	0	0	0	2	0	0
-										
-SEALEY, Alan 	Forward	32	11	0	0	0	0	2	0	0
-										
-TINDALL, Ron 	Forward	13	3	0	1	0	0	0	0	0
-										
-WOODLEY, Derek 	Winger	4	0	0	0	0	0	0	0	0
-										
-WOOSNAM, Phil 	Inside Forward	34	6	0	1	0	0	2	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOND, John ",Full Back,37,2,2,1,0,0,2,0,0
+,"BOVINGTON, Eddie ",Midfielder,7,0,0,0,0,0,0,0,0
+,"BOYCE, Ronnie ",Midfielder,4,1,0,0,0,0,0,0,0
+,"BROWN, Ken ",Central Defender,38,0,0,1,0,0,2,0,0
+,"BURKETT, Jack ",Full Back,1,0,0,0,0,0,0,0,0
+,"BYRNE, Johnny ",Forward,11,1,0,0,0,0,0,0,0
+,"CRAWFORD, Ian ",Full Back,19,5,0,1,0,0,1,2,0
+,"DICK, John ",Inside Forward,35,23,0,1,0,0,2,0,0
+,"DICKIE, Alan ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HURST, Geoff ",Forward,24,1,0,1,0,0,2,0,0
+,"KIRKUP, Joe ",Full Back,41,1,0,1,0,0,2,0,0
+,"LANSDOWNE, Bill ",Wing Half,4,1,0,0,0,0,0,0,0
+,"LESLIE, Lawrie ",Goalkeeper,37,0,0,1,0,0,1,0,0
+,"LYALL, John ",Full Back,4,0,0,0,0,0,0,0,0
+,"MALCOLM, Andy ",Wing Half,8,0,0,0,0,0,0,0,0
+,"MOORE, Bobby ",Central Defender,41,3,0,1,0,0,2,0,0
+,"MUSGROVE, Malcolm ",Winger,36,13,0,1,0,0,1,1,0
+,"PETERS, Martin ",Midfielder,5,0,0,0,0,0,0,0,0
+,"RHODES, Brian ",Goalkeeper,3,0,0,0,0,0,1,0,0
+,"SCOTT, Tony ",Winger,22,4,0,0,0,0,2,0,0
+,"SEALEY, Alan ",Forward,32,11,0,0,0,0,2,0,0
+,"TINDALL, Ron ",Forward,13,3,0,1,0,0,0,0,0
+,"WOODLEY, Derek ",Winger,4,0,0,0,0,0,0,0,0
+,"WOOSNAM, Phil ",Inside Forward,34,6,0,1,0,0,2,1,0

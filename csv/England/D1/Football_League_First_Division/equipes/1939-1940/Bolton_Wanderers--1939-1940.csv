@@ -1,35 +1,17 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1939/40
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOLTON, Danny 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-GELDARD, Albert 	Winger	0	0	0	0	0	0	3	0	0
-										
-GOSLIN, Harry 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-HANSON, Stan 	Goalkeeper	0	0	0	0	0	0	3	0	0
-										
-HESLOP, Norman 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HOWE, Don 	Wing Half	0	0	0	0	0	0	3	2	0
-										
-HUBBICK, Harry 	Full Back	0	0	0	0	0	0	3	1	0
-										
-HUNT, George 	Centre Forward	0	0	0	0	0	0	3	1	0
-										
-HURST, Jack 	Central Defender	0	0	0	0	0	0	3	0	0
-										
-JONES, Sid 	Winger	0	0	0	0	0	0	0	0	0
-										
-ROTHWELL, Teddy 	Winger	0	0	0	0	0	0	3	1	0
-										
-TAYLOR, George 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-WESTWOOD, Ray 	Inside Forward	0	0	0	0	0	0	3	1	0
-										
-WINTER, Danny 	Full Back	0	0	0	0	0	0	3	0	0
-										
-WOOD, Eric 	Wing Half	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOLTON, Danny ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"GELDARD, Albert ",Winger,0,0,0,0,0,0,3,0,0
+,"GOSLIN, Harry ",Wing Half,0,0,0,0,0,0,3,0,0
+,"HANSON, Stan ",Goalkeeper,0,0,0,0,0,0,3,0,0
+,"HESLOP, Norman ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HOWE, Don ",Wing Half,0,0,0,0,0,0,3,2,0
+,"HUBBICK, Harry ",Full Back,0,0,0,0,0,0,3,1,0
+,"HUNT, George ",Centre Forward,0,0,0,0,0,0,3,1,0
+,"HURST, Jack ",Central Defender,0,0,0,0,0,0,3,0,0
+,"JONES, Sid ",Winger,0,0,0,0,0,0,0,0,0
+,"ROTHWELL, Teddy ",Winger,0,0,0,0,0,0,3,1,0
+,"TAYLOR, George ",Wing Half,0,0,0,0,0,0,3,0,0
+,"WESTWOOD, Ray ",Inside Forward,0,0,0,0,0,0,3,1,0
+,"WINTER, Danny ",Full Back,0,0,0,0,0,0,3,0,0
+,"WOOD, Eric ",Wing Half,0,0,0,0,0,0,0,0,0

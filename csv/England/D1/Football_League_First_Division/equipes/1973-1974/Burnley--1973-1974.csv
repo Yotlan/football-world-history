@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1973/74
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRENNAN, Ian 	Full Back	1	0	0	1	0	0	0	0	0
-										
-CASPER, Frank 	Forward	11+2	4	1	2	1	0	1	0	0
-										
-COLLINS, Doug 	Midfielder	37+2	4	0	5	0	0	8+1	1	0
-										
-DOBSON, Martin 	Midfielder	40	4	0	5	2	0	10	1	0
-										
-DOCHERTY, Mike 	Full Back	1	0	0	0	0	0	1	0	0
-										
-FINN, Mike 	Goalkeeper	1	0	0	1	0	0	0	0	0
-										
-FLAVELL, Bobby 	Full Back	0	0	0	1	0	0	0	0	0
-										
-FLETCHER, Paul 	Forward	38	13	0	5	2	0	11	6	0
-										
-FLYNN, Brian 	Midfielder	2	0	0	1	0	0	0	0	0
-										
-HANKIN, Ray 	Forward	33+1	8	0	4	2	0	9	6	0
-										
-INGHAM, Billy 	Midfielder	16+8	2	0	3+1	0	0	8	0	0
-										
-JAMES, Leighton 	Winger	40	7	2	5	1	0	11	7	2
-										
-NEWTON, Keith 	Full Back	39	0	0	6	1	0	10	0	0
-										
-NOBLE, Peter 	Forward	40+1	0	0	5	0	0	9	5	0
-										
-NULTY, Geoff 	Midfielder	42	9	0	6	0	0	11	3	0
-										
-PARTON, Jeff 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-PASHLEY, Terry 	Full Back	0	0	0	0	0	0	0+1	0	0
-										
-RODAWAY, Billy 	Central Defender	9	0	0	1	0	0	3	0	0
-										
-STEVENSON, Alan 	Goalkeeper	40	0	0	5	0	0	11	0	0
-										
-THOMSON, Jim 	Central Defender	31	0	0	5	0	0	8	0	0
-										
-WALDRON, Colin 	Central Defender	40	4	0	5	0	0	10	2	0
-										
-WATSON, Willie 	Full Back	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRENNAN, Ian ",Full Back,1,0,0,1,0,0,0,0,0
+,"CASPER, Frank ",Forward,11+2,4,1,2,1,0,1,0,0
+,"COLLINS, Doug ",Midfielder,37+2,4,0,5,0,0,8+1,1,0
+,"DOBSON, Martin ",Midfielder,40,4,0,5,2,0,10,1,0
+,"DOCHERTY, Mike ",Full Back,1,0,0,0,0,0,1,0,0
+,"FINN, Mike ",Goalkeeper,1,0,0,1,0,0,0,0,0
+,"FLAVELL, Bobby ",Full Back,0,0,0,1,0,0,0,0,0
+,"FLETCHER, Paul ",Forward,38,13,0,5,2,0,11,6,0
+,"FLYNN, Brian ",Midfielder,2,0,0,1,0,0,0,0,0
+,"HANKIN, Ray ",Forward,33+1,8,0,4,2,0,9,6,0
+,"INGHAM, Billy ",Midfielder,16+8,2,0,3+1,0,0,8,0,0
+,"JAMES, Leighton ",Winger,40,7,2,5,1,0,11,7,2
+,"NEWTON, Keith ",Full Back,39,0,0,6,1,0,10,0,0
+,"NOBLE, Peter ",Forward,40+1,0,0,5,0,0,9,5,0
+,"NULTY, Geoff ",Midfielder,42,9,0,6,0,0,11,3,0
+,"PARTON, Jeff ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"PASHLEY, Terry ",Full Back,0,0,0,0,0,0,0+1,0,0
+,"RODAWAY, Billy ",Central Defender,9,0,0,1,0,0,3,0,0
+,"STEVENSON, Alan ",Goalkeeper,40,0,0,5,0,0,11,0,0
+,"THOMSON, Jim ",Central Defender,31,0,0,5,0,0,8,0,0
+,"WALDRON, Colin ",Central Defender,40,4,0,5,0,0,10,2,0
+,"WATSON, Willie ",Full Back,0,0,0,0,0,0,0,0,0

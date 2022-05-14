@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1986/87
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASPINALL, Warren 	Midfielder	12	3	0	0	0	0	0	0	0
-										
-BIRCH, Paul 	Midfielder	26+3	3	0	1+1	0	0	5	1	0
-										
-BLAIR, Andy 	Midfielder	4	0	0	0	0	0	0	0	0
-										
-BURKE, Mark 	Winger	1	0	0	0	0	0	0	0	0
-										
-COOPER, Neale 	Central Defender	13	0	0	2	1	0	0	0	0
-										
-DALEY, Tony 	Winger	25+8	3	0	1+1	0	0	5	2	0
-										
-DORIGO, Tony 	Full Back	41	0	0	2	0	0	7	0	0
-										
-ELLIOTT, Paul 	Central Defender	33+1	5	0	0	0	0	4	0	0
-										
-EVANS, Allan 	Central Defender	25+1	6	6	2	0	0	7	2	1
-										
-GALLACHER, Bernard 	Full Back	1	0	0	0	0	0	0	0	0
-										
-GLOVER, Dean 	Central Defender	5	0	0	0	0	0	1	0	0
-										
-GRAY, Andy 	Forward	18+1	0	0	0+2	0	0	2	2	0
-										
-HODGE, Steve 	Midfielder	17	4	0	0	0	0	5	2	0
-										
-HUNT, Steve 	Winger	39	2	0	2	2	0	6	0	0
-										
-KEOWN, Martin 	Central Defender	35+1	0	0	2	0	0	4	0	0
-										
-KERR, Paul 	Midfielder	4+2	2	0	0	0	0	0+4	0	0
-										
-NORTON, David 	Full Back	19+1	0	0	0	0	0	7	0	0
-										
-POOLE, Kevin 	Goalkeeper	10	0	0	0	0	0	2	0	0
-										
-RITCHIE, Stuart 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-ROBINSON, Phil 	Central Defender	2+1	1	0	0	0	0	0	0	0
-										
-SHAW, Gary 	Forward	1	0	0	0	0	0	1	2	0
-										
-SPINK, Nigel 	Goalkeeper	32	0	0	2	0	0	5	0	0
-										
-STAINROD, Simon 	Forward	25+4	6	1	2	0	0	5	0	0
-										
-THOMPSON, Garry 	Forward	30+1	6	0	2	0	0	5	1	0
-										
-WALTERS, Mark 	Winger	18+3	3	0	2	0	0	4+1	1	0
-										
-WILLIAMS, Gary 	Full Back	26	0	0	2	0	0	2	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASPINALL, Warren ",Midfielder,12,3,0,0,0,0,0,0,0
+,"BIRCH, Paul ",Midfielder,26+3,3,0,1+1,0,0,5,1,0
+,"BLAIR, Andy ",Midfielder,4,0,0,0,0,0,0,0,0
+,"BURKE, Mark ",Winger,1,0,0,0,0,0,0,0,0
+,"COOPER, Neale ",Central Defender,13,0,0,2,1,0,0,0,0
+,"DALEY, Tony ",Winger,25+8,3,0,1+1,0,0,5,2,0
+,"DORIGO, Tony ",Full Back,41,0,0,2,0,0,7,0,0
+,"ELLIOTT, Paul ",Central Defender,33+1,5,0,0,0,0,4,0,0
+,"EVANS, Allan ",Central Defender,25+1,6,6,2,0,0,7,2,1
+,"GALLACHER, Bernard ",Full Back,1,0,0,0,0,0,0,0,0
+,"GLOVER, Dean ",Central Defender,5,0,0,0,0,0,1,0,0
+,"GRAY, Andy ",Forward,18+1,0,0,0+2,0,0,2,2,0
+,"HODGE, Steve ",Midfielder,17,4,0,0,0,0,5,2,0
+,"HUNT, Steve ",Winger,39,2,0,2,2,0,6,0,0
+,"KEOWN, Martin ",Central Defender,35+1,0,0,2,0,0,4,0,0
+,"KERR, Paul ",Midfielder,4+2,2,0,0,0,0,0+4,0,0
+,"NORTON, David ",Full Back,19+1,0,0,0,0,0,7,0,0
+,"POOLE, Kevin ",Goalkeeper,10,0,0,0,0,0,2,0,0
+,"RITCHIE, Stuart ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"ROBINSON, Phil ",Central Defender,2+1,1,0,0,0,0,0,0,0
+,"SHAW, Gary ",Forward,1,0,0,0,0,0,1,2,0
+,"SPINK, Nigel ",Goalkeeper,32,0,0,2,0,0,5,0,0
+,"STAINROD, Simon ",Forward,25+4,6,1,2,0,0,5,0,0
+,"THOMPSON, Garry ",Forward,30+1,6,0,2,0,0,5,1,0
+,"WALTERS, Mark ",Winger,18+3,3,0,2,0,0,4+1,1,0
+,"WILLIAMS, Gary ",Full Back,26,0,0,2,0,0,2,0,0

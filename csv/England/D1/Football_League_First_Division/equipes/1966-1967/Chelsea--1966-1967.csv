@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1966/67
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALDWIN, Tommy 	Forward	30+2	16	0	7	1	0	0	0	0
-										
-BONETTI, Peter 	Goalkeeper	38	0	0	7	0	0	3	0	0
-										
-BOYLE, John 	Midfielder	36	5	0	6	0	0	3	0	0
-										
-BROWN, Brian 	Full Back	0	0	0	0	0	0	0	0	0
-										
-COOKE, Charlie 	Winger	33	3	0	6+1	0	0	3	0	0
-										
-CURRIE, Tony 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-FASCIONE, Joe 	Winger	4+1	0	0	0	0	0	0	0	0
-										
-GRAHAM, George 	Midfielder	9	1	0	0	0	0	1	1	0
-										
-HAMILTON, Ian 'Chico' 	Midfielder	3+2	2	0	0	0	0	0	0	0
-										
-HARRIS, Allan 	Full Back	12+2	0	0	3+1	0	0	1+1	0	0
-										
-HARRIS, Ron 	Central Defender	42	0	0	7	0	0	3	0	0
-										
-HATELEY, Tony 	Forward	26+1	6	0	6	3	0	0	0	0
-										
-HINTON, Marvin 	Central Defender	38	0	0	7	0	0	3	0	0
-										
-HOLLINS, John 	Midfielder	39	2	0	7	0	0	3	1	0
-										
-HOUSEMAN, Peter 	Winger	13+5	1	0	1	1	0	2+1	3	0
-										
-HOWLETT, Bobby 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-HUGHES, Tommy 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-KIRKUP, Joe 	Full Back	24+2	1	0	2+1	0	0	3	0	0
-										
-LLOYD, Barry 	Midfielder	4	0	0	0	0	0	0	0	0
-										
-LUKE, George 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-MCCREADIE, Eddie 	Full Back	38	1	0	7	0	0	2	0	0
-										
-MCMAHON, Pat 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-OSGOOD, Peter 	Forward	10	6	0	0	0	0	2	0	0
-										
-STEPNEY, Alex 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-TAMBLING, Bobby 	Forward	36	21	3	7	6	0	3	1	0
-										
-THOMSON, Jim 	Central Defender	21+4	1	0	3	0	0	1	0	0
-										
-WHIFFEN, Kingsley 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-WOSAHLO, Roger 	Winger	0+1	0	0	0	0	0	0	0	0
-										
-YOUNG, Allan 	Central Defender	1	0	0	1	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALDWIN, Tommy ",Forward,30+2,16,0,7,1,0,0,0,0
+,"BONETTI, Peter ",Goalkeeper,38,0,0,7,0,0,3,0,0
+,"BOYLE, John ",Midfielder,36,5,0,6,0,0,3,0,0
+,"BROWN, Brian ",Full Back,0,0,0,0,0,0,0,0,0
+,"COOKE, Charlie ",Winger,33,3,0,6+1,0,0,3,0,0
+,"CURRIE, Tony ",Midfielder,0,0,0,0,0,0,0,0,0
+,"FASCIONE, Joe ",Winger,4+1,0,0,0,0,0,0,0,0
+,"GRAHAM, George ",Midfielder,9,1,0,0,0,0,1,1,0
+,"HAMILTON, Ian 'Chico' ",Midfielder,3+2,2,0,0,0,0,0,0,0
+,"HARRIS, Allan ",Full Back,12+2,0,0,3+1,0,0,1+1,0,0
+,"HARRIS, Ron ",Central Defender,42,0,0,7,0,0,3,0,0
+,"HATELEY, Tony ",Forward,26+1,6,0,6,3,0,0,0,0
+,"HINTON, Marvin ",Central Defender,38,0,0,7,0,0,3,0,0
+,"HOLLINS, John ",Midfielder,39,2,0,7,0,0,3,1,0
+,"HOUSEMAN, Peter ",Winger,13+5,1,0,1,1,0,2+1,3,0
+,"HOWLETT, Bobby ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HUGHES, Tommy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"KIRKUP, Joe ",Full Back,24+2,1,0,2+1,0,0,3,0,0
+,"LLOYD, Barry ",Midfielder,4,0,0,0,0,0,0,0,0
+,"LUKE, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCCREADIE, Eddie ",Full Back,38,1,0,7,0,0,2,0,0
+,"MCMAHON, Pat ",Midfielder,0,0,0,0,0,0,0,0,0
+,"OSGOOD, Peter ",Forward,10,6,0,0,0,0,2,0,0
+,"STEPNEY, Alex ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"TAMBLING, Bobby ",Forward,36,21,3,7,6,0,3,1,0
+,"THOMSON, Jim ",Central Defender,21+4,1,0,3,0,0,1,0,0
+,"WHIFFEN, Kingsley ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WOSAHLO, Roger ",Winger,0+1,0,0,0,0,0,0,0,0
+,"YOUNG, Allan ",Central Defender,1,0,0,1,1,0,0,0,0

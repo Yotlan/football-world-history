@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1967/68
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTON, John 	Winger	34+3	10	0	2	0	0	7	1	0
-										
-BEST, George 	Forward	41	28	2	2	1	0	10	3	0
-										
-BRENNAN, Shay 	Full Back	13	1	0	0	0	0	4	0	0
-										
-BURNS, Francis 	Full Back	36	2	0	2	0	0	7	0	0
-										
-CHARLTON, Bobby 	Midfielder	41	15	0	2	1	0	10	4	0
-										
-CRERAND, Pat 	Midfielder	41	1	0	2	0	0	10	0	0
-										
-DUNNE, Tony 	Full Back	37	1	0	2	0	0	10	0	0
-										
-FITZPATRICK, John 	Midfielder	14+3	0	0	2	0	0	2	0	0
-										
-FOULKES, Bill 	Central Defender	24	1	0	0	0	0	7	1	0
-										
-GOODEVE, Ken 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-GOWLING, Alan 	Forward	4+1	1	0	0	0	0	0	0	0
-										
-HERD, David 	Forward	6	1	0	1	0	0	1	0	0
-										
-KIDD, Brian 	Forward	38	15	0	2	0	0	10	2	0
-										
-KOPEL, Frank 	Full Back	1+1	0	0	0	0	0	0	0	0
-										
-LAW, Denis 	Forward	23	7	2	1	0	0	4	3	0
-										
-POOLE, Terry 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-RIMMER, Jimmy 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-RYAN, Jimmy 	Winger	7+1	2	0	0	0	0	1	0	0
-										
-SADLER, David 	Central Defender	40+1	3	0	2	0	0	9	3	0
-										
-STEPNEY, Alex 	Goalkeeper	41	0	0	2	0	0	10	0	0
-										
-STILES, Nobby 	Midfielder	20	0	0	0	0	0	8	0	0
-										
-WOODS, Peter 	Midfielder	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTON, John ",Winger,34+3,10,0,2,0,0,7,1,0
+,"BEST, George ",Forward,41,28,2,2,1,0,10,3,0
+,"BRENNAN, Shay ",Full Back,13,1,0,0,0,0,4,0,0
+,"BURNS, Francis ",Full Back,36,2,0,2,0,0,7,0,0
+,"CHARLTON, Bobby ",Midfielder,41,15,0,2,1,0,10,4,0
+,"CRERAND, Pat ",Midfielder,41,1,0,2,0,0,10,0,0
+,"DUNNE, Tony ",Full Back,37,1,0,2,0,0,10,0,0
+,"FITZPATRICK, John ",Midfielder,14+3,0,0,2,0,0,2,0,0
+,"FOULKES, Bill ",Central Defender,24,1,0,0,0,0,7,1,0
+,"GOODEVE, Ken ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GOWLING, Alan ",Forward,4+1,1,0,0,0,0,0,0,0
+,"HERD, David ",Forward,6,1,0,1,0,0,1,0,0
+,"KIDD, Brian ",Forward,38,15,0,2,0,0,10,2,0
+,"KOPEL, Frank ",Full Back,1+1,0,0,0,0,0,0,0,0
+,"LAW, Denis ",Forward,23,7,2,1,0,0,4,3,0
+,"POOLE, Terry ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"RIMMER, Jimmy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"RYAN, Jimmy ",Winger,7+1,2,0,0,0,0,1,0,0
+,"SADLER, David ",Central Defender,40+1,3,0,2,0,0,9,3,0
+,"STEPNEY, Alex ",Goalkeeper,41,0,0,2,0,0,10,0,0
+,"STILES, Nobby ",Midfielder,20,0,0,0,0,0,8,0,0
+,"WOODS, Peter ",Midfielder,0,0,0,0,0,0,0,0,0

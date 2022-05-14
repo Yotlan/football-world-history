@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1951/52
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHCROFT, Charlie 	Goalkeeper	34	0	0	1	0	0	0	0	0
-										
-BALMER, Jack 	Inside Forward	2	0	0	2	0	0	0	0	0
-										
-BARON, Kevin 	Inside Forward	40	6	0	1	0	0	0	0	0
-										
-BRIERLEY, Ken 	Wing Half	11	1	0	0	0	0	0	0	0
-										
-BROWN, George 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-CADDEN, Joe 	Central Defender	0	0	0	1	0	0	0	0	0
-										
-CLUGSTON, Jimmy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-CROSSLEY, Russell 	Goalkeeper	8	0	0	2	0	0	0	0	0
-										
-DONE, Cyril 	Centre Forward	10	3	0	2	1	0	0	0	0
-										
-FAGAN, Willie 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-HAIGH, Jack 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-HEYDON, Jackie 	Wing Half	27	0	0	2	0	0	0	0	0
-										
-HUGHES, Laurie 	Central Defender	25	1	0	1	0	0	0	0	0
-										
-JACKSON, Brian 	Winger	14	1	0	1	0	0	0	0	0
-										
-JONES, Mervyn 	Winger	3	0	0	0	0	0	0	0	0
-										
-JONES, Bill 	Central Defender	37	2	0	3	0	0	0	0	0
-										
-LAMBERT, Ray 	Full Back	32	0	0	3	0	0	0	0	0
-										
-LIDDELL, Billy 	Winger	40	19	2	3	0	0	0	0	0
-										
-MCCURLEY, Kevin 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-PAISLEY, Bob 	Wing Half	37	2	0	3	1	0	0	0	0
-										
-PARR, Steve 	Full Back	16	0	0	0	0	0	0	0	0
-										
-PAYNE, Jimmy 	Winger	35	9	0	3	1	0	0	0	0
-										
-SHEPHERD, Bill 	Full Back	1	0	0	0	0	0	0	0	0
-										
-SMITH, Jack 	Centre Forward	27	6	0	1	0	0	0	0	0
-										
-STUBBINS, Albert 	Centre Forward	13	5	0	0	0	0	0	0	0
-										
-TAYLOR, Phil 	Wing Half	24	1	0	2	0	0	0	0	0
-										
-WHITWORTH, George 	Wing Half	9	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Bryan 	Wing Half	11	1	0	2	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHCROFT, Charlie ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"BALMER, Jack ",Inside Forward,2,0,0,2,0,0,0,0,0
+,"BARON, Kevin ",Inside Forward,40,6,0,1,0,0,0,0,0
+,"BRIERLEY, Ken ",Wing Half,11,1,0,0,0,0,0,0,0
+,"BROWN, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CADDEN, Joe ",Central Defender,0,0,0,1,0,0,0,0,0
+,"CLUGSTON, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CROSSLEY, Russell ",Goalkeeper,8,0,0,2,0,0,0,0,0
+,"DONE, Cyril ",Centre Forward,10,3,0,2,1,0,0,0,0
+,"FAGAN, Willie ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HAIGH, Jack ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HEYDON, Jackie ",Wing Half,27,0,0,2,0,0,0,0,0
+,"HUGHES, Laurie ",Central Defender,25,1,0,1,0,0,0,0,0
+,"JACKSON, Brian ",Winger,14,1,0,1,0,0,0,0,0
+,"JONES, Mervyn ",Winger,3,0,0,0,0,0,0,0,0
+,"JONES, Bill ",Central Defender,37,2,0,3,0,0,0,0,0
+,"LAMBERT, Ray ",Full Back,32,0,0,3,0,0,0,0,0
+,"LIDDELL, Billy ",Winger,40,19,2,3,0,0,0,0,0
+,"MCCURLEY, Kevin ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PAISLEY, Bob ",Wing Half,37,2,0,3,1,0,0,0,0
+,"PARR, Steve ",Full Back,16,0,0,0,0,0,0,0,0
+,"PAYNE, Jimmy ",Winger,35,9,0,3,1,0,0,0,0
+,"SHEPHERD, Bill ",Full Back,1,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Centre Forward,27,6,0,1,0,0,0,0,0
+,"STUBBINS, Albert ",Centre Forward,13,5,0,0,0,0,0,0,0
+,"TAYLOR, Phil ",Wing Half,24,1,0,2,0,0,0,0,0
+,"WHITWORTH, George ",Wing Half,9,0,0,0,0,0,0,0,0
+,"WILLIAMS, Bryan ",Wing Half,11,1,0,2,0,0,0,0,0

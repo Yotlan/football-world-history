@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1936/37
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Sam 	Full Back	30	0	0	4	0	0	0	0	0
-										
-BRAY, Jackie 	Wing Half	40	2	0	4	0	0	0	0	0
-										
-BROOK, Eric 	Winger	42	20	4	4	2	1	0	0	0
-										
-CASSIDY, Jim 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-CLARK, Gordon 	Full Back	13	0	0	1	0	0	0	0	0
-										
-COTHLIFF, Harold 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-DALE, Billy 	Full Back	36	0	0	3	0	0	0	0	0
-										
-DOHERTY, Peter 	Inside Forward	41	30	0	4	2	0	0	0	0
-										
-DONNELLY, Robert 	Central Defender	7	1	0	0	0	0	0	0	0
-										
-FREEMAN, Ray 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-HEALE, Jimmy 	Inside Forward	10	6	0	0	0	0	0	0	0
-										
-HERD, Alex 	Inside Forward	32	15	0	4	3	0	0	0	0
-										
-MARSHALL, Bobby 	Inside Forward	38	0	0	4	0	0	0	0	0
-										
-MCCULLOUGH, Keiller 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-MCLEOD, John 	Centre Forward	3	2	0	0	0	0	0	0	0
-										
-NEILSON, Dick 	Central Defender	2	1	0	0	0	0	0	0	0
-										
-PERCIVAL, Jack 	Wing Half	42	1	0	3	0	0	0	0	0
-										
-REGAN, Bobby 	Winger	4	0	0	0	0	0	0	0	0
-										
-RODGER, Colin 'Fally' 	Winger	9	7	0	0	0	0	0	0	0
-										
-ROGERS, Joe 	Wing Half	2	0	0	1	0	0	0	0	0
-										
-SWIFT, Frank 	Goalkeeper	42	0	0	4	0	0	0	0	0
-										
-TILSON, Fred 	Inside Forward	23	15	0	4	3	0	0	0	0
-										
-TOSELAND, Ernie 	Winger	42	7	0	4	0	0	0	0	0
-										
-WELSH, Andy 	Full Back	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Sam ",Full Back,30,0,0,4,0,0,0,0,0
+,"BRAY, Jackie ",Wing Half,40,2,0,4,0,0,0,0,0
+,"BROOK, Eric ",Winger,42,20,4,4,2,1,0,0,0
+,"CASSIDY, Jim ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CLARK, Gordon ",Full Back,13,0,0,1,0,0,0,0,0
+,"COTHLIFF, Harold ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DALE, Billy ",Full Back,36,0,0,3,0,0,0,0,0
+,"DOHERTY, Peter ",Inside Forward,41,30,0,4,2,0,0,0,0
+,"DONNELLY, Robert ",Central Defender,7,1,0,0,0,0,0,0,0
+,"FREEMAN, Ray ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"HEALE, Jimmy ",Inside Forward,10,6,0,0,0,0,0,0,0
+,"HERD, Alex ",Inside Forward,32,15,0,4,3,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,38,0,0,4,0,0,0,0,0
+,"MCCULLOUGH, Keiller ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCLEOD, John ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"NEILSON, Dick ",Central Defender,2,1,0,0,0,0,0,0,0
+,"PERCIVAL, Jack ",Wing Half,42,1,0,3,0,0,0,0,0
+,"REGAN, Bobby ",Winger,4,0,0,0,0,0,0,0,0
+,"RODGER, Colin 'Fally' ",Winger,9,7,0,0,0,0,0,0,0
+,"ROGERS, Joe ",Wing Half,2,0,0,1,0,0,0,0,0
+,"SWIFT, Frank ",Goalkeeper,42,0,0,4,0,0,0,0,0
+,"TILSON, Fred ",Inside Forward,23,15,0,4,3,0,0,0,0
+,"TOSELAND, Ernie ",Winger,42,7,0,4,0,0,0,0,0
+,"WELSH, Andy ",Full Back,0,0,0,0,0,0,0,0,0

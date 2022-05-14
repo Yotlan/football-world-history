@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1958/59
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHWORTH, Alec 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-BONER, David 	Winger	0	0	0	0	0	0	0	0	0
-										
-BRAMWELL, John 	Full Back	37	0	0	4	0	0	0	0	0
-										
-COLLINS, Bobby 	Midfielder	32	7	0	4	3	0	0	0	0
-										
-DUNLOP, Albert 	Goalkeeper	33	0	0	4	0	0	0	0	0
-										
-EDMONDSON, Barry 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-FIELDING, Wally 	Inside Forward	10	2	0	0	0	0	0	0	0
-										
-GRIFFITHS, Bryan 	Full Back	2	0	0	0	0	0	0	0	0
-										
-HARBURN, Peter 	Centre Forward	4	1	0	0	0	0	0	0	0
-										
-HARRIS, Brian 	Central Defender	35	1	0	4	0	0	0	0	0
-										
-HARRIS, Jimmy 	Centre Forward	42	14	0	4	1	0	0	0	0
-										
-HICKSON, Dave 	Centre Forward	39	17	0	4	5	0	0	0	0
-										
-JONES, Tommy 	Central Defender	38	4	4	4	0	0	0	0	0
-										
-KING, Johnny 	Midfielder	17	1	0	0	0	0	0	0	0
-										
-LABONE, Brian 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-LAVERICK, Bobby 	Winger	11	5	0	0	0	0	0	0	0
-										
-MEAGAN, Mick 	Central Defender	21	0	0	0	0	0	0	0	0
-										
-O'BRIEN, George 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-O'HARA, Eddie 	Winger	21	2	0	2	0	0	0	0	0
-										
-O'NEILL, Jimmy 	Goalkeeper	9	0	0	0	0	0	0	0	0
-										
-PARKER, Alex 	Full Back	26	1	1	4	0	0	0	0	0
-										
-REA, Kenny 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-SANDERS, Allan 	Full Back	25	0	0	4	0	0	0	0	0
-										
-TANSEY, Jimmy 	Full Back	3	0	0	0	0	0	0	0	0
-										
-TEMPLE, Derek 	Winger	4	2	0	0	0	0	0	0	0
-										
-THOMAS, Eddie 	Inside Forward	32	10	0	4	2	0	0	0	0
-										
-WILLIAMS, Graham 	Winger	7	1	0	2	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHWORTH, Alec ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"BONER, David ",Winger,0,0,0,0,0,0,0,0,0
+,"BRAMWELL, John ",Full Back,37,0,0,4,0,0,0,0,0
+,"COLLINS, Bobby ",Midfielder,32,7,0,4,3,0,0,0,0
+,"DUNLOP, Albert ",Goalkeeper,33,0,0,4,0,0,0,0,0
+,"EDMONDSON, Barry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FIELDING, Wally ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"GRIFFITHS, Bryan ",Full Back,2,0,0,0,0,0,0,0,0
+,"HARBURN, Peter ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"HARRIS, Brian ",Central Defender,35,1,0,4,0,0,0,0,0
+,"HARRIS, Jimmy ",Centre Forward,42,14,0,4,1,0,0,0,0
+,"HICKSON, Dave ",Centre Forward,39,17,0,4,5,0,0,0,0
+,"JONES, Tommy ",Central Defender,38,4,4,4,0,0,0,0,0
+,"KING, Johnny ",Midfielder,17,1,0,0,0,0,0,0,0
+,"LABONE, Brian ",Central Defender,4,0,0,0,0,0,0,0,0
+,"LAVERICK, Bobby ",Winger,11,5,0,0,0,0,0,0,0
+,"MEAGAN, Mick ",Central Defender,21,0,0,0,0,0,0,0,0
+,"O'BRIEN, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"O'HARA, Eddie ",Winger,21,2,0,2,0,0,0,0,0
+,"O'NEILL, Jimmy ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"PARKER, Alex ",Full Back,26,1,1,4,0,0,0,0,0
+,"REA, Kenny ",Wing Half,4,0,0,0,0,0,0,0,0
+,"SANDERS, Allan ",Full Back,25,0,0,4,0,0,0,0,0
+,"TANSEY, Jimmy ",Full Back,3,0,0,0,0,0,0,0,0
+,"TEMPLE, Derek ",Winger,4,2,0,0,0,0,0,0,0
+,"THOMAS, Eddie ",Inside Forward,32,10,0,4,2,0,0,0,0
+,"WILLIAMS, Graham ",Winger,7,1,0,2,0,0,0,0,0

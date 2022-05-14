@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1930/31
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEDFORD, Harry 	Centre Forward	23	12	1	2	1	0	0	0	0
-										
-BETTON, Alec 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-BOYD, Jimmy 	Winger	23	9	0	2	0	0	0	0	0
-										
-BURNS, Mick 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-CAPE, Jackie 	Winger	15	7	0	0	0	0	0	0	0
-										
-CHALMERS, Willie 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-CHRISTIE, Norman 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-DAVIDSON, Dave 	Central Defender	24	0	0	2	0	0	0	0	0
-										
-DEVINE, Joe 	Inside Forward	6	3	0	0	0	0	0	0	0
-										
-DUNMORE, Alf 	Winger	0	0	0	0	0	0	0	0	0
-										
-FAIRHURST, David 	Full Back	32	0	0	2	0	0	0	0	0
-										
-GRAHAM, Jack 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HANN, Ralph 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HARRIS, Joe 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-HILL, Jack 	Central Defender	15	0	0	0	0	0	0	0	0
-										
-HUTCHISON, Duncan 	Centre Forward	25	10	0	2	4	1	0	0	0
-										
-KEEN, Eric 'Ike' 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-LANG, Tommy 	Winger	12	4	1	0	0	0	0	0	0
-										
-LINDSAY, Duncan 	Centre Forward	19	12	0	0	0	0	0	0	0
-										
-MACKENZIE, Roddie 	Wing Half	19	1	0	0	0	0	0	0	0
-										
-MATHISON, George 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-MCDONALD, Tommy 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-MCINROY, Albert 	Goalkeeper	27	0	0	2	0	0	0	0	0
-										
-NAYLOR, Jimmy 	Wing Half	22	0	0	2	0	0	0	0	0
-										
-NELSON, Jimmy 	Full Back	23	0	0	2	0	0	0	0	0
-										
-PARK, Ossie 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-RICHARDSON, Joe 	Full Back	12	0	0	0	0	0	0	0	0
-										
-RICHARDSON, Jimmy 	Inside Forward	12	4	0	0	0	0	0	0	0
-										
-ROBINSON, James 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-STARLING, Ronnie 	Inside Forward	36	6	0	2	0	0	0	0	0
-										
-THOMSON, Bob 	Full Back	16	0	0	0	0	0	0	0	0
-										
-TURNBULL, George 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-WEAVER, Sam 	Wing Half	34	1	0	2	0	0	0	0	0
-										
-WILKINSON, Jack 	Winger	30	7	0	2	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEDFORD, Harry ",Centre Forward,23,12,1,2,1,0,0,0,0
+,"BETTON, Alec ",Central Defender,1,0,0,0,0,0,0,0,0
+,"BOYD, Jimmy ",Winger,23,9,0,2,0,0,0,0,0
+,"BURNS, Mick ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"CAPE, Jackie ",Winger,15,7,0,0,0,0,0,0,0
+,"CHALMERS, Willie ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"CHRISTIE, Norman ",Central Defender,0,0,0,0,0,0,0,0,0
+,"DAVIDSON, Dave ",Central Defender,24,0,0,2,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"DUNMORE, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"FAIRHURST, David ",Full Back,32,0,0,2,0,0,0,0,0
+,"GRAHAM, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HANN, Ralph ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,6,0,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,15,0,0,0,0,0,0,0,0
+,"HUTCHISON, Duncan ",Centre Forward,25,10,0,2,4,1,0,0,0
+,"KEEN, Eric 'Ike' ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LANG, Tommy ",Winger,12,4,1,0,0,0,0,0,0
+,"LINDSAY, Duncan ",Centre Forward,19,12,0,0,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,19,1,0,0,0,0,0,0,0
+,"MATHISON, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"NAYLOR, Jimmy ",Wing Half,22,0,0,2,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,23,0,0,2,0,0,0,0,0
+,"PARK, Ossie ",Central Defender,2,0,0,0,0,0,0,0,0
+,"RICHARDSON, Joe ",Full Back,12,0,0,0,0,0,0,0,0
+,"RICHARDSON, Jimmy ",Inside Forward,12,4,0,0,0,0,0,0,0
+,"ROBINSON, James ",Wing Half,1,0,0,0,0,0,0,0,0
+,"STARLING, Ronnie ",Inside Forward,36,6,0,2,0,0,0,0,0
+,"THOMSON, Bob ",Full Back,16,0,0,0,0,0,0,0,0
+,"TURNBULL, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WEAVER, Sam ",Wing Half,34,1,0,2,0,0,0,0,0
+,"WILKINSON, Jack ",Winger,30,7,0,2,0,0,0,0,0

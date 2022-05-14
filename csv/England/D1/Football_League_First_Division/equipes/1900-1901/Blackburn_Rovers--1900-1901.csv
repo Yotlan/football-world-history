@@ -1,54 +1,53 @@
-		-- League --	--- FA Cup ---	---- Other ----
-
-1900/01
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKBURN, Fred 	Winger	30	5	0	1	0	0	0	0	0
-										
-BLACKSHAW, John 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-BRYANT, Willie 	Winger	15	6	0	0	0	0	0	0	0
-										
-CROMPTON, Bob 	Full Back	24	0	0	1	0	0	0	0	0
-										
-DEWHURST, Jack 	Centre Half	26	4	0	1	0	0	0	0	0
-										
-HARDY, Allen 	Full Back	25	0	0	0	0	0	0	0	0
-										
-HAWORTH, Bob 	Centre Half	33	1	0	1	0	0	0	0	0
-										
-HOSIE, James 	Centre Half	3	0	0	0	0	0	0	0	0
-										
-HOULKER, Albert 'Kelly' 	Wing Half	32	0	0	1	0	0	0	0	0
-										
-KELLY, Michael 	Winger	3	0	0	0	0	0	0	0	0
-										
-MCCLURE, Sammy 	Centre Half	16	2	0	1	0	0	0	0	0
-										
-MOIR, Jimmy 	Wing Half	32	0	0	1	0	0	0	0	0
-										
-MORGAN, Hugh 	Inside Forward	26	6	0	1	0	0	0	0	0
-										
-O'BRIEN, Joe 	Full Back	2	0	0	0	0	0	0	0	0
-										
-OLDHAM, Wilfred 	Centre Forward	9	1	0	0	0	0	0	0	0
-										
-PARSONAGE, George 	Centre Half	0	0	0	0	0	0	0	0	0
-										
-PLATT, Peter 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-RUSSELL, Jock 	Winger	0	0	0	0	0	0	0	0	0
-										
-SMITH, Dick 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-SOMERS, Peter 	Inside Forward	31	3	0	1	0	0	0	0	0
-										
-STEWART, Harry 	Winger	0	0	0	0	0	0	0	0	0
-										
-TOMLINSON, Jimmy 	Centre Half	1	0	0	0	0	0	0	0	0
-										
-WHITTAKER, Arnie 	Winger	30	8	0	1	0	0	0	0	0
-										
-WHITTAKER, Walter 	Goalkeeper	33	0	0	1	0	0	0	0	0
-										
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKBURN, Fred ",Winger,30,5,0,1,0,0,0,0,0
+,"BLACKSHAW, John ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BRYANT, Willie ",Winger,15,6,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,24,0,0,1,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,26,4,0,1,0,0,0,0,0
+,"HARDY, Allen ",Full Back,25,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Centre Half,33,1,0,1,0,0,0,0,0
+,"HOSIE, James ",Centre Half,3,0,0,0,0,0,0,0,0
+,"HOULKER, Albert 'Kelly' ",Wing Half,32,0,0,1,0,0,0,0,0
+,"KELLY, Michael ",Winger,3,0,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,16,2,0,1,0,0,0,0,0
+,"MOIR, Jimmy ",Wing Half,32,0,0,1,0,0,0,0,0
+,"MORGAN, Hugh ",Inside Forward,26,6,0,1,0,0,0,0,0
+,"O'BRIEN, Joe ",Full Back,2,0,0,0,0,0,0,0,0
+,"OLDHAM, Wilfred ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"PARSONAGE, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"PLATT, Peter ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"RUSSELL, Jock ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Dick ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SOMERS, Peter ",Inside Forward,31,3,0,1,0,0,0,0,0
+,"STEWART, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"TOMLINSON, Jimmy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,30,8,0,1,0,0,0,0,0
+,"WHITTAKER, Walter ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,,,,,,,,,,Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKBURN, Fred ",Winger,30,5,0,1,0,0,0,0,0
+,"BLACKSHAW, John ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BRYANT, Willie ",Winger,15,6,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,24,0,0,1,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,26,4,0,1,0,0,0,0,0
+,"HARDY, Allen ",Full Back,25,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Centre Half,33,1,0,1,0,0,0,0,0
+,"HOSIE, James ",Centre Half,3,0,0,0,0,0,0,0,0
+,"HOULKER, Albert 'Kelly' ",Wing Half,32,0,0,1,0,0,0,0,0
+,"KELLY, Michael ",Winger,3,0,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,16,2,0,1,0,0,0,0,0
+,"MOIR, Jimmy ",Wing Half,32,0,0,1,0,0,0,0,0
+,"MORGAN, Hugh ",Inside Forward,26,6,0,1,0,0,0,0,0
+,"O'BRIEN, Joe ",Full Back,2,0,0,0,0,0,0,0,0
+,"OLDHAM, Wilfred ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"PARSONAGE, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"PLATT, Peter ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"RUSSELL, Jock ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Dick ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SOMERS, Peter ",Inside Forward,31,3,0,1,0,0,0,0,0
+,"STEWART, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"TOMLINSON, Jimmy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,30,8,0,1,0,0,0,0,0
+,"WHITTAKER, Walter ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,,,,,,,,,,

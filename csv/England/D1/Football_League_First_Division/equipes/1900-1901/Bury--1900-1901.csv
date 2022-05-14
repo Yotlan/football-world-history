@@ -1,52 +1,49 @@
-
-
--- League --	--- FA Cup ---	---- Other ----
-
-1900/01
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERRY, John 	Inside Forward	11	5	0	0	0	0	0	0	0
-										
-COOPER, Frank 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-DARROCH, Jack 	Full Back	32	0	0	2	0	0	0	0	0
-										
-FINNEY, Jack 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-HEAP, Victor 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-LEEMING, Joe 	Full Back	34	2	0	2	0	0	0	0	0
-										
-LINDSAY, Jimmy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-MCEWEN, Jimmy 'Punch' 	Full Back	34	0	0	2	0	0	0	0	0
-										
-MCLUCKIE, James 	Centre Forward	31	13	0	2	1	0	0	0	0
-										
-MONTGOMERY, Archie 	Goalkeeper	7	0	0	0	0	0	0	0	0
-										
-MORTON, Bill 	Wing Half	7	0	0	0	0	0	0	0	0
-										
-PLANT, Jack 	Winger	33	8	0	2	0	0	0	0	0
-										
-POOLEY, Ernest 	Winger	0	0	0	0	0	0	0	0	0
-										
-PRAY, Jack 	Wing Half	31	4	2	2	0	0	0	0	0
-										
-REDDISH, John 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-RICHARDS, Billy 	Winger	34	3	0	2	0	0	0	0	0
-										
-ROSS, George 	Wing Half	27	0	0	2	0	0	0	0	0
-										
-SAGAR, Charles 	Inside Forward	27	6	0	2	0	0	0	0	0
-										
-SINGLETON, Harry 	Winger	0	0	0	0	0	0	0	0	0
-										
-THOMPSON, Fred 	Goalkeeper	27	0	0	2	0	0	0	0	0
-										
-WILLIAMS, Harry 	Winger	0	0	0	0	0	0	0	0	0
-										
-WOOD, Billy 	Inside Forward	33	11	0	2	1	0	0	0	0
-										
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERRY, John ",Inside Forward,11,5,0,0,0,0,0,0,0
+,"COOPER, Frank ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DARROCH, Jack ",Full Back,32,0,0,2,0,0,0,0,0
+,"FINNEY, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HEAP, Victor ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,34,2,0,2,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCEWEN, Jimmy 'Punch' ",Full Back,34,0,0,2,0,0,0,0,0
+,"MCLUCKIE, James ",Centre Forward,31,13,0,2,1,0,0,0,0
+,"MONTGOMERY, Archie ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"MORTON, Bill ",Wing Half,7,0,0,0,0,0,0,0,0
+,"PLANT, Jack ",Winger,33,8,0,2,0,0,0,0,0
+,"POOLEY, Ernest ",Winger,0,0,0,0,0,0,0,0,0
+,"PRAY, Jack ",Wing Half,31,4,2,2,0,0,0,0,0
+,"REDDISH, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RICHARDS, Billy ",Winger,34,3,0,2,0,0,0,0,0
+,"ROSS, George ",Wing Half,27,0,0,2,0,0,0,0,0
+,"SAGAR, Charles ",Inside Forward,27,6,0,2,0,0,0,0,0
+,"SINGLETON, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Fred ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"WILLIAMS, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"WOOD, Billy ",Inside Forward,33,11,0,2,1,0,0,0,0
+,"Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERRY, John ",Inside Forward,11,5,0,0,0,0,0,0,0
+,"COOPER, Frank ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DARROCH, Jack ",Full Back,32,0,0,2,0,0,0,0,0
+,"FINNEY, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HEAP, Victor ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,34,2,0,2,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCEWEN, Jimmy 'Punch' ",Full Back,34,0,0,2,0,0,0,0,0
+,"MCLUCKIE, James ",Centre Forward,31,13,0,2,1,0,0,0,0
+,"MONTGOMERY, Archie ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"MORTON, Bill ",Wing Half,7,0,0,0,0,0,0,0,0
+,"PLANT, Jack ",Winger,33,8,0,2,0,0,0,0,0
+,"POOLEY, Ernest ",Winger,0,0,0,0,0,0,0,0,0
+,"PRAY, Jack ",Wing Half,31,4,2,2,0,0,0,0,0
+,"REDDISH, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RICHARDS, Billy ",Winger,34,3,0,2,0,0,0,0,0
+,"ROSS, George ",Wing Half,27,0,0,2,0,0,0,0,0
+,"SAGAR, Charles ",Inside Forward,27,6,0,2,0,0,0,0,0
+,"SINGLETON, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Fred ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"WILLIAMS, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"WOOD, Billy ",Inside Forward,33,11,0,2,1,0,0,0,0
+,"

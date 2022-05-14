@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1962/63
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLCHURCH, Len 	Winger	39	8	2	3	1	1	2	0	0
-										
-ARBLASTER, Brian 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-BADGER, Len 	Full Back	1	0	0	0	0	0	1	0	0
-										
-COLDWELL, Cec 	Full Back	41	0	0	3	0	0	1	0	0
-										
-DOCHERTY, John 	Winger	3	0	0	0	0	0	0	0	0
-										
-FINNIGAN, Denis 	Central Defender	1	0	0	0	0	0	1	0	0
-										
-HARTLE, Barry 	Winger	22	5	0	0	0	0	1	0	0
-										
-HODGKINSON, Alan 	Goalkeeper	40	0	0	3	0	0	1	0	0
-										
-HODGSON, Billy 	Midfielder	33	8	0	3	0	0	2	2	0
-										
-JONES, Mick 	Forward	6	4	0	0	0	0	0	0	0
-										
-KETTLEBOROUGH, Keith 	Midfielder	27	2	0	2	2	0	2	0	0
-										
-MALLENDER, Ken 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-MILLER, Bob 	Winger	0	0	0	0	0	0	0	0	0
-										
-PACE, Derek 'Doc' 	Centre Forward	39	18	0	3	1	0	2	2	0
-										
-RICHARDSON, Brian 	Wing Half	42	1	0	3	0	0	2	0	0
-										
-RUSSELL, Billy 	Forward	3	1	0	1	0	0	0	0	0
-										
-SHAW, Bernard 	Full Back	1	0	0	0	0	0	0	0	0
-										
-SHAW, Graham 	Full Back	41	3	3	3	0	0	2	1	1
-										
-SHAW, Joe 	Central Defender	40	0	0	3	0	0	1	0	0
-										
-SHIELS, Dennis 	Centre Forward	3	1	0	0	0	0	0	0	0
-										
-SIMPSON, Ron 	Winger	20	3	1	3	0	0	1	0	0
-										
-SUMMERS, Gerry 	Wing Half	42	0	0	3	1	0	2	0	0
-										
-THOMPSON, Des 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-WAGSTAFF, Tony 	Midfielder	15	4	0	0	0	0	0	0	0
-										
-WIDDOWSON, Bob 	Goalkeeper	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLCHURCH, Len ",Winger,39,8,2,3,1,1,2,0,0
+,"ARBLASTER, Brian ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BADGER, Len ",Full Back,1,0,0,0,0,0,1,0,0
+,"COLDWELL, Cec ",Full Back,41,0,0,3,0,0,1,0,0
+,"DOCHERTY, John ",Winger,3,0,0,0,0,0,0,0,0
+,"FINNIGAN, Denis ",Central Defender,1,0,0,0,0,0,1,0,0
+,"HARTLE, Barry ",Winger,22,5,0,0,0,0,1,0,0
+,"HODGKINSON, Alan ",Goalkeeper,40,0,0,3,0,0,1,0,0
+,"HODGSON, Billy ",Midfielder,33,8,0,3,0,0,2,2,0
+,"JONES, Mick ",Forward,6,4,0,0,0,0,0,0,0
+,"KETTLEBOROUGH, Keith ",Midfielder,27,2,0,2,2,0,2,0,0
+,"MALLENDER, Ken ",Central Defender,1,0,0,0,0,0,0,0,0
+,"MILLER, Bob ",Winger,0,0,0,0,0,0,0,0,0
+,"PACE, Derek 'Doc' ",Centre Forward,39,18,0,3,1,0,2,2,0
+,"RICHARDSON, Brian ",Wing Half,42,1,0,3,0,0,2,0,0
+,"RUSSELL, Billy ",Forward,3,1,0,1,0,0,0,0,0
+,"SHAW, Bernard ",Full Back,1,0,0,0,0,0,0,0,0
+,"SHAW, Graham ",Full Back,41,3,3,3,0,0,2,1,1
+,"SHAW, Joe ",Central Defender,40,0,0,3,0,0,1,0,0
+,"SHIELS, Dennis ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"SIMPSON, Ron ",Winger,20,3,1,3,0,0,1,0,0
+,"SUMMERS, Gerry ",Wing Half,42,0,0,3,1,0,2,0,0
+,"THOMPSON, Des ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"WAGSTAFF, Tony ",Midfielder,15,4,0,0,0,0,0,0,0
+,"WIDDOWSON, Bob ",Goalkeeper,2,0,0,0,0,0,0,0,0

@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENNETT, Peter 'Les' 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-BICKLES, Dave 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-BOND, John 	Full Back	29	1	0	2	0	0	6	1	0
-										
-BOVINGTON, Eddie 	Midfielder	33	0	0	2	0	0	6	0	0
-										
-BOYCE, Ronnie 	Midfielder	41	4	0	2	0	0	11	1	0
-										
-BRABROOK, Peter 	Winger	22	3	0	0	0	0	3	1	0
-										
-BROWN, Ken 	Central Defender	33	1	0	2	0	0	11	0	0
-										
-BURKETT, Jack 	Full Back	24	0	0	0	0	0	7	0	0
-										
-BYRNE, Johnny 	Forward	34	25	6	2	1	0	9	4	0
-										
-CHARLES, John 	Full Back	1	0	0	0	0	0	0	0	0
-										
-DAWKINS, Trevor 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-DEAR, Brian 	Forward	10	10	0	0	0	0	5	4	0
-										
-DICKIE, Alan 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-HURST, Geoff 	Forward	42	17	0	1	2	0	11	1	0
-										
-KIRKUP, Joe 	Full Back	15	2	0	1	0	0	5	0	0
-										
-MOORE, Bobby 	Central Defender	28	1	0	0	0	0	8	0	0
-										
-PETERS, Martin 	Midfielder	35	5	0	2	0	0	10	1	0
-										
-PRESLAND, Eddie 	Full Back	4	1	0	0	0	0	0	0	0
-										
-SCOTT, Tony 	Winger	6	0	0	2	0	0	0	0	0
-										
-SEALEY, Alan 	Forward	21	2	0	2	0	0	7	3	0
-										
-SISSONS, John 	Winger	38	8	0	2	1	0	11	2	0
-										
-STANDEN, Jim 	Goalkeeper	42	0	0	2	0	0	10	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENNETT, Peter 'Les' ",Midfielder,1,0,0,0,0,0,0,0,0
+,"BICKLES, Dave ",Central Defender,2,0,0,0,0,0,0,0,0
+,"BOND, John ",Full Back,29,1,0,2,0,0,6,1,0
+,"BOVINGTON, Eddie ",Midfielder,33,0,0,2,0,0,6,0,0
+,"BOYCE, Ronnie ",Midfielder,41,4,0,2,0,0,11,1,0
+,"BRABROOK, Peter ",Winger,22,3,0,0,0,0,3,1,0
+,"BROWN, Ken ",Central Defender,33,1,0,2,0,0,11,0,0
+,"BURKETT, Jack ",Full Back,24,0,0,0,0,0,7,0,0
+,"BYRNE, Johnny ",Forward,34,25,6,2,1,0,9,4,0
+,"CHARLES, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"DAWKINS, Trevor ",Midfielder,1,0,0,0,0,0,0,0,0
+,"DEAR, Brian ",Forward,10,10,0,0,0,0,5,4,0
+,"DICKIE, Alan ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"HURST, Geoff ",Forward,42,17,0,1,2,0,11,1,0
+,"KIRKUP, Joe ",Full Back,15,2,0,1,0,0,5,0,0
+,"MOORE, Bobby ",Central Defender,28,1,0,0,0,0,8,0,0
+,"PETERS, Martin ",Midfielder,35,5,0,2,0,0,10,1,0
+,"PRESLAND, Eddie ",Full Back,4,1,0,0,0,0,0,0,0
+,"SCOTT, Tony ",Winger,6,0,0,2,0,0,0,0,0
+,"SEALEY, Alan ",Forward,21,2,0,2,0,0,7,3,0
+,"SISSONS, John ",Winger,38,8,0,2,1,0,11,2,0
+,"STANDEN, Jim ",Goalkeeper,42,0,0,2,0,0,10,0,0

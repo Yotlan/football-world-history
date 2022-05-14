@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1990/91
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AGBOOLA, Reuben 	Full Back	5	0	0	0	0	0	0	0	0
-										
-ARMSTRONG, Gordon 	Midfielder	35	6	0	1	0	0	5	1	0
-										
-ATKINSON, Brian 	Midfielder	4+2	0	0	0	0	0	1	0	0
-										
-BALL, Kevin 	Midfielder	33	3	2	1	0	0	5	2	0
-										
-BENNETT, Gary 	Central Defender	37	2	0	1	0	0	5	0	0
-										
-BRACEWELL, Paul 	Midfielder	37	0	0	1	0	0	5	0	0
-										
-BRADY, Kieron 	Midfielder	4+10	2	0	0+1	0	0	1	0	0
-										
-CARTER, Tim 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-CORNFORTH, John 	Midfielder	1+1	0	0	0	0	0	0+2	0	0
-										
-CULLEN, Tony 	Winger	2+3	0	0	0	0	0	0+2	1	0
-										
-DAVENPORT, Peter 	Forward	27+2	7	1	0	0	0	5	0	0
-										
-GABBIADINI, Marco 	Forward	30+1	9	0	0	0	0	4	2	0
-										
-GAUGHAN, Steve 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-GRAY, Martin 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-HARDYMAN, Paul 	Full Back	30+2	0	0	1	0	0	4	0	0
-										
-HAUSER, Thomas 	Forward	5+5	1	0	0	0	0	1+1	1	0
-										
-HAWKE, Warren 	Forward	3+4	0	0	1	0	0	1	0	0
-										
-KAY, John 	Full Back	28+2	0	0	1	0	0	4	0	0
-										
-MACPHAIL, John 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-MOONEY, Brian 	Winger	5+1	0	0	0	0	0	0	0	0
-										
-NORMAN, Tony 	Goalkeeper	37	0	0	1	0	0	5	0	0
-										
-ORD, Richard 	Central Defender	12+2	0	0	0	0	0	0+4	0	0
-										
-OWERS, Gary 	Midfielder	38	1	0	1	0	0	5	1	0
-										
-PASCOE, Colin 	Winger	25	5	0	1	0	0	2	0	0
-										
-RUSH, David 	Forward	8+3	2	0	1	0	0	0+1	0	0
-										
-SMITH, Tony 	Full Back	9	0	0	0	0	0	2	0	0
-										
-WILLIAMS, Paul 	Full Back	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AGBOOLA, Reuben ",Full Back,5,0,0,0,0,0,0,0,0
+,"ARMSTRONG, Gordon ",Midfielder,35,6,0,1,0,0,5,1,0
+,"ATKINSON, Brian ",Midfielder,4+2,0,0,0,0,0,1,0,0
+,"BALL, Kevin ",Midfielder,33,3,2,1,0,0,5,2,0
+,"BENNETT, Gary ",Central Defender,37,2,0,1,0,0,5,0,0
+,"BRACEWELL, Paul ",Midfielder,37,0,0,1,0,0,5,0,0
+,"BRADY, Kieron ",Midfielder,4+10,2,0,0+1,0,0,1,0,0
+,"CARTER, Tim ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CORNFORTH, John ",Midfielder,1+1,0,0,0,0,0,0+2,0,0
+,"CULLEN, Tony ",Winger,2+3,0,0,0,0,0,0+2,1,0
+,"DAVENPORT, Peter ",Forward,27+2,7,1,0,0,0,5,0,0
+,"GABBIADINI, Marco ",Forward,30+1,9,0,0,0,0,4,2,0
+,"GAUGHAN, Steve ",Midfielder,0,0,0,0,0,0,0,0,0
+,"GRAY, Martin ",Midfielder,0,0,0,0,0,0,0,0,0
+,"HARDYMAN, Paul ",Full Back,30+2,0,0,1,0,0,4,0,0
+,"HAUSER, Thomas ",Forward,5+5,1,0,0,0,0,1+1,1,0
+,"HAWKE, Warren ",Forward,3+4,0,0,1,0,0,1,0,0
+,"KAY, John ",Full Back,28+2,0,0,1,0,0,4,0,0
+,"MACPHAIL, John ",Central Defender,1,0,0,0,0,0,0,0,0
+,"MOONEY, Brian ",Winger,5+1,0,0,0,0,0,0,0,0
+,"NORMAN, Tony ",Goalkeeper,37,0,0,1,0,0,5,0,0
+,"ORD, Richard ",Central Defender,12+2,0,0,0,0,0,0+4,0,0
+,"OWERS, Gary ",Midfielder,38,1,0,1,0,0,5,1,0
+,"PASCOE, Colin ",Winger,25,5,0,1,0,0,2,0,0
+,"RUSH, David ",Forward,8+3,2,0,1,0,0,0+1,0,0
+,"SMITH, Tony ",Full Back,9,0,0,0,0,0,2,0,0
+,"WILLIAMS, Paul ",Full Back,1,0,0,0,0,0,0,0,0

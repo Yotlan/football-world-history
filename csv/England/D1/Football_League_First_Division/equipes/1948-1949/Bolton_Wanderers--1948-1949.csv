@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1948/49
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASPINALL, Jack 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-BANKS, Ralph 	Full Back	38	0	0	3	0	0	0	0	0
-										
-BANKS, Tommy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-BARRASS, Malcolm 	Central Defender	37	7	1	2	0	0	0	0	0
-										
-BRADLEY, Jack 	Inside Forward	36	8	0	3	1	0	0	0	0
-										
-DILLON, Vince 	Centre Forward	8	2	0	0	0	0	0	0	0
-										
-ELVY, Reg 	Goalkeeper	27	0	0	3	0	0	0	0	0
-										
-GILLIES, Matt 	Central Defender	33	0	0	3	0	0	0	0	0
-										
-HAMLETT, Lol 	Full Back	9	0	0	1	0	0	0	0	0
-										
-HANSON, Stan 	Goalkeeper	15	0	0	0	0	0	0	0	0
-										
-HERNON, Jimmy 	Inside Forward	17	1	0	0	0	0	0	0	0
-										
-HOWE, Don 	Wing Half	40	2	1	3	0	0	0	0	0
-										
-HUGHES, Billy 	Winger	3	0	0	0	0	0	0	0	0
-										
-HUNT, George 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-JACKSON, Jimmy 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-LEE, Alf 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-LOFTHOUSE, Nat 	Centre Forward	22	7	0	3	1	0	0	0	0
-										
-MCSHANE, Harry 	Winger	36	2	0	3	0	0	0	0	0
-										
-MOIR, Willie 	Inside Forward	42	25	2	3	0	0	0	0	0
-										
-MURPHY, Danny 	Wing Half	17	0	0	1	0	0	0	0	0
-										
-ROBERTS, Jackie 	Full Back	36	2	0	2	0	0	0	0	0
-										
-ROTHWELL, Teddy 	Winger	2	0	0	0	0	0	0	0	0
-										
-WOODWARD, Tom 	Winger	34	2	0	3	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASPINALL, Jack ",Wing Half,6,0,0,0,0,0,0,0,0
+,"BANKS, Ralph ",Full Back,38,0,0,3,0,0,0,0,0
+,"BANKS, Tommy ",Full Back,1,0,0,0,0,0,0,0,0
+,"BARRASS, Malcolm ",Central Defender,37,7,1,2,0,0,0,0,0
+,"BRADLEY, Jack ",Inside Forward,36,8,0,3,1,0,0,0,0
+,"DILLON, Vince ",Centre Forward,8,2,0,0,0,0,0,0,0
+,"ELVY, Reg ",Goalkeeper,27,0,0,3,0,0,0,0,0
+,"GILLIES, Matt ",Central Defender,33,0,0,3,0,0,0,0,0
+,"HAMLETT, Lol ",Full Back,9,0,0,1,0,0,0,0,0
+,"HANSON, Stan ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"HERNON, Jimmy ",Inside Forward,17,1,0,0,0,0,0,0,0
+,"HOWE, Don ",Wing Half,40,2,1,3,0,0,0,0,0
+,"HUGHES, Billy ",Winger,3,0,0,0,0,0,0,0,0
+,"HUNT, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"JACKSON, Jimmy ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"LEE, Alf ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LOFTHOUSE, Nat ",Centre Forward,22,7,0,3,1,0,0,0,0
+,"MCSHANE, Harry ",Winger,36,2,0,3,0,0,0,0,0
+,"MOIR, Willie ",Inside Forward,42,25,2,3,0,0,0,0,0
+,"MURPHY, Danny ",Wing Half,17,0,0,1,0,0,0,0,0
+,"ROBERTS, Jackie ",Full Back,36,2,0,2,0,0,0,0,0
+,"ROTHWELL, Teddy ",Winger,2,0,0,0,0,0,0,0,0
+,"WOODWARD, Tom ",Winger,34,2,0,3,0,0,0,0,0

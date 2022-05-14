@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1977/78
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BECK, John 	Midfielder	15+8	2	0	1	0	0	1	0	0
-										
-BLYTH, Jim 	Goalkeeper	40	0	0	0	0	0	4	0	0
-										
-COOP, Mick 	Full Back	34+1	6	6	1	0	0	4	0	0
-										
-DUGDALE, Alan 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-FERGUSON, Mick 	Forward	30	17	0	1	0	0	4	0	0
-										
-GOODING, Ray 	Midfielder	5	1	0	1	0	0	0	0	0
-										
-GRAYDON, Ray 	Winger	17+3	5	0	0+1	0	0	2+1	1	0
-										
-GREEN, Alan 	Forward	10	5	0	0	0	0	0	0	0
-										
-HOLTON, Jim 	Central Defender	25	0	0	0	0	0	3	1	0
-										
-HUTCHISON, Tommy 	Winger	40	3	0	1	0	0	4	1	0
-										
-MCCARTHY, Ian 	Forward	0	0	0	0	0	0	0	0	0
-										
-MCDONALD, Bobby 	Full Back	42	5	0	1	0	0	4	0	0
-										
-MURPHY, Donal 	Winger	1+2	0	0	0	0	0	0	0	0
-										
-NARDIELLO, Don 	Winger	12+1	1	0	0	0	0	2	0	0
-										
-OAKEY, Graham 	Full Back	21	0	0	0	0	0	4	0	0
-										
-OSGOOD, Keith 	Central Defender	13+1	1	0	0	0	0	0	0	0
-										
-POWELL, Barry 	Midfielder	42	3	2	1	0	0	4	2	0
-										
-ROBERTS, Brian 	Full Back	26	0	0	1	0	0	1+1	0	0
-										
-SEALEY, Les 	Goalkeeper	2	0	0	1	0	0	0	0	0
-										
-THOMPSON, Garry 	Forward	5+1	2	0	0	0	0	0	0	0
-										
-WALKER, Ricky 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WALLACE, Ian 	Forward	41	21	0	1	0	0	4	2	0
-										
-YORATH, Terry 	Midfielder	40	2	0	1	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BECK, John ",Midfielder,15+8,2,0,1,0,0,1,0,0
+,"BLYTH, Jim ",Goalkeeper,40,0,0,0,0,0,4,0,0
+,"COOP, Mick ",Full Back,34+1,6,6,1,0,0,4,0,0
+,"DUGDALE, Alan ",Central Defender,1,0,0,0,0,0,0,0,0
+,"FERGUSON, Mick ",Forward,30,17,0,1,0,0,4,0,0
+,"GOODING, Ray ",Midfielder,5,1,0,1,0,0,0,0,0
+,"GRAYDON, Ray ",Winger,17+3,5,0,0+1,0,0,2+1,1,0
+,"GREEN, Alan ",Forward,10,5,0,0,0,0,0,0,0
+,"HOLTON, Jim ",Central Defender,25,0,0,0,0,0,3,1,0
+,"HUTCHISON, Tommy ",Winger,40,3,0,1,0,0,4,1,0
+,"MCCARTHY, Ian ",Forward,0,0,0,0,0,0,0,0,0
+,"MCDONALD, Bobby ",Full Back,42,5,0,1,0,0,4,0,0
+,"MURPHY, Donal ",Winger,1+2,0,0,0,0,0,0,0,0
+,"NARDIELLO, Don ",Winger,12+1,1,0,0,0,0,2,0,0
+,"OAKEY, Graham ",Full Back,21,0,0,0,0,0,4,0,0
+,"OSGOOD, Keith ",Central Defender,13+1,1,0,0,0,0,0,0,0
+,"POWELL, Barry ",Midfielder,42,3,2,1,0,0,4,2,0
+,"ROBERTS, Brian ",Full Back,26,0,0,1,0,0,1+1,0,0
+,"SEALEY, Les ",Goalkeeper,2,0,0,1,0,0,0,0,0
+,"THOMPSON, Garry ",Forward,5+1,2,0,0,0,0,0,0,0
+,"WALKER, Ricky ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALLACE, Ian ",Forward,41,21,0,1,0,0,4,2,0
+,"YORATH, Terry ",Midfielder,40,2,0,1,0,0,3,0,0

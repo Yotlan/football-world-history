@@ -1,75 +1,37 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1951/52
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAXTER, Billy 	Wing Half	20	1	0	3	0	0	0	0	0
-										
-BIRCH, Brian 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-BROADBENT, Peter 	Midfielder	16	1	0	3	1	0	0	0	0
-										
-BROWN, Gordon 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-BURKINSHAW, Keith 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-CHATHAM, Ray 	Central Defender	23	0	0	3	0	0	0	0	0
-										
-CLEWS, Maxie 	Winger	1	0	0	0	0	0	0	0	0
-										
-CROOK, Billy 	Wing Half	20	0	0	0	0	0	0	0	0
-										
-DEAKIN, Mike 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-DEELEY, Norman 	Winger	6	0	0	0	0	0	0	0	0
-										
-DUNN, Jimmy 	Inside Forward	26	9	0	0	0	0	0	0	0
-										
-GIBBONS, Len 	Full Back	22	0	0	3	0	0	0	0	0
-										
-GUTTRIDGE, Bill 	Full Back	2	0	0	0	0	0	0	0	0
-										
-HANCOCKS, Johnny 	Winger	30	12	1	3	0	0	0	0	0
-										
-KEYWORTH, Ken 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-MULLEN, Jimmy 	Winger	40	11	0	3	3	0	0	0	0
-										
-NEAL, Dick 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-PARSONS, Dennis 	Goalkeeper	11	0	0	3	0	0	0	0	0
-										
-PRITCHARD, Roy 	Full Back	19	0	0	0	0	0	0	0	0
-										
-PYE, Jesse 	Centre Forward	27	15	0	3	0	0	0	0	0
-										
-SHORT, Jack 	Full Back	25	0	0	1	2	0	0	0	0
-										
-SHORTHOUSE, Bill 	Central Defender	37	0	0	3	0	0	0	0	0
-										
-SIMS, Nigel 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-SMITH, Les 	Winger	15	7	1	0	0	0	0	0	0
-										
-SMYTH, Sammy 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-SQUIRES, Barry 	Winger	0	0	0	0	0	0	0	0	0
-										
-STUART, Eddie 	Full Back	2	1	0	0	0	0	0	0	0
-										
-SWINBOURNE, Roy 	Centre Forward	19	4	0	1	0	0	0	0	0
-										
-THOMAS, Joe 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WALKER, Johnny 	Inside Forward	5	2	0	0	0	0	0	0	0
-										
-WHITFIELD, Ken 	Central Defender	8	3	0	1	1	0	0	0	0
-										
-WILLIAMS, Bert 	Goalkeeper	27	0	0	0	0	0	0	0	0
-										
-WILLS, Gordon 	Winger	0	0	0	0	0	0	0	0	0
-										
-WILSHAW, Dennis 	Inside Forward	14	5	0	0	0	0	0	0	0
-										
-WRIGHT, Billy 	Wing Half	39	0	0	3	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAXTER, Billy ",Wing Half,20,1,0,3,0,0,0,0,0
+,"BIRCH, Brian ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"BROADBENT, Peter ",Midfielder,16,1,0,3,1,0,0,0,0
+,"BROWN, Gordon ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BURKINSHAW, Keith ",Central Defender,0,0,0,0,0,0,0,0,0
+,"CHATHAM, Ray ",Central Defender,23,0,0,3,0,0,0,0,0
+,"CLEWS, Maxie ",Winger,1,0,0,0,0,0,0,0,0
+,"CROOK, Billy ",Wing Half,20,0,0,0,0,0,0,0,0
+,"DEAKIN, Mike ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"DEELEY, Norman ",Winger,6,0,0,0,0,0,0,0,0
+,"DUNN, Jimmy ",Inside Forward,26,9,0,0,0,0,0,0,0
+,"GIBBONS, Len ",Full Back,22,0,0,3,0,0,0,0,0
+,"GUTTRIDGE, Bill ",Full Back,2,0,0,0,0,0,0,0,0
+,"HANCOCKS, Johnny ",Winger,30,12,1,3,0,0,0,0,0
+,"KEYWORTH, Ken ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MULLEN, Jimmy ",Winger,40,11,0,3,3,0,0,0,0
+,"NEAL, Dick ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PARSONS, Dennis ",Goalkeeper,11,0,0,3,0,0,0,0,0
+,"PRITCHARD, Roy ",Full Back,19,0,0,0,0,0,0,0,0
+,"PYE, Jesse ",Centre Forward,27,15,0,3,0,0,0,0,0
+,"SHORT, Jack ",Full Back,25,0,0,1,2,0,0,0,0
+,"SHORTHOUSE, Bill ",Central Defender,37,0,0,3,0,0,0,0,0
+,"SIMS, Nigel ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SMITH, Les ",Winger,15,7,1,0,0,0,0,0,0
+,"SMYTH, Sammy ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"SQUIRES, Barry ",Winger,0,0,0,0,0,0,0,0,0
+,"STUART, Eddie ",Full Back,2,1,0,0,0,0,0,0,0
+,"SWINBOURNE, Roy ",Centre Forward,19,4,0,1,0,0,0,0,0
+,"THOMAS, Joe ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALKER, Johnny ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"WHITFIELD, Ken ",Central Defender,8,3,0,1,1,0,0,0,0
+,"WILLIAMS, Bert ",Goalkeeper,27,0,0,0,0,0,0,0,0
+,"WILLS, Gordon ",Winger,0,0,0,0,0,0,0,0,0
+,"WILSHAW, Dennis ",Inside Forward,14,5,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,39,0,0,3,0,0,0,0,0

@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1956/57
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, George 	Wing Half	40	0	0	2	0	0	0	0	0
-										
-ANDERSON, Stan 	Wing Half	36	7	0	2	0	0	0	0	0
-										
-BINGHAM, Billy 	Winger	27	5	0	1	1	0	0	0	0
-										
-BOLLANDS, John 	Goalkeeper	38	0	0	2	0	0	0	0	0
-										
-BOLTON, Laurie 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-BONE, John 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-CHILTON, Fred 	Full Back	2	0	0	0	0	0	0	0	0
-										
-CLARK, Harry 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-DANIEL, Ray 	Central Defender	36	4	3	2	0	0	0	0	0
-										
-ELLIOTT, Billy 	Winger	36	3	0	2	1	0	0	0	0
-										
-FLEMING, Charlie 	Centre Forward	40	25	1	2	2	0	0	0	0
-										
-FRASER, Willie 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-GRAINGER, Colin 	Winger	13	1	0	0	0	0	0	0	0
-										
-HANNIGAN, Johnny 	Winger	22	5	0	2	2	0	0	0	0
-										
-HEDLEY, Jack 	Full Back	42	0	0	2	0	0	0	0	0
-										
-HUDGELL, Arthur 	Full Back	1	0	0	0	0	0	0	0	0
-										
-KEMP, Sammy 	Winger	2	0	0	1	0	0	0	0	0
-										
-MALTBY, Jack 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-MCDONALD, Joe 	Full Back	35	1	0	2	0	0	0	0	0
-										
-MORRISON, Willie 	Wing Half	13	0	0	0	0	0	0	0	0
-										
-O'NEILL, Alan 	Inside Forward	9	2	0	0	0	0	0	0	0
-										
-PURDON, Ted 	Centre Forward	13	4	0	0	0	0	0	0	0
-										
-REVIE, Don 	Inside Forward	16	2	0	0	0	0	0	0	0
-										
-ROUTLEDGE, Ron 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SHACKLETON, Len 	Inside Forward	26	8	0	2	0	0	0	0	0
-										
-WEDDLE, Derek 	Inside Forward	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, George ",Wing Half,40,0,0,2,0,0,0,0,0
+,"ANDERSON, Stan ",Wing Half,36,7,0,2,0,0,0,0,0
+,"BINGHAM, Billy ",Winger,27,5,0,1,1,0,0,0,0
+,"BOLLANDS, John ",Goalkeeper,38,0,0,2,0,0,0,0,0
+,"BOLTON, Laurie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BONE, John ",Central Defender,2,0,0,0,0,0,0,0,0
+,"CHILTON, Fred ",Full Back,2,0,0,0,0,0,0,0,0
+,"CLARK, Harry ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"DANIEL, Ray ",Central Defender,36,4,3,2,0,0,0,0,0
+,"ELLIOTT, Billy ",Winger,36,3,0,2,1,0,0,0,0
+,"FLEMING, Charlie ",Centre Forward,40,25,1,2,2,0,0,0,0
+,"FRASER, Willie ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"GRAINGER, Colin ",Winger,13,1,0,0,0,0,0,0,0
+,"HANNIGAN, Johnny ",Winger,22,5,0,2,2,0,0,0,0
+,"HEDLEY, Jack ",Full Back,42,0,0,2,0,0,0,0,0
+,"HUDGELL, Arthur ",Full Back,1,0,0,0,0,0,0,0,0
+,"KEMP, Sammy ",Winger,2,0,0,1,0,0,0,0,0
+,"MALTBY, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCDONALD, Joe ",Full Back,35,1,0,2,0,0,0,0,0
+,"MORRISON, Willie ",Wing Half,13,0,0,0,0,0,0,0,0
+,"O'NEILL, Alan ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"PURDON, Ted ",Centre Forward,13,4,0,0,0,0,0,0,0
+,"REVIE, Don ",Inside Forward,16,2,0,0,0,0,0,0,0
+,"ROUTLEDGE, Ron ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SHACKLETON, Len ",Inside Forward,26,8,0,2,0,0,0,0,0
+,"WEDDLE, Derek ",Inside Forward,1,0,0,0,0,0,0,0,0

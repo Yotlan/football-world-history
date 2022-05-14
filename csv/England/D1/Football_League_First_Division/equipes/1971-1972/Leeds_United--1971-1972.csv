@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1971/72
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATES, Mick 	Midfielder	6+3	0	0	2	0	0	2	0	0
-										
-BELFITT, Rod 	Forward	10+1	1	0	0	0	0	6	0	0
-										
-BREMNER, Billy 	Midfielder	41	5	0	7	0	0	6	0	0
-										
-CHARLTON, Jack 	Central Defender	41	5	0	5	1	0	5	0	0
-										
-CLARKE, Allan 	Forward	35	11	0	6	4	0	2	0	0
-										
-COOPER, Terry 	Full Back	34	1	0	5	0	0	4	0	0
-										
-DAVEY, Nigel 	Full Back	0	0	0	0	0	0	2	0	0
-										
-EDWARDS, Keith 	Central Defender	0+1	0	0	0	0	0	0	0	0
-										
-FAULKNER, John 	Central Defender	0	0	0	0	0	0	2	0	0
-										
-GALVIN, Chris 	Midfielder	2+1	0	0	0+1	0	0	3	1	0
-										
-GILES, Johnny 	Midfielder	38	6	3	7	4	1	6	0	0
-										
-GRAY, Eddie 	Winger	25+1	6	0	6	0	0	0+1	0	0
-										
-HARVEY, David 	Goalkeeper	7	0	0	2	0	0	2	0	0
-										
-HUNTER, Norman 	Central Defender	42	0	0	7	0	0	6+1	0	0
-										
-JONES, Mick 	Forward	24	11	0	5	2	0	1	0	0
-										
-JORDAN, Joe 	Forward	5+7	0	0	1+1	0	0	1	1	0
-										
-LORIMER, Peter 	Forward	42	23	0	7	3	0	7	3	0
-										
-MADELEY, Paul 	Central Defender	42	2	0	7	0	0	5	0	0
-										
-MANN, Jimmy 	Midfielder	1	0	0	0	0	0	1+1	0	0
-										
-O'DONNELL, Jon 	Full Back	0	0	0	0	0	0	0	0	0
-										
-REANEY, Paul 	Full Back	29+4	0	0	5+1	0	0	6	0	0
-										
-SAUNDERS, John 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-SHAW, John 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-SPRAKE, Gary 	Goalkeeper	35	0	0	5	0	0	4+1	0	0
-										
-YORATH, Terry 	Midfielder	3+4	1	0	0	0	0	5	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATES, Mick ",Midfielder,6+3,0,0,2,0,0,2,0,0
+,"BELFITT, Rod ",Forward,10+1,1,0,0,0,0,6,0,0
+,"BREMNER, Billy ",Midfielder,41,5,0,7,0,0,6,0,0
+,"CHARLTON, Jack ",Central Defender,41,5,0,5,1,0,5,0,0
+,"CLARKE, Allan ",Forward,35,11,0,6,4,0,2,0,0
+,"COOPER, Terry ",Full Back,34,1,0,5,0,0,4,0,0
+,"DAVEY, Nigel ",Full Back,0,0,0,0,0,0,2,0,0
+,"EDWARDS, Keith ",Central Defender,0+1,0,0,0,0,0,0,0,0
+,"FAULKNER, John ",Central Defender,0,0,0,0,0,0,2,0,0
+,"GALVIN, Chris ",Midfielder,2+1,0,0,0+1,0,0,3,1,0
+,"GILES, Johnny ",Midfielder,38,6,3,7,4,1,6,0,0
+,"GRAY, Eddie ",Winger,25+1,6,0,6,0,0,0+1,0,0
+,"HARVEY, David ",Goalkeeper,7,0,0,2,0,0,2,0,0
+,"HUNTER, Norman ",Central Defender,42,0,0,7,0,0,6+1,0,0
+,"JONES, Mick ",Forward,24,11,0,5,2,0,1,0,0
+,"JORDAN, Joe ",Forward,5+7,0,0,1+1,0,0,1,1,0
+,"LORIMER, Peter ",Forward,42,23,0,7,3,0,7,3,0
+,"MADELEY, Paul ",Central Defender,42,2,0,7,0,0,5,0,0
+,"MANN, Jimmy ",Midfielder,1,0,0,0,0,0,1+1,0,0
+,"O'DONNELL, Jon ",Full Back,0,0,0,0,0,0,0,0,0
+,"REANEY, Paul ",Full Back,29+4,0,0,5+1,0,0,6,0,0
+,"SAUNDERS, John ",Central Defender,0,0,0,0,0,0,0,0,0
+,"SHAW, John ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"SPRAKE, Gary ",Goalkeeper,35,0,0,5,0,0,4+1,0,0
+,"YORATH, Terry ",Midfielder,3+4,1,0,0,0,0,5,0,0

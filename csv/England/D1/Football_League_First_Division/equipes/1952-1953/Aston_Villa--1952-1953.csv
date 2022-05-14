@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1952/53
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDIS, Peter 	Full Back	23	1	0	4	0	0	0	0	0
-										
-BLANCHFLOWER, Danny 	Wing Half	41	4	0	5	0	0	0	0	0
-										
-CANNING, Larry 	Wing Half	9	1	0	0	0	0	0	0	0
-										
-CORDELL, Graham 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-DIXON, Johnny 	Inside Forward	27	13	0	5	1	0	0	0	0
-										
-DORSETT, Dickie 	Wing Half	32	1	0	5	0	0	0	0	0
-										
-GIBSON, Colin 	Winger	30	5	0	2	1	0	0	0	0
-										
-GOFFIN, Billy 	Winger	23	1	0	3	1	0	0	0	0
-										
-JONES, Keith 	Goalkeeper	20	0	0	0	0	0	0	0	0
-										
-LOCKHART, Norman 	Winger	14	1	0	2	0	0	0	0	0
-										
-LYNN, Stan 	Full Back	18	1	0	1	0	0	0	0	0
-										
-MARTIN, Con 	Central Defender	10	0	0	0	0	0	0	0	0
-										
-MCPARLAND, Peter 	Winger	1	0	0	0	0	0	0	0	0
-										
-MOSS, Amos 	Wing Half	12	3	0	0	0	0	0	0	0
-										
-MOSS, Frank 	Central Defender	33	0	0	5	0	0	0	0	0
-										
-PACE, Derek 'Doc' 	Centre Forward	11	5	0	0	0	0	0	0	0
-										
-PARKES, Harry 	Full Back	40	0	0	5	0	0	0	0	0
-										
-PARSONS, Dennis 	Goalkeeper	20	0	0	5	0	0	0	0	0
-										
-ROBERTS, Ken 	Winger	29	5	0	4	0	0	0	0	0
-										
-SMITH, Herbie 	Winger	12	1	0	0	0	0	0	0	0
-										
-THOMPSON, Tommy 	Inside Forward	22	9	0	5	2	0	0	0	0
-										
-VINALL, Albert 	Full Back	3	0	0	0	0	0	0	0	0
-										
-WALSH, Davy 	Centre Forward	30	10	1	4	3	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDIS, Peter ",Full Back,23,1,0,4,0,0,0,0,0
+,"BLANCHFLOWER, Danny ",Wing Half,41,4,0,5,0,0,0,0,0
+,"CANNING, Larry ",Wing Half,9,1,0,0,0,0,0,0,0
+,"CORDELL, Graham ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DIXON, Johnny ",Inside Forward,27,13,0,5,1,0,0,0,0
+,"DORSETT, Dickie ",Wing Half,32,1,0,5,0,0,0,0,0
+,"GIBSON, Colin ",Winger,30,5,0,2,1,0,0,0,0
+,"GOFFIN, Billy ",Winger,23,1,0,3,1,0,0,0,0
+,"JONES, Keith ",Goalkeeper,20,0,0,0,0,0,0,0,0
+,"LOCKHART, Norman ",Winger,14,1,0,2,0,0,0,0,0
+,"LYNN, Stan ",Full Back,18,1,0,1,0,0,0,0,0
+,"MARTIN, Con ",Central Defender,10,0,0,0,0,0,0,0,0
+,"MCPARLAND, Peter ",Winger,1,0,0,0,0,0,0,0,0
+,"MOSS, Amos ",Wing Half,12,3,0,0,0,0,0,0,0
+,"MOSS, Frank ",Central Defender,33,0,0,5,0,0,0,0,0
+,"PACE, Derek 'Doc' ",Centre Forward,11,5,0,0,0,0,0,0,0
+,"PARKES, Harry ",Full Back,40,0,0,5,0,0,0,0,0
+,"PARSONS, Dennis ",Goalkeeper,20,0,0,5,0,0,0,0,0
+,"ROBERTS, Ken ",Winger,29,5,0,4,0,0,0,0,0
+,"SMITH, Herbie ",Winger,12,1,0,0,0,0,0,0,0
+,"THOMPSON, Tommy ",Inside Forward,22,9,0,5,2,0,0,0,0
+,"VINALL, Albert ",Full Back,3,0,0,0,0,0,0,0,0
+,"WALSH, Davy ",Centre Forward,30,10,1,4,3,0,0,0,0

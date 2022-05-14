@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1931/32
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEDFORD, Harry 	Centre Forward	7	2	0	0	0	0	0	0	0
-										
-BROWN, Fred 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-CONNOR, Jimmy 	Winger	36	5	1	5	0	0	0	0	0
-										
-DEVINE, Joe 	Inside Forward	34	5	0	5	0	0	0	0	0
-										
-EDEN, Billy 	Winger	11	2	0	2	0	0	0	0	0
-										
-EDGAR, Danny 	Full Back	7	0	0	0	0	0	0	0	0
-										
-GALLACHER, Patsy 	Inside Forward	29	11	0	5	2	0	0	0	0
-										
-GURNEY, Bobby 	Centre Forward	30	15	0	0	0	0	0	0	0
-										
-HALL, Alex 	Full Back	4	0	0	2	0	0	0	0	0
-										
-HASTINGS, Alex 	Wing Half	37	0	0	5	0	0	0	0	0
-										
-HOLLEY, Tom 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-INSKIP, Joe 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-JOHNSTON, Bert 	Central Defender	7	0	0	1	0	0	0	0	0
-										
-KEETON, Walter 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-LAIRD, William 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-LEONARD, Jimmy 'Hookey' 	Inside Forward	9	2	0	0	0	0	0	0	0
-										
-MAKEPEACE, Ralph 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MCDOUGALL, Jock 	Central Defender	34	0	0	3	1	0	0	0	0
-										
-MIDDLETON, Bob 	Goalkeeper	27	0	0	0	0	0	0	0	0
-										
-MORRIS, Sam 	Wing Half	19	0	0	0	0	0	0	0	0
-										
-MURRAY, Bill 	Full Back	40	0	0	3	0	0	0	0	0
-										
-NISBET, Ken 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-PARKIN, Reg 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-POULTER, Harry 	Centre Forward	0	0	0	3	2	0	0	0	0
-										
-SHAW, Harry 	Full Back	42	2	2	5	1	1	0	0	0
-										
-SMITH, Thomas 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-TEMPLE, Jimmy 	Winger	22	7	0	3	0	0	0	0	0
-										
-THOMSON, Charlie 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-THORPE, Jimmy 	Goalkeeper	15	0	0	5	0	0	0	0	0
-										
-URWIN, Tommy 	Winger	7	0	0	2	0	0	0	0	0
-										
-VINALL, Jack 	Centre Forward	15	2	0	5	1	0	0	0	0
-										
-WALLACE, Thomas 	Central Defender	0	0	0	1	0	0	0	0	0
-										
-WELSBY, Arthur 	Winger	3	1	0	0	0	0	0	0	0
-										
-YORSTON, Benny 	Inside Forward	17	12	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEDFORD, Harry ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"BROWN, Fred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CONNOR, Jimmy ",Winger,36,5,1,5,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,34,5,0,5,0,0,0,0,0
+,"EDEN, Billy ",Winger,11,2,0,2,0,0,0,0,0
+,"EDGAR, Danny ",Full Back,7,0,0,0,0,0,0,0,0
+,"GALLACHER, Patsy ",Inside Forward,29,11,0,5,2,0,0,0,0
+,"GURNEY, Bobby ",Centre Forward,30,15,0,0,0,0,0,0,0
+,"HALL, Alex ",Full Back,4,0,0,2,0,0,0,0,0
+,"HASTINGS, Alex ",Wing Half,37,0,0,5,0,0,0,0,0
+,"HOLLEY, Tom ",Central Defender,0,0,0,0,0,0,0,0,0
+,"INSKIP, Joe ",Central Defender,0,0,0,0,0,0,0,0,0
+,"JOHNSTON, Bert ",Central Defender,7,0,0,1,0,0,0,0,0
+,"KEETON, Walter ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"LAIRD, William ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"LEONARD, Jimmy 'Hookey' ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"MAKEPEACE, Ralph ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MCDOUGALL, Jock ",Central Defender,34,0,0,3,1,0,0,0,0
+,"MIDDLETON, Bob ",Goalkeeper,27,0,0,0,0,0,0,0,0
+,"MORRIS, Sam ",Wing Half,19,0,0,0,0,0,0,0,0
+,"MURRAY, Bill ",Full Back,40,0,0,3,0,0,0,0,0
+,"NISBET, Ken ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PARKIN, Reg ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"POULTER, Harry ",Centre Forward,0,0,0,3,2,0,0,0,0
+,"SHAW, Harry ",Full Back,42,2,2,5,1,1,0,0,0
+,"SMITH, Thomas ",Wing Half,0,0,0,0,0,0,0,0,0
+,"TEMPLE, Jimmy ",Winger,22,7,0,3,0,0,0,0,0
+,"THOMSON, Charlie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"THORPE, Jimmy ",Goalkeeper,15,0,0,5,0,0,0,0,0
+,"URWIN, Tommy ",Winger,7,0,0,2,0,0,0,0,0
+,"VINALL, Jack ",Centre Forward,15,2,0,5,1,0,0,0,0
+,"WALLACE, Thomas ",Central Defender,0,0,0,1,0,0,0,0,0
+,"WELSBY, Arthur ",Winger,3,1,0,0,0,0,0,0,0
+,"YORSTON, Benny ",Inside Forward,17,12,0,0,0,0,0,0,0

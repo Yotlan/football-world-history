@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1969/70
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRANFOOT, Ian 	Full Back	10	0	0	0	0	0	1	0	0
-										
-BURTON, Ken 	Full Back	20+1	1	0	0+1	0	0	6	0	0
-										
-COLEMAN, Tony 	Winger	25+1	2	0	2	0	0	3	0	0
-										
-CRAIG, Tommy 	Midfielder	40	5	0	2	0	0	5	0	0
-										
-DOWNES, Steve 	Forward	8+4	1	0	0	0	0	4	2	0
-										
-ELLIS, Sam 	Central Defender	31	0	0	1	0	0	6	0	0
-										
-EUSTACE, Peter 	Midfielder	18+1	5	1	0	0	0	1	0	0
-										
-FANTHAM, John 	Forward	5+1	0	0	0	0	0	1	0	0
-										
-FORD, David 	Forward	18	1	0	0	0	0	2	0	0
-										
-GRUMMITT, Peter 	Goalkeeper	15	0	0	0	0	0	3+1	0	0
-										
-IRVINE, Archie 	Midfielder	7	0	0	0	0	0	2	0	0
-										
-LAWSON, Willie 	Winger	8	0	0	1	0	0	1+1	0	0
-										
-MEGSON, Don 	Full Back	6	0	0	2	0	0	0	0	0
-										
-MOBLEY, Vic 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-PRENDERGAST, Mick 	Forward	9+3	2	0	0	0	0	0+1	0	0
-										
-PROPHETT, Colin 	Central Defender	25+5	2	0	2	0	0	4+1	0	0
-										
-PUGH, Graham 	Midfielder	21+3	1	0	2	0	0	2	1	0
-										
-SINCLAIR, Jackie 	Winger	19	3	0	1	0	0	4	1	0
-										
-SMITH, Wilf 	Full Back	40	3	0	2	0	0	3	0	0
-										
-SPRINGETT, Peter 	Goalkeeper	26	0	0	2	0	0	3	0	0
-										
-THOMPSON, Alan 	Central Defender	0	0	0	0	0	0	1	0	0
-										
-WARBOYS, Alan 	Forward	30+4	6	0	2	0	0	6	2	0
-										
-WHITHAM, Jack 	Forward	18+3	8	0	2	3	0	0	0	0
-										
-WICKS, Peter 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-WILCOCKSON, Harold 	Full Back	19	0	0	0	0	0	3	0	0
-										
-WOODALL, Brian 	Winger	1	0	0	0	0	0	0	0	0
-										
-YOUNG, Gerry 	Central Defender	39	0	0	1	0	0	5	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRANFOOT, Ian ",Full Back,10,0,0,0,0,0,1,0,0
+,"BURTON, Ken ",Full Back,20+1,1,0,0+1,0,0,6,0,0
+,"COLEMAN, Tony ",Winger,25+1,2,0,2,0,0,3,0,0
+,"CRAIG, Tommy ",Midfielder,40,5,0,2,0,0,5,0,0
+,"DOWNES, Steve ",Forward,8+4,1,0,0,0,0,4,2,0
+,"ELLIS, Sam ",Central Defender,31,0,0,1,0,0,6,0,0
+,"EUSTACE, Peter ",Midfielder,18+1,5,1,0,0,0,1,0,0
+,"FANTHAM, John ",Forward,5+1,0,0,0,0,0,1,0,0
+,"FORD, David ",Forward,18,1,0,0,0,0,2,0,0
+,"GRUMMITT, Peter ",Goalkeeper,15,0,0,0,0,0,3+1,0,0
+,"IRVINE, Archie ",Midfielder,7,0,0,0,0,0,2,0,0
+,"LAWSON, Willie ",Winger,8,0,0,1,0,0,1+1,0,0
+,"MEGSON, Don ",Full Back,6,0,0,2,0,0,0,0,0
+,"MOBLEY, Vic ",Central Defender,3,0,0,0,0,0,0,0,0
+,"PRENDERGAST, Mick ",Forward,9+3,2,0,0,0,0,0+1,0,0
+,"PROPHETT, Colin ",Central Defender,25+5,2,0,2,0,0,4+1,0,0
+,"PUGH, Graham ",Midfielder,21+3,1,0,2,0,0,2,1,0
+,"SINCLAIR, Jackie ",Winger,19,3,0,1,0,0,4,1,0
+,"SMITH, Wilf ",Full Back,40,3,0,2,0,0,3,0,0
+,"SPRINGETT, Peter ",Goalkeeper,26,0,0,2,0,0,3,0,0
+,"THOMPSON, Alan ",Central Defender,0,0,0,0,0,0,1,0,0
+,"WARBOYS, Alan ",Forward,30+4,6,0,2,0,0,6,2,0
+,"WHITHAM, Jack ",Forward,18+3,8,0,2,3,0,0,0,0
+,"WICKS, Peter ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WILCOCKSON, Harold ",Full Back,19,0,0,0,0,0,3,0,0
+,"WOODALL, Brian ",Winger,1,0,0,0,0,0,0,0,0
+,"YOUNG, Gerry ",Central Defender,39,0,0,1,0,0,5,0,0

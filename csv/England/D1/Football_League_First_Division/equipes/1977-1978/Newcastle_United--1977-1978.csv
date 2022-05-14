@@ -1,77 +1,38 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1977/78
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKER, Mickey 	Full Back	14+1	0	0	4	0	0	0	0	0
-										
-BARROWCLOUGH, Stewart 	Winger	30+3	1	0	2+2	0	0	5	0	0
-										
-BARTON, David 	Central Defender	14	0	0	0	0	0	0	0	0
-										
-BIRD, John 	Central Defender	25+1	1	0	2	1	0	2+1	0	0
-										
-BLACKHALL, Ray 	Full Back	15+1	0	0	4	2	0	1	0	0
-										
-BLACKLEY, John 	Central Defender	18	0	0	2	0	0	0	0	0
-										
-BURNS, Micky 	Forward	41	15	3	4	1	0	5	0	0
-										
-CALLACHAN, Ralph 	Midfielder	9	0	0	0	0	0	2	0	0
-										
-CANNELL, Paul 	Forward	8	0	0	0	0	0	3+1	1	0
-										
-CARR, Kevin 	Goalkeeper	9	0	0	2	0	0	0	0	0
-										
-CASSIDY, Tommy 	Midfielder	17	5	0	2+1	0	0	4	0	0
-										
-CRAIG, David 	Full Back	6	0	0	0	0	0	2	0	0
-										
-CRAIG, Tommy 	Midfielder	24	3	0	2	1	1	5	2	0
-										
-GORRY, Martin 	Full Back	0+1	0	0	0	0	0	0	0	0
-										
-GOWLING, Alan 	Forward	14+1	3	0	4	0	0	3	3	0
-										
-GUY, Alan 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-GUY, Keith 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-HARDWICK, Steve 	Goalkeeper	9	0	0	0	0	0	2	0	0
-										
-HUDSON, Ray 'Rocky' 	Midfielder	4+1	0	0	2	1	0	0+1	0	0
-										
-KELLY, Peter 	Full Back	7+2	0	0	0	0	0	1	0	0
-										
-KENNEDY, Alan 	Full Back	26	3	0	2	0	0	3	0	0
-										
-LARNACH, Mike 	Forward	12+2	0	0	0	0	0	0	0	0
-										
-MAHONEY, Mike 	Goalkeeper	24	0	0	2	0	0	3	0	0
-										
-MARTIN, Dennis 	Winger	9+2	2	0	0	0	0	0	0	0
-										
-MCCAFFERY, Aidan 	Central Defender	14	1	0	2	0	0	4	0	0
-										
-MCGHEE, Mark 	Forward	17+1	3	0	2	0	0	0	0	0
-										
-MCLEAN, David 	Midfielder	6+1	0	0	0	0	0	2	0	0
-										
-MITCHELL, Kenny 	Full Back	8	1	0	2	0	0	0	0	0
-										
-NATTRASS, Irving 	Full Back	37+1	3	0	4	0	0	5	0	0
-										
-NULTY, Geoff 	Midfielder	11	0	0	0	0	0	2	0	0
-										
-OATES, Graham 	Midfielder	4+6	0	0	0	0	0	1	0	0
-										
-PARKINSON, Andy 	Forward	0+2	0	0	0	0	0	0	0	0
-										
-ROBINSON, Stuart 	Winger	7+1	1	0	0	0	0	0	0	0
-										
-SCOTT, Jamie 	Midfielder	7+1	0	0	0	0	0	0	0	0
-										
-SMITH, Tony 	Central Defender	1+1	0	0	0	0	0	0	0	0
-										
-WALKER, Nigel 	Midfielder	14	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKER, Mickey ",Full Back,14+1,0,0,4,0,0,0,0,0
+,"BARROWCLOUGH, Stewart ",Winger,30+3,1,0,2+2,0,0,5,0,0
+,"BARTON, David ",Central Defender,14,0,0,0,0,0,0,0,0
+,"BIRD, John ",Central Defender,25+1,1,0,2,1,0,2+1,0,0
+,"BLACKHALL, Ray ",Full Back,15+1,0,0,4,2,0,1,0,0
+,"BLACKLEY, John ",Central Defender,18,0,0,2,0,0,0,0,0
+,"BURNS, Micky ",Forward,41,15,3,4,1,0,5,0,0
+,"CALLACHAN, Ralph ",Midfielder,9,0,0,0,0,0,2,0,0
+,"CANNELL, Paul ",Forward,8,0,0,0,0,0,3+1,1,0
+,"CARR, Kevin ",Goalkeeper,9,0,0,2,0,0,0,0,0
+,"CASSIDY, Tommy ",Midfielder,17,5,0,2+1,0,0,4,0,0
+,"CRAIG, David ",Full Back,6,0,0,0,0,0,2,0,0
+,"CRAIG, Tommy ",Midfielder,24,3,0,2,1,1,5,2,0
+,"GORRY, Martin ",Full Back,0+1,0,0,0,0,0,0,0,0
+,"GOWLING, Alan ",Forward,14+1,3,0,4,0,0,3,3,0
+,"GUY, Alan ",Midfielder,1,0,0,0,0,0,0,0,0
+,"GUY, Keith ",Midfielder,0,0,0,0,0,0,0,0,0
+,"HARDWICK, Steve ",Goalkeeper,9,0,0,0,0,0,2,0,0
+,"HUDSON, Ray 'Rocky' ",Midfielder,4+1,0,0,2,1,0,0+1,0,0
+,"KELLY, Peter ",Full Back,7+2,0,0,0,0,0,1,0,0
+,"KENNEDY, Alan ",Full Back,26,3,0,2,0,0,3,0,0
+,"LARNACH, Mike ",Forward,12+2,0,0,0,0,0,0,0,0
+,"MAHONEY, Mike ",Goalkeeper,24,0,0,2,0,0,3,0,0
+,"MARTIN, Dennis ",Winger,9+2,2,0,0,0,0,0,0,0
+,"MCCAFFERY, Aidan ",Central Defender,14,1,0,2,0,0,4,0,0
+,"MCGHEE, Mark ",Forward,17+1,3,0,2,0,0,0,0,0
+,"MCLEAN, David ",Midfielder,6+1,0,0,0,0,0,2,0,0
+,"MITCHELL, Kenny ",Full Back,8,1,0,2,0,0,0,0,0
+,"NATTRASS, Irving ",Full Back,37+1,3,0,4,0,0,5,0,0
+,"NULTY, Geoff ",Midfielder,11,0,0,0,0,0,2,0,0
+,"OATES, Graham ",Midfielder,4+6,0,0,0,0,0,1,0,0
+,"PARKINSON, Andy ",Forward,0+2,0,0,0,0,0,0,0,0
+,"ROBINSON, Stuart ",Winger,7+1,1,0,0,0,0,0,0,0
+,"SCOTT, Jamie ",Midfielder,7+1,0,0,0,0,0,0,0,0
+,"SMITH, Tony ",Central Defender,1+1,0,0,0,0,0,0,0,0
+,"WALKER, Nigel ",Midfielder,14,0,0,0,0,0,0,0,0

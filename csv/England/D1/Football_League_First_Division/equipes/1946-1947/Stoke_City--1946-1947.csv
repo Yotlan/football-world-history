@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1946/47
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANTONIO, George 	Inside Forward	16	5	0	0	0	0	0	0	0
-										
-BAKER, Frank 	Winger	39	6	0	5	0	0	0	0	0
-										
-BRIGHAM, Harry 	Full Back	12	0	0	0	0	0	0	0	0
-										
-BROWN, Roy 	Centre Forward	4	0	0	0	0	0	0	0	0
-										
-FOSTER, Manny 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-FRANKLIN, Neil 	Central Defender	37	0	0	5	0	0	0	0	0
-										
-HEROD, Dennis 	Goalkeeper	14	0	0	1	0	0	0	0	0
-										
-JACKSON, John 	Centre Forward	3	3	0	0	0	0	0	0	0
-										
-JEPSON, Arthur 	Goalkeeper	27	0	0	4	0	0	0	0	0
-										
-KIRTON, Jock 	Wing Half	37	1	0	5	0	0	0	0	0
-										
-MATTHEWS, Stanley 	Winger	23	4	0	5	1	0	0	0	0
-										
-MCCUE, John 	Full Back	36	0	0	5	0	0	0	0	0
-										
-MEAKIN, Harry 	Full Back	6	0	0	0	0	0	0	0	0
-										
-MITCHELL, Bert 	Winger	4	2	0	0	0	0	0	0	0
-										
-MOULD, Billy 	Full Back	30	0	0	5	0	0	0	0	0
-										
-MOUNTFORD, Frank 	Wing Half	26	0	0	4	1	0	0	0	0
-										
-MOUNTFORD, George 	Winger	23	6	0	0	0	0	0	0	0
-										
-ORMSTON, Alec 	Winger	40	20	3	5	1	0	0	0	0
-										
-PEPPITT, Syd 	Inside Forward	24	12	0	5	0	0	0	0	0
-										
-SELLARS, Johnny 	Wing Half	17	2	0	1	0	0	0	0	0
-										
-STEELE, Freddie 	Centre Forward	38	29	0	5	2	0	0	0	0
-										
-WORDLEY, Ted 	Wing Half	5	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANTONIO, George ",Inside Forward,16,5,0,0,0,0,0,0,0
+,"BAKER, Frank ",Winger,39,6,0,5,0,0,0,0,0
+,"BRIGHAM, Harry ",Full Back,12,0,0,0,0,0,0,0,0
+,"BROWN, Roy ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"FOSTER, Manny ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"FRANKLIN, Neil ",Central Defender,37,0,0,5,0,0,0,0,0
+,"HEROD, Dennis ",Goalkeeper,14,0,0,1,0,0,0,0,0
+,"JACKSON, John ",Centre Forward,3,3,0,0,0,0,0,0,0
+,"JEPSON, Arthur ",Goalkeeper,27,0,0,4,0,0,0,0,0
+,"KIRTON, Jock ",Wing Half,37,1,0,5,0,0,0,0,0
+,"MATTHEWS, Stanley ",Winger,23,4,0,5,1,0,0,0,0
+,"MCCUE, John ",Full Back,36,0,0,5,0,0,0,0,0
+,"MEAKIN, Harry ",Full Back,6,0,0,0,0,0,0,0,0
+,"MITCHELL, Bert ",Winger,4,2,0,0,0,0,0,0,0
+,"MOULD, Billy ",Full Back,30,0,0,5,0,0,0,0,0
+,"MOUNTFORD, Frank ",Wing Half,26,0,0,4,1,0,0,0,0
+,"MOUNTFORD, George ",Winger,23,6,0,0,0,0,0,0,0
+,"ORMSTON, Alec ",Winger,40,20,3,5,1,0,0,0,0
+,"PEPPITT, Syd ",Inside Forward,24,12,0,5,0,0,0,0,0
+,"SELLARS, Johnny ",Wing Half,17,2,0,1,0,0,0,0,0
+,"STEELE, Freddie ",Centre Forward,38,29,0,5,2,0,0,0,0
+,"WORDLEY, Ted ",Wing Half,5,0,0,0,0,0,0,0,0

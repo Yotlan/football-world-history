@@ -1,81 +1,40 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1935/36
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASTIN, Cliff 	Winger	31	11	3	7	6	3	1	0	0
-										
-BEASLEY, Pat 	Winger	26	2	0	4	3	0	0	0	0
-										
-BOWDEN, Ray 	Inside Forward	22	6	0	7	5	0	0	0	0
-										
-BRADSHAW, George 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-CARTWRIGHT, Sidney 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-CLARE, Joe 	Winger	0	0	0	0	0	0	0	0	0
-										
-CLARK, James 	Winger	0	0	0	0	0	0	0	0	0
-										
-COMPTON, Les 	Central Defender	12	1	0	0	0	0	0	0	0
-										
-COPPING, Wilf 	Wing Half	33	0	0	7	0	0	1	0	0
-										
-COX, George 	Centre Forward	5	1	0	0	0	0	0	0	0
-										
-CRAYSTON, Jack 	Wing Half	36	5	0	7	0	0	1	0	0
-										
-CUMNER, Horace 	Winger	0	0	0	0	0	0	0	0	0
-										
-DAVIDSON, Bobby 	Inside Forward	13	0	0	1	0	0	1	0	0
-										
-DOUGAL, Peter 	Inside Forward	8	3	0	0	0	0	0	0	0
-										
-DRAKE, Ted 	Centre Forward	26	24	0	3	3	0	0	0	0
-										
-DUNNE, Jimmy 	Centre Forward	6	1	0	0	0	0	1	0	0
-										
-FIELDS, Alf 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-FORD, Fred 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HAPGOOD, Eddie 	Full Back	33	0	0	7	0	0	1	0	0
-										
-HILL, Frank 	Wing Half	10	0	0	0	0	0	1	0	0
-										
-HULME, Joe 	Winger	21	6	0	7	2	0	0	0	0
-										
-JAMES, Alex 	Inside Forward	17	2	0	6	0	0	0	0	0
-										
-JOHN, Bob 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-JOY, Bernard 	Central Defender	2	0	0	0	0	0	1	0	0
-										
-KIRCHEN, Alf 	Winger	6	3	0	0	0	0	0	0	0
-										
-MALE, George 	Full Back	35	0	0	7	0	0	1	0	0
-										
-MERRETT, Graham 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-MILNE, Jackie 	Winger	14	6	0	0	0	0	1	0	0
-										
-MOSS, Frank 	Goalkeeper	5	0	0	2	0	0	0	0	0
-										
-PARKIN, Ray 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-PRYDE, Dave 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-ROBERTS, Herbie 	Central Defender	26	1	0	5	0	0	0	0	0
-										
-ROGERS, Tim 	Winger	11	3	0	0	0	0	0	0	0
-										
-SIDEY, Norman 	Central Defender	11	0	0	2	0	0	0	0	0
-										
-TUCKETT, Ernie 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-WALKER, Charlie 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WESTCOTT, Ronnie 	Centre Forward	2	1	0	0	0	0	0	0	0
-										
-WILSON, Alex 	Goalkeeper	37	0	0	5	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASTIN, Cliff ",Winger,31,11,3,7,6,3,1,0,0
+,"BEASLEY, Pat ",Winger,26,2,0,4,3,0,0,0,0
+,"BOWDEN, Ray ",Inside Forward,22,6,0,7,5,0,0,0,0
+,"BRADSHAW, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"CARTWRIGHT, Sidney ",Wing Half,5,0,0,0,0,0,0,0,0
+,"CLARE, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"CLARK, James ",Winger,0,0,0,0,0,0,0,0,0
+,"COMPTON, Les ",Central Defender,12,1,0,0,0,0,0,0,0
+,"COPPING, Wilf ",Wing Half,33,0,0,7,0,0,1,0,0
+,"COX, George ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"CRAYSTON, Jack ",Wing Half,36,5,0,7,0,0,1,0,0
+,"CUMNER, Horace ",Winger,0,0,0,0,0,0,0,0,0
+,"DAVIDSON, Bobby ",Inside Forward,13,0,0,1,0,0,1,0,0
+,"DOUGAL, Peter ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"DRAKE, Ted ",Centre Forward,26,24,0,3,3,0,0,0,0
+,"DUNNE, Jimmy ",Centre Forward,6,1,0,0,0,0,1,0,0
+,"FIELDS, Alf ",Central Defender,0,0,0,0,0,0,0,0,0
+,"FORD, Fred ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HAPGOOD, Eddie ",Full Back,33,0,0,7,0,0,1,0,0
+,"HILL, Frank ",Wing Half,10,0,0,0,0,0,1,0,0
+,"HULME, Joe ",Winger,21,6,0,7,2,0,0,0,0
+,"JAMES, Alex ",Inside Forward,17,2,0,6,0,0,0,0,0
+,"JOHN, Bob ",Wing Half,6,0,0,0,0,0,0,0,0
+,"JOY, Bernard ",Central Defender,2,0,0,0,0,0,1,0,0
+,"KIRCHEN, Alf ",Winger,6,3,0,0,0,0,0,0,0
+,"MALE, George ",Full Back,35,0,0,7,0,0,1,0,0
+,"MERRETT, Graham ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MILNE, Jackie ",Winger,14,6,0,0,0,0,1,0,0
+,"MOSS, Frank ",Goalkeeper,5,0,0,2,0,0,0,0,0
+,"PARKIN, Ray ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"PRYDE, Dave ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Herbie ",Central Defender,26,1,0,5,0,0,0,0,0
+,"ROGERS, Tim ",Winger,11,3,0,0,0,0,0,0,0
+,"SIDEY, Norman ",Central Defender,11,0,0,2,0,0,0,0,0
+,"TUCKETT, Ernie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WALKER, Charlie ",Full Back,0,0,0,0,0,0,0,0,0
+,"WESTCOTT, Ronnie ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"WILSON, Alex ",Goalkeeper,37,0,0,5,0,0,1,0,0

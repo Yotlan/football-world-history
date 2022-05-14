@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1990/91
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEAUMONT, Dave 	Central Defender	29+4	0	0	1	0	0	4+1	0	0
-										
-BLACK, Kingsley 	Winger	37	7	0	3	1	0	3	2	0
-										
-BREACKER, Tim 	Full Back	8	0	0	0	0	0	1	0	0
-										
-CHAMBERLAIN, Alec 	Goalkeeper	38	0	0	3	0	0	5	0	0
-										
-COOPER, David 	Full Back	0	0	0	0	0	0	0	0	0
-										
-DOWIE, Iain 	Forward	26+3	7	0	1+1	0	0	4	0	0
-										
-DREYER, John 	Central Defender	38	3	3	3	0	0	5	1	0
-										
-ELSTRUP, Lars 	Forward	37	15	0	3	2	0	4	1	0
-										
-FARRELL, Sean 	Forward	11+9	1	0	2+1	1	0	1+2	2	0
-										
-HARVEY, Richard 	Full Back	26+3	0	0	3	0	0	4	1	0
-										
-HOLSGROVE, Paul 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-HUGHES, Ceri 	Midfielder	17	1	0	0	0	0	2	0	0
-										
-JACKSON, Matt 	Central Defender	0	0	0	0	0	0	0+1	0	0
-										
-JAMES, Julian 	Full Back	10+7	1	0	3	0	0	3+2	0	0
-										
-JOHNSON, Marvin 	Central Defender	24+2	0	0	0+1	0	0	2+1	0	0
-										
-MCDONOUGH, Darron 	Midfielder	21+5	0	0	3	0	0	1	0	0
-										
-NOGAN, Kurt 	Forward	1+8	0	0	0	0	0	1+2	0	0
-										
-PEMBRIDGE, Mark 	Midfielder	18	1	0	3	0	0	3	0	0
-										
-PREECE, David 	Midfielder	37	1	0	3	0	0	4	0	0
-										
-REES, Jason 	Midfielder	11+10	0	0	0+1	0	0	4+1	2	0
-										
-RODGER, Graham 	Central Defender	14	2	0	0	0	0	2	0	0
-										
-RUTHERFORD, Ian 	Forward	0	0	0	0	0	0	0	0	0
-										
-TELFER, Paul 	Winger	0+1	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Steve 	Midfielder	15+1	0	0	2	0	0	2	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEAUMONT, Dave ",Central Defender,29+4,0,0,1,0,0,4+1,0,0
+,"BLACK, Kingsley ",Winger,37,7,0,3,1,0,3,2,0
+,"BREACKER, Tim ",Full Back,8,0,0,0,0,0,1,0,0
+,"CHAMBERLAIN, Alec ",Goalkeeper,38,0,0,3,0,0,5,0,0
+,"COOPER, David ",Full Back,0,0,0,0,0,0,0,0,0
+,"DOWIE, Iain ",Forward,26+3,7,0,1+1,0,0,4,0,0
+,"DREYER, John ",Central Defender,38,3,3,3,0,0,5,1,0
+,"ELSTRUP, Lars ",Forward,37,15,0,3,2,0,4,1,0
+,"FARRELL, Sean ",Forward,11+9,1,0,2+1,1,0,1+2,2,0
+,"HARVEY, Richard ",Full Back,26+3,0,0,3,0,0,4,1,0
+,"HOLSGROVE, Paul ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"HUGHES, Ceri ",Midfielder,17,1,0,0,0,0,2,0,0
+,"JACKSON, Matt ",Central Defender,0,0,0,0,0,0,0+1,0,0
+,"JAMES, Julian ",Full Back,10+7,1,0,3,0,0,3+2,0,0
+,"JOHNSON, Marvin ",Central Defender,24+2,0,0,0+1,0,0,2+1,0,0
+,"MCDONOUGH, Darron ",Midfielder,21+5,0,0,3,0,0,1,0,0
+,"NOGAN, Kurt ",Forward,1+8,0,0,0,0,0,1+2,0,0
+,"PEMBRIDGE, Mark ",Midfielder,18,1,0,3,0,0,3,0,0
+,"PREECE, David ",Midfielder,37,1,0,3,0,0,4,0,0
+,"REES, Jason ",Midfielder,11+10,0,0,0+1,0,0,4+1,2,0
+,"RODGER, Graham ",Central Defender,14,2,0,0,0,0,2,0,0
+,"RUTHERFORD, Ian ",Forward,0,0,0,0,0,0,0,0,0
+,"TELFER, Paul ",Winger,0+1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Steve ",Midfielder,15+1,0,0,2,0,0,2,0,0

@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1951/52
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Reg 	Goalkeeper	33	0	0	1	0	0	0	0	0
-										
-ASTON, John 	Full Back	18	4	0	0	0	0	0	0	0
-										
-BERRY, Johnny 	Winger	36	6	0	1	0	0	0	0	0
-										
-BIRCH, Brian 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-BLANCHFLOWER, Jackie 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-BOND, Ernie 	Winger	19	4	0	1	0	0	0	0	0
-										
-BYRNE, Roger 	Full Back	24	7	1	1	0	0	0	0	0
-										
-CAREY, Johnny 	Full Back	38	3	0	1	0	0	0	0	0
-										
-CASSIDY, Laurie 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-CHILTON, Allenby 	Central Defender	42	0	0	1	0	0	0	0	0
-										
-CLEMPSON, Frank 	Wing Half	8	2	0	0	0	0	0	0	0
-										
-COCKBURN, Henry 	Wing Half	38	2	0	1	0	0	0	0	0
-										
-CROMPTON, Jack 	Goalkeeper	9	0	0	0	0	0	0	0	0
-										
-DOWNIE, Johnny 	Inside Forward	31	11	0	1	0	0	0	0	0
-										
-GIBSON, Don 	Wing Half	17	0	0	0	0	0	0	0	0
-										
-HAMPSON, Ray 	Winger	0	0	0	0	0	0	0	0	0
-										
-JONES, Mark 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-MCGLEN, Bill 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-MCNULTY, Tom 	Full Back	24	0	0	1	0	0	0	0	0
-										
-MCSHANE, Harry 	Winger	12	1	0	0	0	0	0	0	0
-										
-PEARSON, Stan 	Inside Forward	41	22	0	1	0	0	0	0	0
-										
-REDMAN, Bill 	Full Back	18	0	0	0	0	0	0	0	0
-										
-ROWLEY, Jack 	Centre Forward	40	30	1	1	0	0	0	0	0
-										
-WALTON, Johnny 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-WHITEFOOT, Jeff 	Wing Half	3	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Reg ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,"ASTON, John ",Full Back,18,4,0,0,0,0,0,0,0
+,"BERRY, Johnny ",Winger,36,6,0,1,0,0,0,0,0
+,"BIRCH, Brian ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BLANCHFLOWER, Jackie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BOND, Ernie ",Winger,19,4,0,1,0,0,0,0,0
+,"BYRNE, Roger ",Full Back,24,7,1,1,0,0,0,0,0
+,"CAREY, Johnny ",Full Back,38,3,0,1,0,0,0,0,0
+,"CASSIDY, Laurie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CHILTON, Allenby ",Central Defender,42,0,0,1,0,0,0,0,0
+,"CLEMPSON, Frank ",Wing Half,8,2,0,0,0,0,0,0,0
+,"COCKBURN, Henry ",Wing Half,38,2,0,1,0,0,0,0,0
+,"CROMPTON, Jack ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"DOWNIE, Johnny ",Inside Forward,31,11,0,1,0,0,0,0,0
+,"GIBSON, Don ",Wing Half,17,0,0,0,0,0,0,0,0
+,"HAMPSON, Ray ",Winger,0,0,0,0,0,0,0,0,0
+,"JONES, Mark ",Central Defender,3,0,0,0,0,0,0,0,0
+,"MCGLEN, Bill ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCNULTY, Tom ",Full Back,24,0,0,1,0,0,0,0,0
+,"MCSHANE, Harry ",Winger,12,1,0,0,0,0,0,0,0
+,"PEARSON, Stan ",Inside Forward,41,22,0,1,0,0,0,0,0
+,"REDMAN, Bill ",Full Back,18,0,0,0,0,0,0,0,0
+,"ROWLEY, Jack ",Centre Forward,40,30,1,1,0,0,0,0,0
+,"WALTON, Johnny ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WHITEFOOT, Jeff ",Wing Half,3,0,0,0,0,0,0,0,0

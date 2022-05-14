@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1967/68
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Tony 	Full Back	38	0	0	2	0	0	5	1	0
-										
-BANKS, Gordon 	Goalkeeper	39	0	0	2	0	0	4	0	0
-										
-BENTLEY, Bill 	Full Back	30+2	1	0	1	0	0	4	1	0
-										
-BERNARD, Mike 	Midfielder	11+6	0	0	0	0	0	2	0	0
-										
-BLOOR, Alan 	Central Defender	37	4	0	2	0	0	4	0	0
-										
-BLOOR, Micky 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BRIDGWOOD, Gerry 	Midfielder	14+1	0	0	0	0	0	1	1	0
-										
-BURROWS, Harry 	Winger	42	15	4	2	2	0	5	1	0
-										
-CONROY, Terry 	Forward	8+1	1	0	0	0	0	2	0	0
-										
-DOBING, Peter 	Midfielder	37	15	0	1	0	0	5	0	0
-										
-EASTHAM, George 	Midfielder	38+1	1	0	0+1	0	0	5	0	0
-										
-ELDER, Alex 	Full Back	24	0	0	2	0	0	3	0	0
-										
-FARMER, John 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HULSE, Bob 	Forward	2	0	0	0	0	0	0	0	0
-										
-LACEY, Tony 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-MAHONEY, John 	Midfielder	27+1	6	0	2	0	0	2	0	0
-										
-MARSH, Jackie 	Full Back	2+2	0	0	0	0	0	1	0	0
-										
-MOORE, John 	Central Defender	12+1	0	0	0	0	0	0	0	0
-										
-NULTY, Geoff 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-PALMER, Calvin 	Midfielder	23	4	0	2	0	0	5	2	0
-										
-PHILPOTT, Alan 	Midfielder	1	0	0	0	0	0	0+1	0	0
-										
-SETTERS, Maurice 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-SHARDLOW, Paul 	Goalkeeper	1	0	0	0	0	0	1	0	0
-										
-SKEELS, Eric 	Central Defender	34	0	0	2	0	0	4	0	0
-										
-STEVENSON, Willie 	Midfielder	18	0	0	2	1	0	0	0	0
-										
-VERNON, Roy 	Forward	19	2	0	2	1	0	2	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Tony ",Full Back,38,0,0,2,0,0,5,1,0
+,"BANKS, Gordon ",Goalkeeper,39,0,0,2,0,0,4,0,0
+,"BENTLEY, Bill ",Full Back,30+2,1,0,1,0,0,4,1,0
+,"BERNARD, Mike ",Midfielder,11+6,0,0,0,0,0,2,0,0
+,"BLOOR, Alan ",Central Defender,37,4,0,2,0,0,4,0,0
+,"BLOOR, Micky ",Full Back,0,0,0,0,0,0,0,0,0
+,"BRIDGWOOD, Gerry ",Midfielder,14+1,0,0,0,0,0,1,1,0
+,"BURROWS, Harry ",Winger,42,15,4,2,2,0,5,1,0
+,"CONROY, Terry ",Forward,8+1,1,0,0,0,0,2,0,0
+,"DOBING, Peter ",Midfielder,37,15,0,1,0,0,5,0,0
+,"EASTHAM, George ",Midfielder,38+1,1,0,0+1,0,0,5,0,0
+,"ELDER, Alex ",Full Back,24,0,0,2,0,0,3,0,0
+,"FARMER, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HULSE, Bob ",Forward,2,0,0,0,0,0,0,0,0
+,"LACEY, Tony ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"MAHONEY, John ",Midfielder,27+1,6,0,2,0,0,2,0,0
+,"MARSH, Jackie ",Full Back,2+2,0,0,0,0,0,1,0,0
+,"MOORE, John ",Central Defender,12+1,0,0,0,0,0,0,0,0
+,"NULTY, Geoff ",Midfielder,0,0,0,0,0,0,0,0,0
+,"PALMER, Calvin ",Midfielder,23,4,0,2,0,0,5,2,0
+,"PHILPOTT, Alan ",Midfielder,1,0,0,0,0,0,0+1,0,0
+,"SETTERS, Maurice ",Central Defender,3,0,0,0,0,0,0,0,0
+,"SHARDLOW, Paul ",Goalkeeper,1,0,0,0,0,0,1,0,0
+,"SKEELS, Eric ",Central Defender,34,0,0,2,0,0,4,0,0
+,"STEVENSON, Willie ",Midfielder,18,0,0,2,1,0,0,0,0
+,"VERNON, Roy ",Forward,19,2,0,2,1,0,2,0,0

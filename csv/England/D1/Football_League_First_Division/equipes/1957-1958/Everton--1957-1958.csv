@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1957/58
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHWORTH, Alec 	Inside Forward	4	3	0	0	0	0	0	0	0
-										
-BIRCH, Ken 	Wing Half	10	0	0	1	0	0	0	0	0
-										
-DONOVAN, Don 	Full Back	29	0	0	1	0	0	0	0	0
-										
-DUNLOP, Albert 	Goalkeeper	36	0	0	3	0	0	0	0	0
-										
-FIELDING, Wally 	Inside Forward	24	4	0	0	0	0	0	0	0
-										
-HARRIS, Brian 	Central Defender	30	6	0	3	0	0	0	0	0
-										
-HARRIS, Jimmy 	Centre Forward	41	14	0	3	1	0	0	0	0
-										
-HAUGHEY, William 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-HICKSON, Dave 	Centre Forward	35	9	0	2	3	0	0	0	0
-										
-JONES, Tommy 	Central Defender	31	0	0	3	0	0	0	0	0
-										
-KEELEY, Jackie 	Inside Forward	4	1	0	3	2	0	0	0	0
-										
-KING, Johnny 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-KIRBY, George 	Forward	2	1	0	0	0	0	0	0	0
-										
-LABONE, Brian 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-LEEDER, Fred 	Full Back	1	0	0	0	0	0	0	0	0
-										
-LLEWELLYN, Bert 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-MCNAMARA, Tony 	Winger	1	0	0	0	0	0	0	0	0
-										
-MEAGAN, Mick 	Central Defender	38	1	0	3	0	0	0	0	0
-										
-O'NEILL, Jimmy 	Goalkeeper	6	0	0	0	0	0	0	0	0
-										
-REA, Kenny 	Wing Half	27	0	0	2	0	0	0	0	0
-										
-SANDERS, Allan 	Full Back	26	0	0	3	0	0	0	0	0
-										
-STEELE, Bennett 	Winger	0	0	0	0	0	0	0	0	0
-										
-STEWART, Graham 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-TANSEY, Jimmy 	Full Back	39	0	0	2	0	0	0	0	0
-										
-TEMPLE, Derek 	Winger	28	8	0	1	0	0	0	0	0
-										
-THOMAS, Eddie 	Inside Forward	26	15	0	3	0	0	0	0	0
-										
-WILLIAMS, Graham 	Winger	13	2	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHWORTH, Alec ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"BIRCH, Ken ",Wing Half,10,0,0,1,0,0,0,0,0
+,"DONOVAN, Don ",Full Back,29,0,0,1,0,0,0,0,0
+,"DUNLOP, Albert ",Goalkeeper,36,0,0,3,0,0,0,0,0
+,"FIELDING, Wally ",Inside Forward,24,4,0,0,0,0,0,0,0
+,"HARRIS, Brian ",Central Defender,30,6,0,3,0,0,0,0,0
+,"HARRIS, Jimmy ",Centre Forward,41,14,0,3,1,0,0,0,0
+,"HAUGHEY, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HICKSON, Dave ",Centre Forward,35,9,0,2,3,0,0,0,0
+,"JONES, Tommy ",Central Defender,31,0,0,3,0,0,0,0,0
+,"KEELEY, Jackie ",Inside Forward,4,1,0,3,2,0,0,0,0
+,"KING, Johnny ",Midfielder,5,0,0,0,0,0,0,0,0
+,"KIRBY, George ",Forward,2,1,0,0,0,0,0,0,0
+,"LABONE, Brian ",Central Defender,4,0,0,0,0,0,0,0,0
+,"LEEDER, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"LLEWELLYN, Bert ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"MCNAMARA, Tony ",Winger,1,0,0,0,0,0,0,0,0
+,"MEAGAN, Mick ",Central Defender,38,1,0,3,0,0,0,0,0
+,"O'NEILL, Jimmy ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"REA, Kenny ",Wing Half,27,0,0,2,0,0,0,0,0
+,"SANDERS, Allan ",Full Back,26,0,0,3,0,0,0,0,0
+,"STEELE, Bennett ",Winger,0,0,0,0,0,0,0,0,0
+,"STEWART, Graham ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"TANSEY, Jimmy ",Full Back,39,0,0,2,0,0,0,0,0
+,"TEMPLE, Derek ",Winger,28,8,0,1,0,0,0,0,0
+,"THOMAS, Eddie ",Inside Forward,26,15,0,3,0,0,0,0,0
+,"WILLIAMS, Graham ",Winger,13,2,0,0,0,0,0,0,0

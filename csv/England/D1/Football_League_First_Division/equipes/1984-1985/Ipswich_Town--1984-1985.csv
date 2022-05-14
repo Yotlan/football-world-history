@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1984/85
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRENNAN, Mark 	Midfielder	35+1	2	0	5	1	0	8	0	0
-										
-BURLEY, George 	Full Back	37	0	0	3	1	0	9	0	0
-										
-BUTCHER, Terry 	Central Defender	41	2	0	5	0	0	9	0	0
-										
-COLE, Mike 	Forward	0+2	0	0	0	0	0	0	0	0
-										
-COOPER, Paul 	Goalkeeper	36	0	0	4	0	0	9	0	0
-										
-CRANE, Andy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CRANSON, Ian 	Central Defender	19+1	1	0	5	0	0	6	0	0
-										
-D'AVRAY, Mich 	Forward	30+3	6	0	2	0	0	7+1	5	0
-										
-DOZZELL, Jason 	Midfielder	9+5	2	0	2	2	0	4	0	0
-										
-GATES, Eric 	Forward	41	13	2	4	0	0	8	3	0
-										
-GERNON, Irvin 	Full Back	13	0	0	0	0	0	0	0	0
-										
-GORMAN, Keith 	Winger	0	0	0	0	0	0	0	0	0
-										
-GREW, Mark 	Goalkeeper	6	0	0	1	0	0	0	0	0
-										
-MCCALL, Steve 	Midfielder	31	0	0	5	0	0	9	0	0
-										
-O'CALLAGHAN, Kevin 	Winger	10+5	0	0	0	0	0	2+1	0	0
-										
-OSMAN, Russell 	Central Defender	29	3	0	2+2	0	0	6	1	0
-										
-PARKIN, Tommy 	Midfielder	6+5	0	0	0	0	0	0+1	0	0
-										
-PUTNEY, Trevor 	Midfielder	27	2	0	4	0	0	9	1	0
-										
-ROBINSON, Ronnie 	Full Back	0	0	0	0	0	0	0	0	0
-										
-STEGGLES, Kevin 	Central Defender	6	0	0	0	0	0	0	0	0
-										
-SUNDERLAND, Alan 	Forward	23+3	7	0	2+1	1	0	5+1	1	0
-										
-WILSON, Kevin 	Forward	15+2	7	0	4	2	0	0	0	0
-										
-YALLOP, Frank 	Full Back	7+3	0	0	2	0	0	0	0	0
-										
-ZONDERVAN, Romeo 	Midfielder	41	1	0	5	2	0	8	2	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRENNAN, Mark ",Midfielder,35+1,2,0,5,1,0,8,0,0
+,"BURLEY, George ",Full Back,37,0,0,3,1,0,9,0,0
+,"BUTCHER, Terry ",Central Defender,41,2,0,5,0,0,9,0,0
+,"COLE, Mike ",Forward,0+2,0,0,0,0,0,0,0,0
+,"COOPER, Paul ",Goalkeeper,36,0,0,4,0,0,9,0,0
+,"CRANE, Andy ",Full Back,0,0,0,0,0,0,0,0,0
+,"CRANSON, Ian ",Central Defender,19+1,1,0,5,0,0,6,0,0
+,"D'AVRAY, Mich ",Forward,30+3,6,0,2,0,0,7+1,5,0
+,"DOZZELL, Jason ",Midfielder,9+5,2,0,2,2,0,4,0,0
+,"GATES, Eric ",Forward,41,13,2,4,0,0,8,3,0
+,"GERNON, Irvin ",Full Back,13,0,0,0,0,0,0,0,0
+,"GORMAN, Keith ",Winger,0,0,0,0,0,0,0,0,0
+,"GREW, Mark ",Goalkeeper,6,0,0,1,0,0,0,0,0
+,"MCCALL, Steve ",Midfielder,31,0,0,5,0,0,9,0,0
+,"O'CALLAGHAN, Kevin ",Winger,10+5,0,0,0,0,0,2+1,0,0
+,"OSMAN, Russell ",Central Defender,29,3,0,2+2,0,0,6,1,0
+,"PARKIN, Tommy ",Midfielder,6+5,0,0,0,0,0,0+1,0,0
+,"PUTNEY, Trevor ",Midfielder,27,2,0,4,0,0,9,1,0
+,"ROBINSON, Ronnie ",Full Back,0,0,0,0,0,0,0,0,0
+,"STEGGLES, Kevin ",Central Defender,6,0,0,0,0,0,0,0,0
+,"SUNDERLAND, Alan ",Forward,23+3,7,0,2+1,1,0,5+1,1,0
+,"WILSON, Kevin ",Forward,15+2,7,0,4,2,0,0,0,0
+,"YALLOP, Frank ",Full Back,7+3,0,0,2,0,0,0,0,0
+,"ZONDERVAN, Romeo ",Midfielder,41,1,0,5,2,0,8,2,0

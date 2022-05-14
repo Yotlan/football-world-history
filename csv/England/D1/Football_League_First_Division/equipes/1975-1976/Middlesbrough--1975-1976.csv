@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1975/76
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, David 	Midfielder	42	6	0	2	0	0	15	4	0
-										
-BAILEY, Ian 	Full Back	6	0	0	1+1	0	0	4	1	0
-										
-BOAM, Stuart 	Central Defender	39	3	0	2	0	0	15	1	0
-										
-BOERSMA, Phil 	Midfielder	19	1	0	1	0	0	1	0	0
-										
-BRINE, Peter 	Midfielder	18+2	1	0	1	1	0	5+2	0	0
-										
-CHARLTON, Harry 	Midfielder	0	0	0	0	0	0	1+1	0	0
-										
-COLEMAN, Ted 	Forward	1	0	0	0	0	0	0	0	0
-										
-COOPER, Terry 	Full Back	40	1	0	2	0	0	13	0	0
-										
-CRAGGS, John 	Full Back	36	1	0	2	0	0	15	1	0
-										
-CUFF, Pat 	Goalkeeper	1	0	0	0	0	0	1+1	0	0
-										
-FOGGON, Alan 	Winger	11+7	3	0	1+1	0	0	4+2	2	0
-										
-HICKTON, John 	Forward	35+1	9	2	2	1	1	14	9	3
-										
-MADDREN, Willie 	Central Defender	41	2	0	2	0	0	13	1	0
-										
-MARTINEZ, Eugene 	Winger	0	0	0	0	0	0	0	0	0
-										
-MCANDREW, Tony 	Central Defender	12	3	0	1	0	0	2+2	0	0
-										
-MILLS, David 	Forward	38	10	0	2	0	0	15	5	0
-										
-MURDOCH, Bobby 	Midfielder	21+1	0	0	1	0	0	13+1	2	0
-										
-PLATT, Jim 	Goalkeeper	41	0	0	2	0	0	14	0	0
-										
-RAMAGE, Alan 	Central Defender	0+1	0	0	0	0	0	0	0	0
-										
-SMITH, Malcolm 	Forward	3+2	0	0	0	0	0	0+1	0	0
-										
-SOUNESS, Graeme 	Midfielder	34+1	3	0	0	0	0	12	2	0
-										
-SPRAGGON, Frank 	Central Defender	9+1	0	0	0	0	0	3+2	0	0
-										
-TAYLOR, Brian 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-WILLEY, Alan 	Forward	9+5	0	0	0	0	0	5	2	0
-										
-WILLIAMS, Oshor 	Winger	0	0	0	0	0	0	0	0	0
-										
-WOOF, Billy 	Forward	3+3	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, David ",Midfielder,42,6,0,2,0,0,15,4,0
+,"BAILEY, Ian ",Full Back,6,0,0,1+1,0,0,4,1,0
+,"BOAM, Stuart ",Central Defender,39,3,0,2,0,0,15,1,0
+,"BOERSMA, Phil ",Midfielder,19,1,0,1,0,0,1,0,0
+,"BRINE, Peter ",Midfielder,18+2,1,0,1,1,0,5+2,0,0
+,"CHARLTON, Harry ",Midfielder,0,0,0,0,0,0,1+1,0,0
+,"COLEMAN, Ted ",Forward,1,0,0,0,0,0,0,0,0
+,"COOPER, Terry ",Full Back,40,1,0,2,0,0,13,0,0
+,"CRAGGS, John ",Full Back,36,1,0,2,0,0,15,1,0
+,"CUFF, Pat ",Goalkeeper,1,0,0,0,0,0,1+1,0,0
+,"FOGGON, Alan ",Winger,11+7,3,0,1+1,0,0,4+2,2,0
+,"HICKTON, John ",Forward,35+1,9,2,2,1,1,14,9,3
+,"MADDREN, Willie ",Central Defender,41,2,0,2,0,0,13,1,0
+,"MARTINEZ, Eugene ",Winger,0,0,0,0,0,0,0,0,0
+,"MCANDREW, Tony ",Central Defender,12,3,0,1,0,0,2+2,0,0
+,"MILLS, David ",Forward,38,10,0,2,0,0,15,5,0
+,"MURDOCH, Bobby ",Midfielder,21+1,0,0,1,0,0,13+1,2,0
+,"PLATT, Jim ",Goalkeeper,41,0,0,2,0,0,14,0,0
+,"RAMAGE, Alan ",Central Defender,0+1,0,0,0,0,0,0,0,0
+,"SMITH, Malcolm ",Forward,3+2,0,0,0,0,0,0+1,0,0
+,"SOUNESS, Graeme ",Midfielder,34+1,3,0,0,0,0,12,2,0
+,"SPRAGGON, Frank ",Central Defender,9+1,0,0,0,0,0,3+2,0,0
+,"TAYLOR, Brian ",Central Defender,3,0,0,0,0,0,0,0,0
+,"WILLEY, Alan ",Forward,9+5,0,0,0,0,0,5,2,0
+,"WILLIAMS, Oshor ",Winger,0,0,0,0,0,0,0,0,0
+,"WOOF, Billy ",Forward,3+3,1,0,0,0,0,0,0,0

@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1932/33
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADCOCK, Hugh 	Winger	35	2	0	1	0	0	0	0	0
-										
-BARRY, Len 	Winger	15	1	0	0	0	0	0	0	0
-										
-BLACK, Adam 	Full Back	41	1	0	1	0	0	0	0	0
-										
-BUNCE, Newman 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-CALVERT, Joe 	Goalkeeper	8	0	0	1	0	0	0	0	0
-										
-CAMPBELL, Johnny 	Centre Forward	14	8	0	1	2	0	0	0	0
-										
-CHANDLER, Arthur 	Centre Forward	13	4	0	0	0	0	0	0	0
-										
-DUMBRELL, George 	Full Back	14	0	0	0	0	0	0	0	0
-										
-FARMER, Alec 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-GURRY, John 	Wing Half	14	0	0	0	0	0	0	0	0
-										
-HEYWOOD, Roger 	Central Defender	41	2	0	1	0	0	0	0	0
-										
-KEELEY, Ernie 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-LANGFORD, Walter 	Inside Forward	2	0	0	1	0	0	0	0	0
-										
-LIDDLE, Danny 	Winger	27	7	0	1	0	0	0	0	0
-										
-LOCHHEAD, Arthur 	Inside Forward	37	12	0	0	0	0	0	0	0
-										
-LOWERY, Ted 	Inside Forward	10	1	0	0	0	0	0	0	0
-										
-MAW, Arthur 	Inside Forward	18	14	0	1	0	0	0	0	0
-										
-MCLAREN, Sandy 	Goalkeeper	13	0	0	0	0	0	0	0	0
-										
-MCLAREN, Jimmy 	Goalkeeper	21	0	0	0	0	0	0	0	0
-										
-MILES, Idris 	Winger	7	1	0	0	0	0	0	0	0
-										
-OSBORNE, Reg 	Full Back	16	0	0	1	0	0	0	0	0
-										
-PATERSON, Jim 	Inside Forward	19	12	0	0	0	0	0	0	0
-										
-RITCHIE, George 	Wing Half	40	3	0	1	0	0	0	0	0
-										
-SMITH, Sep 	Wing Half	37	5	2	1	0	0	0	0	0
-										
-UDALL, Ted 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WALES, Abraham 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-WIGGINS, Joe 	Centre Forward	4	0	0	0	0	0	0	0	0
-										
-WOOD, Sandy 	Full Back	9	0	0	0	0	0	0	0	0
-										
-YOUNG, Archie 	Wing Half	5	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADCOCK, Hugh ",Winger,35,2,0,1,0,0,0,0,0
+,"BARRY, Len ",Winger,15,1,0,0,0,0,0,0,0
+,"BLACK, Adam ",Full Back,41,1,0,1,0,0,0,0,0
+,"BUNCE, Newman ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"CALVERT, Joe ",Goalkeeper,8,0,0,1,0,0,0,0,0
+,"CAMPBELL, Johnny ",Centre Forward,14,8,0,1,2,0,0,0,0
+,"CHANDLER, Arthur ",Centre Forward,13,4,0,0,0,0,0,0,0
+,"DUMBRELL, George ",Full Back,14,0,0,0,0,0,0,0,0
+,"FARMER, Alec ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GURRY, John ",Wing Half,14,0,0,0,0,0,0,0,0
+,"HEYWOOD, Roger ",Central Defender,41,2,0,1,0,0,0,0,0
+,"KEELEY, Ernie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"LANGFORD, Walter ",Inside Forward,2,0,0,1,0,0,0,0,0
+,"LIDDLE, Danny ",Winger,27,7,0,1,0,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,37,12,0,0,0,0,0,0,0
+,"LOWERY, Ted ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"MAW, Arthur ",Inside Forward,18,14,0,1,0,0,0,0,0
+,"MCLAREN, Sandy ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"MCLAREN, Jimmy ",Goalkeeper,21,0,0,0,0,0,0,0,0
+,"MILES, Idris ",Winger,7,1,0,0,0,0,0,0,0
+,"OSBORNE, Reg ",Full Back,16,0,0,1,0,0,0,0,0
+,"PATERSON, Jim ",Inside Forward,19,12,0,0,0,0,0,0,0
+,"RITCHIE, George ",Wing Half,40,3,0,1,0,0,0,0,0
+,"SMITH, Sep ",Wing Half,37,5,2,1,0,0,0,0,0
+,"UDALL, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALES, Abraham ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WIGGINS, Joe ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"WOOD, Sandy ",Full Back,9,0,0,0,0,0,0,0,0
+,"YOUNG, Archie ",Wing Half,5,0,0,0,0,0,0,0,0

@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1965/66
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Ben 	Central Defender	0+1	1	0	0	0	0	0	0	0
-										
-BLORE, Reg 	Winger	6	0	0	0	0	0	0	0	0
-										
-BRITT, Martin 	Centre Forward	8	0	0	0	0	0	0	0	0
-										
-BYROM, John 	Forward	26+2	3	0	5	7	0	1	0	0
-										
-CLAYTON, Ronnie 	Midfielder	39	0	0	5	0	0	1	0	0
-										
-DARLING, Malcolm 	Forward	17+2	4	0	4	1	0	0	0	0
-										
-DOUGLAS, Bryan 	Winger	16	2	0	1	0	0	1	0	0
-										
-ELSE, Fred 	Goalkeeper	38	0	0	6	0	0	1	0	0
-										
-ENGLAND, Mike 	Central Defender	36	8	0	6	0	0	1	0	0
-										
-FERGUSON, Mike 	Winger	42	4	0	6	0	0	0	0	0
-										
-HARRISON, Mike 	Winger	32	9	4	6	1	0	1	0	0
-										
-HOLT, David 	Central Defender	5	0	0	0	0	0	0	0	0
-										
-HORREY, Rowland 	Winger	2	0	0	0	0	0	0	0	0
-										
-JONES, George 	Forward	18+1	10	0	2	1	0	1	0	0
-										
-JONES, Bobby 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-JOYCE, Walter 	Central Defender	23	0	0	6	0	0	0	0	0
-										
-KENDALL, Ian 	Forward	0	0	0	0	0	0	0	0	0
-										
-MCEVOY, Andy 	Inside Forward	31	10	0	6	6	0	1	0	0
-										
-MCGRATH, Mick 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-MULVANEY, Dick 	Central Defender	23	0	0	0	0	0	0	0	0
-										
-NEWTON, Keith 	Full Back	32	1	0	6	0	0	1	0	0
-										
-ROBERTS, John 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-ROGERS, Eamonn 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-SHARPLES, George 	Central Defender	28+1	3	0	1	0	0	1	0	0
-										
-WILSON, Billy 	Full Back	33	0	0	6	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Ben ",Central Defender,0+1,1,0,0,0,0,0,0,0
+,"BLORE, Reg ",Winger,6,0,0,0,0,0,0,0,0
+,"BRITT, Martin ",Centre Forward,8,0,0,0,0,0,0,0,0
+,"BYROM, John ",Forward,26+2,3,0,5,7,0,1,0,0
+,"CLAYTON, Ronnie ",Midfielder,39,0,0,5,0,0,1,0,0
+,"DARLING, Malcolm ",Forward,17+2,4,0,4,1,0,0,0,0
+,"DOUGLAS, Bryan ",Winger,16,2,0,1,0,0,1,0,0
+,"ELSE, Fred ",Goalkeeper,38,0,0,6,0,0,1,0,0
+,"ENGLAND, Mike ",Central Defender,36,8,0,6,0,0,1,0,0
+,"FERGUSON, Mike ",Winger,42,4,0,6,0,0,0,0,0
+,"HARRISON, Mike ",Winger,32,9,4,6,1,0,1,0,0
+,"HOLT, David ",Central Defender,5,0,0,0,0,0,0,0,0
+,"HORREY, Rowland ",Winger,2,0,0,0,0,0,0,0,0
+,"JONES, George ",Forward,18+1,10,0,2,1,0,1,0,0
+,"JONES, Bobby ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"JOYCE, Walter ",Central Defender,23,0,0,6,0,0,0,0,0
+,"KENDALL, Ian ",Forward,0,0,0,0,0,0,0,0,0
+,"MCEVOY, Andy ",Inside Forward,31,10,0,6,6,0,1,0,0
+,"MCGRATH, Mick ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MULVANEY, Dick ",Central Defender,23,0,0,0,0,0,0,0,0
+,"NEWTON, Keith ",Full Back,32,1,0,6,0,0,1,0,0
+,"ROBERTS, John ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"ROGERS, Eamonn ",Midfielder,2,0,0,0,0,0,0,0,0
+,"SHARPLES, George ",Central Defender,28+1,3,0,1,0,0,1,0,0
+,"WILSON, Billy ",Full Back,33,0,0,6,0,0,1,0,0

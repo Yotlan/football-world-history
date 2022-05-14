@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1935/36
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLUM, Len 	Wing Half	12	1	0	2	0	0	0	0	0
-										
-ARGUE, Jimmy 	Inside Forward	9	2	0	0	0	0	0	0	0
-										
-BAMBRICK, Joe 	Centre Forward	25	15	0	5	4	0	0	0	0
-										
-BARBER, George 	Full Back	27	0	0	5	0	0	0	0	0
-										
-BARRACLOUGH, Arthur 	Winger	0	0	0	0	0	0	0	0	0
-										
-BARRACLOUGH, Billy 	Winger	30	2	0	5	3	0	0	0	0
-										
-BURGESS, Harry 	Inside Forward	31	11	1	5	1	0	0	0	0
-										
-CHEYNE, Alec 	Inside Forward	6	1	0	0	0	0	0	0	0
-										
-CHITTY, Wilf 	Winger	1	0	0	0	0	0	0	0	0
-										
-CRAIG, Allan 	Central Defender	41	0	0	5	0	0	0	0	0
-										
-GIBSON, George 	Inside Forward	33	4	0	5	0	0	0	0	0
-										
-GREGG, Bob 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-GRIFFITHS, Bob 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-HORTON, Jackie 	Winger	5	1	0	0	0	0	0	0	0
-										
-HUTCHESON, Jock 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-JACKSON, Johnny 	Goalkeeper	10	0	0	0	0	0	0	0	0
-										
-LAW, Tommy 	Full Back	23	0	0	1	0	0	0	0	0
-										
-MAYES, Jack 	Wing Half	2	0	0	1	0	0	0	0	0
-										
-MCAULAY, Bob 	Full Back	5	0	0	3	0	0	0	0	0
-										
-MILLER, Harold 	Inside Forward	34	1	0	4	0	0	0	0	0
-										
-MILLS, George 	Centre Forward	19	11	0	0	0	0	0	0	0
-										
-MITCHELL, Billy 	Wing Half	31	0	0	3	1	0	0	0	0
-										
-O'HARE, John 	Full Back	27	0	0	1	0	0	0	0	0
-										
-OAKTON, Eric 	Winger	8	3	0	0	0	0	0	0	0
-										
-ODELL, Leslie 	Full Back	2	0	0	0	0	0	0	0	0
-										
-SPENCE, Dickie 	Winger	40	13	1	5	0	0	0	0	0
-										
-WOODLEY, Vic 	Goalkeeper	32	0	0	5	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLUM, Len ",Wing Half,12,1,0,2,0,0,0,0,0
+,"ARGUE, Jimmy ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"BAMBRICK, Joe ",Centre Forward,25,15,0,5,4,0,0,0,0
+,"BARBER, George ",Full Back,27,0,0,5,0,0,0,0,0
+,"BARRACLOUGH, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"BARRACLOUGH, Billy ",Winger,30,2,0,5,3,0,0,0,0
+,"BURGESS, Harry ",Inside Forward,31,11,1,5,1,0,0,0,0
+,"CHEYNE, Alec ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"CHITTY, Wilf ",Winger,1,0,0,0,0,0,0,0,0
+,"CRAIG, Allan ",Central Defender,41,0,0,5,0,0,0,0,0
+,"GIBSON, George ",Inside Forward,33,4,0,5,0,0,0,0,0
+,"GREGG, Bob ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"GRIFFITHS, Bob ",Central Defender,1,0,0,0,0,0,0,0,0
+,"HORTON, Jackie ",Winger,5,1,0,0,0,0,0,0,0
+,"HUTCHESON, Jock ",Wing Half,5,0,0,0,0,0,0,0,0
+,"JACKSON, Johnny ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"LAW, Tommy ",Full Back,23,0,0,1,0,0,0,0,0
+,"MAYES, Jack ",Wing Half,2,0,0,1,0,0,0,0,0
+,"MCAULAY, Bob ",Full Back,5,0,0,3,0,0,0,0,0
+,"MILLER, Harold ",Inside Forward,34,1,0,4,0,0,0,0,0
+,"MILLS, George ",Centre Forward,19,11,0,0,0,0,0,0,0
+,"MITCHELL, Billy ",Wing Half,31,0,0,3,1,0,0,0,0
+,"O'HARE, John ",Full Back,27,0,0,1,0,0,0,0,0
+,"OAKTON, Eric ",Winger,8,3,0,0,0,0,0,0,0
+,"ODELL, Leslie ",Full Back,2,0,0,0,0,0,0,0,0
+,"SPENCE, Dickie ",Winger,40,13,1,5,0,0,0,0,0
+,"WOODLEY, Vic ",Goalkeeper,32,0,0,5,0,0,0,0,0

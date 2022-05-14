@@ -1,49 +1,24 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1971/72
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRY, Mike 	Winger	2+3	0	0	0	0	0	1	0	0
-										
-CHAPMAN, Les 	Midfielder	38+1	3	0	4	1	0	4	0	0
-										
-CHERRY, Trevor 	Central Defender	42	1	0	4	1	0	5	2	0
-										
-CLARKE, Dennis 	Central Defender	41	0	0	3	1	0	5	0	0
-										
-DOBSON, Colin 	Winger	0	0	0	0	0	0	0+1	0	0
-										
-DOLAN, Terry 	Midfielder	18+2	1	0	4	1	0	1+1	0	0
-										
-ELLAM, Roy 	Central Defender	42	1	0	4	0	0	5	0	0
-										
-FAIRCLOUGH, Mick 	Midfielder	5+3	0	0	0+1	0	0	0	0	0
-										
-HOY, Bobby 	Winger	22	0	0	0	0	0	5	1	0
-										
-HUTT, Geoff 	Full Back	42	0	0	4	0	0	5	0	0
-										
-JONES, Alan 	Winger	10+2	0	0	1+1	0	0	1	0	0
-										
-KRZYWICKI, Dick 	Winger	10+3	0	0	1+1	0	0	1	0	0
-										
-LAWSON, David 	Goalkeeper	32	0	0	4	0	0	5	0	0
-										
-LAWSON, Jimmy 	Winger	40	9	0	4	3	0	4	0	0
-										
-LYON, David 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-MAHONEY, Brian 	Forward	4+1	0	0	1	0	0	0	0	0
-										
-MCGILL, Jimmy 	Midfielder	10+1	0	0	0	0	0	3	0	0
-										
-NICHOLSON, Jimmy 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-PIERCE, Gary 	Goalkeeper	10	0	0	0	0	0	0	0	0
-										
-SMITH, Dave 	Forward	8+2	3	0	2	1	0	1+1	0	0
-										
-SMITH, Steve 	Midfielder	40	2	0	4	0	0	4	0	0
-										
-WORTHINGTON, Frank 	Forward	39	5	0	4	1	0	5	2	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRY, Mike ",Winger,2+3,0,0,0,0,0,1,0,0
+,"CHAPMAN, Les ",Midfielder,38+1,3,0,4,1,0,4,0,0
+,"CHERRY, Trevor ",Central Defender,42,1,0,4,1,0,5,2,0
+,"CLARKE, Dennis ",Central Defender,41,0,0,3,1,0,5,0,0
+,"DOBSON, Colin ",Winger,0,0,0,0,0,0,0+1,0,0
+,"DOLAN, Terry ",Midfielder,18+2,1,0,4,1,0,1+1,0,0
+,"ELLAM, Roy ",Central Defender,42,1,0,4,0,0,5,0,0
+,"FAIRCLOUGH, Mick ",Midfielder,5+3,0,0,0+1,0,0,0,0,0
+,"HOY, Bobby ",Winger,22,0,0,0,0,0,5,1,0
+,"HUTT, Geoff ",Full Back,42,0,0,4,0,0,5,0,0
+,"JONES, Alan ",Winger,10+2,0,0,1+1,0,0,1,0,0
+,"KRZYWICKI, Dick ",Winger,10+3,0,0,1+1,0,0,1,0,0
+,"LAWSON, David ",Goalkeeper,32,0,0,4,0,0,5,0,0
+,"LAWSON, Jimmy ",Winger,40,9,0,4,3,0,4,0,0
+,"LYON, David ",Central Defender,2,0,0,0,0,0,0,0,0
+,"MAHONEY, Brian ",Forward,4+1,0,0,1,0,0,0,0,0
+,"MCGILL, Jimmy ",Midfielder,10+1,0,0,0,0,0,3,0,0
+,"NICHOLSON, Jimmy ",Midfielder,5,0,0,0,0,0,0,0,0
+,"PIERCE, Gary ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"SMITH, Dave ",Forward,8+2,3,0,2,1,0,1+1,0,0
+,"SMITH, Steve ",Midfielder,40,2,0,4,0,0,4,0,0
+,"WORTHINGTON, Frank ",Forward,39,5,0,4,1,0,5,2,0

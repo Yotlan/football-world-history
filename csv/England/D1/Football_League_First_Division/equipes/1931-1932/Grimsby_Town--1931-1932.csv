@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1931/32
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATEMAN, Arthur 	Full Back	3	0	0	0	0	0	0	0	0
-										
-BELL, William 	Full Back	6	0	0	0	0	0	0	0	0
-										
-BESTALL, Jackie 	Inside Forward	37	2	0	3	2	0	0	0	0
-										
-BETMEAD, Harry 	Central Defender	17	2	0	0	0	0	0	0	0
-										
-BUCK, Teddy 	Wing Half	29	1	0	3	0	0	0	0	0
-										
-CHALMERS, Willie 	Inside Forward	6	1	0	0	0	0	0	0	0
-										
-COLEMAN, Tim 	Inside Forward	23	13	0	2	0	0	0	0	0
-										
-COOPER, Joe 	Inside Forward	16	1	0	3	0	0	0	0	0
-										
-CRAVEN, Charlie 	Inside Forward	9	1	0	0	0	0	0	0	0
-										
-DODDS, Les 	Winger	4	0	0	0	0	0	0	0	0
-										
-DONALDSON, Dave 	Winger	1	0	0	0	0	0	0	0	0
-										
-DOW, Hugh 	Full Back	2	0	0	0	0	0	0	0	0
-										
-DYSON, Jimmy 	Winger	8	7	0	0	0	0	0	0	0
-										
-FIELDING, Horace 	Winger	19	5	0	2	0	0	0	0	0
-										
-GARDNER, Tommy 	Wing Half	13	0	0	0	0	0	0	0	0
-										
-GLOVER, Pat 	Centre Forward	20	13	0	1	4	0	0	0	0
-										
-HALL, Alec 	Wing Half	21	1	0	3	0	0	0	0	0
-										
-HOLMES, Maxey 	Winger	8	7	0	0	0	0	0	0	0
-										
-JACOBSON, Hughie 	Full Back	40	0	0	3	0	0	0	0	0
-										
-MARSHALL, Billy 	Winger	33	6	0	3	0	0	0	0	0
-										
-MORALEE, Matt 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-PONTING, Wally 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-PRIESTLEY, Jock 	Wing Half	26	3	3	3	0	0	0	0	0
-										
-PRIOR, Jack 	Winger	22	3	0	1	0	0	0	0	0
-										
-READ, Tommy 	Goalkeeper	42	0	0	3	0	0	0	0	0
-										
-SEDDON, Bill 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-SWABY, Harry 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-WILSON, Charlie 	Inside Forward	11	0	0	0	0	0	0	0	0
-										
-WILSON, Charlie 	Full Back	35	0	0	3	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATEMAN, Arthur ",Full Back,3,0,0,0,0,0,0,0,0
+,"BELL, William ",Full Back,6,0,0,0,0,0,0,0,0
+,"BESTALL, Jackie ",Inside Forward,37,2,0,3,2,0,0,0,0
+,"BETMEAD, Harry ",Central Defender,17,2,0,0,0,0,0,0,0
+,"BUCK, Teddy ",Wing Half,29,1,0,3,0,0,0,0,0
+,"CHALMERS, Willie ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"COLEMAN, Tim ",Inside Forward,23,13,0,2,0,0,0,0,0
+,"COOPER, Joe ",Inside Forward,16,1,0,3,0,0,0,0,0
+,"CRAVEN, Charlie ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"DODDS, Les ",Winger,4,0,0,0,0,0,0,0,0
+,"DONALDSON, Dave ",Winger,1,0,0,0,0,0,0,0,0
+,"DOW, Hugh ",Full Back,2,0,0,0,0,0,0,0,0
+,"DYSON, Jimmy ",Winger,8,7,0,0,0,0,0,0,0
+,"FIELDING, Horace ",Winger,19,5,0,2,0,0,0,0,0
+,"GARDNER, Tommy ",Wing Half,13,0,0,0,0,0,0,0,0
+,"GLOVER, Pat ",Centre Forward,20,13,0,1,4,0,0,0,0
+,"HALL, Alec ",Wing Half,21,1,0,3,0,0,0,0,0
+,"HOLMES, Maxey ",Winger,8,7,0,0,0,0,0,0,0
+,"JACOBSON, Hughie ",Full Back,40,0,0,3,0,0,0,0,0
+,"MARSHALL, Billy ",Winger,33,6,0,3,0,0,0,0,0
+,"MORALEE, Matt ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"PONTING, Wally ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"PRIESTLEY, Jock ",Wing Half,26,3,3,3,0,0,0,0,0
+,"PRIOR, Jack ",Winger,22,3,0,1,0,0,0,0,0
+,"READ, Tommy ",Goalkeeper,42,0,0,3,0,0,0,0,0
+,"SEDDON, Bill ",Wing Half,5,0,0,0,0,0,0,0,0
+,"SWABY, Harry ",Central Defender,2,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Full Back,35,0,0,3,0,0,0,0,0

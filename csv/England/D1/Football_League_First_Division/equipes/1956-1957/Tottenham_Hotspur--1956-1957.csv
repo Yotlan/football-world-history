@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1956/57
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Peter 	Full Back	38	0	0	3	0	0	0	0	0
-										
-BLANCHFLOWER, Danny 	Wing Half	39	1	0	3	1	0	0	0	0
-										
-BRITTAN, Colin 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-BROOKS, Johnny 	Inside Forward	23	11	0	0	0	0	0	0	0
-										
-CLARKE, Harry 	Central Defender	21	0	0	0	0	0	0	0	0
-										
-CURRAN, Terry 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-DITCHBURN, Ted 	Goalkeeper	29	0	0	3	0	0	0	0	0
-										
-DULIN, Micky 	Winger	1	0	0	0	0	0	0	0	0
-										
-DUNMORE, Dave 	Centre Forward	5	3	0	0	0	0	0	0	0
-										
-DUQUEMIN, Len 	Centre Forward	2	1	0	0	0	0	0	0	0
-										
-DYSON, Terry 	Winger	8	3	0	1	0	0	0	0	0
-										
-HARMER, Tommy 	Inside Forward	42	17	10	3	1	0	0	0	0
-										
-HENRY, Ron 	Full Back	1	0	0	0	0	0	0	0	0
-										
-HOPKINS, Mel 	Full Back	35	0	0	3	0	0	0	0	0
-										
-MARCHI, Tony 	Wing Half	42	0	0	3	0	0	0	0	0
-										
-MEDWIN, Terry 	Winger	37	14	0	2	2	0	0	0	0
-										
-NORMAN, Maurice 	Central Defender	16	0	0	0	0	0	0	0	0
-										
-REYNOLDS, Ron 	Goalkeeper	13	0	0	0	0	0	0	0	0
-										
-ROBB, George 	Winger	37	14	0	3	1	0	0	0	0
-										
-RYDEN, John 	Central Defender	15	0	0	3	0	0	0	0	0
-										
-SMITH, Bobby 	Centre Forward	33	18	0	3	1	0	0	0	0
-										
-STOKES, Alfie 	Inside Forward	21	18	0	3	1	0	0	0	0
-										
-THARME, Derek 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WALLEY, Ernie 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-WILKIE, Bob 	Winger	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Peter ",Full Back,38,0,0,3,0,0,0,0,0
+,"BLANCHFLOWER, Danny ",Wing Half,39,1,0,3,1,0,0,0,0
+,"BRITTAN, Colin ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROOKS, Johnny ",Inside Forward,23,11,0,0,0,0,0,0,0
+,"CLARKE, Harry ",Central Defender,21,0,0,0,0,0,0,0,0
+,"CURRAN, Terry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DITCHBURN, Ted ",Goalkeeper,29,0,0,3,0,0,0,0,0
+,"DULIN, Micky ",Winger,1,0,0,0,0,0,0,0,0
+,"DUNMORE, Dave ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"DUQUEMIN, Len ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"DYSON, Terry ",Winger,8,3,0,1,0,0,0,0,0
+,"HARMER, Tommy ",Inside Forward,42,17,10,3,1,0,0,0,0
+,"HENRY, Ron ",Full Back,1,0,0,0,0,0,0,0,0
+,"HOPKINS, Mel ",Full Back,35,0,0,3,0,0,0,0,0
+,"MARCHI, Tony ",Wing Half,42,0,0,3,0,0,0,0,0
+,"MEDWIN, Terry ",Winger,37,14,0,2,2,0,0,0,0
+,"NORMAN, Maurice ",Central Defender,16,0,0,0,0,0,0,0,0
+,"REYNOLDS, Ron ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"ROBB, George ",Winger,37,14,0,3,1,0,0,0,0
+,"RYDEN, John ",Central Defender,15,0,0,3,0,0,0,0,0
+,"SMITH, Bobby ",Centre Forward,33,18,0,3,1,0,0,0,0
+,"STOKES, Alfie ",Inside Forward,21,18,0,3,1,0,0,0,0
+,"THARME, Derek ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALLEY, Ernie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WILKIE, Bob ",Winger,1,0,0,0,0,0,0,0,0

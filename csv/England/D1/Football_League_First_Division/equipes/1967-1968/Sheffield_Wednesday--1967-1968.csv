@@ -1,50 +1,24 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1967/68
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRANFOOT, Ian 	Full Back	9+1	0	0	2	0	0	0	0	0
-										
-ELLIS, Sam 	Central Defender	25	0	0	2	0	0	4	0	0
-										
-EUSTACE, Peter 	Midfielder	31+2	2	1	2	0	0	4	0	0
-										
-FANTHAM, John 	Forward	28+4	9	0	3	1	0	4	4	0
-										
-FORD, David 	Forward	14+2	3	0	0	0	0	0	0	0
-										
-MCCALLIOG, Jim 	Midfielder	42	5	0	4	0	0	4	3	0
-										
-MEGSON, Don 	Full Back	40	0	0	4	1	0	3	0	0
-										
-MOBLEY, Vic 	Central Defender	42	3	0	4	0	0	3	0	0
-										
-OLIVER, Derek 	Winger	0	0	0	0	0	0	0	0	0
-										
-PUGH, Graham 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-QUINN, Johnny 	Midfielder	11+3	0	0	0	0	0	2+1	0	0
-										
-RITCHIE, John 	Forward	41	18	1	4	3	1	4	1	0
-										
-SCOTHORN, Garry 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SMITH, Wilf 	Full Back	37	0	0	4	1	0	3	0	0
-										
-SPRINGETT, Peter 	Goalkeeper	39	0	0	4	0	0	3	0	0
-										
-SYMM, Colin 	Midfielder	6+2	0	0	2	0	0	1	0	0
-										
-USHER, Brian 	Winger	29	1	0	3+1	0	0	3	0	0
-										
-WALL, Adrian 	Winger	3	0	0	0	0	0	0	0	0
-										
-WHITHAM, Jack 	Forward	18+2	7	0	4	1	0	1	0	0
-										
-WICKS, Peter 	Goalkeeper	2	0	0	0	0	0	1	0	0
-										
-WOODALL, Brian 	Winger	7+2	2	0	0	0	0	0	0	0
-										
-YOUNG, Gerry 	Central Defender	35	0	0	2	0	0	4	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRANFOOT, Ian ",Full Back,9+1,0,0,2,0,0,0,0,0
+,"ELLIS, Sam ",Central Defender,25,0,0,2,0,0,4,0,0
+,"EUSTACE, Peter ",Midfielder,31+2,2,1,2,0,0,4,0,0
+,"FANTHAM, John ",Forward,28+4,9,0,3,1,0,4,4,0
+,"FORD, David ",Forward,14+2,3,0,0,0,0,0,0,0
+,"MCCALLIOG, Jim ",Midfielder,42,5,0,4,0,0,4,3,0
+,"MEGSON, Don ",Full Back,40,0,0,4,1,0,3,0,0
+,"MOBLEY, Vic ",Central Defender,42,3,0,4,0,0,3,0,0
+,"OLIVER, Derek ",Winger,0,0,0,0,0,0,0,0,0
+,"PUGH, Graham ",Midfielder,2,0,0,0,0,0,0,0,0
+,"QUINN, Johnny ",Midfielder,11+3,0,0,0,0,0,2+1,0,0
+,"RITCHIE, John ",Forward,41,18,1,4,3,1,4,1,0
+,"SCOTHORN, Garry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SMITH, Wilf ",Full Back,37,0,0,4,1,0,3,0,0
+,"SPRINGETT, Peter ",Goalkeeper,39,0,0,4,0,0,3,0,0
+,"SYMM, Colin ",Midfielder,6+2,0,0,2,0,0,1,0,0
+,"USHER, Brian ",Winger,29,1,0,3+1,0,0,3,0,0
+,"WALL, Adrian ",Winger,3,0,0,0,0,0,0,0,0
+,"WHITHAM, Jack ",Forward,18+2,7,0,4,1,0,1,0,0
+,"WICKS, Peter ",Goalkeeper,2,0,0,0,0,0,1,0,0
+,"WOODALL, Brian ",Winger,7+2,2,0,0,0,0,0,0,0
+,"YOUNG, Gerry ",Central Defender,35,0,0,2,0,0,4,1,0

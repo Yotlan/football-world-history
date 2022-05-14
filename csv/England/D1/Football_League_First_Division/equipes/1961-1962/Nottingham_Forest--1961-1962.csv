@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1961/62
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADDISON, Colin 	Midfielder	18	5	0	1	0	0	5	1	0
-										
-ARMSTRONG, John 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-BAIRD, Doug 	Full Back	13	0	0	0	0	0	3	0	0
-										
-BARTON, Tony 	Winger	2	0	0	0	0	0	1	1	0
-										
-BOOTH, Colin 	Inside Forward	28	12	0	2	1	0	4	1	0
-										
-BURKITT, Jack 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-COBB, Billy 	Midfielder	8	3	0	0	0	0	1	1	0
-										
-GRANT, Brian 	Full Back	8	0	0	0	0	0	3	0	0
-										
-GRAY, Billy 	Winger	34	2	0	2	0	0	2	0	0
-										
-GRUMMITT, Peter 	Goalkeeper	42	0	0	2	0	0	3	0	0
-										
-HOCKEY, Trevor 	Winger	17	2	0	2	0	0	0	0	0
-										
-ILEY, Jim 	Midfielder	33	0	0	2	0	0	4	0	0
-										
-JULIANS, Len 	Centre Forward	19	8	0	2	1	0	0	0	0
-										
-LE FLEM, Dick 	Winger	35	5	0	2	0	0	4	0	0
-										
-MCGLINCHEY, Charlie 	Winger	0	0	0	0	0	0	1	0	0
-										
-MCKINLAY, Bobby 	Central Defender	42	1	0	2	0	0	5	0	0
-										
-PALMER, Calvin 	Midfielder	30	2	2	2	0	0	3	0	0
-										
-PLEAT, David 	Winger	1	1	0	0	0	0	0	0	0
-										
-QUIGLEY, Johnny 	Midfielder	41	6	0	2	0	0	5	1	0
-										
-ROWLAND, John 	Winger	14	2	0	0	0	0	1	0	0
-										
-SOMERS, Micky 	Winger	0	0	0	0	0	0	0	0	0
-										
-VOWDEN, Geoff 	Forward	26	11	0	0	0	0	3	2	0
-										
-WHITEFOOT, Jeff 	Wing Half	25	0	0	1	0	0	5	1	0
-										
-WILSON, Joe 	Full Back	10	0	0	0	0	0	0	0	0
-										
-WINFIELD, John 	Full Back	14	1	0	0	0	0	0	0	0
-										
-WOOD, Noel 	Goalkeeper	0	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADDISON, Colin ",Midfielder,18,5,0,1,0,0,5,1,0
+,"ARMSTRONG, John ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"BAIRD, Doug ",Full Back,13,0,0,0,0,0,3,0,0
+,"BARTON, Tony ",Winger,2,0,0,0,0,0,1,1,0
+,"BOOTH, Colin ",Inside Forward,28,12,0,2,1,0,4,1,0
+,"BURKITT, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"COBB, Billy ",Midfielder,8,3,0,0,0,0,1,1,0
+,"GRANT, Brian ",Full Back,8,0,0,0,0,0,3,0,0
+,"GRAY, Billy ",Winger,34,2,0,2,0,0,2,0,0
+,"GRUMMITT, Peter ",Goalkeeper,42,0,0,2,0,0,3,0,0
+,"HOCKEY, Trevor ",Winger,17,2,0,2,0,0,0,0,0
+,"ILEY, Jim ",Midfielder,33,0,0,2,0,0,4,0,0
+,"JULIANS, Len ",Centre Forward,19,8,0,2,1,0,0,0,0
+,"LE FLEM, Dick ",Winger,35,5,0,2,0,0,4,0,0
+,"MCGLINCHEY, Charlie ",Winger,0,0,0,0,0,0,1,0,0
+,"MCKINLAY, Bobby ",Central Defender,42,1,0,2,0,0,5,0,0
+,"PALMER, Calvin ",Midfielder,30,2,2,2,0,0,3,0,0
+,"PLEAT, David ",Winger,1,1,0,0,0,0,0,0,0
+,"QUIGLEY, Johnny ",Midfielder,41,6,0,2,0,0,5,1,0
+,"ROWLAND, John ",Winger,14,2,0,0,0,0,1,0,0
+,"SOMERS, Micky ",Winger,0,0,0,0,0,0,0,0,0
+,"VOWDEN, Geoff ",Forward,26,11,0,0,0,0,3,2,0
+,"WHITEFOOT, Jeff ",Wing Half,25,0,0,1,0,0,5,1,0
+,"WILSON, Joe ",Full Back,10,0,0,0,0,0,0,0,0
+,"WINFIELD, John ",Full Back,14,1,0,0,0,0,0,0,0
+,"WOOD, Noel ",Goalkeeper,0,0,0,0,0,0,1,0,0

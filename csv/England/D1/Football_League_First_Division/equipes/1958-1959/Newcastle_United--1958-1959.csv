@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1958/59
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLCHURCH, Ivor 	Inside Forward	26	16	1	1	0	0	0	0	0
-										
-BELL, Jackie 	Wing Half	24	1	1	0	0	0	0	0	0
-										
-BOTTOM, Arthur 	Inside Forward	3	3	1	0	0	0	0	0	0
-										
-CURRY, Bill 	Forward	10	10	0	0	0	0	0	0	0
-										
-DAVIES, Reg 	Inside Forward	9	2	0	0	0	0	0	0	0
-										
-EASTHAM, George 	Midfielder	35	6	3	1	1	0	0	0	0
-										
-EVANS, Reg 	Winger	4	0	0	0	0	0	0	0	0
-										
-FERGUSON, Bobby 	Full Back	1	0	0	0	0	0	0	0	0
-										
-FOLLAND, Bobby 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-FRANKS, Albert 	Wing Half	29	2	0	1	0	0	0	0	0
-										
-GIBSON, Jimmy 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-HALE, Ken 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-HARVEY, Bryan 	Goalkeeper	31	0	0	1	0	0	0	0	0
-										
-HUGHES, Gordon 	Winger	29	1	0	0	0	0	0	0	0
-										
-KEITH, Dick 	Full Back	32	1	0	1	0	0	0	0	0
-										
-MARSHALL, Terry 	Winger	2	0	0	0	0	0	0	0	0
-										
-MCGUIGAN, Johnny 	Winger	21	5	0	1	0	0	0	0	0
-										
-MCKINNEY, Bill 	Full Back	3	0	0	0	0	0	0	0	0
-										
-MCMICHAEL, Alf 	Full Back	39	0	0	1	0	0	0	0	0
-										
-MITCHELL, Bobby 	Winger	16	0	0	0	0	0	0	0	0
-										
-MITCHELL, Stewart 	Goalkeeper	11	0	0	0	0	0	0	0	0
-										
-MITTEN, John 	Winger	2	0	0	0	0	0	0	0	0
-										
-ROBSON, Lance 	Forward	0	0	0	0	0	0	0	0	0
-										
-SCOTT, Malcolm 	Wing Half	16	0	0	0	0	0	0	0	0
-										
-SCOULAR, Jimmy 	Wing Half	32	0	0	1	0	0	0	0	0
-										
-STOKOE, Bob 	Central Defender	22	0	0	1	0	0	0	0	0
-										
-TAYLOR, Harry 	Winger	16	4	0	1	0	0	0	0	0
-										
-WHITE, Len 	Inside Forward	30	25	0	1	0	0	0	0	0
-										
-WHITEHEAD, Bobby 	Full Back	7	0	0	0	0	0	0	0	0
-										
-WILSON, Carl 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-WRIGHT, Billy 	Winger	5	3	0	0	0	0	0	0	0
-										
-YORK, Allan 	Full Back	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLCHURCH, Ivor ",Inside Forward,26,16,1,1,0,0,0,0,0
+,"BELL, Jackie ",Wing Half,24,1,1,0,0,0,0,0,0
+,"BOTTOM, Arthur ",Inside Forward,3,3,1,0,0,0,0,0,0
+,"CURRY, Bill ",Forward,10,10,0,0,0,0,0,0,0
+,"DAVIES, Reg ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"EASTHAM, George ",Midfielder,35,6,3,1,1,0,0,0,0
+,"EVANS, Reg ",Winger,4,0,0,0,0,0,0,0,0
+,"FERGUSON, Bobby ",Full Back,1,0,0,0,0,0,0,0,0
+,"FOLLAND, Bobby ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"FRANKS, Albert ",Wing Half,29,2,0,1,0,0,0,0,0
+,"GIBSON, Jimmy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HALE, Ken ",Midfielder,5,0,0,0,0,0,0,0,0
+,"HARVEY, Bryan ",Goalkeeper,31,0,0,1,0,0,0,0,0
+,"HUGHES, Gordon ",Winger,29,1,0,0,0,0,0,0,0
+,"KEITH, Dick ",Full Back,32,1,0,1,0,0,0,0,0
+,"MARSHALL, Terry ",Winger,2,0,0,0,0,0,0,0,0
+,"MCGUIGAN, Johnny ",Winger,21,5,0,1,0,0,0,0,0
+,"MCKINNEY, Bill ",Full Back,3,0,0,0,0,0,0,0,0
+,"MCMICHAEL, Alf ",Full Back,39,0,0,1,0,0,0,0,0
+,"MITCHELL, Bobby ",Winger,16,0,0,0,0,0,0,0,0
+,"MITCHELL, Stewart ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"MITTEN, John ",Winger,2,0,0,0,0,0,0,0,0
+,"ROBSON, Lance ",Forward,0,0,0,0,0,0,0,0,0
+,"SCOTT, Malcolm ",Wing Half,16,0,0,0,0,0,0,0,0
+,"SCOULAR, Jimmy ",Wing Half,32,0,0,1,0,0,0,0,0
+,"STOKOE, Bob ",Central Defender,22,0,0,1,0,0,0,0,0
+,"TAYLOR, Harry ",Winger,16,4,0,1,0,0,0,0,0
+,"WHITE, Len ",Inside Forward,30,25,0,1,0,0,0,0,0
+,"WHITEHEAD, Bobby ",Full Back,7,0,0,0,0,0,0,0,0
+,"WILSON, Carl ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Winger,5,3,0,0,0,0,0,0,0
+,"YORK, Allan ",Full Back,0,0,0,0,0,0,0,0,0

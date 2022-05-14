@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1951/52
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARTRAM, Sam 	Goalkeeper	41	0	0	1	0	0	0	0	0
-										
-CAMPBELL, Jock 	Full Back	4	0	0	1	0	0	0	0	0
-										
-CULLUM, Riley 	Inside Forward	4	2	0	1	0	0	0	0	0
-										
-DUFFY, Chris 	Winger	32	5	0	1	0	0	0	0	0
-										
-EVANS, John 	Inside Forward	34	12	0	0	0	0	0	0	0
-										
-FELL, Les 	Winger	1	0	0	0	0	0	0	0	0
-										
-FENTON, Benny 	Wing Half	40	2	0	1	0	0	0	0	0
-										
-FIRMANI, Eddie 	Forward	1	0	0	0	0	0	0	0	0
-										
-GILL, Eric 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-HAMMOND, Cyril 	Wing Half	14	0	0	1	0	0	0	0	0
-										
-HEWIE, John 	Wing Half	38	1	0	0	0	0	0	0	0
-										
-HURST, Gordon 	Winger	41	9	0	1	0	0	0	0	0
-										
-JOHNSON, Bert 	Wing Half	38	0	0	0	0	0	0	0	0
-										
-KIERNAN, Billy 	Winger	41	11	0	1	0	0	0	0	0
-										
-LEARY, Stuart 	Centre Forward	5	0	0	0	0	0	0	0	0
-										
-LOCK, Frank 	Full Back	41	2	2	1	0	0	0	0	0
-										
-LUMLEY, Tommy 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-O'LINN, Syd 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-PAWSON, Tony 	Winger	1	1	0	0	0	0	0	0	0
-										
-PEMBERY, Gordon 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-UFTON, Derek 	Central Defender	41	0	0	1	0	0	0	0	0
-										
-VAUGHAN, Charlie 	Centre Forward	38	22	0	1	0	0	0	0	0
-										
-WALLS, Jimmy 	Central Defender	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARTRAM, Sam ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"CAMPBELL, Jock ",Full Back,4,0,0,1,0,0,0,0,0
+,"CULLUM, Riley ",Inside Forward,4,2,0,1,0,0,0,0,0
+,"DUFFY, Chris ",Winger,32,5,0,1,0,0,0,0,0
+,"EVANS, John ",Inside Forward,34,12,0,0,0,0,0,0,0
+,"FELL, Les ",Winger,1,0,0,0,0,0,0,0,0
+,"FENTON, Benny ",Wing Half,40,2,0,1,0,0,0,0,0
+,"FIRMANI, Eddie ",Forward,1,0,0,0,0,0,0,0,0
+,"GILL, Eric ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HAMMOND, Cyril ",Wing Half,14,0,0,1,0,0,0,0,0
+,"HEWIE, John ",Wing Half,38,1,0,0,0,0,0,0,0
+,"HURST, Gordon ",Winger,41,9,0,1,0,0,0,0,0
+,"JOHNSON, Bert ",Wing Half,38,0,0,0,0,0,0,0,0
+,"KIERNAN, Billy ",Winger,41,11,0,1,0,0,0,0,0
+,"LEARY, Stuart ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"LOCK, Frank ",Full Back,41,2,2,1,0,0,0,0,0
+,"LUMLEY, Tommy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"O'LINN, Syd ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"PAWSON, Tony ",Winger,1,1,0,0,0,0,0,0,0
+,"PEMBERY, Gordon ",Wing Half,1,0,0,0,0,0,0,0,0
+,"UFTON, Derek ",Central Defender,41,0,0,1,0,0,0,0,0
+,"VAUGHAN, Charlie ",Centre Forward,38,22,0,1,0,0,0,0,0
+,"WALLS, Jimmy ",Central Defender,1,0,0,0,0,0,0,0,0

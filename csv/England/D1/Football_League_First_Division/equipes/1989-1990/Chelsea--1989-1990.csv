@@ -1,47 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
+,-- League --,--- FA Cup ---,---- Other ----
+Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
 1989/90
-										
-BEASANT, Dave 	Goalkeeper	38	0	0	3	0	0	8	0	0
-										
-BUMSTEAD, John 	Midfielder	21+8	2	0	3	0	0	7	1	0
-										
-CLARKE, Steve 	Full Back	24	3	0	3	1	0	5	1	0
-										
-DAVIES, Roy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-DICKENS, Alan 	Midfielder	20+2	1	0	0	0	0	4	3	0
-										
-DIXON, Kerry 	Forward	38	20	0	3	2	0	8	3	0
-										
-DORIGO, Tony 	Full Back	35	3	0	1	0	0	7	1	0
-										
-DURIE, Gordon 	Forward	14+1	5	0	1	0	0	3	0	0
-										
-HALL, Gareth 	Full Back	13	1	0	0	0	0	3	1	0
-										
-HAZARD, Micky 	Midfielder	13	0	0	0	0	0	3	0	0
-										
-JOHNSEN, Erland 	Central Defender	18	0	0	3	0	0	4	0	0
-										
-LE SAUX, Graeme 	Full Back	4+3	1	0	3	0	0	2	0	0
-										
-LEE, David 	Central Defender	23+7	1	0	1+2	0	0	4	1	0
-										
-MATTHEW, Damian 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-MCALLISTER, Kevin 	Winger	21+3	1	0	1+1	0	0	5+2	0	0
-										
-MONKOU, Ken 	Central Defender	34	1	0	3	0	0	7	0	0
-										
-NICHOLAS, Peter 	Midfielder	29	0	0	1	0	0	5	0	0
-										
-ROBERTS, Graham 	Central Defender	24	3	2	3	0	0	4	2	1
-										
-STUART, Graham 	Winger	2	1	0	0	0	0	0	0	0
-										
-VERTANNES, Des 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WILSON, Clive 	Full Back	12+6	0	0	1	0	0	2+3	0	0
-										
-WILSON, Kevin 	Forward	33+4	14	0	3	1	0	7+1	5	1
+,"BEASANT, Dave ",Goalkeeper,38,0,0,3,0,0,8,0,0
+,"BUMSTEAD, John ",Midfielder,21+8,2,0,3,0,0,7,1,0
+,"CLARKE, Steve ",Full Back,24,3,0,3,1,0,5,1,0
+,"DAVIES, Roy ",Full Back,0,0,0,0,0,0,0,0,0
+,"DICKENS, Alan ",Midfielder,20+2,1,0,0,0,0,4,3,0
+,"DIXON, Kerry ",Forward,38,20,0,3,2,0,8,3,0
+,"DORIGO, Tony ",Full Back,35,3,0,1,0,0,7,1,0
+,"DURIE, Gordon ",Forward,14+1,5,0,1,0,0,3,0,0
+,"HALL, Gareth ",Full Back,13,1,0,0,0,0,3,1,0
+,"HAZARD, Micky ",Midfielder,13,0,0,0,0,0,3,0,0
+,"JOHNSEN, Erland ",Central Defender,18,0,0,3,0,0,4,0,0
+,"LE SAUX, Graeme ",Full Back,4+3,1,0,3,0,0,2,0,0
+,"LEE, David ",Central Defender,23+7,1,0,1+2,0,0,4,1,0
+,"MATTHEW, Damian ",Midfielder,2,0,0,0,0,0,0,0,0
+,"MCALLISTER, Kevin ",Winger,21+3,1,0,1+1,0,0,5+2,0,0
+,"MONKOU, Ken ",Central Defender,34,1,0,3,0,0,7,0,0
+,"NICHOLAS, Peter ",Midfielder,29,0,0,1,0,0,5,0,0
+,"ROBERTS, Graham ",Central Defender,24,3,2,3,0,0,4,2,1
+,"STUART, Graham ",Winger,2,1,0,0,0,0,0,0,0
+,"VERTANNES, Des ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WILSON, Clive ",Full Back,12+6,0,0,1,0,0,2+3,0,0
+,"WILSON, Kevin ",Forward,33+4,14,0,3,1,0,7+1,5,1

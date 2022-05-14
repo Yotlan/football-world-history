@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1979/80
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANGUS, Mike 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-ARMSTRONG, David 	Midfielder	42	11	1	3	1	0	3	2	1
-										
-ASHCROFT, Billy 	Forward	34+1	3	0	2	0	0	2	0	0
-										
-ASKEW, Billy 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-BAILEY, Ian 	Full Back	18	0	0	0	0	0	3	0	0
-										
-BELL, Charlie 	Midfielder	3	0	0	0	0	0	0	0	0
-										
-BURNS, Micky 	Forward	23+1	10	0	0+1	0	0	3	0	0
-										
-COCHRANE, Terry 	Winger	25+4	1	0	3	2	0	0	0	0
-										
-CRAGGS, John 	Full Back	42	1	0	3	0	0	3	0	0
-										
-CUMMINS, Stan 	Forward	4+1	2	0	0	0	0	0+1	0	0
-										
-HEDLEY, Graeme 	Midfielder	14+6	1	0	3	0	0	1	0	0
-										
-HODGSON, David 	Forward	40	7	0	3	1	0	3	0	0
-										
-JANKOVIC, Bozo 	Forward	17+2	3	0	3	0	0	3	1	0
-										
-JOHNSON, Peter 	Full Back	17+1	0	0	3	1	0	0	0	0
-										
-JOHNSTON, Craig 	Midfielder	29+1	5	0	0	0	0	3	0	0
-										
-MCANDREW, Tony 	Central Defender	39	1	0	3	0	0	3	0	0
-										
-NATTRASS, Irving 	Full Back	10+3	0	0	0	0	0	1	0	0
-										
-PETERS, Jeff 	Full Back	6	0	0	0	0	0	0	0	0
-										
-PLATT, Jim 	Goalkeeper	37	0	0	3	0	0	3	0	0
-										
-PROCTOR, Mark 	Midfielder	38	2	0	3	0	0	2	0	0
-										
-RAMAGE, Alan 	Central Defender	13+3	1	0	1	0	0	0	0	0
-										
-ROBINSON, Mark 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-SHEARER, David 	Forward	4+1	2	0	0	0	0	0+1	0	0
-										
-STEWART, Jim 	Goalkeeper	5	0	0	0	0	0	0	0	0
-										
-WOOF, Billy 	Forward	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANGUS, Mike ",Midfielder,1,0,0,0,0,0,0,0,0
+,"ARMSTRONG, David ",Midfielder,42,11,1,3,1,0,3,2,1
+,"ASHCROFT, Billy ",Forward,34+1,3,0,2,0,0,2,0,0
+,"ASKEW, Billy ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"BAILEY, Ian ",Full Back,18,0,0,0,0,0,3,0,0
+,"BELL, Charlie ",Midfielder,3,0,0,0,0,0,0,0,0
+,"BURNS, Micky ",Forward,23+1,10,0,0+1,0,0,3,0,0
+,"COCHRANE, Terry ",Winger,25+4,1,0,3,2,0,0,0,0
+,"CRAGGS, John ",Full Back,42,1,0,3,0,0,3,0,0
+,"CUMMINS, Stan ",Forward,4+1,2,0,0,0,0,0+1,0,0
+,"HEDLEY, Graeme ",Midfielder,14+6,1,0,3,0,0,1,0,0
+,"HODGSON, David ",Forward,40,7,0,3,1,0,3,0,0
+,"JANKOVIC, Bozo ",Forward,17+2,3,0,3,0,0,3,1,0
+,"JOHNSON, Peter ",Full Back,17+1,0,0,3,1,0,0,0,0
+,"JOHNSTON, Craig ",Midfielder,29+1,5,0,0,0,0,3,0,0
+,"MCANDREW, Tony ",Central Defender,39,1,0,3,0,0,3,0,0
+,"NATTRASS, Irving ",Full Back,10+3,0,0,0,0,0,1,0,0
+,"PETERS, Jeff ",Full Back,6,0,0,0,0,0,0,0,0
+,"PLATT, Jim ",Goalkeeper,37,0,0,3,0,0,3,0,0
+,"PROCTOR, Mark ",Midfielder,38,2,0,3,0,0,2,0,0
+,"RAMAGE, Alan ",Central Defender,13+3,1,0,1,0,0,0,0,0
+,"ROBINSON, Mark ",Midfielder,0,0,0,0,0,0,0,0,0
+,"SHEARER, David ",Forward,4+1,2,0,0,0,0,0+1,0,0
+,"STEWART, Jim ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"WOOF, Billy ",Forward,1,0,0,0,0,0,0,0,0

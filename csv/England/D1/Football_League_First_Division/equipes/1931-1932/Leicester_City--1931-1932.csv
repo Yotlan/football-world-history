@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1931/32
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADCOCK, Hugh 	Winger	37	2	0	3	0	0	0	0	0
-										
-BARRY, Len 	Winger	38	9	0	3	0	0	0	0	0
-										
-BEBY, Jack 	Goalkeeper	6	0	0	0	0	0	0	0	0
-										
-BLACK, Adam 	Full Back	42	0	0	3	0	0	0	0	0
-										
-BULLING, Jim 	Wing Half	8	0	0	0	0	0	0	0	0
-										
-CALDER, Jack 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-CARR, George 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-CHANDLER, Arthur 	Centre Forward	33	12	0	3	2	0	0	0	0
-										
-DUMBRELL, George 	Full Back	18	0	0	2	0	0	0	0	0
-										
-DUTTON, Tommy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-EDWARDS, Les 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-FINDLAY, Billy 	Wing Half	18	0	0	3	0	0	0	0	0
-										
-HEYWOOD, Roger 	Central Defender	41	0	0	3	0	0	0	0	0
-										
-HINE, Ernie 	Inside Forward	36	22	4	3	6	0	0	0	0
-										
-JACKSON, Billy 	Winger	4	0	0	0	0	0	0	0	0
-										
-KEELEY, Ernie 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-LANGFORD, Walter 	Inside Forward	4	2	0	1	1	0	0	0	0
-										
-LOCHHEAD, Arthur 	Inside Forward	31	9	0	2	1	0	0	0	0
-										
-MCKENNA, Jim 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-MCLAREN, Jimmy 	Goalkeeper	35	0	0	3	0	0	0	0	0
-										
-OSBORNE, Reg 	Full Back	28	2	2	1	0	0	0	0	0
-										
-RICHARDS, Percy 	Winger	4	1	0	0	0	0	0	0	0
-										
-RITCHIE, George 	Wing Half	33	3	0	3	0	0	0	0	0
-										
-SMITH, Sep 	Wing Half	22	11	0	0	0	0	0	0	0
-										
-TRAYNOR, John 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WATSON, Norman 	Wing Half	13	0	0	0	0	0	0	0	0
-										
-WIGGINS, Joe 	Centre Forward	3	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADCOCK, Hugh ",Winger,37,2,0,3,0,0,0,0,0
+,"BARRY, Len ",Winger,38,9,0,3,0,0,0,0,0
+,"BEBY, Jack ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"BLACK, Adam ",Full Back,42,0,0,3,0,0,0,0,0
+,"BULLING, Jim ",Wing Half,8,0,0,0,0,0,0,0,0
+,"CALDER, Jack ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CHANDLER, Arthur ",Centre Forward,33,12,0,3,2,0,0,0,0
+,"DUMBRELL, George ",Full Back,18,0,0,2,0,0,0,0,0
+,"DUTTON, Tommy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"EDWARDS, Les ",Wing Half,3,0,0,0,0,0,0,0,0
+,"FINDLAY, Billy ",Wing Half,18,0,0,3,0,0,0,0,0
+,"HEYWOOD, Roger ",Central Defender,41,0,0,3,0,0,0,0,0
+,"HINE, Ernie ",Inside Forward,36,22,4,3,6,0,0,0,0
+,"JACKSON, Billy ",Winger,4,0,0,0,0,0,0,0,0
+,"KEELEY, Ernie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"LANGFORD, Walter ",Inside Forward,4,2,0,1,1,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,31,9,0,2,1,0,0,0,0
+,"MCKENNA, Jim ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MCLAREN, Jimmy ",Goalkeeper,35,0,0,3,0,0,0,0,0
+,"OSBORNE, Reg ",Full Back,28,2,2,1,0,0,0,0,0
+,"RICHARDS, Percy ",Winger,4,1,0,0,0,0,0,0,0
+,"RITCHIE, George ",Wing Half,33,3,0,3,0,0,0,0,0
+,"SMITH, Sep ",Wing Half,22,11,0,0,0,0,0,0,0
+,"TRAYNOR, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"WATSON, Norman ",Wing Half,13,0,0,0,0,0,0,0,0
+,"WIGGINS, Joe ",Centre Forward,3,0,0,0,0,0,0,0,0

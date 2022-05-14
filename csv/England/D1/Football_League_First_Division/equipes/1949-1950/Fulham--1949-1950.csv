@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BACUZZI, Joe 	Full Back	38	1	0	1	0	0	0	0	0
-										
-BEASLEY, Pat 	Winger	37	0	0	2	0	0	0	0	0
-										
-CAMPBELL, Johnny 	Winger	13	1	0	0	0	0	0	0	0
-										
-DOCHERTY, Peter 	Winger	0	0	0	0	0	0	0	0	0
-										
-FLACK, Doug 	Goalkeeper	17	0	0	0	0	0	0	0	0
-										
-FOX, Reg 	Full Back	0	0	0	0	0	0	0	0	0
-										
-FREEMAN, Harry 	Full Back	41	1	0	2	1	0	0	0	0
-										
-HINSHELWOOD, Wally 	Winger	10	0	0	0	0	0	0	0	0
-										
-JEZZARD, Bedford 	Centre Forward	39	8	0	2	0	0	0	0	0
-										
-JINKS, Jimmy 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-KELLY, Hugh 	Goalkeeper	25	0	0	2	0	0	0	0	0
-										
-LAWLER, Robin 	Full Back	2	0	0	0	0	0	0	0	0
-										
-MCDONALD, Jack 	Winger	24	5	0	2	1	0	0	0	0
-										
-PAVITT, Bill 	Central Defender	15	0	0	1	0	0	0	0	0
-										
-QUESTED, Len 	Wing Half	42	1	0	2	0	0	0	0	0
-										
-ROWLEY, Arthur 	Inside Forward	34	7	0	2	0	0	0	0	0
-										
-STEVENS, Arthur 	Winger	39	5	1	2	0	0	0	0	0
-										
-SUMMERS, Johnny 	Centre Forward	4	0	0	0	0	0	0	0	0
-										
-TAYLOR, Jim 	Central Defender	35	0	0	2	0	0	0	0	0
-										
-THOMAS, Sid 	Winger	3	1	0	0	0	0	0	0	0
-										
-THOMAS, Bob 	Inside Forward	42	10	0	2	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BACUZZI, Joe ",Full Back,38,1,0,1,0,0,0,0,0
+,"BEASLEY, Pat ",Winger,37,0,0,2,0,0,0,0,0
+,"CAMPBELL, Johnny ",Winger,13,1,0,0,0,0,0,0,0
+,"DOCHERTY, Peter ",Winger,0,0,0,0,0,0,0,0,0
+,"FLACK, Doug ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"FOX, Reg ",Full Back,0,0,0,0,0,0,0,0,0
+,"FREEMAN, Harry ",Full Back,41,1,0,2,1,0,0,0,0
+,"HINSHELWOOD, Wally ",Winger,10,0,0,0,0,0,0,0,0
+,"JEZZARD, Bedford ",Centre Forward,39,8,0,2,0,0,0,0,0
+,"JINKS, Jimmy ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"KELLY, Hugh ",Goalkeeper,25,0,0,2,0,0,0,0,0
+,"LAWLER, Robin ",Full Back,2,0,0,0,0,0,0,0,0
+,"MCDONALD, Jack ",Winger,24,5,0,2,1,0,0,0,0
+,"PAVITT, Bill ",Central Defender,15,0,0,1,0,0,0,0,0
+,"QUESTED, Len ",Wing Half,42,1,0,2,0,0,0,0,0
+,"ROWLEY, Arthur ",Inside Forward,34,7,0,2,0,0,0,0,0
+,"STEVENS, Arthur ",Winger,39,5,1,2,0,0,0,0,0
+,"SUMMERS, Johnny ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"TAYLOR, Jim ",Central Defender,35,0,0,2,0,0,0,0,0
+,"THOMAS, Sid ",Winger,3,1,0,0,0,0,0,0,0
+,"THOMAS, Bob ",Inside Forward,42,10,0,2,1,0,0,0,0

@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1935/36
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHLEY, Jack 	Full Back	3	0	0	0	0	0	0	0	0
-										
-BARGH, George 	Inside Forward	5	0	0	0	0	0	0	0	0
-										
-BROWN, Jack 	Goalkeeper	40	0	0	4	0	0	1	0	0
-										
-BRUCE, Bobbie 	Inside Forward	5	0	0	0	0	0	1	0	0
-										
-BURROWS, Horace 	Wing Half	40	2	1	4	0	0	1	0	0
-										
-CARTER, Joe 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-CATLIN, Ted 	Full Back	38	0	0	3	0	0	1	0	0
-										
-CHIVERTON, Ted 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-COOPER, Sedley 	Winger	1	0	0	0	0	0	0	0	0
-										
-DEWAR, Neil 	Centre Forward	32	19	0	4	2	0	1	1	0
-										
-DUDGEON, Andy 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-GROSVENOR, Tom 	Inside Forward	13	1	0	0	0	0	0	0	0
-										
-HANFORD, Harry 	Central Defender	10	0	0	0	0	0	0	0	0
-										
-HILL, Haydn 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HOOPER, Mark 	Winger	28	9	0	4	0	0	1	0	0
-										
-HULL, Jack 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-LUKE, Charlie 	Winger	13	3	0	0	0	0	0	0	0
-										
-MALLOCH, Gavin 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-MILLERSHIP, Walter 	Central Defender	37	1	0	4	0	0	1	0	0
-										
-NIBLOE, Joe 	Full Back	42	0	0	4	0	0	1	0	0
-										
-PALETHORPE, Jackie 	Centre Forward	8	5	0	0	0	0	0	0	0
-										
-POLLARD, Harry 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-RHODES, Dickie 	Wing Half	10	0	0	0	0	0	1	0	0
-										
-RIMMER, Ellis 	Winger	41	13	0	4	2	0	1	0	0
-										
-ROBERTS, Harry 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-ROBINSON, Jackie 	Inside Forward	5	0	0	0	0	0	0	0	0
-										
-SHARP, Wilf 	Wing Half	24	1	0	4	0	0	0	0	0
-										
-SMIRK, Alf 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-STARLING, Ronnie 	Inside Forward	41	6	0	4	0	0	1	0	0
-										
-SURTEES, Jack 	Inside Forward	17	3	0	4	2	0	0	0	0
-										
-WRIGHT, Jim 	Full Back	2	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHLEY, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"BARGH, George ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"BROWN, Jack ",Goalkeeper,40,0,0,4,0,0,1,0,0
+,"BRUCE, Bobbie ",Inside Forward,5,0,0,0,0,0,1,0,0
+,"BURROWS, Horace ",Wing Half,40,2,1,4,0,0,1,0,0
+,"CARTER, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CATLIN, Ted ",Full Back,38,0,0,3,0,0,1,0,0
+,"CHIVERTON, Ted ",Central Defender,0,0,0,0,0,0,0,0,0
+,"COOPER, Sedley ",Winger,1,0,0,0,0,0,0,0,0
+,"DEWAR, Neil ",Centre Forward,32,19,0,4,2,0,1,1,0
+,"DUDGEON, Andy ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GROSVENOR, Tom ",Inside Forward,13,1,0,0,0,0,0,0,0
+,"HANFORD, Harry ",Central Defender,10,0,0,0,0,0,0,0,0
+,"HILL, Haydn ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HOOPER, Mark ",Winger,28,9,0,4,0,0,1,0,0
+,"HULL, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LUKE, Charlie ",Winger,13,3,0,0,0,0,0,0,0
+,"MALLOCH, Gavin ",Wing Half,4,0,0,0,0,0,0,0,0
+,"MILLERSHIP, Walter ",Central Defender,37,1,0,4,0,0,1,0,0
+,"NIBLOE, Joe ",Full Back,42,0,0,4,0,0,1,0,0
+,"PALETHORPE, Jackie ",Centre Forward,8,5,0,0,0,0,0,0,0
+,"POLLARD, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RHODES, Dickie ",Wing Half,10,0,0,0,0,0,1,0,0
+,"RIMMER, Ellis ",Winger,41,13,0,4,2,0,1,0,0
+,"ROBERTS, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Jackie ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"SHARP, Wilf ",Wing Half,24,1,0,4,0,0,0,0,0
+,"SMIRK, Alf ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"STARLING, Ronnie ",Inside Forward,41,6,0,4,0,0,1,0,0
+,"SURTEES, Jack ",Inside Forward,17,3,0,4,2,0,0,0,0
+,"WRIGHT, Jim ",Full Back,2,0,0,1,0,0,0,0,0

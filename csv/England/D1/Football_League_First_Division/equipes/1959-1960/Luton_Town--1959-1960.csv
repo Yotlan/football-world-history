@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1959/60
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDREWS, George 	Forward	0	0	0	0	0	0	0	0	0
-										
-BAYNHAM, Ron 	Goalkeeper	37	0	0	3	0	0	0	0	0
-										
-BINGHAM, Billy 	Winger	40	16	0	3	0	0	0	0	0
-										
-BROWN, Allan 	Inside Forward	39	7	0	3	0	0	0	0	0
-										
-COLLIER, Alan 	Goalkeeper	5	0	0	0	0	0	0	0	0
-										
-COLLINS, Mick 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-CUMMINS, George 	Inside Forward	30	4	0	0	0	0	0	0	0
-										
-DANIEL, Alan 	Full Back	16	0	0	2	0	0	0	0	0
-										
-DIXON, Mike 	Centre Forward	1	1	0	0	0	0	0	0	0
-										
-DUNNE, Shay 	Full Back	41	0	0	3	0	0	0	0	0
-										
-FAHY, John 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-GREGORY, Tony 	Wing Half	18	5	0	2	1	0	0	0	0
-										
-GROVES, John 	Wing Half	33	1	0	3	0	0	0	0	0
-										
-HAWKES, Barry 	Winger	5	0	0	1	0	0	0	0	0
-										
-HAWKES, Ken 	Full Back	22	0	0	0	0	0	0	0	0
-										
-KELLY, Terry 	Central Defender	31	0	0	3	0	0	0	0	0
-										
-KILGANNON, John 	Inside Forward	12	1	0	0	0	0	0	0	0
-										
-MCBRIDE, Joe 	Centre Forward	13	6	1	0	0	0	0	0	0
-										
-MCCANN, Albert 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-MCCREADIE, Harvey 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-MCNALLY, Brendan 	Full Back	6	0	0	1	0	0	0	0	0
-										
-MORTON, Bob 	Wing Half	33	1	0	3	0	0	0	0	0
-										
-NOAKE, David 	Winger	7	0	0	0	0	0	0	0	0
-										
-PACEY, Dave 	Wing Half	32	1	0	3	0	0	0	0	0
-										
-TRACEY, Mike 	Winger	6	0	0	0	0	0	0	0	0
-										
-TURNER, Gordon 	Inside Forward	31	6	0	3	3	0	0	0	0
-										
-WARNER, John 	Winger	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDREWS, George ",Forward,0,0,0,0,0,0,0,0,0
+,"BAYNHAM, Ron ",Goalkeeper,37,0,0,3,0,0,0,0,0
+,"BINGHAM, Billy ",Winger,40,16,0,3,0,0,0,0,0
+,"BROWN, Allan ",Inside Forward,39,7,0,3,0,0,0,0,0
+,"COLLIER, Alan ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"COLLINS, Mick ",Central Defender,1,0,0,0,0,0,0,0,0
+,"CUMMINS, George ",Inside Forward,30,4,0,0,0,0,0,0,0
+,"DANIEL, Alan ",Full Back,16,0,0,2,0,0,0,0,0
+,"DIXON, Mike ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"DUNNE, Shay ",Full Back,41,0,0,3,0,0,0,0,0
+,"FAHY, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GREGORY, Tony ",Wing Half,18,5,0,2,1,0,0,0,0
+,"GROVES, John ",Wing Half,33,1,0,3,0,0,0,0,0
+,"HAWKES, Barry ",Winger,5,0,0,1,0,0,0,0,0
+,"HAWKES, Ken ",Full Back,22,0,0,0,0,0,0,0,0
+,"KELLY, Terry ",Central Defender,31,0,0,3,0,0,0,0,0
+,"KILGANNON, John ",Inside Forward,12,1,0,0,0,0,0,0,0
+,"MCBRIDE, Joe ",Centre Forward,13,6,1,0,0,0,0,0,0
+,"MCCANN, Albert ",Midfielder,1,0,0,0,0,0,0,0,0
+,"MCCREADIE, Harvey ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"MCNALLY, Brendan ",Full Back,6,0,0,1,0,0,0,0,0
+,"MORTON, Bob ",Wing Half,33,1,0,3,0,0,0,0,0
+,"NOAKE, David ",Winger,7,0,0,0,0,0,0,0,0
+,"PACEY, Dave ",Wing Half,32,1,0,3,0,0,0,0,0
+,"TRACEY, Mike ",Winger,6,0,0,0,0,0,0,0,0
+,"TURNER, Gordon ",Inside Forward,31,6,0,3,3,0,0,0,0
+,"WARNER, John ",Winger,1,0,0,0,0,0,0,0,0

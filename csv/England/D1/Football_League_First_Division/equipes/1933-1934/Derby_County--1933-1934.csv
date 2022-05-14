@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1933/34
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERMAN, Albert 	Inside Forward	2	1	0	0	0	0	0	0	0
-										
-BARKER, Jack 	Central Defender	34	0	0	3	0	0	0	0	0
-										
-BLORE, Vince 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-BOWDEN, Ossie 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-BOWERS, Jack 	Centre Forward	37	34	1	4	3	0	0	0	0
-										
-COLLIN, George 	Full Back	34	0	0	4	0	0	0	0	0
-										
-COOPER, Tommy 	Full Back	33	0	0	4	0	0	0	0	0
-										
-CROOKS, Sammy 	Winger	37	7	0	4	1	0	0	0	0
-										
-DOBBS, Arthur 	Centre Forward	3	1	0	0	0	0	0	0	0
-										
-DUNCAN, Dally 	Winger	29	8	0	4	0	0	0	0	0
-										
-GROVES, Arthur 	Inside Forward	29	5	0	2	0	0	0	0	0
-										
-HANN, Ralph 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-HUTCHISON, Duncan 	Centre Forward	6	2	0	1	0	0	0	0	0
-										
-JESSOP, Freddie 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-KEEN, Eric 'Ike' 	Wing Half	41	1	0	4	0	0	0	0	0
-										
-KIRBY, Jack 	Goalkeeper	40	0	0	4	0	0	0	0	0
-										
-NICHOLAS, Jack 	Wing Half	42	1	0	4	1	0	0	0	0
-										
-RAMAGE, Peter 	Inside Forward	37	7	0	3	0	0	0	0	0
-										
-RANDALL, Jimmy 	Winger	16	0	0	0	0	0	0	0	0
-										
-REID, Sid 	Full Back	8	0	0	0	0	0	0	0	0
-										
-ROBINSON, Albert 	Full Back	0	0	0	0	0	0	0	0	0
-										
-SCOTT, Archie 	Wing Half	4	0	0	1	0	0	0	0	0
-										
-WEBB, Jack 	Full Back	9	0	0	0	0	0	0	0	0
-										
-WILEMAN, Sydney 	Inside Forward	6	1	0	2	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERMAN, Albert ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"BARKER, Jack ",Central Defender,34,0,0,3,0,0,0,0,0
+,"BLORE, Vince ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BOWDEN, Ossie ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"BOWERS, Jack ",Centre Forward,37,34,1,4,3,0,0,0,0
+,"COLLIN, George ",Full Back,34,0,0,4,0,0,0,0,0
+,"COOPER, Tommy ",Full Back,33,0,0,4,0,0,0,0,0
+,"CROOKS, Sammy ",Winger,37,7,0,4,1,0,0,0,0
+,"DOBBS, Arthur ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"DUNCAN, Dally ",Winger,29,8,0,4,0,0,0,0,0
+,"GROVES, Arthur ",Inside Forward,29,5,0,2,0,0,0,0,0
+,"HANN, Ralph ",Wing Half,5,0,0,0,0,0,0,0,0
+,"HUTCHISON, Duncan ",Centre Forward,6,2,0,1,0,0,0,0,0
+,"JESSOP, Freddie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"KEEN, Eric 'Ike' ",Wing Half,41,1,0,4,0,0,0,0,0
+,"KIRBY, Jack ",Goalkeeper,40,0,0,4,0,0,0,0,0
+,"NICHOLAS, Jack ",Wing Half,42,1,0,4,1,0,0,0,0
+,"RAMAGE, Peter ",Inside Forward,37,7,0,3,0,0,0,0,0
+,"RANDALL, Jimmy ",Winger,16,0,0,0,0,0,0,0,0
+,"REID, Sid ",Full Back,8,0,0,0,0,0,0,0,0
+,"ROBINSON, Albert ",Full Back,0,0,0,0,0,0,0,0,0
+,"SCOTT, Archie ",Wing Half,4,0,0,1,0,0,0,0,0
+,"WEBB, Jack ",Full Back,9,0,0,0,0,0,0,0,0
+,"WILEMAN, Sydney ",Inside Forward,6,1,0,2,0,0,0,0,0

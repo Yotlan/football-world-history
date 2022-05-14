@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1978/79
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Viv 	Full Back	40	1	0	3	0	0	16	3	0
-										
-BARRETT, Colin 	Full Back	11	1	0	0	0	0	7	1	0
-										
-BARRY, Kevin 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-BIRTLES, Garry 	Forward	35	14	0	3	0	0	15	12	0
-										
-BOWYER, Ian 	Midfielder	26+3	4	0	1	0	0	12	2	0
-										
-BURNS, Kenny 	Central Defender	25	0	0	1	0	0	11	1	0
-										
-CLARK, Frank 	Full Back	20	0	0	2	0	0	9+1	0	0
-										
-ELLIOTT, Steve 	Forward	4	0	0	0	0	0	2	0	0
-										
-FRANCIS, Trevor 	Forward	19+1	6	0	0	0	0	1	1	0
-										
-GEMMILL, Archie 	Midfielder	24	1	0	3	0	0	15	1	0
-										
-GUNN, Bryn 	Full Back	1	0	0	0	0	0	0	0	0
-										
-HARRISON, Mark 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-LLOYD, Larry 	Central Defender	36	0	0	3	1	0	16	3	0
-										
-MCGOVERN, John 	Midfielder	36	0	0	3	1	0	16	3	0
-										
-MILLS, Gary 	Midfielder	4	1	0	0	0	0	0+2	0	0
-										
-NEEDHAM, Dave 	Central Defender	23+3	2	0	2	1	0	10+1	2	0
-										
-O'HARE, John 	Forward	9+3	0	0	0	0	0	2+1	0	0
-										
-O'NEILL, Martin 	Midfielder	28	10	0	3	1	0	11	4	0
-										
-ROBERTSON, John 	Winger	42	9	5	3	0	0	18	7	2
-										
-SHILTON, Peter 	Goalkeeper	42	0	0	3	0	0	18	0	0
-										
-WITHE, Peter 	Forward	1	0	0	0	0	0	1	1	0
-										
-WOODCOCK, Tony 	Forward	36	10	0	3	1	0	18	4	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Viv ",Full Back,40,1,0,3,0,0,16,3,0
+,"BARRETT, Colin ",Full Back,11,1,0,0,0,0,7,1,0
+,"BARRY, Kevin ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BIRTLES, Garry ",Forward,35,14,0,3,0,0,15,12,0
+,"BOWYER, Ian ",Midfielder,26+3,4,0,1,0,0,12,2,0
+,"BURNS, Kenny ",Central Defender,25,0,0,1,0,0,11,1,0
+,"CLARK, Frank ",Full Back,20,0,0,2,0,0,9+1,0,0
+,"ELLIOTT, Steve ",Forward,4,0,0,0,0,0,2,0,0
+,"FRANCIS, Trevor ",Forward,19+1,6,0,0,0,0,1,1,0
+,"GEMMILL, Archie ",Midfielder,24,1,0,3,0,0,15,1,0
+,"GUNN, Bryn ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARRISON, Mark ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"LLOYD, Larry ",Central Defender,36,0,0,3,1,0,16,3,0
+,"MCGOVERN, John ",Midfielder,36,0,0,3,1,0,16,3,0
+,"MILLS, Gary ",Midfielder,4,1,0,0,0,0,0+2,0,0
+,"NEEDHAM, Dave ",Central Defender,23+3,2,0,2,1,0,10+1,2,0
+,"O'HARE, John ",Forward,9+3,0,0,0,0,0,2+1,0,0
+,"O'NEILL, Martin ",Midfielder,28,10,0,3,1,0,11,4,0
+,"ROBERTSON, John ",Winger,42,9,5,3,0,0,18,7,2
+,"SHILTON, Peter ",Goalkeeper,42,0,0,3,0,0,18,0,0
+,"WITHE, Peter ",Forward,1,0,0,0,0,0,1,1,0
+,"WOODCOCK, Tony ",Forward,36,10,0,3,1,0,18,4,0

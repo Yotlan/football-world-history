@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1936/37
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BESTALL, Jackie 	Inside Forward	31	3	0	4	0	0	0	0	0
-										
-BETMEAD, Harry 	Central Defender	38	1	0	2	0	0	0	0	0
-										
-BUCK, Teddy 	Wing Half	26	1	0	4	1	0	0	0	0
-										
-CRACK, Fred 	Winger	7	4	0	0	0	0	0	0	0
-										
-CRAVEN, Charlie 	Inside Forward	41	15	0	4	3	0	0	0	0
-										
-DYSON, Jimmy 	Winger	40	9	0	4	0	0	0	0	0
-										
-GLOVER, Pat 	Centre Forward	40	30	2	4	4	0	0	0	0
-										
-HALL, Alec 	Wing Half	38	0	0	4	0	0	0	0	0
-										
-HINCHCLIFFE, Tom 	Inside Forward	5	1	0	0	0	0	0	0	0
-										
-HODGSON, Jack 	Full Back	37	0	0	4	0	0	0	0	0
-										
-HUXFORD, Harold 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-KELLY, Jimmy 'Ned' 	Full Back	39	0	0	4	0	0	0	0	0
-										
-LEWIS, Cyril 	Winger	30	18	0	4	3	0	0	0	0
-										
-QUIGLEY, Dennis 	Winger	9	0	0	0	0	0	0	0	0
-										
-ROBERTSON, Chris 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-ROBINSON, Ike 	Full Back	3	0	0	0	0	0	0	0	0
-										
-SIDDALL, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-SWAIN, Jack 	Winger	6	3	0	0	0	0	0	0	0
-										
-TOMLINSON, Reg 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-TWEEDY, George 	Goalkeeper	42	0	0	4	0	0	0	0	0
-										
-VINCENT, Ned 	Full Back	9	0	0	2	0	0	0	0	0
-										
-WATTAM, Frank 	Wing Half	19	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BESTALL, Jackie ",Inside Forward,31,3,0,4,0,0,0,0,0
+,"BETMEAD, Harry ",Central Defender,38,1,0,2,0,0,0,0,0
+,"BUCK, Teddy ",Wing Half,26,1,0,4,1,0,0,0,0
+,"CRACK, Fred ",Winger,7,4,0,0,0,0,0,0,0
+,"CRAVEN, Charlie ",Inside Forward,41,15,0,4,3,0,0,0,0
+,"DYSON, Jimmy ",Winger,40,9,0,4,0,0,0,0,0
+,"GLOVER, Pat ",Centre Forward,40,30,2,4,4,0,0,0,0
+,"HALL, Alec ",Wing Half,38,0,0,4,0,0,0,0,0
+,"HINCHCLIFFE, Tom ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"HODGSON, Jack ",Full Back,37,0,0,4,0,0,0,0,0
+,"HUXFORD, Harold ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"KELLY, Jimmy 'Ned' ",Full Back,39,0,0,4,0,0,0,0,0
+,"LEWIS, Cyril ",Winger,30,18,0,4,3,0,0,0,0
+,"QUIGLEY, Dennis ",Winger,9,0,0,0,0,0,0,0,0
+,"ROBERTSON, Chris ",Central Defender,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Ike ",Full Back,3,0,0,0,0,0,0,0,0
+,"SIDDALL, George ",Winger,0,0,0,0,0,0,0,0,0
+,"SWAIN, Jack ",Winger,6,3,0,0,0,0,0,0,0
+,"TOMLINSON, Reg ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"TWEEDY, George ",Goalkeeper,42,0,0,4,0,0,0,0,0
+,"VINCENT, Ned ",Full Back,9,0,0,2,0,0,0,0,0
+,"WATTAM, Frank ",Wing Half,19,0,0,0,0,0,0,0,0

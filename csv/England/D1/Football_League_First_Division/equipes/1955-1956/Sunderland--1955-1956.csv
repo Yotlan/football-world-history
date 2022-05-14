@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1955/56
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, George 	Wing Half	41	0	0	7	0	0	0	0	0
-										
-ANDERSON, Stan 	Wing Half	37	2	1	7	1	0	0	0	0
-										
-BINGHAM, Billy 	Winger	27	5	0	6	0	0	0	0	0
-										
-BOLLANDS, John 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-BOLTON, Laurie 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-BONE, John 	Central Defender	7	0	0	0	0	0	0	0	0
-										
-CHISHOLM, Ken 	Inside Forward	24	9	0	2	0	0	0	0	0
-										
-DANIEL, Ray 	Central Defender	35	1	1	7	1	0	0	0	0
-										
-DODDS, Les 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-DUMIGHAN, Joe 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-ELLIOTT, Billy 	Winger	29	8	0	7	1	0	0	0	0
-										
-FLEMING, Charlie 	Centre Forward	39	29	1	7	4	0	0	0	0
-										
-FRASER, Willie 	Goalkeeper	38	0	0	7	0	0	0	0	0
-										
-HANNIGAN, Johnny 	Winger	7	2	0	0	0	0	0	0	0
-										
-HEDLEY, Jack 	Full Back	34	0	0	7	0	0	0	0	0
-										
-HOLDEN, Bill 	Centre Forward	19	5	0	5	2	0	0	0	0
-										
-HUDGELL, Arthur 	Full Back	4	0	0	0	0	0	0	0	0
-										
-KEMP, Sammy 	Winger	10	1	0	1	0	0	0	0	0
-										
-MCDONALD, Joe 	Full Back	39	0	0	7	0	0	0	0	0
-										
-MORRISON, Willie 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-PURDON, Ted 	Centre Forward	25	10	0	1	0	0	0	0	0
-										
-SHACKLETON, Len 	Inside Forward	28	7	0	6	0	0	0	0	0
-										
-SPINK, Tony 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-STELLING, Jack 	Full Back	7	0	0	0	0	0	0	0	0
-										
-WEDDLE, Derek 	Inside Forward	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, George ",Wing Half,41,0,0,7,0,0,0,0,0
+,"ANDERSON, Stan ",Wing Half,37,2,1,7,1,0,0,0,0
+,"BINGHAM, Billy ",Winger,27,5,0,6,0,0,0,0,0
+,"BOLLANDS, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BOLTON, Laurie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BONE, John ",Central Defender,7,0,0,0,0,0,0,0,0
+,"CHISHOLM, Ken ",Inside Forward,24,9,0,2,0,0,0,0,0
+,"DANIEL, Ray ",Central Defender,35,1,1,7,1,0,0,0,0
+,"DODDS, Les ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DUMIGHAN, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"ELLIOTT, Billy ",Winger,29,8,0,7,1,0,0,0,0
+,"FLEMING, Charlie ",Centre Forward,39,29,1,7,4,0,0,0,0
+,"FRASER, Willie ",Goalkeeper,38,0,0,7,0,0,0,0,0
+,"HANNIGAN, Johnny ",Winger,7,2,0,0,0,0,0,0,0
+,"HEDLEY, Jack ",Full Back,34,0,0,7,0,0,0,0,0
+,"HOLDEN, Bill ",Centre Forward,19,5,0,5,2,0,0,0,0
+,"HUDGELL, Arthur ",Full Back,4,0,0,0,0,0,0,0,0
+,"KEMP, Sammy ",Winger,10,1,0,1,0,0,0,0,0
+,"MCDONALD, Joe ",Full Back,39,0,0,7,0,0,0,0,0
+,"MORRISON, Willie ",Wing Half,5,0,0,0,0,0,0,0,0
+,"PURDON, Ted ",Centre Forward,25,10,0,1,0,0,0,0,0
+,"SHACKLETON, Len ",Inside Forward,28,7,0,6,0,0,0,0,0
+,"SPINK, Tony ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"STELLING, Jack ",Full Back,7,0,0,0,0,0,0,0,0
+,"WEDDLE, Derek ",Inside Forward,1,0,0,0,0,0,0,0,0

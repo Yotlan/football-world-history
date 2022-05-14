@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1973/74
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRETT, Colin 	Full Back	16+1	0	0	2	0	0	4	0	0
-										
-BELL, Colin 	Midfielder	41	7	0	2	0	0	12	3	0
-										
-BOOK, Tony 	Full Back	4	0	0	0	0	0	2+1	0	0
-										
-BOOTH, Tommy 	Central Defender	40	2	0	2	0	0	12	2	0
-										
-CARRODUS, Frank 	Winger	16+3	0	0	1	1	0	3	0	0
-										
-CONNOR, Dave 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CORRIGAN, Joe 	Goalkeeper	15	0	0	1	0	0	1	0	0
-										
-DANIELS, Barney 	Forward	2+1	0	0	0	0	0	0	0	0
-										
-DONACHIE, Willie 	Full Back	42	0	0	2	0	0	12	0	0
-										
-DOYLE, Mike 	Central Defender	39	1	0	2	0	0	12	0	0
-										
-HEALEY, Ron 	Goalkeeper	2	0	0	0	0	0	1	0	0
-										
-HENSON, Phil 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-HORSWILL, Mickey 	Midfielder	7+1	0	0	0	0	0	0	0	0
-										
-LAW, Denis 	Forward	22+2	9	0	1	2	0	5	1	0
-										
-LEE, Francis 	Forward	29+1	10	2	2	0	0	12	8	4
-										
-LEMAN, Dennis 	Midfielder	9+4	1	0	0+1	0	0	2+2	1	0
-										
-LESTER, Mike 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-MACRAE, Keith 	Goalkeeper	25	0	0	1	0	0	10	0	0
-										
-MARSH, Rodney 	Forward	23+1	5	1	2	1	0	9	3	0
-										
-OAKES, Alan 	Midfielder	28	0	0	0	0	0	6	0	0
-										
-PARDOE, Glyn 	Full Back	31+1	0	0	0	0	0	7	0	0
-										
-POTTER, Steve 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-SUMMERBEE, Mike 	Winger	39	1	0	2	2	0	12	1	0
-										
-TOWERS, Tony 	Midfielder	23+1	1	0	2	0	0	10	0	0
-										
-TUEART, Dennis 	Winger	8	1	0	0	0	0	0	0	0
-										
-WHELAN, Tony 	Forward	0+3	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRETT, Colin ",Full Back,16+1,0,0,2,0,0,4,0,0
+,"BELL, Colin ",Midfielder,41,7,0,2,0,0,12,3,0
+,"BOOK, Tony ",Full Back,4,0,0,0,0,0,2+1,0,0
+,"BOOTH, Tommy ",Central Defender,40,2,0,2,0,0,12,2,0
+,"CARRODUS, Frank ",Winger,16+3,0,0,1,1,0,3,0,0
+,"CONNOR, Dave ",Full Back,0,0,0,0,0,0,0,0,0
+,"CORRIGAN, Joe ",Goalkeeper,15,0,0,1,0,0,1,0,0
+,"DANIELS, Barney ",Forward,2+1,0,0,0,0,0,0,0,0
+,"DONACHIE, Willie ",Full Back,42,0,0,2,0,0,12,0,0
+,"DOYLE, Mike ",Central Defender,39,1,0,2,0,0,12,0,0
+,"HEALEY, Ron ",Goalkeeper,2,0,0,0,0,0,1,0,0
+,"HENSON, Phil ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"HORSWILL, Mickey ",Midfielder,7+1,0,0,0,0,0,0,0,0
+,"LAW, Denis ",Forward,22+2,9,0,1,2,0,5,1,0
+,"LEE, Francis ",Forward,29+1,10,2,2,0,0,12,8,4
+,"LEMAN, Dennis ",Midfielder,9+4,1,0,0+1,0,0,2+2,1,0
+,"LESTER, Mike ",Midfielder,1,0,0,0,0,0,0,0,0
+,"MACRAE, Keith ",Goalkeeper,25,0,0,1,0,0,10,0,0
+,"MARSH, Rodney ",Forward,23+1,5,1,2,1,0,9,3,0
+,"OAKES, Alan ",Midfielder,28,0,0,0,0,0,6,0,0
+,"PARDOE, Glyn ",Full Back,31+1,0,0,0,0,0,7,0,0
+,"POTTER, Steve ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SUMMERBEE, Mike ",Winger,39,1,0,2,2,0,12,1,0
+,"TOWERS, Tony ",Midfielder,23+1,1,0,2,0,0,10,0,0
+,"TUEART, Dennis ",Winger,8,1,0,0,0,0,0,0,0
+,"WHELAN, Tony ",Forward,0+3,0,0,0,0,0,0,0,0

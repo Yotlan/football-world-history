@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1976/77
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AYRIS, Johnny 	Winger	1+2	0	0	0	0	0	0	0	0
-										
-BONDS, Billy 	Central Defender	41	3	1	2	0	0	3	0	0
-										
-BROOKING, Trevor 	Midfielder	42	4	0	2	0	0	3	0	0
-										
-COLEMAN, Keith 	Full Back	12+1	0	0	0	0	0	2	0	0
-										
-CURBISHLEY, Alan 	Midfielder	8+2	1	0	1	0	0	1	0	0
-										
-DAVY, Steve 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-DAY, Mervyn 	Goalkeeper	42	0	0	2	0	0	3	0	0
-										
-DEVONSHIRE, Alan 	Midfielder	27+1	0	0	0	0	0	1	0	0
-										
-FOX, Peter 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-GREEN, Bill 	Central Defender	22	0	0	2	0	0	2	0	0
-										
-HOLLAND, Pat 	Winger	6	0	0	0	0	0	1	2	0
-										
-JENNINGS, Billy 	Forward	27+4	9	0	2	1	0	2	0	0
-										
-LAMPARD, Frank 	Full Back	36	1	0	2	0	0	1	0	0
-										
-LOCK, Kevin 	Central Defender	25+1	0	0	2	0	0	2	0	0
-										
-MCGIVEN, Mick 	Central Defender	15+1	0	0	0	0	0	2	0	0
-										
-ORHAN, Yilmaz 	Forward	1+2	0	0	0	0	0	1	0	0
-										
-OTULAKOWSKI, Anton 	Midfielder	10+2	0	0	0	0	0	0	0	0
-										
-PADDON, Graham 	Midfielder	12	1	0	0	0	0	3	1	0
-										
-PIKE, Geoff 	Midfielder	20	6	2	1	1	0	0	0	0
-										
-RADFORD, John 	Forward	18	0	0	1	0	0	0	0	0
-										
-ROBSON, Bryan 'Pop' 	Forward	30	14	2	2	0	0	0	0	0
-										
-ROBSON, Keith 	Forward	7+2	0	0	0	0	0	1	0	0
-										
-STOTT, Ian 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-TAYLOR, Alan 	Forward	24+1	5	0	1	0	0	2	1	0
-										
-TAYLOR, Tommy 	Central Defender	36	0	0	2	0	0	3	0	0
-										
-THOMSON, Brian 	Winger	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AYRIS, Johnny ",Winger,1+2,0,0,0,0,0,0,0,0
+,"BONDS, Billy ",Central Defender,41,3,1,2,0,0,3,0,0
+,"BROOKING, Trevor ",Midfielder,42,4,0,2,0,0,3,0,0
+,"COLEMAN, Keith ",Full Back,12+1,0,0,0,0,0,2,0,0
+,"CURBISHLEY, Alan ",Midfielder,8+2,1,0,1,0,0,1,0,0
+,"DAVY, Steve ",Central Defender,0,0,0,0,0,0,0,0,0
+,"DAY, Mervyn ",Goalkeeper,42,0,0,2,0,0,3,0,0
+,"DEVONSHIRE, Alan ",Midfielder,27+1,0,0,0,0,0,1,0,0
+,"FOX, Peter ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"GREEN, Bill ",Central Defender,22,0,0,2,0,0,2,0,0
+,"HOLLAND, Pat ",Winger,6,0,0,0,0,0,1,2,0
+,"JENNINGS, Billy ",Forward,27+4,9,0,2,1,0,2,0,0
+,"LAMPARD, Frank ",Full Back,36,1,0,2,0,0,1,0,0
+,"LOCK, Kevin ",Central Defender,25+1,0,0,2,0,0,2,0,0
+,"MCGIVEN, Mick ",Central Defender,15+1,0,0,0,0,0,2,0,0
+,"ORHAN, Yilmaz ",Forward,1+2,0,0,0,0,0,1,0,0
+,"OTULAKOWSKI, Anton ",Midfielder,10+2,0,0,0,0,0,0,0,0
+,"PADDON, Graham ",Midfielder,12,1,0,0,0,0,3,1,0
+,"PIKE, Geoff ",Midfielder,20,6,2,1,1,0,0,0,0
+,"RADFORD, John ",Forward,18,0,0,1,0,0,0,0,0
+,"ROBSON, Bryan 'Pop' ",Forward,30,14,2,2,0,0,0,0,0
+,"ROBSON, Keith ",Forward,7+2,0,0,0,0,0,1,0,0
+,"STOTT, Ian ",Central Defender,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Alan ",Forward,24+1,5,0,1,0,0,2,1,0
+,"TAYLOR, Tommy ",Central Defender,36,0,0,2,0,0,3,0,0
+,"THOMSON, Brian ",Winger,0,0,0,0,0,0,0,0,0

@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1958/59
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BETTANY, John 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-BOOTH, Colin 	Inside Forward	13	7	0	2	1	0	0	0	0
-										
-BROADBENT, Peter 	Midfielder	40	20	0	2	0	0	2	2	0
-										
-CLAMP, Eddie 	Wing Half	26	3	1	0	0	0	2	0	0
-										
-DEELEY, Norman 	Winger	38	17	0	2	2	0	2	0	0
-										
-DURANDT, Cliff 	Inside Forward	1	0	0	0	0	0	1	1	0
-										
-FINLAYSON, Malcolm 	Goalkeeper	39	0	0	2	0	0	2	0	0
-										
-FLOWERS, Ron 	Central Defender	31	0	0	2	0	0	3	0	0
-										
-HARRIS, Gerry 	Full Back	40	1	0	2	0	0	3	0	0
-										
-HENDERSON, Jackie 	Centre Forward	8	3	0	0	0	0	0	0	0
-										
-HORNE, Des 	Winger	8	3	0	1	0	0	1	0	0
-										
-JACKSON, Alan 	Inside Forward	2	1	0	0	0	0	2	1	0
-										
-JONES, Gwyn 	Full Back	4	0	0	0	0	0	0	0	0
-										
-KELLY, Phil 	Full Back	1	0	0	0	0	0	0	0	0
-										
-LILL, Mickey 	Winger	18	12	0	1	1	0	0	0	0
-										
-MANNION, Gerry 	Winger	0	0	0	0	0	0	1	0	0
-										
-MASON, Bobby 	Inside Forward	34	13	0	2	0	0	3	0	0
-										
-MULLEN, Jimmy 	Winger	16	4	0	0	0	0	2	0	0
-										
-MURRAY, Jimmy 	Forward	28	21	0	0	0	0	1	0	0
-										
-READ, Dave 	Winger	0	0	0	0	0	0	0	0	0
-										
-SHOWELL, George 	Full Back	8	2	0	0	0	0	0	0	0
-										
-SIDEBOTTOM, Geoff 	Goalkeeper	3	0	0	0	0	0	1	0	0
-										
-SLATER, Bill 	Wing Half	27	1	1	2	0	0	1	0	0
-										
-STUART, Eddie 	Full Back	38	0	0	2	0	0	3	0	0
-										
-WRIGHT, Billy 	Wing Half	39	0	0	2	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BETTANY, John ",Midfielder,0,0,0,0,0,0,0,0,0
+,"BOOTH, Colin ",Inside Forward,13,7,0,2,1,0,0,0,0
+,"BROADBENT, Peter ",Midfielder,40,20,0,2,0,0,2,2,0
+,"CLAMP, Eddie ",Wing Half,26,3,1,0,0,0,2,0,0
+,"DEELEY, Norman ",Winger,38,17,0,2,2,0,2,0,0
+,"DURANDT, Cliff ",Inside Forward,1,0,0,0,0,0,1,1,0
+,"FINLAYSON, Malcolm ",Goalkeeper,39,0,0,2,0,0,2,0,0
+,"FLOWERS, Ron ",Central Defender,31,0,0,2,0,0,3,0,0
+,"HARRIS, Gerry ",Full Back,40,1,0,2,0,0,3,0,0
+,"HENDERSON, Jackie ",Centre Forward,8,3,0,0,0,0,0,0,0
+,"HORNE, Des ",Winger,8,3,0,1,0,0,1,0,0
+,"JACKSON, Alan ",Inside Forward,2,1,0,0,0,0,2,1,0
+,"JONES, Gwyn ",Full Back,4,0,0,0,0,0,0,0,0
+,"KELLY, Phil ",Full Back,1,0,0,0,0,0,0,0,0
+,"LILL, Mickey ",Winger,18,12,0,1,1,0,0,0,0
+,"MANNION, Gerry ",Winger,0,0,0,0,0,0,1,0,0
+,"MASON, Bobby ",Inside Forward,34,13,0,2,0,0,3,0,0
+,"MULLEN, Jimmy ",Winger,16,4,0,0,0,0,2,0,0
+,"MURRAY, Jimmy ",Forward,28,21,0,0,0,0,1,0,0
+,"READ, Dave ",Winger,0,0,0,0,0,0,0,0,0
+,"SHOWELL, George ",Full Back,8,2,0,0,0,0,0,0,0
+,"SIDEBOTTOM, Geoff ",Goalkeeper,3,0,0,0,0,0,1,0,0
+,"SLATER, Bill ",Wing Half,27,1,1,2,0,0,1,0,0
+,"STUART, Eddie ",Full Back,38,0,0,2,0,0,3,0,0
+,"WRIGHT, Billy ",Wing Half,39,0,0,2,0,0,3,0,0

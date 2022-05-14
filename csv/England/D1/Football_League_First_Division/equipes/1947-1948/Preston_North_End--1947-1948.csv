@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1947/48
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERS, Harry 	Winger	20	0	0	4	1	0	0	0	0
-										
-BEATTIE, Bobbie 	Inside Forward	30	5	0	4	0	0	0	0	0
-										
-BROWN, Willie 	Full Back	1	0	0	0	0	0	0	0	0
-										
-CALVERLEY, Alf 	Winger	13	0	0	0	0	0	0	0	0
-										
-DOUGALL, Willie 	Wing Half	10	0	0	0	0	0	0	0	0
-										
-FINNEY, Tom 	Winger	33	13	1	4	1	0	0	0	0
-										
-GARTH, Jimmy 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-GOOCH, Jimmy 	Goalkeeper	34	0	0	3	0	0	0	0	0
-										
-GRAY, Davie 	Full Back	36	0	0	4	0	0	0	0	0
-										
-HALL, Willie 	Goalkeeper	7	0	0	0	0	0	0	0	0
-										
-HANKINSON, Jim 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HANNAH, Willie 	Winger	11	3	0	0	0	0	0	0	0
-										
-HINDLE, Jack 	Goalkeeper	1	0	0	1	0	0	0	0	0
-										
-HORTON, Ken 	Inside Forward	41	0	0	4	0	0	0	0	0
-										
-JACKSON, Harry 	Centre Forward	12	3	0	0	0	0	0	0	0
-										
-MCCLURE, Willie 	Winger	12	2	0	0	0	0	0	0	0
-										
-MCINTOSH, Willie 	Centre Forward	34	14	0	4	3	0	0	0	0
-										
-MCLAREN, Andy 	Inside Forward	41	17	0	4	1	0	0	0	0
-										
-ROBERTSON, Willie 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-SCOTT, Bill 	Full Back	31	0	0	4	0	0	0	0	0
-										
-SHANKLY, Bill 	Wing Half	32	6	5	4	1	1	0	0	0
-										
-WALTON, Joe 	Full Back	11	2	2	0	0	0	0	0	0
-										
-WATERS, Paddy 	Central Defender	13	0	0	1	0	0	0	0	0
-										
-WILLIAMS, Emlyn 	Full Back	29	0	0	3	0	0	0	0	0
-										
-WILSON, Ian 	Winger	2	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERS, Harry ",Winger,20,0,0,4,1,0,0,0,0
+,"BEATTIE, Bobbie ",Inside Forward,30,5,0,4,0,0,0,0,0
+,"BROWN, Willie ",Full Back,1,0,0,0,0,0,0,0,0
+,"CALVERLEY, Alf ",Winger,13,0,0,0,0,0,0,0,0
+,"DOUGALL, Willie ",Wing Half,10,0,0,0,0,0,0,0,0
+,"FINNEY, Tom ",Winger,33,13,1,4,1,0,0,0,0
+,"GARTH, Jimmy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"GOOCH, Jimmy ",Goalkeeper,34,0,0,3,0,0,0,0,0
+,"GRAY, Davie ",Full Back,36,0,0,4,0,0,0,0,0
+,"HALL, Willie ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"HANKINSON, Jim ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HANNAH, Willie ",Winger,11,3,0,0,0,0,0,0,0
+,"HINDLE, Jack ",Goalkeeper,1,0,0,1,0,0,0,0,0
+,"HORTON, Ken ",Inside Forward,41,0,0,4,0,0,0,0,0
+,"JACKSON, Harry ",Centre Forward,12,3,0,0,0,0,0,0,0
+,"MCCLURE, Willie ",Winger,12,2,0,0,0,0,0,0,0
+,"MCINTOSH, Willie ",Centre Forward,34,14,0,4,3,0,0,0,0
+,"MCLAREN, Andy ",Inside Forward,41,17,0,4,1,0,0,0,0
+,"ROBERTSON, Willie ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SCOTT, Bill ",Full Back,31,0,0,4,0,0,0,0,0
+,"SHANKLY, Bill ",Wing Half,32,6,5,4,1,1,0,0,0
+,"WALTON, Joe ",Full Back,11,2,2,0,0,0,0,0,0
+,"WATERS, Paddy ",Central Defender,13,0,0,1,0,0,0,0,0
+,"WILLIAMS, Emlyn ",Full Back,29,0,0,3,0,0,0,0,0
+,"WILSON, Ian ",Winger,2,1,0,0,0,0,0,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1973/74
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATES, Mick 	Midfielder	9+1	2	0	0	0	0	5	1	0
-										
-BREMNER, Billy 	Midfielder	42	10	0	5	1	0	5	0	0
-										
-CHERRY, Trevor 	Central Defender	37+1	1	0	5	0	0	7	1	0
-										
-CLARKE, Allan 	Forward	34	13	0	2+1	0	0	5	3	0
-										
-COOPER, Terry 	Full Back	1+1	0	0	2	0	0	0	0	0
-										
-DAVEY, Nigel 	Full Back	0	0	0	0	0	0	0+1	0	0
-										
-DAVIDS, Neil 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-ELLAM, Roy 	Central Defender	3+1	0	0	2	0	0	5	0	0
-										
-GILES, Johnny 	Midfielder	17	2	0	2	0	0	0	0	0
-										
-GRAY, Eddie 	Winger	8	0	0	0	0	0	1	0	0
-										
-GRAY, Frank 	Full Back	3+3	0	0	0+1	0	0	6+1	1	0
-										
-HAMPTON, Peter 	Full Back	0	0	0	0	0	0	1	0	0
-										
-HARVEY, David 	Goalkeeper	39	0	0	4	0	0	5	0	0
-										
-HUNTER, Norman 	Central Defender	42	0	0	5	0	0	2	0	0
-										
-JONES, Mick 	Forward	28+3	14	0	4	1	0	4	2	0
-										
-JORDAN, Joe 	Forward	25+8	7	0	4+1	2	0	3+1	0	0
-										
-LETHEREN, Glan 	Goalkeeper	0	0	0	0	0	0	0+1	0	0
-										
-LIDDELL, Garry 	Forward	0+1	0	0	0	0	0	2+1	1	0
-										
-LOADWICK, Derek 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-LORIMER, Peter 	Forward	37	12	5	5	2	0	5	0	0
-										
-MADELEY, Paul 	Central Defender	39	2	0	5	0	0	3	0	0
-										
-MANN, Jimmy 	Midfielder	0	0	0	0	0	0	1	0	0
-										
-MCGINLEY, Billy 	Winger	0	0	0	0	0	0	0+1	0	0
-										
-MCQUEEN, Gordon 	Central Defender	36	0	0	3	0	0	3	0	0
-										
-O'NEILL, Sean 	Full Back	0	0	0	0	0	0	0+3	0	0
-										
-REANEY, Paul 	Full Back	36	0	0	3	0	0	5	0	0
-										
-SHAW, John 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-SPRAKE, Gary 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-STEWART, David 	Goalkeeper	3	0	0	1	0	0	0	0	0
-										
-YORATH, Terry 	Midfielder	23+5	2	0	3+1	1	0	7	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATES, Mick ",Midfielder,9+1,2,0,0,0,0,5,1,0
+,"BREMNER, Billy ",Midfielder,42,10,0,5,1,0,5,0,0
+,"CHERRY, Trevor ",Central Defender,37+1,1,0,5,0,0,7,1,0
+,"CLARKE, Allan ",Forward,34,13,0,2+1,0,0,5,3,0
+,"COOPER, Terry ",Full Back,1+1,0,0,2,0,0,0,0,0
+,"DAVEY, Nigel ",Full Back,0,0,0,0,0,0,0+1,0,0
+,"DAVIDS, Neil ",Central Defender,0,0,0,0,0,0,0,0,0
+,"ELLAM, Roy ",Central Defender,3+1,0,0,2,0,0,5,0,0
+,"GILES, Johnny ",Midfielder,17,2,0,2,0,0,0,0,0
+,"GRAY, Eddie ",Winger,8,0,0,0,0,0,1,0,0
+,"GRAY, Frank ",Full Back,3+3,0,0,0+1,0,0,6+1,1,0
+,"HAMPTON, Peter ",Full Back,0,0,0,0,0,0,1,0,0
+,"HARVEY, David ",Goalkeeper,39,0,0,4,0,0,5,0,0
+,"HUNTER, Norman ",Central Defender,42,0,0,5,0,0,2,0,0
+,"JONES, Mick ",Forward,28+3,14,0,4,1,0,4,2,0
+,"JORDAN, Joe ",Forward,25+8,7,0,4+1,2,0,3+1,0,0
+,"LETHEREN, Glan ",Goalkeeper,0,0,0,0,0,0,0+1,0,0
+,"LIDDELL, Garry ",Forward,0+1,0,0,0,0,0,2+1,1,0
+,"LOADWICK, Derek ",Midfielder,0,0,0,0,0,0,0,0,0
+,"LORIMER, Peter ",Forward,37,12,5,5,2,0,5,0,0
+,"MADELEY, Paul ",Central Defender,39,2,0,5,0,0,3,0,0
+,"MANN, Jimmy ",Midfielder,0,0,0,0,0,0,1,0,0
+,"MCGINLEY, Billy ",Winger,0,0,0,0,0,0,0+1,0,0
+,"MCQUEEN, Gordon ",Central Defender,36,0,0,3,0,0,3,0,0
+,"O'NEILL, Sean ",Full Back,0,0,0,0,0,0,0+3,0,0
+,"REANEY, Paul ",Full Back,36,0,0,3,0,0,5,0,0
+,"SHAW, John ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"SPRAKE, Gary ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"STEWART, David ",Goalkeeper,3,0,0,1,0,0,0,0,0
+,"YORATH, Terry ",Midfielder,23+5,2,0,3+1,1,0,7,0,0

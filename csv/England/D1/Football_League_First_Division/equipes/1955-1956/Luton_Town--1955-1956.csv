@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1955/56
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAM, Jimmy 	Winger	30	5	0	0	0	0	0	0	0
-										
-AHERNE, Tom 'Bud' 	Full Back	29	0	0	1	0	0	0	0	0
-										
-BAYNHAM, Ron 	Goalkeeper	41	0	0	1	0	0	0	0	0
-										
-BUMPSTEAD, Dave 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-CULLEN, Mick 	Inside Forward	30	5	0	1	0	0	0	0	0
-										
-CUMMINS, George 	Inside Forward	24	2	1	1	0	0	0	0	0
-										
-DAVIES, Roy 	Winger	16	5	0	0	0	0	0	0	0
-										
-DUGGAN, Ted 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-DUNNE, Shay 	Full Back	40	0	0	1	0	0	0	0	0
-										
-GREGORY, Tony 	Wing Half	7	2	0	0	0	0	0	0	0
-										
-GROVES, John 	Wing Half	12	1	0	0	0	0	0	0	0
-										
-JONES, Les 	Full Back	15	0	0	0	0	0	0	0	0
-										
-KELLY, Terry 	Central Defender	14	0	0	0	0	0	0	0	0
-										
-MACEWAN, Peter 	Centre Forward	17	8	0	0	0	0	0	0	0
-										
-MCGUFFIE, Alwin 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-MCLEOD, George 	Winger	1	0	0	0	0	0	0	0	0
-										
-MORTON, Bob 	Wing Half	39	10	0	1	0	0	0	0	0
-										
-OWEN, Syd 	Central Defender	27	0	0	1	0	0	0	0	0
-										
-PEARCE, Reg 	Wing Half	19	4	0	1	0	0	0	0	0
-										
-PEMBERTON, Jim 	Wing Half	20	0	0	1	0	0	0	0	0
-										
-POUNDER, Tony 	Winger	1	0	0	0	0	0	0	0	0
-										
-SHANKS, Wally 	Wing Half	40	0	0	1	0	0	0	0	0
-										
-STRETEN, Bernard 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-TAYLOR, Arthur 	Winger	3	0	0	0	0	0	0	0	0
-										
-TURNER, Gordon 	Inside Forward	33	19	5	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAM, Jimmy ",Winger,30,5,0,0,0,0,0,0,0
+,"AHERNE, Tom 'Bud' ",Full Back,29,0,0,1,0,0,0,0,0
+,"BAYNHAM, Ron ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"BUMPSTEAD, Dave ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CULLEN, Mick ",Inside Forward,30,5,0,1,0,0,0,0,0
+,"CUMMINS, George ",Inside Forward,24,2,1,1,0,0,0,0,0
+,"DAVIES, Roy ",Winger,16,5,0,0,0,0,0,0,0
+,"DUGGAN, Ted ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DUNNE, Shay ",Full Back,40,0,0,1,0,0,0,0,0
+,"GREGORY, Tony ",Wing Half,7,2,0,0,0,0,0,0,0
+,"GROVES, John ",Wing Half,12,1,0,0,0,0,0,0,0
+,"JONES, Les ",Full Back,15,0,0,0,0,0,0,0,0
+,"KELLY, Terry ",Central Defender,14,0,0,0,0,0,0,0,0
+,"MACEWAN, Peter ",Centre Forward,17,8,0,0,0,0,0,0,0
+,"MCGUFFIE, Alwin ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCLEOD, George ",Winger,1,0,0,0,0,0,0,0,0
+,"MORTON, Bob ",Wing Half,39,10,0,1,0,0,0,0,0
+,"OWEN, Syd ",Central Defender,27,0,0,1,0,0,0,0,0
+,"PEARCE, Reg ",Wing Half,19,4,0,1,0,0,0,0,0
+,"PEMBERTON, Jim ",Wing Half,20,0,0,1,0,0,0,0,0
+,"POUNDER, Tony ",Winger,1,0,0,0,0,0,0,0,0
+,"SHANKS, Wally ",Wing Half,40,0,0,1,0,0,0,0,0
+,"STRETEN, Bernard ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"TAYLOR, Arthur ",Winger,3,0,0,0,0,0,0,0,0
+,"TURNER, Gordon ",Inside Forward,33,19,5,1,0,0,0,0,0

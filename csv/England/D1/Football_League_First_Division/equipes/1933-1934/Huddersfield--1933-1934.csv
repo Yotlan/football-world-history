@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1933/34
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jimmy 	Central Defender	35	0	0	7	0	0	0	0	0
-										
-ANDERSON, Jock 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-BAGLEY, Billy 	Inside Forward	14	0	0	4	1	0	0	0	0
-										
-BAXTER, Arthur 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-EASSON, Jimmy 	Inside Forward	30	7	0	3	0	0	0	0	0
-										
-EATON, Cliff 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-GILFILLAN, Jock 	Goalkeeper	42	0	0	7	0	0	0	0	0
-										
-MACKIE, Alex 	Full Back	39	0	0	7	0	0	0	0	0
-										
-MACKRELL, James 	Full Back	2	0	0	0	0	0	0	0	0
-										
-MCCARTHY, Len 	Inside Forward	4	2	0	2	1	0	0	0	0
-										
-MILLER, Alf 'Dusty' 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-NASH, Leonard 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-NICHOL, Jimmy 	Wing Half	42	1	0	7	0	0	0	0	0
-										
-PARKER, Cliff 	Winger	6	2	0	0	0	0	0	0	0
-										
-ROCHFORD, Bill 	Full Back	1	0	0	0	0	0	0	0	0
-										
-RUTHERFORD, Sep 	Winger	32	9	0	5	4	0	0	0	0
-										
-SALMOND, Bob 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-SMITH, Abe 	Wing Half	11	0	0	1	0	0	0	0	0
-										
-SMITH, Jack 	Inside Forward	38	7	1	7	2	0	0	0	0
-										
-SMITH, Billy 	Full Back	42	0	0	7	0	0	0	0	0
-										
-SOLLY, Alf 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-THACKERAY, David 	Wing Half	35	0	0	6	0	0	0	0	0
-										
-WALLBANKS, Jack 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-WEDDLE, Jack 	Centre Forward	41	17	0	7	7	0	0	0	0
-										
-WILLIAMS, Len 	Winger	1	0	0	0	0	0	0	0	0
-										
-WORRALL, Fred 	Winger	41	5	0	7	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jimmy ",Central Defender,35,0,0,7,0,0,0,0,0
+,"ANDERSON, Jock ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"BAGLEY, Billy ",Inside Forward,14,0,0,4,1,0,0,0,0
+,"BAXTER, Arthur ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"EASSON, Jimmy ",Inside Forward,30,7,0,3,0,0,0,0,0
+,"EATON, Cliff ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GILFILLAN, Jock ",Goalkeeper,42,0,0,7,0,0,0,0,0
+,"MACKIE, Alex ",Full Back,39,0,0,7,0,0,0,0,0
+,"MACKRELL, James ",Full Back,2,0,0,0,0,0,0,0,0
+,"MCCARTHY, Len ",Inside Forward,4,2,0,2,1,0,0,0,0
+,"MILLER, Alf 'Dusty' ",Wing Half,0,0,0,0,0,0,0,0,0
+,"NASH, Leonard ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"NICHOL, Jimmy ",Wing Half,42,1,0,7,0,0,0,0,0
+,"PARKER, Cliff ",Winger,6,2,0,0,0,0,0,0,0
+,"ROCHFORD, Bill ",Full Back,1,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Sep ",Winger,32,9,0,5,4,0,0,0,0
+,"SALMOND, Bob ",Central Defender,3,0,0,0,0,0,0,0,0
+,"SMITH, Abe ",Wing Half,11,0,0,1,0,0,0,0,0
+,"SMITH, Jack ",Inside Forward,38,7,1,7,2,0,0,0,0
+,"SMITH, Billy ",Full Back,42,0,0,7,0,0,0,0,0
+,"SOLLY, Alf ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"THACKERAY, David ",Wing Half,35,0,0,6,0,0,0,0,0
+,"WALLBANKS, Jack ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WEDDLE, Jack ",Centre Forward,41,17,0,7,7,0,0,0,0
+,"WILLIAMS, Len ",Winger,1,0,0,0,0,0,0,0,0
+,"WORRALL, Fred ",Winger,41,5,0,7,1,0,0,0,0

@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1979/80
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATKINSON, Hugh 	Midfielder	5+2	1	0	0	0	0	0	0	0
-										
-BELL, Norman 	Forward	2+3	3	0	0	0	0	0	0	0
-										
-BERRY, George 	Central Defender	41	0	0	4	2	0	11	0	0
-										
-BRADSHAW, Paul 	Goalkeeper	37	0	0	3	0	0	11	0	0
-										
-BRAZIER, Colin 	Central Defender	16+4	1	0	1	0	0	0+3	0	0
-										
-CARR, Willie 	Midfielder	40	2	0	4	1	0	11	1	0
-										
-CLARKE, Wayne 	Forward	13+3	2	0	0+1	0	0	3	0	0
-										
-DANIEL, Peter 	Midfielder	37	6	2	4	0	0	10	1	0
-										
-EVES, Mel 	Forward	27+4	6	0	3	1	0	5+1	2	0
-										
-GRAY, Andy 	Forward	35	12	0	4	1	0	9	2	0
-										
-HIBBITT, Ken 	Midfielder	32	9	3	4	0	0	11	4	1
-										
-HUGHES, Emlyn 	Central Defender	33+2	0	0	3	0	0	10	0	0
-										
-HUMPHREY, John 	Full Back	2	0	0	0	0	0	0	0	0
-										
-KEARNS, Mick 	Goalkeeper	5	0	0	1	0	0	0	0	0
-										
-MCALLE, John 	Central Defender	8	0	0	1+1	0	0	2	0	0
-										
-MOSS, Craig 	Winger	1	0	0	0	0	0	0	0	0
-										
-PALMER, Geoff 	Full Back	40	1	0	4	0	0	11	2	0
-										
-PARKIN, Derek 	Full Back	40	0	0	3	0	0	11	0	0
-										
-PATCHING, Martin 	Midfielder	5	0	0	0	0	0	2	0	0
-										
-RAFFERTY, Billy 	Forward	4	0	0	0	0	0	2	0	0
-										
-RICHARDS, John 	Forward	29	13	0	4	2	0	8	3	0
-										
-ROSS, Ian 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-THOMAS, Dave 	Winger	10	0	0	1	0	0	4	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATKINSON, Hugh ",Midfielder,5+2,1,0,0,0,0,0,0,0
+,"BELL, Norman ",Forward,2+3,3,0,0,0,0,0,0,0
+,"BERRY, George ",Central Defender,41,0,0,4,2,0,11,0,0
+,"BRADSHAW, Paul ",Goalkeeper,37,0,0,3,0,0,11,0,0
+,"BRAZIER, Colin ",Central Defender,16+4,1,0,1,0,0,0+3,0,0
+,"CARR, Willie ",Midfielder,40,2,0,4,1,0,11,1,0
+,"CLARKE, Wayne ",Forward,13+3,2,0,0+1,0,0,3,0,0
+,"DANIEL, Peter ",Midfielder,37,6,2,4,0,0,10,1,0
+,"EVES, Mel ",Forward,27+4,6,0,3,1,0,5+1,2,0
+,"GRAY, Andy ",Forward,35,12,0,4,1,0,9,2,0
+,"HIBBITT, Ken ",Midfielder,32,9,3,4,0,0,11,4,1
+,"HUGHES, Emlyn ",Central Defender,33+2,0,0,3,0,0,10,0,0
+,"HUMPHREY, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"KEARNS, Mick ",Goalkeeper,5,0,0,1,0,0,0,0,0
+,"MCALLE, John ",Central Defender,8,0,0,1+1,0,0,2,0,0
+,"MOSS, Craig ",Winger,1,0,0,0,0,0,0,0,0
+,"PALMER, Geoff ",Full Back,40,1,0,4,0,0,11,2,0
+,"PARKIN, Derek ",Full Back,40,0,0,3,0,0,11,0,0
+,"PATCHING, Martin ",Midfielder,5,0,0,0,0,0,2,0,0
+,"RAFFERTY, Billy ",Forward,4,0,0,0,0,0,2,0,0
+,"RICHARDS, John ",Forward,29,13,0,4,2,0,8,3,0
+,"ROSS, Ian ",Central Defender,0,0,0,0,0,0,0,0,0
+,"THOMAS, Dave ",Winger,10,0,0,1,0,0,4,0,0

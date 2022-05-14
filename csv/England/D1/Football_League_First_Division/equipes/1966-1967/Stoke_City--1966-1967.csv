@@ -1,49 +1,24 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1966/67
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Tony 	Full Back	22	0	0	0	0	0	0	0	0
-										
-BANKS, Gordon 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-BENTLEY, Bill 	Full Back	6+1	0	0	0	0	0	0	0	0
-										
-BERNARD, Mike 	Midfielder	4+1	0	0	0	0	0	0	0	0
-										
-BLOOR, Alan 	Central Defender	30+1	0	0	1	0	0	1	0	0
-										
-BRIDGWOOD, Gerry 	Midfielder	24+1	2	0	0	0	0	1	0	0
-										
-BURROWS, Harry 	Winger	42	17	2	1	0	0	1	0	0
-										
-DOBING, Peter 	Midfielder	41	19	0	1	0	0	1	0	0
-										
-EASTHAM, George 	Midfielder	41	1	0	1	0	0	1	0	0
-										
-FARMER, John 	Goalkeeper	34	0	0	1	0	0	1	0	0
-										
-GREGG, Harry 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-JONES, Gerry 	Winger	2	0	0	0	0	0	0	0	0
-										
-MAHONEY, John 	Midfielder	11	3	0	0	0	0	0	0	0
-										
-PALMER, Calvin 	Midfielder	38	5	0	1	0	0	1	0	0
-										
-PHILPOTT, Alan 	Midfielder	23+3	0	0	1	0	0	0	0	0
-										
-RITCHIE, John 	Forward	14	8	0	0	0	0	1	1	0
-										
-SETTERS, Maurice 	Central Defender	28	1	0	1	0	0	1	0	0
-										
-SHARDLOW, Paul 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-SKEELS, Eric 	Central Defender	40	0	0	1	0	0	1	0	0
-										
-VERNON, Roy 	Forward	20	4	0	1	0	0	0	0	0
-										
-VIOLLET, Dennis 	Inside Forward	33+1	2	0	1	0	0	1	0	0
-										
-WOODWARD, John 	Forward	1+1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Tony ",Full Back,22,0,0,0,0,0,0,0,0
+,"BANKS, Gordon ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"BENTLEY, Bill ",Full Back,6+1,0,0,0,0,0,0,0,0
+,"BERNARD, Mike ",Midfielder,4+1,0,0,0,0,0,0,0,0
+,"BLOOR, Alan ",Central Defender,30+1,0,0,1,0,0,1,0,0
+,"BRIDGWOOD, Gerry ",Midfielder,24+1,2,0,0,0,0,1,0,0
+,"BURROWS, Harry ",Winger,42,17,2,1,0,0,1,0,0
+,"DOBING, Peter ",Midfielder,41,19,0,1,0,0,1,0,0
+,"EASTHAM, George ",Midfielder,41,1,0,1,0,0,1,0,0
+,"FARMER, John ",Goalkeeper,34,0,0,1,0,0,1,0,0
+,"GREGG, Harry ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"JONES, Gerry ",Winger,2,0,0,0,0,0,0,0,0
+,"MAHONEY, John ",Midfielder,11,3,0,0,0,0,0,0,0
+,"PALMER, Calvin ",Midfielder,38,5,0,1,0,0,1,0,0
+,"PHILPOTT, Alan ",Midfielder,23+3,0,0,1,0,0,0,0,0
+,"RITCHIE, John ",Forward,14,8,0,0,0,0,1,1,0
+,"SETTERS, Maurice ",Central Defender,28,1,0,1,0,0,1,0,0
+,"SHARDLOW, Paul ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"SKEELS, Eric ",Central Defender,40,0,0,1,0,0,1,0,0
+,"VERNON, Roy ",Forward,20,4,0,1,0,0,0,0,0
+,"VIOLLET, Dennis ",Inside Forward,33+1,2,0,1,0,0,1,0,0
+,"WOODWARD, John ",Forward,1+1,0,0,0,0,0,0,0,0

@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1933/34
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Bill 	Full Back	7	0	0	0	0	0	0	0	0
-										
-BAINES, Reg 	Centre Forward	10	5	0	0	0	0	0	0	0
-										
-BARCLAY, Bobby 	Inside Forward	39	7	0	1	0	0	0	0	0
-										
-BOYD, Billy 	Centre Forward	22	15	0	1	1	0	0	0	0
-										
-CHEESMUR, Fred 	Inside Forward	4	0	0	0	0	0	0	0	0
-										
-DAWSON, Kenny 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-DOBSON, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-DUNNE, Jimmy 	Centre Forward	5	4	0	0	0	0	0	0	0
-										
-FENOUGHTY, Tom 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-GOONEY, Harry 	Wing Half	33	0	0	1	0	0	0	0	0
-										
-GREEN, George 	Wing Half	9	0	0	1	0	0	0	0	0
-										
-HALL, George 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-HANSON, Fred 	Winger	0	0	0	0	0	0	0	0	0
-										
-HOLMES, Jim 	Central Defender	39	0	0	1	0	0	0	0	0
-										
-HOOPER, Harry 	Full Back	25	0	0	0	0	0	0	0	0
-										
-JACKSON, Ernie 	Wing Half	11	0	0	0	0	0	0	0	0
-										
-JOHNSON, Tom 	Central Defender	14	0	0	0	0	0	0	0	0
-										
-KENDALL, Jack 	Goalkeeper	8	0	0	0	0	0	0	0	0
-										
-KILLOURHY, Mick 	Inside Forward	9	1	0	0	0	0	0	0	0
-										
-OSWALD, Bert 	Winger	30	3	0	1	0	0	0	0	0
-										
-OXLEY, Bernard 	Winger	20	3	0	1	0	0	0	0	0
-										
-PERRY, Colin 	Winger	0	0	0	0	0	0	0	0	0
-										
-PICKERING, Jack 	Inside Forward	28	12	1	0	0	0	0	0	0
-										
-ROBINSON, Ernie 	Full Back	17	0	0	0	0	0	0	0	0
-										
-SAMPY, Tommy 	Wing Half	8	0	0	0	0	0	0	0	0
-										
-SMITH, Jack 	Goalkeeper	31	0	0	1	0	0	0	0	0
-										
-SPOONER, Peter 	Winger	6	1	0	0	0	0	0	0	0
-										
-STACEY, Alec 	Wing Half	20	2	0	1	0	0	0	0	0
-										
-WILKES, Harry 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-WILKINSON, Charlie 	Full Back	25	0	0	1	0	0	0	0	0
-										
-WILLIAMS, Bertie 	Winger	37	3	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Bill ",Full Back,7,0,0,0,0,0,0,0,0
+,"BAINES, Reg ",Centre Forward,10,5,0,0,0,0,0,0,0
+,"BARCLAY, Bobby ",Inside Forward,39,7,0,1,0,0,0,0,0
+,"BOYD, Billy ",Centre Forward,22,15,0,1,1,0,0,0,0
+,"CHEESMUR, Fred ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"DAWSON, Kenny ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DOBSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"DUNNE, Jimmy ",Centre Forward,5,4,0,0,0,0,0,0,0
+,"FENOUGHTY, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GOONEY, Harry ",Wing Half,33,0,0,1,0,0,0,0,0
+,"GREEN, George ",Wing Half,9,0,0,1,0,0,0,0,0
+,"HALL, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HANSON, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"HOLMES, Jim ",Central Defender,39,0,0,1,0,0,0,0,0
+,"HOOPER, Harry ",Full Back,25,0,0,0,0,0,0,0,0
+,"JACKSON, Ernie ",Wing Half,11,0,0,0,0,0,0,0,0
+,"JOHNSON, Tom ",Central Defender,14,0,0,0,0,0,0,0,0
+,"KENDALL, Jack ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"KILLOURHY, Mick ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"OSWALD, Bert ",Winger,30,3,0,1,0,0,0,0,0
+,"OXLEY, Bernard ",Winger,20,3,0,1,0,0,0,0,0
+,"PERRY, Colin ",Winger,0,0,0,0,0,0,0,0,0
+,"PICKERING, Jack ",Inside Forward,28,12,1,0,0,0,0,0,0
+,"ROBINSON, Ernie ",Full Back,17,0,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,8,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Goalkeeper,31,0,0,1,0,0,0,0,0
+,"SPOONER, Peter ",Winger,6,1,0,0,0,0,0,0,0
+,"STACEY, Alec ",Wing Half,20,2,0,1,0,0,0,0,0
+,"WILKES, Harry ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WILKINSON, Charlie ",Full Back,25,0,0,1,0,0,0,0,0
+,"WILLIAMS, Bertie ",Winger,37,3,0,1,0,0,0,0,0

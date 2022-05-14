@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1976/77
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, David 	Midfielder	42	8	1	5	4	2	4	0	0
-										
-BAILEY, Ian 	Full Back	4+3	0	0	0	0	0	3	0	0
-										
-BAINBRIDGE, Peter 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-BOAM, Stuart 	Central Defender	42	1	0	5	0	0	4	0	0
-										
-BOERSMA, Phil 	Midfielder	22+6	2	0	2+1	0	0	3	1	0
-										
-BRINE, Peter 	Midfielder	25+4	2	0	5	0	0	1	0	0
-										
-COOPER, Terry 	Full Back	40	0	0	5	0	0	4	0	0
-										
-CRAGGS, John 	Full Back	42	1	0	5	0	0	4	0	0
-										
-CUFF, Pat 	Goalkeeper	18	0	0	5	0	0	1	0	0
-										
-CUMMINS, Stan 	Forward	1+1	0	0	0	0	0	0	0	0
-										
-HEDLEY, Graeme 	Midfielder	6	1	0	0	0	0	4	0	0
-										
-HICKTON, John 	Forward	4+5	0	0	0	0	0	0+3	0	0
-										
-MADDREN, Willie 	Central Defender	39	0	0	5	0	0	3	0	0
-										
-MCANDREW, Tony 	Central Defender	38+1	1	0	3+1	0	0	1	1	0
-										
-MILLS, David 	Forward	41+1	15	0	5	3	0	4	0	0
-										
-PLATT, Jim 	Goalkeeper	24	0	0	0	0	0	3	0	0
-										
-RAMAGE, Alan 	Central Defender	3	0	0	0	0	0	1	0	0
-										
-SOUNESS, Graeme 	Midfielder	38	2	0	5	1	0	4	2	0
-										
-WILLEY, Alan 	Forward	11+7	4	0	0+1	1	0	0	0	0
-										
-WOOD, Alf 	Forward	22+1	2	0	5	0	0	0	0	0
-										
-WOOF, Billy 	Forward	0+1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, David ",Midfielder,42,8,1,5,4,2,4,0,0
+,"BAILEY, Ian ",Full Back,4+3,0,0,0,0,0,3,0,0
+,"BAINBRIDGE, Peter ",Central Defender,0,0,0,0,0,0,0,0,0
+,"BOAM, Stuart ",Central Defender,42,1,0,5,0,0,4,0,0
+,"BOERSMA, Phil ",Midfielder,22+6,2,0,2+1,0,0,3,1,0
+,"BRINE, Peter ",Midfielder,25+4,2,0,5,0,0,1,0,0
+,"COOPER, Terry ",Full Back,40,0,0,5,0,0,4,0,0
+,"CRAGGS, John ",Full Back,42,1,0,5,0,0,4,0,0
+,"CUFF, Pat ",Goalkeeper,18,0,0,5,0,0,1,0,0
+,"CUMMINS, Stan ",Forward,1+1,0,0,0,0,0,0,0,0
+,"HEDLEY, Graeme ",Midfielder,6,1,0,0,0,0,4,0,0
+,"HICKTON, John ",Forward,4+5,0,0,0,0,0,0+3,0,0
+,"MADDREN, Willie ",Central Defender,39,0,0,5,0,0,3,0,0
+,"MCANDREW, Tony ",Central Defender,38+1,1,0,3+1,0,0,1,1,0
+,"MILLS, David ",Forward,41+1,15,0,5,3,0,4,0,0
+,"PLATT, Jim ",Goalkeeper,24,0,0,0,0,0,3,0,0
+,"RAMAGE, Alan ",Central Defender,3,0,0,0,0,0,1,0,0
+,"SOUNESS, Graeme ",Midfielder,38,2,0,5,1,0,4,2,0
+,"WILLEY, Alan ",Forward,11+7,4,0,0+1,1,0,0,0,0
+,"WOOD, Alf ",Forward,22+1,2,0,5,0,0,0,0,0
+,"WOOF, Billy ",Forward,0+1,0,0,0,0,0,0,0,0

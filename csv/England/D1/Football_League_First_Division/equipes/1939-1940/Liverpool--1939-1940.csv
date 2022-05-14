@@ -1,35 +1,17 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1939/40
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALMER, Jack 	Inside Forward	0	0	0	0	0	0	3	1	0
-										
-BUSBY, Matt 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-BUSH, Tom 	Central Defender	0	0	0	0	0	0	3	0	0
-										
-DONE, Cyril 	Centre Forward	0	0	0	0	0	0	1	1	0
-										
-FAGAN, Willie 	Inside Forward	0	0	0	0	0	0	3	0	0
-										
-HARLEY, Jim 	Full Back	0	0	0	0	0	0	3	0	0
-										
-HARLOCK, Des 	Winger	0	0	0	0	0	0	0	0	0
-										
-KEMP, Dirk 	Goalkeeper	0	0	0	0	0	0	3	0	0
-										
-MANSLEY, Eric 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-MCINNES, Jimmy 	Wing Half	0	0	0	0	0	0	3	1	0
-										
-NIEUWENHUYS, Berry 	Winger	0	0	0	0	0	0	3	0	0
-										
-POLAND, George 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-RAMSDEN, Barney 	Full Back	0	0	0	0	0	0	3	0	0
-										
-TAYLOR, Phil 	Wing Half	0	0	0	0	0	0	2	2	0
-										
-VAN DEN BERG, Herman 	Winger	0	0	0	0	0	0	3	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALMER, Jack ",Inside Forward,0,0,0,0,0,0,3,1,0
+,"BUSBY, Matt ",Wing Half,0,0,0,0,0,0,3,0,0
+,"BUSH, Tom ",Central Defender,0,0,0,0,0,0,3,0,0
+,"DONE, Cyril ",Centre Forward,0,0,0,0,0,0,1,1,0
+,"FAGAN, Willie ",Inside Forward,0,0,0,0,0,0,3,0,0
+,"HARLEY, Jim ",Full Back,0,0,0,0,0,0,3,0,0
+,"HARLOCK, Des ",Winger,0,0,0,0,0,0,0,0,0
+,"KEMP, Dirk ",Goalkeeper,0,0,0,0,0,0,3,0,0
+,"MANSLEY, Eric ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MCINNES, Jimmy ",Wing Half,0,0,0,0,0,0,3,1,0
+,"NIEUWENHUYS, Berry ",Winger,0,0,0,0,0,0,3,0,0
+,"POLAND, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"RAMSDEN, Barney ",Full Back,0,0,0,0,0,0,3,0,0
+,"TAYLOR, Phil ",Wing Half,0,0,0,0,0,0,2,2,0
+,"VAN DEN BERG, Herman ",Winger,0,0,0,0,0,0,3,1,0

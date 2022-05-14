@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1932/33
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jack 	Centre Forward	36	19	0	1	0	0	1	0	0
-										
-BELL, Dave 'Daniel' 	Full Back	4	1	0	1	0	0	1	0	0
-										
-BETTON, Alec 	Central Defender	34	1	0	1	0	0	0	0	0
-										
-BEWICK, James 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-BOYD, Jimmy 	Winger	37	13	0	1	0	0	1	1	0
-										
-BURNS, Mick 	Goalkeeper	17	0	0	1	0	0	1	0	0
-										
-CAPE, Jackie 	Winger	9	3	0	1	0	0	0	0	0
-										
-DAVIDSON, Dave 	Central Defender	10	0	0	0	0	0	1	0	0
-										
-DENNISON, Bob 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-DRYDEN, Jack 	Winger	4	1	0	1	0	0	0	0	0
-										
-DUFF, Joe 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-FAIRHURST, David 	Full Back	42	0	0	1	0	0	1	0	0
-										
-GALLANTREE, Les 	Winger	1	0	0	0	0	0	0	0	0
-										
-HEWARD, Aubrey 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-LANG, Tommy 	Winger	38	9	1	0	0	0	1	0	0
-										
-LEIGHTON, Bill 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-LOW, Norman 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-MACKENZIE, Roddie 	Wing Half	33	0	0	0	0	0	0	0	0
-										
-MATHISON, George 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-MCINROY, Albert 	Goalkeeper	25	0	0	0	0	0	0	0	0
-										
-MCMENEMY, Harry 	Inside Forward	39	9	0	1	0	0	1	2	0
-										
-MILLER, Thomas 	Winger	0	0	0	0	0	0	0	0	0
-										
-MURRAY, Jimmy 	Wing Half	26	1	0	1	0	0	0	0	0
-										
-NELSON, Jimmy 	Full Back	40	0	0	1	0	0	1	0	0
-										
-RICHARDSON, Joe 	Full Back	2	0	0	0	0	0	0	0	0
-										
-RICHARDSON, Jimmy 	Inside Forward	35	10	0	0	0	0	1	0	0
-										
-VARTY, William 	Winger	0	0	0	0	0	0	0	0	0
-										
-WEAVER, Sam 	Wing Half	19	3	3	0	0	0	1	0	0
-										
-WEST, Joe 	Centre Forward	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jack ",Centre Forward,36,19,0,1,0,0,1,0,0
+,"BELL, Dave 'Daniel' ",Full Back,4,1,0,1,0,0,1,0,0
+,"BETTON, Alec ",Central Defender,34,1,0,1,0,0,0,0,0
+,"BEWICK, James ",Central Defender,0,0,0,0,0,0,0,0,0
+,"BOYD, Jimmy ",Winger,37,13,0,1,0,0,1,1,0
+,"BURNS, Mick ",Goalkeeper,17,0,0,1,0,0,1,0,0
+,"CAPE, Jackie ",Winger,9,3,0,1,0,0,0,0,0
+,"DAVIDSON, Dave ",Central Defender,10,0,0,0,0,0,1,0,0
+,"DENNISON, Bob ",Central Defender,2,0,0,0,0,0,0,0,0
+,"DRYDEN, Jack ",Winger,4,1,0,1,0,0,0,0,0
+,"DUFF, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FAIRHURST, David ",Full Back,42,0,0,1,0,0,1,0,0
+,"GALLANTREE, Les ",Winger,1,0,0,0,0,0,0,0,0
+,"HEWARD, Aubrey ",Wing Half,5,0,0,0,0,0,0,0,0
+,"LANG, Tommy ",Winger,38,9,1,0,0,0,1,0,0
+,"LEIGHTON, Bill ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LOW, Norman ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,33,0,0,0,0,0,0,0,0
+,"MATHISON, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,25,0,0,0,0,0,0,0,0
+,"MCMENEMY, Harry ",Inside Forward,39,9,0,1,0,0,1,2,0
+,"MILLER, Thomas ",Winger,0,0,0,0,0,0,0,0,0
+,"MURRAY, Jimmy ",Wing Half,26,1,0,1,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,40,0,0,1,0,0,1,0,0
+,"RICHARDSON, Joe ",Full Back,2,0,0,0,0,0,0,0,0
+,"RICHARDSON, Jimmy ",Inside Forward,35,10,0,0,0,0,1,0,0
+,"VARTY, William ",Winger,0,0,0,0,0,0,0,0,0
+,"WEAVER, Sam ",Wing Half,19,3,3,0,0,0,1,0,0
+,"WEST, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0

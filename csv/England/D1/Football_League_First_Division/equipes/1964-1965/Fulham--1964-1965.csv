@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AKERS, Vic 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BROWN, Stan 	Midfielder	35	1	0	2	0	0	3	0	0
-										
-CALLAGHAN, Fred 	Full Back	12	0	0	0	0	0	2	0	0
-										
-CHAMBERLAIN, Trevor 'Tosh' 	Winger	8	1	0	1	0	0	0	0	0
-										
-COHEN, George 	Full Back	40	2	0	2	0	0	2	0	0
-										
-COOK, Maurice 	Centre Forward	17	8	0	0	0	0	2	1	0
-										
-DEMPSEY, John 	Central Defender	4	0	0	1	0	0	0	0	0
-										
-DRAKE, Bobby 	Full Back	1	0	0	0	0	0	0	0	0
-										
-EARLE, Steve 	Forward	4	2	0	0	0	0	0	0	0
-										
-GOODGAME, Tony 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HAYNES, Johnny 	Midfielder	39	5	0	2	0	0	2	0	0
-										
-HOWFIELD, Bobby 	Winger	12	3	0	1	0	0	1	0	0
-										
-JONES, Mick 	Full Back	0	0	0	0	0	0	1	0	0
-										
-KEETCH, Bobby 	Central Defender	37	0	0	1	0	0	3	0	0
-										
-KEY, Johnny 	Winger	26	4	0	2	1	0	1	1	0
-										
-LANGLEY, Jimmy 	Full Back	41	4	3	2	0	0	3	0	0
-										
-LEGGAT, Graham 	Winger	17	4	0	0	0	0	2	0	0
-										
-LENNARTSSON, Benny 		0	0	0	0	0	0	0	0	0
-										
-MACEDO, Tony 	Goalkeeper	40	0	0	2	0	0	2	0	0
-										
-MARSH, Rodney 	Forward	41	17	0	1	0	0	2	0	0
-										
-MEALAND, Barry 	Full Back	2	0	0	0	0	0	1	0	0
-										
-METCHICK, Dave 	Midfielder	11	6	0	0	0	0	0	0	0
-										
-O'CONNELL, Pat 	Winger	24	1	0	1	0	0	2	1	0
-										
-PARMENTER, Terry 	Winger	1	0	0	0	0	0	0	0	0
-										
-ROBSON, Bobby 	Inside Forward	42	1	0	2	0	0	3	1	0
-										
-STRATTON, Reg 	Forward	6	0	0	2	2	0	0	0	0
-										
-UNDERWOOD, Dave 	Goalkeeper	2	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AKERS, Vic ",Full Back,0,0,0,0,0,0,0,0,0
+,"BROWN, Stan ",Midfielder,35,1,0,2,0,0,3,0,0
+,"CALLAGHAN, Fred ",Full Back,12,0,0,0,0,0,2,0,0
+,"CHAMBERLAIN, Trevor 'Tosh' ",Winger,8,1,0,1,0,0,0,0,0
+,"COHEN, George ",Full Back,40,2,0,2,0,0,2,0,0
+,"COOK, Maurice ",Centre Forward,17,8,0,0,0,0,2,1,0
+,"DEMPSEY, John ",Central Defender,4,0,0,1,0,0,0,0,0
+,"DRAKE, Bobby ",Full Back,1,0,0,0,0,0,0,0,0
+,"EARLE, Steve ",Forward,4,2,0,0,0,0,0,0,0
+,"GOODGAME, Tony ",Full Back,0,0,0,0,0,0,0,0,0
+,"HAYNES, Johnny ",Midfielder,39,5,0,2,0,0,2,0,0
+,"HOWFIELD, Bobby ",Winger,12,3,0,1,0,0,1,0,0
+,"JONES, Mick ",Full Back,0,0,0,0,0,0,1,0,0
+,"KEETCH, Bobby ",Central Defender,37,0,0,1,0,0,3,0,0
+,"KEY, Johnny ",Winger,26,4,0,2,1,0,1,1,0
+,"LANGLEY, Jimmy ",Full Back,41,4,3,2,0,0,3,0,0
+,"LEGGAT, Graham ",Winger,17,4,0,0,0,0,2,0,0
+,"LENNARTSSON, Benny ",,0,0,0,0,0,0,0,0,0
+,"MACEDO, Tony ",Goalkeeper,40,0,0,2,0,0,2,0,0
+,"MARSH, Rodney ",Forward,41,17,0,1,0,0,2,0,0
+,"MEALAND, Barry ",Full Back,2,0,0,0,0,0,1,0,0
+,"METCHICK, Dave ",Midfielder,11,6,0,0,0,0,0,0,0
+,"O'CONNELL, Pat ",Winger,24,1,0,1,0,0,2,1,0
+,"PARMENTER, Terry ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBSON, Bobby ",Inside Forward,42,1,0,2,0,0,3,1,0
+,"STRATTON, Reg ",Forward,6,0,0,2,2,0,0,0,0
+,"UNDERWOOD, Dave ",Goalkeeper,2,0,0,0,0,0,1,0,0

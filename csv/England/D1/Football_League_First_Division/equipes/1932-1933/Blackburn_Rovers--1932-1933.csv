@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1932/33
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BINNS, Cliff 	Goalkeeper	13	0	0	2	0	0	0	0	0
-										
-BOND, Tony 	Winger	0	0	0	0	0	0	0	0	0
-										
-BRITTON, Frank 	Wing Half	11	5	1	1	0	0	0	0	0
-										
-BRUTON, Jack 	Winger	42	8	1	2	1	0	0	0	0
-										
-BRYANT, Cliff 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-CARVER, Jesse 	Central Defender	37	0	0	2	0	0	0	0	0
-										
-CROOK, Walter 	Full Back	2	0	0	0	0	0	0	0	0
-										
-CUNLIFFE, Arthur 	Winger	39	14	0	2	2	0	0	0	0
-										
-DIX, Ronnie 	Inside Forward	38	14	0	2	1	0	0	0	0
-										
-GORMAN, Jimmy 	Full Back	41	0	0	2	0	0	0	0	0
-										
-GORMLIE, Bill 	Goalkeeper	28	0	0	0	0	0	0	0	0
-										
-GROVES, Arthur 	Inside Forward	15	7	0	1	0	0	0	0	0
-										
-HEALLESS, Harry 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-HUGHES, Jack 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-IMRIE, Bill 	Wing Half	26	2	0	2	0	0	0	0	0
-										
-JONES, Herbert 	Full Back	23	0	0	2	0	0	0	0	0
-										
-MCLEAN, Jock 	Central Defender	6	0	0	0	0	0	0	0	0
-										
-MCLEAN, Tommy 	Inside Forward	37	5	3	2	1	1	0	0	0
-										
-MELVILLE, Jim 	Central Defender	15	0	0	0	0	0	0	0	0
-										
-SULLIVAN, Les 	Winger	0	0	0	0	0	0	0	0	0
-										
-TALBOT, Les 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-THOMPSON, Ernie 	Centre Forward	40	17	0	2	0	0	0	0	0
-										
-TURNER, Tom 'Tucker' 	Winger	6	2	0	0	0	0	0	0	0
-										
-WHITESIDE, Arnold 	Wing Half	14	0	0	0	0	0	0	0	0
-										
-WHYTE, Crawford 	Full Back	18	0	0	0	0	0	0	0	0
-										
-WOOD, William 	Wing Half	4	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BINNS, Cliff ",Goalkeeper,13,0,0,2,0,0,0,0,0
+,"BOND, Tony ",Winger,0,0,0,0,0,0,0,0,0
+,"BRITTON, Frank ",Wing Half,11,5,1,1,0,0,0,0,0
+,"BRUTON, Jack ",Winger,42,8,1,2,1,0,0,0,0
+,"BRYANT, Cliff ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CARVER, Jesse ",Central Defender,37,0,0,2,0,0,0,0,0
+,"CROOK, Walter ",Full Back,2,0,0,0,0,0,0,0,0
+,"CUNLIFFE, Arthur ",Winger,39,14,0,2,2,0,0,0,0
+,"DIX, Ronnie ",Inside Forward,38,14,0,2,1,0,0,0,0
+,"GORMAN, Jimmy ",Full Back,41,0,0,2,0,0,0,0,0
+,"GORMLIE, Bill ",Goalkeeper,28,0,0,0,0,0,0,0,0
+,"GROVES, Arthur ",Inside Forward,15,7,0,1,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HUGHES, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"IMRIE, Bill ",Wing Half,26,2,0,2,0,0,0,0,0
+,"JONES, Herbert ",Full Back,23,0,0,2,0,0,0,0,0
+,"MCLEAN, Jock ",Central Defender,6,0,0,0,0,0,0,0,0
+,"MCLEAN, Tommy ",Inside Forward,37,5,3,2,1,1,0,0,0
+,"MELVILLE, Jim ",Central Defender,15,0,0,0,0,0,0,0,0
+,"SULLIVAN, Les ",Winger,0,0,0,0,0,0,0,0,0
+,"TALBOT, Les ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"THOMPSON, Ernie ",Centre Forward,40,17,0,2,0,0,0,0,0
+,"TURNER, Tom 'Tucker' ",Winger,6,2,0,0,0,0,0,0,0
+,"WHITESIDE, Arnold ",Wing Half,14,0,0,0,0,0,0,0,0
+,"WHYTE, Crawford ",Full Back,18,0,0,0,0,0,0,0,0
+,"WOOD, William ",Wing Half,4,0,0,0,0,0,0,0,0

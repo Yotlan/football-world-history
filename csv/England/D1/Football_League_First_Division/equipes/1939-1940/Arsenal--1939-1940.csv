@@ -1,37 +1,18 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1939/40
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASTIN, Cliff 	Winger	0	0	0	0	0	0	3	1	1
-										
-BREMNER, Gordon 	Inside Forward	0	0	0	0	0	0	1	0	0
-										
-CRAYSTON, Jack 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-DRAKE, Ted 	Centre Forward	0	0	0	0	0	0	1	4	0
-										
-DRURY, George 	Inside Forward	0	0	0	0	0	0	2	1	0
-										
-DUTTON, Len 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-HAPGOOD, Eddie 	Full Back	0	0	0	0	0	0	3	0	0
-										
-JONES, Bryn 	Inside Forward	0	0	0	0	0	0	3	0	0
-										
-JONES, Les 	Inside Forward	0	0	0	0	0	0	3	0	0
-										
-JONES, Sid 	Full Back	0	0	0	0	0	0	0	0	0
-										
-JOY, Bernard 	Central Defender	0	0	0	0	0	0	3	0	0
-										
-KIRCHEN, Alf 	Winger	0	0	0	0	0	0	3	1	0
-										
-LEWIS, Reg 	Centre Forward	0	0	0	0	0	0	2	1	0
-										
-MALE, George 	Full Back	0	0	0	0	0	0	3	0	0
-										
-MARKS, George 	Goalkeeper	0	0	0	0	0	0	3	0	0
-										
-WHITTAKER, Bill 	Wing Half	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASTIN, Cliff ",Winger,0,0,0,0,0,0,3,1,1
+,"BREMNER, Gordon ",Inside Forward,0,0,0,0,0,0,1,0,0
+,"CRAYSTON, Jack ",Wing Half,0,0,0,0,0,0,3,0,0
+,"DRAKE, Ted ",Centre Forward,0,0,0,0,0,0,1,4,0
+,"DRURY, George ",Inside Forward,0,0,0,0,0,0,2,1,0
+,"DUTTON, Len ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HAPGOOD, Eddie ",Full Back,0,0,0,0,0,0,3,0,0
+,"JONES, Bryn ",Inside Forward,0,0,0,0,0,0,3,0,0
+,"JONES, Les ",Inside Forward,0,0,0,0,0,0,3,0,0
+,"JONES, Sid ",Full Back,0,0,0,0,0,0,0,0,0
+,"JOY, Bernard ",Central Defender,0,0,0,0,0,0,3,0,0
+,"KIRCHEN, Alf ",Winger,0,0,0,0,0,0,3,1,0
+,"LEWIS, Reg ",Centre Forward,0,0,0,0,0,0,2,1,0
+,"MALE, George ",Full Back,0,0,0,0,0,0,3,0,0
+,"MARKS, George ",Goalkeeper,0,0,0,0,0,0,3,0,0
+,"WHITTAKER, Bill ",Wing Half,0,0,0,0,0,0,0,0,0

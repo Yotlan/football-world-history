@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLCHURCH, Len 	Winger	4	0	0	0	0	0	0	0	0
-										
-BADGER, Len 	Full Back	36	0	0	3	0	0	1	0	0
-										
-BIRCHENALL, Alan 	Midfielder	31	12	0	3	0	0	1	1	0
-										
-COLDWELL, Cec 	Full Back	3	0	0	0	0	0	0	0	0
-										
-DOCHERTY, John 	Winger	10	1	0	0	0	0	1	0	0
-										
-FINNIGAN, Denis 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-HARTLE, Barry 	Winger	39	7	0	3	0	0	1	0	0
-										
-HODGKINSON, Alan 	Goalkeeper	40	0	0	3	0	0	1	0	0
-										
-JONES, Mick 	Forward	39	14	0	3	3	0	1	0	0
-										
-KETTLEBOROUGH, Keith 	Midfielder	40	4	1	3	0	0	0	0	0
-										
-MALLENDER, Ken 	Central Defender	15	0	0	0	0	0	1	0	0
-										
-MATTHEWSON, Reg 	Central Defender	40	1	0	3	0	0	1	0	0
-										
-PACE, Derek 'Doc' 	Centre Forward	3	0	0	0	0	0	0	0	0
-										
-RICHARDSON, Brian 	Wing Half	35	2	0	3	0	0	1	0	0
-										
-SHAW, Bernard 	Full Back	3	0	0	0	0	0	1	0	0
-										
-SHAW, Graham 	Full Back	42	0	0	3	0	0	0	0	0
-										
-SHAW, Joe 	Central Defender	25	0	0	3	0	0	0	0	0
-										
-SIMPSON, Ron 	Winger	2	0	0	0	0	0	0	0	0
-										
-WAGSTAFF, Tony 	Midfielder	18	2	0	0	0	0	1	0	0
-										
-WAGSTAFF, Barry 	Midfielder	6	0	0	0	0	0	0	0	0
-										
-WIDDOWSON, Bob 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-WOODWARD, Alan 	Winger	27	7	0	3	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLCHURCH, Len ",Winger,4,0,0,0,0,0,0,0,0
+,"BADGER, Len ",Full Back,36,0,0,3,0,0,1,0,0
+,"BIRCHENALL, Alan ",Midfielder,31,12,0,3,0,0,1,1,0
+,"COLDWELL, Cec ",Full Back,3,0,0,0,0,0,0,0,0
+,"DOCHERTY, John ",Winger,10,1,0,0,0,0,1,0,0
+,"FINNIGAN, Denis ",Central Defender,2,0,0,0,0,0,0,0,0
+,"HARTLE, Barry ",Winger,39,7,0,3,0,0,1,0,0
+,"HODGKINSON, Alan ",Goalkeeper,40,0,0,3,0,0,1,0,0
+,"JONES, Mick ",Forward,39,14,0,3,3,0,1,0,0
+,"KETTLEBOROUGH, Keith ",Midfielder,40,4,1,3,0,0,0,0,0
+,"MALLENDER, Ken ",Central Defender,15,0,0,0,0,0,1,0,0
+,"MATTHEWSON, Reg ",Central Defender,40,1,0,3,0,0,1,0,0
+,"PACE, Derek 'Doc' ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"RICHARDSON, Brian ",Wing Half,35,2,0,3,0,0,1,0,0
+,"SHAW, Bernard ",Full Back,3,0,0,0,0,0,1,0,0
+,"SHAW, Graham ",Full Back,42,0,0,3,0,0,0,0,0
+,"SHAW, Joe ",Central Defender,25,0,0,3,0,0,0,0,0
+,"SIMPSON, Ron ",Winger,2,0,0,0,0,0,0,0,0
+,"WAGSTAFF, Tony ",Midfielder,18,2,0,0,0,0,1,0,0
+,"WAGSTAFF, Barry ",Midfielder,6,0,0,0,0,0,0,0,0
+,"WIDDOWSON, Bob ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"WOODWARD, Alan ",Winger,27,7,0,3,1,0,0,0,0

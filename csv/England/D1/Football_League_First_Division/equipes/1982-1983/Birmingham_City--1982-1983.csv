@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1982/83
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLAKE, Noel 	Central Defender	37	3	1	3	0	0	4	0	0
-										
-BLYTH, Jim 	Goalkeeper	14	0	0	0	0	0	2	0	0
-										
-BRAZIER, Colin 	Central Defender	10+1	1	0	2+1	0	0	4	0	0
-										
-BREMNER, Kevin 	Forward	3+1	1	0	0	0	0	0	0	0
-										
-BROADHURST, Kevan 	Central Defender	28+1	1	0	3	0	0	4	0	0
-										
-CARRODUS, Frank 	Winger	7+1	0	0	0	0	0	0+1	0	0
-										
-COLES, Dave 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-COTON, Tony 	Goalkeeper	28	0	0	3	0	0	2	0	0
-										
-CURBISHLEY, Alan 	Midfielder	30	1	0	3	0	0	4	3	0
-										
-DENNIS, Mark 	Full Back	23	1	0	3	0	0	0	0	0
-										
-DILLON, Kevin 	Midfielder	27	3	2	3	0	0	4	2	1
-										
-EVANS, Tony 	Forward	7	2	0	0	0	0	2	2	0
-										
-FERGUSON, Mick 	Forward	20	8	1	1	0	0	2	0	0
-										
-FRANCIS, Carl 	Winger	2+3	0	0	0	0	0	0	0	0
-										
-GAYLE, Howard 	Winger	13	1	0	1	0	0	0	0	0
-										
-GIBSON, Stuart 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-HAGAN, Jim 	Central Defender	30+2	0	0	3	0	0	2	0	0
-										
-HALSALL, Mick 	Midfielder	12	1	0	0	0	0	0	0	0
-										
-HANDYSIDES, Ian 	Winger	26+3	2	0	2+1	0	0	4	3	0
-										
-HARFORD, Mick 	Forward	29	6	0	2	0	0	0	0	0
-										
-HAWKER, Phil 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-HOPKINS, Robert 	Winger	11	2	0	0	0	0	0	0	0
-										
-KUHL, Martin 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-LANGAN, David 	Full Back	14	2	1	0	0	0	1	0	0
-										
-MUMFORD, Wayne 	Full Back	2	0	0	0	0	0	1	0	0
-										
-PHILLIPS, Les 	Midfielder	11+2	2	0	1	0	0	0+1	0	0
-										
-SCOTT, Geoff 	Full Back	4	0	0	0	0	0	0	0	0
-										
-STEVENSON, Byron 	Midfielder	30+1	1	1	2	0	0	4	0	0
-										
-SUMMERFIELD, Kevin 	Midfielder	2+3	1	0	1+1	1	0	1	0	0
-										
-VAN DEN HAUWE, Pat 	Full Back	30+1	1	0	0	0	0	3	0	0
-										
-VAN MIERLO, Toine 	Winger	4	0	0	0	0	0	0	0	0
-										
-WHATMORE, Neil 	Forward	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLAKE, Noel ",Central Defender,37,3,1,3,0,0,4,0,0
+,"BLYTH, Jim ",Goalkeeper,14,0,0,0,0,0,2,0,0
+,"BRAZIER, Colin ",Central Defender,10+1,1,0,2+1,0,0,4,0,0
+,"BREMNER, Kevin ",Forward,3+1,1,0,0,0,0,0,0,0
+,"BROADHURST, Kevan ",Central Defender,28+1,1,0,3,0,0,4,0,0
+,"CARRODUS, Frank ",Winger,7+1,0,0,0,0,0,0+1,0,0
+,"COLES, Dave ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"COTON, Tony ",Goalkeeper,28,0,0,3,0,0,2,0,0
+,"CURBISHLEY, Alan ",Midfielder,30,1,0,3,0,0,4,3,0
+,"DENNIS, Mark ",Full Back,23,1,0,3,0,0,0,0,0
+,"DILLON, Kevin ",Midfielder,27,3,2,3,0,0,4,2,1
+,"EVANS, Tony ",Forward,7,2,0,0,0,0,2,2,0
+,"FERGUSON, Mick ",Forward,20,8,1,1,0,0,2,0,0
+,"FRANCIS, Carl ",Winger,2+3,0,0,0,0,0,0,0,0
+,"GAYLE, Howard ",Winger,13,1,0,1,0,0,0,0,0
+,"GIBSON, Stuart ",Midfielder,0,0,0,0,0,0,0,0,0
+,"HAGAN, Jim ",Central Defender,30+2,0,0,3,0,0,2,0,0
+,"HALSALL, Mick ",Midfielder,12,1,0,0,0,0,0,0,0
+,"HANDYSIDES, Ian ",Winger,26+3,2,0,2+1,0,0,4,3,0
+,"HARFORD, Mick ",Forward,29,6,0,2,0,0,0,0,0
+,"HAWKER, Phil ",Central Defender,4,0,0,0,0,0,0,0,0
+,"HOPKINS, Robert ",Winger,11,2,0,0,0,0,0,0,0
+,"KUHL, Martin ",Midfielder,2,0,0,0,0,0,0,0,0
+,"LANGAN, David ",Full Back,14,2,1,0,0,0,1,0,0
+,"MUMFORD, Wayne ",Full Back,2,0,0,0,0,0,1,0,0
+,"PHILLIPS, Les ",Midfielder,11+2,2,0,1,0,0,0+1,0,0
+,"SCOTT, Geoff ",Full Back,4,0,0,0,0,0,0,0,0
+,"STEVENSON, Byron ",Midfielder,30+1,1,1,2,0,0,4,0,0
+,"SUMMERFIELD, Kevin ",Midfielder,2+3,1,0,1+1,1,0,1,0,0
+,"VAN DEN HAUWE, Pat ",Full Back,30+1,1,0,0,0,0,3,0,0
+,"VAN MIERLO, Toine ",Winger,4,0,0,0,0,0,0,0,0
+,"WHATMORE, Neil ",Forward,2,0,0,0,0,0,0,0,0

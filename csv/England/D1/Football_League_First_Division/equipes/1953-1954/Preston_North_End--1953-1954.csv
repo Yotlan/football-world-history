@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1953/54
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAXTER, Jimmy 	Inside Forward	42	15	7	8	5	0	0	0	0
-										
-BEATTIE, Bobbie 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-CAMPBELL, Les 	Winger	13	0	0	0	0	0	0	0	0
-										
-CUNNINGHAM, Willie 	Full Back	30	0	0	7	0	0	0	0	0
-										
-DOCHERTY, Tommy 	Wing Half	26	0	0	8	0	0	0	0	0
-										
-DUNN, Joe 	Central Defender	21	0	0	0	0	0	0	0	0
-										
-ELSE, Fred 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-EVANS, Ray 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-FINNEY, Tom 	Winger	23	11	0	8	3	0	0	0	0
-										
-FORBES, Willie 	Wing Half	19	1	0	8	0	0	0	0	0
-										
-FOSTER, Bobby 	Inside Forward	28	15	0	8	1	0	0	0	0
-										
-HATSELL, Dennis 	Centre Forward	17	11	0	0	0	0	0	0	0
-										
-HIGHAM, Peter 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-JONES, Eric 	Winger	7	0	0	0	0	0	0	0	0
-										
-KAILE, Gordon 	Winger	5	1	0	0	0	0	0	0	0
-										
-MARSTON, Joe 	Central Defender	42	0	0	8	0	0	0	0	0
-										
-MATTINSON, Harry 	Central Defender	27	0	0	1	0	0	0	0	0
-										
-MCGREEVEY, Brian 	Winger	0	0	0	0	0	0	0	0	0
-										
-MITCHELL, Ron 	Full Back	0	0	0	0	0	0	0	0	0
-										
-MITTON, Keith 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-MORRISON, Angus 	Winger	35	7	0	8	4	0	0	0	0
-										
-SCOTT, Bill 	Full Back	4	0	0	0	0	0	0	0	0
-										
-THOMPSON, George 	Goalkeeper	39	0	0	8	0	0	0	0	0
-										
-WALTON, Joe 	Full Back	37	0	0	8	0	0	0	0	0
-										
-WATERHOUSE, Ken 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-WAYMAN, Charlie 	Centre Forward	34	25	0	8	7	0	0	0	0
-										
-WAYMAN, Frank 	Winger	0	0	0	0	0	0	0	0	0
-										
-WILSON, Bob 	Full Back	4	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAXTER, Jimmy ",Inside Forward,42,15,7,8,5,0,0,0,0
+,"BEATTIE, Bobbie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CAMPBELL, Les ",Winger,13,0,0,0,0,0,0,0,0
+,"CUNNINGHAM, Willie ",Full Back,30,0,0,7,0,0,0,0,0
+,"DOCHERTY, Tommy ",Wing Half,26,0,0,8,0,0,0,0,0
+,"DUNN, Joe ",Central Defender,21,0,0,0,0,0,0,0,0
+,"ELSE, Fred ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"EVANS, Ray ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"FINNEY, Tom ",Winger,23,11,0,8,3,0,0,0,0
+,"FORBES, Willie ",Wing Half,19,1,0,8,0,0,0,0,0
+,"FOSTER, Bobby ",Inside Forward,28,15,0,8,1,0,0,0,0
+,"HATSELL, Dennis ",Centre Forward,17,11,0,0,0,0,0,0,0
+,"HIGHAM, Peter ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"JONES, Eric ",Winger,7,0,0,0,0,0,0,0,0
+,"KAILE, Gordon ",Winger,5,1,0,0,0,0,0,0,0
+,"MARSTON, Joe ",Central Defender,42,0,0,8,0,0,0,0,0
+,"MATTINSON, Harry ",Central Defender,27,0,0,1,0,0,0,0,0
+,"MCGREEVEY, Brian ",Winger,0,0,0,0,0,0,0,0,0
+,"MITCHELL, Ron ",Full Back,0,0,0,0,0,0,0,0,0
+,"MITTON, Keith ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MORRISON, Angus ",Winger,35,7,0,8,4,0,0,0,0
+,"SCOTT, Bill ",Full Back,4,0,0,0,0,0,0,0,0
+,"THOMPSON, George ",Goalkeeper,39,0,0,8,0,0,0,0,0
+,"WALTON, Joe ",Full Back,37,0,0,8,0,0,0,0,0
+,"WATERHOUSE, Ken ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WAYMAN, Charlie ",Centre Forward,34,25,0,8,7,0,0,0,0
+,"WAYMAN, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"WILSON, Bob ",Full Back,4,0,0,0,0,0,0,0,0

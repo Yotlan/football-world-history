@@ -1,29 +1,14 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1939/40
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Frank 	Winger	0	0	0	0	0	0	3	0	0
-										
-BRIGHAM, Harry 	Full Back	0	0	0	0	0	0	3	0	0
-										
-GALLACHER, Patsy 	Inside Forward	0	0	0	0	0	0	3	1	0
-										
-MASSEY, Alf 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-MATTHEWS, Stanley 	Winger	0	0	0	0	0	0	3	0	0
-										
-MCMAHON, Pat 	Goalkeeper	0	0	0	0	0	0	3	0	0
-										
-MOULD, Billy 	Full Back	0	0	0	0	0	0	2	0	0
-										
-SALE, Tommy 	Centre Forward	0	0	0	0	0	0	3	3	0
-										
-SMITH, Clem 	Inside Forward	0	0	0	0	0	0	3	2	0
-										
-SOO, Frank 	Wing Half	0	0	0	0	0	0	3	1	0
-										
-TENNANT, Jack 	Full Back	0	0	0	0	0	0	3	0	0
-										
-TUTIN, Arthur 	Wing Half	0	0	0	0	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Frank ",Winger,0,0,0,0,0,0,3,0,0
+,"BRIGHAM, Harry ",Full Back,0,0,0,0,0,0,3,0,0
+,"GALLACHER, Patsy ",Inside Forward,0,0,0,0,0,0,3,1,0
+,"MASSEY, Alf ",Wing Half,0,0,0,0,0,0,3,0,0
+,"MATTHEWS, Stanley ",Winger,0,0,0,0,0,0,3,0,0
+,"MCMAHON, Pat ",Goalkeeper,0,0,0,0,0,0,3,0,0
+,"MOULD, Billy ",Full Back,0,0,0,0,0,0,2,0,0
+,"SALE, Tommy ",Centre Forward,0,0,0,0,0,0,3,3,0
+,"SMITH, Clem ",Inside Forward,0,0,0,0,0,0,3,2,0
+,"SOO, Frank ",Wing Half,0,0,0,0,0,0,3,1,0
+,"TENNANT, Jack ",Full Back,0,0,0,0,0,0,3,0,0
+,"TUTIN, Arthur ",Wing Half,0,0,0,0,0,0,1,0,0

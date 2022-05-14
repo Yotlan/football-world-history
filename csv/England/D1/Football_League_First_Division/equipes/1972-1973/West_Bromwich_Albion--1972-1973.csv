@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1972/73
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Kenny 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-ASTLE, Jeff 	Forward	14	5	0	1	0	0	0	0	0
-										
-BROWN, Ally 	Forward	26+3	3	0	4+1	0	0	7	1	0
-										
-BROWN, Tony 	Forward	38+1	12	2	5	1	0	7	3	2
-										
-CANTELLO, Len 	Midfielder	37	0	0	5	1	0	4	0	0
-										
-COMMON, Alan 	Full Back	0	0	0	0	0	0	0	0	0
-										
-GLOVER, Allan 	Midfielder	2+3	1	0	0	0	0	0	0	0
-										
-GOULD, Bobby 	Forward	21	6	0	0	0	0	7	1	0
-										
-HARTFORD, Asa 	Midfielder	41	3	0	5	1	0	7	2	0
-										
-HUGHES, Lyndon 	Midfielder	2	0	0	0	0	0	1	0	0
-										
-JOHNSTON, Willie 	Winger	22	0	0	5	0	0	0	0	0
-										
-LATCHFORD, Peter 	Goalkeeper	26	0	0	5	0	0	7	0	0
-										
-MACLEAN, Hugh 	Winger	2+2	0	0	0	0	0	0	0	0
-										
-MERRICK, Alan 	Central Defender	30+1	0	0	5	0	0	3	0	0
-										
-MINTON, Roger 	Full Back	6	0	0	0	0	0	0	0	0
-										
-NISBET, Gordon 	Full Back	33	0	0	5	0	0	7	0	0
-										
-OSBORNE, John 	Goalkeeper	12	0	0	0	0	0	0	0	0
-										
-ROBERTSON, Ally 	Central Defender	35+1	1	0	1+2	0	0	7	1	0
-										
-SHAW, David 	Forward	10+2	3	0	0	0	0	0	0	0
-										
-SMITH, Graham 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-SUGGETT, Colin 	Midfielder	21+1	3	0	4	2	0	7	0	0
-										
-WILE, John 	Central Defender	40	1	0	5	0	0	7	0	0
-										
-WILSON, Ray 	Full Back	38	0	0	5	0	0	5	0	0
-										
-WOOLGAR, Stewart 	Midfielder	2+2	0	0	0	0	0	1+1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Kenny ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"ASTLE, Jeff ",Forward,14,5,0,1,0,0,0,0,0
+,"BROWN, Ally ",Forward,26+3,3,0,4+1,0,0,7,1,0
+,"BROWN, Tony ",Forward,38+1,12,2,5,1,0,7,3,2
+,"CANTELLO, Len ",Midfielder,37,0,0,5,1,0,4,0,0
+,"COMMON, Alan ",Full Back,0,0,0,0,0,0,0,0,0
+,"GLOVER, Allan ",Midfielder,2+3,1,0,0,0,0,0,0,0
+,"GOULD, Bobby ",Forward,21,6,0,0,0,0,7,1,0
+,"HARTFORD, Asa ",Midfielder,41,3,0,5,1,0,7,2,0
+,"HUGHES, Lyndon ",Midfielder,2,0,0,0,0,0,1,0,0
+,"JOHNSTON, Willie ",Winger,22,0,0,5,0,0,0,0,0
+,"LATCHFORD, Peter ",Goalkeeper,26,0,0,5,0,0,7,0,0
+,"MACLEAN, Hugh ",Winger,2+2,0,0,0,0,0,0,0,0
+,"MERRICK, Alan ",Central Defender,30+1,0,0,5,0,0,3,0,0
+,"MINTON, Roger ",Full Back,6,0,0,0,0,0,0,0,0
+,"NISBET, Gordon ",Full Back,33,0,0,5,0,0,7,0,0
+,"OSBORNE, John ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"ROBERTSON, Ally ",Central Defender,35+1,1,0,1+2,0,0,7,1,0
+,"SHAW, David ",Forward,10+2,3,0,0,0,0,0,0,0
+,"SMITH, Graham ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SUGGETT, Colin ",Midfielder,21+1,3,0,4,2,0,7,0,0
+,"WILE, John ",Central Defender,40,1,0,5,0,0,7,0,0
+,"WILSON, Ray ",Full Back,38,0,0,5,0,0,5,0,0
+,"WOOLGAR, Stewart ",Midfielder,2+2,0,0,0,0,0,1+1,0,0

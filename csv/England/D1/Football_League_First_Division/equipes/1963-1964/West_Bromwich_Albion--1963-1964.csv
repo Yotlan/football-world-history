@@ -1,50 +1,24 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1963/64
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROWN, Tony 	Forward	13	5	0	0	0	0	0	0	0
-										
-CARTER, Geoff 	Winger	4	1	0	0	0	0	0	0	0
-										
-CLARK, Clive 	Winger	42	16	0	4	1	0	0	0	0
-										
-CRAM, Bobby 	Full Back	14	2	0	1	0	0	0	0	0
-										
-CRAWFORD, Campbell 	Full Back	4	0	0	0	0	0	0	0	0
-										
-DRURY, Chuck 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-FAIRFAX, Ray 	Full Back	1	0	0	0	0	0	0	0	0
-										
-FENTON, Ronnie 	Midfielder	31	8	0	3	2	0	0	0	0
-										
-FOGGO, Ken 	Winger	37	11	0	4	0	0	0	0	0
-										
-FRASER, Doug 	Central Defender	33	1	0	4	0	0	0	0	0
-										
-FUDGE, Micky 	Winger	11	4	0	2	0	0	0	0	0
-										
-HOPE, Bobby 	Midfielder	4	0	0	0	0	0	0	0	0
-										
-HOWE, Don 	Full Back	35	1	0	4	1	1	0	0	0
-										
-HOWSHALL, Gerry 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-JACKSON, Alec 	Winger	27	3	0	2	0	0	0	0	0
-										
-JONES, Stan 	Central Defender	42	0	0	4	1	0	0	0	0
-										
-KAYE, John 	Forward	27	11	0	3	1	0	0	0	0
-										
-MACREADY, Brian 	Inside Forward	4	0	0	0	0	0	0	0	0
-										
-POTTER, Ray 	Goalkeeper	42	0	0	4	0	0	0	0	0
-										
-READFERN, Eddie 	Centre Forward	4	0	0	1	0	0	0	0	0
-										
-SIMPSON, Terry 	Wing Half	42	3	0	4	0	0	0	0	0
-										
-WILLIAMS, Graham 	Full Back	41	4	0	4	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROWN, Tony ",Forward,13,5,0,0,0,0,0,0,0
+,"CARTER, Geoff ",Winger,4,1,0,0,0,0,0,0,0
+,"CLARK, Clive ",Winger,42,16,0,4,1,0,0,0,0
+,"CRAM, Bobby ",Full Back,14,2,0,1,0,0,0,0,0
+,"CRAWFORD, Campbell ",Full Back,4,0,0,0,0,0,0,0,0
+,"DRURY, Chuck ",Central Defender,2,0,0,0,0,0,0,0,0
+,"FAIRFAX, Ray ",Full Back,1,0,0,0,0,0,0,0,0
+,"FENTON, Ronnie ",Midfielder,31,8,0,3,2,0,0,0,0
+,"FOGGO, Ken ",Winger,37,11,0,4,0,0,0,0,0
+,"FRASER, Doug ",Central Defender,33,1,0,4,0,0,0,0,0
+,"FUDGE, Micky ",Winger,11,4,0,2,0,0,0,0,0
+,"HOPE, Bobby ",Midfielder,4,0,0,0,0,0,0,0,0
+,"HOWE, Don ",Full Back,35,1,0,4,1,1,0,0,0
+,"HOWSHALL, Gerry ",Midfielder,2,0,0,0,0,0,0,0,0
+,"JACKSON, Alec ",Winger,27,3,0,2,0,0,0,0,0
+,"JONES, Stan ",Central Defender,42,0,0,4,1,0,0,0,0
+,"KAYE, John ",Forward,27,11,0,3,1,0,0,0,0
+,"MACREADY, Brian ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"POTTER, Ray ",Goalkeeper,42,0,0,4,0,0,0,0,0
+,"READFERN, Eddie ",Centre Forward,4,0,0,1,0,0,0,0,0
+,"SIMPSON, Terry ",Wing Half,42,3,0,4,0,0,0,0,0
+,"WILLIAMS, Graham ",Full Back,41,4,0,4,0,0,0,0,0

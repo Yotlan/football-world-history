@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1967/68
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Joe 	Forward	39	16	0	2	2	0	6	3	0
-										
-BARNWELL, John 	Midfielder	17	1	0	0	0	0	3	0	0
-										
-BAXTER, Jim 	Midfielder	22	2	0	2	0	0	0	0	0
-										
-BRIDGETT, Ray 	Full Back	1+2	0	0	0	0	0	0	0	0
-										
-BRINDLEY, Bill 	Full Back	1+1	0	0	0	0	0	0	0	0
-										
-CHAPMAN, Bob 	Central Defender	24+2	2	0	0+1	0	0	5	1	0
-										
-GRUMMITT, Peter 	Goalkeeper	27	0	0	2	0	0	6	0	0
-										
-HALL, Colin 	Winger	3+1	0	0	0	0	0	0	0	0
-										
-HARBY, Mick 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-HENNESSEY, Terry 	Central Defender	36	0	0	2	0	0	6	0	0
-										
-HILLEY, Dave 	Forward	16+4	3	0	1	1	0	0	0	0
-										
-HINDLEY, Peter 	Full Back	40	0	0	2	0	0	6	0	0
-										
-HINTON, Alan 	Winger	2+2	2	0	0	0	0	1+1	0	0
-										
-LYONS, Barry 	Winger	36+1	6	0	2	0	0	5	1	0
-										
-MCKINLAY, Bobby 	Central Defender	42	0	0	2	0	0	6	0	0
-										
-NEWTON, Henry 	Midfielder	38	3	0	2	0	0	4	1	0
-										
-RICHARDSON, Paul 	Midfielder	1+1	0	0	0	0	0	0	0	0
-										
-STOREY-MOORE, Ian 	Winger	28	10	1	1	0	0	5	2	1
-										
-TAYLOR, Billy 	Midfielder	5+4	1	0	0	0	0	2+1	0	0
-										
-WHITEFOOT, Jeff 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-WIGNALL, Frank 	Forward	27+1	6	0	2	1	0	5	0	0
-										
-WILLIAMSON, Brian 	Goalkeeper	12	0	0	0	0	0	0	0	0
-										
-WINFIELD, John 	Full Back	41	0	0	2	1	0	6	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Joe ",Forward,39,16,0,2,2,0,6,3,0
+,"BARNWELL, John ",Midfielder,17,1,0,0,0,0,3,0,0
+,"BAXTER, Jim ",Midfielder,22,2,0,2,0,0,0,0,0
+,"BRIDGETT, Ray ",Full Back,1+2,0,0,0,0,0,0,0,0
+,"BRINDLEY, Bill ",Full Back,1+1,0,0,0,0,0,0,0,0
+,"CHAPMAN, Bob ",Central Defender,24+2,2,0,0+1,0,0,5,1,0
+,"GRUMMITT, Peter ",Goalkeeper,27,0,0,2,0,0,6,0,0
+,"HALL, Colin ",Winger,3+1,0,0,0,0,0,0,0,0
+,"HARBY, Mick ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"HENNESSEY, Terry ",Central Defender,36,0,0,2,0,0,6,0,0
+,"HILLEY, Dave ",Forward,16+4,3,0,1,1,0,0,0,0
+,"HINDLEY, Peter ",Full Back,40,0,0,2,0,0,6,0,0
+,"HINTON, Alan ",Winger,2+2,2,0,0,0,0,1+1,0,0
+,"LYONS, Barry ",Winger,36+1,6,0,2,0,0,5,1,0
+,"MCKINLAY, Bobby ",Central Defender,42,0,0,2,0,0,6,0,0
+,"NEWTON, Henry ",Midfielder,38,3,0,2,0,0,4,1,0
+,"RICHARDSON, Paul ",Midfielder,1+1,0,0,0,0,0,0,0,0
+,"STOREY-MOORE, Ian ",Winger,28,10,1,1,0,0,5,2,1
+,"TAYLOR, Billy ",Midfielder,5+4,1,0,0,0,0,2+1,0,0
+,"WHITEFOOT, Jeff ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WIGNALL, Frank ",Forward,27+1,6,0,2,1,0,5,0,0
+,"WILLIAMSON, Brian ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"WINFIELD, John ",Full Back,41,0,0,2,1,0,6,0,0

@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1962/63
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRCH, Brian 	Winger	11	2	0	0	0	0	1	0	0
-										
-BROMLEY, Brian 	Midfielder	3	0	0	0	0	0	0	0	0
-										
-BUTLER, Dennis 	Winger	16	4	1	1	0	0	0	0	0
-										
-COOPER, Charlie 	Full Back	1	0	0	0	0	0	0	0	0
-										
-CUNLIFFE, Graham 	Wing Half	2	0	0	0	0	0	1	0	0
-										
-DAVIES, Wyn 	Forward	40	10	0	1	0	0	0	0	0
-										
-DEAKIN, Peter 	Midfielder	19	6	0	1	0	0	0	0	0
-										
-EDWARDS, Bryan 	Wing Half	41	0	0	1	0	0	0	0	0
-										
-FARRIMOND, Syd 	Full Back	30	0	0	1	0	0	1	0	0
-										
-GOULDEN, Albert 	Full Back	1	0	0	0	0	0	0	0	0
-										
-HARTLE, Roy 	Full Back	41	1	0	1	0	0	1	0	0
-										
-HATTON, Dave 	Central Defender	14	0	0	0	0	0	1	0	0
-										
-HILL, Freddie 	Midfielder	38	7	0	1	0	0	1	0	0
-										
-HOLDEN, Doug 	Winger	11	1	0	0	0	0	0	0	0
-										
-HOPKINSON, Eddie 	Goalkeeper	39	0	0	1	0	0	1	0	0
-										
-HULME, John 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-LEE, Francis 	Forward	23	12	4	1	1	0	1	0	0
-										
-LENNARD, Dave 	Midfielder	7	0	0	0	0	0	0	0	0
-										
-MCGARRY, Ron 	Forward	12	3	0	0	0	0	1	0	0
-										
-OXTOBY, Dick 	Central Defender	0	0	0	0	0	0	1	0	0
-										
-PILKINGTON, Brian 	Winger	22	4	1	0	0	0	1	0	0
-										
-RIMMER, Warwick 	Central Defender	40	2	0	1	0	0	0	0	0
-										
-RUSSELL, Billy 	Forward	14	2	0	0	0	0	0	0	0
-										
-SMITH, Alex 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-STANLEY, Graham 	Wing Half	23	0	0	1	0	0	0	0	0
-										
-TAYLOR, Gordon 	Winger	1	0	0	0	0	0	0	0	0
-										
-THRELFALL, Jack 	Full Back	9	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRCH, Brian ",Winger,11,2,0,0,0,0,1,0,0
+,"BROMLEY, Brian ",Midfielder,3,0,0,0,0,0,0,0,0
+,"BUTLER, Dennis ",Winger,16,4,1,1,0,0,0,0,0
+,"COOPER, Charlie ",Full Back,1,0,0,0,0,0,0,0,0
+,"CUNLIFFE, Graham ",Wing Half,2,0,0,0,0,0,1,0,0
+,"DAVIES, Wyn ",Forward,40,10,0,1,0,0,0,0,0
+,"DEAKIN, Peter ",Midfielder,19,6,0,1,0,0,0,0,0
+,"EDWARDS, Bryan ",Wing Half,41,0,0,1,0,0,0,0,0
+,"FARRIMOND, Syd ",Full Back,30,0,0,1,0,0,1,0,0
+,"GOULDEN, Albert ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARTLE, Roy ",Full Back,41,1,0,1,0,0,1,0,0
+,"HATTON, Dave ",Central Defender,14,0,0,0,0,0,1,0,0
+,"HILL, Freddie ",Midfielder,38,7,0,1,0,0,1,0,0
+,"HOLDEN, Doug ",Winger,11,1,0,0,0,0,0,0,0
+,"HOPKINSON, Eddie ",Goalkeeper,39,0,0,1,0,0,1,0,0
+,"HULME, John ",Central Defender,1,0,0,0,0,0,0,0,0
+,"LEE, Francis ",Forward,23,12,4,1,1,0,1,0,0
+,"LENNARD, Dave ",Midfielder,7,0,0,0,0,0,0,0,0
+,"MCGARRY, Ron ",Forward,12,3,0,0,0,0,1,0,0
+,"OXTOBY, Dick ",Central Defender,0,0,0,0,0,0,1,0,0
+,"PILKINGTON, Brian ",Winger,22,4,1,0,0,0,1,0,0
+,"RIMMER, Warwick ",Central Defender,40,2,0,1,0,0,0,0,0
+,"RUSSELL, Billy ",Forward,14,2,0,0,0,0,0,0,0
+,"SMITH, Alex ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"STANLEY, Graham ",Wing Half,23,0,0,1,0,0,0,0,0
+,"TAYLOR, Gordon ",Winger,1,0,0,0,0,0,0,0,0
+,"THRELFALL, Jack ",Full Back,9,0,0,0,0,0,0,0,0

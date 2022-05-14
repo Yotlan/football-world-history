@@ -1,54 +1,26 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1938/39
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMES, Sammy 	Winger	3	0	0	0	0	0	0	0	0
-										
-BAXTER, Bob 	Central Defender	33	0	0	4	0	0	0	0	0
-										
-BROWN, Billy 	Wing Half	34	0	0	4	0	0	0	0	0
-										
-BUTLER, Tommy 	Winger	2	0	0	0	0	0	0	0	0
-										
-CAMSELL, George 	Centre Forward	11	10	0	2	0	0	0	0	0
-										
-CHADWICK, Cliff 	Winger	19	11	0	4	0	0	0	0	0
-										
-COCHRANE, Tom 	Winger	24	2	0	0	0	0	0	0	0
-										
-CUMMING, Dave 	Goalkeeper	38	0	0	4	0	0	0	0	0
-										
-FENTON, Micky 	Centre Forward	33	34	5	4	1	0	0	0	0
-										
-FORREST, Billy 	Wing Half	37	1	0	4	0	0	0	0	0
-										
-FOWLER, Norman 	Full Back	5	0	0	0	0	0	0	0	0
-										
-HIGHAM, Norman 	Inside Forward	6	3	0	0	0	0	0	0	0
-										
-LAKING, George 	Full Back	25	1	0	0	0	0	0	0	0
-										
-MANNION, Wilf 	Inside Forward	38	14	0	4	0	0	0	0	0
-										
-MARTIN, Jack 	Wing Half	5	0	0	1	0	0	0	0	0
-										
-MCKENZIE, Duncan 	Wing Half	28	1	0	0	0	0	0	0	0
-										
-MILNE, Jackie 	Winger	40	4	0	4	0	0	0	0	0
-										
-MURPHY, David 	Wing Half	10	0	0	3	0	0	0	0	0
-										
-NASH, Paddy 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-SCRIMSHAW, Charlie 	Full Back	9	0	0	0	0	0	0	0	0
-										
-SHEPHERDSON, Harold 	Central Defender	9	0	0	0	0	0	0	0	0
-										
-SMITH, Harry 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-STUART, Bobby 	Full Back	16	0	0	4	0	0	0	0	0
-										
-YORSTON, Benny 	Inside Forward	33	12	1	2	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMES, Sammy ",Winger,3,0,0,0,0,0,0,0,0
+,"BAXTER, Bob ",Central Defender,33,0,0,4,0,0,0,0,0
+,"BROWN, Billy ",Wing Half,34,0,0,4,0,0,0,0,0
+,"BUTLER, Tommy ",Winger,2,0,0,0,0,0,0,0,0
+,"CAMSELL, George ",Centre Forward,11,10,0,2,0,0,0,0,0
+,"CHADWICK, Cliff ",Winger,19,11,0,4,0,0,0,0,0
+,"COCHRANE, Tom ",Winger,24,2,0,0,0,0,0,0,0
+,"CUMMING, Dave ",Goalkeeper,38,0,0,4,0,0,0,0,0
+,"FENTON, Micky ",Centre Forward,33,34,5,4,1,0,0,0,0
+,"FORREST, Billy ",Wing Half,37,1,0,4,0,0,0,0,0
+,"FOWLER, Norman ",Full Back,5,0,0,0,0,0,0,0,0
+,"HIGHAM, Norman ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"LAKING, George ",Full Back,25,1,0,0,0,0,0,0,0
+,"MANNION, Wilf ",Inside Forward,38,14,0,4,0,0,0,0,0
+,"MARTIN, Jack ",Wing Half,5,0,0,1,0,0,0,0,0
+,"MCKENZIE, Duncan ",Wing Half,28,1,0,0,0,0,0,0,0
+,"MILNE, Jackie ",Winger,40,4,0,4,0,0,0,0,0
+,"MURPHY, David ",Wing Half,10,0,0,3,0,0,0,0,0
+,"NASH, Paddy ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SCRIMSHAW, Charlie ",Full Back,9,0,0,0,0,0,0,0,0
+,"SHEPHERDSON, Harold ",Central Defender,9,0,0,0,0,0,0,0,0
+,"SMITH, Harry ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"STUART, Bobby ",Full Back,16,0,0,4,0,0,0,0,0
+,"YORSTON, Benny ",Inside Forward,33,12,1,2,0,0,0,0,0

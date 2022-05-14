@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1987/88
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Martin 	Midfielder	38	4	0	4	1	0	4	1	0
-										
-BANNISTER, Gary 	Forward	24	8	0	3	1	0	3	1	0
-										
-BROCK, Kevin 	Midfielder	26	2	0	4	1	0	3	0	0
-										
-BYRNE, John 	Forward	22+5	4	0	1+2	0	0	4	0	0
-										
-CHANNING, Justin 	Full Back	7+7	1	0	0	0	0	1+1	0	0
-										
-CONEY, Dean 	Forward	25+7	7	0	0+2	0	0	2	0	0
-										
-COOMBS, Paul 	Forward	0	0	0	0	0	0	0	0	0
-										
-DAWES, Ian 	Full Back	33	0	0	4	0	0	4	0	0
-										
-DENNIS, Mark 	Full Back	10+1	0	0	1	0	0	1	0	0
-										
-FALCO, Mark 	Forward	15+4	5	0	4	2	0	1	0	0
-										
-FENWICK, Terry 	Central Defender	22	3	2	0	0	0	4	0	0
-										
-FERDINAND, Les 	Forward	1	0	0	0	0	0	0+1	0	0
-										
-FEREDAY, Wayne 	Winger	33+4	4	0	4	0	0	2	0	0
-										
-FLEMING, Mark 	Full Back	0+2	0	0	0	0	0	0	0	0
-										
-FRANCIS, Trevor 	Forward	8+1	0	0	0	0	0	0	0	0
-										
-JOHNS, Nicky 	Goalkeeper	7	0	0	3	0	0	1	0	0
-										
-KERSLAKE, David 	Full Back	16+2	5	2	0+2	0	0	0+1	0	0
-										
-LAW, Brian 	Central Defender	0+1	0	0	0	0	0	0	0	0
-										
-MADDIX, Danny 	Central Defender	6+3	0	0	0	0	0	0	0	0
-										
-MAGUIRE, Gavin 	Central Defender	13+5	0	0	4	0	0	0	0	0
-										
-MCDONALD, Alan 	Central Defender	36	3	0	4	0	0	4	1	0
-										
-NEILL, Warren 	Full Back	20+3	0	0	2	1	0	2	0	0
-										
-O'NEILL, John 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-PARKER, Paul 	Full Back	40	0	0	4	0	0	4	0	0
-										
-PEACOCK, Gavin 	Midfielder	0+5	0	0	0	0	0	0	0	0
-										
-PIZANTI, David 	Full Back	3+3	0	0	1	1	0	1	0	0
-										
-ROBERTS, Tony 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SEAMAN, David 	Goalkeeper	32	0	0	1	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Martin ",Midfielder,38,4,0,4,1,0,4,1,0
+,"BANNISTER, Gary ",Forward,24,8,0,3,1,0,3,1,0
+,"BROCK, Kevin ",Midfielder,26,2,0,4,1,0,3,0,0
+,"BYRNE, John ",Forward,22+5,4,0,1+2,0,0,4,0,0
+,"CHANNING, Justin ",Full Back,7+7,1,0,0,0,0,1+1,0,0
+,"CONEY, Dean ",Forward,25+7,7,0,0+2,0,0,2,0,0
+,"COOMBS, Paul ",Forward,0,0,0,0,0,0,0,0,0
+,"DAWES, Ian ",Full Back,33,0,0,4,0,0,4,0,0
+,"DENNIS, Mark ",Full Back,10+1,0,0,1,0,0,1,0,0
+,"FALCO, Mark ",Forward,15+4,5,0,4,2,0,1,0,0
+,"FENWICK, Terry ",Central Defender,22,3,2,0,0,0,4,0,0
+,"FERDINAND, Les ",Forward,1,0,0,0,0,0,0+1,0,0
+,"FEREDAY, Wayne ",Winger,33+4,4,0,4,0,0,2,0,0
+,"FLEMING, Mark ",Full Back,0+2,0,0,0,0,0,0,0,0
+,"FRANCIS, Trevor ",Forward,8+1,0,0,0,0,0,0,0,0
+,"JOHNS, Nicky ",Goalkeeper,7,0,0,3,0,0,1,0,0
+,"KERSLAKE, David ",Full Back,16+2,5,2,0+2,0,0,0+1,0,0
+,"LAW, Brian ",Central Defender,0+1,0,0,0,0,0,0,0,0
+,"MADDIX, Danny ",Central Defender,6+3,0,0,0,0,0,0,0,0
+,"MAGUIRE, Gavin ",Central Defender,13+5,0,0,4,0,0,0,0,0
+,"MCDONALD, Alan ",Central Defender,36,3,0,4,0,0,4,1,0
+,"NEILL, Warren ",Full Back,20+3,0,0,2,1,0,2,0,0
+,"O'NEILL, John ",Central Defender,2,0,0,0,0,0,0,0,0
+,"PARKER, Paul ",Full Back,40,0,0,4,0,0,4,0,0
+,"PEACOCK, Gavin ",Midfielder,0+5,0,0,0,0,0,0,0,0
+,"PIZANTI, David ",Full Back,3+3,0,0,1,1,0,1,0,0
+,"ROBERTS, Tony ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SEAMAN, David ",Goalkeeper,32,0,0,1,0,0,3,0,0

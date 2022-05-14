@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1979/80
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOYLE, Terry 	Central Defender	4+1	0	0	1	1	0	0	0	0
-										
-BRAZIL, Gary 	Forward	0	0	0	0	0	0	0	0	0
-										
-BROOKS, Shaun 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-BURRIDGE, John 	Goalkeeper	36	0	0	3	0	0	3	0	0
-										
-CANNON, Jim 	Central Defender	42	4	1	3	0	0	3	0	0
-										
-FENWICK, Terry 	Central Defender	11+4	0	0	3	1	0	0	0	0
-										
-FINNIGAN, Tony 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-FLANAGAN, Mike 	Forward	36	5	0	1	0	0	3	4	0
-										
-FRANCIS, Gerry 	Midfielder	34	3	2	1	0	0	2	1	0
-										
-FRY, David 	Goalkeeper	6	0	0	0	0	0	0	0	0
-										
-GILBERT, Billy 	Central Defender	40	1	0	3	0	0	3	0	0
-										
-GOLLEY, Mark 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-GOODCHILD, Gary 	Forward	0+1	0	0	0+1	0	0	0	0	0
-										
-HILAIRE, Vince 	Winger	42	5	0	3	1	0	3	1	0
-										
-HINSHELWOOD, Paul 	Full Back	42	2	0	3	1	0	3	0	0
-										
-HORN, Bobby 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-KEMBER, Steve 	Midfielder	10+3	1	0	3	1	0	1	0	0
-										
-MACKENZIE, Steve 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-MUIR, Maurice 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-MURPHY, Jerry 	Midfielder	36+1	3	0	2+1	0	0	3	1	0
-										
-NICHOLAS, Peter 	Midfielder	39	2	0	1	0	0	3	0	0
-										
-SANSOM, Kenny 	Full Back	36	1	0	0	0	0	3	0	0
-										
-SMILLIE, Neil 	Midfielder	5+3	1	0	1	0	0	0	0	0
-										
-SWINDLEHURST, Dave 	Forward	21+4	7	0	2	0	0	3	0	0
-										
-WALSH, Ian 	Forward	22+7	6	0	3	1	0	0+1	2	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOYLE, Terry ",Central Defender,4+1,0,0,1,1,0,0,0,0
+,"BRAZIL, Gary ",Forward,0,0,0,0,0,0,0,0,0
+,"BROOKS, Shaun ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"BURRIDGE, John ",Goalkeeper,36,0,0,3,0,0,3,0,0
+,"CANNON, Jim ",Central Defender,42,4,1,3,0,0,3,0,0
+,"FENWICK, Terry ",Central Defender,11+4,0,0,3,1,0,0,0,0
+,"FINNIGAN, Tony ",Midfielder,0,0,0,0,0,0,0,0,0
+,"FLANAGAN, Mike ",Forward,36,5,0,1,0,0,3,4,0
+,"FRANCIS, Gerry ",Midfielder,34,3,2,1,0,0,2,1,0
+,"FRY, David ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"GILBERT, Billy ",Central Defender,40,1,0,3,0,0,3,0,0
+,"GOLLEY, Mark ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GOODCHILD, Gary ",Forward,0+1,0,0,0+1,0,0,0,0,0
+,"HILAIRE, Vince ",Winger,42,5,0,3,1,0,3,1,0
+,"HINSHELWOOD, Paul ",Full Back,42,2,0,3,1,0,3,0,0
+,"HORN, Bobby ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"KEMBER, Steve ",Midfielder,10+3,1,0,3,1,0,1,0,0
+,"MACKENZIE, Steve ",Midfielder,0,0,0,0,0,0,0,0,0
+,"MUIR, Maurice ",Midfielder,0,0,0,0,0,0,0,0,0
+,"MURPHY, Jerry ",Midfielder,36+1,3,0,2+1,0,0,3,1,0
+,"NICHOLAS, Peter ",Midfielder,39,2,0,1,0,0,3,0,0
+,"SANSOM, Kenny ",Full Back,36,1,0,0,0,0,3,0,0
+,"SMILLIE, Neil ",Midfielder,5+3,1,0,1,0,0,0,0,0
+,"SWINDLEHURST, Dave ",Forward,21+4,7,0,2,0,0,3,0,0
+,"WALSH, Ian ",Forward,22+7,6,0,3,1,0,0+1,2,0

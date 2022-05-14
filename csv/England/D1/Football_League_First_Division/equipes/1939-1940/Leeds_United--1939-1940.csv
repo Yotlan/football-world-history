@@ -1,41 +1,20 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1939/40
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AINSLEY, George 	Centre Forward	0	0	0	0	0	0	2	0	0
-										
-BROWNE, Bobby 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-BUCKLEY, Arthur 	Winger	0	0	0	0	0	0	2	0	0
-										
-COCHRANE, Davy 	Winger	0	0	0	0	0	0	3	0	0
-										
-COPPING, Wilf 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-DUNDERDALE, Len 	Centre Forward	0	0	0	0	0	0	1	0	0
-										
-GADSBY, Ken 	Full Back	0	0	0	0	0	0	3	0	0
-										
-GOLDBERG, Les 	Full Back	0	0	0	0	0	0	2	0	0
-										
-HARGREAVES, Jackie 	Winger	0	0	0	0	0	0	1	0	0
-										
-HODGSON, Gordon 	Inside Forward	0	0	0	0	0	0	1	0	0
-										
-HOLLEY, Tom 	Central Defender	0	0	0	0	0	0	2	0	0
-										
-KANE, Bob 	Central Defender	0	0	0	0	0	0	1	0	0
-										
-MILBURN, Jim 	Full Back	0	0	0	0	0	0	1	0	0
-										
-POWELL, Aubrey 	Inside Forward	0	0	0	0	0	0	2	0	0
-										
-STEPHENSON, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-STEPHENSON, Eric 	Inside Forward	0	0	0	0	0	0	3	0	0
-										
-TWOMEY, Jim 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-WHARTON, Norman 	Goalkeeper	0	0	0	0	0	0	2	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AINSLEY, George ",Centre Forward,0,0,0,0,0,0,2,0,0
+,"BROWNE, Bobby ",Wing Half,0,0,0,0,0,0,3,0,0
+,"BUCKLEY, Arthur ",Winger,0,0,0,0,0,0,2,0,0
+,"COCHRANE, Davy ",Winger,0,0,0,0,0,0,3,0,0
+,"COPPING, Wilf ",Wing Half,0,0,0,0,0,0,3,0,0
+,"DUNDERDALE, Len ",Centre Forward,0,0,0,0,0,0,1,0,0
+,"GADSBY, Ken ",Full Back,0,0,0,0,0,0,3,0,0
+,"GOLDBERG, Les ",Full Back,0,0,0,0,0,0,2,0,0
+,"HARGREAVES, Jackie ",Winger,0,0,0,0,0,0,1,0,0
+,"HODGSON, Gordon ",Inside Forward,0,0,0,0,0,0,1,0,0
+,"HOLLEY, Tom ",Central Defender,0,0,0,0,0,0,2,0,0
+,"KANE, Bob ",Central Defender,0,0,0,0,0,0,1,0,0
+,"MILBURN, Jim ",Full Back,0,0,0,0,0,0,1,0,0
+,"POWELL, Aubrey ",Inside Forward,0,0,0,0,0,0,2,0,0
+,"STEPHENSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"STEPHENSON, Eric ",Inside Forward,0,0,0,0,0,0,3,0,0
+,"TWOMEY, Jim ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"WHARTON, Norman ",Goalkeeper,0,0,0,0,0,0,2,0,0

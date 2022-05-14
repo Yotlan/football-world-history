@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1931/32
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Jimmy 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-BAGLEY, Tommy 	Winger	0	0	0	0	0	0	0	0	0
-										
-BOYES, Wally 	Winger	17	1	0	0	0	0	0	0	0
-										
-CARTER, Joe 	Inside Forward	20	5	0	0	0	0	0	0	0
-										
-COOKSON, Jimmy 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-EDWARDS, Jimmy 	Wing Half	22	2	1	1	0	0	1	0	0
-										
-FINCH, Bob 	Full Back	1	0	0	0	0	0	0	0	0
-										
-FOULKES, Hugh 	Full Back	4	0	0	0	0	0	0	0	0
-										
-GALE, Arthur 	Winger	3	0	0	0	0	0	0	0	0
-										
-GLIDDEN, Tommy 	Winger	42	20	1	1	0	0	1	0	0
-										
-HORROCKS, Stan 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MAGEE, Tommy 	Wing Half	22	0	0	0	0	0	1	0	0
-										
-MORRIS, Billy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-MURPHY, Jimmy 	Wing Half	27	0	0	1	0	0	0	0	0
-										
-PEARSON, Harold 	Goalkeeper	41	0	0	1	0	0	1	0	0
-										
-PERRY, Eric 	Full Back	0	0	0	0	0	0	0	0	0
-										
-POSTIN, Eli 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-RAW, Harry 	Inside Forward	18	4	0	1	0	0	1	0	0
-										
-RICHARDSON, Bill 	Central Defender	41	0	0	1	0	0	1	0	0
-										
-RICHARDSON, Billy 'Ginger' 	Centre Forward	40	27	0	1	1	0	1	0	0
-										
-RIX, Jack 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-ROBBINS, Walter 	Winger	1	0	0	0	0	0	0	0	0
-										
-SANDFORD, Teddy 	Inside Forward	40	8	0	1	0	0	1	0	0
-										
-SHAW, George 	Full Back	41	1	1	1	0	0	1	0	0
-										
-SMITH, Wilfred 	Full Back	0	0	0	0	0	0	0	0	0
-										
-TRENTHAM, Bert 	Full Back	37	0	0	1	0	0	1	0	0
-										
-TREVIS, Bos 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-WOOD, Stan 	Winger	40	7	0	1	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Jimmy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BAGLEY, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"BOYES, Wally ",Winger,17,1,0,0,0,0,0,0,0
+,"CARTER, Joe ",Inside Forward,20,5,0,0,0,0,0,0,0
+,"COOKSON, Jimmy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"EDWARDS, Jimmy ",Wing Half,22,2,1,1,0,0,1,0,0
+,"FINCH, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"FOULKES, Hugh ",Full Back,4,0,0,0,0,0,0,0,0
+,"GALE, Arthur ",Winger,3,0,0,0,0,0,0,0,0
+,"GLIDDEN, Tommy ",Winger,42,20,1,1,0,0,1,0,0
+,"HORROCKS, Stan ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,22,0,0,0,0,0,1,0,0
+,"MORRIS, Billy ",Full Back,0,0,0,0,0,0,0,0,0
+,"MURPHY, Jimmy ",Wing Half,27,0,0,1,0,0,0,0,0
+,"PEARSON, Harold ",Goalkeeper,41,0,0,1,0,0,1,0,0
+,"PERRY, Eric ",Full Back,0,0,0,0,0,0,0,0,0
+,"POSTIN, Eli ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RAW, Harry ",Inside Forward,18,4,0,1,0,0,1,0,0
+,"RICHARDSON, Bill ",Central Defender,41,0,0,1,0,0,1,0,0
+,"RICHARDSON, Billy 'Ginger' ",Centre Forward,40,27,0,1,1,0,1,0,0
+,"RIX, Jack ",Wing Half,3,0,0,0,0,0,0,0,0
+,"ROBBINS, Walter ",Winger,1,0,0,0,0,0,0,0,0
+,"SANDFORD, Teddy ",Inside Forward,40,8,0,1,0,0,1,0,0
+,"SHAW, George ",Full Back,41,1,1,1,0,0,1,0,0
+,"SMITH, Wilfred ",Full Back,0,0,0,0,0,0,0,0,0
+,"TRENTHAM, Bert ",Full Back,37,0,0,1,0,0,1,0,0
+,"TREVIS, Bos ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WOOD, Stan ",Winger,40,7,0,1,0,0,1,0,0

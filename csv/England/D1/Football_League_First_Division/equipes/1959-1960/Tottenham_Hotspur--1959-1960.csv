@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1959/60
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Les 	Forward	15	7	0	4	8	0	0	0	0
-										
-BAKER, Peter 	Full Back	41	0	0	3	0	0	0	0	0
-										
-BLANCHFLOWER, Danny 	Wing Half	40	2	0	4	1	0	0	0	0
-										
-BROOKS, Johnny 	Inside Forward	4	2	0	0	0	0	0	0	0
-										
-BROWN, Bill 	Goalkeeper	40	0	0	4	0	0	0	0	0
-										
-CLAYTON, Eddie 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-DODGE, Bill 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-DUNMORE, Dave 	Centre Forward	10	2	0	0	0	0	0	0	0
-										
-DYSON, Terry 	Winger	6	0	0	0	0	0	0	0	0
-										
-HARMER, Tommy 	Inside Forward	37	3	0	4	1	0	0	0	0
-										
-HENRY, Ron 	Full Back	25	0	0	4	0	0	0	0	0
-										
-HILLS, Johnny 	Full Back	1	0	0	1	0	0	0	0	0
-										
-HOLLOWBREAD, John 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HOPKINS, Mel 	Full Back	14	0	0	0	0	0	0	0	0
-										
-JONES, Cliff 	Winger	38	20	3	4	5	1	0	0	0
-										
-MACKAY, Dave 	Wing Half	38	11	0	3	0	0	0	0	0
-										
-MARCHI, Tony 	Wing Half	14	1	0	1	0	0	0	0	0
-										
-MEDWIN, Terry 	Winger	26	4	0	0	0	0	0	0	0
-										
-NORMAN, Maurice 	Central Defender	39	1	0	4	0	0	0	0	0
-										
-SMITH, John 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-SMITH, Bobby 	Centre Forward	40	25	0	4	5	0	0	0	0
-										
-WHITE, John 	Inside Forward	28	5	0	4	0	0	0	0	0
-										
-WORLEY, Len 	Winger	1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Les ",Forward,15,7,0,4,8,0,0,0,0
+,"BAKER, Peter ",Full Back,41,0,0,3,0,0,0,0,0
+,"BLANCHFLOWER, Danny ",Wing Half,40,2,0,4,1,0,0,0,0
+,"BROOKS, Johnny ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"BROWN, Bill ",Goalkeeper,40,0,0,4,0,0,0,0,0
+,"CLAYTON, Eddie ",Midfielder,1,0,0,0,0,0,0,0,0
+,"DODGE, Bill ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DUNMORE, Dave ",Centre Forward,10,2,0,0,0,0,0,0,0
+,"DYSON, Terry ",Winger,6,0,0,0,0,0,0,0,0
+,"HARMER, Tommy ",Inside Forward,37,3,0,4,1,0,0,0,0
+,"HENRY, Ron ",Full Back,25,0,0,4,0,0,0,0,0
+,"HILLS, Johnny ",Full Back,1,0,0,1,0,0,0,0,0
+,"HOLLOWBREAD, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HOPKINS, Mel ",Full Back,14,0,0,0,0,0,0,0,0
+,"JONES, Cliff ",Winger,38,20,3,4,5,1,0,0,0
+,"MACKAY, Dave ",Wing Half,38,11,0,3,0,0,0,0,0
+,"MARCHI, Tony ",Wing Half,14,1,0,1,0,0,0,0,0
+,"MEDWIN, Terry ",Winger,26,4,0,0,0,0,0,0,0
+,"NORMAN, Maurice ",Central Defender,39,1,0,4,0,0,0,0,0
+,"SMITH, John ",Midfielder,1,0,0,0,0,0,0,0,0
+,"SMITH, Bobby ",Centre Forward,40,25,0,4,5,0,0,0,0
+,"WHITE, John ",Inside Forward,28,5,0,4,0,0,0,0,0
+,"WORLEY, Len ",Winger,1,0,0,0,0,0,0,0,0

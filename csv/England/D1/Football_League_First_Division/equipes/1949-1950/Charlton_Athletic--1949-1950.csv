@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLISON, Malcolm 	Central Defender	2	0	0	0	0	0	0	0	0
-										
-BARTRAM, Sam 	Goalkeeper	42	0	0	4	0	0	0	0	0
-										
-BROWN, Tommy 	Wing Half	14	0	0	1	0	0	0	0	0
-										
-CAMPBELL, Jock 	Full Back	22	0	0	2	0	0	0	0	0
-										
-CROKER, Peter 	Full Back	15	0	0	2	0	0	0	0	0
-										
-CULLUM, Riley 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-D'ARCY, Jimmy 	Inside Forward	6	1	0	2	1	0	0	0	0
-										
-DUFFY, Chris 	Winger	2	1	0	0	0	0	0	0	0
-										
-ENGLEFIELD, Grahame 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-FELL, Les 	Winger	5	0	0	0	0	0	0	0	0
-										
-FENTON, Benny 	Wing Half	16	0	0	1	0	0	0	0	0
-										
-FORBES, Dudley 	Wing Half	29	0	0	1	0	0	0	0	0
-										
-HARROP, Jack 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HURST, Gordon 	Winger	34	4	0	4	2	0	0	0	0
-										
-JOHNSON, Bert 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-KIERNAN, Billy 	Winger	26	5	0	4	0	0	0	0	0
-										
-LOCK, Frank 	Full Back	25	0	0	1	0	0	0	0	0
-										
-LUMLEY, Tommy 	Inside Forward	14	4	0	0	0	0	0	0	0
-										
-NIELSON, Norman 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-O'LINN, Syd 	Inside Forward	37	8	1	4	0	0	0	0	0
-										
-PARKES, Alan 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-PHIPPS, Harold 	Central Defender	38	1	0	3	0	0	0	0	0
-										
-POUNDER, Albert 	Winger	0	0	0	0	0	0	0	0	0
-										
-PURVES, Charlie 	Inside Forward	19	2	0	1	0	0	0	0	0
-										
-REVELL, Charlie 	Wing Half	27	7	1	2	0	0	0	0	0
-										
-SHREEVE, Jack 	Full Back	20	0	0	3	0	0	0	0	0
-										
-UFTON, Derek 	Central Defender	16	0	0	4	0	0	0	0	0
-										
-VAUGHAN, Charlie 	Centre Forward	40	19	0	4	2	0	0	0	0
-										
-WALLS, Jimmy 	Central Defender	2	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLISON, Malcolm ",Central Defender,2,0,0,0,0,0,0,0,0
+,"BARTRAM, Sam ",Goalkeeper,42,0,0,4,0,0,0,0,0
+,"BROWN, Tommy ",Wing Half,14,0,0,1,0,0,0,0,0
+,"CAMPBELL, Jock ",Full Back,22,0,0,2,0,0,0,0,0
+,"CROKER, Peter ",Full Back,15,0,0,2,0,0,0,0,0
+,"CULLUM, Riley ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"D'ARCY, Jimmy ",Inside Forward,6,1,0,2,1,0,0,0,0
+,"DUFFY, Chris ",Winger,2,1,0,0,0,0,0,0,0
+,"ENGLEFIELD, Grahame ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FELL, Les ",Winger,5,0,0,0,0,0,0,0,0
+,"FENTON, Benny ",Wing Half,16,0,0,1,0,0,0,0,0
+,"FORBES, Dudley ",Wing Half,29,0,0,1,0,0,0,0,0
+,"HARROP, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"HURST, Gordon ",Winger,34,4,0,4,2,0,0,0,0
+,"JOHNSON, Bert ",Wing Half,4,0,0,0,0,0,0,0,0
+,"KIERNAN, Billy ",Winger,26,5,0,4,0,0,0,0,0
+,"LOCK, Frank ",Full Back,25,0,0,1,0,0,0,0,0
+,"LUMLEY, Tommy ",Inside Forward,14,4,0,0,0,0,0,0,0
+,"NIELSON, Norman ",Central Defender,1,0,0,0,0,0,0,0,0
+,"O'LINN, Syd ",Inside Forward,37,8,1,4,0,0,0,0,0
+,"PARKES, Alan ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PHIPPS, Harold ",Central Defender,38,1,0,3,0,0,0,0,0
+,"POUNDER, Albert ",Winger,0,0,0,0,0,0,0,0,0
+,"PURVES, Charlie ",Inside Forward,19,2,0,1,0,0,0,0,0
+,"REVELL, Charlie ",Wing Half,27,7,1,2,0,0,0,0,0
+,"SHREEVE, Jack ",Full Back,20,0,0,3,0,0,0,0,0
+,"UFTON, Derek ",Central Defender,16,0,0,4,0,0,0,0,0
+,"VAUGHAN, Charlie ",Centre Forward,40,19,0,4,2,0,0,0,0
+,"WALLS, Jimmy ",Central Defender,2,0,0,1,0,0,0,0,0

@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1957/58
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIGGS, Tony 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-BLOOMFIELD, Jimmy 	Midfielder	40	16	0	1	0	0	0	0	0
-										
-BOWEN, David 	Wing Half	30	0	0	1	0	0	0	0	0
-										
-CHARLTON, Stan 	Full Back	36	0	0	0	0	0	0	0	0
-										
-CLAPTON, Danny 	Winger	28	5	0	1	1	0	0	0	0
-										
-CLAYTON, Ronnie 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-DAVIES, Peter 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-DIXON, Bobby 	Winger	0	0	0	0	0	0	0	0	0
-										
-DODGIN, Bill 	Central Defender	23	0	0	1	0	0	0	0	0
-										
-DODSON, Dave 	Winger	0	0	0	0	0	0	0	0	0
-										
-EVANS, Dennis 	Full Back	32	0	0	1	0	0	0	0	0
-										
-FOTHERINGHAM, Jim 	Central Defender	19	0	0	0	0	0	0	0	0
-										
-GORING, Peter 	Wing Half	10	0	0	0	0	0	0	0	0
-										
-GROVES, Vic 	Wing Half	30	10	0	1	0	0	0	0	0
-										
-HAVERTY, Joe 	Winger	15	0	0	0	0	0	0	0	0
-										
-HERD, David 	Forward	39	24	1	1	0	0	0	0	0
-										
-HOLTON, Cliff 	Forward	26	4	0	1	0	0	0	0	0
-										
-JONES, Freddie 	Winger	0	0	0	0	0	0	0	0	0
-										
-KELSEY, Jack 	Goalkeeper	38	0	0	1	0	0	0	0	0
-										
-LE ROUX, Daniel 	Winger	5	0	0	0	0	0	0	0	0
-										
-NUTT, Gordon 	Winger	21	3	0	1	0	0	0	0	0
-										
-PETTS, John 	Midfielder	9	0	0	0	0	0	0	0	0
-										
-PINNER, Mike 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-SANCHEZ, Johnny 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-STANDEN, Jim 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SULLIVAN, Con 	Goalkeeper	3	0	0	0	0	0	0	0	0
-										
-SWALLOW, Ray 	Winger	7	3	0	0	0	0	0	0	0
-										
-TAPSCOTT, Derek 	Inside Forward	8	2	0	0	0	0	0	0	0
-										
-TIDDY, Mike 	Winger	12	2	0	0	0	0	0	0	0
-										
-WARD, Gerry 	Wing Half	10	0	0	0	0	0	0	0	0
-										
-WILLS, Len 	Full Back	18	1	1	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIGGS, Tony ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BLOOMFIELD, Jimmy ",Midfielder,40,16,0,1,0,0,0,0,0
+,"BOWEN, David ",Wing Half,30,0,0,1,0,0,0,0,0
+,"CHARLTON, Stan ",Full Back,36,0,0,0,0,0,0,0,0
+,"CLAPTON, Danny ",Winger,28,5,0,1,1,0,0,0,0
+,"CLAYTON, Ronnie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DAVIES, Peter ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DIXON, Bobby ",Winger,0,0,0,0,0,0,0,0,0
+,"DODGIN, Bill ",Central Defender,23,0,0,1,0,0,0,0,0
+,"DODSON, Dave ",Winger,0,0,0,0,0,0,0,0,0
+,"EVANS, Dennis ",Full Back,32,0,0,1,0,0,0,0,0
+,"FOTHERINGHAM, Jim ",Central Defender,19,0,0,0,0,0,0,0,0
+,"GORING, Peter ",Wing Half,10,0,0,0,0,0,0,0,0
+,"GROVES, Vic ",Wing Half,30,10,0,1,0,0,0,0,0
+,"HAVERTY, Joe ",Winger,15,0,0,0,0,0,0,0,0
+,"HERD, David ",Forward,39,24,1,1,0,0,0,0,0
+,"HOLTON, Cliff ",Forward,26,4,0,1,0,0,0,0,0
+,"JONES, Freddie ",Winger,0,0,0,0,0,0,0,0,0
+,"KELSEY, Jack ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"LE ROUX, Daniel ",Winger,5,0,0,0,0,0,0,0,0
+,"NUTT, Gordon ",Winger,21,3,0,1,0,0,0,0,0
+,"PETTS, John ",Midfielder,9,0,0,0,0,0,0,0,0
+,"PINNER, Mike ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SANCHEZ, Johnny ",Wing Half,0,0,0,0,0,0,0,0,0
+,"STANDEN, Jim ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SULLIVAN, Con ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"SWALLOW, Ray ",Winger,7,3,0,0,0,0,0,0,0
+,"TAPSCOTT, Derek ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"TIDDY, Mike ",Winger,12,2,0,0,0,0,0,0,0
+,"WARD, Gerry ",Wing Half,10,0,0,0,0,0,0,0,0
+,"WILLS, Len ",Full Back,18,1,1,1,0,0,0,0,0

@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1963/64
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRON, Jim 	Goalkeeper	7	0	0	0	0	0	0	0	0
-										
-BARTON, Roger 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-BROADBENT, Peter 	Midfielder	32	4	1	1	0	0	0	0	0
-										
-CALLOWAY, Laurie 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CLEMENTS, Dave 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-CRAWFORD, Ray 	Forward	34	26	0	1	0	0	0	0	0
-										
-CROWE, Chris 	Midfielder	32	6	0	1	0	0	0	0	0
-										
-DAVIES, Fred 	Goalkeeper	34	0	0	1	0	0	0	0	0
-										
-FARMER, Ted 	Centre Forward	6	2	0	0	0	0	0	0	0
-										
-FINLAYSON, Malcolm 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-FLOWERS, Ron 	Central Defender	40	3	0	1	0	0	0	0	0
-										
-GOODWIN, Freddie 	Midfielder	21	0	0	1	0	0	0	0	0
-										
-HARRIS, Gerry 	Full Back	7	0	0	0	0	0	0	0	0
-										
-HINTON, Alan 	Winger	21	5	0	1	0	0	0	0	0
-										
-KIRKHAM, Johnny 	Midfielder	15	1	0	1	0	0	0	0	0
-										
-KNOWLES, Peter 	Forward	14	4	0	0	0	0	0	0	0
-										
-LE FLEM, Dick 	Winger	13	4	0	0	0	0	0	0	0
-										
-MELIA, Jimmy 	Midfielder	9	4	0	0	0	0	0	0	0
-										
-MURRAY, Jimmy 	Forward	8	1	0	0	0	0	0	0	0
-										
-SHOWELL, George 	Full Back	36	0	0	1	0	0	0	0	0
-										
-STOBART, Barry 	Forward	7	1	0	0	0	0	0	0	0
-										
-THOMPSON, David 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-THOMSON, Bobby 	Full Back	42	0	0	1	0	0	0	0	0
-										
-WHARTON, Terry 	Winger	38	9	0	1	1	0	0	0	0
-										
-WOODFIELD, David 	Central Defender	35	0	0	0	0	0	0	0	0
-										
-WOODRUFF, Bobby 	Midfielder	10	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRON, Jim ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"BARTON, Roger ",Midfielder,0,0,0,0,0,0,0,0,0
+,"BROADBENT, Peter ",Midfielder,32,4,1,1,0,0,0,0,0
+,"CALLOWAY, Laurie ",Full Back,0,0,0,0,0,0,0,0,0
+,"CLEMENTS, Dave ",Midfielder,0,0,0,0,0,0,0,0,0
+,"CRAWFORD, Ray ",Forward,34,26,0,1,0,0,0,0,0
+,"CROWE, Chris ",Midfielder,32,6,0,1,0,0,0,0,0
+,"DAVIES, Fred ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"FARMER, Ted ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"FINLAYSON, Malcolm ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"FLOWERS, Ron ",Central Defender,40,3,0,1,0,0,0,0,0
+,"GOODWIN, Freddie ",Midfielder,21,0,0,1,0,0,0,0,0
+,"HARRIS, Gerry ",Full Back,7,0,0,0,0,0,0,0,0
+,"HINTON, Alan ",Winger,21,5,0,1,0,0,0,0,0
+,"KIRKHAM, Johnny ",Midfielder,15,1,0,1,0,0,0,0,0
+,"KNOWLES, Peter ",Forward,14,4,0,0,0,0,0,0,0
+,"LE FLEM, Dick ",Winger,13,4,0,0,0,0,0,0,0
+,"MELIA, Jimmy ",Midfielder,9,4,0,0,0,0,0,0,0
+,"MURRAY, Jimmy ",Forward,8,1,0,0,0,0,0,0,0
+,"SHOWELL, George ",Full Back,36,0,0,1,0,0,0,0,0
+,"STOBART, Barry ",Forward,7,1,0,0,0,0,0,0,0
+,"THOMPSON, David ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMSON, Bobby ",Full Back,42,0,0,1,0,0,0,0,0
+,"WHARTON, Terry ",Winger,38,9,0,1,1,0,0,0,0
+,"WOODFIELD, David ",Central Defender,35,0,0,0,0,0,0,0,0
+,"WOODRUFF, Bobby ",Midfielder,10,0,0,0,0,0,0,0,0

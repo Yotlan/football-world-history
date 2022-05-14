@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1960/61
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIMPSON, Louis 	Centre Forward	6	3	0	0	0	0	0	0	0
-										
-BRAY, John 	Full Back	27	1	0	5	0	0	4	0	0
-										
-CHRISTIE, Les 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-CLAYTON, Ronnie 	Midfielder	41	0	0	5	0	0	5	0	0
-										
-CROWE, Chris 	Midfielder	30	4	0	5	1	0	3	4	0
-										
-DALY, Paddy 	Winger	2	0	0	0	0	0	1	0	0
-										
-DOBING, Peter 	Midfielder	40	18	5	5	4	0	4	0	0
-										
-DOUGAN, Derek 	Forward	22	11	0	5	1	0	3	4	0
-										
-DOUGLAS, Bryan 	Winger	35	7	0	4	3	0	3	0	0
-										
-ECKERSLEY, Bill 	Full Back	4	0	0	0	0	0	0	0	0
-										
-ENGLAND, Mike 	Central Defender	13	0	0	0	0	0	1	0	0
-										
-ISHERWOOD, Roy 	Winger	9	3	0	1	0	0	5	0	0
-										
-JONES, Bobby 	Goalkeeper	20	0	0	0	0	0	1	0	0
-										
-LEYLAND, Harry 	Goalkeeper	11	0	0	0	0	0	4	0	0
-										
-MACLEOD, Ally 	Winger	35	11	0	5	2	0	2	0	0
-										
-MCEVOY, Andy 	Inside Forward	28	2	0	5	0	0	4	0	0
-										
-MCGRATH, Mick 	Wing Half	12	1	0	0	0	0	0	0	0
-										
-NEWTON, Keith 	Full Back	8	0	0	0	0	0	1	0	0
-										
-PICKERING, Fred 	Forward	21	7	0	0	0	0	2	0	0
-										
-RATCLIFFE, Barrie 	Winger	0	0	0	0	0	0	1	0	0
-										
-REEVES, Brian 	Goalkeeper	11	0	0	5	0	0	0	0	0
-										
-TAYLOR, Ken 	Full Back	24	0	0	5	0	0	4	0	0
-										
-THOMAS, Eddie 	Inside Forward	21	8	0	0	0	0	2	1	0
-										
-WOODS, Matt 	Central Defender	42	1	0	5	0	0	5	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIMPSON, Louis ",Centre Forward,6,3,0,0,0,0,0,0,0
+,"BRAY, John ",Full Back,27,1,0,5,0,0,4,0,0
+,"CHRISTIE, Les ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CLAYTON, Ronnie ",Midfielder,41,0,0,5,0,0,5,0,0
+,"CROWE, Chris ",Midfielder,30,4,0,5,1,0,3,4,0
+,"DALY, Paddy ",Winger,2,0,0,0,0,0,1,0,0
+,"DOBING, Peter ",Midfielder,40,18,5,5,4,0,4,0,0
+,"DOUGAN, Derek ",Forward,22,11,0,5,1,0,3,4,0
+,"DOUGLAS, Bryan ",Winger,35,7,0,4,3,0,3,0,0
+,"ECKERSLEY, Bill ",Full Back,4,0,0,0,0,0,0,0,0
+,"ENGLAND, Mike ",Central Defender,13,0,0,0,0,0,1,0,0
+,"ISHERWOOD, Roy ",Winger,9,3,0,1,0,0,5,0,0
+,"JONES, Bobby ",Goalkeeper,20,0,0,0,0,0,1,0,0
+,"LEYLAND, Harry ",Goalkeeper,11,0,0,0,0,0,4,0,0
+,"MACLEOD, Ally ",Winger,35,11,0,5,2,0,2,0,0
+,"MCEVOY, Andy ",Inside Forward,28,2,0,5,0,0,4,0,0
+,"MCGRATH, Mick ",Wing Half,12,1,0,0,0,0,0,0,0
+,"NEWTON, Keith ",Full Back,8,0,0,0,0,0,1,0,0
+,"PICKERING, Fred ",Forward,21,7,0,0,0,0,2,0,0
+,"RATCLIFFE, Barrie ",Winger,0,0,0,0,0,0,1,0,0
+,"REEVES, Brian ",Goalkeeper,11,0,0,5,0,0,0,0,0
+,"TAYLOR, Ken ",Full Back,24,0,0,5,0,0,4,0,0
+,"THOMAS, Eddie ",Inside Forward,21,8,0,0,0,0,2,1,0
+,"WOODS, Matt ",Central Defender,42,1,0,5,0,0,5,0,0

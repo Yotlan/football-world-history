@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1957/58
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, George 	Wing Half	32	0	0	0	0	0	0	0	0
-										
-ANDERSON, Stan 	Wing Half	39	1	0	2	0	0	0	0	0
-										
-BINGHAM, Billy 	Winger	30	4	0	2	1	0	0	0	0
-										
-BOLLANDS, John 	Goalkeeper	8	0	0	0	0	0	0	0	0
-										
-CHILTON, Fred 	Full Back	1	0	0	0	0	0	0	0	0
-										
-ELLIOTT, Billy 	Winger	42	2	2	2	0	0	0	0	0
-										
-FLEMING, Charlie 	Centre Forward	15	3	1	2	1	0	0	0	0
-										
-FOGARTY, Amby 	Inside Forward	24	3	0	2	1	0	0	0	0
-										
-FRASER, Willie 	Goalkeeper	33	0	0	2	0	0	0	0	0
-										
-GODBOLD, Harry 	Winger	5	1	0	1	0	0	0	0	0
-										
-GOODCHILD, Johnny 	Winger	7	2	0	0	0	0	0	0	0
-										
-GRAHAM, Allan 	Full Back	3	0	0	0	0	0	0	0	0
-										
-GRAINGER, Colin 	Winger	30	4	0	1	0	0	0	0	0
-										
-HANNIGAN, Johnny 	Winger	4	1	0	0	0	0	0	0	0
-										
-HEDLEY, Jack 	Full Back	35	0	0	0	0	0	0	0	0
-										
-HURLEY, Charlie 	Central Defender	22	0	0	2	0	0	0	0	0
-										
-KICHENBRAND, Don 	Centre Forward	10	6	0	0	0	0	0	0	0
-										
-LYSKE, Jimmy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-MALTBY, Jack 	Inside Forward	6	1	0	0	0	0	0	0	0
-										
-MCDONALD, Joe 	Full Back	19	0	0	2	0	0	0	0	0
-										
-O'NEILL, Alan 	Inside Forward	32	13	0	0	0	0	0	0	0
-										
-ORD, Ken 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-PEARCE, Reg 	Wing Half	12	0	0	0	0	0	0	0	0
-										
-REED, Graham 	Wing Half	5	0	0	2	0	0	0	0	0
-										
-REVIE, Don 	Inside Forward	39	12	0	2	0	0	0	0	0
-										
-ROUTLEDGE, Ron 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SHACKLETON, Len 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-SPENCE, Alan 	Forward	5	1	0	0	0	0	0	0	0
-										
-WARDLE, Geoff 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-WHITELAW, George 	Centre Forward	2	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, George ",Wing Half,32,0,0,0,0,0,0,0,0
+,"ANDERSON, Stan ",Wing Half,39,1,0,2,0,0,0,0,0
+,"BINGHAM, Billy ",Winger,30,4,0,2,1,0,0,0,0
+,"BOLLANDS, John ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"CHILTON, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"ELLIOTT, Billy ",Winger,42,2,2,2,0,0,0,0,0
+,"FLEMING, Charlie ",Centre Forward,15,3,1,2,1,0,0,0,0
+,"FOGARTY, Amby ",Inside Forward,24,3,0,2,1,0,0,0,0
+,"FRASER, Willie ",Goalkeeper,33,0,0,2,0,0,0,0,0
+,"GODBOLD, Harry ",Winger,5,1,0,1,0,0,0,0,0
+,"GOODCHILD, Johnny ",Winger,7,2,0,0,0,0,0,0,0
+,"GRAHAM, Allan ",Full Back,3,0,0,0,0,0,0,0,0
+,"GRAINGER, Colin ",Winger,30,4,0,1,0,0,0,0,0
+,"HANNIGAN, Johnny ",Winger,4,1,0,0,0,0,0,0,0
+,"HEDLEY, Jack ",Full Back,35,0,0,0,0,0,0,0,0
+,"HURLEY, Charlie ",Central Defender,22,0,0,2,0,0,0,0,0
+,"KICHENBRAND, Don ",Centre Forward,10,6,0,0,0,0,0,0,0
+,"LYSKE, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"MALTBY, Jack ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"MCDONALD, Joe ",Full Back,19,0,0,2,0,0,0,0,0
+,"O'NEILL, Alan ",Inside Forward,32,13,0,0,0,0,0,0,0
+,"ORD, Ken ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PEARCE, Reg ",Wing Half,12,0,0,0,0,0,0,0,0
+,"REED, Graham ",Wing Half,5,0,0,2,0,0,0,0,0
+,"REVIE, Don ",Inside Forward,39,12,0,2,0,0,0,0,0
+,"ROUTLEDGE, Ron ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SHACKLETON, Len ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SPENCE, Alan ",Forward,5,1,0,0,0,0,0,0,0
+,"WARDLE, Geoff ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WHITELAW, George ",Centre Forward,2,0,0,0,0,0,0,0,0

@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1947/48
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACK, Andy 	Inside Forward	37	16	0	3	1	0	0	0	0
-										
-CAPEL, Tommy 	Inside Forward	4	1	0	0	0	0	0	0	0
-										
-CLARKE, Roy 	Winger	36	5	0	0	0	0	0	0	0
-										
-EMPTAGE, Albert 	Wing Half	39	0	0	3	0	0	0	0	0
-										
-FAGAN, Joe 	Central Defender	42	1	0	3	0	0	0	0	0
-										
-GARBUTT, Ray 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-HART, Johnny 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-HERD, Alex 	Inside Forward	4	1	0	0	0	0	0	0	0
-										
-JACKSON, Harry 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-LINACRE, Billy 	Winger	27	4	0	3	1	0	0	0	0
-										
-MCDOWALL, Les 	Central Defender	16	0	0	0	0	0	0	0	0
-										
-MCMORRAN, Eddie 	Inside Forward	29	10	0	3	0	0	0	0	0
-										
-MUNRO, Jimmy 	Winger	5	0	0	0	0	0	0	0	0
-										
-MURRAY, Billy 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-OXFORD, Ken 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SMITH, George 	Inside Forward	39	13	0	3	2	0	0	0	0
-										
-SPROSTON, Bert 	Full Back	37	0	0	3	0	0	0	0	0
-										
-SWIFT, Frank 	Goalkeeper	33	0	0	3	0	0	0	0	0
-										
-THURLOW, Alec 	Goalkeeper	8	0	0	0	0	0	0	0	0
-										
-WALSH, Billy 	Wing Half	30	0	0	3	0	0	0	0	0
-										
-WESTWOOD, Eric 	Full Back	42	0	0	3	0	0	0	0	0
-										
-WHARTON, Jackie 	Winger	20	1	0	3	0	0	0	0	0
-										
-WILLIAMS, Eric 	Full Back	5	0	0	0	0	0	0	0	0
-										
-WILSON, David 	Winger	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACK, Andy ",Inside Forward,37,16,0,3,1,0,0,0,0
+,"CAPEL, Tommy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"CLARKE, Roy ",Winger,36,5,0,0,0,0,0,0,0
+,"EMPTAGE, Albert ",Wing Half,39,0,0,3,0,0,0,0,0
+,"FAGAN, Joe ",Central Defender,42,1,0,3,0,0,0,0,0
+,"GARBUTT, Ray ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HART, Johnny ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HERD, Alex ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"JACKSON, Harry ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LINACRE, Billy ",Winger,27,4,0,3,1,0,0,0,0
+,"MCDOWALL, Les ",Central Defender,16,0,0,0,0,0,0,0,0
+,"MCMORRAN, Eddie ",Inside Forward,29,10,0,3,0,0,0,0,0
+,"MUNRO, Jimmy ",Winger,5,0,0,0,0,0,0,0,0
+,"MURRAY, Billy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"OXFORD, Ken ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SMITH, George ",Inside Forward,39,13,0,3,2,0,0,0,0
+,"SPROSTON, Bert ",Full Back,37,0,0,3,0,0,0,0,0
+,"SWIFT, Frank ",Goalkeeper,33,0,0,3,0,0,0,0,0
+,"THURLOW, Alec ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"WALSH, Billy ",Wing Half,30,0,0,3,0,0,0,0,0
+,"WESTWOOD, Eric ",Full Back,42,0,0,3,0,0,0,0,0
+,"WHARTON, Jackie ",Winger,20,1,0,3,0,0,0,0,0
+,"WILLIAMS, Eric ",Full Back,5,0,0,0,0,0,0,0,0
+,"WILSON, David ",Winger,0,0,0,0,0,0,0,0,0

@@ -1,37 +1,18 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1939/40
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jimmy 	Central Defender	0	0	0	0	0	0	3	0	0
-										
-ARMSTRONG, Matthew 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-BROOME, Frank 	Winger	0	0	0	0	0	0	3	0	0
-										
-CALLAGHAN, Ernie 	Full Back	0	0	0	0	0	0	3	0	0
-										
-CAREY, William 	Goalkeeper	0	0	0	0	0	0	1	0	0
-										
-CUMMINGS, George 	Full Back	0	0	0	0	0	0	3	1	0
-										
-EDWARDS, George 	Winger	0	0	0	0	0	0	3	1	0
-										
-GOSS, Fred 	Winger	0	0	0	0	0	0	0	0	0
-										
-HAYCOCK, Freddie 	Inside Forward	0	0	0	0	0	0	1	0	0
-										
-IVERSON, Bob 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-MARTIN, Jackie 	Inside Forward	0	0	0	0	0	0	3	1	0
-										
-MASSIE, Alex 	Wing Half	0	0	0	0	0	0	3	0	0
-										
-MEE, George 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-O'DONNELL, Frank 	Centre Forward	0	0	0	0	0	0	3	0	0
-										
-RUTHERFORD, Joe 	Goalkeeper	0	0	0	0	0	0	2	0	0
-										
-STARLING, Ronnie 	Inside Forward	0	0	0	0	0	0	2	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jimmy ",Central Defender,0,0,0,0,0,0,3,0,0
+,"ARMSTRONG, Matthew ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BROOME, Frank ",Winger,0,0,0,0,0,0,3,0,0
+,"CALLAGHAN, Ernie ",Full Back,0,0,0,0,0,0,3,0,0
+,"CAREY, William ",Goalkeeper,0,0,0,0,0,0,1,0,0
+,"CUMMINGS, George ",Full Back,0,0,0,0,0,0,3,1,0
+,"EDWARDS, George ",Winger,0,0,0,0,0,0,3,1,0
+,"GOSS, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"HAYCOCK, Freddie ",Inside Forward,0,0,0,0,0,0,1,0,0
+,"IVERSON, Bob ",Wing Half,0,0,0,0,0,0,3,0,0
+,"MARTIN, Jackie ",Inside Forward,0,0,0,0,0,0,3,1,0
+,"MASSIE, Alex ",Wing Half,0,0,0,0,0,0,3,0,0
+,"MEE, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"O'DONNELL, Frank ",Centre Forward,0,0,0,0,0,0,3,0,0
+,"RUTHERFORD, Joe ",Goalkeeper,0,0,0,0,0,0,2,0,0
+,"STARLING, Ronnie ",Inside Forward,0,0,0,0,0,0,2,0,0

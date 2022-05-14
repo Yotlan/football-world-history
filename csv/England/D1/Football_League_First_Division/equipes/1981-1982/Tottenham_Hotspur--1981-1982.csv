@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1981/82
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALEKSIC, Milija 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-ARCHIBALD, Steve 	Forward	26+1	6	0	4+1	1	0	13	2	0
-										
-ARDILES, Ossie 	Midfielder	26	2	0	5	0	0	15	2	0
-										
-BROOKE, Garry 	Midfielder	12+4	4	1	0+2	0	0	0	0	0
-										
-CLEMENCE, Ray 	Goalkeeper	38	0	0	7	0	0	17	0	0
-										
-CORBETT, Pat 	Central Defender	3+1	1	0	0	0	0	0	0	0
-										
-CROOK, Ian 	Midfielder	3+1	0	0	0	0	0	0	0	0
-										
-CROOKS, Garth 	Forward	27	13	0	7	3	0	12	2	0
-										
-DICK, Ally 	Winger	1	0	0	0	0	0	0	0	0
-										
-FALCO, Mark 	Forward	21	5	0	3	1	0	8+2	5	0
-										
-GALVIN, Tony 	Winger	32	3	0	7	0	0	17	1	0
-										
-GIBSON, Terry 	Forward	1	0	0	0	0	0	0	0	0
-										
-HAZARD, Micky 	Midfielder	26+2	5	0	4+1	1	0	11+1	4	0
-										
-HODDLE, Glenn 	Midfielder	34	10	5	7	3	1	17	2	0
-										
-HUGHTON, Chris 	Full Back	37	2	0	7	0	0	17	1	0
-										
-JONES, Chris 	Forward	3+4	0	0	0	0	0	0+1	0	0
-										
-LACY, John 	Central Defender	7+5	0	0	0	0	0	0+1	0	0
-										
-MAZZON, Giorgio 	Central Defender	0	0	0	0	0	0	0+1	0	0
-										
-MILLER, Paul 	Central Defender	35	0	0	6+1	0	0	16	1	0
-										
-O'REILLY, Gary 	Central Defender	4+1	0	0	0	0	0	0	0	0
-										
-PARKS, Tony 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-PERRYMAN, Steve 	Central Defender	42	1	0	7	0	0	17	0	0
-										
-PRICE, Paul 	Central Defender	18+3	0	0	5	0	0	7	0	0
-										
-ROBERTS, Graham 	Central Defender	35+2	6	0	6	0	0	12+1	1	0
-										
-SMITH, Gordon 	Full Back	1+1	0	0	0	0	0	0+1	0	0
-										
-VILLA, Ricky 	Midfielder	26+1	8	0	2	0	0	8+2	1	0
-										
-WEBSTER, Simon 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WILKINS, Paul 	Forward	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALEKSIC, Milija ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"ARCHIBALD, Steve ",Forward,26+1,6,0,4+1,1,0,13,2,0
+,"ARDILES, Ossie ",Midfielder,26,2,0,5,0,0,15,2,0
+,"BROOKE, Garry ",Midfielder,12+4,4,1,0+2,0,0,0,0,0
+,"CLEMENCE, Ray ",Goalkeeper,38,0,0,7,0,0,17,0,0
+,"CORBETT, Pat ",Central Defender,3+1,1,0,0,0,0,0,0,0
+,"CROOK, Ian ",Midfielder,3+1,0,0,0,0,0,0,0,0
+,"CROOKS, Garth ",Forward,27,13,0,7,3,0,12,2,0
+,"DICK, Ally ",Winger,1,0,0,0,0,0,0,0,0
+,"FALCO, Mark ",Forward,21,5,0,3,1,0,8+2,5,0
+,"GALVIN, Tony ",Winger,32,3,0,7,0,0,17,1,0
+,"GIBSON, Terry ",Forward,1,0,0,0,0,0,0,0,0
+,"HAZARD, Micky ",Midfielder,26+2,5,0,4+1,1,0,11+1,4,0
+,"HODDLE, Glenn ",Midfielder,34,10,5,7,3,1,17,2,0
+,"HUGHTON, Chris ",Full Back,37,2,0,7,0,0,17,1,0
+,"JONES, Chris ",Forward,3+4,0,0,0,0,0,0+1,0,0
+,"LACY, John ",Central Defender,7+5,0,0,0,0,0,0+1,0,0
+,"MAZZON, Giorgio ",Central Defender,0,0,0,0,0,0,0+1,0,0
+,"MILLER, Paul ",Central Defender,35,0,0,6+1,0,0,16,1,0
+,"O'REILLY, Gary ",Central Defender,4+1,0,0,0,0,0,0,0,0
+,"PARKS, Tony ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"PERRYMAN, Steve ",Central Defender,42,1,0,7,0,0,17,0,0
+,"PRICE, Paul ",Central Defender,18+3,0,0,5,0,0,7,0,0
+,"ROBERTS, Graham ",Central Defender,35+2,6,0,6,0,0,12+1,1,0
+,"SMITH, Gordon ",Full Back,1+1,0,0,0,0,0,0+1,0,0
+,"VILLA, Ricky ",Midfielder,26+1,8,0,2,0,0,8+2,1,0
+,"WEBSTER, Simon ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WILKINS, Paul ",Forward,0,0,0,0,0,0,0,0,0

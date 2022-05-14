@@ -1,45 +1,22 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1964/65
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTON, John 	Winger	1	0	0	0	0	0	0	0	0
-										
-BEST, George 	Forward	41	10	0	7	2	0	11	2	0
-										
-BRENNAN, Shay 	Full Back	42	0	0	7	0	0	11	0	0
-										
-CANTWELL, Noel 	Full Back	2	1	0	0	0	0	0	0	0
-										
-CHARLTON, Bobby 	Midfielder	41	10	1	7	0	0	11	8	0
-										
-CONNELLY, John 	Winger	42	15	0	7	0	0	11	5	0
-										
-CRERAND, Pat 	Midfielder	39	3	0	7	2	0	11	0	0
-										
-DUNNE, Tony 	Full Back	42	0	0	7	0	0	11	0	0
-										
-DUNNE, Pat 	Goalkeeper	37	0	0	7	0	0	11	0	0
-										
-FITZPATRICK, John 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-FOULKES, Bill 	Central Defender	42	0	0	7	0	0	11	0	0
-										
-GASKELL, David 	Goalkeeper	5	0	0	0	0	0	0	0	0
-										
-HERD, David 	Forward	37	20	0	7	2	0	11	6	0
-										
-KINSEY, Albert 	Forward	0	0	0	1	1	0	0	0	0
-										
-LAW, Denis 	Forward	36	28	0	6	3	0	10	8	2
-										
-MOIR, Ian 	Winger	1	0	0	0	0	0	0	0	0
-										
-MORTON, Ken 	Winger	0	0	0	0	0	0	0	0	0
-										
-SADLER, David 	Central Defender	6	1	0	0	0	0	0	0	0
-										
-SETTERS, Maurice 	Central Defender	5	0	0	0	0	0	1	0	0
-										
-STILES, Nobby 	Midfielder	41	0	0	7	0	0	11	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTON, John ",Winger,1,0,0,0,0,0,0,0,0
+,"BEST, George ",Forward,41,10,0,7,2,0,11,2,0
+,"BRENNAN, Shay ",Full Back,42,0,0,7,0,0,11,0,0
+,"CANTWELL, Noel ",Full Back,2,1,0,0,0,0,0,0,0
+,"CHARLTON, Bobby ",Midfielder,41,10,1,7,0,0,11,8,0
+,"CONNELLY, John ",Winger,42,15,0,7,0,0,11,5,0
+,"CRERAND, Pat ",Midfielder,39,3,0,7,2,0,11,0,0
+,"DUNNE, Tony ",Full Back,42,0,0,7,0,0,11,0,0
+,"DUNNE, Pat ",Goalkeeper,37,0,0,7,0,0,11,0,0
+,"FITZPATRICK, John ",Midfielder,2,0,0,0,0,0,0,0,0
+,"FOULKES, Bill ",Central Defender,42,0,0,7,0,0,11,0,0
+,"GASKELL, David ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"HERD, David ",Forward,37,20,0,7,2,0,11,6,0
+,"KINSEY, Albert ",Forward,0,0,0,1,1,0,0,0,0
+,"LAW, Denis ",Forward,36,28,0,6,3,0,10,8,2
+,"MOIR, Ian ",Winger,1,0,0,0,0,0,0,0,0
+,"MORTON, Ken ",Winger,0,0,0,0,0,0,0,0,0
+,"SADLER, David ",Central Defender,6,1,0,0,0,0,0,0,0
+,"SETTERS, Maurice ",Central Defender,5,0,0,0,0,0,1,0,0
+,"STILES, Nobby ",Midfielder,41,0,0,7,0,0,11,0,0

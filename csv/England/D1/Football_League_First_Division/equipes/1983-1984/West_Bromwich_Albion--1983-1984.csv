@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1983/84
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRON, Paul 	Goalkeeper	42	0	0	4	0	0	4	0	0
-										
-BENNETT, Martyn 	Central Defender	29	0	0	3	0	0	1	0	0
-										
-CHILDS, Gary 	Winger	0+1	0	0	0	0	0	0	0	0
-										
-COWDRILL, Barry 	Full Back	22	0	0	3	0	0	4	0	0
-										
-CROSS, Nicky 	Forward	16+9	3	0	1	0	0	2+1	0	0
-										
-DIGWEED, Perry 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-EBANKS, Wayne 	Full Back	6+1	0	0	0	0	0	0	0	0
-										
-FORSYTH, Mike 	Full Back	8	0	0	1	1	0	0	0	0
-										
-GREALISH, Tony 	Midfielder	11	0	0	0	0	0	0	0	0
-										
-GREEN, Ron 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-HUNT, Steve 	Winger	12	2	0	0	0	0	0	0	0
-										
-JOL, Martin 	Midfielder	15+1	0	0	1	0	0	1	0	0
-										
-KENT, Kevin 	Winger	1+1	0	0	0	0	0	0	0	0
-										
-LEONARD, Gary 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-LEWIS, Mickey 	Midfielder	14	0	0	3	0	0	3	0	0
-										
-LUKE, Noel 	Winger	8	1	0	2+2	0	0	1	0	0
-										
-MACKENZIE, Steve 	Midfielder	18+1	4	0	1	0	0	0+2	0	0
-										
-MCNAUGHT, Ken 	Central Defender	42	1	0	4	0	0	4	0	0
-										
-MONAGHAN, Derek 	Forward	2+1	1	0	0	0	0	0	0	0
-										
-MORLEY, Tony 	Winger	26	4	0	4	2	0	0	0	0
-										
-OWEN, Gary 	Midfielder	20	1	0	2	0	0	3	1	1
-										
-PERRY, Mick 	Forward	8+5	4	0	1	0	0	2	0	0
-										
-REGIS, Cyrille 	Forward	30	10	0	3	0	0	3	3	0
-										
-ROBERTSON, Ally 	Central Defender	6	0	0	0	0	0	2	0	0
-										
-ROBSON, Gary 	Midfielder	5+2	0	0	0	0	0	1	0	0
-										
-SMITH, John 	Central Defender	0	0	0	0	0	0	1	0	0
-										
-STATHAM, Derek 	Full Back	16	0	0	1	0	0	0	0	0
-										
-THOMPSON, Garry 	Forward	37	13	1	4	1	0	4	3	0
-										
-WEBB, Alan 	Full Back	5	0	0	0	0	0	0	0	0
-										
-WHITEHEAD, Clive 	Winger	34	1	0	4	0	0	4	0	0
-										
-ZONDERVAN, Romeo 	Midfielder	29	3	0	2	0	0	4	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRON, Paul ",Goalkeeper,42,0,0,4,0,0,4,0,0
+,"BENNETT, Martyn ",Central Defender,29,0,0,3,0,0,1,0,0
+,"CHILDS, Gary ",Winger,0+1,0,0,0,0,0,0,0,0
+,"COWDRILL, Barry ",Full Back,22,0,0,3,0,0,4,0,0
+,"CROSS, Nicky ",Forward,16+9,3,0,1,0,0,2+1,0,0
+,"DIGWEED, Perry ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"EBANKS, Wayne ",Full Back,6+1,0,0,0,0,0,0,0,0
+,"FORSYTH, Mike ",Full Back,8,0,0,1,1,0,0,0,0
+,"GREALISH, Tony ",Midfielder,11,0,0,0,0,0,0,0,0
+,"GREEN, Ron ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HUNT, Steve ",Winger,12,2,0,0,0,0,0,0,0
+,"JOL, Martin ",Midfielder,15+1,0,0,1,0,0,1,0,0
+,"KENT, Kevin ",Winger,1+1,0,0,0,0,0,0,0,0
+,"LEONARD, Gary ",Midfielder,0,0,0,0,0,0,0,0,0
+,"LEWIS, Mickey ",Midfielder,14,0,0,3,0,0,3,0,0
+,"LUKE, Noel ",Winger,8,1,0,2+2,0,0,1,0,0
+,"MACKENZIE, Steve ",Midfielder,18+1,4,0,1,0,0,0+2,0,0
+,"MCNAUGHT, Ken ",Central Defender,42,1,0,4,0,0,4,0,0
+,"MONAGHAN, Derek ",Forward,2+1,1,0,0,0,0,0,0,0
+,"MORLEY, Tony ",Winger,26,4,0,4,2,0,0,0,0
+,"OWEN, Gary ",Midfielder,20,1,0,2,0,0,3,1,1
+,"PERRY, Mick ",Forward,8+5,4,0,1,0,0,2,0,0
+,"REGIS, Cyrille ",Forward,30,10,0,3,0,0,3,3,0
+,"ROBERTSON, Ally ",Central Defender,6,0,0,0,0,0,2,0,0
+,"ROBSON, Gary ",Midfielder,5+2,0,0,0,0,0,1,0,0
+,"SMITH, John ",Central Defender,0,0,0,0,0,0,1,0,0
+,"STATHAM, Derek ",Full Back,16,0,0,1,0,0,0,0,0
+,"THOMPSON, Garry ",Forward,37,13,1,4,1,0,4,3,0
+,"WEBB, Alan ",Full Back,5,0,0,0,0,0,0,0,0
+,"WHITEHEAD, Clive ",Winger,34,1,0,4,0,0,4,0,0
+,"ZONDERVAN, Romeo ",Midfielder,29,3,0,2,0,0,4,0,0

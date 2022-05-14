@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1986/87
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BREACKER, Tim 	Full Back	29	1	0	4	0	0	0	0	0
-										
-COBB, Gary 	Winger	2	0	0	0	0	0	0	0	0
-										
-DIBBLE, Andy 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-DONAGHY, Mal 	Central Defender	42	0	0	5	0	0	0	0	0
-										
-FARRELL, Sean 	Forward	0	0	0	0	0	0	0	0	0
-										
-FOSTER, Steve 	Central Defender	28	2	0	5	0	0	0	0	0
-										
-GRIMES, Ashley 	Full Back	31	2	0	5	0	0	0	0	0
-										
-HARFORD, Mick 	Forward	18	4	1	5	3	2	0	0	0
-										
-HARVEY, Richard 	Full Back	5	0	0	0	0	0	0	0	0
-										
-HAZELL, Bob 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-HILL, Ricky 	Midfielder	30	2	0	5	0	0	0	0	0
-										
-JOHNSON, Rob 	Full Back	34	0	0	5	0	0	0	0	0
-										
-MCDONOUGH, Darron 	Midfielder	10+8	1	0	0+1	0	0	0	0	0
-										
-MCEVOY, Ricky 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-NEWELL, Mike 	Forward	42	12	0	5	1	0	0	0	0
-										
-NICHOLAS, Peter 	Midfielder	42	1	0	5	0	0	0	0	0
-										
-NORTH, Marc 	Forward	2+3	0	0	0	0	0	0	0	0
-										
-NORTH, Stacey 	Central Defender	14	0	0	0	0	0	0	0	0
-										
-NWAJIOBI, Emeka 	Forward	6	0	0	0	0	0	0	0	0
-										
-PREECE, David 	Midfielder	14	0	0	1	0	0	0	0	0
-										
-ROBERTS, Jeremy 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-SEALEY, Les 	Goalkeeper	41	0	0	5	0	0	0	0	0
-										
-STEIN, Brian 	Forward	38	12	0	5	1	0	0	0	0
-										
-STEIN, Mark 	Forward	17+4	8	0	0	0	0	0	0	0
-										
-WALTON, Mark 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-WILSON, Robert 	Midfielder	16+5	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BREACKER, Tim ",Full Back,29,1,0,4,0,0,0,0,0
+,"COBB, Gary ",Winger,2,0,0,0,0,0,0,0,0
+,"DIBBLE, Andy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DONAGHY, Mal ",Central Defender,42,0,0,5,0,0,0,0,0
+,"FARRELL, Sean ",Forward,0,0,0,0,0,0,0,0,0
+,"FOSTER, Steve ",Central Defender,28,2,0,5,0,0,0,0,0
+,"GRIMES, Ashley ",Full Back,31,2,0,5,0,0,0,0,0
+,"HARFORD, Mick ",Forward,18,4,1,5,3,2,0,0,0
+,"HARVEY, Richard ",Full Back,5,0,0,0,0,0,0,0,0
+,"HAZELL, Bob ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HILL, Ricky ",Midfielder,30,2,0,5,0,0,0,0,0
+,"JOHNSON, Rob ",Full Back,34,0,0,5,0,0,0,0,0
+,"MCDONOUGH, Darron ",Midfielder,10+8,1,0,0+1,0,0,0,0,0
+,"MCEVOY, Ricky ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"NEWELL, Mike ",Forward,42,12,0,5,1,0,0,0,0
+,"NICHOLAS, Peter ",Midfielder,42,1,0,5,0,0,0,0,0
+,"NORTH, Marc ",Forward,2+3,0,0,0,0,0,0,0,0
+,"NORTH, Stacey ",Central Defender,14,0,0,0,0,0,0,0,0
+,"NWAJIOBI, Emeka ",Forward,6,0,0,0,0,0,0,0,0
+,"PREECE, David ",Midfielder,14,0,0,1,0,0,0,0,0
+,"ROBERTS, Jeremy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SEALEY, Les ",Goalkeeper,41,0,0,5,0,0,0,0,0
+,"STEIN, Brian ",Forward,38,12,0,5,1,0,0,0,0
+,"STEIN, Mark ",Forward,17+4,8,0,0,0,0,0,0,0
+,"WALTON, Mark ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WILSON, Robert ",Midfielder,16+5,1,0,0,0,0,0,0,0

@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1931/32
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRETT, Jim 	Central Defender	38	3	1	2	0	0	0	0	0
-										
-BARRIE, Walter 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BOLAN, Len 	Winger	0	0	0	0	0	0	0	0	0
-										
-CADWELL, Albert 	Wing Half	26	1	0	2	0	0	0	0	0
-										
-CHALKLEY, Alf 	Full Back	29	1	0	2	0	0	0	0	0
-										
-COLLINS, Jimmy 	Wing Half	35	0	0	2	0	0	0	0	0
-										
-COX, Charlie 	Full Back	9	0	0	0	0	0	0	0	0
-										
-DIXON, Bob 	Goalkeeper	20	0	0	2	0	0	0	0	0
-										
-EARL, Alf 	Full Back	30	0	0	2	0	0	0	0	0
-										
-EARLE, Stan 	Inside Forward	17	0	0	0	0	0	0	0	0
-										
-FEREDAY, David 	Winger	0	0	0	0	0	0	0	0	0
-										
-GIBBINS, Viv 	Centre Forward	9	5	0	0	0	0	0	0	0
-										
-GOODACRE, Reg 	Full Back	10	0	0	0	0	0	0	0	0
-										
-GOULDEN, Len 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HARRIS, Jimmy 	Winger	2	0	0	0	0	0	0	0	0
-										
-HUFTON, Ted 	Goalkeeper	22	0	0	0	0	0	0	0	0
-										
-JAMES, Wilf 	Inside Forward	4	0	0	0	0	0	0	0	0
-										
-LAWSON, Tommy 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MORTON, Jackie 	Winger	5	1	0	0	0	0	0	0	0
-										
-MUSGRAVE, Joe 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-NORRIS, Fred 	Wing Half	17	1	0	0	0	0	0	0	0
-										
-PARKIN, George 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-PHILLIPS, Wilf 	Inside Forward	21	3	0	2	0	0	0	0	0
-										
-POLLARD, Walter 	Inside Forward	7	0	0	0	0	0	0	0	0
-										
-PUDDEFOOT, Syd 	Inside Forward	7	0	0	0	0	0	0	0	0
-										
-RUFFELL, Jimmy 	Winger	39	15	0	2	0	0	0	0	0
-										
-ST PIER, Wally 	Central Defender	7	0	0	0	0	0	0	0	0
-										
-TIDMAN, Oliver 	Winger	0	0	0	0	0	0	0	0	0
-										
-WADE, Reg 	Full Back	7	0	0	0	0	0	0	0	0
-										
-WATSON, Vic 	Centre Forward	38	23	0	2	2	0	0	0	0
-										
-WELDON, Tony 	Inside Forward	20	3	0	2	1	0	0	0	0
-										
-WOOD, Jimmy 	Winger	17	2	0	0	0	0	0	0	0
-										
-YEWS, Tommy 	Winger	23	2	0	2	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRETT, Jim ",Central Defender,38,3,1,2,0,0,0,0,0
+,"BARRIE, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"BOLAN, Len ",Winger,0,0,0,0,0,0,0,0,0
+,"CADWELL, Albert ",Wing Half,26,1,0,2,0,0,0,0,0
+,"CHALKLEY, Alf ",Full Back,29,1,0,2,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,35,0,0,2,0,0,0,0,0
+,"COX, Charlie ",Full Back,9,0,0,0,0,0,0,0,0
+,"DIXON, Bob ",Goalkeeper,20,0,0,2,0,0,0,0,0
+,"EARL, Alf ",Full Back,30,0,0,2,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,17,0,0,0,0,0,0,0,0
+,"FEREDAY, David ",Winger,0,0,0,0,0,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,9,5,0,0,0,0,0,0,0
+,"GOODACRE, Reg ",Full Back,10,0,0,0,0,0,0,0,0
+,"GOULDEN, Len ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARRIS, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,22,0,0,0,0,0,0,0,0
+,"JAMES, Wilf ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"LAWSON, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MORTON, Jackie ",Winger,5,1,0,0,0,0,0,0,0
+,"MUSGRAVE, Joe ",Wing Half,3,0,0,0,0,0,0,0,0
+,"NORRIS, Fred ",Wing Half,17,1,0,0,0,0,0,0,0
+,"PARKIN, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PHILLIPS, Wilf ",Inside Forward,21,3,0,2,0,0,0,0,0
+,"POLLARD, Walter ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"PUDDEFOOT, Syd ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,39,15,0,2,0,0,0,0,0
+,"ST PIER, Wally ",Central Defender,7,0,0,0,0,0,0,0,0
+,"TIDMAN, Oliver ",Winger,0,0,0,0,0,0,0,0,0
+,"WADE, Reg ",Full Back,7,0,0,0,0,0,0,0,0
+,"WATSON, Vic ",Centre Forward,38,23,0,2,2,0,0,0,0
+,"WELDON, Tony ",Inside Forward,20,3,0,2,1,0,0,0,0
+,"WOOD, Jimmy ",Winger,17,2,0,0,0,0,0,0,0
+,"YEWS, Tommy ",Winger,23,2,0,2,0,0,0,0,0

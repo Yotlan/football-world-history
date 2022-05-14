@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1973/74
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEATTIE, Kevin 	Central Defender	42	2	0	3	3	0	12	1	0
-										
-BEST, David 	Goalkeeper	22	0	0	1	0	0	9	0	0
-										
-BURLEY, George 	Full Back	20	0	0	3	0	0	2	0	0
-										
-COLLARD, Ian 	Midfielder	8+1	0	0	0	0	0	3+1	0	0
-										
-COOPER, Paul 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-GATES, Eric 	Forward	0+6	0	0	0	0	0	0+1	0	0
-										
-HAMILTON, Bryan 	Midfielder	41+1	16	0	3	1	0	12	2	0
-										
-HAMMOND, Geoff 	Full Back	7+1	1	0	0	0	0	4+2	0	0
-										
-HARPER, Colin 	Full Back	14	2	0	0	0	0	6	0	0
-										
-HUNTER, Allan 	Central Defender	34	0	0	3	0	0	11	0	0
-										
-JOHNSON, David 	Forward	40	13	1	3	0	0	10+1	2	0
-										
-KEELEY, Glenn 	Central Defender	3	0	0	0	0	0	1	0	0
-										
-KITCHEN, Peter 	Forward	0	0	0	0	0	0	0	0	0
-										
-LAMBERT, Mick 	Winger	26	9	0	3	0	0	6	0	0
-										
-MILLER, Johnny 	Winger	2+3	0	0	0	0	0	2+1	1	0
-										
-MILLS, Mick 	Full Back	42	2	0	3	0	0	12	1	0
-										
-MORRIS, Peter 	Midfielder	36	4	0	3	0	0	9+2	1	0
-										
-OSBORNE, Roger 	Midfielder	3+6	0	0	0	0	0	0+1	0	0
-										
-PARKIN, Tommy 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-PEDDELTY, John 	Central Defender	5	0	0	0	0	0	0	0	0
-										
-SIVELL, Laurie 	Goalkeeper	19	0	0	2	0	0	3	0	0
-										
-TALBOT, Brian 	Midfielder	15	3	0	1	0	0	2	0	0
-										
-TAYLOR, Ken 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-TWAMLEY, Bruce 	Full Back	1	0	0	0	0	0	0	0	0
-										
-VILJOEN, Colin 	Midfielder	24	0	0	2+1	0	0	10	2	1
-										
-WHYMARK, Trevor 	Forward	39	11	0	3	0	0	12	6	0
-										
-WOODS, Clive 	Winger	18+9	3	0	0	0	0	6+3	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEATTIE, Kevin ",Central Defender,42,2,0,3,3,0,12,1,0
+,"BEST, David ",Goalkeeper,22,0,0,1,0,0,9,0,0
+,"BURLEY, George ",Full Back,20,0,0,3,0,0,2,0,0
+,"COLLARD, Ian ",Midfielder,8+1,0,0,0,0,0,3+1,0,0
+,"COOPER, Paul ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"GATES, Eric ",Forward,0+6,0,0,0,0,0,0+1,0,0
+,"HAMILTON, Bryan ",Midfielder,41+1,16,0,3,1,0,12,2,0
+,"HAMMOND, Geoff ",Full Back,7+1,1,0,0,0,0,4+2,0,0
+,"HARPER, Colin ",Full Back,14,2,0,0,0,0,6,0,0
+,"HUNTER, Allan ",Central Defender,34,0,0,3,0,0,11,0,0
+,"JOHNSON, David ",Forward,40,13,1,3,0,0,10+1,2,0
+,"KEELEY, Glenn ",Central Defender,3,0,0,0,0,0,1,0,0
+,"KITCHEN, Peter ",Forward,0,0,0,0,0,0,0,0,0
+,"LAMBERT, Mick ",Winger,26,9,0,3,0,0,6,0,0
+,"MILLER, Johnny ",Winger,2+3,0,0,0,0,0,2+1,1,0
+,"MILLS, Mick ",Full Back,42,2,0,3,0,0,12,1,0
+,"MORRIS, Peter ",Midfielder,36,4,0,3,0,0,9+2,1,0
+,"OSBORNE, Roger ",Midfielder,3+6,0,0,0,0,0,0+1,0,0
+,"PARKIN, Tommy ",Midfielder,0,0,0,0,0,0,0,0,0
+,"PEDDELTY, John ",Central Defender,5,0,0,0,0,0,0,0,0
+,"SIVELL, Laurie ",Goalkeeper,19,0,0,2,0,0,3,0,0
+,"TALBOT, Brian ",Midfielder,15,3,0,1,0,0,2,0,0
+,"TAYLOR, Ken ",Midfielder,0,0,0,0,0,0,0,0,0
+,"TWAMLEY, Bruce ",Full Back,1,0,0,0,0,0,0,0,0
+,"VILJOEN, Colin ",Midfielder,24,0,0,2+1,0,0,10,2,1
+,"WHYMARK, Trevor ",Forward,39,11,0,3,0,0,12,6,0
+,"WOODS, Clive ",Winger,18+9,3,0,0,0,0,6+3,1,0

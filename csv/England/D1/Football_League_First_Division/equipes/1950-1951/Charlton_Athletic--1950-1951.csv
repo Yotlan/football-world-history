@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1950/51
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARTRAM, Sam 	Goalkeeper	37	0	0	2	0	0	0	0	0
-										
-CAMPBELL, Jock 	Full Back	14	0	0	0	0	0	0	0	0
-										
-CROKER, Ted 	Central Defender	8	0	0	0	0	0	0	0	0
-										
-CROKER, Peter 	Full Back	11	0	0	2	1	0	0	0	0
-										
-CULLUM, Riley 	Inside Forward	21	4	0	0	0	0	0	0	0
-										
-D'ARCY, Jimmy 	Inside Forward	3	0	0	1	0	0	0	0	0
-										
-DUFFY, Chris 	Winger	5	1	0	0	0	0	0	0	0
-										
-EVANS, John 	Inside Forward	31	14	0	1	0	0	0	0	0
-										
-FELL, Les 	Winger	2	0	0	0	0	0	0	0	0
-										
-FENTON, Benny 	Wing Half	41	0	0	2	0	0	0	0	0
-										
-FORBES, Dudley 	Wing Half	27	1	0	2	0	0	0	0	0
-										
-HAMMOND, Cyril 	Wing Half	3	0	0	0	0	0	0	0	0
-										
-HURST, Gordon 	Winger	40	14	0	2	0	0	0	0	0
-										
-JEPPSON, Hans 	Centre Forward	11	9	0	0	0	0	0	0	0
-										
-JOHNSON, Bert 	Wing Half	17	0	0	1	0	0	0	0	0
-										
-KIERNAN, Billy 	Winger	37	9	0	2	0	0	0	0	0
-										
-LOCK, Frank 	Full Back	42	0	0	1	0	0	0	0	0
-										
-LUMLEY, Tommy 	Inside Forward	9	2	0	1	0	0	0	0	0
-										
-MARSH, Eddie 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-O'LINN, Syd 	Inside Forward	6	2	0	0	0	0	0	0	0
-										
-PHIPPS, Harold 	Central Defender	28	0	0	2	0	0	0	0	0
-										
-REVELL, Charlie 	Wing Half	3	0	0	2	1	1	0	0	0
-										
-SHREEVE, Jack 	Full Back	16	0	0	0	0	0	0	0	0
-										
-UYTENBOGAARDT, Albert 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-VAUGHAN, Charlie 	Centre Forward	39	7	0	1	0	0	0	0	0
-										
-WALLS, Jimmy 	Central Defender	6	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARTRAM, Sam ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"CAMPBELL, Jock ",Full Back,14,0,0,0,0,0,0,0,0
+,"CROKER, Ted ",Central Defender,8,0,0,0,0,0,0,0,0
+,"CROKER, Peter ",Full Back,11,0,0,2,1,0,0,0,0
+,"CULLUM, Riley ",Inside Forward,21,4,0,0,0,0,0,0,0
+,"D'ARCY, Jimmy ",Inside Forward,3,0,0,1,0,0,0,0,0
+,"DUFFY, Chris ",Winger,5,1,0,0,0,0,0,0,0
+,"EVANS, John ",Inside Forward,31,14,0,1,0,0,0,0,0
+,"FELL, Les ",Winger,2,0,0,0,0,0,0,0,0
+,"FENTON, Benny ",Wing Half,41,0,0,2,0,0,0,0,0
+,"FORBES, Dudley ",Wing Half,27,1,0,2,0,0,0,0,0
+,"HAMMOND, Cyril ",Wing Half,3,0,0,0,0,0,0,0,0
+,"HURST, Gordon ",Winger,40,14,0,2,0,0,0,0,0
+,"JEPPSON, Hans ",Centre Forward,11,9,0,0,0,0,0,0,0
+,"JOHNSON, Bert ",Wing Half,17,0,0,1,0,0,0,0,0
+,"KIERNAN, Billy ",Winger,37,9,0,2,0,0,0,0,0
+,"LOCK, Frank ",Full Back,42,0,0,1,0,0,0,0,0
+,"LUMLEY, Tommy ",Inside Forward,9,2,0,1,0,0,0,0,0
+,"MARSH, Eddie ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"O'LINN, Syd ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"PHIPPS, Harold ",Central Defender,28,0,0,2,0,0,0,0,0
+,"REVELL, Charlie ",Wing Half,3,0,0,2,1,1,0,0,0
+,"SHREEVE, Jack ",Full Back,16,0,0,0,0,0,0,0,0
+,"UYTENBOGAARDT, Albert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"VAUGHAN, Charlie ",Centre Forward,39,7,0,1,0,0,0,0,0
+,"WALLS, Jimmy ",Central Defender,6,0,0,0,0,0,0,0,0

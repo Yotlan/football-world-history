@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1958/59
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANKS, Tommy 	Full Back	37	0	0	6	0	0	0	0	0
-										
-BANNISTER, Neville 	Winger	11	0	0	0	0	0	1	1	0
-										
-BIRCH, Brian 	Winger	28	6	0	6	2	0	0	0	0
-										
-BLACKBURN, Keith 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-DEAKIN, Peter 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-DEAN, Joe 	Goalkeeper	3	0	0	0	0	0	1	0	0
-										
-EDWARDS, Bryan 	Wing Half	41	4	0	6	0	0	1	0	0
-										
-EDWARDS, Gordon 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-EDWARDS, Malcolm 	Full Back	4	0	0	0	0	0	1	0	0
-										
-FARRIMOND, Syd 	Full Back	1	0	0	0	0	0	0	0	0
-										
-GUBBINS, Ralph 	Winger	4	2	0	0	0	0	0	0	0
-										
-HARTLE, Roy 	Full Back	41	0	0	6	0	0	1	0	0
-										
-HENNIN, Derek 	Wing Half	38	0	0	6	0	0	1	0	0
-										
-HIGGINS, John 	Central Defender	38	0	0	4	0	0	1	0	0
-										
-HILL, Freddie 	Midfielder	18	7	2	0	0	0	1	1	0
-										
-HOLDEN, Doug 	Winger	37	2	0	6	1	0	1	0	0
-										
-HOPKINSON, Eddie 	Goalkeeper	39	0	0	6	0	0	1	0	0
-										
-LOFTHOUSE, Nat 	Centre Forward	37	29	1	6	4	0	1	2	0
-										
-PARRY, Ray 	Midfielder	37	12	5	6	2	1	0	0	0
-										
-RILEY, Brian 	Winger	3	1	0	0	0	0	0	0	0
-										
-STANLEY, Graham 	Wing Half	9	0	0	3	0	0	0	0	0
-										
-STEVENS, Dennis 	Forward	32	13	0	5	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANKS, Tommy ",Full Back,37,0,0,6,0,0,0,0,0
+,"BANNISTER, Neville ",Winger,11,0,0,0,0,0,1,1,0
+,"BIRCH, Brian ",Winger,28,6,0,6,2,0,0,0,0
+,"BLACKBURN, Keith ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DEAKIN, Peter ",Midfielder,1,0,0,0,0,0,0,0,0
+,"DEAN, Joe ",Goalkeeper,3,0,0,0,0,0,1,0,0
+,"EDWARDS, Bryan ",Wing Half,41,4,0,6,0,0,1,0,0
+,"EDWARDS, Gordon ",Central Defender,3,0,0,0,0,0,0,0,0
+,"EDWARDS, Malcolm ",Full Back,4,0,0,0,0,0,1,0,0
+,"FARRIMOND, Syd ",Full Back,1,0,0,0,0,0,0,0,0
+,"GUBBINS, Ralph ",Winger,4,2,0,0,0,0,0,0,0
+,"HARTLE, Roy ",Full Back,41,0,0,6,0,0,1,0,0
+,"HENNIN, Derek ",Wing Half,38,0,0,6,0,0,1,0,0
+,"HIGGINS, John ",Central Defender,38,0,0,4,0,0,1,0,0
+,"HILL, Freddie ",Midfielder,18,7,2,0,0,0,1,1,0
+,"HOLDEN, Doug ",Winger,37,2,0,6,1,0,1,0,0
+,"HOPKINSON, Eddie ",Goalkeeper,39,0,0,6,0,0,1,0,0
+,"LOFTHOUSE, Nat ",Centre Forward,37,29,1,6,4,0,1,2,0
+,"PARRY, Ray ",Midfielder,37,12,5,6,2,1,0,0,0
+,"RILEY, Brian ",Winger,3,1,0,0,0,0,0,0,0
+,"STANLEY, Graham ",Wing Half,9,0,0,3,0,0,0,0,0
+,"STEVENS, Dennis ",Forward,32,13,0,5,0,0,1,0,0

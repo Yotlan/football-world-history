@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1975/76
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOYLE, Terry 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-BROTHERSTON, Noel 	Winger	1	0	0	0	0	0	0	0	0
-										
-CHIVERS, Martin 	Forward	28+4	7	1	1	0	0	5	2	0
-										
-COATES, Ralph 	Winger	21+3	2	0	2	0	0	6	0	0
-										
-CONN, Alfie 	Midfielder	7+1	0	0	0	0	0	1+1	1	0
-										
-DAINES, Barry 	Goalkeeper	2	0	0	0	0	0	1	0	0
-										
-DUNCAN, John 	Forward	35+2	20	0	2	1	0	7	4	0
-										
-HODDLE, Glenn 	Midfielder	6+1	1	0	0	0	0	0	0	0
-										
-JENNINGS, Pat 	Goalkeeper	40	0	0	2	0	0	6	0	0
-										
-JONES, Chris 	Forward	25+9	5	0	1+1	0	0	3+1	1	0
-										
-KINNEAR, Joe 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-KNOWLES, Cyril 	Full Back	10	0	0	0	0	0	1+1	0	0
-										
-MCALLISTER, Don 	Full Back	35	2	0	2	0	0	6	1	0
-										
-MCGRATH, Chris 	Winger	3+1	0	0	0	0	0	0	0	0
-										
-MCNAB, Neil 	Midfielder	11+4	0	0	0	0	0	1+1	0	0
-										
-NAYLOR, Terry 	Full Back	36	0	0	2	0	0	7	0	0
-										
-NEIGHBOUR, Jimmy 	Winger	35	3	0	2	0	0	7	0	0
-										
-OSGOOD, Keith 	Central Defender	42	3	1	2	0	0	7	0	0
-										
-PERRYMAN, Steve 	Central Defender	40	6	0	2	1	0	6	0	0
-										
-PRATT, John 	Midfielder	41	10	0	2	0	0	7	3	0
-										
-ROBINSON, Martin 	Forward	1+1	1	0	0	0	0	0	0	0
-										
-SMITH, Ian 	Full Back	2	0	0	0	0	0	0	0	0
-										
-STEAD, Micky 	Full Back	4	0	0	0	0	0	0	0	0
-										
-WALFORD, Steve 	Central Defender	1+1	0	0	0	0	0	0	0	0
-										
-YOUNG, Willie 	Central Defender	35	2	0	2	0	0	6	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOYLE, Terry ",Central Defender,0,0,0,0,0,0,0,0,0
+,"BROTHERSTON, Noel ",Winger,1,0,0,0,0,0,0,0,0
+,"CHIVERS, Martin ",Forward,28+4,7,1,1,0,0,5,2,0
+,"COATES, Ralph ",Winger,21+3,2,0,2,0,0,6,0,0
+,"CONN, Alfie ",Midfielder,7+1,0,0,0,0,0,1+1,1,0
+,"DAINES, Barry ",Goalkeeper,2,0,0,0,0,0,1,0,0
+,"DUNCAN, John ",Forward,35+2,20,0,2,1,0,7,4,0
+,"HODDLE, Glenn ",Midfielder,6+1,1,0,0,0,0,0,0,0
+,"JENNINGS, Pat ",Goalkeeper,40,0,0,2,0,0,6,0,0
+,"JONES, Chris ",Forward,25+9,5,0,1+1,0,0,3+1,1,0
+,"KINNEAR, Joe ",Central Defender,1,0,0,0,0,0,0,0,0
+,"KNOWLES, Cyril ",Full Back,10,0,0,0,0,0,1+1,0,0
+,"MCALLISTER, Don ",Full Back,35,2,0,2,0,0,6,1,0
+,"MCGRATH, Chris ",Winger,3+1,0,0,0,0,0,0,0,0
+,"MCNAB, Neil ",Midfielder,11+4,0,0,0,0,0,1+1,0,0
+,"NAYLOR, Terry ",Full Back,36,0,0,2,0,0,7,0,0
+,"NEIGHBOUR, Jimmy ",Winger,35,3,0,2,0,0,7,0,0
+,"OSGOOD, Keith ",Central Defender,42,3,1,2,0,0,7,0,0
+,"PERRYMAN, Steve ",Central Defender,40,6,0,2,1,0,6,0,0
+,"PRATT, John ",Midfielder,41,10,0,2,0,0,7,3,0
+,"ROBINSON, Martin ",Forward,1+1,1,0,0,0,0,0,0,0
+,"SMITH, Ian ",Full Back,2,0,0,0,0,0,0,0,0
+,"STEAD, Micky ",Full Back,4,0,0,0,0,0,0,0,0
+,"WALFORD, Steve ",Central Defender,1+1,0,0,0,0,0,0,0,0
+,"YOUNG, Willie ",Central Defender,35,2,0,2,0,0,6,1,0

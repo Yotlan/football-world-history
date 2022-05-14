@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1931/32
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARBER, George 	Full Back	33	0	0	6	0	0	0	0	0
-										
-BISHOP, Sid 	Wing Half	17	0	0	0	0	0	0	0	0
-										
-CARTER, Bob 	Wing Half	16	1	0	0	0	0	0	0	0
-										
-CHEYNE, Alec 	Inside Forward	19	1	0	2	0	0	0	0	0
-										
-CHITTY, Wilf 	Winger	6	1	0	0	0	0	0	0	0
-										
-CRAWFORD, Jackie 	Winger	21	0	0	0	0	0	0	0	0
-										
-DONALD, Alec 	Full Back	12	0	0	0	0	0	0	0	0
-										
-FERGUSON, Willie 	Wing Half	21	2	0	7	0	0	0	0	0
-										
-GALLACHER, Hughie 	Centre Forward	36	24	0	5	6	0	0	0	0
-										
-HOPE, James 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-IRVING, Sam 	Wing Half	9	0	0	0	0	0	0	0	0
-										
-JACKSON, Alex 	Winger	36	15	0	7	1	0	0	0	0
-										
-LAW, Tommy 	Full Back	27	1	1	7	2	1	0	0	0
-										
-MILLER, Harold 	Inside Forward	22	3	0	4	1	0	0	0	0
-										
-MILLINGTON, Sam 	Goalkeeper	35	0	0	7	0	0	0	0	0
-										
-MILLS, George 	Centre Forward	14	8	0	7	4	0	0	0	0
-										
-O'DOWD, Peter 	Central Defender	24	0	0	7	0	0	0	0	0
-										
-ODELL, Leslie 	Full Back	11	0	0	1	0	0	0	0	0
-										
-PEARSON, George 	Winger	27	4	0	7	2	0	0	0	0
-										
-RANKIN, Johnnie 	Inside Forward	24	4	0	3	0	0	0	0	0
-										
-RUSSELL, Willie 	Wing Half	24	3	0	7	0	0	0	0	0
-										
-SMITH, George 	Full Back	1	0	0	0	0	0	0	0	0
-										
-STEVENS, George 	Winger	0	0	0	0	0	0	0	0	0
-										
-TAYLOR, Albert 	Winger	0	0	0	0	0	0	0	0	0
-										
-TOWNROW, Jack 	Central Defender	14	0	0	0	0	0	0	0	0
-										
-WEAVER, Reg 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-WILSON, Andy 	Inside Forward	4	0	0	0	0	0	0	0	0
-										
-WOODLEY, Vic 	Goalkeeper	7	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARBER, George ",Full Back,33,0,0,6,0,0,0,0,0
+,"BISHOP, Sid ",Wing Half,17,0,0,0,0,0,0,0,0
+,"CARTER, Bob ",Wing Half,16,1,0,0,0,0,0,0,0
+,"CHEYNE, Alec ",Inside Forward,19,1,0,2,0,0,0,0,0
+,"CHITTY, Wilf ",Winger,6,1,0,0,0,0,0,0,0
+,"CRAWFORD, Jackie ",Winger,21,0,0,0,0,0,0,0,0
+,"DONALD, Alec ",Full Back,12,0,0,0,0,0,0,0,0
+,"FERGUSON, Willie ",Wing Half,21,2,0,7,0,0,0,0,0
+,"GALLACHER, Hughie ",Centre Forward,36,24,0,5,6,0,0,0,0
+,"HOPE, James ",Wing Half,1,0,0,0,0,0,0,0,0
+,"IRVING, Sam ",Wing Half,9,0,0,0,0,0,0,0,0
+,"JACKSON, Alex ",Winger,36,15,0,7,1,0,0,0,0
+,"LAW, Tommy ",Full Back,27,1,1,7,2,1,0,0,0
+,"MILLER, Harold ",Inside Forward,22,3,0,4,1,0,0,0,0
+,"MILLINGTON, Sam ",Goalkeeper,35,0,0,7,0,0,0,0,0
+,"MILLS, George ",Centre Forward,14,8,0,7,4,0,0,0,0
+,"O'DOWD, Peter ",Central Defender,24,0,0,7,0,0,0,0,0
+,"ODELL, Leslie ",Full Back,11,0,0,1,0,0,0,0,0
+,"PEARSON, George ",Winger,27,4,0,7,2,0,0,0,0
+,"RANKIN, Johnnie ",Inside Forward,24,4,0,3,0,0,0,0,0
+,"RUSSELL, Willie ",Wing Half,24,3,0,7,0,0,0,0,0
+,"SMITH, George ",Full Back,1,0,0,0,0,0,0,0,0
+,"STEVENS, George ",Winger,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Albert ",Winger,0,0,0,0,0,0,0,0,0
+,"TOWNROW, Jack ",Central Defender,14,0,0,0,0,0,0,0,0
+,"WEAVER, Reg ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WILSON, Andy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"WOODLEY, Vic ",Goalkeeper,7,0,0,0,0,0,0,0,0

@@ -1,14 +1,14 @@
 import click
+import glob
 import csv
 import os.path
 import pandas as pd
 
-@click.group()
-def cli():
-   pass
+#Select files
+files = glob.glob('../../csv/**/**/Football_League_First_Division/saisons/*.csv')
 
-@cli.command()
-@click.argument('file_saison')
+def produce():
+    #TODO
 
 def producteur(file_saison):
     global file

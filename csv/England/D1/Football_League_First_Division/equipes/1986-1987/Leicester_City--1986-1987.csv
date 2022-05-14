@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1986/87
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEYNE, Robert 	Forward	1+2	0	0	0	0	0	0	0	0
-										
-ANDREWS, Ian 	Goalkeeper	42	0	0	1	0	0	3	0	0
-										
-BANKS, Ian 	Midfielder	2+1	0	0	0	0	0	0	0	0
-										
-BRIGHT, Mark 	Forward	2	0	0	0	0	0	0	0	0
-										
-BUCKLEY, John 	Winger	1+4	0	0	0	0	0	0	0	0
-										
-BUNCE, Paul 	Winger	5+1	0	0	0	0	0	0	0	0
-										
-D'AVRAY, Mich 	Forward	3	0	0	0	0	0	0	0	0
-										
-FEELEY, Andy 	Full Back	11+1	0	0	1	0	0	0	0	0
-										
-HORNER, Phil 	Central Defender	1+2	0	0	0+1	0	0	0	0	0
-										
-JOBLING, Kevin 	Midfielder	1+2	0	0	0	0	0	0	0	0
-										
-KELLY, Rob 	Midfielder	8+6	1	0	0	0	0	1+1	0	0
-										
-LYNEX, Steve 	Winger	7+3	0	0	1	0	0	1+1	0	0
-										
-MAUCHLEN, Ally 	Midfielder	30	1	0	0+1	0	0	2	0	0
-										
-MCALLISTER, Gary 	Midfielder	39	9	3	1	1	1	3	1	0
-										
-MORAN, Steve 	Forward	24+3	9	0	1	0	0	3	3	0
-										
-MORGAN, Simon 	Central Defender	41	2	0	1	0	0	3	1	0
-										
-MUGGLETON, Carl 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-O'NEILL, John 	Central Defender	29	2	0	0	0	0	0	0	0
-										
-OSMAN, Russell 	Central Defender	31	3	0	0	0	0	3	0	0
-										
-RAMSEY, Paul 	Midfielder	29	6	0	1	0	0	1	0	0
-										
-REID, Paul 	Winger	5+1	0	0	0	0	0	0	0	0
-										
-RUSSELL, Martin 	Midfielder	5	0	0	0	0	0	0	0	0
-										
-SEALY, Tony 	Forward	9+9	1	0	0	0	0	1+1	0	0
-										
-SMITH, Alan 	Forward	42	17	0	1	1	0	3	2	0
-										
-VENUS, Mark 	Full Back	38+1	0	0	1	0	0	3	0	0
-										
-WALSH, Steve 	Central Defender	20+1	0	0	1	0	0	3	0	0
-										
-WILKINSON, Steve 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-WILSON, Ian 	Midfielder	36+1	1	0	1	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEYNE, Robert ",Forward,1+2,0,0,0,0,0,0,0,0
+,"ANDREWS, Ian ",Goalkeeper,42,0,0,1,0,0,3,0,0
+,"BANKS, Ian ",Midfielder,2+1,0,0,0,0,0,0,0,0
+,"BRIGHT, Mark ",Forward,2,0,0,0,0,0,0,0,0
+,"BUCKLEY, John ",Winger,1+4,0,0,0,0,0,0,0,0
+,"BUNCE, Paul ",Winger,5+1,0,0,0,0,0,0,0,0
+,"D'AVRAY, Mich ",Forward,3,0,0,0,0,0,0,0,0
+,"FEELEY, Andy ",Full Back,11+1,0,0,1,0,0,0,0,0
+,"HORNER, Phil ",Central Defender,1+2,0,0,0+1,0,0,0,0,0
+,"JOBLING, Kevin ",Midfielder,1+2,0,0,0,0,0,0,0,0
+,"KELLY, Rob ",Midfielder,8+6,1,0,0,0,0,1+1,0,0
+,"LYNEX, Steve ",Winger,7+3,0,0,1,0,0,1+1,0,0
+,"MAUCHLEN, Ally ",Midfielder,30,1,0,0+1,0,0,2,0,0
+,"MCALLISTER, Gary ",Midfielder,39,9,3,1,1,1,3,1,0
+,"MORAN, Steve ",Forward,24+3,9,0,1,0,0,3,3,0
+,"MORGAN, Simon ",Central Defender,41,2,0,1,0,0,3,1,0
+,"MUGGLETON, Carl ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"O'NEILL, John ",Central Defender,29,2,0,0,0,0,0,0,0
+,"OSMAN, Russell ",Central Defender,31,3,0,0,0,0,3,0,0
+,"RAMSEY, Paul ",Midfielder,29,6,0,1,0,0,1,0,0
+,"REID, Paul ",Winger,5+1,0,0,0,0,0,0,0,0
+,"RUSSELL, Martin ",Midfielder,5,0,0,0,0,0,0,0,0
+,"SEALY, Tony ",Forward,9+9,1,0,0,0,0,1+1,0,0
+,"SMITH, Alan ",Forward,42,17,0,1,1,0,3,2,0
+,"VENUS, Mark ",Full Back,38+1,0,0,1,0,0,3,0,0
+,"WALSH, Steve ",Central Defender,20+1,0,0,1,0,0,3,0,0
+,"WILKINSON, Steve ",Forward,0+1,0,0,0,0,0,0,0,0
+,"WILSON, Ian ",Midfielder,36+1,1,0,1,0,0,3,0,0

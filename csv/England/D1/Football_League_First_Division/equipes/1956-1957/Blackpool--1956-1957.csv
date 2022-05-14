@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1956/57
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMFIELD, Jimmy 	Full Back	38	0	0	4	0	0	0	0	0
-										
-BARNES, Ron 	Winger	2	0	0	0	0	0	0	0	0
-										
-BOOTH, Ken 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-BROWN, Allan 	Inside Forward	17	13	0	1	0	0	0	0	0
-										
-DURIE, Dave 	Wing Half	38	20	0	4	2	0	0	0	0
-										
-FARM, George 	Goalkeeper	42	0	0	4	0	0	0	0	0
-										
-FENTON, Ewan 	Wing Half	27	3	1	4	0	0	0	0	0
-										
-FRITH, David 	Full Back	9	0	0	1	0	0	0	0	0
-										
-GARRETT, Tommy 	Full Back	18	0	0	3	0	0	0	0	0
-										
-GRATRIX, Roy 	Central Defender	42	0	0	4	0	0	0	0	0
-										
-HARRIS, Sandy 	Winger	6	2	0	0	0	0	0	0	0
-										
-HAYDOCK, Frank 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-HEPTON, Stan 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-KELLY, Hugh 	Wing Half	18	0	0	0	0	0	0	0	0
-										
-KELLY, Jimmy 	Wing Half	37	2	0	4	0	0	0	0	0
-										
-MATTHEWS, Stanley 	Winger	25	2	0	4	0	0	0	0	0
-										
-MCGLENNON, Tommy 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MCKENNA, Johnny 	Winger	7	0	0	0	0	0	0	0	0
-										
-MUDIE, Jackie 	Inside Forward	38	32	0	4	6	0	0	0	0
-										
-NORCROSS, Bill 	Winger	0	0	0	0	0	0	0	0	0
-										
-PERRY, Bill 	Winger	36	7	0	4	1	0	0	0	0
-										
-PETERSON, Brian 	Inside Forward	6	0	0	0	0	0	0	0	0
-										
-SHIMWELL, Eddie 	Full Back	1	0	0	0	0	0	0	0	0
-										
-SMITH, Ken 	Centre Forward	4	4	0	0	0	0	0	0	0
-										
-SNOWDON, Bryan 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-STARKEY, Malcolm 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-TAYLOR, Ernie 	Inside Forward	29	3	0	3	0	0	0	0	0
-										
-WRIGHT, Jackie 	Full Back	16	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMFIELD, Jimmy ",Full Back,38,0,0,4,0,0,0,0,0
+,"BARNES, Ron ",Winger,2,0,0,0,0,0,0,0,0
+,"BOOTH, Ken ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"BROWN, Allan ",Inside Forward,17,13,0,1,0,0,0,0,0
+,"DURIE, Dave ",Wing Half,38,20,0,4,2,0,0,0,0
+,"FARM, George ",Goalkeeper,42,0,0,4,0,0,0,0,0
+,"FENTON, Ewan ",Wing Half,27,3,1,4,0,0,0,0,0
+,"FRITH, David ",Full Back,9,0,0,1,0,0,0,0,0
+,"GARRETT, Tommy ",Full Back,18,0,0,3,0,0,0,0,0
+,"GRATRIX, Roy ",Central Defender,42,0,0,4,0,0,0,0,0
+,"HARRIS, Sandy ",Winger,6,2,0,0,0,0,0,0,0
+,"HAYDOCK, Frank ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HEPTON, Stan ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"KELLY, Hugh ",Wing Half,18,0,0,0,0,0,0,0,0
+,"KELLY, Jimmy ",Wing Half,37,2,0,4,0,0,0,0,0
+,"MATTHEWS, Stanley ",Winger,25,2,0,4,0,0,0,0,0
+,"MCGLENNON, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MCKENNA, Johnny ",Winger,7,0,0,0,0,0,0,0,0
+,"MUDIE, Jackie ",Inside Forward,38,32,0,4,6,0,0,0,0
+,"NORCROSS, Bill ",Winger,0,0,0,0,0,0,0,0,0
+,"PERRY, Bill ",Winger,36,7,0,4,1,0,0,0,0
+,"PETERSON, Brian ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"SHIMWELL, Eddie ",Full Back,1,0,0,0,0,0,0,0,0
+,"SMITH, Ken ",Centre Forward,4,4,0,0,0,0,0,0,0
+,"SNOWDON, Bryan ",Central Defender,3,0,0,0,0,0,0,0,0
+,"STARKEY, Malcolm ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"TAYLOR, Ernie ",Inside Forward,29,3,0,3,0,0,0,0,0
+,"WRIGHT, Jackie ",Full Back,16,1,0,0,0,0,0,0,0

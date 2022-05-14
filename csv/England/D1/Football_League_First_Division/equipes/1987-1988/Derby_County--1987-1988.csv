@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1987/88
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANGELL, Brett 	Forward	0	0	0	0	0	0	0	0	0
-										
-BLADES, Paul 	Central Defender	30+1	0	0	1	0	0	3+1	0	0
-										
-CALLAGHAN, Nigel 	Winger	40	4	1	1	0	0	4	0	0
-										
-CROSS, Steve 	Midfielder	11+4	3	0	0	0	0	2	0	0
-										
-DAVISON, Bobby 	Forward	13	1	0	0	0	0	1	0	0
-										
-DICK, Ally 	Winger	0	0	0	0	0	0	0	0	0
-										
-FORSYTH, Mike 	Full Back	39	3	0	1	0	0	4	0	0
-										
-GARNER, Andy 	Forward	14+10	4	0	0+1	0	0	3+1	1	0
-										
-GEE, Phil 	Forward	36+2	6	0	1	0	0	4	0	0
-										
-GREGORY, John 	Midfielder	39	6	1	1	0	0	3	0	0
-										
-HINDMARCH, Rob 	Central Defender	19	0	0	0	0	0	1	0	0
-										
-LEWIS, Mickey 	Midfielder	10+6	0	0	0+1	0	0	1	0	0
-										
-LILLIS, Mark 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-MACLAREN, Ross 	Central Defender	25+9	0	0	1	0	0	3	0	0
-										
-MCCLAREN, Steve 	Midfielder	1+1	0	0	0	0	0	1	0	0
-										
-MCCORD, Brian 	Midfielder	1	0	0	1	0	0	0+1	1	0
-										
-MCMINN, Ted 	Winger	7	1	0	0	0	0	0	0	0
-										
-MICKLEWHITE, Gary 	Winger	12+4	1	0	0	0	0	0	0	0
-										
-PENNEY, David 	Midfielder	3+6	0	0	1	1	0	0+3	1	0
-										
-SAGE, Mel 	Full Back	12+1	0	0	0	0	0	3	0	0
-										
-SHILTON, Peter 	Goalkeeper	40	0	0	1	0	0	4	0	0
-										
-STAPLETON, Frank 	Forward	10	1	0	0	0	0	0	0	0
-										
-WILLIAMS, Geraint 	Midfielder	40	1	0	1	0	0	4	0	0
-										
-WRIGHT, Mark 	Central Defender	38	3	0	1	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANGELL, Brett ",Forward,0,0,0,0,0,0,0,0,0
+,"BLADES, Paul ",Central Defender,30+1,0,0,1,0,0,3+1,0,0
+,"CALLAGHAN, Nigel ",Winger,40,4,1,1,0,0,4,0,0
+,"CROSS, Steve ",Midfielder,11+4,3,0,0,0,0,2,0,0
+,"DAVISON, Bobby ",Forward,13,1,0,0,0,0,1,0,0
+,"DICK, Ally ",Winger,0,0,0,0,0,0,0,0,0
+,"FORSYTH, Mike ",Full Back,39,3,0,1,0,0,4,0,0
+,"GARNER, Andy ",Forward,14+10,4,0,0+1,0,0,3+1,1,0
+,"GEE, Phil ",Forward,36+2,6,0,1,0,0,4,0,0
+,"GREGORY, John ",Midfielder,39,6,1,1,0,0,3,0,0
+,"HINDMARCH, Rob ",Central Defender,19,0,0,0,0,0,1,0,0
+,"LEWIS, Mickey ",Midfielder,10+6,0,0,0+1,0,0,1,0,0
+,"LILLIS, Mark ",Forward,0+1,0,0,0,0,0,0,0,0
+,"MACLAREN, Ross ",Central Defender,25+9,0,0,1,0,0,3,0,0
+,"MCCLAREN, Steve ",Midfielder,1+1,0,0,0,0,0,1,0,0
+,"MCCORD, Brian ",Midfielder,1,0,0,1,0,0,0+1,1,0
+,"MCMINN, Ted ",Winger,7,1,0,0,0,0,0,0,0
+,"MICKLEWHITE, Gary ",Winger,12+4,1,0,0,0,0,0,0,0
+,"PENNEY, David ",Midfielder,3+6,0,0,1,1,0,0+3,1,0
+,"SAGE, Mel ",Full Back,12+1,0,0,0,0,0,3,0,0
+,"SHILTON, Peter ",Goalkeeper,40,0,0,1,0,0,4,0,0
+,"STAPLETON, Frank ",Forward,10,1,0,0,0,0,0,0,0
+,"WILLIAMS, Geraint ",Midfielder,40,1,0,1,0,0,4,0,0
+,"WRIGHT, Mark ",Central Defender,38,3,0,1,0,0,3,0,0

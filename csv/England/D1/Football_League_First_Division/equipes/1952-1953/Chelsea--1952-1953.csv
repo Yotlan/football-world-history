@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1952/53
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLISTER, Jack 	Centre Forward	1	0	0	0	0	0	0	0	0
-										
-ARMSTRONG, Ken 	Wing Half	41	1	0	7	1	0	0	0	0
-										
-BATHGATE, Syd 	Full Back	3	0	0	0	0	0	0	0	0
-										
-BENTLEY, Roy 	Centre Forward	37	12	1	7	5	0	0	0	0
-										
-BLUNSTONE, Frank 	Winger	11	2	0	0	0	0	0	0	0
-										
-CAMPBELL, Bobby 	Winger	18	3	0	6	1	0	0	0	0
-										
-D'ARCY, Jimmy 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-DICKS, Alan 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-DICKSON, Bill 	Wing Half	38	3	0	7	0	0	0	0	0
-										
-DOUGLASS, Norman 	Full Back	0	0	0	0	0	0	0	0	0
-										
-EDWARDS, Bobby 	Inside Forward	12	2	0	0	0	0	0	0	0
-										
-GRAY, Billy 	Winger	32	3	0	5	0	0	0	0	0
-										
-GREENWOOD, Ron 	Central Defender	11	0	0	0	0	0	0	0	0
-										
-HARRIS, John 	Central Defender	36	3	3	3	0	0	0	0	0
-										
-LEE, Jimmy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-LEWIS, Fred 	Full Back	1	0	0	0	0	0	0	0	0
-										
-LEWIS, Jim 	Winger	9	4	0	0	0	0	0	0	0
-										
-MCKNIGHT, Phil 	Wing Half	4	1	0	0	0	0	0	0	0
-										
-MCNICHOL, Johnny 	Inside Forward	39	11	0	7	1	0	0	0	0
-										
-NEKREWS, Tommy 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-OELOFSE, Ralph 	Full Back	5	0	0	0	0	0	0	0	0
-										
-PARSONS, Eric 'Rabbit' 	Winger	33	8	0	7	3	0	0	0	0
-										
-ROBERTSON, Bill 	Goalkeeper	27	0	0	0	0	0	0	0	0
-										
-RULE, Alan 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-SAUNDERS, Jack 	Central Defender	20	0	0	7	0	0	0	0	0
-										
-SMITH, Jimmy 	Winger	1	0	0	0	0	0	0	0	0
-										
-SMITH, Bobby 	Centre Forward	7	1	0	0	0	0	0	0	0
-										
-SPECTOR, Miles 	Winger	2	0	0	3	0	0	0	0	0
-										
-STUBBS, Les 	Inside Forward	5	0	0	0	0	0	0	0	0
-										
-THOMSON, Chic 	Goalkeeper	15	0	0	7	0	0	0	0	0
-										
-TICKRIDGE, Sid 	Full Back	12	0	0	4	0	0	0	0	0
-										
-WILLEMSE, Stan 	Full Back	39	0	0	7	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLISTER, Jack ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"ARMSTRONG, Ken ",Wing Half,41,1,0,7,1,0,0,0,0
+,"BATHGATE, Syd ",Full Back,3,0,0,0,0,0,0,0,0
+,"BENTLEY, Roy ",Centre Forward,37,12,1,7,5,0,0,0,0
+,"BLUNSTONE, Frank ",Winger,11,2,0,0,0,0,0,0,0
+,"CAMPBELL, Bobby ",Winger,18,3,0,6,1,0,0,0,0
+,"D'ARCY, Jimmy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"DICKS, Alan ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DICKSON, Bill ",Wing Half,38,3,0,7,0,0,0,0,0
+,"DOUGLASS, Norman ",Full Back,0,0,0,0,0,0,0,0,0
+,"EDWARDS, Bobby ",Inside Forward,12,2,0,0,0,0,0,0,0
+,"GRAY, Billy ",Winger,32,3,0,5,0,0,0,0,0
+,"GREENWOOD, Ron ",Central Defender,11,0,0,0,0,0,0,0,0
+,"HARRIS, John ",Central Defender,36,3,3,3,0,0,0,0,0
+,"LEE, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"LEWIS, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"LEWIS, Jim ",Winger,9,4,0,0,0,0,0,0,0
+,"MCKNIGHT, Phil ",Wing Half,4,1,0,0,0,0,0,0,0
+,"MCNICHOL, Johnny ",Inside Forward,39,11,0,7,1,0,0,0,0
+,"NEKREWS, Tommy ",Central Defender,0,0,0,0,0,0,0,0,0
+,"OELOFSE, Ralph ",Full Back,5,0,0,0,0,0,0,0,0
+,"PARSONS, Eric 'Rabbit' ",Winger,33,8,0,7,3,0,0,0,0
+,"ROBERTSON, Bill ",Goalkeeper,27,0,0,0,0,0,0,0,0
+,"RULE, Alan ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SAUNDERS, Jack ",Central Defender,20,0,0,7,0,0,0,0,0
+,"SMITH, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"SMITH, Bobby ",Centre Forward,7,1,0,0,0,0,0,0,0
+,"SPECTOR, Miles ",Winger,2,0,0,3,0,0,0,0,0
+,"STUBBS, Les ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"THOMSON, Chic ",Goalkeeper,15,0,0,7,0,0,0,0,0
+,"TICKRIDGE, Sid ",Full Back,12,0,0,4,0,0,0,0,0
+,"WILLEMSE, Stan ",Full Back,39,0,0,7,0,0,0,0,0

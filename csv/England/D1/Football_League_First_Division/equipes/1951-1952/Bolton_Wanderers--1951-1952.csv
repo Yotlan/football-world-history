@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1951/52
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, John 	Full Back	39	0	0	1	0	0	0	0	0
-										
-BANKS, Ralph 	Full Back	4	0	0	0	0	0	0	0	0
-										
-BARRASS, Malcolm 	Central Defender	37	0	0	1	0	0	0	0	0
-										
-BELL, Eric 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-CLARKE, Doug 	Winger	0	0	0	0	0	0	0	0	0
-										
-CODD, Ronnie 	Winger	18	3	0	0	0	0	0	0	0
-										
-CORFIELD, Ernie 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-EDWARDS, Bryan 	Wing Half	40	0	0	1	0	0	0	0	0
-										
-GALLAGHER, Mike 	Winger	0	0	0	0	0	0	0	0	0
-										
-GILLIES, Matt 	Central Defender	5	0	0	0	0	0	0	0	0
-										
-GRIEVES, Ken 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-HANSON, Stan 	Goalkeeper	40	0	0	1	0	0	0	0	0
-										
-HARRIS, Bert 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-HASSALL, Harold 	Inside Forward	17	3	0	0	0	0	0	0	0
-										
-HIGGINS, George 	Full Back	40	0	0	1	0	0	0	0	0
-										
-HOLDEN, Doug 	Winger	25	4	0	1	0	0	0	0	0
-										
-HOWE, Don 	Wing Half	10	3	0	0	0	0	0	0	0
-										
-HUGHES, Billy 	Winger	3	0	0	0	0	0	0	0	0
-										
-LANGTON, Bobby 	Winger	35	5	4	1	0	0	0	0	0
-										
-LOFTHOUSE, Nat 	Centre Forward	38	18	0	1	0	0	0	0	0
-										
-MOIR, Willie 	Inside Forward	39	16	1	1	0	0	0	0	0
-										
-NEWSHAM, Stan 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-OVERFIELD, Jack 	Winger	0	0	0	0	0	0	0	0	0
-										
-PARRY, Ray 	Midfielder	2	0	0	0	0	0	0	0	0
-										
-SPEAKMAN, Sammy 	Winger	0	0	0	0	0	0	0	0	0
-										
-WEBSTER, Harry 	Inside Forward	21	8	0	1	0	0	0	0	0
-										
-WHEELER, Johnny 	Wing Half	40	4	0	1	0	0	0	0	0
-										
-WILLIAMS, Alvan 	Central Defender	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, John ",Full Back,39,0,0,1,0,0,0,0,0
+,"BANKS, Ralph ",Full Back,4,0,0,0,0,0,0,0,0
+,"BARRASS, Malcolm ",Central Defender,37,0,0,1,0,0,0,0,0
+,"BELL, Eric ",Wing Half,5,0,0,0,0,0,0,0,0
+,"CLARKE, Doug ",Winger,0,0,0,0,0,0,0,0,0
+,"CODD, Ronnie ",Winger,18,3,0,0,0,0,0,0,0
+,"CORFIELD, Ernie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"EDWARDS, Bryan ",Wing Half,40,0,0,1,0,0,0,0,0
+,"GALLAGHER, Mike ",Winger,0,0,0,0,0,0,0,0,0
+,"GILLIES, Matt ",Central Defender,5,0,0,0,0,0,0,0,0
+,"GRIEVES, Ken ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HANSON, Stan ",Goalkeeper,40,0,0,1,0,0,0,0,0
+,"HARRIS, Bert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HASSALL, Harold ",Inside Forward,17,3,0,0,0,0,0,0,0
+,"HIGGINS, George ",Full Back,40,0,0,1,0,0,0,0,0
+,"HOLDEN, Doug ",Winger,25,4,0,1,0,0,0,0,0
+,"HOWE, Don ",Wing Half,10,3,0,0,0,0,0,0,0
+,"HUGHES, Billy ",Winger,3,0,0,0,0,0,0,0,0
+,"LANGTON, Bobby ",Winger,35,5,4,1,0,0,0,0,0
+,"LOFTHOUSE, Nat ",Centre Forward,38,18,0,1,0,0,0,0,0
+,"MOIR, Willie ",Inside Forward,39,16,1,1,0,0,0,0,0
+,"NEWSHAM, Stan ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"OVERFIELD, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"PARRY, Ray ",Midfielder,2,0,0,0,0,0,0,0,0
+,"SPEAKMAN, Sammy ",Winger,0,0,0,0,0,0,0,0,0
+,"WEBSTER, Harry ",Inside Forward,21,8,0,1,0,0,0,0,0
+,"WHEELER, Johnny ",Wing Half,40,4,0,1,0,0,0,0,0
+,"WILLIAMS, Alvan ",Central Defender,0,0,0,0,0,0,0,0,0

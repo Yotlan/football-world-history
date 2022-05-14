@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1991/92
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Bradley 	Forward	10+1	5	0	0	0	0	0	0	0
-										
-BAILEY, Dennis 	Forward	19+5	9	0	1	0	0	4	2	0
-										
-BARDSLEY, David 	Full Back	41	0	0	1	0	0	6	2	0
-										
-BARKER, Simon 	Midfielder	31+3	6	0	1	0	0	6	2	0
-										
-BREVETT, Rufus 	Full Back	6+1	0	0	0	0	0	1	0	0
-										
-CHANNING, Justin 	Full Back	0	0	0	0	0	0	1	0	0
-										
-FERDINAND, Les 	Forward	21+2	10	0	0	0	0	2+1	0	0
-										
-HERRERA, Robbie 	Full Back	0	0	0	0	0	0	0+1	0	0
-										
-HOLLOWAY, Ian 	Winger	34+6	0	0	1	0	0	4+1	0	0
-										
-HUNT, Kevin 	Full Back	0	0	0	0	0	0	0	0	0
-										
-IMPEY, Andy 	Full Back	13	0	0	0	0	0	0+3	1	0
-										
-IORFA, Dominic 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-MADDIX, Danny 	Central Defender	19	0	0	0	0	0	5	0	0
-										
-MCCARTHY, Alan 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-MCDONALD, Alan 	Central Defender	27+1	0	0	1	0	0	2	0	0
-										
-MEAKER, Michael 	Winger	0+1	0	0	0	0	0	0	0	0
-										
-PEACOCK, Darren 	Central Defender	39	1	0	1	0	0	6	0	0
-										
-PENRICE, Gary 	Forward	13+6	3	0	0+1	0	0	2	1	0
-										
-READY, Karl 	Central Defender	1	0	0	0	0	0	0+1	0	0
-										
-ROBERTS, Tony 	Goalkeeper	1	0	0	0	0	0	1	0	0
-										
-SINTON, Andy 	Winger	38	3	0	1	0	0	5	1	0
-										
-STEJSKAL, Jan 	Goalkeeper	41	0	0	1	0	0	5	0	0
-										
-THOMPSON, Garry 	Forward	10+5	1	0	0	0	0	4	3	0
-										
-TILLSON, Andy 	Central Defender	9+1	0	0	0	0	0	3	0	0
-										
-WADDOCK, Gary 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-WALSH, Paul 	Forward	2	0	0	0	0	0	0	0	0
-										
-WEGERLE, Roy 	Forward	18+3	5	1	1	0	0	1	0	0
-										
-WILKINS, Ray 	Midfielder	26+1	1	0	1	0	0	2	1	0
-										
-WILSON, Clive 	Full Back	40	3	2	1	0	0	6	0	0
-										
-WITTER, Tony 	Central Defender	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Bradley ",Forward,10+1,5,0,0,0,0,0,0,0
+,"BAILEY, Dennis ",Forward,19+5,9,0,1,0,0,4,2,0
+,"BARDSLEY, David ",Full Back,41,0,0,1,0,0,6,2,0
+,"BARKER, Simon ",Midfielder,31+3,6,0,1,0,0,6,2,0
+,"BREVETT, Rufus ",Full Back,6+1,0,0,0,0,0,1,0,0
+,"CHANNING, Justin ",Full Back,0,0,0,0,0,0,1,0,0
+,"FERDINAND, Les ",Forward,21+2,10,0,0,0,0,2+1,0,0
+,"HERRERA, Robbie ",Full Back,0,0,0,0,0,0,0+1,0,0
+,"HOLLOWAY, Ian ",Winger,34+6,0,0,1,0,0,4+1,0,0
+,"HUNT, Kevin ",Full Back,0,0,0,0,0,0,0,0,0
+,"IMPEY, Andy ",Full Back,13,0,0,0,0,0,0+3,1,0
+,"IORFA, Dominic ",Forward,0+1,0,0,0,0,0,0,0,0
+,"MADDIX, Danny ",Central Defender,19,0,0,0,0,0,5,0,0
+,"MCCARTHY, Alan ",Central Defender,3,0,0,0,0,0,0,0,0
+,"MCDONALD, Alan ",Central Defender,27+1,0,0,1,0,0,2,0,0
+,"MEAKER, Michael ",Winger,0+1,0,0,0,0,0,0,0,0
+,"PEACOCK, Darren ",Central Defender,39,1,0,1,0,0,6,0,0
+,"PENRICE, Gary ",Forward,13+6,3,0,0+1,0,0,2,1,0
+,"READY, Karl ",Central Defender,1,0,0,0,0,0,0+1,0,0
+,"ROBERTS, Tony ",Goalkeeper,1,0,0,0,0,0,1,0,0
+,"SINTON, Andy ",Winger,38,3,0,1,0,0,5,1,0
+,"STEJSKAL, Jan ",Goalkeeper,41,0,0,1,0,0,5,0,0
+,"THOMPSON, Garry ",Forward,10+5,1,0,0,0,0,4,3,0
+,"TILLSON, Andy ",Central Defender,9+1,0,0,0,0,0,3,0,0
+,"WADDOCK, Gary ",Midfielder,0,0,0,0,0,0,0,0,0
+,"WALSH, Paul ",Forward,2,0,0,0,0,0,0,0,0
+,"WEGERLE, Roy ",Forward,18+3,5,1,1,0,0,1,0,0
+,"WILKINS, Ray ",Midfielder,26+1,1,0,1,0,0,2,1,0
+,"WILSON, Clive ",Full Back,40,3,2,1,0,0,6,0,0
+,"WITTER, Tony ",Central Defender,0,0,0,0,0,0,0,0,0

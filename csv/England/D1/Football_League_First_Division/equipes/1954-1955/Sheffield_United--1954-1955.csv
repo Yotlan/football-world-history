@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1954/55
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BURGIN, Ted 	Goalkeeper	31	0	0	1	0	0	0	0	0
-										
-COLDWELL, Cec 	Full Back	20	0	0	0	0	0	0	0	0
-										
-CROSS, Jack 	Centre Forward	29	10	0	0	0	0	0	0	0
-										
-DENIAL, Geoff 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-FOUNTAIN, Jack 	Wing Half	20	0	0	0	0	0	0	0	0
-										
-FOWLER, Jack 	Winger	0	0	0	0	0	0	0	0	0
-										
-FURNISS, Fred 	Full Back	20	2	2	1	0	0	0	0	0
-										
-GRAINGER, Colin 	Winger	25	6	0	0	0	0	0	0	0
-										
-HAGAN, Jimmy 	Inside Forward	28	8	0	1	0	0	0	0	0
-										
-HAWKSWORTH, Derek 	Winger	34	14	1	1	0	0	0	0	0
-										
-HODGKINSON, Alan 	Goalkeeper	11	0	0	0	0	0	0	0	0
-										
-HOYLAND, Tommy 	Wing Half	40	6	0	1	0	0	0	0	0
-										
-ILEY, Jim 	Midfielder	22	0	0	1	0	0	0	0	0
-										
-JOHNSON, Howard 	Central Defender	6	0	0	0	0	0	0	0	0
-										
-LUKE, George 	Centre Forward	6	0	0	0	0	0	0	0	0
-										
-OVER, Eric 	Winger	2	0	0	0	0	0	0	0	0
-										
-RAWSON, Colin 	Wing Half	20	1	0	0	0	0	0	0	0
-										
-RIDGE, Roy 	Full Back	1	0	0	0	0	0	0	0	0
-										
-RINGSTEAD, Alf 	Winger	30	11	0	1	1	0	0	0	0
-										
-SHAW, Graham 	Full Back	41	2	0	1	0	0	0	0	0
-										
-SHAW, Joe 	Central Defender	41	0	0	1	0	0	0	0	0
-										
-SPENCER, John 	Inside Forward	7	5	0	1	0	0	0	0	0
-										
-WALDOCK, Ronnie 	Inside Forward	22	3	0	1	0	0	0	0	0
-										
-WILLIAMS, Bobby 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-WRAGG, Peter 	Inside Forward	5	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BURGIN, Ted ",Goalkeeper,31,0,0,1,0,0,0,0,0
+,"COLDWELL, Cec ",Full Back,20,0,0,0,0,0,0,0,0
+,"CROSS, Jack ",Centre Forward,29,10,0,0,0,0,0,0,0
+,"DENIAL, Geoff ",Wing Half,1,0,0,0,0,0,0,0,0
+,"FOUNTAIN, Jack ",Wing Half,20,0,0,0,0,0,0,0,0
+,"FOWLER, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"FURNISS, Fred ",Full Back,20,2,2,1,0,0,0,0,0
+,"GRAINGER, Colin ",Winger,25,6,0,0,0,0,0,0,0
+,"HAGAN, Jimmy ",Inside Forward,28,8,0,1,0,0,0,0,0
+,"HAWKSWORTH, Derek ",Winger,34,14,1,1,0,0,0,0,0
+,"HODGKINSON, Alan ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"HOYLAND, Tommy ",Wing Half,40,6,0,1,0,0,0,0,0
+,"ILEY, Jim ",Midfielder,22,0,0,1,0,0,0,0,0
+,"JOHNSON, Howard ",Central Defender,6,0,0,0,0,0,0,0,0
+,"LUKE, George ",Centre Forward,6,0,0,0,0,0,0,0,0
+,"OVER, Eric ",Winger,2,0,0,0,0,0,0,0,0
+,"RAWSON, Colin ",Wing Half,20,1,0,0,0,0,0,0,0
+,"RIDGE, Roy ",Full Back,1,0,0,0,0,0,0,0,0
+,"RINGSTEAD, Alf ",Winger,30,11,0,1,1,0,0,0,0
+,"SHAW, Graham ",Full Back,41,2,0,1,0,0,0,0,0
+,"SHAW, Joe ",Central Defender,41,0,0,1,0,0,0,0,0
+,"SPENCER, John ",Inside Forward,7,5,0,1,0,0,0,0,0
+,"WALDOCK, Ronnie ",Inside Forward,22,3,0,1,0,0,0,0,0
+,"WILLIAMS, Bobby ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WRAGG, Peter ",Inside Forward,5,1,0,0,0,0,0,0,0

@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1949/50
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROOME, Frank 	Winger	11	5	0	0	0	0	0	0	0
-										
-BROWN, Harry 	Goalkeeper	6	0	0	0	0	0	0	0	0
-										
-CUSHLOW, Dick 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-DODD, Billy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HARRISON, Reg 	Winger	17	4	0	1	0	0	0	0	0
-										
-HOWE, Jack 	Full Back	11	0	0	0	0	0	0	0	0
-										
-JEPSON, Barry 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-LEUTY, Leon 	Central Defender	16	0	0	3	0	0	0	0	0
-										
-MAYS, Albert 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-MCLACHLAN, Steve 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-MCLAREN, Hugh 	Winger	28	12	0	4	2	0	0	0	0
-										
-MORRIS, Johnny 	Inside Forward	34	10	0	5	2	0	0	0	0
-										
-MOZLEY, Bert 	Full Back	39	1	0	5	0	0	0	0	0
-										
-MUSSON, Chick 	Wing Half	41	0	0	5	0	0	0	0	0
-										
-MYNARD, Les 	Winger	11	2	0	0	0	0	0	0	0
-										
-OLIVER, Allen 	Winger	3	1	0	0	0	0	0	0	0
-										
-OLIVER, Ken 	Central Defender	25	0	0	2	0	0	0	0	0
-										
-PARKIN, Albert 	Centre Forward	9	0	0	0	0	0	0	0	0
-										
-PARR, Jackie 	Full Back	29	0	0	5	0	0	0	0	0
-										
-POPPITT, Johnny 	Full Back	5	0	0	0	0	0	0	0	0
-										
-POWELL, Tommy 	Winger	21	1	0	5	5	0	0	0	0
-										
-STAMPS, Jackie 	Centre Forward	37	22	2	5	7	1	0	0	0
-										
-STEEL, Billy 	Inside Forward	34	5	0	5	1	0	0	0	0
-										
-THOMPSON, Cyril 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-TOWNSEND, Billy 	Goalkeeper	23	0	0	5	0	0	0	0	0
-										
-WARD, Tim 	Wing Half	41	2	0	5	0	0	0	0	0
-										
-WEBSTER, Terry 	Goalkeeper	13	0	0	0	0	0	0	0	0
-										
-WILKINS, Ray 	Centre Forward	2	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROOME, Frank ",Winger,11,5,0,0,0,0,0,0,0
+,"BROWN, Harry ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"CUSHLOW, Dick ",Central Defender,1,0,0,0,0,0,0,0,0
+,"DODD, Billy ",Full Back,0,0,0,0,0,0,0,0,0
+,"HARRISON, Reg ",Winger,17,4,0,1,0,0,0,0,0
+,"HOWE, Jack ",Full Back,11,0,0,0,0,0,0,0,0
+,"JEPSON, Barry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LEUTY, Leon ",Central Defender,16,0,0,3,0,0,0,0,0
+,"MAYS, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCLACHLAN, Steve ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCLAREN, Hugh ",Winger,28,12,0,4,2,0,0,0,0
+,"MORRIS, Johnny ",Inside Forward,34,10,0,5,2,0,0,0,0
+,"MOZLEY, Bert ",Full Back,39,1,0,5,0,0,0,0,0
+,"MUSSON, Chick ",Wing Half,41,0,0,5,0,0,0,0,0
+,"MYNARD, Les ",Winger,11,2,0,0,0,0,0,0,0
+,"OLIVER, Allen ",Winger,3,1,0,0,0,0,0,0,0
+,"OLIVER, Ken ",Central Defender,25,0,0,2,0,0,0,0,0
+,"PARKIN, Albert ",Centre Forward,9,0,0,0,0,0,0,0,0
+,"PARR, Jackie ",Full Back,29,0,0,5,0,0,0,0,0
+,"POPPITT, Johnny ",Full Back,5,0,0,0,0,0,0,0,0
+,"POWELL, Tommy ",Winger,21,1,0,5,5,0,0,0,0
+,"STAMPS, Jackie ",Centre Forward,37,22,2,5,7,1,0,0,0
+,"STEEL, Billy ",Inside Forward,34,5,0,5,1,0,0,0,0
+,"THOMPSON, Cyril ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"TOWNSEND, Billy ",Goalkeeper,23,0,0,5,0,0,0,0,0
+,"WARD, Tim ",Wing Half,41,2,0,5,0,0,0,0,0
+,"WEBSTER, Terry ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"WILKINS, Ray ",Centre Forward,2,1,0,0,0,0,0,0,0

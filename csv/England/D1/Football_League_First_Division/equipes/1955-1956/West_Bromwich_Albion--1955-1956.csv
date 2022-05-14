@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1955/56
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Ronnie 	Centre Forward	34	17	6	3	1	1	0	0	0
-										
-BARLOW, Ray 	Wing Half	38	1	0	3	0	0	0	0	0
-										
-BROOKES, Billy 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-BROWN, Fred 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-CARTER, Wilf 	Inside Forward	13	1	0	0	0	0	0	0	0
-										
-COOKE, Barry 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-CROWSHAW, Allan 	Winger	8	2	0	0	0	0	0	0	0
-										
-DUDLEY, Jimmy 	Wing Half	41	0	0	3	0	0	0	0	0
-										
-DUGDALE, Jimmy 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-FORD, Peter 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-GRIFFIN, Frank 	Winger	31	6	0	3	1	0	0	0	0
-										
-HODGKISSON, Ken 	Inside Forward	8	0	0	0	0	0	0	0	0
-										
-HOROBIN, Roy 	Inside Forward	4	1	0	0	0	0	0	0	0
-										
-HOWE, Don 	Full Back	24	0	0	3	0	0	0	0	0
-										
-JACKSON, Alec 	Winger	2	1	0	0	0	0	0	0	0
-										
-JARMAN, Harold 	Winger	0	0	0	0	0	0	0	0	0
-										
-KENNEDY, Joe 	Central Defender	31	1	0	3	0	0	0	0	0
-										
-KEVAN, Derek 	Forward	7	4	0	0	0	0	0	0	0
-										
-LEE, George 	Winger	40	10	0	3	2	0	0	0	0
-										
-MILLARD, Len 	Full Back	40	0	0	3	0	0	0	0	0
-										
-NICHOLLS, Johnny 	Inside Forward	24	8	0	0	0	0	0	0	0
-										
-PERKINS, Eric 	Full Back	2	0	0	0	0	0	0	0	0
-										
-ROBSON, Bobby 	Inside Forward	10	1	0	0	0	0	0	0	0
-										
-SANDERS, Jim 	Goalkeeper	41	0	0	3	0	0	0	0	0
-										
-SETTERS, Maurice 	Central Defender	11	2	0	3	0	0	0	0	0
-										
-SUMMERS, Gerry 	Wing Half	20	0	0	3	0	0	0	0	0
-										
-WHITEHOUSE, Brian 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Graham 	Full Back	2	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Stuart 	Full Back	20	1	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Ronnie ",Centre Forward,34,17,6,3,1,1,0,0,0
+,"BARLOW, Ray ",Wing Half,38,1,0,3,0,0,0,0,0
+,"BROOKES, Billy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BROWN, Fred ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CARTER, Wilf ",Inside Forward,13,1,0,0,0,0,0,0,0
+,"COOKE, Barry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CROWSHAW, Allan ",Winger,8,2,0,0,0,0,0,0,0
+,"DUDLEY, Jimmy ",Wing Half,41,0,0,3,0,0,0,0,0
+,"DUGDALE, Jimmy ",Central Defender,3,0,0,0,0,0,0,0,0
+,"FORD, Peter ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GRIFFIN, Frank ",Winger,31,6,0,3,1,0,0,0,0
+,"HODGKISSON, Ken ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"HOROBIN, Roy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"HOWE, Don ",Full Back,24,0,0,3,0,0,0,0,0
+,"JACKSON, Alec ",Winger,2,1,0,0,0,0,0,0,0
+,"JARMAN, Harold ",Winger,0,0,0,0,0,0,0,0,0
+,"KENNEDY, Joe ",Central Defender,31,1,0,3,0,0,0,0,0
+,"KEVAN, Derek ",Forward,7,4,0,0,0,0,0,0,0
+,"LEE, George ",Winger,40,10,0,3,2,0,0,0,0
+,"MILLARD, Len ",Full Back,40,0,0,3,0,0,0,0,0
+,"NICHOLLS, Johnny ",Inside Forward,24,8,0,0,0,0,0,0,0
+,"PERKINS, Eric ",Full Back,2,0,0,0,0,0,0,0,0
+,"ROBSON, Bobby ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"SANDERS, Jim ",Goalkeeper,41,0,0,3,0,0,0,0,0
+,"SETTERS, Maurice ",Central Defender,11,2,0,3,0,0,0,0,0
+,"SUMMERS, Gerry ",Wing Half,20,0,0,3,0,0,0,0,0
+,"WHITEHOUSE, Brian ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"WILLIAMS, Graham ",Full Back,2,0,0,0,0,0,0,0,0
+,"WILLIAMS, Stuart ",Full Back,20,1,0,0,0,0,0,0,0

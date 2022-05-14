@@ -1,39 +1,19 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1980/81
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BREMNER, Des 	Midfielder	42	2	0	1	0	0	3	0	0
-										
-COWANS, Gordon 	Midfielder	42	5	4	1	0	0	3	0	0
-										
-DEACY, Eamonn 	Full Back	5+4	0	0	0	0	0	0+1	0	0
-										
-EVANS, Allan 	Central Defender	39	7	0	1	0	0	3	0	0
-										
-GEDDIS, David 	Forward	8+1	4	0	0	0	0	1	0	0
-										
-GIBSON, Colin 	Full Back	19+2	0	0	0	0	0	3	0	0
-										
-MAIL, David 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-MCCLAIR, Brian 	Forward	0	0	0	0	0	0	0	0	0
-										
-MCNAUGHT, Ken 	Central Defender	42	0	0	1	0	0	3	0	0
-										
-MORLEY, Tony 	Winger	42	10	0	1	0	0	3	2	0
-										
-MORTIMER, Dennis 	Midfielder	42	4	0	1	0	0	3	0	0
-										
-RIMMER, Jimmy 	Goalkeeper	42	0	0	1	0	0	3	0	0
-										
-SHAW, Gary 	Forward	40	18	0	1	0	0	2	2	0
-										
-SWAIN, Kenny 	Full Back	42	0	0	1	0	0	3	0	0
-										
-TAYLOR, Andy 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Gary 	Full Back	21+1	0	0	1	0	0	0	0	0
-										
-WITHE, Peter 	Forward	36	20	0	1	0	0	3	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BREMNER, Des ",Midfielder,42,2,0,1,0,0,3,0,0
+,"COWANS, Gordon ",Midfielder,42,5,4,1,0,0,3,0,0
+,"DEACY, Eamonn ",Full Back,5+4,0,0,0,0,0,0+1,0,0
+,"EVANS, Allan ",Central Defender,39,7,0,1,0,0,3,0,0
+,"GEDDIS, David ",Forward,8+1,4,0,0,0,0,1,0,0
+,"GIBSON, Colin ",Full Back,19+2,0,0,0,0,0,3,0,0
+,"MAIL, David ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MCCLAIR, Brian ",Forward,0,0,0,0,0,0,0,0,0
+,"MCNAUGHT, Ken ",Central Defender,42,0,0,1,0,0,3,0,0
+,"MORLEY, Tony ",Winger,42,10,0,1,0,0,3,2,0
+,"MORTIMER, Dennis ",Midfielder,42,4,0,1,0,0,3,0,0
+,"RIMMER, Jimmy ",Goalkeeper,42,0,0,1,0,0,3,0,0
+,"SHAW, Gary ",Forward,40,18,0,1,0,0,2,2,0
+,"SWAIN, Kenny ",Full Back,42,0,0,1,0,0,3,0,0
+,"TAYLOR, Andy ",Full Back,0,0,0,0,0,0,0,0,0
+,"WILLIAMS, Gary ",Full Back,21+1,0,0,1,0,0,0,0,0
+,"WITHE, Peter ",Forward,36,20,0,1,0,0,3,1,0

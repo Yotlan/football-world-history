@@ -1,45 +1,22 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1977/78
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Viv 	Full Back	37	3	0	5	0	0	8	1	0
-										
-BARRETT, Colin 	Full Back	33+2	1	0	3	0	0	5	0	0
-										
-BOWYER, Ian 	Midfielder	26+3	4	0	3	0	0	8	6	0
-										
-BURNS, Kenny 	Central Defender	41	4	0	6	0	0	8	0	0
-										
-CHARD, Phil 	Full Back	0	0	0	0	0	0	0	0	0
-										
-CLARK, Frank 	Full Back	12+1	1	0	3	0	0	4	0	0
-										
-GEMMILL, Archie 	Midfielder	32+2	3	0	4	0	0	0	0	0
-										
-LLOYD, Larry 	Central Defender	26	0	0	2	0	0	6	1	0
-										
-MCGOVERN, John 	Midfielder	31	4	0	4	0	0	7	0	0
-										
-MIDDLETON, John 	Goalkeeper	5	0	0	0	0	0	1	0	0
-										
-NEEDHAM, Dave 	Central Defender	16	4	0	6	0	0	0	0	0
-										
-O'HARE, John 	Forward	10	0	0	0+1	0	0	2+1	1	0
-										
-O'NEILL, Martin 	Midfielder	38+2	8	0	6	2	0	8	3	0
-										
-ROBERTSON, John 	Winger	42	12	8	6	3	1	8	3	2
-										
-SHILTON, Peter 	Goalkeeper	37	0	0	6	0	0	0	0	0
-										
-SMITH, Colin 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WITHE, Peter 	Forward	40	12	0	6	2	0	8	5	0
-										
-WOOD, Hugh 	Full Back	0	0	0	0	0	0	0	0	0
-										
-WOODCOCK, Tony 	Forward	36	11	0	6	4	0	8	4	0
-										
-WOODS, Chris 	Goalkeeper	0	0	0	0	0	0	7	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Viv ",Full Back,37,3,0,5,0,0,8,1,0
+,"BARRETT, Colin ",Full Back,33+2,1,0,3,0,0,5,0,0
+,"BOWYER, Ian ",Midfielder,26+3,4,0,3,0,0,8,6,0
+,"BURNS, Kenny ",Central Defender,41,4,0,6,0,0,8,0,0
+,"CHARD, Phil ",Full Back,0,0,0,0,0,0,0,0,0
+,"CLARK, Frank ",Full Back,12+1,1,0,3,0,0,4,0,0
+,"GEMMILL, Archie ",Midfielder,32+2,3,0,4,0,0,0,0,0
+,"LLOYD, Larry ",Central Defender,26,0,0,2,0,0,6,1,0
+,"MCGOVERN, John ",Midfielder,31,4,0,4,0,0,7,0,0
+,"MIDDLETON, John ",Goalkeeper,5,0,0,0,0,0,1,0,0
+,"NEEDHAM, Dave ",Central Defender,16,4,0,6,0,0,0,0,0
+,"O'HARE, John ",Forward,10,0,0,0+1,0,0,2+1,1,0
+,"O'NEILL, Martin ",Midfielder,38+2,8,0,6,2,0,8,3,0
+,"ROBERTSON, John ",Winger,42,12,8,6,3,1,8,3,2
+,"SHILTON, Peter ",Goalkeeper,37,0,0,6,0,0,0,0,0
+,"SMITH, Colin ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WITHE, Peter ",Forward,40,12,0,6,2,0,8,5,0
+,"WOOD, Hugh ",Full Back,0,0,0,0,0,0,0,0,0
+,"WOODCOCK, Tony ",Forward,36,11,0,6,4,0,8,4,0
+,"WOODS, Chris ",Goalkeeper,0,0,0,0,0,0,7,0,0

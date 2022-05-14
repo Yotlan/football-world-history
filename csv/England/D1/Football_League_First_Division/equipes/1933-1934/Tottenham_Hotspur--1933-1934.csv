@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1933/34
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALSFORD, Wally 	Wing Half	13	0	0	2	0	0	0	0	0
-										
-BELLAMY, Walter 	Winger	5	0	0	0	0	0	0	0	0
-										
-BOLAN, Len 	Winger	1	0	0	0	0	0	0	0	0
-										
-CHANNELL, Fred 	Full Back	22	0	0	3	0	0	1	0	0
-										
-COLQUHOUN, Davie 	Wing Half	13	0	0	2	0	0	0	0	0
-										
-COOK, Eric 	Full Back	0	0	0	0	0	0	0	0	0
-										
-COOPER, Ken 	Winger	0	0	0	0	0	0	0	0	0
-										
-DAY, Alf 	Wing Half	3	0	0	0	0	0	1	0	0
-										
-EVANS, Tom 	Wing Half	27	0	0	1	0	0	0	0	0
-										
-EVANS, Willie 	Winger	35	16	5	3	3	0	1	2	0
-										
-FELTON, Billy 	Full Back	22	1	1	0	0	0	0	0	0
-										
-HALL, Allan 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-HALL, Willie 	Inside Forward	42	2	0	3	0	0	1	0	0
-										
-HARRIS, Tom 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-HEDLEY, Foster 	Winger	1	0	0	0	0	0	0	0	0
-										
-HOWE, Les 	Wing Half	10	7	0	3	1	0	0	0	0
-										
-HUNT, George 	Centre Forward	40	32	0	3	3	0	1	3	0
-										
-MCCORMICK, Jimmy 	Winger	40	9	0	3	0	0	1	0	0
-										
-MEADS, Tommy 	Wing Half	30	1	0	1	0	0	1	0	0
-										
-NICHOLLS, Joe 	Goalkeeper	42	0	0	3	0	0	1	0	0
-										
-O'CALLAGHAN, Eugene 'Taffy' 	Inside Forward	32	11	0	0	0	0	1	2	0
-										
-PHYPERS, Ernie 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-ROWE, Arthur 	Central Defender	42	0	0	3	0	0	1	0	0
-										
-SARGENT, Fred 	Winger	0	0	0	0	0	0	0	0	0
-										
-TEBB, Tommy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-WALL, Tom 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-WHATLEY, Billy 	Full Back	40	0	0	3	0	0	1	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALSFORD, Wally ",Wing Half,13,0,0,2,0,0,0,0,0
+,"BELLAMY, Walter ",Winger,5,0,0,0,0,0,0,0,0
+,"BOLAN, Len ",Winger,1,0,0,0,0,0,0,0,0
+,"CHANNELL, Fred ",Full Back,22,0,0,3,0,0,1,0,0
+,"COLQUHOUN, Davie ",Wing Half,13,0,0,2,0,0,0,0,0
+,"COOK, Eric ",Full Back,0,0,0,0,0,0,0,0,0
+,"COOPER, Ken ",Winger,0,0,0,0,0,0,0,0,0
+,"DAY, Alf ",Wing Half,3,0,0,0,0,0,1,0,0
+,"EVANS, Tom ",Wing Half,27,0,0,1,0,0,0,0,0
+,"EVANS, Willie ",Winger,35,16,5,3,3,0,1,2,0
+,"FELTON, Billy ",Full Back,22,1,1,0,0,0,0,0,0
+,"HALL, Allan ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"HALL, Willie ",Inside Forward,42,2,0,3,0,0,1,0,0
+,"HARRIS, Tom ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HEDLEY, Foster ",Winger,1,0,0,0,0,0,0,0,0
+,"HOWE, Les ",Wing Half,10,7,0,3,1,0,0,0,0
+,"HUNT, George ",Centre Forward,40,32,0,3,3,0,1,3,0
+,"MCCORMICK, Jimmy ",Winger,40,9,0,3,0,0,1,0,0
+,"MEADS, Tommy ",Wing Half,30,1,0,1,0,0,1,0,0
+,"NICHOLLS, Joe ",Goalkeeper,42,0,0,3,0,0,1,0,0
+,"O'CALLAGHAN, Eugene 'Taffy' ",Inside Forward,32,11,0,0,0,0,1,2,0
+,"PHYPERS, Ernie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROWE, Arthur ",Central Defender,42,0,0,3,0,0,1,0,0
+,"SARGENT, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"TEBB, Tommy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WALL, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WHATLEY, Billy ",Full Back,40,0,0,3,0,0,1,0,0

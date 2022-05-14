@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1968/69
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTON, John 	Winger	13	2	0	0	0	0	0	0	0
-										
-BEST, George 	Forward	41	19	1	6	1	0	8	2	0
-										
-BRENNAN, Shay 	Full Back	13	0	0	0	0	0	4	0	0
-										
-BURNS, Francis 	Full Back	14+2	0	0	1	0	0	4+1	1	0
-										
-CHARLTON, Bobby 	Midfielder	32	5	0	6	0	0	10	2	0
-										
-CRERAND, Pat 	Midfielder	35	1	0	4	1	0	10	0	0
-										
-DENTON, Roger 	Full Back	0	0	0	0	0	0	0	0	0
-										
-DUNNE, Tony 	Full Back	33	0	0	6	0	0	8	0	0
-										
-FITZPATRICK, John 	Midfielder	28+2	3	0	6	1	0	4	0	0
-										
-FOULKES, Bill 	Central Defender	10+3	0	0	0	0	0	7	0	0
-										
-GOWLING, Alan 	Forward	2	0	0	0	0	0	0	0	0
-										
-JAMES, Steve 	Central Defender	21	1	0	6	0	0	2	0	0
-										
-KIDD, Brian 	Forward	28+1	1	0	5	2	0	8	1	0
-										
-KOPEL, Frank 	Full Back	7+1	0	0	1	0	0	1	0	0
-										
-LAW, Denis 	Forward	30	14	2	6	7	1	9	9	0
-										
-MORGAN, Willie 	Winger	29	6	0	5	1	0	6	2	0
-										
-O'SULLIVAN, Peter 	Winger	0	0	0	0	0	0	0	0	0
-										
-RIMMER, Jimmy 	Goalkeeper	4	0	0	1	0	0	2+1	0	0
-										
-RYAN, Jimmy 	Winger	6	1	0	0	0	0	1	0	0
-										
-SADLER, David 	Central Defender	26+3	0	0	0+1	0	0	7	0	0
-										
-SARTORI, Carlo 	Midfielder	11+2	0	0	2	0	0	2+1	1	0
-										
-SIMMONDS, Mel 	Midfielder	0	0	0	0	0	0	0	0	0
-										
-STEPNEY, Alex 	Goalkeeper	38	0	0	5	0	0	8	0	0
-										
-STILES, Nobby 	Midfielder	41	1	0	6	0	0	9	1	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTON, John ",Winger,13,2,0,0,0,0,0,0,0
+,"BEST, George ",Forward,41,19,1,6,1,0,8,2,0
+,"BRENNAN, Shay ",Full Back,13,0,0,0,0,0,4,0,0
+,"BURNS, Francis ",Full Back,14+2,0,0,1,0,0,4+1,1,0
+,"CHARLTON, Bobby ",Midfielder,32,5,0,6,0,0,10,2,0
+,"CRERAND, Pat ",Midfielder,35,1,0,4,1,0,10,0,0
+,"DENTON, Roger ",Full Back,0,0,0,0,0,0,0,0,0
+,"DUNNE, Tony ",Full Back,33,0,0,6,0,0,8,0,0
+,"FITZPATRICK, John ",Midfielder,28+2,3,0,6,1,0,4,0,0
+,"FOULKES, Bill ",Central Defender,10+3,0,0,0,0,0,7,0,0
+,"GOWLING, Alan ",Forward,2,0,0,0,0,0,0,0,0
+,"JAMES, Steve ",Central Defender,21,1,0,6,0,0,2,0,0
+,"KIDD, Brian ",Forward,28+1,1,0,5,2,0,8,1,0
+,"KOPEL, Frank ",Full Back,7+1,0,0,1,0,0,1,0,0
+,"LAW, Denis ",Forward,30,14,2,6,7,1,9,9,0
+,"MORGAN, Willie ",Winger,29,6,0,5,1,0,6,2,0
+,"O'SULLIVAN, Peter ",Winger,0,0,0,0,0,0,0,0,0
+,"RIMMER, Jimmy ",Goalkeeper,4,0,0,1,0,0,2+1,0,0
+,"RYAN, Jimmy ",Winger,6,1,0,0,0,0,1,0,0
+,"SADLER, David ",Central Defender,26+3,0,0,0+1,0,0,7,0,0
+,"SARTORI, Carlo ",Midfielder,11+2,0,0,2,0,0,2+1,1,0
+,"SIMMONDS, Mel ",Midfielder,0,0,0,0,0,0,0,0,0
+,"STEPNEY, Alex ",Goalkeeper,38,0,0,5,0,0,8,0,0
+,"STILES, Nobby ",Midfielder,41,1,0,6,0,0,9,1,0

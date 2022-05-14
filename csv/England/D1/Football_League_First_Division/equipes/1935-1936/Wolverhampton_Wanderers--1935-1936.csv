@@ -1,91 +1,45 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1935/36
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHALL, George 	Winger	12	3	0	0	0	0	0	0	0
-										
-ASTON, Viv 	Full Back	0	0	0	0	0	0	0	0	0
-										
-BROWN, Jackie 	Winger	13	3	0	2	0	0	0	0	0
-										
-BURNS, Roy 	Winger	0	0	0	0	0	0	0	0	0
-										
-CHADWICK, Fred 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-CLAYTON, James 	Centre Forward	4	2	0	0	0	0	0	0	0
-										
-CULLIS, Stan 	Central Defender	12	0	0	0	0	0	0	0	0
-										
-CURNOW, Jack 	Goalkeeper	6	0	0	2	0	0	0	0	0
-										
-DOWEN, Jack 	Full Back	1	0	0	0	0	0	0	0	0
-										
-GALLEY, Tom 	Wing Half	23	0	0	2	0	0	0	0	0
-										
-GARDINER, Joe 	Wing Half	19	2	0	2	0	0	0	0	0
-										
-GRAHAM, Frederick 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-GREENE, Christy 	Wing Half	5	2	0	0	0	0	0	0	0
-										
-HENSON, George 	Centre Forward	6	1	0	0	0	0	0	0	0
-										
-HOLLINGWORTH, Reg 	Central Defender	12	0	0	0	0	0	0	0	0
-										
-IVERSON, Bob 	Wing Half	19	2	0	2	0	0	0	0	0
-										
-JONES, Bryn 	Inside Forward	40	9	0	2	0	0	0	0	0
-										
-LAKING, George 	Full Back	18	0	0	2	0	0	0	0	0
-										
-LOVERY, Jimmy 	Winger	0	0	0	0	0	0	0	0	0
-										
-LUCAS, Billy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-MARSDEN, Fred 	Full Back	1	0	0	0	0	0	0	0	0
-										
-MARTIN, Davy 'Boy' 	Centre Forward	16	10	0	0	0	0	0	0	0
-										
-MORDUE, George 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-MORRIS, Billy 	Full Back	39	1	0	2	1	0	0	0	0
-										
-MOSS, Frank 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-O'MAHONY, Matt 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-OAKES, Jackie 	Winger	0	0	0	0	0	0	0	0	0
-										
-PENDERGAST, Bill 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-PHILLIPS, Charlie 	Winger	23	7	0	0	0	0	0	0	0
-										
-RHODES, Dickie 	Wing Half	6	0	0	0	0	0	0	0	0
-										
-RICHARDS, Dai 	Wing Half	8	0	0	0	0	0	0	0	0
-										
-ROBERTS, Norman 	Winger	0	0	0	0	0	0	0	0	0
-										
-ROWLEY, Jack 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-SCOTT, Robert 	Goalkeeper	11	0	0	0	0	0	0	0	0
-										
-SHAW, Cecil 	Full Back	42	6	6	2	0	0	0	0	0
-										
-SMALLEY, Tom 	Wing Half	42	9	0	2	0	0	0	0	0
-										
-TAYLOR, Jack 	Full Back	10	0	0	0	0	0	0	0	0
-										
-THOMPSON, Harry 	Inside Forward	22	6	0	0	0	0	0	0	0
-										
-UTTERSON, Jimmy 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-WALTERS, Trevor 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-WEARE, Jack 	Goalkeeper	24	0	0	0	0	0	0	0	0
-										
-WHITTAM, Ernie 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-WRIGGLESWORTH, Billy 	Winger	26	12	0	2	1	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHALL, George ",Winger,12,3,0,0,0,0,0,0,0
+,"ASTON, Viv ",Full Back,0,0,0,0,0,0,0,0,0
+,"BROWN, Jackie ",Winger,13,3,0,2,0,0,0,0,0
+,"BURNS, Roy ",Winger,0,0,0,0,0,0,0,0,0
+,"CHADWICK, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CLAYTON, James ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"CULLIS, Stan ",Central Defender,12,0,0,0,0,0,0,0,0
+,"CURNOW, Jack ",Goalkeeper,6,0,0,2,0,0,0,0,0
+,"DOWEN, Jack ",Full Back,1,0,0,0,0,0,0,0,0
+,"GALLEY, Tom ",Wing Half,23,0,0,2,0,0,0,0,0
+,"GARDINER, Joe ",Wing Half,19,2,0,2,0,0,0,0,0
+,"GRAHAM, Frederick ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GREENE, Christy ",Wing Half,5,2,0,0,0,0,0,0,0
+,"HENSON, George ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"HOLLINGWORTH, Reg ",Central Defender,12,0,0,0,0,0,0,0,0
+,"IVERSON, Bob ",Wing Half,19,2,0,2,0,0,0,0,0
+,"JONES, Bryn ",Inside Forward,40,9,0,2,0,0,0,0,0
+,"LAKING, George ",Full Back,18,0,0,2,0,0,0,0,0
+,"LOVERY, Jimmy ",Winger,0,0,0,0,0,0,0,0,0
+,"LUCAS, Billy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MARSDEN, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"MARTIN, Davy 'Boy' ",Centre Forward,16,10,0,0,0,0,0,0,0
+,"MORDUE, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MORRIS, Billy ",Full Back,39,1,0,2,1,0,0,0,0
+,"MOSS, Frank ",Central Defender,0,0,0,0,0,0,0,0,0
+,"O'MAHONY, Matt ",Central Defender,0,0,0,0,0,0,0,0,0
+,"OAKES, Jackie ",Winger,0,0,0,0,0,0,0,0,0
+,"PENDERGAST, Bill ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PHILLIPS, Charlie ",Winger,23,7,0,0,0,0,0,0,0
+,"RHODES, Dickie ",Wing Half,6,0,0,0,0,0,0,0,0
+,"RICHARDS, Dai ",Wing Half,8,0,0,0,0,0,0,0,0
+,"ROBERTS, Norman ",Winger,0,0,0,0,0,0,0,0,0
+,"ROWLEY, Jack ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SCOTT, Robert ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"SHAW, Cecil ",Full Back,42,6,6,2,0,0,0,0,0
+,"SMALLEY, Tom ",Wing Half,42,9,0,2,0,0,0,0,0
+,"TAYLOR, Jack ",Full Back,10,0,0,0,0,0,0,0,0
+,"THOMPSON, Harry ",Inside Forward,22,6,0,0,0,0,0,0,0
+,"UTTERSON, Jimmy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WALTERS, Trevor ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WEARE, Jack ",Goalkeeper,24,0,0,0,0,0,0,0,0
+,"WHITTAM, Ernie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WRIGGLESWORTH, Billy ",Winger,26,12,0,2,1,0,0,0,0

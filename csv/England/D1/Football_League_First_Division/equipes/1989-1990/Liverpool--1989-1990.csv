@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1989/90
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABLETT, Gary 	Central Defender	13+2	0	0	0	0	0	1	0	0
-										
-ALDRIDGE, John 	Forward	0+2	1	1	0	0	0	0	0	0
-										
-BARNES, John 	Winger	34	22	5	8	5	1	3	1	0
-										
-BEARDSLEY, Peter 	Forward	27+2	10	2	8	4	1	3+1	2	0
-										
-BURROWS, David 	Full Back	23+3	0	0	2+1	0	0	4	0	0
-										
-DALGLISH, Kenny 	Forward	0+1	0	0	0	0	0	0	0	0
-										
-GILLESPIE, Gary 	Central Defender	11+2	4	0	1+1	0	0	1	0	0
-										
-GROBBELAAR, Bruce 	Goalkeeper	38	0	0	8	0	0	4	0	0
-										
-HANSEN, Alan 	Central Defender	31	0	0	8	0	0	3	0	0
-										
-HOUGHTON, Ray 	Midfielder	16+3	1	0	3+1	0	0	2	0	0
-										
-HYSEN, Glenn 	Central Defender	35	1	0	8	0	0	3	1	0
-										
-MARSH, Mike 	Midfielder	0+2	0	0	0	0	0	0	0	0
-										
-MCMAHON, Steve 	Midfielder	37+1	5	0	8	1	0	3	0	0
-										
-MOLBY, Jan 	Midfielder	12+5	1	0	0	0	0	2+1	0	0
-										
-NICOL, Steve 	Midfielder	21+2	6	0	7	3	0	3	0	0
-										
-ROSENTHAL, Ronny 	Forward	5+3	7	0	0	0	0	0	0	0
-										
-RUSH, Ian 	Forward	36	18	0	8	6	0	4	2	0
-										
-STAUNTON, Steve 	Central Defender	18+2	0	0	4+2	0	0	0+2	3	0
-										
-TANNER, Nicky 	Central Defender	2+2	0	0	0	0	0	0	0	0
-										
-VENISON, Barry 	Full Back	25	0	0	7+1	0	0	3+1	0	0
-										
-WATSON, Alex 	Central Defender	0	0	0	0	0	0	1	0	0
-										
-WHELAN, Ronnie 	Midfielder	34	1	0	8	1	0	4	0	0
-										
-WHELAN, Spencer 	Central Defender	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABLETT, Gary ",Central Defender,13+2,0,0,0,0,0,1,0,0
+,"ALDRIDGE, John ",Forward,0+2,1,1,0,0,0,0,0,0
+,"BARNES, John ",Winger,34,22,5,8,5,1,3,1,0
+,"BEARDSLEY, Peter ",Forward,27+2,10,2,8,4,1,3+1,2,0
+,"BURROWS, David ",Full Back,23+3,0,0,2+1,0,0,4,0,0
+,"DALGLISH, Kenny ",Forward,0+1,0,0,0,0,0,0,0,0
+,"GILLESPIE, Gary ",Central Defender,11+2,4,0,1+1,0,0,1,0,0
+,"GROBBELAAR, Bruce ",Goalkeeper,38,0,0,8,0,0,4,0,0
+,"HANSEN, Alan ",Central Defender,31,0,0,8,0,0,3,0,0
+,"HOUGHTON, Ray ",Midfielder,16+3,1,0,3+1,0,0,2,0,0
+,"HYSEN, Glenn ",Central Defender,35,1,0,8,0,0,3,1,0
+,"MARSH, Mike ",Midfielder,0+2,0,0,0,0,0,0,0,0
+,"MCMAHON, Steve ",Midfielder,37+1,5,0,8,1,0,3,0,0
+,"MOLBY, Jan ",Midfielder,12+5,1,0,0,0,0,2+1,0,0
+,"NICOL, Steve ",Midfielder,21+2,6,0,7,3,0,3,0,0
+,"ROSENTHAL, Ronny ",Forward,5+3,7,0,0,0,0,0,0,0
+,"RUSH, Ian ",Forward,36,18,0,8,6,0,4,2,0
+,"STAUNTON, Steve ",Central Defender,18+2,0,0,4+2,0,0,0+2,3,0
+,"TANNER, Nicky ",Central Defender,2+2,0,0,0,0,0,0,0,0
+,"VENISON, Barry ",Full Back,25,0,0,7+1,0,0,3+1,0,0
+,"WATSON, Alex ",Central Defender,0,0,0,0,0,0,1,0,0
+,"WHELAN, Ronnie ",Midfielder,34,1,0,8,1,0,4,0,0
+,"WHELAN, Spencer ",Central Defender,0,0,0,0,0,0,0,0,0

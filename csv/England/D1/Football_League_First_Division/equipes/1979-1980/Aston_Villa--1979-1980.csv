@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1979/80
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AMES, Trevor 	Forward	0	0	0	0	0	0	0	0	0
-										
-BLAKE, Noel 	Central Defender	3	0	0	0	0	0	0	0	0
-										
-BREMNER, Des 	Midfielder	36	3	0	6	0	0	2	0	0
-										
-BULLIVANT, Terry 	Midfielder	6	0	0	1	0	0	0	0	0
-										
-COWANS, Gordon 	Midfielder	42	6	3	6	1	0	4	0	0
-										
-CROPLEY, Alex 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-DEACY, Eamonn 	Full Back	2+1	0	0	0	0	0	0	0	0
-										
-DEEHAN, John 	Forward	6	0	0	0	0	0	2	0	0
-										
-DONOVAN, Terry 	Forward	9	2	0	6	3	0	0	0	0
-										
-EVANS, Allan 	Central Defender	35	8	3	5	2	0	4	0	0
-										
-GEDDIS, David 	Forward	19+1	2	0	2	1	0	2	0	0
-										
-GIBSON, Colin 	Full Back	30+1	2	0	6	0	0	3	0	0
-										
-GIDMAN, John 	Full Back	4	0	0	0	0	0	3	0	0
-										
-HEARD, Pat 	Midfielder	9	0	0	0	0	0	0	0	0
-										
-HEATH, Duncan 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HOPKINS, Robert 	Winger	0+2	1	0	0	0	0	0	0	0
-										
-JENKINS, Lee 	Midfielder	0+1	0	0	0	0	0	0	0	0
-										
-KENDALL, Mark 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-LINTON, Ivor 	Midfielder	12+3	0	0	1	0	0	0	0	0
-										
-LITTLE, Brian 	Forward	29	5	0	6	1	0	2	0	0
-										
-MCNAUGHT, Ken 	Central Defender	30	1	0	6	0	0	4	0	0
-										
-MORLEY, Tony 	Winger	15+3	3	0	0	0	0	2	0	0
-										
-MORTIMER, Dennis 	Midfielder	26	6	0	6	0	0	4	0	0
-										
-ORMSBY, Brendan 	Central Defender	21+2	0	0	1+1	0	0	0	0	0
-										
-PEJIC, Mike 	Full Back	10	0	0	0	0	0	2	0	0
-										
-RIMMER, Jimmy 	Goalkeeper	41	0	0	6	0	0	4	0	0
-										
-SHAW, Gary 	Forward	28	9	0	3	1	0	2	2	0
-										
-SHELTON, Gary 	Midfielder	4	0	0	0	0	0	0+1	0	0
-										
-SPINK, Nigel 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-SWAIN, Kenny 	Full Back	41	0	0	5	0	0	4	1	0
-										
-WARD, Joe 	Forward	1+1	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Gary 	Full Back	1+1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AMES, Trevor ",Forward,0,0,0,0,0,0,0,0,0
+,"BLAKE, Noel ",Central Defender,3,0,0,0,0,0,0,0,0
+,"BREMNER, Des ",Midfielder,36,3,0,6,0,0,2,0,0
+,"BULLIVANT, Terry ",Midfielder,6,0,0,1,0,0,0,0,0
+,"COWANS, Gordon ",Midfielder,42,6,3,6,1,0,4,0,0
+,"CROPLEY, Alex ",Midfielder,1,0,0,0,0,0,0,0,0
+,"DEACY, Eamonn ",Full Back,2+1,0,0,0,0,0,0,0,0
+,"DEEHAN, John ",Forward,6,0,0,0,0,0,2,0,0
+,"DONOVAN, Terry ",Forward,9,2,0,6,3,0,0,0,0
+,"EVANS, Allan ",Central Defender,35,8,3,5,2,0,4,0,0
+,"GEDDIS, David ",Forward,19+1,2,0,2,1,0,2,0,0
+,"GIBSON, Colin ",Full Back,30+1,2,0,6,0,0,3,0,0
+,"GIDMAN, John ",Full Back,4,0,0,0,0,0,3,0,0
+,"HEARD, Pat ",Midfielder,9,0,0,0,0,0,0,0,0
+,"HEATH, Duncan ",Full Back,0,0,0,0,0,0,0,0,0
+,"HOPKINS, Robert ",Winger,0+2,1,0,0,0,0,0,0,0
+,"JENKINS, Lee ",Midfielder,0+1,0,0,0,0,0,0,0,0
+,"KENDALL, Mark ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"LINTON, Ivor ",Midfielder,12+3,0,0,1,0,0,0,0,0
+,"LITTLE, Brian ",Forward,29,5,0,6,1,0,2,0,0
+,"MCNAUGHT, Ken ",Central Defender,30,1,0,6,0,0,4,0,0
+,"MORLEY, Tony ",Winger,15+3,3,0,0,0,0,2,0,0
+,"MORTIMER, Dennis ",Midfielder,26,6,0,6,0,0,4,0,0
+,"ORMSBY, Brendan ",Central Defender,21+2,0,0,1+1,0,0,0,0,0
+,"PEJIC, Mike ",Full Back,10,0,0,0,0,0,2,0,0
+,"RIMMER, Jimmy ",Goalkeeper,41,0,0,6,0,0,4,0,0
+,"SHAW, Gary ",Forward,28,9,0,3,1,0,2,2,0
+,"SHELTON, Gary ",Midfielder,4,0,0,0,0,0,0+1,0,0
+,"SPINK, Nigel ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SWAIN, Kenny ",Full Back,41,0,0,5,0,0,4,1,0
+,"WARD, Joe ",Forward,1+1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Gary ",Full Back,1+1,0,0,0,0,0,0,0,0

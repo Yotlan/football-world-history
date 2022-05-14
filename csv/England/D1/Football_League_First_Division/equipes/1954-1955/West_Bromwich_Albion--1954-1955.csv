@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1954/55
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Ronnie 	Centre Forward	42	27	1	2	0	0	1	3	0
-										
-BARLOW, Ray 	Wing Half	32	1	0	2	0	0	0	0	0
-										
-BARNSLEY, Geoff 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-BROOKES, Billy 	Wing Half	12	0	0	0	0	0	1	0	0
-										
-CARTER, Wilf 	Inside Forward	26	9	0	0	0	0	1	0	0
-										
-CROWSHAW, Allan 	Winger	3	0	0	0	0	0	0	0	0
-										
-CUTLER, Reg 	Winger	1	0	0	0	0	0	0	0	0
-										
-DAVIES, Reg 	Goalkeeper	3	0	0	1	0	0	0	0	0
-										
-DUDLEY, Jimmy 	Wing Half	42	0	0	2	0	0	1	0	0
-										
-DUGDALE, Jimmy 	Central Defender	13	0	0	2	0	0	1	0	0
-										
-GRIFFIN, Frank 	Winger	36	5	0	1	0	0	1	0	0
-										
-HODGKISSON, Ken 	Inside Forward	3	0	0	0	0	0	1	0	0
-										
-JACKSON, Alec 	Winger	2	1	0	0	0	0	0	0	0
-										
-JONES, Gren 	Winger	0	0	0	1	0	0	0	0	0
-										
-KENNEDY, Joe 	Central Defender	32	0	0	0	0	0	1	0	0
-										
-LEE, George 	Winger	37	13	0	2	0	0	1	0	0
-										
-MILLARD, Len 	Full Back	42	2	0	2	0	0	1	0	0
-										
-NICHOLLS, Johnny 	Inside Forward	17	12	0	2	0	0	0	0	0
-										
-RICKABY, Stan 	Full Back	30	0	0	2	0	0	1	0	0
-										
-RYAN, Reg 	Inside Forward	25	4	0	0	0	0	1	1	0
-										
-SANDERS, Jim 	Goalkeeper	38	0	0	1	0	0	1	0	0
-										
-WHALE, Ray 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-WHITEHOUSE, Jimmy 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Stuart 	Full Back	25	2	0	2	3	0	0	0	0
-										
-WOODWARD, Peter 	Goalkeeper	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Ronnie ",Centre Forward,42,27,1,2,0,0,1,3,0
+,"BARLOW, Ray ",Wing Half,32,1,0,2,0,0,0,0,0
+,"BARNSLEY, Geoff ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BROOKES, Billy ",Wing Half,12,0,0,0,0,0,1,0,0
+,"CARTER, Wilf ",Inside Forward,26,9,0,0,0,0,1,0,0
+,"CROWSHAW, Allan ",Winger,3,0,0,0,0,0,0,0,0
+,"CUTLER, Reg ",Winger,1,0,0,0,0,0,0,0,0
+,"DAVIES, Reg ",Goalkeeper,3,0,0,1,0,0,0,0,0
+,"DUDLEY, Jimmy ",Wing Half,42,0,0,2,0,0,1,0,0
+,"DUGDALE, Jimmy ",Central Defender,13,0,0,2,0,0,1,0,0
+,"GRIFFIN, Frank ",Winger,36,5,0,1,0,0,1,0,0
+,"HODGKISSON, Ken ",Inside Forward,3,0,0,0,0,0,1,0,0
+,"JACKSON, Alec ",Winger,2,1,0,0,0,0,0,0,0
+,"JONES, Gren ",Winger,0,0,0,1,0,0,0,0,0
+,"KENNEDY, Joe ",Central Defender,32,0,0,0,0,0,1,0,0
+,"LEE, George ",Winger,37,13,0,2,0,0,1,0,0
+,"MILLARD, Len ",Full Back,42,2,0,2,0,0,1,0,0
+,"NICHOLLS, Johnny ",Inside Forward,17,12,0,2,0,0,0,0,0
+,"RICKABY, Stan ",Full Back,30,0,0,2,0,0,1,0,0
+,"RYAN, Reg ",Inside Forward,25,4,0,0,0,0,1,1,0
+,"SANDERS, Jim ",Goalkeeper,38,0,0,1,0,0,1,0,0
+,"WHALE, Ray ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WHITEHOUSE, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WILLIAMS, Stuart ",Full Back,25,2,0,2,3,0,0,0,0
+,"WOODWARD, Peter ",Goalkeeper,0,0,0,0,0,0,0,0,0

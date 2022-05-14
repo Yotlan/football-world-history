@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1953/54
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Colin 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-BAKER, Billy 	Wing Half	37	0	0	2	0	0	0	0	0
-										
-BLAIR, Dougie 	Inside Forward	13	0	0	2	0	0	0	0	0
-										
-CHISHOLM, Ken 	Inside Forward	17	12	0	0	0	0	0	0	0
-										
-DUDLEY, Frank 	Centre Forward	5	1	0	0	0	0	0	0	0
-										
-EDWARDS, George 	Winger	29	4	0	2	0	0	0	0	0
-										
-FORD, Trevor 	Centre Forward	19	6	0	2	2	0	0	0	0
-										
-FROWEN, John 	Full Back	3	0	0	0	0	0	0	0	0
-										
-GALE, Colin 	Central Defender	9	0	0	1	0	0	0	0	0
-										
-GRANT, Wilf 	Centre Forward	32	12	1	1	0	0	0	0	0
-										
-HARRINGTON, Alan 	Full Back	14	0	0	0	0	0	0	0	0
-										
-HOLLYMAN, Ken 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-HOWELLS, Ron 	Goalkeeper	31	0	0	2	0	0	0	0	0
-										
-MANSELL, Jack 	Full Back	14	0	0	0	0	0	0	0	0
-										
-MCLAUGHLIN, Bobby 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-MONTGOMERY, Stan 	Central Defender	40	0	0	1	0	0	0	0	0
-										
-NORTHCOTT, Tommy 	Centre Forward	24	3	0	2	1	0	0	0	0
-										
-NUGENT, Cliff 	Winger	22	3	0	1	0	0	0	0	0
-										
-OAKLEY, Ken 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-PARFITT, Harry 	Full Back	1	0	0	0	0	0	0	0	0
-										
-RAINFORD, Johnny 	Inside Forward	3	1	0	0	0	0	0	0	0
-										
-RUTTER, Charlie 	Full Back	14	0	0	2	0	0	0	0	0
-										
-RUTTER, Brian 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-SHERWOOD, Alf 	Full Back	22	1	0	1	0	0	0	0	0
-										
-STITFALL, Ron 	Full Back	22	0	0	0	0	0	0	0	0
-										
-SULLIVAN, Derrick 	Wing Half	33	3	0	2	0	0	0	0	0
-										
-THOMAS, Peter 	Winger	4	1	0	1	0	0	0	0	0
-										
-THOMAS, Keith 	Winger	3	0	0	0	0	0	0	0	0
-										
-TIDDY, Mike 	Winger	26	4	0	0	0	0	0	0	0
-										
-VEARNCOMBE, Graham 	Goalkeeper	11	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Roley 	Inside Forward	8	0	0	0	0	0	0	0	0
-										
-WILLIAMS, John Lloyd 	Wing Half	0	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Colin ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BAKER, Billy ",Wing Half,37,0,0,2,0,0,0,0,0
+,"BLAIR, Dougie ",Inside Forward,13,0,0,2,0,0,0,0,0
+,"CHISHOLM, Ken ",Inside Forward,17,12,0,0,0,0,0,0,0
+,"DUDLEY, Frank ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"EDWARDS, George ",Winger,29,4,0,2,0,0,0,0,0
+,"FORD, Trevor ",Centre Forward,19,6,0,2,2,0,0,0,0
+,"FROWEN, John ",Full Back,3,0,0,0,0,0,0,0,0
+,"GALE, Colin ",Central Defender,9,0,0,1,0,0,0,0,0
+,"GRANT, Wilf ",Centre Forward,32,12,1,1,0,0,0,0,0
+,"HARRINGTON, Alan ",Full Back,14,0,0,0,0,0,0,0,0
+,"HOLLYMAN, Ken ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HOWELLS, Ron ",Goalkeeper,31,0,0,2,0,0,0,0,0
+,"MANSELL, Jack ",Full Back,14,0,0,0,0,0,0,0,0
+,"MCLAUGHLIN, Bobby ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MONTGOMERY, Stan ",Central Defender,40,0,0,1,0,0,0,0,0
+,"NORTHCOTT, Tommy ",Centre Forward,24,3,0,2,1,0,0,0,0
+,"NUGENT, Cliff ",Winger,22,3,0,1,0,0,0,0,0
+,"OAKLEY, Ken ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"PARFITT, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"RAINFORD, Johnny ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"RUTTER, Charlie ",Full Back,14,0,0,2,0,0,0,0,0
+,"RUTTER, Brian ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SHERWOOD, Alf ",Full Back,22,1,0,1,0,0,0,0,0
+,"STITFALL, Ron ",Full Back,22,0,0,0,0,0,0,0,0
+,"SULLIVAN, Derrick ",Wing Half,33,3,0,2,0,0,0,0,0
+,"THOMAS, Peter ",Winger,4,1,0,1,0,0,0,0,0
+,"THOMAS, Keith ",Winger,3,0,0,0,0,0,0,0,0
+,"TIDDY, Mike ",Winger,26,4,0,0,0,0,0,0,0
+,"VEARNCOMBE, Graham ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"WILLIAMS, Roley ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"WILLIAMS, John Lloyd ",Wing Half,0,0,0,0,0,0,0,0,0

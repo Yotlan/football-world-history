@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1986/87
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRADSHAW, Carl 	Full Back	9	2	0	6	3	0	1	0	0
-										
-BRANNIGAN, Kenny 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-CHAMBERLAIN, Mark 	Winger	14+10	5	0	0+4	0	0	2+1	0	0
-										
-CHAPMAN, Lee 	Forward	41	19	0	5	3	0	3	0	0
-										
-GREGORY, Tony 	Midfielder	9+1	1	0	0	0	0	0+1	0	0
-										
-HART, Paul 	Central Defender	18	0	0	0	0	0	3	1	0
-										
-HAZEL, Des 	Winger	0	0	0	0	0	0	1	0	0
-										
-HIRST, David 	Forward	13+8	6	0	1+1	0	0	3+1	0	0
-										
-HODGE, Martin 	Goalkeeper	42	0	0	6	0	0	4	0	0
-										
-JONSSON, Siggi 	Midfielder	12+1	0	0	0+1	0	0	2	1	0
-										
-KIWOMYA, Andy 	Winger	0	0	0	0	0	0	0	0	0
-										
-KNIGHT, Ian 	Central Defender	15	0	0	3	0	0	1	0	0
-										
-MADDEN, Lawrie 	Central Defender	35	1	0	6	0	0	4	0	0
-										
-MARWOOD, Brian 	Winger	31+1	5	3	6	0	0	3	1	1
-										
-MAY, Larry 	Central Defender	13	0	0	0	0	0	0	0	0
-										
-MEGSON, Gary 	Midfielder	34+1	6	0	6	1	0	4	0	0
-										
-MORRIS, Chris 	Full Back	13+4	0	0	2+4	0	0	0+1	0	0
-										
-PRUDHOE, Mark 	Goalkeeper	0	0	0	0	0	0	0	0	0
-										
-REEVES, David 	Forward	0	0	0	0	0	0	0	0	0
-										
-SHELTON, Gary 	Midfielder	37	3	0	6	1	0	2	0	0
-										
-SHUTT, Carl 	Forward	18+2	7	0	0+1	0	0	1	1	0
-										
-SMITH, Mark 	Central Defender	16	0	0	6	0	0	0	0	0
-										
-SNODIN, Glynn 	Midfielder	24+7	0	0	4	0	0	3	0	0
-										
-STERLAND, Mel 	Full Back	30	2	0	4	0	0	4	3	0
-										
-TOMLINSON, David 	Winger	0+1	0	0	0	0	0	0	0	0
-										
-WALKER, Colin 	Forward	2	0	0	0	0	0	0+1	3	0
-										
-WORTHINGTON, Nigel 	Full Back	35	0	0	5	0	0	3	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRADSHAW, Carl ",Full Back,9,2,0,6,3,0,1,0,0
+,"BRANNIGAN, Kenny ",Central Defender,1,0,0,0,0,0,0,0,0
+,"CHAMBERLAIN, Mark ",Winger,14+10,5,0,0+4,0,0,2+1,0,0
+,"CHAPMAN, Lee ",Forward,41,19,0,5,3,0,3,0,0
+,"GREGORY, Tony ",Midfielder,9+1,1,0,0,0,0,0+1,0,0
+,"HART, Paul ",Central Defender,18,0,0,0,0,0,3,1,0
+,"HAZEL, Des ",Winger,0,0,0,0,0,0,1,0,0
+,"HIRST, David ",Forward,13+8,6,0,1+1,0,0,3+1,0,0
+,"HODGE, Martin ",Goalkeeper,42,0,0,6,0,0,4,0,0
+,"JONSSON, Siggi ",Midfielder,12+1,0,0,0+1,0,0,2,1,0
+,"KIWOMYA, Andy ",Winger,0,0,0,0,0,0,0,0,0
+,"KNIGHT, Ian ",Central Defender,15,0,0,3,0,0,1,0,0
+,"MADDEN, Lawrie ",Central Defender,35,1,0,6,0,0,4,0,0
+,"MARWOOD, Brian ",Winger,31+1,5,3,6,0,0,3,1,1
+,"MAY, Larry ",Central Defender,13,0,0,0,0,0,0,0,0
+,"MEGSON, Gary ",Midfielder,34+1,6,0,6,1,0,4,0,0
+,"MORRIS, Chris ",Full Back,13+4,0,0,2+4,0,0,0+1,0,0
+,"PRUDHOE, Mark ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"REEVES, David ",Forward,0,0,0,0,0,0,0,0,0
+,"SHELTON, Gary ",Midfielder,37,3,0,6,1,0,2,0,0
+,"SHUTT, Carl ",Forward,18+2,7,0,0+1,0,0,1,1,0
+,"SMITH, Mark ",Central Defender,16,0,0,6,0,0,0,0,0
+,"SNODIN, Glynn ",Midfielder,24+7,0,0,4,0,0,3,0,0
+,"STERLAND, Mel ",Full Back,30,2,0,4,0,0,4,3,0
+,"TOMLINSON, David ",Winger,0+1,0,0,0,0,0,0,0,0
+,"WALKER, Colin ",Forward,2,0,0,0,0,0,0+1,3,0
+,"WORTHINGTON, Nigel ",Full Back,35,0,0,5,0,0,3,0,0

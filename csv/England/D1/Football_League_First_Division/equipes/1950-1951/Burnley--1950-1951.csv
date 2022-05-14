@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1950/51
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Jimmy 	Wing Half	14	0	0	0	0	0	0	0	0
-										
-AIRD, Jock 	Full Back	2	0	0	0	0	0	0	0	0
-										
-ATTWELL, Reg 	Wing Half	17	1	0	1	0	0	0	0	0
-										
-BRAY, George 	Wing Half	42	1	0	1	0	0	0	0	0
-										
-CHEW, Jackie 	Winger	28	5	1	1	0	0	0	0	0
-										
-CLARKE, Alf 	Inside Forward	3	0	0	0	0	0	0	0	0
-										
-CUMMINGS, Tommy 	Central Defender	41	0	0	1	0	0	0	0	0
-										
-HARTLEY, Eddie 	Winger	0	0	0	0	0	0	0	0	0
-										
-HAYES, Bill 	Full Back	6	0	0	0	0	0	0	0	0
-										
-HAYS, Jack 	Winger	27	1	0	1	0	0	0	0	0
-										
-HOLDEN, Bill 	Centre Forward	35	12	0	0	0	0	0	0	0
-										
-KIRKHAM, Reg 	Wing Half	7	1	0	0	0	0	0	0	0
-										
-LYONS, Terry 	Winger	12	3	0	0	0	0	0	0	0
-										
-MARTINDALE, Len 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-MATHER, Harry 	Full Back	40	0	0	1	0	0	0	0	0
-										
-MCILROY, Jimmy 	Midfielder	30	5	0	1	0	0	0	0	0
-										
-MCNULTY, Joe 	Goalkeeper	2	0	0	0	0	0	0	0	0
-										
-MORRIS, Billy 	Inside Forward	38	11	0	1	0	0	0	0	0
-										
-O'NEILL, Billy 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-POTTS, Harry 	Inside Forward	9	0	0	0	0	0	0	0	0
-										
-RUDMAN, Harold 	Full Back	2	0	0	0	0	0	0	0	0
-										
-SAMUELS, Les 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-SPENCER, Jack 	Inside Forward	7	1	0	1	0	0	0	0	0
-										
-STEPHENSON, Roy 	Winger	18	6	0	0	0	0	0	0	0
-										
-STRONG, Jimmy 	Goalkeeper	40	0	0	1	0	0	0	0	0
-										
-SWANKIE, Bob 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-WOODRUFF, Arthur 	Full Back	37	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Jimmy ",Wing Half,14,0,0,0,0,0,0,0,0
+,"AIRD, Jock ",Full Back,2,0,0,0,0,0,0,0,0
+,"ATTWELL, Reg ",Wing Half,17,1,0,1,0,0,0,0,0
+,"BRAY, George ",Wing Half,42,1,0,1,0,0,0,0,0
+,"CHEW, Jackie ",Winger,28,5,1,1,0,0,0,0,0
+,"CLARKE, Alf ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"CUMMINGS, Tommy ",Central Defender,41,0,0,1,0,0,0,0,0
+,"HARTLEY, Eddie ",Winger,0,0,0,0,0,0,0,0,0
+,"HAYES, Bill ",Full Back,6,0,0,0,0,0,0,0,0
+,"HAYS, Jack ",Winger,27,1,0,1,0,0,0,0,0
+,"HOLDEN, Bill ",Centre Forward,35,12,0,0,0,0,0,0,0
+,"KIRKHAM, Reg ",Wing Half,7,1,0,0,0,0,0,0,0
+,"LYONS, Terry ",Winger,12,3,0,0,0,0,0,0,0
+,"MARTINDALE, Len ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MATHER, Harry ",Full Back,40,0,0,1,0,0,0,0,0
+,"MCILROY, Jimmy ",Midfielder,30,5,0,1,0,0,0,0,0
+,"MCNULTY, Joe ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MORRIS, Billy ",Inside Forward,38,11,0,1,0,0,0,0,0
+,"O'NEILL, Billy ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"POTTS, Harry ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"RUDMAN, Harold ",Full Back,2,0,0,0,0,0,0,0,0
+,"SAMUELS, Les ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SPENCER, Jack ",Inside Forward,7,1,0,1,0,0,0,0,0
+,"STEPHENSON, Roy ",Winger,18,6,0,0,0,0,0,0,0
+,"STRONG, Jimmy ",Goalkeeper,40,0,0,1,0,0,0,0,0
+,"SWANKIE, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WOODRUFF, Arthur ",Full Back,37,0,0,1,0,0,0,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1948/49
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAULD, Phil 	Wing Half	0	0	0	0	0	0	0	0	0
-										
-BAXTER, Billy 	Wing Half	5	0	0	0	0	0	0	0	0
-										
-CHATHAM, Ray 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-CROOK, Alf 	Full Back	1	0	0	1	0	0	0	0	0
-										
-CROOK, Billy 	Wing Half	36	0	0	7	0	0	0	0	0
-										
-DUNN, Jimmy 	Inside Forward	28	6	0	7	2	0	0	0	0
-										
-FORBES, Willie 	Wing Half	16	2	0	0	0	0	0	0	0
-										
-HANCOCKS, Johnny 	Winger	38	12	3	7	3	0	0	0	0
-										
-HARDSTAFF, Cecil 	Full Back	0	0	0	0	0	0	0	0	0
-										
-HEWITT, Ron 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HOLMES, Bill 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-HORNE, Ken 	Full Back	0	0	0	0	0	0	0	0	0
-										
-KELLY, Laurie 	Full Back	21	0	0	5	0	0	0	0	0
-										
-MCLEAN, Gus 	Full Back	13	0	0	0	0	0	0	0	0
-										
-MULLEN, Jimmy 	Winger	38	12	0	7	3	0	0	0	0
-										
-PARSONS, Dennis 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-PRITCHARD, Roy 	Full Back	30	0	0	6	0	0	0	0	0
-										
-PYE, Jesse 	Centre Forward	33	17	1	7	4	0	0	0	0
-										
-ROGERS, Jimmy 	Winger	0	0	0	0	0	0	0	0	0
-										
-RUSSELL, Eddie 	Wing Half	4	0	0	0	0	0	0	0	0
-										
-SHORTHOUSE, Bill 	Central Defender	39	0	0	7	0	0	0	0	0
-										
-SIMPSON, Alec 	Wing Half	1	0	0	0	0	0	0	0	0
-										
-SIMS, Nigel 	Goalkeeper	4	0	0	0	0	0	0	0	0
-										
-SMITH, Les 	Winger	7	0	0	0	0	0	0	0	0
-										
-SMYTH, Sammy 	Inside Forward	39	16	0	7	6	0	0	0	0
-										
-SPRINGTHORPE, Terry 	Full Back	19	0	0	2	0	0	0	0	0
-										
-STEVENSON, Ernie 	Inside Forward	2	0	0	0	0	0	0	0	0
-										
-WILLIAMS, Bert 	Goalkeeper	37	0	0	7	0	0	0	0	0
-										
-WILSHAW, Dennis 	Inside Forward	11	10	0	0	0	0	0	0	0
-										
-WRIGHT, Billy 	Wing Half	35	2	0	7	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAULD, Phil ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BAXTER, Billy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"CHATHAM, Ray ",Central Defender,4,0,0,0,0,0,0,0,0
+,"CROOK, Alf ",Full Back,1,0,0,1,0,0,0,0,0
+,"CROOK, Billy ",Wing Half,36,0,0,7,0,0,0,0,0
+,"DUNN, Jimmy ",Inside Forward,28,6,0,7,2,0,0,0,0
+,"FORBES, Willie ",Wing Half,16,2,0,0,0,0,0,0,0
+,"HANCOCKS, Johnny ",Winger,38,12,3,7,3,0,0,0,0
+,"HARDSTAFF, Cecil ",Full Back,0,0,0,0,0,0,0,0,0
+,"HEWITT, Ron ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HOLMES, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HORNE, Ken ",Full Back,0,0,0,0,0,0,0,0,0
+,"KELLY, Laurie ",Full Back,21,0,0,5,0,0,0,0,0
+,"MCLEAN, Gus ",Full Back,13,0,0,0,0,0,0,0,0
+,"MULLEN, Jimmy ",Winger,38,12,0,7,3,0,0,0,0
+,"PARSONS, Dennis ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"PRITCHARD, Roy ",Full Back,30,0,0,6,0,0,0,0,0
+,"PYE, Jesse ",Centre Forward,33,17,1,7,4,0,0,0,0
+,"ROGERS, Jimmy ",Winger,0,0,0,0,0,0,0,0,0
+,"RUSSELL, Eddie ",Wing Half,4,0,0,0,0,0,0,0,0
+,"SHORTHOUSE, Bill ",Central Defender,39,0,0,7,0,0,0,0,0
+,"SIMPSON, Alec ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SIMS, Nigel ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SMITH, Les ",Winger,7,0,0,0,0,0,0,0,0
+,"SMYTH, Sammy ",Inside Forward,39,16,0,7,6,0,0,0,0
+,"SPRINGTHORPE, Terry ",Full Back,19,0,0,2,0,0,0,0,0
+,"STEVENSON, Ernie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WILLIAMS, Bert ",Goalkeeper,37,0,0,7,0,0,0,0,0
+,"WILSHAW, Dennis ",Inside Forward,11,10,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,35,2,0,7,0,0,0,0,0

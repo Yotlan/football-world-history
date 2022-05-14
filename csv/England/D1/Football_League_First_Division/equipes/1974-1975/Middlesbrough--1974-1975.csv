@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1974/75
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, David 	Midfielder	42	5	0	6	1	1	8	2	0
-										
-BOAM, Stuart 	Central Defender	42	1	0	6	0	0	8	0	0
-										
-BRINE, Peter 	Midfielder	3+4	0	0	1+2	0	0	2	0	0
-										
-CHARLTON, Harry 	Midfielder	1	0	0	1	0	0	1+1	0	0
-										
-COCHRANE, Jimmy 	Full Back	0	0	0	0	0	0	1	0	0
-										
-COOPER, Terry 	Full Back	9	0	0	0	0	0	0	0	0
-										
-CRAGGS, John 	Full Back	41	1	0	6	0	0	7	0	0
-										
-CREAMER, Peter 	Full Back	0	0	0	0	0	0	1	0	0
-										
-EDWARDS, Keith 	Forward	0	0	0	0	0	0	0	0	0
-										
-FOGGON, Alan 	Winger	41	16	0	6	2	0	6	0	0
-										
-HICKTON, John 	Forward	39	8	1	6	2	2	8	1	1
-										
-HOSKER, Bobby 	Winger	0	0	0	0	0	0	0	0	0
-										
-MADDREN, Willie 	Central Defender	42	2	0	6	0	0	7	1	0
-										
-MCANDREW, Tony 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-MILLS, David 	Forward	36	8	0	6	1	0	6	2	0
-										
-MURDOCH, Bobby 	Midfielder	39	1	0	4	1	0	6	0	0
-										
-PATERSON, Tommy 	Forward	1	0	0	0	0	0	0	0	0
-										
-PLATT, Jim 	Goalkeeper	42	0	0	6	0	0	8	0	0
-										
-SMITH, Malcolm 	Forward	4+6	1	0	0	0	0	4+2	1	0
-										
-SOUNESS, Graeme 	Midfielder	38	7	0	5	0	0	6	0	0
-										
-SPRAGGON, Frank 	Central Defender	31	0	0	6	0	0	6	0	0
-										
-TAYLOR, Brian 	Central Defender	3+4	0	0	0	0	0	2+1	0	0
-										
-WILLEY, Alan 	Forward	7+10	3	0	1+2	0	0	1+1	0	0
-										
-WOOF, Billy 	Forward	0+1	0	0	0	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, David ",Midfielder,42,5,0,6,1,1,8,2,0
+,"BOAM, Stuart ",Central Defender,42,1,0,6,0,0,8,0,0
+,"BRINE, Peter ",Midfielder,3+4,0,0,1+2,0,0,2,0,0
+,"CHARLTON, Harry ",Midfielder,1,0,0,1,0,0,1+1,0,0
+,"COCHRANE, Jimmy ",Full Back,0,0,0,0,0,0,1,0,0
+,"COOPER, Terry ",Full Back,9,0,0,0,0,0,0,0,0
+,"CRAGGS, John ",Full Back,41,1,0,6,0,0,7,0,0
+,"CREAMER, Peter ",Full Back,0,0,0,0,0,0,1,0,0
+,"EDWARDS, Keith ",Forward,0,0,0,0,0,0,0,0,0
+,"FOGGON, Alan ",Winger,41,16,0,6,2,0,6,0,0
+,"HICKTON, John ",Forward,39,8,1,6,2,2,8,1,1
+,"HOSKER, Bobby ",Winger,0,0,0,0,0,0,0,0,0
+,"MADDREN, Willie ",Central Defender,42,2,0,6,0,0,7,1,0
+,"MCANDREW, Tony ",Central Defender,1,0,0,0,0,0,0,0,0
+,"MILLS, David ",Forward,36,8,0,6,1,0,6,2,0
+,"MURDOCH, Bobby ",Midfielder,39,1,0,4,1,0,6,0,0
+,"PATERSON, Tommy ",Forward,1,0,0,0,0,0,0,0,0
+,"PLATT, Jim ",Goalkeeper,42,0,0,6,0,0,8,0,0
+,"SMITH, Malcolm ",Forward,4+6,1,0,0,0,0,4+2,1,0
+,"SOUNESS, Graeme ",Midfielder,38,7,0,5,0,0,6,0,0
+,"SPRAGGON, Frank ",Central Defender,31,0,0,6,0,0,6,0,0
+,"TAYLOR, Brian ",Central Defender,3+4,0,0,0,0,0,2+1,0,0
+,"WILLEY, Alan ",Forward,7+10,3,0,1+2,0,0,1+1,0,0
+,"WOOF, Billy ",Forward,0+1,0,0,0,0,0,0,0,0

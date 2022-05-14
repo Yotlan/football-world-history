@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1932/33
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASTIN, Cliff 	Winger	42	33	1	1	0	0	1	1	0
-										
-BLACK, Tommy 	Wing Half	0	0	0	1	0	0	0	0	0
-										
-BOWDEN, Ray 	Inside Forward	7	2	0	0	0	0	0	0	0
-										
-COLEMAN, Tim 	Inside Forward	27	24	0	0	0	0	1	5	0
-										
-COMPTON, Les 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-COPE, Horace 	Full Back	4	0	0	0	0	0	0	0	0
-										
-FOULKES, William 	Winger	0	0	0	0	0	0	0	0	0
-										
-HAPGOOD, Eddie 	Full Back	38	0	0	0	0	0	1	0	0
-										
-HAYNES, Alfred 	Wing Half	6	0	0	0	0	0	1	0	0
-										
-HILL, Frank 	Wing Half	26	1	0	1	0	0	1	0	0
-										
-HULME, Joe 	Winger	40	20	0	0	0	0	1	1	0
-										
-JACK, David 	Inside Forward	34	18	0	1	0	0	1	1	0
-										
-JAMES, Alex 	Inside Forward	40	3	0	1	0	0	0	0	0
-										
-JOHN, Bob 	Wing Half	37	0	0	0	0	0	1	1	1
-										
-JONES, Charlie 	Winger	16	0	0	0	0	0	0	0	0
-										
-KNOTT, Bert 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-LAMBERT, Jack 	Centre Forward	12	14	0	0	0	0	0	0	0
-										
-MALE, George 	Full Back	35	0	0	1	0	0	1	0	0
-										
-MCMILLEN, Walter 	Central Defender	0	0	0	0	0	0	0	0	0
-										
-MOSS, Frank 	Goalkeeper	41	0	0	1	0	0	1	0	0
-										
-PARKER, Tom 	Full Back	5	0	0	0	0	0	0	0	0
-										
-PARKIN, Ray 	Inside Forward	5	0	0	0	0	0	1	0	0
-										
-PREEDY, Charlie 	Goalkeeper	1	0	0	0	0	0	0	0	0
-										
-ROBERTS, Herbie 	Central Defender	36	0	0	1	0	0	0	0	0
-										
-SIDEY, Norman 	Central Defender	2	0	0	1	0	0	0	0	0
-										
-STOCKILL, Reg 	Inside Forward	4	3	0	0	0	0	0	0	0
-										
-TUCKETT, Ernie 	Inside Forward	0	0	0	0	0	0	0	0	0
-										
-WALSH, Charlie 	Inside Forward	0	0	0	1	0	0	0	0	0
-										
-WARNES, Billy 	Winger	0	0	0	1	0	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASTIN, Cliff ",Winger,42,33,1,1,0,0,1,1,0
+,"BLACK, Tommy ",Wing Half,0,0,0,1,0,0,0,0,0
+,"BOWDEN, Ray ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"COLEMAN, Tim ",Inside Forward,27,24,0,0,0,0,1,5,0
+,"COMPTON, Les ",Central Defender,4,0,0,0,0,0,0,0,0
+,"COPE, Horace ",Full Back,4,0,0,0,0,0,0,0,0
+,"FOULKES, William ",Winger,0,0,0,0,0,0,0,0,0
+,"HAPGOOD, Eddie ",Full Back,38,0,0,0,0,0,1,0,0
+,"HAYNES, Alfred ",Wing Half,6,0,0,0,0,0,1,0,0
+,"HILL, Frank ",Wing Half,26,1,0,1,0,0,1,0,0
+,"HULME, Joe ",Winger,40,20,0,0,0,0,1,1,0
+,"JACK, David ",Inside Forward,34,18,0,1,0,0,1,1,0
+,"JAMES, Alex ",Inside Forward,40,3,0,1,0,0,0,0,0
+,"JOHN, Bob ",Wing Half,37,0,0,0,0,0,1,1,1
+,"JONES, Charlie ",Winger,16,0,0,0,0,0,0,0,0
+,"KNOTT, Bert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LAMBERT, Jack ",Centre Forward,12,14,0,0,0,0,0,0,0
+,"MALE, George ",Full Back,35,0,0,1,0,0,1,0,0
+,"MCMILLEN, Walter ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MOSS, Frank ",Goalkeeper,41,0,0,1,0,0,1,0,0
+,"PARKER, Tom ",Full Back,5,0,0,0,0,0,0,0,0
+,"PARKIN, Ray ",Inside Forward,5,0,0,0,0,0,1,0,0
+,"PREEDY, Charlie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Herbie ",Central Defender,36,0,0,1,0,0,0,0,0
+,"SIDEY, Norman ",Central Defender,2,0,0,1,0,0,0,0,0
+,"STOCKILL, Reg ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"TUCKETT, Ernie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WALSH, Charlie ",Inside Forward,0,0,0,1,0,0,0,0,0
+,"WARNES, Billy ",Winger,0,0,0,1,0,0,0,0,0

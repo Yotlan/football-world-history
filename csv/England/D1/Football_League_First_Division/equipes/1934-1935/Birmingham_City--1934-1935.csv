@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1934/35
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned 	Full Back	30	1	1	4	0	0	0	0	0
-										
-BEASLEY, Jack 	Centre Forward	0	0	0	0	0	0	0	0	0
-										
-BETTS, Arthur 	Winger	0	0	0	0	0	0	0	0	0
-										
-BOOTON, Harold 	Full Back	33	1	1	4	0	0	0	0	0
-										
-BRADFORD, Joe 	Centre Forward	15	4	0	4	0	0	0	0	0
-										
-BULGER, Charlie 	Winger	0	0	0	0	0	0	0	0	0
-										
-CALLADINE, Charlie 	Wing Half	38	1	0	4	0	0	0	0	0
-										
-CLACK, Frank 	Goalkeeper	9	0	0	0	0	0	0	0	0
-										
-CRAWSHAW, Ray 	Central Defender	4	0	0	0	0	0	0	0	0
-										
-DEARSON, Don 	Inside Forward	4	0	0	0	0	0	0	0	0
-										
-DEVINE, Joe 	Inside Forward	14	0	0	0	0	0	0	0	0
-										
-FILLINGHAM, Tom 	Central Defender	17	0	0	4	1	0	0	0	0
-										
-GROSVENOR, Tom 	Inside Forward	8	0	0	0	0	0	0	0	0
-										
-GUEST, Billy 	Winger	27	5	0	4	2	0	0	0	0
-										
-HARRIS, Fred 	Inside Forward	30	9	0	4	3	0	0	0	0
-										
-HIBBS, Harry 	Goalkeeper	33	0	0	4	0	0	0	0	0
-										
-HOLMES, Harry 	Winger	1	0	0	0	0	0	0	0	0
-										
-HORSMAN, Bill 	Winger	10	0	0	0	0	0	0	0	0
-										
-HUBBARD, Arthur 	Full Back	5	0	0	0	0	0	0	0	0
-										
-JONES, Wilson 	Centre Forward	25	16	0	2	1	0	0	0	0
-										
-JONES, Fred 	Inside Forward	1	0	0	0	0	0	0	0	0
-										
-LEA, Isaac 	Wing Half	9	0	0	0	0	0	0	0	0
-										
-MANGNALL, Dave 	Centre Forward	25	10	0	2	1	0	0	0	0
-										
-MCGURK, Francis 	Winger	1	0	0	0	0	0	0	0	0
-										
-MOFFAT, Sid 	Winger	10	0	0	0	0	0	0	0	0
-										
-MORRALL, George 	Central Defender	26	0	0	0	0	0	0	0	0
-										
-MORRIS, Seymour 	Winger	3	0	0	0	0	0	0	0	0
-										
-ROBERTS, Fred 	Inside Forward	1	1	0	0	0	0	0	0	0
-										
-SMALL, Sam 	Centre Forward	2	0	0	0	0	0	0	0	0
-										
-SMITH, Bernard 	Full Back	1	0	0	0	0	0	0	0	0
-										
-STEEL, Willie 	Full Back	11	0	0	0	0	0	0	0	0
-										
-STOKER, Lew 	Wing Half	37	1	0	4	0	0	0	0	0
-										
-WHITE, Frank 	Winger	32	13	2	4	3	0	0	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,30,1,1,4,0,0,0,0,0
+,"BEASLEY, Jack ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BETTS, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"BOOTON, Harold ",Full Back,33,1,1,4,0,0,0,0,0
+,"BRADFORD, Joe ",Centre Forward,15,4,0,4,0,0,0,0,0
+,"BULGER, Charlie ",Winger,0,0,0,0,0,0,0,0,0
+,"CALLADINE, Charlie ",Wing Half,38,1,0,4,0,0,0,0,0
+,"CLACK, Frank ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"CRAWSHAW, Ray ",Central Defender,4,0,0,0,0,0,0,0,0
+,"DEARSON, Don ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,14,0,0,0,0,0,0,0,0
+,"FILLINGHAM, Tom ",Central Defender,17,0,0,4,1,0,0,0,0
+,"GROSVENOR, Tom ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"GUEST, Billy ",Winger,27,5,0,4,2,0,0,0,0
+,"HARRIS, Fred ",Inside Forward,30,9,0,4,3,0,0,0,0
+,"HIBBS, Harry ",Goalkeeper,33,0,0,4,0,0,0,0,0
+,"HOLMES, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"HORSMAN, Bill ",Winger,10,0,0,0,0,0,0,0,0
+,"HUBBARD, Arthur ",Full Back,5,0,0,0,0,0,0,0,0
+,"JONES, Wilson ",Centre Forward,25,16,0,2,1,0,0,0,0
+,"JONES, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LEA, Isaac ",Wing Half,9,0,0,0,0,0,0,0,0
+,"MANGNALL, Dave ",Centre Forward,25,10,0,2,1,0,0,0,0
+,"MCGURK, Francis ",Winger,1,0,0,0,0,0,0,0,0
+,"MOFFAT, Sid ",Winger,10,0,0,0,0,0,0,0,0
+,"MORRALL, George ",Central Defender,26,0,0,0,0,0,0,0,0
+,"MORRIS, Seymour ",Winger,3,0,0,0,0,0,0,0,0
+,"ROBERTS, Fred ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"SMALL, Sam ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"SMITH, Bernard ",Full Back,1,0,0,0,0,0,0,0,0
+,"STEEL, Willie ",Full Back,11,0,0,0,0,0,0,0,0
+,"STOKER, Lew ",Wing Half,37,1,0,4,0,0,0,0,0
+,"WHITE, Frank ",Winger,32,13,2,4,3,0,0,0,0

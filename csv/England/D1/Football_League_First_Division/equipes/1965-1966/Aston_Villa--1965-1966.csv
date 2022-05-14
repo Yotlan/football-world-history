@@ -1,49 +1,24 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1965/66
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Charlie 	Full Back	42	1	0	1	0	0	5	0	0
-										
-BAKER, Alan 	Midfielder	8+1	0	0	0	0	0	1	0	0
-										
-BLOOMFIELD, Ray 	Wing Half	2	0	0	0	0	0	0	0	0
-										
-BRADLEY, Keith 	Full Back	5	0	0	0	0	0	0	0	0
-										
-CHATTERLEY, Lew 	Midfielder	4	0	0	0	0	0	0	0	0
-										
-DEAKIN, Alan 	Midfielder	26	3	0	0	0	0	3	0	0
-										
-GAVAN, John 	Goalkeeper	4	0	0	0	0	0	2	0	0
-										
-HAMILTON, Willie 	Inside Forward	37	9	0	1	0	0	4	0	0
-										
-HATELEY, Tony 	Forward	39	27	3	1	0	0	4	1	0
-										
-MACEWAN, Jimmy 	Winger	4	1	0	0	0	0	0	0	0
-										
-MCLEOD, John 	Winger	36+1	4	0	1	0	0	4	1	0
-										
-PARK, Bobby 	Midfielder	13+1	4	0	0	0	0	3	0	0
-										
-PARKER, Graham 	Midfielder	8+1	1	0	1	0	0	2	0	0
-										
-POUNTNEY, Dave 	Central Defender	30+3	2	0	1	0	0	3	0	0
-										
-ROBERTS, Dave 	Winger	1	0	0	0	0	0	0	0	0
-										
-SCOTT, Tony 	Winger	25	2	0	1	0	0	3	0	0
-										
-SLEEUWENHOEK, John 	Central Defender	38	0	0	1	0	0	5	0	0
-										
-STOBART, Barry 	Forward	5	0	0	0	0	0	1	1	0
-										
-TINDALL, Mike 	Wing Half	26	1	0	0	0	0	3	1	0
-										
-WITHERS, Colin 	Goalkeeper	38	0	0	1	0	0	3	0	0
-										
-WOOSNAM, Phil 	Inside Forward	35	14	0	1	1	0	4	5	0
-										
-WRIGHT, Mick 	Full Back	36+1	0	0	1	0	0	5	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Charlie ",Full Back,42,1,0,1,0,0,5,0,0
+,"BAKER, Alan ",Midfielder,8+1,0,0,0,0,0,1,0,0
+,"BLOOMFIELD, Ray ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BRADLEY, Keith ",Full Back,5,0,0,0,0,0,0,0,0
+,"CHATTERLEY, Lew ",Midfielder,4,0,0,0,0,0,0,0,0
+,"DEAKIN, Alan ",Midfielder,26,3,0,0,0,0,3,0,0
+,"GAVAN, John ",Goalkeeper,4,0,0,0,0,0,2,0,0
+,"HAMILTON, Willie ",Inside Forward,37,9,0,1,0,0,4,0,0
+,"HATELEY, Tony ",Forward,39,27,3,1,0,0,4,1,0
+,"MACEWAN, Jimmy ",Winger,4,1,0,0,0,0,0,0,0
+,"MCLEOD, John ",Winger,36+1,4,0,1,0,0,4,1,0
+,"PARK, Bobby ",Midfielder,13+1,4,0,0,0,0,3,0,0
+,"PARKER, Graham ",Midfielder,8+1,1,0,1,0,0,2,0,0
+,"POUNTNEY, Dave ",Central Defender,30+3,2,0,1,0,0,3,0,0
+,"ROBERTS, Dave ",Winger,1,0,0,0,0,0,0,0,0
+,"SCOTT, Tony ",Winger,25,2,0,1,0,0,3,0,0
+,"SLEEUWENHOEK, John ",Central Defender,38,0,0,1,0,0,5,0,0
+,"STOBART, Barry ",Forward,5,0,0,0,0,0,1,1,0
+,"TINDALL, Mike ",Wing Half,26,1,0,0,0,0,3,1,0
+,"WITHERS, Colin ",Goalkeeper,38,0,0,1,0,0,3,0,0
+,"WOOSNAM, Phil ",Inside Forward,35,14,0,1,1,0,4,5,0
+,"WRIGHT, Mick ",Full Back,36+1,0,0,1,0,0,5,0,0

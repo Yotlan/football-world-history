@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1984/85
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Paul 	Midfielder	38	3	0	5	2	0	4	0	0
-										
-BARNES, Bobby 	Winger	18+2	2	0	2	0	0	1+1	0	0
-										
-BONDS, Billy 	Central Defender	19+3	3	0	0	0	0	4	0	0
-										
-BRUSH, Paul 	Full Back	18	1	0	5	0	0	0	0	0
-										
-CAMPBELL, Greg 	Forward	2	0	0	0	0	0	0	0	0
-										
-COTTEE, Tony 	Forward	40+1	17	0	5	4	0	4	3	0
-										
-DEVONSHIRE, Alan 	Midfielder	0	0	0	2	0	0	0	0	0
-										
-DICKENS, Alan 	Midfielder	24+1	2	0	4	2	0	1+1	0	0
-										
-GALE, Tony 	Central Defender	36+1	0	0	0	0	0	3	0	0
-										
-GODDARD, Paul 	Forward	38+2	9	0	5	3	0	3	2	0
-										
-HILTON, Paul 	Central Defender	5+4	1	0	1+1	0	0	0	0	0
-										
-LAMPARD, Frank 	Full Back	1	0	0	0	0	0	0	0	0
-										
-MARTIN, Alvin 	Central Defender	40	1	0	5	0	0	4	0	0
-										
-MCALISTER, Tom 	Goalkeeper	32	0	0	5	0	0	4	0	0
-										
-MCMENEMY, Paul 	Forward	0	0	0	0	0	0	0	0	0
-										
-MCPHERSON, Keith 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-ORR, Neil 	Central Defender	17+3	0	0	4	0	0	1+1	0	0
-										
-PARKES, Phil 	Goalkeeper	10	0	0	0	0	0	0	0	0
-										
-PARRIS, George 	Midfielder	1	0	0	0	0	0	0	0	0
-										
-PIKE, Geoff 	Midfielder	30	2	0	4	1	0	4	0	0
-										
-POTTS, Steve 	Central Defender	1	0	0	0	0	0	0	0	0
-										
-STEWART, Ray 	Full Back	37	6	6	4	1	1	4	0	0
-										
-SWINDLEHURST, Dave 	Forward	8+8	0	0	0+1	0	0	0	0	0
-										
-WALFORD, Steve 	Central Defender	33	0	0	4	0	0	4	2	0
-										
-WHITTON, Steve 	Midfielder	13+4	1	0	0	0	0	3	2	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Paul ",Midfielder,38,3,0,5,2,0,4,0,0
+,"BARNES, Bobby ",Winger,18+2,2,0,2,0,0,1+1,0,0
+,"BONDS, Billy ",Central Defender,19+3,3,0,0,0,0,4,0,0
+,"BRUSH, Paul ",Full Back,18,1,0,5,0,0,0,0,0
+,"CAMPBELL, Greg ",Forward,2,0,0,0,0,0,0,0,0
+,"COTTEE, Tony ",Forward,40+1,17,0,5,4,0,4,3,0
+,"DEVONSHIRE, Alan ",Midfielder,0,0,0,2,0,0,0,0,0
+,"DICKENS, Alan ",Midfielder,24+1,2,0,4,2,0,1+1,0,0
+,"GALE, Tony ",Central Defender,36+1,0,0,0,0,0,3,0,0
+,"GODDARD, Paul ",Forward,38+2,9,0,5,3,0,3,2,0
+,"HILTON, Paul ",Central Defender,5+4,1,0,1+1,0,0,0,0,0
+,"LAMPARD, Frank ",Full Back,1,0,0,0,0,0,0,0,0
+,"MARTIN, Alvin ",Central Defender,40,1,0,5,0,0,4,0,0
+,"MCALISTER, Tom ",Goalkeeper,32,0,0,5,0,0,4,0,0
+,"MCMENEMY, Paul ",Forward,0,0,0,0,0,0,0,0,0
+,"MCPHERSON, Keith ",Central Defender,1,0,0,0,0,0,0,0,0
+,"ORR, Neil ",Central Defender,17+3,0,0,4,0,0,1+1,0,0
+,"PARKES, Phil ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"PARRIS, George ",Midfielder,1,0,0,0,0,0,0,0,0
+,"PIKE, Geoff ",Midfielder,30,2,0,4,1,0,4,0,0
+,"POTTS, Steve ",Central Defender,1,0,0,0,0,0,0,0,0
+,"STEWART, Ray ",Full Back,37,6,6,4,1,1,4,0,0
+,"SWINDLEHURST, Dave ",Forward,8+8,0,0,0+1,0,0,0,0,0
+,"WALFORD, Steve ",Central Defender,33,0,0,4,0,0,4,2,0
+,"WHITTON, Steve ",Midfielder,13+4,1,0,0,0,0,3,2,0

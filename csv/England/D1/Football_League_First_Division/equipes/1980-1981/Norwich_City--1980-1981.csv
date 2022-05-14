@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1980/81
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Clive 	Goalkeeper	10	0	0	2	0	0	0	0	0
-										
-BARHAM, Mark 	Winger	34+1	1	0	1	0	0	4	0	0
-										
-BENNETT, Dave 	Winger	5+4	1	0	1	0	0	2	0	0
-										
-BOND, Kevin 	Central Defender	28	1	1	1	0	0	4	0	0
-										
-DOWNS, Greg 	Full Back	28+1	2	0	1	1	0	2	0	0
-										
-FASHANU, Justin 	Forward	40	19	0	2	0	0	4	3	0
-										
-FORBES, Duncan 	Central Defender	3	0	0	0	0	0	2	0	0
-										
-GOBLE, Steve 	Winger	25	1	0	1	0	0	2	0	0
-										
-HANSBURY, Roger 	Goalkeeper	22	0	0	0	0	0	4	0	0
-										
-HOADLEY, Phil 	Central Defender	17+2	0	0	1	0	0	2	0	0
-										
-JACK, Ross 	Forward	5+6	0	0	0	0	0	2	0	0
-										
-JAMES, Keith 	Full Back	0	0	0	0	0	0	0	0	0
-										
-MCDOWELL, John 	Full Back	20	1	1	2	0	0	0	0	0
-										
-MCGUIRE, Mick 	Midfielder	28	3	0	1	0	0	0	0	0
-										
-MENDHAM, Peter 	Midfielder	11+2	0	0	2	0	0	0	0	0
-										
-MUZINIC, Drazen 	Midfielder	9+3	0	0	0	0	0	2	0	0
-										
-NIGHTINGALE, Mark 	Full Back	14+2	0	0	0	0	0	0	0	0
-										
-O'NEILL, Martin 	Midfielder	11	1	0	0	0	0	0	0	0
-										
-PADDON, Graham 	Midfielder	42	3	0	2	0	0	4	0	0
-										
-POWELL, Tony 	Central Defender	17+2	0	0	1	0	0	4	1	0
-										
-ROBSON, Keith 	Forward	2+1	0	0	0+1	0	0	0	0	0
-										
-ROYLE, Joe 	Forward	38+2	9	0	2	0	0	2+1	1	0
-										
-SYMONDS, Richard 	Full Back	5+1	0	0	0	0	0	0+1	0	0
-										
-WALFORD, Steve 	Central Defender	10	0	0	0	0	0	0	0	0
-										
-WATSON, Dave 	Central Defender	18	3	0	2	0	0	0	0	0
-										
-WOODS, Chris 	Goalkeeper	10	0	0	0	0	0	0	0	0
-										
-WOODS, Clive 	Winger	10+3	2	0	0	0	0	4	0	0
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Clive ",Goalkeeper,10,0,0,2,0,0,0,0,0
+,"BARHAM, Mark ",Winger,34+1,1,0,1,0,0,4,0,0
+,"BENNETT, Dave ",Winger,5+4,1,0,1,0,0,2,0,0
+,"BOND, Kevin ",Central Defender,28,1,1,1,0,0,4,0,0
+,"DOWNS, Greg ",Full Back,28+1,2,0,1,1,0,2,0,0
+,"FASHANU, Justin ",Forward,40,19,0,2,0,0,4,3,0
+,"FORBES, Duncan ",Central Defender,3,0,0,0,0,0,2,0,0
+,"GOBLE, Steve ",Winger,25,1,0,1,0,0,2,0,0
+,"HANSBURY, Roger ",Goalkeeper,22,0,0,0,0,0,4,0,0
+,"HOADLEY, Phil ",Central Defender,17+2,0,0,1,0,0,2,0,0
+,"JACK, Ross ",Forward,5+6,0,0,0,0,0,2,0,0
+,"JAMES, Keith ",Full Back,0,0,0,0,0,0,0,0,0
+,"MCDOWELL, John ",Full Back,20,1,1,2,0,0,0,0,0
+,"MCGUIRE, Mick ",Midfielder,28,3,0,1,0,0,0,0,0
+,"MENDHAM, Peter ",Midfielder,11+2,0,0,2,0,0,0,0,0
+,"MUZINIC, Drazen ",Midfielder,9+3,0,0,0,0,0,2,0,0
+,"NIGHTINGALE, Mark ",Full Back,14+2,0,0,0,0,0,0,0,0
+,"O'NEILL, Martin ",Midfielder,11,1,0,0,0,0,0,0,0
+,"PADDON, Graham ",Midfielder,42,3,0,2,0,0,4,0,0
+,"POWELL, Tony ",Central Defender,17+2,0,0,1,0,0,4,1,0
+,"ROBSON, Keith ",Forward,2+1,0,0,0+1,0,0,0,0,0
+,"ROYLE, Joe ",Forward,38+2,9,0,2,0,0,2+1,1,0
+,"SYMONDS, Richard ",Full Back,5+1,0,0,0,0,0,0+1,0,0
+,"WALFORD, Steve ",Central Defender,10,0,0,0,0,0,0,0,0
+,"WATSON, Dave ",Central Defender,18,3,0,2,0,0,0,0,0
+,"WOODS, Chris ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"WOODS, Clive ",Winger,10+3,2,0,0,0,0,4,0,0
