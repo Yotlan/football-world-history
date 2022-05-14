@@ -1,68 +1,33 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BACHE, Joe	Inside Forward	
-										
-BANKS, Bertie	Inside Forward	
-										
-BRAWN, Billy	Winger	
-										
-CLARKE, Willie	Winger	
-										
-COOCH, Harry	Goalkeeper	
-										
-COWAN, Jimmy	Centre Half	
-										
-CRABTREE, Jimmy	Wing Half	
-										
-DEVEY, Jack	Inside Forward	
-										
-EVANS, Albert	Full Back	
-										
-GARRATY, Billy	Inside Forward	
-										
-GEORGE, Billy	Goalkeeper	
-										
-HARGRAVE, Fred	Centre Forward	
-										
-HARRIS, George	Wing Half	
-										
-JOHNSON, George	Inside Forward	
-										
-LLOYD, Frank	Winger	
-										
-MARRIOTT, Walter	Winger	
-										
-MCLUCKIE, James	Centre Forward	
-										
-MILLAR, Arthur	Wing Half	
-										
-MURRAY, Jimmy	Inside Forward	
-										
-NIBLO, Tommy	Centre Forward	
-										
-NOON, Micky	Full Back	
-										
-PEARSON, Joe	Wing Half	
-										
-PENNINGTON, Jesse	Full Back	
-										
-PERRY, Tom	Wing Half	
-										
-SHUTT, Jack	Full Back	
-										
-SMITH, George	Inside Forward	
-										
-TEMPLETON, Bobby	Winger	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WILKES, Albert	Wing Half	
-										
-WILSON, Tommy	Winger	
-										
-WOOD, Alf	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BACHE, Joe ",Inside Forward,34,8,0,2,0,0,0,0,0
+,"BANKS, Bertie ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"BRAWN, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"CLARKE, Willie ",Winger,15,3,0,1,0,0,0,0,0
+,"COOCH, Harry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"COWAN, Jimmy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"CRABTREE, Jimmy ",Wing Half,29,0,0,2,0,0,0,0,0
+,"DEVEY, Jack ",Inside Forward,3,2,0,1,0,0,0,0,0
+,"EVANS, Albert ",Full Back,4,0,0,0,0,0,0,0,0
+,"GARRATY, Billy ",Inside Forward,26,4,0,2,3,0,0,0,0
+,"GEORGE, Billy ",Goalkeeper,25,0,0,2,0,0,0,0,0
+,"HARGRAVE, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HARRIS, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"JOHNSON, George ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"LLOYD, Frank ",Winger,3,0,0,0,0,0,0,0,0
+,"MARRIOTT, Walter ",Winger,8,0,0,0,0,0,0,0,0
+,"MCLUCKIE, James ",Centre Forward,21,16,0,2,0,0,0,0,0
+,"MILLAR, Arthur ",Wing Half,9,0,0,0,0,0,0,0,0
+,"MURRAY, Jimmy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"NIBLO, Tommy ",Centre Forward,12,2,0,0,0,0,0,0,0
+,"NOON, Micky ",Full Back,10,0,0,0,0,0,0,0,0
+,"PEARSON, Joe ",Wing Half,5,0,0,0,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,0,0,0,0,0,0,0,0,0
+,"PERRY, Tom ",Wing Half,23,1,0,2,0,0,0,0,0
+,"SHUTT, Jack ",Full Back,24,0,0,2,0,0,0,0,0
+,"SMITH, George ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"TEMPLETON, Bobby ",Winger,24,1,0,2,0,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"WILKES, Albert ",Wing Half,29,1,0,2,0,0,0,0,0
+,"WILSON, Tommy ",Winger,4,0,0,0,0,0,0,0,0
+,"WOOD, Alf ",Centre Half,33,2,0,2,0,0,0,0,0

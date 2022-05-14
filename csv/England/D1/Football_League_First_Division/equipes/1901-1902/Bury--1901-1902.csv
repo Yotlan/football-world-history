@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARCHER, Bill	Wing Half	
-										
-BERRY, John	Inside Forward	
-										
-COX, Walter	Goalkeeper	
-										
-DARROCH, Jack	Full Back	
-										
-FOSTER, Isaac	Centre Half	
-										
-GRAY, Tom	Inside Forward	
-										
-HEAP, Victor	Wing Half	
-										
-JOHNSTON, John	Wing Half	
-										
-LAMBERTON, George	Inside Forward	
-										
-LEEMING, Joe	Full Back	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MCEWEN, Jimmy 'Punch'	Full Back	
-										
-MCLUCKIE, James	Centre Forward	
-										
-MONKS, Albert	Inside Forward	
-										
-MONTGOMERY, Archie	Goalkeeper	
-										
-PLANT, Jack	Winger	
-										
-PRAY, Jack	Wing Half	
-										
-RICHARDS, Billy	Winger	
-										
-ROSS, George	Wing Half	
-										
-SAGAR, Charles	Inside Forward	
-										
-THOMPSON, Fred	Goalkeeper	
-										
-THORPE, Frank	Centre Half	
-										
-WOOD, Billy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARCHER, Bill ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BERRY, John ",Inside Forward,4,0,0,1,0,0,0,0,0
+,"COX, Walter ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DARROCH, Jack ",Full Back,5,0,0,0,0,0,0,0,0
+,"FOSTER, Isaac ",Centre Half,1,0,0,0,0,0,0,0,0
+,"GRAY, Tom ",Inside Forward,9,2,0,2,1,0,0,0,0
+,"HEAP, Victor ",Wing Half,2,0,0,0,0,0,0,0,0
+,"JOHNSTON, John ",Wing Half,31,0,0,3,0,0,0,0,0
+,"LAMBERTON, George ",Inside Forward,8,5,0,0,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,17,1,0,0,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,22,0,0,3,0,0,0,0,0
+,"MCEWEN, Jimmy 'Punch' ",Full Back,34,0,0,3,0,0,0,0,0
+,"MCLUCKIE, James ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"MONKS, Albert ",Inside Forward,16,7,0,0,0,0,0,0,0
+,"MONTGOMERY, Archie ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"PLANT, Jack ",Winger,34,4,0,3,0,0,0,0,0
+,"PRAY, Jack ",Wing Half,5,0,0,0,0,0,0,0,0
+,"RICHARDS, Billy ",Winger,32,1,0,3,0,0,0,0,0
+,"ROSS, George ",Wing Half,28,2,0,3,2,0,0,0,0
+,"SAGAR, Charles ",Inside Forward,31,10,0,3,6,0,0,0,0
+,"THOMPSON, Fred ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"THORPE, Frank ",Centre Half,25,0,0,3,1,0,0,0,0
+,"WOOD, Billy ",Inside Forward,30,11,0,3,2,0,0,0,0

@@ -1,45 +1,22 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BULL, Walter	Centre Half	
-										
-GEE, Ellis	Winger	
-										
-HADLEY, Arthur	Winger	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-INNES, Bob	Wing Half	
-										
-JOYNES, Dickie	Winger	
-										
-LEWIS, George	Full Back	
-										
-MAINMAN, Harry	Centre Half	
-										
-MCDONALD, Ted	Wing Half	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MORRIS, Jack	Inside Forward	
-										
-PENNINGTON, Harry	Goalkeeper	
-										
-POLLOCK, Bob	Wing Half	
-										
-PRESCOTT, Tom	Full Back	
-										
-ROSS, William	Winger	
-										
-SIMPSON, Tom	Winger	
-										
-SPENCER, Fred	Winger	
-										
-SUTER, Bob	Goalkeeper	
-										
-TOONE, George	Goalkeeper	
-										
-WARNER, Alf	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BULL, Walter ",Centre Half,34,4,0,1,0,0,0,0,0
+,"GEE, Ellis ",Winger,33,3,0,1,0,0,0,0,0
+,"HADLEY, Arthur ",Winger,5,1,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,31,14,0,0,0,0,0,0,0
+,"INNES, Bob ",Wing Half,29,0,0,1,0,0,0,0,0
+,"JOYNES, Dickie ",Winger,15,2,0,0,0,0,0,0,0
+,"LEWIS, George ",Full Back,23,1,0,1,1,0,0,0,0
+,"MAINMAN, Harry ",Centre Half,12,0,0,1,0,0,0,0,0
+,"MCDONALD, Ted ",Wing Half,34,3,0,1,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,18,0,0,1,0,0,0,0,0
+,"MORRIS, Jack ",Inside Forward,33,12,1,1,0,0,0,0,0
+,"PENNINGTON, Harry ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"POLLOCK, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PRESCOTT, Tom ",Full Back,26,0,0,0,0,0,0,0,0
+,"ROSS, William ",Winger,23,9,0,0,0,0,0,0,0
+,"SIMPSON, Tom ",Winger,4,0,0,0,0,0,0,0,0
+,"SPENCER, Fred ",Winger,8,1,0,1,0,0,0,0,0
+,"SUTER, Bob ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"TOONE, George ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WARNER, Alf ",Inside Forward,12,1,0,1,0,0,0,0,0

@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Wattie	Centre Forward	
-										
-BARNES, Billy	Winger	
-										
-BECKRAM, John	Inside Forward	
-										
-BEER, Billy	Wing Half	
-										
-BENNETT, Walter	Winger	
-										
-BIGGAR, Billy	Goalkeeper	
-										
-BOURNE, Dickie	Winger	
-										
-BOYLE, Peter	Full Back	
-										
-BRAWN, Billy	Winger	
-										
-BRIGHT, Sam	Full Back	
-										
-COMMON, Alf	Inside Forward	
-										
-FIELD, Charles 'Oakey'	Winger	
-										
-FOULKE, Willie	Goalkeeper	
-										
-GREENSILL, Edwin	Inside Forward	
-										
-HEDLEY, George	Centre Forward	
-										
-HOLMES, Tom	Winger	
-										
-JOHNSON, Harry	Wing Half	
-										
-KAY, Alec	Full Back	
-										
-LIPSHAM, Bert	Winger	
-										
-MCINTYRE, Peter	Centre Half	
-										
-MORREN, Tom	Centre Half	
-										
-MURPHY, Neil	Winger	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-PARKER, Billy	Wing Half	
-										
-PRIEST, Fred	Winger	
-										
-THICKETT, Harry	Full Back	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WILKINSON, Billy	Wing Half	
-										
-WOOD, Alexander	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Wattie ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BARNES, Billy ",Winger,12,3,0,1,1,0,0,0,0
+,"BECKRAM, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BEER, Billy ",Wing Half,6,1,0,0,0,0,0,0,0
+,"BENNETT, Walter ",Winger,24,10,0,8,2,0,0,0,0
+,"BIGGAR, Billy ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"BOURNE, Dickie ",Winger,4,0,0,0,0,0,0,0,0
+,"BOYLE, Peter ",Full Back,28,0,0,9,0,0,0,0,0
+,"BRAWN, Billy ",Winger,6,1,0,0,0,0,0,0,0
+,"BRIGHT, Sam ",Full Back,1,0,0,0,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,20,6,0,9,3,0,0,0,0
+,"FIELD, Charles 'Oakey' ",Winger,6,3,0,0,0,0,0,0,0
+,"FOULKE, Willie ",Goalkeeper,26,0,0,9,0,0,0,0,0
+,"GREENSILL, Edwin ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"HEDLEY, George ",Centre Forward,26,7,0,9,2,0,0,0,0
+,"HOLMES, Tom ",Winger,3,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Wing Half,30,1,0,8,0,0,0,0,0
+,"KAY, Alec ",Full Back,6,0,0,0,0,0,0,0,0
+,"LIPSHAM, Bert ",Winger,28,2,0,8,0,0,0,0,0
+,"MCINTYRE, Peter ",Centre Half,3,0,0,0,0,0,0,0,0
+,"MORREN, Tom ",Centre Half,12,0,0,2,0,0,0,0,0
+,"MURPHY, Neil ",Winger,0,0,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,26,1,0,8,1,0,0,0,0
+,"PARKER, Billy ",Wing Half,6,0,0,1,0,0,0,0,0
+,"PRIEST, Fred ",Winger,25,17,2,9,4,0,0,0,0
+,"THICKETT, Harry ",Full Back,33,0,0,9,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,26,0,0,9,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WOOD, Alexander ",Full Back,2,0,0,0,0,0,0,0,0

@@ -1,56 +1,27 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy	Centre Half	
-										
-BAMLETT, Tommy	Full Back	
-										
-BENNIE, Bob	Full Back	
-										
-BIRNIE, Ted	Wing Half	
-										
-CAIE, Alex	Wing Half	
-										
-CARR, Jack	Wing Half	
-										
-CRETNEY, John	Wing Half	
-										
-DAVIDSON, Tommy	Full Back	
-										
-GARDNER, Alec	Wing Half	
-										
-GARDNER, Dave	Full Back	
-										
-GHEE, Tommy	Wing Half	
-										
-GORDON, Andy	Wing Half	
-										
-GRAHAM, John	Winger	
-										
-KINGSLEY, Matt	Goalkeeper	
-										
-MACFARLANE, Sandy	Inside Forward	
-										
-MCCOLL, Bob	Inside Forward	
-										
-NIBLO, Tommy	Centre Forward	
-										
-ORR, Ronald	Inside Forward	
-										
-PATTINSON, Dan	Inside Forward	
-										
-PEDDIE, Jock	Centre Forward	
-										
-ROBERTS, Richard	Winger	
-										
-RUTHERFORD, Jock	Winger	
-										
-STEWART, Willie	Winger	
-										
-VEITCH, Colin	Centre Half	
-										
-WATTS, Charlie	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Centre Half,30,1,0,4,0,0,0,0,0
+,"BAMLETT, Tommy ",Full Back,2,0,0,0,0,0,0,0,0
+,"BENNIE, Bob ",Full Back,27,0,0,4,0,0,0,0,0
+,"BIRNIE, Ted ",Wing Half,2,0,0,0,0,0,0,0,0
+,"CAIE, Alex ",Wing Half,21,0,0,4,0,0,0,0,0
+,"CARR, Jack ",Wing Half,30,1,0,3,0,0,0,0,0
+,"CRETNEY, John ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DAVIDSON, Tommy ",Full Back,26,0,0,4,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,26,2,0,4,1,0,0,0,0
+,"GARDNER, Dave ",Full Back,13,0,0,0,0,0,0,0,0
+,"GHEE, Tommy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"GORDON, Andy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GRAHAM, John ",Winger,6,0,0,0,0,0,0,0,0
+,"KINGSLEY, Matt ",Goalkeeper,33,0,0,4,0,0,0,0,0
+,"MACFARLANE, Sandy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MCCOLL, Bob ",Inside Forward,10,3,1,2,1,0,0,0,0
+,"NIBLO, Tommy ",Centre Forward,12,1,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,32,9,0,4,1,0,0,0,0
+,"PATTINSON, Dan ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"PEDDIE, Jock ",Centre Forward,16,8,1,2,0,0,0,0,0
+,"ROBERTS, Richard ",Winger,29,12,0,3,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,11,5,0,0,0,0,0,0,0
+,"STEWART, Willie ",Winger,25,2,0,4,1,0,0,0,0
+,"VEITCH, Colin ",Centre Half,10,3,0,2,1,0,0,0,0
+,"WATTS, Charlie ",Goalkeeper,1,0,0,0,0,0,0,0,0

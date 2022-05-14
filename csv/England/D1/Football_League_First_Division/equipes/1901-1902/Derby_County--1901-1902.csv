@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALKWILL, Alexander	Centre Forward	
-										
-BLOOMER, Steve	Inside Forward	
-										
-BOAG, John	Centre Forward	
-										
-BROMAGE, Harry	Goalkeeper	
-										
-CRAWFORD, James	Winger	
-										
-DAVIS, George	Winger	
-										
-FRYER, Jack	Goalkeeper	
-										
-FULTON, William	Inside Forward	
-										
-GOODALL, Archie	Centre Half	
-										
-HARRISON, Thomas	Goalkeeper	
-										
-HASLAM, Harry	Wing Half	
-										
-HODGKINSON, William	Centre Forward	
-										
-HOLYOAKE, Ernest	Full Back	
-										
-HUNT, John	Wing Half	
-										
-LATHAM, Arthur	Full Back	
-										
-LECKIE, Charles	Wing Half	
-										
-LLOYD, George	Wing Half	
-										
-MAY, Johnny	Wing Half	
-										
-METHVEN, Jimmy	Full Back	
-										
-MIDDLETON, Frank	Winger	
-										
-MORRIS, Charlie	Full Back	
-										
-RAISBECK, Bill	Wing Half	
-										
-RICHARDS, George	Wing Half	
-										
-SHIRTCLIFFE, Edward	Winger	
-										
-VARNEY, Herbert	Winger	
-										
-WARREN, Arnold	Winger	
-										
-WARREN, Ben	Wing Half	
-										
-WARRINGTON, Joe	Winger	
-										
-WOMBWELL, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALKWILL, Alexander ",Centre Forward,11,1,0,0,0,0,0,0,0
+,"BLOOMER, Steve ",Inside Forward,29,15,0,7,3,0,0,0,0
+,"BOAG, John ",Centre Forward,18,3,0,7,1,0,0,0,0
+,"BROMAGE, Harry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CRAWFORD, James ",Winger,11,0,0,0,0,0,0,0,0
+,"DAVIS, George ",Winger,10,2,0,7,0,0,0,0,0
+,"FRYER, Jack ",Goalkeeper,31,0,0,7,0,0,0,0,0
+,"FULTON, William ",Inside Forward,13,1,0,0,0,0,0,0,0
+,"GOODALL, Archie ",Centre Half,30,2,1,7,0,0,0,0,0
+,"HARRISON, Thomas ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HASLAM, Harry ",Wing Half,6,0,0,0,0,0,0,0,0
+,"HODGKINSON, William ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HOLYOAKE, Ernest ",Full Back,1,0,0,0,0,0,0,0,0
+,"HUNT, John ",Wing Half,3,0,0,0,0,0,0,0,0
+,"LATHAM, Arthur ",Full Back,1,0,0,0,0,0,0,0,0
+,"LECKIE, Charles ",Wing Half,32,0,0,7,0,0,0,0,0
+,"LLOYD, George ",Wing Half,5,0,0,1,0,0,0,0,0
+,"MAY, Johnny ",Wing Half,25,3,0,2,0,0,0,0,0
+,"METHVEN, Jimmy ",Full Back,32,0,0,7,0,0,0,0,0
+,"MIDDLETON, Frank ",Winger,18,2,0,0,0,0,0,0,0
+,"MORRIS, Charlie ",Full Back,32,0,0,7,0,0,0,0,0
+,"RAISBECK, Bill ",Wing Half,3,0,0,3,0,0,0,0,0
+,"RICHARDS, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SHIRTCLIFFE, Edward ",Winger,4,0,0,0,0,0,0,0,0
+,"VARNEY, Herbert ",Winger,1,0,0,0,0,0,0,0,0
+,"WARREN, Arnold ",Winger,8,2,0,0,0,0,0,0,0
+,"WARREN, Ben ",Wing Half,22,4,0,7,8,0,0,0,0
+,"WARRINGTON, Joe ",Winger,3,0,0,1,0,0,0,0,0
+,"WOMBWELL, Dicky ",Winger,22,3,0,7,1,0,0,0,0

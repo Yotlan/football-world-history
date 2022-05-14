@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTLEY, Harry	Centre Forward	
-										
-BANNISTER, Billy	Centre Half	
-										
-BARLOW, Tom	Inside Forward	
-										
-BELL, Fred	Wing Half	
-										
-BELL, Laurie	Centre Forward	
-										
-BROWN, Bob	Centre Half	
-										
-BROWN, William	Full Back	
-										
-BURNISON, Joe	Wing Half	
-										
-CHORLTON, Frank	Wing Half	
-										
-FITCHETT, Jack	Wing Half	
-										
-FREEBAIRN, Archie	Wing Half	
-										
-HALLIDAY, Fred	Full Back	
-										
-HANSON, Jimmy	Inside Forward	
-										
-MCATEER, Thomas	Centre Half	
-										
-MCKIE, James	Centre Forward	
-										
-NEYLAND, Martin	Centre Forward	
-										
-NICOLL, David	Centre Forward	
-										
-NIGHTINGALE, James	Full Back	
-										
-OSTICK, Charlie	Full Back	
-										
-PICKEN, John	Inside Forward	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-STOKES, David	Winger	
-										
-STRUTHERS, Bob	Full Back	
-										
-SUTCLIFFE, John	Goalkeeper	
-										
-TAYLOR, Bob	Winger	
-										
-TRACEY, William	Winger	
-										
-WILLIAMS, Harry	Winger	
-										
-WOOLFALL, Thomas	Full Back	
-										
-WORTHINGTON, John	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTLEY, Harry ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"BANNISTER, Billy ",Centre Half,18,2,1,2,0,0,0,0,0
+,"BARLOW, Tom ",Inside Forward,28,10,0,2,0,0,0,0,0
+,"BELL, Fred ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BELL, Laurie ",Centre Forward,22,9,0,1,0,0,0,0,0
+,"BROWN, Bob ",Centre Half,12,0,0,0,0,0,0,0,0
+,"BROWN, William ",Full Back,24,0,0,1,0,0,0,0,0
+,"BURNISON, Joe ",Wing Half,12,0,0,0,0,0,0,0,0
+,"CHORLTON, Frank ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FITCHETT, Jack ",Wing Half,10,0,0,1,0,0,0,0,0
+,"FREEBAIRN, Archie ",Wing Half,23,1,0,2,0,0,0,0,0
+,"HALLIDAY, Fred ",Full Back,16,0,0,2,0,0,0,0,0
+,"HANSON, Jimmy ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"MCATEER, Thomas ",Centre Half,5,0,0,0,0,0,0,0,0
+,"MCKIE, James ",Centre Forward,33,8,0,2,2,0,0,0,0
+,"NEYLAND, Martin ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"NICOLL, David ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"NIGHTINGALE, James ",Full Back,0,0,0,0,0,0,0,0,0
+,"OSTICK, Charlie ",Full Back,27,0,0,0,0,0,0,0,0
+,"PICKEN, John ",Inside Forward,32,10,0,2,0,0,0,0,0
+,"SHEPHERD, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"STOKES, David ",Winger,12,2,0,0,0,0,0,0,0
+,"STRUTHERS, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"SUTCLIFFE, John ",Goalkeeper,28,0,0,2,0,0,0,0,0
+,"TAYLOR, Bob ",Winger,19,1,0,1,0,0,0,0,0
+,"TRACEY, William ",Winger,15,1,0,1,0,0,0,0,0
+,"WILLIAMS, Harry ",Winger,15,6,0,2,1,0,0,0,0
+,"WOOLFALL, Thomas ",Full Back,0,0,0,1,0,0,0,0,0
+,"WORTHINGTON, John ",Winger,3,1,0,0,0,0,0,0,0

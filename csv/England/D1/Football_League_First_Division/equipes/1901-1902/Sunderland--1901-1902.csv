@@ -1,47 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKETT, Joe	Full Back	
-										
-CODLING, Rowland	Wing Half	
-										
-COMMON, Alf	Inside Forward	
-										
-CRAGGS, Jack	Winger	
-										
-DOIG, Ned	Goalkeeper	
-										
-FARQUHAR, Billy	Wing Half	
-										
-FERGUSON, Matthew	Wing Half	
-										
-GEMMELL, Jimmy	Inside Forward	
-										
-GIBSON, William	Full Back	
-										
-HEWITT, Joe	Centre Forward	
-										
-HOGG, Robert	Inside Forward	
-										
-HOGG, Billy	Winger	
-										
-JACKSON, Dicky	Wing Half	
-										
-MCALLISTER, Sandy	Centre Half	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCLATCHIE, Colin	Winger	
-										
-MEARNS, Fred	Goalkeeper	
-										
-MILLAR, Jimmy	Inside Forward	
-										
-MURRAY, Willie	Winger	
-										
-PRIOR, George	Centre Forward	
-										
-WATSON, Jimmy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKETT, Joe,Full Back,","CODLING, Rowland,Wing Half,","COMMON, Alf,Inside Forward,","CRAGGS, Jack,Winger,","DOIG, Ned,Goalkeeper,","FARQUHAR, Billy,Wing Half,","FERGUSON, Matthew,Wing Half,","GEMMELL, Jimmy,Inside Forward,","GIBSON, William,Full Back,","HEWITT, Joe,Centre Forward,","HOGG, Robert,Inside Forward,","HOGG, Billy,Winger,","JACKSON, Dicky,Wing Half,","MCALLISTER, Sandy,Centre Half,","MCCOMBIE, Andy,Full Back,","MCLATCHIE, Colin,Winger,","MEARNS, Fred,Goalkeeper,","MILLAR, Jimmy,Inside Forward,","MURRAY, Willie,Winger,","PRIOR, George,Centre Forward,","WATSON, Jimmy,Full Back,Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKETT, Joe ",Full Back,0,0,0,0,0,0,0,0,0
+,"CODLING, Rowland ",Wing Half,0,0,0,0,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"CRAGGS, Jack ",Winger,6,2,0,0,0,0,0,0,0
+,"DOIG, Ned ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"FARQUHAR, Billy ",Wing Half,13,0,0,0,0,0,0,0,0
+,"FERGUSON, Matthew ",Wing Half,29,0,0,2,0,0,0,0,0
+,"GEMMELL, Jimmy ",Inside Forward,31,10,0,2,0,0,0,0,0
+,"GIBSON, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"HOGG, Robert ",Inside Forward,29,5,0,2,0,0,0,0,0
+,"HOGG, Billy ",Winger,28,10,0,2,0,0,0,0,0
+,"JACKSON, Dicky ",Wing Half,32,3,0,2,0,0,0,0,0
+,"MCALLISTER, Sandy ",Centre Half,34,1,0,2,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,26,1,0,2,0,0,0,0,0
+,"MCLATCHIE, Colin ",Winger,25,4,0,2,0,0,0,0,0
+,"MEARNS, Fred ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MILLAR, Jimmy ",Inside Forward,32,9,0,2,1,0,0,0,0
+,"MURRAY, Willie ",Winger,7,2,0,0,0,0,0,0,0
+,"PRIOR, George ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,33,0,0,2,0,0,0,0,0

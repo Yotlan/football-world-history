@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Walter	Wing Half	
-										
-BALMER, Billy	Full Back	
-										
-BELL, Jack	Inside Forward	
-										
-BLYTHE, Joe	Wing Half	
-										
-BONE, Johnnie	Inside Forward	
-										
-BOOTH, Tom	Centre Half	
-										
-BOWMAN, Adam	Inside Forward	
-										
-BOYLE, Dickie	Wing Half	
-										
-CHADWICK, Thomas	Centre Half	
-										
-CLARK, Charles	Centre Half	
-										
-ECCLES, George	Full Back	
-										
-KITCHEN, George	Goalkeeper	
-										
-MUIR, Willie	Goalkeeper	
-										
-PATERSON, Peter	Inside Forward	
-										
-PROUDFOOT, John	Centre Forward	
-										
-RANKIN, Bruce	Winger	
-										
-ROCHE, William	Winger	
-										
-SETTLE, Jimmy	Inside Forward	
-										
-SHARP, Bert	Wing Half	
-										
-SHARP, Jack	Winger	
-										
-SINGLETON, Harry	Winger	
-										
-TAYLOR, Jack	Centre Half	
-										
-TOMAN, Wilf	Centre Forward	
-										
-WATSON, John	Full Back	
-										
-WOLSTENHOLME, Sam	Wing Half	
-										
-YOUNG, Sandy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Walter ",Wing Half,31,4,1,2,0,0,0,0,0
+,"BALMER, Billy ",Full Back,28,0,0,2,0,0,0,0,0
+,"BELL, Jack ",Inside Forward,24,5,0,2,0,0,0,0,0
+,"BLYTHE, Joe ",Wing Half,6,0,0,0,0,0,0,0,0
+,"BONE, Johnnie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BOOTH, Tom ",Centre Half,34,1,0,2,0,0,0,0,0
+,"BOWMAN, Adam ",Inside Forward,4,1,0,2,0,0,0,0,0
+,"BOYLE, Dickie ",Wing Half,7,0,0,0,0,0,0,0,0
+,"CHADWICK, Thomas ",Centre Half,1,0,0,0,0,0,0,0,0
+,"CLARK, Charles ",Centre Half,3,0,0,0,0,0,0,0,0
+,"ECCLES, George ",Full Back,14,0,0,1,0,0,0,0,0
+,"KITCHEN, George ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"MUIR, Willie ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"PATERSON, Peter ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"PROUDFOOT, John ",Centre Forward,7,0,0,0,0,0,0,0,0
+,"RANKIN, Bruce ",Winger,1,0,0,0,0,0,0,0,0
+,"ROCHE, William ",Winger,1,0,0,0,0,0,0,0,0
+,"SETTLE, Jimmy ",Inside Forward,29,18,0,0,0,0,0,0,0
+,"SHARP, Bert ",Wing Half,6,0,0,1,0,0,0,0,0
+,"SHARP, Jack ",Winger,32,6,0,2,1,0,0,0,0
+,"SINGLETON, Harry ",Winger,3,0,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,26,8,0,2,0,0,0,0,0
+,"TOMAN, Wilf ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"WATSON, John ",Full Back,17,0,0,0,0,0,0,0,0
+,"WOLSTENHOLME, Sam ",Wing Half,27,1,0,2,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,30,6,0,2,1,0,0,0,0

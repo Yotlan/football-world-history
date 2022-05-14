@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Harry	Inside Forward	
-										
-BALL, William	Wing Half	
-										
-BLACKBURN, Arthur	Full Back	
-										
-BLACKBURN, Fred	Winger	
-										
-BRYANT, Willie	Winger	
-										
-COUPE, Thomas	Goalkeeper	
-										
-CROMPTON, Bob	Full Back	
-										
-DARROCH, Jack	Full Back	
-										
-DEWHURST, Jack	Centre Half	
-										
-EASTHAM, Jack	Full Back	
-										
-GATE, William	Winger	
-										
-HARDY, Allen	Full Back	
-										
-HAWORTH, Bob	Centre Half	
-										
-HINDLE, Harry	Centre Half	
-										
-HOULKER, Albert 'Kelly'	Wing Half	
-										
-HOYNE, James	Inside Forward	
-										
-MCCLURE, Sammy	Centre Half	
-										
-MCIVER, Willie	Goalkeeper	
-										
-MORGAN, Hugh	Inside Forward	
-										
-RUSSELL, Jock	Winger	
-										
-SOMERS, Peter	Inside Forward	
-										
-SWARBRICK, Jimmy	Winger	
-										
-WHITTAKER, Arnie	Winger	
-										
-WHITTAKER, Walter	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BALL, William ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BLACKBURN, Arthur ",Full Back,2,0,0,0,0,0,0,0,0
+,"BLACKBURN, Fred ",Winger,31,5,0,1,0,0,0,0,0
+,"BRYANT, Willie ",Winger,10,2,2,0,0,0,0,0,0
+,"COUPE, Thomas ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,31,0,0,1,0,0,0,0,0
+,"DARROCH, Jack ",Full Back,17,0,0,1,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,34,16,0,1,0,0,0,0,0
+,"EASTHAM, Jack ",Full Back,8,0,0,0,0,0,0,0,0
+,"GATE, William ",Winger,4,1,0,0,0,0,0,0,0
+,"HARDY, Allen ",Full Back,8,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Centre Half,34,0,0,1,0,0,0,0,0
+,"HINDLE, Harry ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HOULKER, Albert 'Kelly' ",Wing Half,29,1,0,1,0,0,0,0,0
+,"HOYNE, James ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,31,3,0,1,0,0,0,0,0
+,"MCIVER, Willie ",Goalkeeper,28,0,0,1,0,0,0,0,0
+,"MORGAN, Hugh ",Inside Forward,28,7,0,1,0,0,0,0,0
+,"RUSSELL, Jock ",Winger,1,0,0,0,0,0,0,0,0
+,"SOMERS, Peter ",Inside Forward,31,8,0,1,0,0,0,0,0
+,"SWARBRICK, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,33,8,0,1,0,0,0,0,0
+,"WHITTAKER, Walter ",Goalkeeper,6,0,0,0,0,0,0,0,0

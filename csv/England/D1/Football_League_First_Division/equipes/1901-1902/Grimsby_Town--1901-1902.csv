@@ -1,54 +1,26 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1901/02
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADCOCK, Willie	Inside Forward	
-										
-APPLEYARD, Bill	Centre Forward	
-										
-BELLINGHAM, James	Centre Half	
-										
-BRUMLEY, Edward	Centre Half	
-										
-CLUTTERBUCK, Harry	Goalkeeper	
-										
-DEAN, Alf	Winger	
-										
-FLETCHER, Harry	Inside Forward	
-										
-GARDNER, Andy	Winger	
-										
-GRAY, Paddy	Centre Half	
-										
-GRIFFITHS, John	Wing Half	
-										
-HALL, Ben	Centre Half	
-										
-HARPER, George	Inside Forward	
-										
-HEMMINGFIELD, Bill	Wing Half	
-										
-LEIGH, Walter	Inside Forward	
-										
-LEIPER, Joe	Full Back	
-										
-LONG, Jimmy	Inside Forward	
-										
-MCCONNELL, Alex	Full Back	
-										
-MOUNTAIN, George 'Bodge'	Full Back	
-										
-NELMES, Alf	Wing Half	
-										
-RONALDSON, Duncan	Inside Forward	
-										
-SKINNER, Harry	Wing Half	
-										
-STEVENSON, Jimmy	Inside Forward	
-										
-TENNANT, Billy	Goalkeeper	
-										
-WHITTAKER, Walter	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADCOCK, Willie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"APPLEYARD, Bill ",Centre Forward,19,9,1,2,1,0,0,0,0
+,"BELLINGHAM, James ",Centre Half,4,0,0,0,0,0,0,0,0
+,"BRUMLEY, Edward ",Centre Half,1,0,0,0,0,0,0,0,0
+,"CLUTTERBUCK, Harry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DEAN, Alf ",Winger,17,1,0,0,0,0,0,0,0
+,"FLETCHER, Harry ",Inside Forward,20,4,0,2,0,0,0,0,0
+,"GARDNER, Andy ",Winger,31,4,0,2,0,0,0,0,0
+,"GRAY, Paddy ",Centre Half,30,2,0,2,0,0,0,0,0
+,"GRIFFITHS, John ",Wing Half,1,0,0,2,0,0,0,0,0
+,"HALL, Ben ",Centre Half,7,0,0,0,0,0,0,0,0
+,"HARPER, George ",Inside Forward,14,3,0,2,0,0,0,0,0
+,"HEMMINGFIELD, Bill ",Wing Half,30,1,0,0,0,0,0,0,0
+,"LEIGH, Walter ",Inside Forward,17,4,0,0,0,0,0,0,0
+,"LEIPER, Joe ",Full Back,15,0,0,0,0,0,0,0,0
+,"LONG, Jimmy ",Inside Forward,12,3,0,0,0,0,0,0,0
+,"MCCONNELL, Alex ",Full Back,20,0,0,2,0,0,0,0,0
+,"MOUNTAIN, George 'Bodge' ",Full Back,33,0,0,2,0,0,0,0,0
+,"NELMES, Alf ",Wing Half,27,2,0,2,0,0,0,0,0
+,"RONALDSON, Duncan ",Inside Forward,33,10,0,2,0,0,0,0,0
+,"SKINNER, Harry ",Wing Half,1,0,0,0,0,0,0,0,0
+,"STEVENSON, Jimmy ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"TENNANT, Billy ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"WHITTAKER, Walter ",Goalkeeper,20,0,0,2,0,0,0,0,0
