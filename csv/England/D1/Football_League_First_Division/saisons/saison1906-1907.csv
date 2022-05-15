@@ -1,21 +1,21 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Newcastle United,38,22,7,9,74,46,1.609,+28,51,33235,,,League Champions
-2,Bristol City,38,20,8,10,66,47,1.404,+19,48,14920,,,
+1,Newcastle United,38,22,7,9,74,46,1.609,+28,51,33235,"APPLEYARD, Bill - 17","LAWRENCE, Jimmy ",League Champions
+2,Bristol City,38,20,8,10,66,47,1.404,+19,48,14920,"MAXWELL, Willie - 17","DEMMERY, Bill ",
 3,Everton,38,20,5,13,70,46,1.522,+24,45,19579,"YOUNG, Sandy -28","SCOTT, Billy ",
-4,Sheffield United,38,17,11,10,57,55,1.036,+2,45,12155,,,
-5,Aston Villa,38,19,6,13,78,52,1.500,+26,44,23835,,,
-6,Bolton Wanderers,38,18,8,12,59,47,1.255,+12,44,14960,,,
-7,Arsenal,38,20,4,14,66,59,1.119,+7,44,15800,,,
-8,Manchester United,38,17,8,13,53,56,0.946,-3,42,20695,,,
-9,Birmingham City,38,15,8,15,52,52,1.000,+0,38,15315,,,
-10,Sunderland,38,14,9,15,65,66,0.985,-1,37,15450,,,
-11,Middlesbrough,38,15,6,17,56,63,0.889,-7,36,15880,,,
-12,Blackburn Rovers,38,14,7,17,56,59,0.949,-3,35,12265,,,FA Cup Winners
-13,Sheffield Wednesday,38,12,11,15,49,60,0.817,-11,35,11555,,,
-14,Preston North End,38,14,7,17,44,57,0.772,-13,35,9975,,,
-15,Liverpool,38,13,7,18,64,65,0.985,-1,33,18640,,,
-16,Bury,38,13,6,19,58,68,0.853,-10,32,,,,
-17,Manchester City,38,10,12,16,53,77,0.688,-24,32,21670,,,
-18,Notts County,38,8,15,15,46,50,0.920,-4,31,,,,
-19,Derby County,38,9,9,20,41,59,0.695,-18,27,6980,,,Relegated
-20,Stoke City,38,8,10,20,41,64,0.641,-23,26,5605,,,Relegated
+4,Sheffield United,38,17,11,10,57,55,1.036,+2,45,12155,"BROWN, Arthur - 22","LIEVESLEY, Joe ",
+5,Aston Villa,38,19,6,13,78,52,1.500,+26,44,23835,"HAMPTON, Harry - 21","GEORGE, Billy ",
+6,Bolton Wanderers,38,18,8,12,59,47,1.255,+12,44,14960,"SHEPHERD, Albert - 16","EDMONDSON, John ",
+7,Arsenal,38,20,4,14,66,59,1.119,+7,44,15800,"SATTERTHWAITE, Charlie - 17","ASHCROFT, Jimmy ",
+8,Manchester United,38,17,8,13,53,56,0.946,-3,42,20695,"WALL, George - 11","MOGER, Harry ",
+9,Birmingham City,38,15,8,15,52,52,1.000,+0,38,15315,"JONES, Billy - 15","ROBINSON, Nat ",
+10,Sunderland,38,14,9,15,65,66,0.985,-1,37,15450,"BRIDGETT, Arthur - 25","WARD, Bob ",
+11,Middlesbrough,38,15,6,17,56,63,0.889,-7,36,15880,"BLOOMER, Steve - 18","WILLIAMSON, Tim ",
+12,Blackburn Rovers,38,14,7,17,56,59,0.949,-3,35,12265,"MARTIN, Jack - 17","EVANS, Bob ",FA Cup Winners
+13,Sheffield Wednesday,38,12,11,15,49,60,0.817,-11,35,11555,"WILSON, Andy - 17","LYALL, Jack ",
+14,Preston North End,38,14,7,17,44,57,0.772,-13,35,9975,"DAWSON, Charlie - 11","MCBRIDE, Peter ",
+15,Liverpool,38,13,7,18,64,65,0.985,-1,33,18640,"RAYBOULD, Sam - 15","HARDY, Sam ",
+16,Bury,38,13,6,19,58,68,0.853,-10,32,,"BEVAN, Fred - 16","RAESIDE, Jimmy ",
+17,Manchester City,38,10,12,16,53,77,0.688,-24,32,21670,"THORNLEY, Irvine - 13","SMITH, Walter ",
+18,Notts County,38,8,15,15,46,50,0.920,-4,31,,"HUMPHREYS, Percy - 13","IREMONGER, Albert ",
+19,Derby County,38,9,9,20,41,59,0.695,-18,27,6980,"DAVIS, George / LONG, Jimmy - 8","MASKREY, Harry ",Relegated
+20,Stoke City,38,8,10,20,41,64,0.641,-23,26,5605,"CHALMERS, Jackie - 11","ROOSE, Dick ",Relegated
