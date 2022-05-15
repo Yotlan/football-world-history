@@ -1,21 +1,21 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Liverpool,38,23,5,10,79,46,1.717,+33,51,18480,,,League Champions
-2,Preston North End,38,17,13,8,54,39,1.385,+15,47,9485,,,
-3,Sheffield Wednesday,38,18,8,12,63,52,1.212,+11,44,11875,,,
-4,Newcastle United,38,18,7,13,74,48,1.542,+26,43,22765,,,
-5,Manchester City,38,19,5,14,73,54,1.352,+19,43,17560,,,
-6,Bolton Wanderers,38,17,7,14,81,67,1.209,+14,41,19930,,,
-7,Birmingham City,38,17,7,14,65,59,1.102,+6,41,11868,,,
-8,Aston Villa,38,17,6,15,72,56,1.286,+16,40,20735,,,
-9,Blackburn Rovers,38,16,8,14,54,52,1.038,+2,40,12920,,,
-10,Stoke City,38,16,7,15,54,55,0.982,-1,39,8610,,,
+1,Liverpool,38,23,5,10,79,46,1.717,+33,51,18480,"HEWITT, Joe - 23","HARDY, Sam ",League Champions
+2,Preston North End,38,17,13,8,54,39,1.385,+15,47,9485,"BOND, Dickie - 17","MCBRIDE, Peter ",
+3,Sheffield Wednesday,38,18,8,12,63,52,1.212,+11,44,11875,"STEWART, Jimmy - 20","LYALL, Jack ",
+4,Newcastle United,38,18,7,13,74,48,1.542,+26,43,22765,"ORR, Ronald - 17","LAWRENCE, Jimmy ",
+5,Manchester City,38,19,5,14,73,54,1.352,+19,43,17560,"THORNLEY, Irvine - 21","EDMONDSON, John ",
+6,Bolton Wanderers,38,17,7,14,81,67,1.209,+14,41,19930,"SHEPHERD, Albert - 26","DAVIES, Dai ",
+7,Birmingham City,38,17,7,14,65,59,1.102,+6,41,11868,"JONES, Billy - 22","ROBINSON, Nat ",
+8,Aston Villa,38,17,6,15,72,56,1.286,+16,40,20735,"HAMPTON, Harry - 19","GEORGE, Billy ",
+9,Blackburn Rovers,38,16,8,14,54,52,1.038,+2,40,12920,"BOWMAN, Adam - 15","EVANS, Bob ",
+10,Stoke City,38,16,7,15,54,55,0.982,-1,39,8610,"HALL, Jack - 11","ROOSE, Dick ",
 11,Everton,38,15,7,16,70,66,1.061,+4,37,18412,"YOUNG, Sandy -12" ,"SCOTT, Billy ",FA Cup Winners
-12,Arsenal,38,15,7,16,62,64,0.969,-2,37,16105,,,
-13,Sheffield United,38,15,6,17,57,62,0.919,-5,36,13685,,,
-14,Sunderland,38,15,5,18,61,70,0.871,-9,35,13015,,,
-15,Derby County,38,14,7,17,39,58,0.672,-19,35,7510,,,
-16,Notts County,38,11,12,15,55,71,0.775,-16,34,,,,
-17,Bury,38,11,10,17,57,74,0.770,-17,32,,,,
-18,Middlesbrough,38,10,11,17,56,71,0.789,-15,31,12650,,,
-19,Nottingham Forest,38,13,5,20,58,79,0.734,-21,31,9265,,,Relegated
-20,Wolverhampton Wanderers,38,8,7,23,58,99,0.586,-41,23,6490,,,Relegated
+12,Arsenal,38,15,7,16,62,64,0.969,-2,37,16105,"COLEMAN, Tim - 12","ASHCROFT, Jimmy ",
+13,Sheffield United,38,15,6,17,57,62,0.919,-5,36,13685,"BROWN, Arthur - 16","LIEVESLEY, Joe ",
+14,Sunderland,38,15,5,18,61,70,0.871,-9,35,13015,"BRIDGETT, Arthur - 17","NAISBY, Tom ",
+15,Derby County,38,14,7,17,39,58,0.672,-19,35,7510,"BLOOMER, Steve - 12","MASKREY, Harry ",
+16,Notts County,38,11,12,15,55,71,0.775,-16,34,,"GREEN, Arthur / TARPLIN, Walter - 13","IREMONGER, Albert ",
+17,Bury,38,11,10,17,57,74,0.770,-17,32,,"LINDSAY, Jimmy - 8","MONTEITH, Hugh ",
+18,Middlesbrough,38,10,11,17,56,71,0.789,-15,31,12650,"COMMON, Alf - 19","WILLIAMSON, Tim ",
+19,Nottingham Forest,38,13,5,20,58,79,0.734,-21,31,9265,"MORRIS, Grenville - 19","LINACRE, Harry ",Relegated
+20,Wolverhampton Wanderers,38,8,7,23,58,99,0.586,-41,23,6490,"WOOLDRIDGE, Billy - 12","BADDELEY, Tom ",Relegated
