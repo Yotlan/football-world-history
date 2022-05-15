@@ -1,19 +1,19 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
 1,Sunderland,34,19,6,9,50,35,1.429,+15,44,12905," GEMMELL, Jimmy / HOGG, Billy - 10","DOIG, Ned",League Champions
 2,Everton,34,17,7,10,53,35,1.514,+18,41,16647,"SETTLE, Jimmy - 18","KITCHEN, George ",
-3,Newcastle United,34,14,9,11,48,34,1.412,+14,37,14450,,,
-4,Blackburn Rovers,34,15,6,13,52,48,1.083,+4,36,7950,,,
-5,Nottingham Forest,34,13,9,12,43,43,1.000,+0,35,8605,,,
-6,Derby County,34,13,9,12,39,41,0.951,-2,35,9050,,,
-7,Bury,34,13,8,13,44,38,1.158,+6,34,,,,
-8,Aston Villa,34,13,8,13,42,40,1.050,+2,34,19580,,,
-9,Sheffield Wednesday,34,13,8,13,48,52,0.923,-4,34,9765,,,
-10,Sheffield United,34,13,7,14,53,48,1.104,+5,33,12880,,,FA Cup Winners
-11,Liverpool,34,10,12,12,42,38,1.105,+4,32,14715,,,
-12,Bolton Wanderers,34,12,8,14,51,56,0.911,-5,32,10200,,,
-13,Notts County,34,14,4,16,51,57,0.895,-6,32,,,,
-14,Wolverhampton Wanderers,34,13,6,15,46,57,0.807,-11,32,6525,,,
-15,Grimsby Town,34,13,6,15,44,60,0.733,-16,32,5955,,,
-16,Stoke City,34,11,9,14,45,55,0.818,-10,31,7280,,,
-17,Birminghan City,34,11,8,15,47,45,1.044,+2,30,13058,,,Relegated
-18,Manchester City,34,11,6,17,42,58,0.724,-16,28,16835,,,Relegated
+3,Newcastle United,34,14,9,11,48,34,1.412,+14,37,14450,"ROBERTS, Richard - 12","KINGSLEY, Matt ",
+4,Blackburn Rovers,34,15,6,13,52,48,1.083,+4,36,7950,"DEWHURST, Jack - 16","MCIVER, Willie ",
+5,Nottingham Forest,34,13,9,12,43,43,1.000,+0,35,8605,"CALVEY, Jack - 12","LINACRE, Harry ",
+6,Derby County,34,13,9,12,39,41,0.951,-2,35,9050,"BLOOMER, Steve - 15","FRYER, Jack ",
+7,Bury,34,13,8,13,44,38,1.158,+6,34,,"WOOD, Billy - 11","MONTGOMERY, Archie ",
+8,Aston Villa,34,13,8,13,42,40,1.050,+2,34,19580,"MCLUCKIE, James - 16","GEORGE, Billy ",
+9,Sheffield Wednesday,34,13,8,13,48,52,0.923,-4,34,9765,"WILSON, Andy - 10","LYALL, Jack ",
+10,Sheffield United,34,13,7,14,53,48,1.104,+5,33,12880,"PRIEST, Fred - 17","FOULKE, Willie ",FA Cup Winners
+11,Liverpool,34,10,12,12,42,38,1.105,+4,32,14715,"RAYBOULD, Sam - 16","PERKINS, Bill ",
+12,Bolton Wanderers,34,12,8,14,51,56,0.911,-5,32,10200,"BARLOW, Tom and PICKEN, John - 10","SUTCLIFFE, John ",
+13,Notts County,34,14,4,16,51,57,0.895,-6,32,,"HUMPHREYS, Percy - 14","PENNINGTON, Harry ",
+14,Wolverhampton Wanderers,34,13,6,15,46,57,0.807,-11,32,6525,"WOOLDRIDGE, Billy - 13","BADDELEY, Tom ",
+15,Grimsby Town,34,13,6,15,44,60,0.733,-16,32,5955,"RONALDSON, Duncan - 10","WHITTAKER, Walter ",
+16,Stoke City,34,11,9,14,45,55,0.818,-10,31,7280,"WATKINS, Mart - 14","ROOSE, Dick ",
+17,Birminghan City,34,11,8,15,47,45,1.044,+2,30,13058,"MCROBERTS, Bobby - 10","ROBINSON, Nat ",Relegated
+18,Manchester City,34,11,6,17,42,58,0.724,-16,28,16835,"GILLESPIE, Billy - 16","WILLIAMS, Charlie ",Relegated
