@@ -1,19 +1,19 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Sheffield Wednesday,34,19,4,11,54,36,1.500,+18,42,14015,,,League Champions
-2,Aston Villa,34,19,3,12,61,40,1.525,+21,41,19790,,,
-3,Sunderland,34,16,9,9,51,36,1.417,+15,41,15305,,,
-4,Sheffield United,34,17,5,12,58,44,1.318,+14,39,11160,,,
-5,Liverpool,34,17,4,13,68,49,1.388,+19,38,15645,,,
-6,Stoke City,34,15,7,12,46,38,1.211,+8,37,8050,,,
-7,West Bromwich Albion,34,16,4,14,54,53,1.019,+1,36,17128,,,
-8,Bury,34,16,3,15,54,43,1.256,+11,35,,,,
-9,Derby County,34,16,3,15,50,47,1.064,+3,35,9735,,,
-10,Nottingham Forest,34,14,7,13,49,47,1.043,+2,35,8470,,,FA Cup Winners
-11,Wolverhampton Wanderers,34,14,5,15,48,57,0.842,-9,33,6855,,,
+1,Sheffield Wednesday,34,19,4,11,54,36,1.500,+18,42,14015,"DAVIS, Harry - 13","LYALL, Jack ",League Champions
+2,Aston Villa,34,19,3,12,61,40,1.525,+21,41,19790,"GARRATY, Billy / MCLUCKIE, James - 15","GEORGE, Billy ",
+3,Sunderland,34,16,9,9,51,36,1.417,+15,41,15305,"GEMMELL, Jimmy / HEWITT, Joe / MILLAR, Jimmy - 7","DOIG, Ned ",
+4,Sheffield United,34,17,5,12,58,44,1.318,+14,39,11160,"PRIEST, Fred - 9","FOULKE, Willie ",
+5,Liverpool,34,17,4,13,68,49,1.388,+19,38,15645,"RAYBOULD, Sam - 31","PLATT, Peter ",
+6,Stoke City,34,15,7,12,46,38,1.211,+8,37,8050,"WATKINS, Mart - 12","ROOSE, Dick ",
+7,West Bromwich Albion,34,16,4,14,54,53,1.019,+1,36,17128,"LEE, Billy - 10","WEBB, Ike ",
+8,Bury,34,16,3,15,54,43,1.256,+11,35,,"SAGAR, Charles / WOOD, Billy - 13","MONTEITH, Hugh ",
+9,Derby County,34,16,3,15,50,47,1.064,+3,35,9735,"BLOOMER, Steve - 12","FRYER, Jack ",
+10,Nottingham Forest,34,14,7,13,49,47,1.043,+2,35,8470,"MORRIS, Grenville - 25","LINACRE, Harry ",FA Cup Winners
+11,Wolverhampton Wanderers,34,14,5,15,48,57,0.842,-9,33,6855,"HAYWOOD, Adam - 11","BADDELEY, Tom ",
 12,Everton,34,13,6,15,45,47,0.957,-2,32,15616,"BREARLEY, John - 7","KITCHEN, George ",
-13,Middlesbrough,34,14,4,16,41,50,0.820,-9,32,12670,,,
-14,Newcastle United,34,14,4,16,41,51,0.804,-10,32,17450,,,
-15,Notts County,34,12,7,15,41,49,0.837,-8,31,,,,
-16,Blackburn Rovers,34,12,5,17,44,63,0.698,-19,29,8080,,,
-17,Grimsby Town,34,8,9,17,43,62,0.694,-19,25,5055,,,Relegated
-18,Bolton Wanderers,34,8,3,23,37,73,0.507,-36,19,10530,,,Relegated
+13,Middlesbrough,34,14,4,16,41,50,0.820,-9,32,12670,"CASSIDY, Joseph - 7","MACFARLANE, Rab ",
+14,Newcastle United,34,14,4,16,41,51,0.804,-10,32,17450,"RUTHERFORD, Jock - 6","KINGSLEY, Matt ",
+15,Notts County,34,12,7,15,41,49,0.837,-8,31,,"GREEN, Arthur / HUMPHREYS, Percy - 14","PENNINGTON, Harry ",
+16,Blackburn Rovers,34,12,5,17,44,63,0.698,-19,29,8080,"WHITTAKER, Arnie - 10","MCIVER, Willie ",
+17,Grimsby Town,34,8,9,17,43,62,0.694,-19,25,5055,"APPLEYARD, Bill - 10","WHITTAKER, Walter ",Relegated
+18,Bolton Wanderers,34,8,3,23,37,73,0.507,-36,19,10530,"MARSH, Sam - 9","THOMPSON, Fred ",Relegated
