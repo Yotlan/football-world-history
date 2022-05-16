@@ -1,21 +1,21 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Aston Villa,38,23,7,8,84,42,2.000,+42,53,21125,,,League Champions
-2,Liverpool,38,21,6,11,78,57,1.368,+21,48,21620,,,
-3,Blackburn Rovers,38,18,9,11,73,55,1.327,+18,45,13805,,,
-4,Newcastle United,38,19,7,12,70,56,1.250,+14,45,24825,,,FA Cup Winners
-5,Manchester United,38,19,7,12,69,61,1.131,+8,45,18740,,,
-6,Sheffield United,38,16,10,12,62,41,1.512,+21,42,13840,,,
-7,Bradford City,38,17,8,13,64,47,1.362,+17,42,20640,,,
-8,Sunderland,38,18,5,15,66,51,1.294,+15,41,11615,,,
-9,Notts County,38,15,10,13,67,59,1.136,+8,40,,,,
-10,Everton,38,16,8,14,51,56,0.911,-5,40,19667,,,
-11,Sheffield Wednesday,38,15,9,14,60,63,0.952,-3,39,10720,,,
-12,Preston North End,38,15,5,18,52,58,0.897,-6,35,9110,,,
-13,Bury,38,12,9,17,62,66,0.939,-4,33,,,,
-14,Nottingham Forest,38,11,11,16,54,72,0.750,-18,33,10010,,,
-15,Tottenham Hotspur,38,11,10,17,53,69,0.768,-16,32,27560,,,
-16,Bristol City,38,12,8,18,45,60,0.750,-15,32,10990,,,
-17,Middlesbrough,38,11,9,18,56,73,0.767,-17,31,11230,,,
-18,Arsenal,38,11,9,18,37,67,0.552,-30,31,10395,,,
-19,Chelsea,38,11,7,20,47,70,0.671,-23,29,28545,,,Relegated
-20,Bolton Wanderers,38,9,6,23,44,71,0.620,-27,24,12445,,,Relegated
+1,Aston Villa,38,23,7,8,84,42,2.000,+42,53,21125,"HAMPTON, Harry - 26","CARTLIDGE, Arthur",League Champions
+2,Liverpool,38,21,6,11,78,57,1.368,+21,48,21620,"PARKINSON, Jack - 30","HARDY, Sam ",
+3,Blackburn Rovers,38,18,9,11,73,55,1.327,+18,45,13805,"AITKENHEAD, Wattie - 12","ASHCROFT, Jimmy ",
+4,Newcastle United,38,19,7,12,70,56,1.250,+14,45,24825,"SHEPHERD, Albert - 28","LAWRENCE, Jimmy ",FA Cup Winners
+5,Manchester United,38,19,7,12,69,61,1.131,+8,45,18740,"DORSETT, George - 13","LYALL, Jack ",
+6,Sheffield United,38,16,10,12,62,41,1.512,+21,42,13840,"KITCHEN, Joe - 21","LIEVESLEY, Joe ",
+7,Bradford City,38,17,8,13,64,47,1.362,+17,42,20640,"WHITTINGHAM, Bob - 21","MASKREY, Harry ",
+8,Sunderland,38,18,5,15,66,51,1.294,+15,41,11615,"HOLLEY, George - 20","ROOSE, Dick ",
+9,Notts County,38,15,10,13,67,59,1.136,+8,40,,"CANTRELL, Jimmy - 22","IREMONGER, Albert ",
+10,Everton,38,16,8,14,51,56,0.911,-5,40,19667,"FREEMAN, Bert - 22","SCOTT, Billy ",
+11,Sheffield Wednesday,38,15,9,14,60,63,0.952,-3,39,10720,"WILSON, Andy - 12","DAVISON, Teddy ",
+12,Preston North End,38,15,5,18,52,58,0.897,-6,35,9110,"MCLEAN, David - 18","MCBRIDE, Peter ",
+13,Bury,38,12,9,17,62,66,0.939,-4,33,,"HIBBERT, Billy - 19","RAESIDE, Jimmy ",
+14,Nottingham Forest,38,11,11,16,54,72,0.750,-18,33,10010,"MORRIS, Grenville - 19","SMITH, John ",
+15,Tottenham Hotspur,38,11,10,17,53,69,0.768,-16,32,27560,"MINTER, Billy - 15","JOYCE, John 'Tiny' ",
+16,Bristol City,38,12,8,18,45,60,0.750,-15,32,10990,"COWELL, Jack - 20","CLAY, Harry ",
+17,Middlesbrough,38,11,9,18,56,73,0.767,-17,31,11230,"HALL, Jack - 14","WILLIAMSON, Tim ",
+18,Arsenal,38,11,9,18,37,67,0.552,-30,31,10395,"BUCKENHAM, William / GREENAWAY, David / LAWRENCE, Walter / NEAVE, David - 5","MACDONALD, Hugh ",
+19,Chelsea,38,11,7,20,47,70,0.671,-23,29,28545,"WINDRIDGE, Jimmy - 6","WHITLEY, Jack ",Relegated
+20,Bolton Wanderers,38,9,6,23,44,71,0.620,-27,24,12445,"HUGHES, Billy - 12","EDMONDSON, John ",Relegated
