@@ -1,21 +1,21 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Everton,38,19,8,11,76,47,1.617,+29,46,18556,,,League Champions
-2,Oldham Athletic,38,17,11,10,70,56,1.250,+14,45,9045,,,
-3,Blackburn Rovers,38,18,7,13,83,61,1.361,+22,43,12740,,,
-4,Burnley,38,18,7,13,61,47,1.298,+14,43,11415,,,
-5,Manchester City,38,15,13,10,49,39,1.256,+10,43,20205,,,
-6,Sheffield United,38,15,13,10,49,41,1.195,+8,43,14735,,,FA Cup Winners
-7,Sheffield Wednesday,38,15,13,10,61,54,1.130,+7,43,16120,,,
-8,Sunderland,38,18,5,15,81,72,1.125,+9,41,10230,,,
-9,Bradford Park Avenue,38,17,7,14,69,65,1.062,+4,41,,,,
-10,West Bromwich Albion,38,15,10,13,49,43,1.140,+6,40,11403,,,
-11,Bradford City,38,13,14,11,55,49,1.122,+6,40,13365,,,
-12,Middlesbrough,38,13,12,13,62,74,0.838,-12,38,9060,,,
-13,Liverpool,38,14,9,15,65,75,0.867,-10,37,16805,,,
-14,Aston Villa,38,13,11,14,62,72,0.861,-10,37,13680,,,
-15,Newcastle United,38,11,10,17,46,48,0.958,-2,32,14545,,,
-16,Notts County,38,9,13,16,41,57,0.719,-16,31,,,,
-17,Bolton Wanderers,38,11,8,19,68,84,0.810,-16,30,13580,,,
-18,Manchester United,38,9,12,17,46,62,0.742,-16,30,11950,,,
-19,Chelsea,38,8,13,17,51,65,0.785,-14,29,18540,,,
-20,Tottenham Hotspur,38,8,12,18,57,90,0.633,-33,28,13270,,,Relegated
+1,Everton,38,19,8,11,76,47,1.617,+29,46,18556,"PARKER, Bobby - 36","FERN, Tommy ",League Champions
+2,Oldham Athletic,38,17,11,10,70,56,1.250,+14,45,9045,"KEMP, Gilbert - 16","MATTHEWS, Howard ",
+3,Blackburn Rovers,38,18,7,13,83,61,1.361,+22,43,12740,"DAWSON, Percy - 20","ROBINSON, Alfred ",
+4,Burnley,38,18,7,13,61,47,1.298,+14,43,11415,"HODGSON, Teddy - 19","DAWSON, Jerry ",
+5,Manchester City,38,15,13,10,49,39,1.256,+10,43,20205,"HOWARD, Fred - 18","SMITH, Walter ",
+6,Sheffield United,38,15,13,10,49,41,1.195,+8,43,14735,"KITCHEN, Joe - 12","GOUGH, Harold ",FA Cup Winners
+7,Sheffield Wednesday,38,15,13,10,61,54,1.130,+7,43,16120,"MCLEAN, David - 22","DAVISON, Teddy ",
+8,Sunderland,38,18,5,15,81,72,1.125,+9,41,10230,"BUCHAN, Charlie - 23","SCOTT, Leslie ",
+9,Bradford Park Avenue,38,17,7,14,69,65,1.062,+4,41,,"BAUCHOP, Jimmy - 28","SCATTERGOOD, Ernie ",
+10,West Bromwich Albion,38,15,10,13,49,43,1.140,+6,40,11403,"MORRIS, Fred - 11","PEARSON, Hubert ",
+11,Bradford City,38,13,14,11,55,49,1.122,+6,40,13365,"FOX, Oscar - 17","EWART, Jock ",
+12,Middlesbrough,38,13,12,13,62,74,0.838,-12,38,9060,"TINSLEY, Walter - 23","WILLIAMSON, Tim ",
+13,Liverpool,38,14,9,15,65,75,0.867,-10,37,16805,"PAGNAM, Fred - 24","SCOTT, Elisha ",
+14,Aston Villa,38,13,11,14,62,72,0.861,-10,37,13680,"HAMPTON, Harry - 19","HARDY, Sam ",
+15,Newcastle United,38,11,10,17,46,48,0.958,-2,32,14545,"HIBBERT, Billy - 14","LAWRENCE, Jimmy ",
+16,Notts County,38,9,13,16,41,57,0.719,-16,31,,"PEART, Jack - 11","IREMONGER, Albert ",
+17,Bolton Wanderers,38,11,8,19,68,84,0.810,-16,30,13580,"SMITH, Joe - 29","EDMONDSON, John / SIDLOW, Edward ",
+18,Manchester United,38,9,12,17,46,62,0.742,-16,30,11950,"ANDERSON, George - 10","BEALE, Bobby ",
+19,Chelsea,38,8,13,17,51,65,0.785,-14,29,18540,"THOMSON, Bobby - 12","MOLYNEUX, Jimmy ",
+20,Tottenham Hotspur,38,8,12,18,57,90,0.633,-33,28,13270,"BLISS, Bert - 21","JACQUES, Bill ",Relegated
