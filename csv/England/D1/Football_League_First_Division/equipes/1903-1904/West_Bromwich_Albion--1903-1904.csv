@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Amos	Full Back	
-										
-ASTON, Harry	Centre Forward	
-										
-BROWN, Harry	Inside Forward	
-										
-CLEMENTS, Harry	Winger	
-										
-COLE, John	Inside Forward	
-										
-COOK, Fred	Goalkeeper	
-										
-CORFIELD, Sam	Centre Half	
-										
-DORSETT, George	Winger	
-										
-FENTON, Freddie	Winger	
-										
-FOLKES, William	Winger	
-										
-HADLEY, Harry	Wing Half	
-										
-HOBSON, Fred	Centre Forward	
-										
-KIFFORD, Jackie	Full Back	
-										
-LEE, Billy	Centre Forward	
-										
-NURSE, Dan	Wing Half	
-										
-OWEN, Alfred	Winger	
-										
-PENNINGTON, Jesse	Full Back	
-										
-RANDLE, Arthur	Wing Half	
-										
-SIMMONS, Charlie 'Chippy'	Inside Forward	
-										
-SMITH, Archibald	Winger	
-										
-SMITH, Ted	Inside Forward	
-										
-SMITH, Billy	Inside Forward	
-										
-STEVENSON, Jim	Centre Half	
-										
-WEBB, Ike	Goalkeeper	
-										
-WORTON, Tommy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Amos ",Full Back,29,1,0,2,0,0,0,0,0
+,"ASTON, Harry ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"BROWN, Harry ",Inside Forward,21,3,0,0,0,0,0,0,0
+,"CLEMENTS, Harry ",Winger,10,0,0,0,0,0,0,0,0
+,"COLE, John ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"COOK, Fred ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"CORFIELD, Sam ",Centre Half,8,0,0,0,0,0,0,0,0
+,"DORSETT, George ",Winger,34,7,1,2,0,0,0,0,0
+,"FENTON, Freddie ",Winger,6,1,0,0,0,0,0,0,0
+,"FOLKES, William ",Winger,1,0,0,0,0,0,0,0,0
+,"HADLEY, Harry ",Wing Half,32,0,0,2,0,0,0,0,0
+,"HOBSON, Fred ",Centre Forward,12,4,0,2,0,0,0,0,0
+,"KIFFORD, Jackie ",Full Back,19,0,0,0,0,0,0,0,0
+,"LEE, Billy ",Centre Forward,11,1,0,2,0,0,0,0,0
+,"NURSE, Dan ",Wing Half,19,2,0,0,0,0,0,0,0
+,"OWEN, Alfred ",Winger,4,1,0,0,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,20,0,0,2,0,0,0,0,0
+,"RANDLE, Arthur ",Wing Half,17,1,0,2,0,0,0,0,0
+,"SIMMONS, Charlie 'Chippy' ",Inside Forward,28,8,0,2,1,0,0,0,0
+,"SMITH, Archibald ",Winger,8,1,0,2,1,0,0,0,0
+,"SMITH, Ted ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"STEVENSON, Jim ",Centre Half,28,1,0,2,0,0,0,0,0
+,"WEBB, Ike ",Goalkeeper,23,0,0,2,0,0,0,0,0
+,"WORTON, Tommy ",Inside Forward,12,1,0,0,0,0,0,0,0

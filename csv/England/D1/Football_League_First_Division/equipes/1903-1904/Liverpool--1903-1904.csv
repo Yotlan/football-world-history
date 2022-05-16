@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BUCK, Fred	Inside Forward	
-										
-CARLIN, Jack	Inside Forward	
-										
-CHADBURN, John	Winger	
-										
-CHADWICK, Edgar	Inside Forward	
-										
-COTTON, Charlie	Goalkeeper	
-										
-COX, Jack	Winger	
-										
-CRAIK, Herbert	Wing Half	
-										
-DUNLOP, Billy	Full Back	
-										
-FLEMING, George	Wing Half	
-										
-GODDARD, Arthur	Winger	
-										
-GOW, John	Winger	
-										
-HEWITT, Joe	Centre Forward	
-										
-HOARE, Joe	Full Back	
-										
-HUGHES, Jack 'Geezer'	Wing Half	
-										
-JORDAN, Willie	Centre Forward	
-										
-MCLEAN, Jimmy	Full Back	
-										
-MORRIS, Dickie	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PARRY, Maurice	Wing Half	
-										
-PLATT, Peter	Goalkeeper	
-										
-RAISBECK, Alex	Centre Half	
-										
-RAYBOULD, Sam	Centre Forward	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-SMITH, Syd	Centre Forward	
-										
-WEST, Alf	Full Back	
-										
-WILSON, Charlie	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BUCK, Fred ",Inside Forward,13,1,0,0,0,0,0,0,0
+,"CARLIN, Jack ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"CHADBURN, John ",Winger,2,0,0,0,0,0,0,0,0
+,"CHADWICK, Edgar ",Inside Forward,14,0,0,1,0,0,0,0,0
+,"COTTON, Charlie ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"COX, Jack ",Winger,33,10,0,1,0,0,0,0,0
+,"CRAIK, Herbert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DUNLOP, Billy ",Full Back,21,1,0,1,0,0,0,0,0
+,"FLEMING, George ",Wing Half,18,4,2,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,33,7,1,1,0,0,0,0,0
+,"GOW, John ",Winger,0,0,0,0,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,11,1,0,0,0,0,0,0,0
+,"HOARE, Joe ",Full Back,7,0,0,0,0,0,0,0,0
+,"HUGHES, Jack 'Geezer' ",Wing Half,31,2,0,1,0,0,0,0,0
+,"JORDAN, Willie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MCLEAN, Jimmy ",Full Back,4,0,0,0,0,0,0,0,0
+,"MORRIS, Dickie ",Inside Forward,17,4,0,1,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,18,6,0,0,0,0,0,0,0
+,"PARRY, Maurice ",Wing Half,29,0,0,1,0,0,0,0,0
+,"PLATT, Peter ",Goalkeeper,22,0,0,1,0,0,0,0,0
+,"RAISBECK, Alex ",Centre Half,30,1,0,1,0,0,0,0,0
+,"RAYBOULD, Sam ",Centre Forward,15,4,0,1,1,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,9,5,0,0,0,0,0,0,0
+,"SMITH, Syd ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"WEST, Alf ",Full Back,24,1,1,1,0,0,0,0,0
+,"WILSON, Charlie ",Wing Half,4,0,0,0,0,0,0,0,0

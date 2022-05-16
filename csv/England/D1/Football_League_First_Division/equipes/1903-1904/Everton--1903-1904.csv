@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Walter	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BALMER, Billy	Full Back	
-										
-BOOTH, Tom	Centre Half	
-										
-CORRIN, Thomas	Winger	
-										
-CRELLEY, Jack	Full Back	
-										
-GORDON, Dan	Full Back	
-										
-HARDMAN, Harold	Winger	
-										
-HENDERSON, Bill	Full Back	
-										
-KITCHEN, George	Goalkeeper	
-										
-MCDERMOTT, Tommy	Inside Forward	
-										
-MORGAN, Charlie	Wing Half	
-										
-MURRAY, David	Full Back	
-										
-RANKIN, Bruce	Winger	
-										
-SETTLE, Jimmy	Inside Forward	
-										
-SHARP, Jack	Winger	
-										
-SHERIDAN, Jimmy	Inside Forward	
-										
-SIMPSON, Tom	Winger	
-										
-TAYLOR, Jack	Centre Half	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WOLFF, Frank	Centre Half	
-										
-WOLSTENHOLME, Sam	Wing Half	
-										
-YOUNG, Sandy	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Walter ",Wing Half,32,4,0,1,0,0,0,0,0
+,"BALMER, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"BALMER, Billy ",Full Back,32,0,0,1,0,0,0,0,0
+,"BOOTH, Tom ",Centre Half,34,4,0,1,0,0,0,0,0
+,"CORRIN, Thomas ",Winger,8,1,0,1,0,0,0,0,0
+,"CRELLEY, Jack ",Full Back,29,0,0,1,0,0,0,0,0
+,"GORDON, Dan ",Full Back,0,0,0,0,0,0,0,0,0
+,"HARDMAN, Harold ",Winger,26,5,0,0,0,0,0,0,0
+,"HENDERSON, Bill ",Full Back,2,0,0,0,0,0,0,0,0
+,"KITCHEN, George ",Goalkeeper,31,0,0,1,0,0,0,0,0
+,"MCDERMOTT, Tommy ",Inside Forward,29,7,0,1,0,0,0,0,0
+,"MORGAN, Charlie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MURRAY, David ",Full Back,2,0,0,0,0,0,0,0,0
+,"RANKIN, Bruce ",Winger,3,2,0,0,0,0,0,0,0
+,"SETTLE, Jimmy ",Inside Forward,29,8,1,1,0,0,0,0,0
+,"SHARP, Jack ",Winger,31,7,3,1,0,0,0,0,0
+,"SHERIDAN, Jimmy ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"SIMPSON, Tom ",Winger,1,0,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,22,6,0,1,1,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WOLFF, Frank ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WOLSTENHOLME, Sam ",Wing Half,32,4,0,1,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,22,9,0,0,0,0,0,0,0

@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKER, Frederick	Inside Forward	
-										
-BLOOMER, Steve	Inside Forward	
-										
-BOAG, John	Centre Forward	
-										
-DAVIS, George	Winger	
-										
-HALL, Ben	Centre Half	
-										
-HICKLING, Billy	Full Back	
-										
-HODGKINSON, Bert	Centre Forward	
-										
-HODGKINSON, William	Centre Forward	
-										
-LECKIE, Charles	Wing Half	
-										
-LLOYD, Arthur	Centre Half	
-										
-MASKREY, Harry	Goalkeeper	
-										
-MAY, Johnny	Wing Half	
-										
-MERCER, Johnnie 'Toby'	Winger	
-										
-METHVEN, Jimmy	Full Back	
-										
-MIDDLETON, Frank	Winger	
-										
-MORRIS, Charlie	Full Back	
-										
-PARNELL, Fred	Winger	
-										
-RATCLIFFE, Jack	Full Back	
-										
-RICHARDS, George	Wing Half	
-										
-SMITH, John	Goalkeeper	
-										
-WARREN, Ben	Wing Half	
-										
-WARRINGTON, Joe	Winger	
-										
-WHEATCROFT, Freddy	Inside Forward	
-										
-WHITTAKER, Walter	Goalkeeper	
-										
-YORK, Charlie	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKER, Frederick ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"BLOOMER, Steve ",Inside Forward,29,20,1,6,5,0,0,0,0
+,"BOAG, John ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"DAVIS, George ",Winger,29,4,0,5,1,0,0,0,0
+,"HALL, Ben ",Centre Half,31,2,0,6,0,0,0,0,0
+,"HICKLING, Billy ",Full Back,9,0,0,0,0,0,0,0,0
+,"HODGKINSON, Bert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HODGKINSON, William ",Centre Forward,16,9,0,0,0,0,0,0,0
+,"LECKIE, Charles ",Wing Half,11,0,0,3,0,0,0,0,0
+,"LLOYD, Arthur ",Centre Half,1,0,0,0,0,0,0,0,0
+,"MASKREY, Harry ",Goalkeeper,21,0,0,6,0,0,0,0,0
+,"MAY, Johnny ",Wing Half,33,4,0,6,0,0,0,0,0
+,"MERCER, Johnnie 'Toby' ",Winger,24,1,0,6,0,0,0,0,0
+,"METHVEN, Jimmy ",Full Back,32,0,0,6,0,0,0,0,0
+,"MIDDLETON, Frank ",Winger,6,0,0,1,0,0,0,0,0
+,"MORRIS, Charlie ",Full Back,26,0,0,6,0,0,0,0,0
+,"PARNELL, Fred ",Winger,2,0,0,0,0,0,0,0,0
+,"RATCLIFFE, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"RICHARDS, George ",Wing Half,32,10,0,6,2,0,0,0,0
+,"SMITH, John ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WARREN, Ben ",Wing Half,33,2,0,6,3,0,0,0,0
+,"WARRINGTON, Joe ",Winger,13,4,0,3,1,0,0,0,0
+,"WHEATCROFT, Freddy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WHITTAKER, Walter ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"YORK, Charlie ",Centre Forward,2,0,0,0,0,0,0,0,0

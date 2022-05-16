@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Sam	Wing Half	
-										
-ATHERTON, Robert	Inside Forward	
-										
-BLACKETT, Joe	Full Back	
-										
-BODDINGTON, Harold	Winger	
-										
-BROWN, Sandy	Centre Forward	
-										
-CARRICK, Chris	Winger	
-										
-CASSIDY, Joseph	Inside Forward	
-										
-DAVIDSON, Andy	Wing Half	
-										
-FEATHERSTONE, Fred	Winger	
-										
-GETTINS, Eddie	Inside Forward	
-										
-GODLEY, Bill	Inside Forward	
-										
-GOODSON, Len	Inside Forward	
-										
-HOGG, John	Full Back	
-										
-JONES, Abraham	Centre Half	
-										
-MCGUIGAN, Andy	Inside Forward	
-										
-MUIR, John	Winger	
-										
-PAGE, Robert	Wing Half	
-										
-RAMSAY, Andrew	Full Back	
-										
-ROBERTS, Richard	Winger	
-										
-SMITH, David	Wing Half	
-										
-SUDDICK, James	Winger	
-										
-WHITE, Billy	Inside Forward	
-										
-WILLIAMSON, Tim	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Sam ",Wing Half,19,0,0,3,0,0,0,0,0
+,"ATHERTON, Robert ",Inside Forward,33,9,0,4,1,0,0,0,0
+,"BLACKETT, Joe ",Full Back,32,3,2,4,0,0,0,0,0
+,"BODDINGTON, Harold ",Winger,1,0,0,0,0,0,0,0,0
+,"BROWN, Sandy ",Centre Forward,33,12,0,4,5,0,0,0,0
+,"CARRICK, Chris ",Winger,2,0,0,2,0,0,0,0,0
+,"CASSIDY, Joseph ",Inside Forward,34,11,0,4,0,0,0,0,0
+,"DAVIDSON, Andy ",Wing Half,33,1,0,4,0,0,0,0,0
+,"FEATHERSTONE, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"GETTINS, Eddie ",Inside Forward,31,3,0,4,0,0,0,0,0
+,"GODLEY, Bill ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GOODSON, Len ",Inside Forward,18,3,0,1,0,0,0,0,0
+,"HOGG, John ",Full Back,31,0,0,4,0,0,0,0,0
+,"JONES, Abraham ",Centre Half,31,0,0,4,0,0,0,0,0
+,"MCGUIGAN, Andy ",Inside Forward,1,0,0,1,0,0,0,0,0
+,"MUIR, John ",Winger,4,0,0,0,0,0,0,0,0
+,"PAGE, Robert ",Wing Half,2,0,0,1,0,0,0,0,0
+,"RAMSAY, Andrew ",Full Back,5,0,0,0,0,0,0,0,0
+,"ROBERTS, Richard ",Winger,4,2,0,0,0,0,0,0,0
+,"SMITH, David ",Wing Half,17,1,0,0,0,0,0,0,0
+,"SUDDICK, James ",Winger,1,1,0,0,0,0,0,0,0
+,"WHITE, Billy ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,34,0,0,4,0,0,0,0,0

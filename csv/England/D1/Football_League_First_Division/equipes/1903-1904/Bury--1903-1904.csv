@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Joe	Winger	
-										
-COX, Bill	Centre Forward	
-										
-GREEN, William	Winger	
-										
-GREGORY, Julius	Full Back	
-										
-HODSON, Jimmy	Full Back	
-										
-JOHNSTON, John	Wing Half	
-										
-LAMBERTON, George	Inside Forward	
-										
-LEEMING, Joe	Full Back	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MCEWAN, Bob	Full Back	
-										
-MONTEITH, Hugh	Goalkeeper	
-										
-MONTGOMERY, Archie	Goalkeeper	
-										
-PLANT, Jack	Winger	
-										
-RICHARDS, Billy	Winger	
-										
-RONALDSON, Duncan	Inside Forward	
-										
-ROSS, Davie	Inside Forward	
-										
-ROSS, George	Wing Half	
-										
-SAGAR, Charles	Inside Forward	
-										
-SMITH, Jim	Winger	
-										
-SWANN, Herbert	Centre Forward	
-										
-THORPE, Frank	Centre Half	
-										
-WHITE, Charlie	Winger	
-										
-WOOD, Billy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Joe ",Winger,1,0,0,0,0,0,0,0,0
+,"COX, Bill ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"GREEN, William ",Winger,1,0,0,0,0,0,0,0,0
+,"GREGORY, Julius ",Full Back,7,0,0,0,0,0,0,0,0
+,"HODSON, Jimmy ",Full Back,2,0,0,0,0,0,0,0,0
+,"JOHNSTON, John ",Wing Half,31,0,0,2,0,0,1,0,0
+,"LAMBERTON, George ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,17,1,0,0,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,26,1,1,2,0,0,1,0,0
+,"MCEWAN, Bob ",Full Back,29,0,0,2,0,0,1,0,0
+,"MONTEITH, Hugh ",Goalkeeper,13,0,0,0,0,0,1,0,0
+,"MONTGOMERY, Archie ",Goalkeeper,21,0,0,2,0,0,0,0,0
+,"PLANT, Jack ",Winger,31,2,0,2,1,0,1,1,0
+,"RICHARDS, Billy ",Winger,27,4,0,2,0,0,1,0,0
+,"RONALDSON, Duncan ",Inside Forward,15,4,0,0,0,0,0,0,0
+,"ROSS, Davie ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"ROSS, George ",Wing Half,33,2,0,2,0,0,1,0,0
+,"SAGAR, Charles ",Inside Forward,24,8,0,2,2,0,1,1,0
+,"SMITH, Jim ",Winger,5,0,0,0,0,0,0,0,0
+,"SWANN, Herbert ",Centre Forward,12,4,0,2,0,0,1,1,0
+,"THORPE, Frank ",Centre Half,33,2,0,2,0,0,1,0,0
+,"WHITE, Charlie ",Winger,2,1,0,0,0,0,0,0,0
+,"WOOD, Billy ",Inside Forward,28,7,0,2,0,0,1,0,0

@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BULL, Walter	Centre Half	
-										
-CHAPMAN, Herbert	Inside Forward	
-										
-CLARE, Edwin	Full Back	
-										
-DAINTY, Herbert	Centre Half	
-										
-GEE, Ellis	Winger	
-										
-GLEN, Alex	Inside Forward	
-										
-GREEN, Arthur	Centre Forward	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-KELLY, Willie	Wing Half	
-										
-MAINMAN, Harry	Centre Half	
-										
-MCCALL, John	Winger	
-										
-MCDONALD, Ted	Wing Half	
-										
-MELLORS, Mark	Goalkeeper	
-										
-MONTGOMERY, Jack	Full Back	
-										
-PENNINGTON, Harry	Goalkeeper	
-										
-PRESCOTT, Tom	Full Back	
-										
-REID, Jimmy	Inside Forward	
-										
-ROSS, William	Winger	
-										
-SANDS, Joseph	Winger	
-										
-TARPLIN, Walter	Inside Forward	
-										
-WALKERDINE, Garnet	Winger	
-										
-WARD, Alfred	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BULL, Walter ",Centre Half,31,0,0,2,0,0,0,0,0
+,"CHAPMAN, Herbert ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"CLARE, Edwin ",Full Back,1,0,0,0,0,0,0,0,0
+,"DAINTY, Herbert ",Centre Half,20,0,0,1,0,0,0,0,0
+,"GEE, Ellis ",Winger,34,0,0,2,0,0,0,0,0
+,"GLEN, Alex ",Inside Forward,20,3,0,1,0,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,30,19,7,2,1,1,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,13,0,0,2,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,34,9,0,2,2,0,0,0,0
+,"KELLY, Willie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MAINMAN, Harry ",Centre Half,24,0,0,0,0,0,0,0,0
+,"MCCALL, John ",Winger,3,0,0,0,0,0,0,0,0
+,"MCDONALD, Ted ",Wing Half,25,0,0,2,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,21,1,0,1,0,0,0,0,0
+,"PENNINGTON, Harry ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"PRESCOTT, Tom ",Full Back,33,1,0,2,0,0,0,0,0
+,"REID, Jimmy ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"ROSS, William ",Winger,26,3,0,2,1,0,0,0,0
+,"SANDS, Joseph ",Winger,2,0,0,0,0,0,0,0,0
+,"TARPLIN, Walter ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WALKERDINE, Garnet ",Winger,1,0,0,0,0,0,0,0,0
+,"WARD, Alfred ",Winger,7,0,0,1,0,0,0,0,0

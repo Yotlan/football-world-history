@@ -1,43 +1,21 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANNIS, Billy	Wing Half	
-										
-ARROWSMITH, Arthur	Inside Forward	
-										
-BADDELEY, Tom	Goalkeeper	
-										
-BAYNHAM, Albert	Winger	
-										
-BETTELEY, Dick	Full Back	
-										
-BEVIN, Bert	Inside Forward	
-										
-HAYWOOD, Adam	Inside Forward	
-										
-JONES, Jackery	Full Back	
-										
-MILLER, Jack	Winger	
-										
-PHEASANT, Ted	Centre Half	
-										
-PILSBURY, Charles	Centre Forward	
-										
-PRESTON, Harry	Inside Forward	
-										
-SMITH, Edwin	Wing Half	
-										
-SMITH, John	Inside Forward	
-										
-STRINGER, Jimmy	Goalkeeper	
-										
-WALKER, George	Centre Half	
-										
-WALKER, Jack	Wing Half	
-										
-WHITEHOUSE, Jack	Wing Half	
-										
-WOOLDRIDGE, Billy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANNIS, Billy ",Wing Half,32,0,0,4,0,0,0,0,0
+,"ARROWSMITH, Arthur ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BADDELEY, Tom ",Goalkeeper,31,0,0,3,0,0,0,0,0
+,"BAYNHAM, Albert ",Winger,34,0,0,4,1,0,0,0,0
+,"BETTELEY, Dick ",Full Back,33,0,0,4,0,0,0,0,0
+,"BEVIN, Bert ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"HAYWOOD, Adam ",Inside Forward,34,8,0,4,0,0,0,0,0
+,"JONES, Jackery ",Full Back,34,1,0,4,0,0,0,0,0
+,"MILLER, Jack ",Winger,30,6,0,4,1,0,0,0,0
+,"PHEASANT, Ted ",Centre Half,15,2,1,0,0,0,0,0,0
+,"PILSBURY, Charles ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"PRESTON, Harry ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"SMITH, Edwin ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SMITH, John ",Inside Forward,21,7,0,4,2,0,0,0,0
+,"STRINGER, Jimmy ",Goalkeeper,3,0,0,1,0,0,0,0,0
+,"WALKER, George ",Centre Half,19,0,0,4,0,0,0,0,0
+,"WALKER, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WHITEHOUSE, Jack ",Wing Half,34,0,0,4,1,0,0,0,0
+,"WOOLDRIDGE, Billy ",Centre Forward,30,17,2,4,2,0,0,0,0

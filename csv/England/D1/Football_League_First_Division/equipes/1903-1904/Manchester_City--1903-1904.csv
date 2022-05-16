@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHWORTH, Sam	Wing Half	
-										
-BANNISTER, Jimmy	Inside Forward	
-										
-BOOTH, Frank	Winger	
-										
-BROAD, Tommy	Winger	
-										
-BUCKLEY, Chris	Centre Half	
-										
-BURGESS, Herbert	Full Back	
-										
-DAVIDSON, Robert	Full Back	
-										
-DEARDEN, Robert	Wing Half	
-										
-DENNISON, James	Centre Forward	
-										
-DRUMMOND, Jimmy	Inside Forward	
-										
-EDMONDSON, John	Goalkeeper	
-										
-FROST, Sammy	Wing Half	
-										
-GILLESPIE, Billy	Centre Forward	
-										
-HILLMAN, Jack	Goalkeeper	
-										
-HOLMES, Billy	Wing Half	
-										
-HYNDS, Tommy	Centre Half	
-										
-JONES, Lot	Inside Forward	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-LYON, Billy	Wing Half	
-										
-MCMAHON, Johnny	Full Back	
-										
-MCOUSTRA, Willie	Wing Half	
-										
-MEREDITH, Billy	Winger	
-										
-MOFFATT, Joe	Centre Forward	
-										
-NORGROVE, Frank	Full Back	
-										
-PEARSON, Frank	Centre Forward	
-										
-ROBINSON, William	Centre Half	
-										
-ROTHWELL, Herbert	Full Back	
-										
-SLATER, Percy	Full Back	
-										
-THORNLEY, Irvine	Centre Forward	
-										
-THRELFALL, Fred	Winger	
-										
-TURNBULL, Sandy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHWORTH, Sam ",Wing Half,18,0,0,4,0,0,0,0,0
+,"BANNISTER, Jimmy ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"BOOTH, Frank ",Winger,24,3,0,6,1,0,0,0,0
+,"BROAD, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"BUCKLEY, Chris ",Centre Half,0,0,0,0,0,0,0,0,0
+,"BURGESS, Herbert ",Full Back,27,0,0,6,0,0,0,0,0
+,"DAVIDSON, Robert ",Full Back,6,0,0,0,0,0,0,0,0
+,"DEARDEN, Robert ",Wing Half,6,0,0,0,0,0,0,0,0
+,"DENNISON, James ",Centre Forward,1,2,0,0,0,0,0,0,0
+,"DRUMMOND, Jimmy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,6,0,0,1,0,0,0,0,0
+,"FROST, Sammy ",Wing Half,30,2,0,6,0,0,0,0,0
+,"GILLESPIE, Billy ",Centre Forward,24,18,0,6,3,0,0,0,0
+,"HILLMAN, Jack ",Goalkeeper,28,0,0,5,0,0,0,0,0
+,"HOLMES, Billy ",Wing Half,8,0,0,2,0,0,0,0,0
+,"HYNDS, Tommy ",Centre Half,32,4,0,6,1,0,0,0,0
+,"JONES, Lot ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,29,6,0,6,0,0,0,0,0
+,"LYON, Billy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"MCMAHON, Johnny ",Full Back,27,0,0,6,0,0,0,0,0
+,"MCOUSTRA, Willie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,34,11,1,6,2,0,0,0,0
+,"MOFFATT, Joe ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"NORGROVE, Frank ",Full Back,1,0,0,0,0,0,0,0,0
+,"PEARSON, Frank ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"ROBINSON, William ",Centre Half,1,0,0,0,0,0,0,0,0
+,"ROTHWELL, Herbert ",Full Back,0,0,0,0,0,0,0,0,0
+,"SLATER, Percy ",Full Back,2,0,0,0,0,0,0,0,0
+,"THORNLEY, Irvine ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"THRELFALL, Fred ",Winger,10,1,0,0,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,32,16,0,6,5,0,0,0,0

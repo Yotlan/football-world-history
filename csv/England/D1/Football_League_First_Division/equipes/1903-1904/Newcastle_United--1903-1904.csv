@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AGNEW, William	Full Back	
-										
-AITKEN, Andy	Centre Half	
-										
-APPLEYARD, Bill	Centre Forward	
-										
-BENNIE, Bob	Full Back	
-										
-BIRNIE, Ted	Wing Half	
-										
-BURN, Josh	Full Back	
-										
-CARR, Jack	Wing Half	
-										
-COLLINS, George		
-										
-FRASER, Alec	Inside Forward	
-										
-GARDNER, Alec	Wing Half	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-KINGSLEY, Matt	Goalkeeper	
-										
-MCCOLL, Bob	Inside Forward	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCINTYRE, Teddy	Wing Half	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-ORR, Ronald	Inside Forward	
-										
-ROBERTS, Richard	Winger	
-										
-RUTHERFORD, Jock	Winger	
-										
-TEMPLETON, Bobby	Winger	
-										
-THOMPSON, George	Winger	
-										
-TILDESLEY, Jim	Full Back	
-										
-TURNER, Archie	Winger	
-										
-VEITCH, Colin	Centre Half	
-										
-WATTS, Charlie	Goalkeeper	
-										
-WILLS, Thomas	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AGNEW, William ",Full Back,9,0,0,0,0,0,0,0,0
+,"AITKEN, Andy ",Centre Half,32,0,0,1,0,0,0,0,0
+,"APPLEYARD, Bill ",Centre Forward,31,16,0,1,0,0,0,0,0
+,"BENNIE, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"BIRNIE, Ted ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BURN, Josh ",Full Back,0,0,0,0,0,0,0,0,0
+,"CARR, Jack ",Wing Half,21,0,0,0,0,0,0,0,0
+,"COLLINS, George ",,0,0,0,0,0,0,0,0,0
+,"FRASER, Alec ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,34,0,0,1,0,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,29,14,0,1,0,0,0,0,0
+,"KINGSLEY, Matt ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"MCCOLL, Bob ",Inside Forward,25,6,0,0,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,6,0,0,0,0,0,0,0,0
+,"MCINTYRE, Teddy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCWILLIAM, Peter ",Wing Half,5,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,12,11,0,1,0,0,0,0,0
+,"ROBERTS, Richard ",Winger,1,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,33,7,0,1,0,0,0,0,0
+,"TEMPLETON, Bobby ",Winger,31,3,0,1,1,0,0,0,0
+,"THOMPSON, George ",Winger,1,0,0,0,0,0,0,0,0
+,"TILDESLEY, Jim ",Full Back,16,0,0,1,0,0,0,0,0
+,"TURNER, Archie ",Winger,1,0,0,0,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,33,1,0,1,0,0,0,0,0
+,"WATTS, Charlie ",Goalkeeper,18,0,0,1,0,0,0,0,0
+,"WILLS, Thomas ",Full Back,16,0,0,1,0,0,0,0,0

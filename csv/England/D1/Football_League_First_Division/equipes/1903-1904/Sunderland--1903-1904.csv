@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRIE, Alex	Centre Half	
-										
-BERTRAM, Ernest	Wing Half	
-										
-BRIDGETT, Arthur	Winger	
-										
-BUCKLE, Harry	Winger	
-										
-CRAGGS, Jack	Winger	
-										
-CRAWFORD, James	Winger	
-										
-DOIG, Ned	Goalkeeper	
-										
-FARQUHAR, Billy	Wing Half	
-										
-FULLARTON, William	Centre Half	
-										
-GEMMELL, Jimmy	Inside Forward	
-										
-HEWITT, Joe	Centre Forward	
-										
-HOGG, Billy	Winger	
-										
-JACKSON, Dicky	Wing Half	
-										
-LINDSAY, Albert	Goalkeeper	
-										
-MCALLISTER, Sandy	Centre Half	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MILLAR, Jimmy	Inside Forward	
-										
-RHODES, Ephraim 'Dusty'	Full Back	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROWLANDSON, Tom	Goalkeeper	
-										
-THOMPSON, Benny	Winger	
-										
-WALKER, Thomas	Inside Forward	
-										
-WARDLE, Harry	Inside Forward	
-										
-WATSON, Dougal	Inside Forward	
-										
-WATSON, Jimmy	Full Back	
-										
-YORK, Charlie	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRIE, Alex ",Centre Half,17,0,0,1,0,0,0,0,0
+,"BERTRAM, Ernest ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,32,10,0,1,0,0,0,0,0
+,"BUCKLE, Harry ",Winger,20,8,0,1,1,0,0,0,0
+,"CRAGGS, Jack ",Winger,34,11,0,1,1,0,0,0,0
+,"CRAWFORD, James ",Winger,0,0,0,0,0,0,0,0,0
+,"DOIG, Ned ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"FARQUHAR, Billy ",Wing Half,31,0,0,1,0,0,0,0,0
+,"FULLARTON, William ",Centre Half,2,0,0,0,0,0,0,0,0
+,"GEMMELL, Jimmy ",Inside Forward,29,10,0,1,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"HOGG, Billy ",Winger,33,13,0,1,0,0,0,0,0
+,"JACKSON, Dicky ",Wing Half,32,0,0,1,0,0,0,0,0
+,"LINDSAY, Albert ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MCALLISTER, Sandy ",Centre Half,15,0,0,0,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,23,1,1,0,0,0,0,0,0
+,"MILLAR, Jimmy ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"RHODES, Ephraim 'Dusty' ",Full Back,15,0,0,1,0,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"ROWLANDSON, Tom ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"THOMPSON, Benny ",Winger,0,0,0,0,0,0,0,0,0
+,"WALKER, Thomas ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WARDLE, Harry ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"WATSON, Dougal ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,29,0,0,1,0,0,0,0,0
+,"YORK, Charlie ",Centre Forward,2,0,0,0,0,0,0,0,0

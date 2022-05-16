@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1903/04
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRCHALL, Jack	Wing Half	
-										
-BLACKBURN, Fred	Winger	
-										
-BOW, William	Inside Forward	
-										
-BOWMAN, Adam	Inside Forward	
-										
-BRADSHAW, Billy	Wing Half	
-										
-CAMERON, Jock	Full Back	
-										
-CROMPTON, Bob	Full Back	
-										
-DAWSON, Arthur	Winger	
-										
-DEWHURST, Jack	Centre Half	
-										
-DUCKWORTH, Thomas	Winger	
-										
-DUNKLEY, Albert	Winger	
-										
-EASTHAM, Jack	Full Back	
-										
-EVANS, Bob	Goalkeeper	
-										
-HAWORTH, Bob	Centre Half	
-										
-MACDONALD, John	Full Back	
-										
-MCCLURE, Sammy	Centre Half	
-										
-MCIVER, Willie	Goalkeeper	
-										
-MOIR, Jimmy	Wing Half	
-										
-MONKS, Albert	Inside Forward	
-										
-PENTLAND, Fred	Winger	
-										
-RILEY, Tom	Full Back	
-										
-SMITH, George	Inside Forward	
-										
-WATSON, Lionel	Inside Forward	
-										
-WHITTAKER, Arnie	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRCHALL, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BLACKBURN, Fred ",Winger,33,2,0,3,1,0,0,0,0
+,"BOW, William ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BOWMAN, Adam ",Inside Forward,17,7,0,3,2,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,31,0,0,3,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,2,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,32,1,1,3,0,0,0,0,0
+,"DAWSON, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,32,8,0,3,3,0,0,0,0
+,"DUCKWORTH, Thomas ",Winger,0,0,0,1,0,0,0,0,0
+,"DUNKLEY, Albert ",Winger,4,1,0,0,0,0,0,0,0
+,"EASTHAM, Jack ",Full Back,18,0,0,1,0,0,0,0,0
+,"EVANS, Bob ",Goalkeeper,27,0,0,3,0,0,0,0,0
+,"HAWORTH, Bob ",Centre Half,3,0,0,0,0,0,0,0,0
+,"MACDONALD, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,26,2,0,3,0,0,0,0,0
+,"MCIVER, Willie ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"MOIR, Jimmy ",Wing Half,14,0,0,0,0,0,0,0,0
+,"MONKS, Albert ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"PENTLAND, Fred ",Winger,18,7,0,0,0,0,0,0,0
+,"RILEY, Tom ",Full Back,16,0,0,2,0,0,0,0,0
+,"SMITH, George ",Inside Forward,24,0,0,3,0,0,0,0,0
+,"WATSON, Lionel ",Inside Forward,31,14,0,3,1,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,28,5,2,2,0,0,0,0,0
