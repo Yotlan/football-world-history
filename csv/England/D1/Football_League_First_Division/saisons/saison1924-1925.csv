@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Huddersfield Town,42,21,16,5,69,28,2.464,+41,58,17670,,,League Champions
-2,West Bromwich Albion,42,23,10,9,58,34,1.706,+24,56,23167,,,
-3,Bolton Wanderers,42,22,11,9,76,34,2.235,+42,55,22935,,,
-4,Liverpool,42,20,10,12,63,55,1.145,+8,50,29185,,,
-5,Bury,42,17,15,10,54,51,1.059,+3,49,,,,
-6,Newcastle United,42,16,16,10,61,42,1.452,+19,48,24325,,,
-7,Sunderland,42,19,10,13,64,51,1.255,+13,48,20440,,,
-8,Birmingham City,42,17,12,13,49,53,0.925,-4,46,22547,,,
-9,Notts County,42,16,13,13,42,31,1.355,+11,45,,,,
-10,Manchester City,42,17,9,16,76,68,1.118,+8,43,26915,,,
-11,Cardiff City,42,16,11,15,56,51,1.098,+5,43,21630,,,
-12,Tottenham Hotspur,42,15,12,15,52,43,1.209,+9,42,28195,,,
-13,West Ham United,42,15,12,15,62,60,1.033,+2,42,20885,,,
-14,Sheffield United,42,13,13,16,55,63,0.873,-8,39,20970,,,FA Cup Winners
-15,Aston Villa,42,13,13,16,58,71,0.817,-13,39,27965,,,
-16,Blackburn Rovers,42,11,13,18,53,66,0.803,-13,35,16340,,,
-17,Everton,42,12,11,19,40,60,0.667,-20,35,25310,,,
-18,Leeds United,42,11,12,19,46,59,0.780,-13,34,22715,,,
-19,Burnley,42,11,12,19,46,75,0.613,-29,34,15890,,,
-20,Arsenal,42,14,5,23,46,58,0.793,-12,33,29950,,,
-21,Preston North End,42,10,6,26,37,74,0.500,-37,26,15630,,,Relegated
-22,Nottingham Forest,42,6,12,24,29,65,0.446,-36,24,11450,,,Relegated
+1,Huddersfield Town,42,21,16,5,69,28,2.464,+41,58,17670,"WILSON, Charlie - 24","MERCER, Billy ",League Champions
+2,West Bromwich Albion,42,23,10,9,58,34,1.706,+24,56,23167,"JAMES, George - 25","ASHMORE, George ",
+3,Bolton Wanderers,42,22,11,9,76,34,2.235,+42,55,22935,"JACK, David - 26","PYM, Dick ",
+4,Liverpool,42,20,10,12,63,55,1.145,+8,50,29185,"FORSHAW, Dick - 19","SCOTT, Elisha ",
+5,Bury,42,17,15,10,54,51,1.059,+3,49,,"BALL, Jack - 15","RICHARDSON, Billy ",
+6,Newcastle United,42,16,16,10,61,42,1.452,+19,48,24325,"HARRIS, Neil - 19","BRADLEY, Bill ",
+7,Sunderland,42,19,10,13,64,51,1.255,+13,48,20440,"MARSHALL, Bobby - 19","MCINROY, Albert ",
+8,Birmingham City,42,17,12,13,49,53,0.925,-4,46,22547,"BRADFORD, Joe / ISLIP, Ernie - 11","TREMELLING, Dan ",
+9,Notts County,42,16,13,13,42,31,1.355,+11,45,,"DAVIS, Arthur / WIDDOWSON, Alf - 10","IREMONGER, Albert ",
+10,Manchester City,42,17,9,16,76,68,1.118,+8,43,26915,"ROBERTS, Frank - 31","MITCHELL, James ",
+11,Cardiff City,42,16,11,15,56,51,1.098,+5,43,21630,"DAVIES, Len - 19","FARQUHARSON, Tom ",
+12,Tottenham Hotspur,42,15,12,15,52,43,1.209,+9,42,28195,"SEED, Jimmy - 17","HINTON, Freddy ",
+13,West Ham United,42,15,12,15,62,60,1.033,+2,42,20885,"WATSON, Vic - 22","HAMPSON, Tommy ",
+14,Sheffield United,42,13,13,16,55,63,0.873,-8,39,20970,"BOYLE, Tommy / JOHNSON, Harry - 16","SUTCLIFFE, Charles ",FA Cup Winners
+15,Aston Villa,42,13,13,16,58,71,0.817,-13,39,27965,"WALKER, Billy - 19","SPIERS, Cyril ",
+16,Blackburn Rovers,42,11,13,18,53,66,0.803,-13,35,16340,"MCINTYRE, Johnny / MCKAY, Jock - 12","SEWELL, Ronnie ",
+17,Everton,42,12,11,19,40,60,0.667,-20,35,25310,"BROAD, Jimmy - 8","HARLAND, Alfie ",
+18,Leeds United,42,11,12,19,46,59,0.780,-13,34,22715,"SWAN, Jack - 11","DOWN, Billy ",
+19,Burnley,42,11,12,19,46,75,0.613,-29,34,15890,"ROBERTS, Tommy - 15","DAWSON, Jerry ",
+20,Arsenal,42,14,5,23,46,58,0.793,-12,33,29950,"BRAIN, Jimmy / WOODS, Harry - 12","ROBSON, Jock ",
+21,Preston North End,42,10,6,26,37,74,0.500,-37,26,15630,"BARNES, Horace / HARRISON, George - 8","PROUT, George ",Relegated
+22,Nottingham Forest,42,6,12,24,29,65,0.446,-36,24,11450,"WALKER, Duncan - 7","BENNETT, Alfred ",Relegated
