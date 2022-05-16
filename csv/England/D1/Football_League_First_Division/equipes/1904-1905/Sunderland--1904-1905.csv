@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRIE, Alex	Centre Half	
-										
-BRIDGETT, Arthur	Winger	
-										
-BROWN, Norman	Winger	
-										
-BUCKLE, Harry	Winger	
-										
-COMMON, Alf	Inside Forward	
-										
-CRAGGS, Jack	Winger	
-										
-DAYKIN, Tom	Full Back	
-										
-DIXON, Ted	Full Back	
-										
-FARQUHAR, Billy	Wing Half	
-										
-FULLARTON, William	Centre Half	
-										
-GEMMELL, Jimmy	Inside Forward	
-										
-HOGG, Billy	Winger	
-										
-HOLLEY, George	Inside Forward	
-										
-JACKSON, Dicky	Wing Half	
-										
-LIDDELL, Ned	Centre Half	
-										
-MCCALLUM, Donald	Full Back	
-										
-RHODES, Ephraim 'Dusty'	Full Back	
-										
-ROBINSON, Alfred	Inside Forward	
-										
-ROWLANDSON, Tom	Goalkeeper	
-										
-STEWART, Tommy	Full Back	
-										
-TALBOT-LEWIS, Albert	Goalkeeper	
-										
-THOMPSON, Andy	Winger	
-										
-WARDLE, Harry	Inside Forward	
-										
-WATKINS, Mart	Centre Forward	
-										
-WATSON, Dougal	Inside Forward	
-										
-WATSON, Jimmy	Full Back	
-										
-WEBB, Ike	Goalkeeper	
-										
-WHITBOURN, John	Goalkeeper	
-										
-WILLIS, David	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRIE, Alex ",Centre Half,13,0,0,0,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,32,8,0,2,0,0,0,0,0
+,"BROWN, Norman ",Winger,5,0,0,0,0,0,0,0,0
+,"BUCKLE, Harry ",Winger,13,4,0,1,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,20,6,0,2,1,0,0,0,0
+,"CRAGGS, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"DAYKIN, Tom ",Full Back,2,0,0,0,0,0,0,0,0
+,"DIXON, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"FARQUHAR, Billy ",Wing Half,32,4,0,2,0,0,0,0,0
+,"FULLARTON, William ",Centre Half,24,1,0,2,0,0,0,0,0
+,"GEMMELL, Jimmy ",Inside Forward,32,5,0,1,0,0,0,0,0
+,"HOGG, Billy ",Winger,32,7,1,2,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,15,9,0,1,0,0,0,0,0
+,"JACKSON, Dicky ",Wing Half,30,3,0,2,0,0,0,0,0
+,"LIDDELL, Ned ",Centre Half,0,0,0,0,0,0,0,0,0
+,"MCCALLUM, Donald ",Full Back,3,0,0,0,0,0,0,0,0
+,"RHODES, Ephraim 'Dusty' ",Full Back,28,1,1,0,0,0,0,0,0
+,"ROBINSON, Alfred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROWLANDSON, Tom ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"STEWART, Tommy ",Full Back,3,0,0,2,0,0,0,0,0
+,"TALBOT-LEWIS, Albert ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"THOMPSON, Andy ",Winger,2,0,0,0,0,0,0,0,0
+,"WARDLE, Harry ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"WATKINS, Mart ",Centre Forward,15,9,0,1,0,0,0,0,0
+,"WATSON, Dougal ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,30,0,0,2,0,0,0,0,0
+,"WEBB, Ike ",Goalkeeper,18,0,0,2,0,0,0,0,0
+,"WHITBOURN, John ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WILLIS, David ",Wing Half,5,0,0,0,0,0,0,0,0

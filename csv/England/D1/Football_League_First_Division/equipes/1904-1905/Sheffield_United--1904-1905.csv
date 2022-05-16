@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANNAN, Archie	Full Back	
-										
-BENNETT, Walter	Winger	
-										
-BROWN, Arthur	Centre Forward	
-										
-BULLIVANT, Thomas	Goalkeeper	
-										
-DONNELLY, Jimmy	Winger	
-										
-DRAKE, Alonzo	Inside Forward	
-										
-EDGLEY, Frank	Inside Forward	
-										
-FIDLER, Joe	Full Back	
-										
-FOULKE, Willie	Goalkeeper	
-										
-GROVES, Albert	Full Back	
-										
-HANDLEY, George	Winger	
-										
-JOHNSON, Harry	Wing Half	
-										
-LANG, Johnny	Winger	
-										
-LIEVESLEY, Joe	Goalkeeper	
-										
-LIPSHAM, Bert	Winger	
-										
-MILNES, Fred	Full Back	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-PARKER, Billy	Wing Half	
-										
-PRIEST, Fred	Winger	
-										
-RAINE, Jim	Winger	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WILKINSON, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANNAN, Archie ",Full Back,18,0,0,1,0,0,0,0,0
+,"BENNETT, Walter ",Winger,2,0,0,0,0,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,32,22,1,1,0,0,0,0,0
+,"BULLIVANT, Thomas ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DONNELLY, Jimmy ",Winger,33,10,0,1,0,0,0,0,0
+,"DRAKE, Alonzo ",Inside Forward,27,10,0,1,0,0,0,0,0
+,"EDGLEY, Frank ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"FIDLER, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"FOULKE, Willie ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"GROVES, Albert ",Full Back,34,0,0,1,0,0,0,0,0
+,"HANDLEY, George ",Winger,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Wing Half,33,0,0,1,0,0,0,0,0
+,"LANG, Johnny ",Winger,32,6,0,1,0,0,0,0,0
+,"LIEVESLEY, Joe ",Goalkeeper,24,0,0,1,0,0,0,0,0
+,"LIPSHAM, Bert ",Winger,34,5,0,1,0,0,0,0,0
+,"MILNES, Fred ",Full Back,5,0,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,33,2,0,1,0,0,0,0,0
+,"PARKER, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"PRIEST, Fred ",Winger,16,6,2,0,0,0,0,0,0
+,"RAINE, Jim ",Winger,1,0,0,0,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,30,1,0,1,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,6,1,0,0,0,0,0,0,0

@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Joe	Winger	
-										
-BROWN, William	Centre Half	
-										
-BUTTERWORTH, Tommy	Wing Half	
-										
-GREGORY, Julius	Full Back	
-										
-HARRISON, Richard	Wing Half	
-										
-JOHNSTON, John	Wing Half	
-										
-KAY, Tom	Inside Forward	
-										
-LEEMING, Joe	Full Back	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MCEWAN, Bob	Full Back	
-										
-MONTEITH, Hugh	Goalkeeper	
-										
-MONTGOMERY, Archie	Goalkeeper	
-										
-MORTON, Alec	Inside Forward	
-										
-MULLINEUX, Ernie	Full Back	
-										
-PICKERING, John	Inside Forward	
-										
-PLANT, Jack	Winger	
-										
-RICHARDS, Billy	Winger	
-										
-ROSS, George	Wing Half	
-										
-SAGAR, Charles	Inside Forward	
-										
-SIMPSON, Tommy	Centre Forward	
-										
-SLATER, Percy	Full Back	
-										
-SMITH, Jim	Winger	
-										
-SWANN, Herbert	Centre Forward	
-										
-THORPE, Frank	Centre Half	
-										
-WILLIAMS, Jack	Centre Forward	
-										
-WOOD, Billy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Joe ",Winger,3,0,0,0,0,0,0,0,0
+,"BROWN, William ",Centre Half,1,0,0,0,0,0,0,0,0
+,"BUTTERWORTH, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GREGORY, Julius ",Full Back,7,0,0,0,0,0,0,0,0
+,"HARRISON, Richard ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JOHNSTON, John ",Wing Half,33,1,0,2,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,15,3,0,1,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,22,0,0,2,1,0,0,0,0
+,"MCEWAN, Bob ",Full Back,6,0,0,0,0,0,0,0,0
+,"MONTEITH, Hugh ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"MONTGOMERY, Archie ",Goalkeeper,23,0,0,2,0,0,0,0,0
+,"MORTON, Alec ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"MULLINEUX, Ernie ",Full Back,10,0,0,0,0,0,0,0,0
+,"PICKERING, John ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"PLANT, Jack ",Winger,30,2,0,2,0,0,0,0,0
+,"RICHARDS, Billy ",Winger,32,2,0,2,0,0,0,0,0
+,"ROSS, George ",Wing Half,32,2,1,2,0,0,0,0,0
+,"SAGAR, Charles ",Inside Forward,24,15,3,1,1,0,0,0,0
+,"SIMPSON, Tommy ",Centre Forward,13,6,0,2,1,0,0,0,0
+,"SLATER, Percy ",Full Back,22,0,0,2,0,0,0,0,0
+,"SMITH, Jim ",Winger,1,0,0,0,0,0,0,0,0
+,"SWANN, Herbert ",Centre Forward,12,4,0,0,0,0,0,0,0
+,"THORPE, Frank ",Centre Half,31,3,0,2,0,0,0,0,0
+,"WILLIAMS, Jack ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"WOOD, Billy ",Inside Forward,30,8,0,2,0,0,0,0,0

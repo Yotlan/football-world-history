@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, John	Wing Half	
-										
-BROUGHTON, Matt	Winger	
-										
-CLARE, Edwin	Full Back	
-										
-CLINCH, Tom	Full Back	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-DEAN, Jerry	Winger	
-										
-EARLE, Harry	Goalkeeper	
-										
-EMBERTON, Teddy	Wing Half	
-										
-GEE, Ellis	Winger	
-										
-GREEN, Arthur	Centre Forward	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-MAINMAN, Harry	Centre Half	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MUIR, Bobby	Winger	
-										
-NUGENT, John	Goalkeeper	
-										
-PENNINGTON, Harry	Goalkeeper	
-										
-PRESCOTT, Tom	Full Back	
-										
-REID, Jimmy	Inside Forward	
-										
-SHUFFLEBOTHAM, Jack	Centre Half	
-										
-TARPLIN, Walter	Inside Forward	
-										
-WAINWRIGHT, Thomas	Wing Half	
-										
-WHITCHURCH, Herbert	Inside Forward	
-										
-WILKINSON, John	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, John ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BROUGHTON, Matt ",Winger,2,1,0,0,0,0,0,0,0
+,"CLARE, Edwin ",Full Back,5,0,0,0,0,0,0,0,0
+,"CLINCH, Tom ",Full Back,6,0,0,0,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,31,4,0,0,0,0,0,0,0
+,"DEAN, Jerry ",Winger,30,8,1,1,0,0,0,0,0
+,"EARLE, Harry ",Goalkeeper,23,0,0,1,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,25,0,0,1,0,0,0,0,0
+,"GEE, Ellis ",Winger,30,1,0,1,0,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,27,8,0,0,0,0,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,31,1,0,1,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,28,6,1,1,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MAINMAN, Harry ",Centre Half,26,0,0,1,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,33,0,0,1,0,0,0,0,0
+,"MUIR, Bobby ",Winger,19,0,0,1,0,0,0,0,0
+,"NUGENT, John ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"PENNINGTON, Harry ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"PRESCOTT, Tom ",Full Back,2,0,0,0,0,0,0,0,0
+,"REID, Jimmy ",Inside Forward,11,2,0,1,0,0,0,0,0
+,"SHUFFLEBOTHAM, Jack ",Centre Half,1,0,0,0,0,0,0,0,0
+,"TARPLIN, Walter ",Inside Forward,18,4,0,1,0,0,0,0,0
+,"WAINWRIGHT, Thomas ",Wing Half,5,0,0,0,0,0,0,0,0
+,"WHITCHURCH, Herbert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WILKINSON, John ",Full Back,1,0,0,0,0,0,0,0,0

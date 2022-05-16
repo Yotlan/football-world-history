@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANNISTER, Jimmy	Inside Forward	
-										
-BOOTH, Frank	Winger	
-										
-BUCHAN, James	Wing Half	
-										
-BURGESS, Herbert	Full Back	
-										
-CHRISTIE, John	Full Back	
-										
-DEARDEN, Robert	Wing Half	
-										
-DORSETT, George	Winger	
-										
-EDMONDSON, John	Goalkeeper	
-										
-FORMAN, Tom	Winger	
-										
-FROST, Sammy	Wing Half	
-										
-GILLESPIE, Billy	Centre Forward	
-										
-HILLMAN, Jack	Goalkeeper	
-										
-HOLMES, Billy	Wing Half	
-										
-HYNDS, Tommy	Centre Half	
-										
-JONES, Lot	Inside Forward	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MCMAHON, Johnny	Full Back	
-										
-MCOUSTRA, Willie	Wing Half	
-										
-MEREDITH, Billy	Winger	
-										
-MEUNIER, James	Full Back	
-										
-MOFFATT, Joe	Centre Forward	
-										
-NORGROVE, Frank	Full Back	
-										
-PEARSON, Frank	Centre Forward	
-										
-THORNLEY, Irvine	Centre Forward	
-										
-THRELFALL, Fred	Winger	
-										
-TURNBULL, Sandy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANNISTER, Jimmy ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"BOOTH, Frank ",Winger,33,8,0,2,0,0,0,0,0
+,"BUCHAN, James ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BURGESS, Herbert ",Full Back,26,0,0,2,0,0,0,0,0
+,"CHRISTIE, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"DEARDEN, Robert ",Wing Half,8,0,0,0,0,0,0,0,0
+,"DORSETT, George ",Winger,9,5,0,2,0,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"FORMAN, Tom ",Winger,0,0,0,0,0,0,0,0,0
+,"FROST, Sammy ",Wing Half,32,0,0,1,0,0,0,0,0
+,"GILLESPIE, Billy ",Centre Forward,16,7,0,1,1,0,0,0,0
+,"HILLMAN, Jack ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"HOLMES, Billy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"HYNDS, Tommy ",Centre Half,33,2,0,2,0,0,0,0,0
+,"JONES, Lot ",Inside Forward,12,1,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,26,7,0,0,0,0,0,0,0
+,"MCMAHON, Johnny ",Full Back,31,0,0,2,0,0,0,0,0
+,"MCOUSTRA, Willie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,33,9,1,2,1,1,0,0,0
+,"MEUNIER, James ",Full Back,0,0,0,0,0,0,0,0,0
+,"MOFFATT, Joe ",Centre Forward,13,2,0,2,0,0,0,0,0
+,"NORGROVE, Frank ",Full Back,10,0,0,1,0,0,0,0,0
+,"PEARSON, Frank ",Centre Forward,3,1,0,1,0,0,0,0,0
+,"THORNLEY, Irvine ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"THRELFALL, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,30,19,0,2,1,0,0,0,0

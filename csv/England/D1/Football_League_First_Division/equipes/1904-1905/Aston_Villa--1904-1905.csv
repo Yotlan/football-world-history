@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BACHE, Joe	Inside Forward	
-										
-BRAWN, Billy	Winger	
-										
-BROWN, William	Full Back	
-										
-BUCKLEY, Frank	Centre Half	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CLARKE, Willie	Winger	
-										
-COOCH, Harry	Goalkeeper	
-										
-CORBETT, Watty	Full Back	
-										
-EVANS, Albert	Full Back	
-										
-FRANCIS, Ernie	Centre Forward	
-										
-FREEMAN, Bert	Centre Forward	
-										
-GARRATY, Billy	Inside Forward	
-										
-GEORGE, Billy	Goalkeeper	
-										
-GRAY, Bert	Wing Half	
-										
-HALL, Bert	Winger	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HAYWOOD, Tom	Centre Half	
-										
-JOHNSON, George	Inside Forward	
-										
-LEAKE, Alex	Centre Half	
-										
-LOCKETT, Arthur	Winger	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MILES, Alf	Full Back	
-										
-MITCHELL, Archie	Centre Half	
-										
-NOON, Micky	Full Back	
-										
-PEARSON, Joe	Wing Half	
-										
-PRICE, Haydn	Wing Half	
-										
-SPENCER, Howard	Full Back	
-										
-WATKINS, Mart	Centre Forward	
-										
-WEBB, Sidney	Inside Forward	
-										
-WILKES, Albert	Wing Half	
-										
-WINDMILL, Joseph	Wing Half	
-										
-WOOD, Alf	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BACHE, Joe ",Inside Forward,31,12,0,6,4,0,0,0,0
+,"BRAWN, Billy ",Winger,31,7,3,6,0,0,0,0,0
+,"BROWN, William ",Full Back,11,0,0,0,0,0,0,0,0
+,"BUCKLEY, Frank ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"CLARKE, Willie ",Winger,5,0,0,0,0,0,0,0,0
+,"COOCH, Harry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CORBETT, Watty ",Full Back,1,0,0,0,0,0,0,0,0
+,"EVANS, Albert ",Full Back,4,0,0,1,0,0,0,0,0
+,"FRANCIS, Ernie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GARRATY, Billy ",Inside Forward,31,8,1,6,2,0,0,0,0
+,"GEORGE, Billy ",Goalkeeper,33,0,0,6,0,0,0,0,0
+,"GRAY, Bert ",Wing Half,7,0,0,0,0,0,0,0,0
+,"HALL, Bert ",Winger,22,5,0,6,3,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,22,15,0,6,7,0,0,0,0
+,"HAYWOOD, Tom ",Centre Half,0,0,0,0,0,0,0,0,0
+,"JOHNSON, George ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"LEAKE, Alex ",Centre Half,30,3,0,6,1,0,0,0,0
+,"LOCKETT, Arthur ",Winger,13,3,0,0,0,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,7,4,0,0,0,0,0,0,0
+,"MILES, Alf ",Full Back,29,0,0,6,0,0,0,0,0
+,"MITCHELL, Archie ",Centre Half,0,0,0,0,0,0,0,0,0
+,"NOON, Micky ",Full Back,5,0,0,0,0,0,0,0,0
+,"PEARSON, Joe ",Wing Half,25,2,0,6,1,0,0,0,0
+,"PRICE, Haydn ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SPENCER, Howard ",Full Back,19,0,0,5,0,0,0,0,0
+,"WATKINS, Mart ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WEBB, Sidney ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WILKES, Albert ",Wing Half,9,0,0,1,0,0,0,0,0
+,"WINDMILL, Joseph ",Wing Half,25,1,0,5,0,0,0,0,0
+,"WOOD, Alf ",Centre Half,6,1,0,0,0,0,0,0,0

@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy	Centre Half	
-										
-APPLEYARD, Bill	Centre Forward	
-										
-CARR, Jack	Wing Half	
-										
-CRUMLEY, Bob	Goalkeeper	
-										
-GARDNER, Alec	Wing Half	
-										
-GOSNELL, Bert	Winger	
-										
-GRAHAM, Sam	Winger	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-INNERD, Wilf	Centre Half	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-MCCLARENCE, Joe	Inside Forward	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCINTYRE, Teddy	Wing Half	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-ORR, Ronald	Inside Forward	
-										
-RUTHERFORD, Jock	Winger	
-										
-TEMPLETON, Bobby	Winger	
-										
-THOMPSON, George	Winger	
-										
-VEITCH, Colin	Centre Half	
-										
-WATTS, Charlie	Goalkeeper	
-										
-WILLS, Thomas	Full Back	
-										
-WINTER, Clifford	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Centre Half,28,2,0,8,0,0,0,0,0
+,"APPLEYARD, Bill ",Centre Forward,28,13,0,5,2,0,0,0,0
+,"CARR, Jack ",Wing Half,27,0,0,8,0,0,0,0,0
+,"CRUMLEY, Bob ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,32,1,0,8,0,0,0,0,0
+,"GOSNELL, Bert ",Winger,25,4,0,8,2,0,0,0,0
+,"GRAHAM, Sam ",Winger,3,0,0,1,0,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,31,14,0,8,4,0,0,0,0
+,"INNERD, Wilf ",Centre Half,1,0,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,29,0,0,8,0,0,0,0,0
+,"MCCLARENCE, Joe ",Inside Forward,6,4,0,2,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,31,0,0,8,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,13,0,0,0,0,0,0,0,0
+,"MCINTYRE, Teddy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCWILLIAM, Peter ",Wing Half,26,4,0,8,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,20,9,1,6,4,1,0,0,0
+,"RUTHERFORD, Jock ",Winger,31,10,0,5,0,0,0,0,0
+,"TEMPLETON, Bobby ",Winger,10,0,0,0,0,0,0,0,0
+,"THOMPSON, George ",Winger,0,0,0,1,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,24,10,0,4,0,0,0,0,0
+,"WATTS, Charlie ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"WILLS, Thomas ",Full Back,2,0,0,0,0,0,0,0,0
+,"WINTER, Clifford ",Inside Forward,0,0,0,0,0,0,0,0,0

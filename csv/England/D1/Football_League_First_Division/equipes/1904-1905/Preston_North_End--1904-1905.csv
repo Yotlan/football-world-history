@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Jack	Inside Forward	
-										
-BOND, Dickie	Winger	
-										
-BOURNE, Dickie	Winger	
-										
-BROWN, Albert	Centre Forward	
-										
-BUTTERWORTH, Herbert	Wing Half	
-										
-CATTERALL, John	Winger	
-										
-DERBYSHIRE, Joe	Full Back	
-										
-DOUGAL, David	Winger	
-										
-HUNTER, John	Centre Half	
-										
-KNIBBS, Tom	Winger	
-										
-LYON, Billy	Wing Half	
-										
-MAHER, Davie	Winger	
-										
-MCBRIDE, Peter	Goalkeeper	
-										
-MCKIE, Danny	Inside Forward	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-ORRELL, Richard	Full Back	
-										
-RODGER, Tom	Winger	
-										
-RODWAY, Tommy	Full Back	
-										
-SMITH, Percy	Centre Half	
-										
-TOD, George	Wing Half	
-										
-TURNBULL, Jimmy	Centre Forward	
-										
-WILCOX, Harry	Inside Forward	
-										
-WILSON, James	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Jack ",Inside Forward,14,3,0,5,1,0,0,0,0
+,"BOND, Dickie ",Winger,30,8,0,5,2,0,0,0,0
+,"BOURNE, Dickie ",Winger,24,3,0,5,1,0,0,0,0
+,"BROWN, Albert ",Centre Forward,17,6,2,1,0,0,0,0,0
+,"BUTTERWORTH, Herbert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CATTERALL, John ",Winger,4,0,0,0,0,0,0,0,0
+,"DERBYSHIRE, Joe ",Full Back,27,0,0,5,0,0,0,0,0
+,"DOUGAL, David ",Winger,0,0,0,0,0,0,0,0,0
+,"HUNTER, John ",Centre Half,31,1,0,5,0,0,0,0,0
+,"KNIBBS, Tom ",Winger,0,0,0,0,0,0,0,0,0
+,"LYON, Billy ",Wing Half,32,0,0,5,0,0,0,0,0
+,"MAHER, Davie ",Winger,5,0,0,2,0,0,0,0,0
+,"MCBRIDE, Peter ",Goalkeeper,34,0,0,5,0,0,0,0,0
+,"MCKIE, Danny ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,33,0,0,5,0,0,0,0,0
+,"ORRELL, Richard ",Full Back,14,0,0,0,0,0,0,0,0
+,"RODGER, Tom ",Winger,5,1,0,0,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,27,0,0,5,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,32,14,0,5,0,0,0,0,0
+,"TOD, George ",Wing Half,6,0,0,0,0,0,0,0,0
+,"TURNBULL, Jimmy ",Centre Forward,8,0,0,0,0,0,0,0,0
+,"WILCOX, Harry ",Inside Forward,6,0,0,1,0,0,0,0,0
+,"WILSON, James ",Inside Forward,22,4,0,1,0,0,0,0,0

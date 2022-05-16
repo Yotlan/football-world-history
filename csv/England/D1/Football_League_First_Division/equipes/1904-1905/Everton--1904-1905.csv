@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Walter	Wing Half	
-										
-ASHWORTH, Sam	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BALMER, Billy	Full Back	
-										
-BOOTH, Tom	Centre Half	
-										
-CHADWICK, Thomas	Centre Half	
-										
-CRELLEY, Jack	Full Back	
-										
-DILLY, Tommy	Winger	
-										
-HANLIN, Pat	Wing Half	
-										
-HARDMAN, Harold	Winger	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MCDERMOTT, Tommy	Inside Forward	
-										
-MCLAUGHLIN, Willie	Inside Forward	
-										
-RANKIN, Bruce	Winger	
-										
-ROOSE, Dick	Goalkeeper	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SETTLE, Jimmy	Inside Forward	
-										
-SHARP, Jack	Winger	
-										
-TAYLOR, Jack	Centre Half	
-										
-WILDMAN, William	Full Back	
-										
-YOUNG, Sandy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Walter ",Wing Half,28,4,0,6,0,0,0,0,0
+,"ASHWORTH, Sam ",Wing Half,11,0,0,0,0,0,0,0,0
+,"BALMER, Bob ",Full Back,11,0,0,3,0,0,0,0,0
+,"BALMER, Billy ",Full Back,30,0,0,3,0,0,0,0,0
+,"BOOTH, Tom ",Centre Half,8,0,0,0,0,0,0,0,0
+,"CHADWICK, Thomas ",Centre Half,3,0,0,0,0,0,0,0,0
+,"CRELLEY, Jack ",Full Back,26,0,0,6,0,0,0,0,0
+,"DILLY, Tommy ",Winger,1,0,0,0,0,0,0,0,0
+,"HANLIN, Pat ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HARDMAN, Harold ",Winger,32,8,0,6,1,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,19,5,5,6,2,1,0,0,0
+,"MCDERMOTT, Tommy ",Inside Forward,29,7,0,6,4,0,0,0,0
+,"MCLAUGHLIN, Willie ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"RANKIN, Bruce ",Winger,16,1,0,0,0,0,0,0,0
+,"ROOSE, Dick ",Goalkeeper,18,0,0,6,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"SETTLE, Jimmy ",Inside Forward,32,9,1,6,4,0,0,0,0
+,"SHARP, Jack ",Winger,21,8,0,6,2,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,34,4,0,6,0,0,0,0,0
+,"WILDMAN, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,31,14,0,6,0,0,0,0,0

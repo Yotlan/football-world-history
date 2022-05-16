@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANTHONY, Walter	Winger	
-										
-BARNSDALE, John	Wing Half	
-										
-CHAPMAN, Fred	Full Back	
-										
-COOKSON, Alfred	Wing Half	
-										
-CRAGGS, Jack	Winger	
-										
-CRAIG, Charlie	Full Back	
-										
-CRAWFORD, John	Centre Half	
-										
-DAVIES, Tom	Winger	
-										
-DUDLEY, Walter	Full Back	
-										
-FORMAN, Frank	Wing Half	
-										
-HARDSTAFF, Joe	Inside Forward	
-										
-HENDERSON, George	Wing Half	
-										
-HOLDSTOCK, Herbert	Centre Half	
-										
-INNES, Bob	Wing Half	
-										
-IREMONGER, Jim	Full Back	
-										
-JONES, Albert	Full Back	
-										
-JONES, Thomas	Inside Forward	
-										
-LESSONS, Fred	Centre Forward	
-										
-LINACRE, Harry	Goalkeeper	
-										
-MCGHEE, George	Inside Forward	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEWBIGGING, Sandy	Goalkeeper	
-										
-NIBLO, Tommy	Centre Forward	
-										
-PAGE, Walter	Wing Half	
-										
-POWELL, Alfred	Inside Forward	
-										
-ROBERTSON, Peter	Centre Half	
-										
-SANDS, Joseph	Winger	
-										
-SHEARMAN, Bill	Inside Forward	
-										
-SPOUNCER, Alf	Winger	
-										
-SUGDEN, Syd	Centre Forward	
-										
-TIMMINS, Sammy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANTHONY, Walter ",Winger,6,0,0,0,0,0,0,0,0
+,"BARNSDALE, John ",Wing Half,20,0,0,0,0,0,0,0,0
+,"CHAPMAN, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"COOKSON, Alfred ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CRAGGS, Jack ",Winger,8,0,0,0,0,0,0,0,0
+,"CRAIG, Charlie ",Full Back,31,0,0,2,0,0,0,0,0
+,"CRAWFORD, John ",Centre Half,3,0,0,0,0,0,0,0,0
+,"DAVIES, Tom ",Winger,12,0,0,2,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,17,0,0,2,0,0,0,0,0
+,"FORMAN, Frank ",Wing Half,4,1,0,2,0,0,0,0,0
+,"HARDSTAFF, Joe ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HENDERSON, George ",Wing Half,21,1,1,2,0,0,0,0,0
+,"HOLDSTOCK, Herbert ",Centre Half,1,0,0,0,0,0,0,0,0
+,"INNES, Bob ",Wing Half,13,0,0,0,0,0,0,0,0
+,"IREMONGER, Jim ",Full Back,18,1,1,0,0,0,0,0,0
+,"JONES, Albert ",Full Back,5,0,0,0,0,0,0,0,0
+,"JONES, Thomas ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LESSONS, Fred ",Centre Forward,16,3,0,0,0,0,0,0,0
+,"LINACRE, Harry ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"MCGHEE, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,26,12,0,2,1,0,0,0,0
+,"NEWBIGGING, Sandy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"NIBLO, Tommy ",Centre Forward,29,6,0,2,0,0,0,0,0
+,"PAGE, Walter ",Wing Half,1,0,0,0,0,0,0,0,0
+,"POWELL, Alfred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROBERTSON, Peter ",Centre Half,7,0,0,0,0,0,0,0,0
+,"SANDS, Joseph ",Winger,0,0,0,0,0,0,0,0,0
+,"SHEARMAN, Bill ",Inside Forward,29,13,0,2,1,0,0,0,0
+,"SPOUNCER, Alf ",Winger,24,2,0,2,0,0,0,0,0
+,"SUGDEN, Syd ",Centre Forward,12,0,0,0,0,0,0,0,0
+,"TIMMINS, Sammy ",Wing Half,31,1,0,2,0,0,0,0,0

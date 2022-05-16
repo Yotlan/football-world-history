@@ -1,47 +1,23 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENNETT, Jack	Full Back	
-										
-BIRCHALL, Jack	Wing Half	
-										
-BLACKBURN, Fred	Winger	
-										
-BOWMAN, Adam	Inside Forward	
-										
-BRADSHAW, Billy	Wing Half	
-										
-CAMERON, Jock	Full Back	
-										
-CROMPTON, Bob	Full Back	
-										
-DEWHURST, Jack	Centre Half	
-										
-DUCKWORTH, Thomas	Winger	
-										
-EVANS, Bob	Goalkeeper	
-										
-MCCLURE, Sammy	Centre Half	
-										
-MCIVER, Willie	Goalkeeper	
-										
-MOIR, Jimmy	Wing Half	
-										
-OLIVER, Alfred	Winger	
-										
-PENTLAND, Fred	Winger	
-										
-RILEY, Tom	Full Back	
-										
-SMITH, George	Inside Forward	
-										
-WATKINS, Alfred	Inside Forward	
-										
-WATSON, Lionel	Inside Forward	
-										
-WHITTAKER, Arnie	Winger	
-										
-WOLSTENHOLME, Sam	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENNETT, Jack ",Full Back,1,0,0,0,0,0,0,0,0
+,"BIRCHALL, Jack ",Wing Half,21,1,0,1,0,0,0,0,0
+,"BLACKBURN, Fred ",Winger,28,0,0,1,1,0,0,0,0
+,"BOWMAN, Adam ",Inside Forward,31,13,0,1,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,33,5,0,1,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,34,0,0,1,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,27,3,3,0,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,25,5,0,1,0,0,0,0,0
+,"DUCKWORTH, Thomas ",Winger,1,0,0,0,0,0,0,0,0
+,"EVANS, Bob ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,10,0,0,0,0,0,0,0,0
+,"MCIVER, Willie ",Goalkeeper,30,0,0,1,0,0,0,0,0
+,"MOIR, Jimmy ",Wing Half,18,0,0,1,0,0,0,0,0
+,"OLIVER, Alfred ",Winger,2,0,0,0,0,0,0,0,0
+,"PENTLAND, Fred ",Winger,27,1,0,1,0,0,0,0,0
+,"RILEY, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"SMITH, George ",Inside Forward,21,4,0,0,0,0,0,0,0
+,"WATKINS, Alfred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WATSON, Lionel ",Inside Forward,15,3,0,1,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,17,3,1,0,0,0,0,0,0
+,"WOLSTENHOLME, Sam ",Wing Half,28,1,0,1,0,0,0,0,0

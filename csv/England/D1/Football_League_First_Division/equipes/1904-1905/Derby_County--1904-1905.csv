@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1904/05
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKER, Frederick	Inside Forward	
-										
-BLOOMER, Steve	Inside Forward	
-										
-DAVIS, George	Winger	
-										
-DAVIS, Jack 'Pimmy'	Winger	
-										
-FLETCHER, Tommy	Inside Forward	
-										
-GILCHRIST, Len	Inside Forward	
-										
-HALL, Ben	Centre Half	
-										
-HARPER, Ernest	Full Back	
-										
-HOUNSFIELD, Reginald	Winger	
-										
-HUNT, Archie	Centre Forward	
-										
-LECKIE, Charles	Wing Half	
-										
-MASKREY, Harry	Goalkeeper	
-										
-MCALLISTER, Sandy	Centre Half	
-										
-MERCER, Johnnie 'Toby'	Winger	
-										
-METHVEN, Jimmy	Full Back	
-										
-MIDDLETON, Frank	Winger	
-										
-MOORE, Jack	Inside Forward	
-										
-MORRIS, Charlie	Full Back	
-										
-PARNELL, Fred	Winger	
-										
-PATON, Tom	Centre Forward	
-										
-PYNEGAR, Algernon	Centre Forward	
-										
-RATCLIFFE, Jack	Full Back	
-										
-REDFERN, Frederick	Inside Forward	
-										
-RICHARDS, George	Wing Half	
-										
-SAUNDERS, Samuel	Wing Half	
-										
-SMITH, John	Goalkeeper	
-										
-WARREN, Ben	Wing Half	
-										
-WHEATCROFT, Freddy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKER, Frederick ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"BLOOMER, Steve ",Inside Forward,29,13,1,1,0,0,0,0,0
+,"DAVIS, George ",Winger,18,2,0,0,0,0,0,0,0
+,"DAVIS, Jack 'Pimmy' ",Winger,1,0,0,0,0,0,0,0,0
+,"FLETCHER, Tommy ",Inside Forward,18,5,0,1,0,0,0,0,0
+,"GILCHRIST, Len ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"HALL, Ben ",Centre Half,18,1,0,1,0,0,0,0,0
+,"HARPER, Ernest ",Full Back,0,0,0,0,0,0,0,0,0
+,"HOUNSFIELD, Reginald ",Winger,21,4,0,1,0,0,0,0,0
+,"HUNT, Archie ",Centre Forward,12,1,0,0,0,0,0,0,0
+,"LECKIE, Charles ",Wing Half,6,0,0,0,0,0,0,0,0
+,"MASKREY, Harry ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,"MCALLISTER, Sandy ",Centre Half,24,0,0,0,0,0,0,0,0
+,"MERCER, Johnnie 'Toby' ",Winger,2,0,0,0,0,0,0,0,0
+,"METHVEN, Jimmy ",Full Back,27,0,0,1,0,0,0,0,0
+,"MIDDLETON, Frank ",Winger,9,1,0,1,0,0,0,0,0
+,"MOORE, Jack ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"MORRIS, Charlie ",Full Back,33,0,0,1,0,0,0,0,0
+,"PARNELL, Fred ",Winger,7,0,0,0,0,0,0,0,0
+,"PATON, Tom ",Centre Forward,14,1,0,1,0,0,0,0,0
+,"PYNEGAR, Algernon ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"RATCLIFFE, Jack ",Full Back,10,0,0,0,0,0,0,0,0
+,"REDFERN, Frederick ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RICHARDS, George ",Wing Half,29,4,0,1,0,0,0,0,0
+,"SAUNDERS, Samuel ",Wing Half,7,0,0,0,0,0,0,0,0
+,"SMITH, John ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WARREN, Ben ",Wing Half,34,1,0,1,0,0,0,0,0
+,"WHEATCROFT, Freddy ",Inside Forward,3,3,0,0,0,0,0,0,0
