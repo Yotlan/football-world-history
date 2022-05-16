@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Burnley,42,23,13,6,79,36,2.194,+43,59,31535,,,League Champions
-2,Manchester City,42,24,6,12,70,50,1.400,+20,54,31120,,,
-3,Bolton Wanderers,42,19,14,9,77,53,1.453,+24,52,34400,,,
-4,Liverpool,42,18,15,9,63,35,1.800,+28,51,35440,,,
-5,Newcastle United,42,20,10,12,66,45,1.467,+21,50,41265,,,
-6,Tottenham Hotspur,42,19,9,14,70,48,1.458,+22,47,36010,,,FA Cup Winners
-7,Everton,42,17,13,12,66,55,1.200,+11,47,37189,,,
-8,Middlesbrough,42,17,12,13,53,53,1.000,+0,46,23845,,,
-9,Arsenal,42,15,14,13,59,63,0.937,-4,44,35540,,,
-10,Aston Villa,42,18,7,17,63,70,0.900,-7,43,35145,,,
-11,Blackburn Rovers,42,13,15,14,57,59,0.966,-2,41,27930,,,
-12,Sunderland,42,14,13,15,57,60,0.950,-3,41,28765,,,
-13,Manchester United,42,15,10,17,64,68,0.941,-4,40,35525,,,
-14,West Bromwich Albion,42,13,14,15,54,58,0.931,-4,40,30024,,,
-15,Bradford City,42,12,15,15,61,63,0.968,-2,39,22585,,,
-16,Preston North End,42,15,9,18,61,65,0.938,-4,39,21310,,,
-17,Huddersfield Town,42,15,9,18,42,49,0.857,-7,39,22240,,,
-18,Chelsea,42,13,13,16,48,58,0.828,-10,39,38520,,,
-19,Oldham Athletic,42,9,15,18,49,86,0.570,-37,33,18075,,,
-20,Sheffield United,42,6,18,18,42,68,0.618,-26,30,26920,,,
-21,Derby County,42,5,16,21,32,58,0.552,-26,26,16235,,,Relegated
-22,Bradford Park Avenue,42,8,8,26,43,76,0.566,-33,24,,,,Relegated
+1,Burnley,42,23,13,6,79,36,2.194,+43,59,31535,"ANDERSON, Joe - 25","DAWSON, Jerry ",League Champions
+2,Manchester City,42,24,6,12,70,50,1.400,+20,54,31120,"BROWELL, Tommy - 31","GOODCHILD, Jim ",
+3,Bolton Wanderers,42,19,14,9,77,53,1.453,+24,52,34400,"SMITH, Joe - 38","HUGHES, Joe ",
+4,Liverpool,42,18,15,9,63,35,1.800,+28,51,35440,"CHAMBERS, Harry - 22","SCOTT, Elisha ",
+5,Newcastle United,42,20,10,12,66,45,1.467,+21,50,41265,"SMAILES, Andy - 18","LAWRENCE, Jimmy ",
+6,Tottenham Hotspur,42,19,9,14,70,48,1.458,+22,47,36010,"BLISS, Bert - 17","JACQUES, Bill ",FA Cup Winners
+7,Everton,42,17,13,12,66,55,1.200,+11,47,37189,"CROSSLEY, Charlie - 15","FERN, Tommy ",
+8,Middlesbrough,42,17,12,13,53,53,1.000,+0,46,23845,"ELLIOTT, George - 26","WILLIAMSON, Tim ",
+9,Arsenal,42,15,14,13,59,63,0.937,-4,44,35540,"PAGNAM, Fred - 14","WILLIAMSON, Tim ",
+10,Aston Villa,42,18,7,17,63,70,0.900,-7,43,35145,"WALKER, Billy - 27","HARDY, Sam ",
+11,Blackburn Rovers,42,13,15,14,57,59,0.966,-2,41,27930,"DAWSON, Percy - 17","SEWELL, Ronnie ",
+12,Sunderland,42,14,13,15,57,60,0.950,-3,41,28765,"BUCHAN, Charlie - 27","DEMPSTER, James ",
+13,Manchester United,42,15,10,17,64,68,0.941,-4,40,35525,"MILLER, Tom / PARTRIDGE, Ted / SAPSFORD, George / SPENCE, Joe - 7","MEW, Jack ",
+14,West Bromwich Albion,42,13,14,15,54,58,0.931,-4,40,30024,"MORRIS, Fred - 16","PEARSON, Hubert ",
+15,Bradford City,42,12,15,15,61,63,0.968,-2,39,22585,"HIBBERT, Billy - 13","EWART, Jock ",
+16,Preston North End,42,15,9,18,61,65,0.938,-4,39,21310,"ROBERTS, Tommy - 17","CAUSER, Arthur ",
+17,Huddersfield Town,42,15,9,18,42,49,0.857,-7,39,22240,"SWAN, Jack - 8","MUTCH, Alex ",
+18,Chelsea,42,13,13,16,48,58,0.828,-10,39,38520,"COCK, Jack - 12","MOLYNEUX, Jimmy ",
+19,Oldham Athletic,42,9,15,18,49,86,0.570,-37,33,18075,"BUTLER, Reuben - 16","MATTHEWS, Howard ",
+20,Sheffield United,42,6,18,18,42,68,0.618,-26,30,26920,"JOHNSON, Harry - 12","GOUGH, Harold ",
+21,Derby County,42,5,16,21,32,58,0.552,-26,26,16235,"PATERSON, Willie - 9","LAWRENCE, George ",Relegated
+22,Bradford Park Avenue,42,8,8,26,43,76,0.566,-33,24,,"MCLEAN, David - 22","SCATTERGOOD, Ernie ",Relegated
