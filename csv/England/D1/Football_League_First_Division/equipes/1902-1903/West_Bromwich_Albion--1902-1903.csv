@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Amos	Full Back	
-										
-BRITTAIN, John	Full Back	
-										
-BUCK, Fred	Inside Forward	
-										
-CHADBURN, John	Winger	
-										
-COLE, John	Inside Forward	
-										
-DORSETT, George	Winger	
-										
-ELMORE, George	Inside Forward	
-										
-FARRINGTON, Samuel	Centre Forward	
-										
-FERN, Will	Winger	
-										
-HADLEY, Harry	Wing Half	
-										
-HARPER, Billy	Winger	
-										
-HOBSON, Fred	Centre Forward	
-										
-JONES, Harry	Goalkeeper	
-										
-KIFFORD, Jackie	Full Back	
-										
-LEE, Billy	Centre Forward	
-										
-LOWE, Joseph	Goalkeeper	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-NURSE, Dan	Wing Half	
-										
-RANDLE, Arthur	Wing Half	
-										
-SIMMONS, Charlie 'Chippy'	Inside Forward	
-										
-SMITH, Andrew	Centre Forward	
-										
-SMITH, Ted	Inside Forward	
-										
-SMITH, Billy	Inside Forward	
-										
-STEVENSON, Jim	Centre Half	
-										
-TAYLOR, Oliver	Goalkeeper	
-										
-WEBB, Ike	Goalkeeper	
-										
-WORTON, Tommy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Amos ",Full Back,31,0,0,2,0,0,0,0,0
+,"BRITTAIN, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"BUCK, Fred ",Inside Forward,13,4,0,1,0,0,0,0,0
+,"CHADBURN, John ",Winger,3,0,0,0,0,0,0,0,0
+,"COLE, John ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"DORSETT, George ",Winger,32,7,0,2,0,0,0,0,0
+,"ELMORE, George ",Inside Forward,3,1,0,1,0,0,0,0,0
+,"FARRINGTON, Samuel ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"FERN, Will ",Winger,0,0,0,0,0,0,0,0,0
+,"HADLEY, Harry ",Wing Half,32,0,0,2,0,0,0,0,0
+,"HARPER, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"HOBSON, Fred ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"JONES, Harry ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"KIFFORD, Jackie ",Full Back,33,7,6,2,0,0,0,0,0
+,"LEE, Billy ",Centre Forward,32,10,0,2,0,0,0,0,0
+,"LOWE, Joseph ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,25,4,0,2,0,0,0,0,0
+,"NURSE, Dan ",Wing Half,32,0,0,2,0,0,0,0,0
+,"RANDLE, Arthur ",Wing Half,4,0,0,0,0,0,0,0,0
+,"SIMMONS, Charlie 'Chippy' ",Inside Forward,23,9,0,0,0,0,0,0,0
+,"SMITH, Andrew ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"SMITH, Ted ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"SMITH, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"STEVENSON, Jim ",Centre Half,34,3,0,2,0,0,0,0,0
+,"TAYLOR, Oliver ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"WEBB, Ike ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"WORTON, Tommy ",Inside Forward,26,3,0,2,0,0,0,0,0

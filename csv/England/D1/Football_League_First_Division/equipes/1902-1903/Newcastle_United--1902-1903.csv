@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AGNEW, William	Full Back	
-										
-AITKEN, Andy	Centre Half	
-										
-APPLEYARD, Bill	Centre Forward	
-										
-BENNIE, Bob	Full Back	
-										
-BENSON, Bob	Full Back	
-										
-BIRNIE, Ted	Wing Half	
-										
-CAIE, Alex	Wing Half	
-										
-CARR, Jack	Wing Half	
-										
-DAVIDSON, Tommy	Full Back	
-										
-DAYKIN, Tom	Full Back	
-										
-GARDNER, Alec	Wing Half	
-										
-GARDNER, Andy	Winger	
-										
-GRAHAM, Sam	Winger	
-										
-GULLEN, George	Inside Forward	
-										
-HARMSWORTH, Fred	Wing Half	
-										
-KINGSLEY, Matt	Goalkeeper	
-										
-MCCOLL, Bob	Inside Forward	
-										
-MCINTYRE, Teddy	Wing Half	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-ORR, Ronald	Inside Forward	
-										
-RICHARDSON, Ord	Inside Forward	
-										
-ROBERTS, Richard	Winger	
-										
-RUTHERFORD, Jock	Winger	
-										
-STENHOUSE, Harry	Winger	
-										
-STEWART, Willie	Winger	
-										
-TEMPLETON, Bobby	Winger	
-										
-TURNER, Archie	Winger	
-										
-VEITCH, Colin	Centre Half	
-										
-WATSON, Jock	Full Back	
-										
-WATTS, Charlie	Goalkeeper	
-										
-WILSON, Billy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AGNEW, William ",Full Back,34,0,0,1,0,0,0,0,0
+,"AITKEN, Andy ",Centre Half,32,0,0,1,0,0,0,0,0
+,"APPLEYARD, Bill ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BENNIE, Bob ",Full Back,5,0,0,0,0,0,0,0,0
+,"BENSON, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"BIRNIE, Ted ",Wing Half,6,0,0,0,0,0,0,0,0
+,"CAIE, Alex ",Wing Half,10,1,0,0,0,0,0,0,0
+,"CARR, Jack ",Wing Half,31,2,0,1,0,0,0,0,0
+,"DAVIDSON, Tommy ",Full Back,12,0,0,1,0,0,0,0,0
+,"DAYKIN, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,26,5,0,1,0,0,0,0,0
+,"GARDNER, Andy ",Winger,9,3,0,1,0,0,0,0,0
+,"GRAHAM, Sam ",Winger,2,0,0,0,0,0,0,0,0
+,"GULLEN, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARMSWORTH, Fred ",Wing Half,0,0,0,0,0,0,0,0,0
+,"KINGSLEY, Matt ",Goalkeeper,31,0,0,1,0,0,0,0,0
+,"MCCOLL, Bob ",Inside Forward,29,9,0,1,1,0,0,0,0
+,"MCINTYRE, Teddy ",Wing Half,3,1,1,0,0,0,0,0,0
+,"MCWILLIAM, Peter ",Wing Half,7,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,23,5,0,1,0,0,0,0,0
+,"RICHARDSON, Ord ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Richard ",Winger,21,5,0,1,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,22,6,0,0,0,0,0,0,0
+,"STENHOUSE, Harry ",Winger,6,0,0,0,0,0,0,0,0
+,"STEWART, Willie ",Winger,12,2,0,0,0,0,0,0,0
+,"TEMPLETON, Bobby ",Winger,10,1,0,0,0,0,0,0,0
+,"TURNER, Archie ",Winger,12,1,0,0,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,17,0,0,1,0,0,0,0,0
+,"WATSON, Jock ",Full Back,3,0,0,0,0,0,0,0,0
+,"WATTS, Charlie ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WILSON, Billy ",Full Back,4,0,0,0,0,0,0,0,0

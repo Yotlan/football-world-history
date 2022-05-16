@@ -1,43 +1,21 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARCHER, Bill	Wing Half	
-										
-BERRY, John	Inside Forward	
-										
-BOOTH, George	Centre Forward	
-										
-GRAY, Tom	Inside Forward	
-										
-JOHNSTON, John	Wing Half	
-										
-LAMBERTON, George	Inside Forward	
-										
-LEEMING, Joe	Full Back	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MCEWEN, Jimmy 'Punch'	Full Back	
-										
-MILLS, Joe	Wing Half	
-										
-MONTEITH, Hugh	Goalkeeper	
-										
-MONTGOMERY, Archie	Goalkeeper	
-										
-PLANT, Jack	Winger	
-										
-RICHARDS, Billy	Winger	
-										
-ROSS, George	Wing Half	
-										
-SAGAR, Charles	Inside Forward	
-										
-STOREY, George	Centre Forward	
-										
-THORPE, Frank	Centre Half	
-										
-WOOD, Billy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARCHER, Bill ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BERRY, John ",Inside Forward,6,2,0,1,0,0,0,0,0
+,"BOOTH, George ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"GRAY, Tom ",Inside Forward,16,3,0,0,0,0,0,0,0
+,"JOHNSTON, John ",Wing Half,33,1,0,5,0,0,0,0,0
+,"LAMBERTON, George ",Inside Forward,6,0,0,1,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,17,6,0,4,2,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,34,2,2,5,1,1,0,0,0
+,"MCEWEN, Jimmy 'Punch' ",Full Back,34,0,0,5,0,0,0,0,0
+,"MILLS, Joe ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MONTEITH, Hugh ",Goalkeeper,30,0,0,4,0,0,0,0,0
+,"MONTGOMERY, Archie ",Goalkeeper,4,0,0,1,0,0,0,0,0
+,"PLANT, Jack ",Winger,34,2,0,5,2,0,0,0,0
+,"RICHARDS, Billy ",Winger,33,6,0,5,2,0,0,0,0
+,"ROSS, George ",Wing Half,33,1,0,5,1,0,0,0,0
+,"SAGAR, Charles ",Inside Forward,25,13,0,5,3,0,0,0,0
+,"STOREY, George ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"THORPE, Frank ",Centre Half,27,1,0,5,0,0,0,0,0
+,"WOOD, Billy ",Inside Forward,32,13,0,4,1,0,0,0,0

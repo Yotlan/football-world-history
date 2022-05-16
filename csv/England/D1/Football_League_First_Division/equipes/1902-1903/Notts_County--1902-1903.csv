@@ -1,41 +1,20 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BULL, Walter	Centre Half	
-										
-GEE, Ellis	Winger	
-										
-GREEN, Arthur	Centre Forward	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-INNES, Bob	Wing Half	
-										
-JOYNES, Dickie	Winger	
-										
-KIRK, James	Full Back	
-										
-MAINMAN, Harry	Centre Half	
-										
-MCDONALD, Ted	Wing Half	
-										
-MCINTYRE, Jimmy	Inside Forward	
-										
-MELLORS, Mark	Goalkeeper	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MORRIS, Jack	Inside Forward	
-										
-PENNINGTON, Harry	Goalkeeper	
-										
-PRESCOTT, Tom	Full Back	
-										
-ROSS, William	Winger	
-										
-SWIFT, George	Full Back	
-										
-WHYTE, Peter	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BULL, Walter ",Centre Half,33,2,0,4,0,0,0,0,0
+,"GEE, Ellis ",Winger,24,1,0,5,2,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,32,14,3,5,2,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,33,14,0,4,2,0,0,0,0
+,"INNES, Bob ",Wing Half,19,0,0,2,0,0,0,0,0
+,"JOYNES, Dickie ",Winger,31,1,0,1,0,0,0,0,0
+,"KIRK, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"MAINMAN, Harry ",Centre Half,25,0,0,4,0,0,0,0,0
+,"MCDONALD, Ted ",Wing Half,28,0,0,5,0,0,0,0,0
+,"MCINTYRE, Jimmy ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,21,0,0,5,0,0,0,0,0
+,"MORRIS, Jack ",Inside Forward,11,2,0,2,0,0,0,0,0
+,"PENNINGTON, Harry ",Goalkeeper,32,0,0,5,0,0,0,0,0
+,"PRESCOTT, Tom ",Full Back,27,0,0,5,0,0,0,0,0
+,"ROSS, William ",Winger,27,4,0,4,0,0,0,0,0
+,"SWIFT, George ",Full Back,16,0,0,0,0,0,0,0,0
+,"WHYTE, Peter ",Winger,3,0,0,4,0,0,0,0,0

@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Walter	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BALMER, Billy	Full Back	
-										
-BELL, Jack	Inside Forward	
-										
-BOOTH, Tom	Centre Half	
-										
-BOWMAN, Adam	Inside Forward	
-										
-BREARLEY, John	Inside Forward	
-										
-CLARK, Charles	Centre Half	
-										
-CRELLEY, Jack	Full Back	
-										
-DILLY, Tommy	Winger	
-										
-HENDERSON, Bill	Full Back	
-										
-KITCHEN, George	Goalkeeper	
-										
-LEE, Jack	Full Back	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MONKS, Albert	Inside Forward	
-										
-O'HAGAN, Charlie	Inside Forward	
-										
-RANKIN, Bruce	Winger	
-										
-RUSSELL, John	Centre Half	
-										
-SETTLE, Jimmy	Inside Forward	
-										
-SHARP, Jack	Winger	
-										
-SHERIDAN, Jimmy	Inside Forward	
-										
-TAYLOR, Jack	Centre Half	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WOLSTENHOLME, Sam	Wing Half	
-										
-YOUNG, Sandy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Walter ",Wing Half,33,4,0,3,2,0,0,0,0
+,"BALMER, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"BALMER, Billy ",Full Back,28,0,0,3,0,0,0,0,0
+,"BELL, Jack ",Inside Forward,23,5,0,3,2,0,0,0,0
+,"BOOTH, Tom ",Centre Half,29,2,0,3,1,1,0,0,0
+,"BOWMAN, Adam ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"BREARLEY, John ",Inside Forward,22,7,0,2,1,0,0,0,0
+,"CLARK, Charles ",Centre Half,3,1,0,1,0,0,0,0,0
+,"CRELLEY, Jack ",Full Back,18,0,0,1,0,0,0,0,0
+,"DILLY, Tommy ",Winger,6,0,0,0,0,0,0,0,0
+,"HENDERSON, Bill ",Full Back,13,0,0,2,0,0,0,0,0
+,"KITCHEN, George ",Goalkeeper,26,0,0,0,0,0,0,0,0
+,"LEE, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,3,0,0,1,0,0,0,0,0
+,"MONKS, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"O'HAGAN, Charlie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RANKIN, Bruce ",Winger,13,2,0,1,0,0,0,0,0
+,"RUSSELL, John ",Centre Half,3,0,0,0,0,0,0,0,0
+,"SETTLE, Jimmy ",Inside Forward,20,5,1,2,0,0,0,0,0
+,"SHARP, Jack ",Winger,27,6,0,2,1,0,0,0,0
+,"SHERIDAN, Jimmy ",Inside Forward,17,2,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,33,3,0,3,1,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,8,0,0,3,0,0,0,0,0
+,"WOLSTENHOLME, Sam ",Wing Half,22,1,0,2,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,19,5,0,1,0,0,0,0,0

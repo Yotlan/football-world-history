@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROUGHTON, Matt	Winger	
-										
-CALVEY, Jack	Inside Forward	
-										
-CRAIG, Charlie	Full Back	
-										
-CRAWFORD, John	Centre Half	
-										
-DUDLEY, Walter	Full Back	
-										
-FIELDING, Ross	Winger	
-										
-FORMAN, Frank	Wing Half	
-										
-FORMAN, Fred	Winger	
-										
-FORMAN, Tom	Winger	
-										
-GARA, Andy	Inside Forward	
-										
-HENDERSON, George	Wing Half	
-										
-IREMONGER, Jim	Full Back	
-										
-LINACRE, Harry	Goalkeeper	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEWBIGGING, Sandy	Goalkeeper	
-										
-NORRIS, Bob	Wing Half	
-										
-ROBERTS, Tom	Inside Forward	
-										
-ROBINSON, George	Wing Half	
-										
-SPOUNCER, Alf	Winger	
-										
-STEVENSON, Jim	Inside Forward	
-										
-SUGDEN, Syd	Centre Forward	
-										
-TIMMINS, Sammy	Wing Half	
-										
-TURNER, Alf	Winger	
-										
-WARREN, Fred	Centre Half	
-										
-WHITE, John	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROUGHTON, Matt ",Winger,11,1,0,1,0,0,0,0,0
+,"CALVEY, Jack ",Inside Forward,29,4,0,4,2,0,0,0,0
+,"CRAIG, Charlie ",Full Back,31,0,0,4,0,0,0,0,0
+,"CRAWFORD, John ",Centre Half,3,0,0,0,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,1,0,0,0,0,0,0,0,0
+,"FIELDING, Ross ",Winger,10,0,0,0,0,0,0,0,0
+,"FORMAN, Frank ",Wing Half,25,2,0,4,0,0,0,0,0
+,"FORMAN, Fred ",Winger,18,3,0,3,1,0,0,0,0
+,"FORMAN, Tom ",Winger,1,0,0,0,0,0,0,0,0
+,"GARA, Andy ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"HENDERSON, George ",Wing Half,23,0,0,4,0,0,0,0,0
+,"IREMONGER, Jim ",Full Back,34,1,1,4,1,1,0,0,0
+,"LINACRE, Harry ",Goalkeeper,33,0,0,4,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,33,25,0,4,2,0,0,0,0
+,"NEWBIGGING, Sandy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"NORRIS, Bob ",Wing Half,23,0,0,4,0,0,0,0,0
+,"ROBERTS, Tom ",Inside Forward,4,0,0,1,0,0,0,0,0
+,"ROBINSON, George ",Wing Half,12,0,0,0,0,0,0,0,0
+,"SPOUNCER, Alf ",Winger,26,4,0,4,0,0,0,0,0
+,"STEVENSON, Jim ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"SUGDEN, Syd ",Centre Forward,8,2,0,0,0,0,0,0,0
+,"TIMMINS, Sammy ",Wing Half,19,3,0,3,0,0,0,0,0
+,"TURNER, Alf ",Winger,6,0,0,0,0,0,0,0,0
+,"WARREN, Fred ",Centre Half,8,1,0,0,0,0,0,0,0
+,"WHITE, John ",Full Back,3,0,0,0,0,0,0,0,0

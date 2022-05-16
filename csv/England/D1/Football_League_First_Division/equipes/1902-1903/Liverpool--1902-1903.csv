@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CARLIN, Jack	Inside Forward	
-										
-CHADWICK, Edgar	Inside Forward	
-										
-COX, Jack	Winger	
-										
-DAVIES, Jack	Inside Forward	
-										
-DUNLOP, Billy	Full Back	
-										
-FLEMING, George	Wing Half	
-										
-GLOVER, John	Full Back	
-										
-GODDARD, Arthur	Winger	
-										
-GOLDIE, Billy	Wing Half	
-										
-GREEN, Tommy	Winger	
-										
-HOPKINS, Jack	Winger	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MCCALLUM, Donald	Full Back	
-										
-MORRIS, Dickie	Inside Forward	
-										
-PARRY, Maurice	Wing Half	
-										
-PERKINS, Bill	Goalkeeper	
-										
-PLATT, Peter	Goalkeeper	
-										
-RAISBECK, Andrew	Wing Half	
-										
-RAISBECK, Alex	Centre Half	
-										
-RAYBOULD, Sam	Centre Forward	
-										
-WADDINGTON, John	Winger	
-										
-WILSON, Charlie	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CARLIN, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CHADWICK, Edgar ",Inside Forward,29,7,0,1,0,0,0,0,0
+,"COX, Jack ",Winger,29,9,0,1,0,0,0,0,0
+,"DAVIES, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"DUNLOP, Billy ",Full Back,28,0,0,1,0,0,0,0,0
+,"FLEMING, George ",Wing Half,4,0,0,0,0,0,0,0,0
+,"GLOVER, John ",Full Back,30,0,0,1,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,33,11,0,1,0,0,0,0,0
+,"GOLDIE, Billy ",Wing Half,34,1,0,1,0,0,0,0,0
+,"GREEN, Tommy ",Winger,3,1,0,0,0,0,0,0,0
+,"HOPKINS, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,31,4,0,1,0,0,0,0,0
+,"MCCALLUM, Donald ",Full Back,2,0,0,0,0,0,0,0,0
+,"MORRIS, Dickie ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"PARRY, Maurice ",Wing Half,31,0,0,1,0,0,0,0,0
+,"PERKINS, Bill ",Goalkeeper,12,0,0,1,0,0,0,0,0
+,"PLATT, Peter ",Goalkeeper,22,0,0,0,0,0,0,0,0
+,"RAISBECK, Andrew ",Wing Half,0,0,0,0,0,0,0,0,0
+,"RAISBECK, Alex ",Centre Half,27,1,0,1,0,0,0,0,0
+,"RAYBOULD, Sam ",Centre Forward,33,31,5,1,1,0,0,0,0
+,"WADDINGTON, John ",Winger,0,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Wing Half,12,2,0,0,0,0,0,0,0

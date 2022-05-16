@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRCHALL, Jack	Wing Half	
-										
-BLACKBURN, Fred	Winger	
-										
-BOW, William	Inside Forward	
-										
-BOWMAN, Adam	Inside Forward	
-										
-CARTHY, John	Centre Forward	
-										
-CROMPTON, Bob	Full Back	
-										
-DERBYSHIRE, James	Full Back	
-										
-DEWHURST, Jack	Centre Half	
-										
-EASTHAM, Jack	Full Back	
-										
-HAWORTH, Bob	Centre Half	
-										
-HEATON, Sydney	Centre Forward	
-										
-HINDLE, Harry	Centre Half	
-										
-JONES, Thomas	Wing Half	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-KAY, Tom	Inside Forward	
-										
-LOGAN, Neil	Centre Half	
-										
-MCCLURE, Sammy	Centre Half	
-										
-MCIVER, Willie	Goalkeeper	
-										
-MONKS, Albert	Inside Forward	
-										
-MORGAN, Hugh	Inside Forward	
-										
-RILEY, Tom	Full Back	
-										
-ROBERTSON, George	Wing Half	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-SWARBRICK, Jimmy	Winger	
-										
-WATSON, Lionel	Inside Forward	
-										
-WHITTAKER, Arnie	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRCHALL, Jack ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BLACKBURN, Fred ",Winger,26,3,0,2,0,0,0,0,0
+,"BOW, William ",Inside Forward,18,2,0,3,0,0,0,0,0
+,"BOWMAN, Adam ",Inside Forward,7,5,0,0,0,0,0,0,0
+,"CARTHY, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,28,0,0,3,0,0,0,0,0
+,"DERBYSHIRE, James ",Full Back,11,0,0,0,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,33,6,0,3,0,0,0,0,0
+,"EASTHAM, Jack ",Full Back,22,0,0,3,0,0,0,0,0
+,"HAWORTH, Bob ",Centre Half,7,0,0,0,0,0,0,0,0
+,"HEATON, Sydney ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HINDLE, Harry ",Centre Half,1,0,0,0,0,0,0,0,0
+,"JONES, Thomas ",Wing Half,11,0,0,1,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LOGAN, Neil ",Centre Half,22,2,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,33,4,0,3,0,0,0,0,0
+,"MCIVER, Willie ",Goalkeeper,20,0,0,3,0,0,0,0,0
+,"MONKS, Albert ",Inside Forward,19,4,0,3,1,0,0,0,0
+,"MORGAN, Hugh ",Inside Forward,23,5,0,0,0,0,0,0,0
+,"RILEY, Tom ",Full Back,5,0,0,0,0,0,0,0,0
+,"ROBERTSON, George ",Wing Half,10,1,0,3,0,0,0,0,0
+,"SHEPHERD, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SWARBRICK, Jimmy ",Winger,13,0,0,1,0,0,0,0,0
+,"WATSON, Lionel ",Inside Forward,9,1,0,2,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,33,10,4,3,0,0,0,0,0

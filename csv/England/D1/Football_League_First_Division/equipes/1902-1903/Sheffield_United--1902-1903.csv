@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENNETT, Tom	Winger	
-										
-BENNETT, Walter	Winger	
-										
-BOYLE, Peter	Full Back	
-										
-BROWN, Arthur	Centre Forward	
-										
-CHAPMAN, Herbert	Inside Forward	
-										
-CLARKE, William	Full Back	
-										
-COMMON, Alf	Inside Forward	
-										
-DONNELLY, Jimmy	Winger	
-										
-FOULKE, Willie	Goalkeeper	
-										
-HEDLEY, George	Centre Forward	
-										
-HEELEY, Charles	Full Back	
-										
-JOHNSON, Harry	Wing Half	
-										
-LANG, Johnny	Winger	
-										
-LIPSHAM, Bert	Winger	
-										
-MILNES, Fred	Full Back	
-										
-MORREN, Tom	Centre Half	
-										
-NEEDHAM, Archie	Inside Forward	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-PARKER, Billy	Wing Half	
-										
-PRIEST, Fred	Winger	
-										
-TALBOT-LEWIS, Albert	Goalkeeper	
-										
-THICKETT, Harry	Full Back	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WILKINSON, Billy	Wing Half	
-										
-WINTERHALDER, Herbert	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENNETT, Tom ",Winger,2,0,0,0,0,0,0,0,0
+,"BENNETT, Walter ",Winger,20,4,0,2,0,0,0,0,0
+,"BOYLE, Peter ",Full Back,26,0,0,2,0,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,14,8,0,0,0,0,0,0,0
+,"CHAPMAN, Herbert ",Inside Forward,21,2,0,1,0,0,0,0,0
+,"CLARKE, William ",Full Back,2,0,0,0,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,18,8,0,0,0,0,0,0,0
+,"DONNELLY, Jimmy ",Winger,6,3,0,0,0,0,0,0,0
+,"FOULKE, Willie ",Goalkeeper,25,0,0,0,0,0,0,0,0
+,"HEDLEY, George ",Centre Forward,10,2,0,2,1,0,0,0,0
+,"HEELEY, Charles ",Full Back,1,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Wing Half,30,0,0,2,0,0,0,0,0
+,"LANG, Johnny ",Winger,2,0,0,0,0,0,0,0,0
+,"LIPSHAM, Bert ",Winger,24,7,0,2,0,0,0,0,0
+,"MILNES, Fred ",Full Back,5,0,0,0,0,0,0,0,0
+,"MORREN, Tom ",Centre Half,3,0,0,1,0,0,0,0,0
+,"NEEDHAM, Archie ",Inside Forward,9,4,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,26,1,1,1,1,0,0,0,0
+,"PARKER, Billy ",Wing Half,9,1,0,1,0,0,0,0,0
+,"PRIEST, Fred ",Winger,27,9,1,2,1,0,0,0,0
+,"TALBOT-LEWIS, Albert ",Goalkeeper,9,0,0,2,0,0,0,0,0
+,"THICKETT, Harry ",Full Back,33,0,0,2,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,33,0,0,2,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,8,5,0,0,0,0,0,0,0
+,"WINTERHALDER, Herbert ",Winger,11,2,0,0,0,0,0,0,0

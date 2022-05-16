@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1902/03
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANNISTER, Billy	Centre Half	
-										
-BELL, Laurie	Centre Forward	
-										
-BOYD, John	Wing Half	
-										
-BROOMFIELD, Herbert	Goalkeeper	
-										
-BROWN, William	Full Back	
-										
-DAVIES, Dai	Goalkeeper	
-										
-FREEBAIRN, Archie	Wing Half	
-										
-GREENHALGH, Sam	Centre Half	
-										
-GRIME, John	Goalkeeper	
-										
-HALLIDAY, Fred	Full Back	
-										
-HANSON, Jimmy	Inside Forward	
-										
-KNOWLES, James	Inside Forward	
-										
-MARSH, Sam	Inside Forward	
-										
-MARSHALL, Thomas	Winger	
-										
-MCCAFFREY, Bill	Winger	
-										
-MCKAY, David	Inside Forward	
-										
-MCKIE, James	Centre Forward	
-										
-MCWILLIAMS, Patrick	Full Back	
-										
-MORGAN, Billy	Wing Half	
-										
-OSTICK, Charlie	Full Back	
-										
-PICKEN, John	Inside Forward	
-										
-ROBINSON, William	Centre Half	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-STOKES, David	Winger	
-										
-STRANG, Thomas	Inside Forward	
-										
-STRUTHERS, Bob	Full Back	
-										
-TAYLOR, Bob	Winger	
-										
-THOMPSON, Fred	Goalkeeper	
-										
-TRACEY, William	Winger	
-										
-WHITE, Wattie	Inside Forward	
-										
-WILLIAMS, Harry	Winger	
-										
-WRIGHT, Jocky	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANNISTER, Billy ",Centre Half,10,1,0,0,0,0,0,0,0
+,"BELL, Laurie ",Centre Forward,13,4,0,0,0,0,0,0,0
+,"BOYD, John ",Wing Half,20,0,0,1,0,0,0,0,0
+,"BROOMFIELD, Herbert ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"BROWN, William ",Full Back,24,0,0,0,0,0,0,0,0
+,"DAVIES, Dai ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"FREEBAIRN, Archie ",Wing Half,23,1,0,1,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,30,1,0,1,0,0,0,0,0
+,"GRIME, John ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"HALLIDAY, Fred ",Full Back,11,0,0,1,0,0,0,0,0
+,"HANSON, Jimmy ",Inside Forward,18,2,0,1,0,0,0,0,0
+,"KNOWLES, James ",Inside Forward,3,3,0,0,0,0,0,0,0
+,"MARSH, Sam ",Inside Forward,15,9,0,1,0,0,0,0,0
+,"MARSHALL, Thomas ",Winger,3,0,0,0,0,0,0,0,0
+,"MCCAFFREY, Bill ",Winger,8,0,0,0,0,0,0,0,0
+,"MCKAY, David ",Inside Forward,7,0,0,1,0,0,0,0,0
+,"MCKIE, James ",Centre Forward,15,3,0,0,0,0,0,0,0
+,"MCWILLIAMS, Patrick ",Full Back,1,0,0,0,0,0,0,0,0
+,"MORGAN, Billy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"OSTICK, Charlie ",Full Back,8,0,0,0,0,0,0,0,0
+,"PICKEN, John ",Inside Forward,10,0,0,0,0,0,0,0,0
+,"ROBINSON, William ",Centre Half,0,0,0,0,0,0,0,0,0
+,"SHEPHERD, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"STOKES, David ",Winger,16,3,0,0,0,0,0,0,0
+,"STRANG, Thomas ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"STRUTHERS, Bob ",Full Back,24,0,0,1,0,0,0,0,0
+,"TAYLOR, Bob ",Winger,22,5,0,1,0,0,0,0,0
+,"THOMPSON, Fred ",Goalkeeper,20,0,0,1,0,0,0,0,0
+,"TRACEY, William ",Winger,12,2,0,0,0,0,0,0,0
+,"WHITE, Wattie ",Inside Forward,21,3,0,1,0,0,0,0,0
+,"WILLIAMS, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Jocky ",Inside Forward,19,0,0,0,0,0,0,0,0
