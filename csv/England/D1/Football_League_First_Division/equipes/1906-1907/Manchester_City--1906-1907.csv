@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALDWIN, Walter	Centre Forward	
-										
-BANKS, Willie	Wing Half	
-										
-BLAIR, Jimmy	Wing Half	
-										
-BLEW, Horace	Full Back	
-										
-BUCHAN, James	Wing Half	
-										
-CHRISTIE, John	Full Back	
-										
-CONLIN, Jimmy	Winger	
-										
-CRUMP, Arthur	Full Back	
-										
-DAVIES, Frank	Goalkeeper	
-										
-DORSETT, George	Winger	
-										
-EADIE, Bill	Centre Half	
-										
-EYRES, Samuel	Centre Forward	
-										
-FARRELL, Thomas	Inside Forward	
-										
-FISHER, Albert	Inside Forward	
-										
-GRIEVE, Bob	Inside Forward	
-										
-HALL, Jack	Goalkeeper	
-										
-HAMBLETT, George	Centre Half	
-										
-HILL, Percy	Full Back	
-										
-JONES, Lot	Inside Forward	
-										
-KELSO, Tommy	Full Back	
-										
-MCOUSTRA, Willie	Wing Half	
-										
-NORGROVE, Frank	Full Back	
-										
-RANKIN, Bruce	Winger	
-										
-ROSS, Davie	Inside Forward	
-										
-SMITH, Walter	Goalkeeper	
-										
-STEEL, Alex	Wing Half	
-										
-STEWART, George	Winger	
-										
-THORNLEY, Irvine	Centre Forward	
-										
-WILKINSON, John	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALDWIN, Walter ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BANKS, Willie ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BLAIR, Jimmy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BLEW, Horace ",Full Back,1,0,0,0,0,0,0,0,0
+,"BUCHAN, James ",Wing Half,28,0,0,2,0,0,0,0,0
+,"CHRISTIE, John ",Full Back,4,0,0,0,0,0,0,0,0
+,"CONLIN, Jimmy ",Winger,35,2,0,2,0,0,0,0,0
+,"CRUMP, Arthur ",Full Back,0,0,0,0,0,0,0,0,0
+,"DAVIES, Frank ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"DORSETT, George ",Winger,32,8,1,2,1,0,0,0,0
+,"EADIE, Bill ",Centre Half,31,0,0,2,0,0,0,0,0
+,"EYRES, Samuel ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"FARRELL, Thomas ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"FISHER, Albert ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"GRIEVE, Bob ",Inside Forward,19,6,0,0,0,0,0,0,0
+,"HALL, Jack ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"HAMBLETT, George ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HILL, Percy ",Full Back,21,0,0,2,0,0,0,0,0
+,"JONES, Lot ",Inside Forward,27,11,0,2,0,0,0,0,0
+,"KELSO, Tommy ",Full Back,24,0,0,0,0,0,0,0,0
+,"MCOUSTRA, Willie ",Wing Half,9,0,0,0,0,0,0,0,0
+,"NORGROVE, Frank ",Full Back,27,0,0,2,0,0,0,0,0
+,"RANKIN, Bruce ",Winger,2,0,0,0,0,0,0,0,0
+,"ROSS, Davie ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"SMITH, Walter ",Goalkeeper,22,0,0,2,0,0,0,0,0
+,"STEEL, Alex ",Wing Half,23,1,0,2,0,0,0,0,0
+,"STEWART, George ",Winger,36,8,0,2,0,0,0,0,0
+,"THORNLEY, Irvine ",Centre Forward,29,13,0,2,1,0,0,0,0
+,"WILKINSON, John ",Centre Half,2,0,0,0,0,0,0,0,0

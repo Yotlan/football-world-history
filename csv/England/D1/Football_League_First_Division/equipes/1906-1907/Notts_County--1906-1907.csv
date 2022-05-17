@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CHALMERS, Tommy	Centre Half	
-										
-CLAMP, Arthur	Centre Half	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-DEAN, Jerry	Winger	
-										
-EMBERTON, Teddy	Wing Half	
-										
-GEE, Ellis	Winger	
-										
-GREEN, Arthur	Centre Forward	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-HADLEY, Arthur	Winger	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JONES, Aaron	Centre Forward	
-										
-JONES, Albert	Full Back	
-										
-MAINMAN, Harry	Centre Half	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MORLEY, Bert	Full Back	
-										
-MOSLEY, Andrew	Full Back	
-										
-POPE, Frankie	Inside Forward	
-										
-POPPITT, Jimmy	Inside Forward	
-										
-SUTER, Bob	Goalkeeper	
-										
-TARPLIN, Walter	Inside Forward	
-										
-WATERALL, Ike	Winger	
-										
-WATERALL, Tommy	Winger	
-										
-WATTS, Thomas	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CHALMERS, Tommy ",Centre Half,12,0,0,1,0,0,0,0,0
+,"CLAMP, Arthur ",Centre Half,13,1,0,4,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,33,2,0,5,0,0,0,0,0
+,"DEAN, Jerry ",Winger,35,4,1,5,2,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,38,0,0,5,1,0,0,0,0
+,"GEE, Ellis ",Winger,26,6,1,2,0,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,11,2,0,0,0,0,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,29,0,0,5,0,0,0,0,0
+,"HADLEY, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,29,13,0,5,3,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,33,0,0,3,0,0,0,0,0
+,"JONES, Aaron ",Centre Forward,16,5,0,4,2,0,0,0,0
+,"JONES, Albert ",Full Back,16,0,0,0,0,0,0,0,0
+,"MAINMAN, Harry ",Centre Half,15,0,0,0,0,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,16,6,0,5,5,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,24,0,0,5,0,0,0,0,0
+,"MORLEY, Bert ",Full Back,10,0,0,0,0,0,0,0,0
+,"MOSLEY, Andrew ",Full Back,2,0,0,0,0,0,0,0,0
+,"POPE, Frankie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"POPPITT, Jimmy ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"SUTER, Bob ",Goalkeeper,4,0,0,2,0,0,0,0,0
+,"TARPLIN, Walter ",Inside Forward,27,3,0,1,0,0,0,0,0
+,"WATERALL, Ike ",Winger,6,0,0,0,0,0,0,0,0
+,"WATERALL, Tommy ",Winger,12,3,0,3,0,0,0,0,0
+,"WATTS, Thomas ",Centre Forward,3,0,0,0,0,0,0,0,0

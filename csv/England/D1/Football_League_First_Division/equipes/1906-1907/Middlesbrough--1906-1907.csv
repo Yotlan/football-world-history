@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy	Centre Half	
-										
-AITKEN, Sam	Wing Half	
-										
-BARKER, Fred	Full Back	
-										
-BARKER, Billy	Wing Half	
-										
-BLOOMER, Steve	Inside Forward	
-										
-BRAWN, Billy	Winger	
-										
-BROWN, Bobby	Full Back	
-										
-CAIL, Sammy	Centre Forward	
-										
-CAMPBELL, Alex	Full Back	
-										
-COMMON, Alf	Inside Forward	
-										
-GRIFFITHS, Fred	Goalkeeper	
-										
-HANLON, Eddie	Centre Half	
-										
-HARKINS, John	Wing Half	
-										
-HICKLING, Billy	Full Back	
-										
-MURRAY, Thomas	Inside Forward	
-										
-O'HAGAN, Charlie	Inside Forward	
-										
-PRESTON, William	Wing Half	
-										
-PRIEST, Fred	Winger	
-										
-RATCLIFFE, Jack	Full Back	
-										
-ROBERTS, William	Winger	
-										
-ROBERTS, William	Winger	
-										
-SHAND, Hector	Wing Half	
-										
-THACKERAY, Jim	Winger	
-										
-TILDESLEY, Jim	Full Back	
-										
-TOMLIN, Jack	Centre Half	
-										
-TUCKER, William	Centre Forward	
-										
-WATSON, Jimmy	Full Back	
-										
-WILCOX, Freddie	Inside Forward	
-										
-WILLIAMSON, Tim	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Centre Half,27,0,0,2,0,0,0,0,0
+,"AITKEN, Sam ",Wing Half,35,2,0,2,0,0,0,0,0
+,"BARKER, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"BARKER, Billy ",Wing Half,16,1,0,0,0,0,0,0,0
+,"BLOOMER, Steve ",Inside Forward,34,18,0,2,2,0,0,0,0
+,"BRAWN, Billy ",Winger,37,4,0,2,1,0,0,0,0
+,"BROWN, Bobby ",Full Back,5,0,0,0,0,0,0,0,0
+,"CAIL, Sammy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"CAMPBELL, Alex ",Full Back,24,0,0,2,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,29,12,2,2,1,0,0,0,0
+,"GRIFFITHS, Fred ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HANLON, Eddie ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HARKINS, John ",Wing Half,30,0,0,2,0,0,0,0,0
+,"HICKLING, Billy ",Full Back,5,0,0,0,0,0,0,0,0
+,"MURRAY, Thomas ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"O'HAGAN, Charlie ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"PRESTON, William ",Wing Half,1,0,0,0,0,0,0,0,0
+,"PRIEST, Fred ",Winger,13,0,0,0,0,0,0,0,0
+,"RATCLIFFE, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"ROBERTS, William ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBERTS, William ",Winger,3,0,0,0,0,0,0,0,0
+,"SHAND, Hector ",Wing Half,2,0,0,0,0,0,0,0,0
+,"THACKERAY, Jim ",Winger,28,4,0,2,0,0,0,0,0
+,"TILDESLEY, Jim ",Full Back,23,0,0,2,0,0,0,0,0
+,"TOMLIN, Jack ",Centre Half,4,0,0,0,0,0,0,0,0
+,"TUCKER, William ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,3,0,0,0,0,0,0,0,0
+,"WILCOX, Freddie ",Inside Forward,37,12,0,2,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,38,0,0,2,0,0,0,0,0

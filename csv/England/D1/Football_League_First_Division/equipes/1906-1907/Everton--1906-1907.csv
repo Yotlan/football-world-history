@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Walter	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BALMER, Billy	Full Back	
-										
-BLACK, William	Wing Half	
-										
-BOLTON, Hugh	Inside Forward	
-										
-BOOTH, Tom	Centre Half	
-										
-CHADWICK, Thomas	Centre Half	
-										
-COUPER, George	Winger	
-										
-CRELLEY, Jack	Full Back	
-										
-DEPLEDGE, Robert	Goalkeeper	
-										
-DONNACHIE, Joe	Winger	
-										
-GRAHAM, Bobby	Inside Forward	
-										
-HARDMAN, Harold	Winger	
-										
-HILL, Percy	Full Back	
-										
-JONES, Thomas	Centre Forward	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-ROUSE, Fred	Inside Forward	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SETTLE, Jimmy	Inside Forward	
-										
-SHARP, Jack	Winger	
-										
-SLOAN, Donald	Goalkeeper	
-										
-STEVENSON, Charles	Inside Forward	
-										
-STRETTLE, Sam	Full Back	
-										
-TAYLOR, Jack	Centre Half	
-										
-THOMAS, William	Inside Forward	
-										
-WILSON, David	Inside Forward	
-										
-WILSON, George	Winger	
-										
-YOUNG, Sandy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Walter ",Wing Half,26,4,1,7,1,0,0,0,0
+,"BALMER, Bob ",Full Back,25,0,0,8,0,0,0,0,0
+,"BALMER, Billy ",Full Back,33,0,0,8,0,0,0,0,0
+,"BLACK, William ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BOLTON, Hugh ",Inside Forward,31,13,0,2,0,0,0,0,0
+,"BOOTH, Tom ",Centre Half,14,1,0,0,0,0,0,0,0
+,"CHADWICK, Thomas ",Centre Half,10,0,0,1,0,0,0,0,0
+,"COUPER, George ",Winger,3,1,0,0,0,0,0,0,0
+,"CRELLEY, Jack ",Full Back,15,0,0,0,0,0,0,0,0
+,"DEPLEDGE, Robert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,13,0,0,2,0,0,0,0,0
+,"GRAHAM, Bobby ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HARDMAN, Harold ",Winger,19,3,0,7,1,0,0,0,0
+,"HILL, Percy ",Full Back,1,0,0,0,0,0,0,0,0
+,"JONES, Thomas ",Centre Forward,2,2,0,0,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,23,0,0,8,0,0,0,0,0
+,"ROUSE, Fred ",Inside Forward,6,1,0,1,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,35,0,0,8,0,0,0,0,0
+,"SETTLE, Jimmy ",Inside Forward,21,6,0,8,4,0,0,0,0
+,"SHARP, Jack ",Winger,27,7,3,6,3,0,0,0,0
+,"SLOAN, Donald ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"STEVENSON, Charles ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"STRETTLE, Sam ",Full Back,2,0,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,34,1,0,8,2,0,0,0,0
+,"THOMAS, William ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WILSON, David ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"WILSON, George ",Winger,28,3,0,6,1,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,33,28,0,8,1,0,0,0,0

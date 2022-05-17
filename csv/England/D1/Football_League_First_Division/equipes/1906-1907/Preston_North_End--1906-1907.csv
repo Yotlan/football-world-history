@@ -1,71 +1,35 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHTON, Herbert	Winger	
-										
-BARLOW, George	Winger	
-										
-BECTON, Martin	Winger	
-										
-BELL, Jack	Inside Forward	
-										
-BOND, Dickie	Winger	
-										
-BURTON, Jack	Inside Forward	
-										
-BUTLER, William	Full Back	
-										
-COOK, Walter	Full Back	
-										
-DANSON, Herbie	Winger	
-										
-DAWSON, Charlie	Winger	
-										
-DERBYSHIRE, Joe	Full Back	
-										
-FARRINGTON, George	Centre Forward	
-										
-GOODBURN, Harold	Winger	
-										
-HARTLEY, Percy	Wing Half	
-										
-HUNTER, John	Centre Half	
-										
-LAVERY, William	Full Back	
-										
-LOCKETT, Arthur	Winger	
-										
-LYON, Billy	Wing Half	
-										
-MANSFIELD, Eversley	Inside Forward	
-										
-MCBRIDE, Peter	Goalkeeper	
-										
-MCCALL, Joe	Centre Half	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-PEARSON, Harry	Centre Forward	
-										
-ROBERTS, Billy	Inside Forward	
-										
-RODWAY, Tommy	Full Back	
-										
-SANDERSON, William	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-STRINGFELLOW, Harry	Centre Half	
-										
-TAYLOR, Herbert	Goalkeeper	
-										
-TIERNEY, Herbert	Wing Half	
-										
-TOD, George	Wing Half	
-										
-WILSON, James	Inside Forward	
-										
-WINCHESTER, Jack	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHTON, Herbert ",Winger,2,0,0,0,0,0,0,0,0
+,"BARLOW, George ",Winger,1,1,0,0,0,0,0,0,0
+,"BECTON, Martin ",Winger,16,2,0,0,0,0,0,0,0
+,"BELL, Jack ",Inside Forward,26,1,0,1,0,0,0,0,0
+,"BOND, Dickie ",Winger,15,3,2,1,0,0,0,0,0
+,"BURTON, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BUTLER, William ",Full Back,3,0,0,0,0,0,0,0,0
+,"COOK, Walter ",Full Back,1,0,0,0,0,0,0,0,0
+,"DANSON, Herbie ",Winger,27,4,2,1,0,0,0,0,0
+,"DAWSON, Charlie ",Winger,24,11,0,1,0,0,0,0,0
+,"DERBYSHIRE, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"FARRINGTON, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"GOODBURN, Harold ",Winger,2,0,0,0,0,0,0,0,0
+,"HARTLEY, Percy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HUNTER, John ",Centre Half,37,1,0,1,0,0,0,0,0
+,"LAVERY, William ",Full Back,14,0,0,1,0,0,0,0,0
+,"LOCKETT, Arthur ",Winger,23,1,1,0,0,0,0,0,0
+,"LYON, Billy ",Wing Half,27,1,0,1,0,0,0,0,0
+,"MANSFIELD, Eversley ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCBRIDE, Peter ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,1,0,0,0,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,28,1,0,1,0,0,0,0,0
+,"PEARSON, Harry ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Billy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,30,1,1,1,0,0,0,0,0
+,"SANDERSON, William ",Winger,1,0,0,0,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,31,8,0,0,0,0,0,0,0
+,"STRINGFELLOW, Harry ",Centre Half,19,1,0,0,0,0,0,0,0
+,"TAYLOR, Herbert ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"TIERNEY, Herbert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"TOD, George ",Wing Half,9,0,0,0,0,0,0,0,0
+,"WILSON, James ",Inside Forward,34,7,0,1,0,0,0,0,0
+,"WINCHESTER, Jack ",Full Back,1,0,0,0,0,0,0,0,0

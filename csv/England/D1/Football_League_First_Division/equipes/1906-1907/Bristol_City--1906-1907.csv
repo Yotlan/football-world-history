@@ -1,41 +1,20 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANNAN, Archie	Full Back	
-										
-BENNETT, Walter	Winger	
-										
-BURTON, Andy	Inside Forward	
-										
-CLAY, Harry	Goalkeeper	
-										
-CONNELLY, Fred	Inside Forward	
-										
-COTTLE, Joe	Full Back	
-										
-DEMMERY, Bill	Goalkeeper	
-										
-FENTON, Freddie	Winger	
-										
-GALE, Tom	Full Back	
-										
-GILLIGAN, Sammy	Centre Forward	
-										
-HANLIN, Pat	Wing Half	
-										
-HILTON, Frank	Winger	
-										
-MARR, Reuben	Wing Half	
-										
-MAXWELL, Willie	Inside Forward	
-										
-SMITH, George	Winger	
-										
-SPEAR, Arthur	Wing Half	
-										
-STANIFORTH, Fred	Winger	
-										
-WEDLOCK, Billy	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANNAN, Archie ",Full Back,38,0,0,2,0,0,0,0,0
+,"BENNETT, Walter ",Winger,8,2,1,0,0,0,0,0,0
+,"BURTON, Andy ",Inside Forward,34,13,0,2,1,0,0,0,0
+,"CLAY, Harry ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"CONNELLY, Fred ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"COTTLE, Joe ",Full Back,37,0,0,2,0,0,0,0,0
+,"DEMMERY, Bill ",Goalkeeper,30,0,0,2,0,0,0,0,0
+,"FENTON, Freddie ",Winger,2,0,0,0,0,0,0,0,0
+,"GALE, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"GILLIGAN, Sammy ",Centre Forward,37,15,0,2,3,0,0,0,0
+,"HANLIN, Pat ",Wing Half,36,3,0,2,0,0,0,0,0
+,"HILTON, Frank ",Winger,32,4,0,2,0,0,0,0,0
+,"MARR, Reuben ",Wing Half,30,2,0,1,0,0,0,0,0
+,"MAXWELL, Willie ",Inside Forward,37,17,1,2,1,0,0,0,0
+,"SMITH, George ",Winger,11,2,0,0,0,0,0,0,0
+,"SPEAR, Arthur ",Wing Half,15,0,0,1,0,0,0,0,0
+,"STANIFORTH, Fred ",Winger,24,3,0,2,0,0,0,0,0
+,"WEDLOCK, Billy ",Centre Half,34,2,0,2,0,0,0,0,0

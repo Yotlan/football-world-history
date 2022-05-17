@@ -1,76 +1,37 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AINSWORTH, Charles	Winger	
-										
-BACHE, Joe	Inside Forward	
-										
-BODEN, John	Centre Half	
-										
-BUCKLEY, Chris	Centre Half	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CHAPPLE, Fred	Inside Forward	
-										
-CODLING, Rowland	Wing Half	
-										
-COOCH, Harry	Goalkeeper	
-										
-CORBETT, Watty	Full Back	
-										
-EVANS, Bobby	Winger	
-										
-GARRATY, Billy	Inside Forward	
-										
-GEORGE, Billy	Goalkeeper	
-										
-GREENHALGH, Sam	Centre Half	
-										
-HALL, Bert	Winger	
-										
-HALL, Proctor	Inside Forward	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HARRIS, George	Wing Half	
-										
-HIGGINS, Bernard	Inside Forward	
-										
-HITCHCOCK, Ernie	Inside Forward	
-										
-JONES, Ben	Centre Forward	
-										
-JONES, Tom	Full Back	
-										
-LEAKE, Alex	Centre Half	
-										
-LOGAN, Alec	Inside Forward	
-										
-LOGAN, James	Wing Half	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MILES, Alf	Full Back	
-										
-MILLINGTON, Charlie	Winger	
-										
-MURPHY, Neil	Winger	
-										
-PEARSON, Joe	Wing Half	
-										
-RILEY, Tom	Full Back	
-										
-SPENCER, Howard	Full Back	
-										
-TRANTER, George	Wing Half	
-										
-WALTERS, Joe	Inside Forward	
-										
-WILKES, Albert	Wing Half	
-										
-WINDMILL, Joseph	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AINSWORTH, Charles ",Winger,0,0,0,0,0,0,0,0,0
+,"BACHE, Joe ",Inside Forward,28,8,0,2,2,0,0,0,0
+,"BODEN, John ",Centre Half,8,0,0,0,0,0,0,0,0
+,"BUCKLEY, Chris ",Centre Half,20,1,0,2,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,23,12,0,2,1,0,0,0,0
+,"CHAPPLE, Fred ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"CODLING, Rowland ",Wing Half,34,0,0,2,0,0,0,0,0
+,"COOCH, Harry ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"CORBETT, Watty ",Full Back,8,0,0,0,0,0,0,0,0
+,"EVANS, Bobby ",Winger,9,3,0,1,0,0,0,0,0
+,"GARRATY, Billy ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"GEORGE, Billy ",Goalkeeper,36,0,0,2,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,30,1,0,2,0,0,0,0,0
+,"HALL, Bert ",Winger,26,12,2,1,0,0,0,0,0
+,"HALL, Proctor ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,29,21,2,1,0,0,0,0,0
+,"HARRIS, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HIGGINS, Bernard ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HITCHCOCK, Ernie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JONES, Ben ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"JONES, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"LEAKE, Alex ",Centre Half,11,0,0,1,0,0,0,0,0
+,"LOGAN, Alec ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"LOGAN, James ",Wing Half,28,0,0,2,0,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"MILES, Alf ",Full Back,30,0,0,1,0,0,0,0,0
+,"MILLINGTON, Charlie ",Winger,28,7,0,2,0,0,0,0,0
+,"MURPHY, Neil ",Winger,0,0,0,0,0,0,0,0,0
+,"PEARSON, Joe ",Wing Half,3,0,0,0,0,0,0,0,0
+,"RILEY, Tom ",Full Back,5,0,0,0,0,0,0,0,0
+,"SPENCER, Howard ",Full Back,9,0,0,0,0,0,0,0,0
+,"TRANTER, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WALTERS, Joe ",Inside Forward,26,6,0,1,0,0,0,0,0
+,"WILKES, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WINDMILL, Joseph ",Wing Half,1,0,0,0,0,0,0,0,0

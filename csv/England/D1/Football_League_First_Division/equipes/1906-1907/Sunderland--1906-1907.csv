@@ -1,66 +1,32 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Centre Forward	
-										
-BARRIE, Alex	Centre Half	
-										
-BELL, Ted	Full Back	
-										
-BRIDGETT, Arthur	Winger	
-										
-BROWN, Norman	Winger	
-										
-CARMICHAEL, Bob	Inside Forward	
-										
-CRAIG, Thomas	Full Back	
-										
-CURTIS, Jack	Winger	
-										
-DAYKIN, Tom	Full Back	
-										
-FARQUHAR, Billy	Wing Half	
-										
-FORSTER, Harry	Full Back	
-										
-GEMMELL, Jimmy	Inside Forward	
-										
-HALL, Matthew	Inside Forward	
-										
-HOGG, Billy	Winger	
-										
-HOLLEY, George	Inside Forward	
-										
-HUGGINS, Jack	Winger	
-										
-HURDMAN, Arthur	Winger	
-										
-LAW, John	Winger	
-										
-MCCONNELL, English	Centre Half	
-										
-MCGHIE, Joe	Centre Half	
-										
-MCINTOSH, Angus	Inside Forward	
-										
-METCALF, George	Wing Half	
-										
-NAISBY, Tom	Goalkeeper	
-										
-RAINE, Jim	Winger	
-										
-RHODES, Ephraim 'Dusty'	Full Back	
-										
-SHAW, Joe	Centre Forward	
-										
-TAIT, Tommy	Wing Half	
-										
-WARD, Bob	Goalkeeper	
-										
-WATSON, Jimmy	Full Back	
-										
-WILLIS, David	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BARRIE, Alex ",Centre Half,10,0,0,0,0,0,0,0,0
+,"BELL, Ted ",Full Back,1,0,0,0,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,37,25,2,5,1,0,0,0,0
+,"BROWN, Norman ",Winger,10,0,0,0,0,0,0,0,0
+,"CARMICHAEL, Bob ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CRAIG, Thomas ",Full Back,0,0,0,0,0,0,0,0,0
+,"CURTIS, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"DAYKIN, Tom ",Full Back,17,0,0,2,0,0,0,0,0
+,"FARQUHAR, Billy ",Wing Half,2,1,0,0,0,0,0,0,0
+,"FORSTER, Harry ",Full Back,4,0,0,0,0,0,0,0,0
+,"GEMMELL, Jimmy ",Inside Forward,30,4,0,5,0,0,0,0,0
+,"HALL, Matthew ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"HOGG, Billy ",Winger,30,8,0,3,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,15,5,0,4,0,0,0,0,0
+,"HUGGINS, Jack ",Winger,7,2,0,0,0,0,0,0,0
+,"HURDMAN, Arthur ",Winger,7,3,0,0,0,0,0,0,0
+,"LAW, John ",Winger,1,0,0,0,0,0,0,0,0
+,"MCCONNELL, English ",Centre Half,23,0,0,5,0,0,0,0,0
+,"MCGHIE, Joe ",Centre Half,25,0,0,5,0,0,0,0,0
+,"MCINTOSH, Angus ",Inside Forward,19,4,0,5,3,0,0,0,0
+,"METCALF, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"NAISBY, Tom ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"RAINE, Jim ",Winger,12,5,0,3,1,0,0,0,0
+,"RHODES, Ephraim 'Dusty' ",Full Back,35,2,2,4,0,0,0,0,0
+,"SHAW, Joe ",Centre Forward,14,5,0,0,0,0,0,0,0
+,"TAIT, Tommy ",Wing Half,36,1,0,5,0,0,0,0,0
+,"WARD, Bob ",Goalkeeper,35,0,0,5,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,21,0,0,4,0,0,0,0,0
+,"WILLIS, David ",Wing Half,13,0,0,0,0,0,0,0,0

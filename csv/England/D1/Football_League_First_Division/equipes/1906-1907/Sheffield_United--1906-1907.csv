@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENSON, Bob	Full Back	
-										
-BLUFF, Edgar	Inside Forward	
-										
-BROMAGE, Billy	Winger	
-										
-BROWN, Arthur	Centre Forward	
-										
-CROOT, Fred	Winger	
-										
-DONNELLY, Jimmy	Winger	
-										
-DRAKE, Alonzo	Inside Forward	
-										
-EADES, John	Full Back	
-										
-GROVES, Albert	Full Back	
-										
-JOHNSON, Charlie	Full Back	
-										
-JOHNSON, George	Winger	
-										
-JOHNSON, Harry	Wing Half	
-										
-LANG, Johnny	Winger	
-										
-LIEVESLEY, Joe	Goalkeeper	
-										
-LIPSHAM, Bert	Winger	
-										
-MCCORMICK, Jimmy	Wing Half	
-										
-MCGUIRE, James	Wing Half	
-										
-MCNAUGHT, Hugh	Full Back	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-PARKER, Billy	Wing Half	
-										
-PATON, Tom	Centre Forward	
-										
-PATTINSON, John	Winger	
-										
-THOMPSON, George	Winger	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WILKINSON, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENSON, Bob ",Full Back,37,1,1,1,0,0,0,0,0
+,"BLUFF, Edgar ",Inside Forward,31,11,0,1,0,0,0,0,0
+,"BROMAGE, Billy ",Winger,6,2,0,0,0,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,36,22,3,1,0,0,0,0,0
+,"CROOT, Fred ",Winger,7,0,0,1,0,0,0,0,0
+,"DONNELLY, Jimmy ",Winger,11,1,0,1,0,0,0,0,0
+,"DRAKE, Alonzo ",Inside Forward,26,3,0,0,0,0,0,0,0
+,"EADES, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"GROVES, Albert ",Full Back,2,0,0,0,0,0,0,0,0
+,"JOHNSON, Charlie ",Full Back,27,0,0,1,0,0,0,0,0
+,"JOHNSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Wing Half,7,0,0,0,0,0,0,0,0
+,"LANG, Johnny ",Winger,6,0,0,0,0,0,0,0,0
+,"LIEVESLEY, Joe ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"LIPSHAM, Bert ",Winger,29,5,0,0,0,0,0,0,0
+,"MCCORMICK, Jimmy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MCGUIRE, James ",Wing Half,28,1,0,1,0,0,0,0,0
+,"MCNAUGHT, Hugh ",Full Back,1,0,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,33,4,0,1,0,0,0,0,0
+,"PARKER, Billy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"PATON, Tom ",Centre Forward,17,5,0,0,0,0,0,0,0
+,"PATTINSON, John ",Winger,2,0,0,0,0,0,0,0,0
+,"THOMPSON, George ",Winger,15,1,0,0,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,37,1,0,1,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,12,0,0,1,0,0,0,0,0

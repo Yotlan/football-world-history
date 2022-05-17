@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Arthur	Winger	
-										
-BAGSHAW, Jimmy	Wing Half	
-										
-BENTLEY, Alf	Centre Forward	
-										
-CLEAVER, Fred	Centre Forward	
-										
-DAVIS, George	Winger	
-										
-DAVIS, Jack 'Pimmy'	Winger	
-										
-FLETCHER, Tommy	Inside Forward	
-										
-HALL, Ben	Centre Half	
-										
-HAYWOOD, Frederick	Centre Forward	
-										
-LAMB, Sammy	Winger	
-										
-LONG, Jimmy	Inside Forward	
-										
-MASKREY, Harry	Goalkeeper	
-										
-METHVEN, Jimmy	Full Back	
-										
-MOORE, William	Full Back	
-										
-MORRIS, Charlie	Full Back	
-										
-NICHOLAS, Jack	Full Back	
-										
-RANSFORD, James	Centre Forward	
-										
-RICHARDS, George	Wing Half	
-										
-SMITH, Herbert	Full Back	
-										
-SMITH, John	Goalkeeper	
-										
-VANN, Bernard	Centre Forward	
-										
-WARREN, Ben	Wing Half	
-										
-WARREN, Bob	Centre Forward	
-										
-WHEATCROFT, Freddy	Inside Forward	
-										
-WOOD, Alf	Centre Half	
-										
-WOOD, John	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Arthur ",Winger,2,1,0,0,0,0,0,0,0
+,"BAGSHAW, Jimmy ",Wing Half,20,0,0,1,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,11,4,0,4,2,0,0,0,0
+,"CLEAVER, Fred ",Centre Forward,2,0,0,1,0,0,0,0,0
+,"DAVIS, George ",Winger,32,8,0,4,0,0,0,0,0
+,"DAVIS, Jack 'Pimmy' ",Winger,36,4,0,5,0,0,0,0,0
+,"FLETCHER, Tommy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HALL, Ben ",Centre Half,32,1,0,5,0,0,0,0,0
+,"HAYWOOD, Frederick ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LAMB, Sammy ",Winger,6,0,0,1,0,0,0,0,0
+,"LONG, Jimmy ",Inside Forward,32,8,0,4,2,0,0,0,0
+,"MASKREY, Harry ",Goalkeeper,37,0,0,5,0,0,0,0,0
+,"METHVEN, Jimmy ",Full Back,3,0,0,2,0,0,0,0,0
+,"MOORE, William ",Full Back,7,0,0,0,0,0,0,0,0
+,"MORRIS, Charlie ",Full Back,29,1,0,4,1,1,0,0,0
+,"NICHOLAS, Jack ",Full Back,36,0,0,4,0,0,0,0,0
+,"RANSFORD, James ",Centre Forward,15,3,0,3,1,0,0,0,0
+,"RICHARDS, George ",Wing Half,11,1,0,0,0,0,0,0,0
+,"SMITH, Herbert ",Full Back,1,0,0,0,0,0,0,0,0
+,"SMITH, John ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"VANN, Bernard ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"WARREN, Ben ",Wing Half,34,3,3,5,0,0,0,0,0
+,"WARREN, Bob ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WHEATCROFT, Freddy ",Inside Forward,14,2,0,0,0,0,0,0,0
+,"WOOD, Alf ",Centre Half,26,0,0,4,1,0,0,0,0
+,"WOOD, John ",Inside Forward,26,5,0,3,0,0,0,0,0

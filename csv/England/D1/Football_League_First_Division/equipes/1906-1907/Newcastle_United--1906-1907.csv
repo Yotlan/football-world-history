@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy	Centre Half	
-										
-APPLEYARD, Bill	Centre Forward	
-										
-BLACKBURN, Robert	Winger	
-										
-BROWN, Harry	Inside Forward	
-										
-CARR, Jack	Wing Half	
-										
-DODDS, Jack	Winger	
-										
-DUFFY, Chris	Winger	
-										
-GARDNER, Alec	Wing Half	
-										
-GOSNELL, Bert	Winger	
-										
-HENDERSON, Crosby	Full Back	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-JOBEY, George	Wing Half	
-										
-KELSEY, Billy	Goalkeeper	
-										
-KIRKALDY, James	Wing Half	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LIDDELL, Bob	Wing Half	
-										
-MCCLARENCE, Joe	Inside Forward	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-NICHOLSON, Ben	Full Back	
-										
-ORR, Ronald	Inside Forward	
-										
-RUTHERFORD, Jock	Winger	
-										
-SINCLAIR, Thomas	Goalkeeper	
-										
-SOYE, Jimmy	Inside Forward	
-										
-SPEEDIE, Finlay	Inside Forward	
-										
-TOMAN, Wilf	Centre Forward	
-										
-VEITCH, Colin	Centre Half	
-										
-WALTON, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Centre Half,3,0,0,0,0,0,0,0,0
+,"APPLEYARD, Bill ",Centre Forward,23,17,0,0,0,0,1,1,0
+,"BLACKBURN, Robert ",Winger,3,0,0,0,0,0,0,0,0
+,"BROWN, Harry ",Inside Forward,22,8,0,0,0,0,1,2,0
+,"CARR, Jack ",Wing Half,26,0,0,0,0,0,1,0,0
+,"DODDS, Jack ",Winger,4,0,0,0,0,0,0,0,0
+,"DUFFY, Chris ",Winger,7,1,0,0,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,33,1,0,1,0,0,1,0,0
+,"GOSNELL, Bert ",Winger,26,3,0,1,0,0,1,0,0
+,"HENDERSON, Crosby ",Full Back,0,0,0,0,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,31,7,0,1,0,0,1,0,0
+,"JOBEY, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"KELSEY, Billy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"KIRKALDY, James ",Wing Half,3,1,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,33,0,0,1,0,0,1,0,0
+,"LIDDELL, Bob ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCCLARENCE, Joe ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,26,0,0,1,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,22,1,1,1,0,0,1,0,0
+,"MCWILLIAM, Peter ",Wing Half,32,2,0,1,0,0,1,0,0
+,"NICHOLSON, Ben ",Full Back,1,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,19,4,0,1,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,34,10,0,1,0,0,1,1,0
+,"SINCLAIR, Thomas ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"SOYE, Jimmy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SPEEDIE, Finlay ",Inside Forward,27,10,1,1,0,0,1,0,0
+,"TOMAN, Wilf ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,29,7,3,1,0,0,0,0,0
+,"WALTON, Bob ",Full Back,0,0,0,0,0,0,0,0,0

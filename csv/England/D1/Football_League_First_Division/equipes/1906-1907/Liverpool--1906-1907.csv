@@ -1,57 +1,28 @@
-- League --	--- FA Cup ---	---- Other ----
-
-1906/07
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLANTHORNE, Bob	Centre Forward	
-										
-BRADLEY, Jimmy	Wing Half	
-										
-CARLIN, Jack	Inside Forward	
-										
-CHORLTON, Tom	Full Back	
-										
-COX, Jack	Winger	
-										
-DOIG, Ned	Goalkeeper	
-										
-DUNLOP, Billy	Full Back	
-										
-GODDARD, Arthur	Winger	
-										
-GORMAN, Jimmy	Centre Half	
-										
-GRIFFITHS, Harry	Full Back	
-										
-HARDY, Sam	Goalkeeper	
-										
-HEWITT, Joe	Centre Forward	
-										
-HUGHES, Jimmy	Wing Half	
-										
-LATHAM, George	Wing Half	
-										
-LIPSHAM, Jack	Winger	
-										
-MCKENNA, John	Winger	
-										
-MCPHERSON, Billy	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PARRY, Maurice	Wing Half	
-										
-RAISBECK, Alex	Centre Half	
-										
-RANDLES, Robert	Inside Forward	
-										
-RAYBOULD, Sam	Centre Forward	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROGERS, Tom	Full Back	
-										
-SAUL, Percy	Full Back	
-										
-WEST, Alf	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLANTHORNE, Bob ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"BRADLEY, Jimmy ",Wing Half,36,1,0,4,0,0,0,0,0
+,"CARLIN, Jack ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"CHORLTON, Tom ",Full Back,14,0,0,1,0,0,0,0,0
+,"COX, Jack ",Winger,25,7,0,4,1,0,0,0,0
+,"DOIG, Ned ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"DUNLOP, Billy ",Full Back,23,0,0,4,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,35,3,0,4,0,0,0,0,0
+,"GORMAN, Jimmy ",Centre Half,9,0,0,3,0,0,0,0,0
+,"GRIFFITHS, Harry ",Full Back,4,0,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,34,0,0,4,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,23,7,0,0,0,0,0,0,0
+,"HUGHES, Jimmy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"LATHAM, George ",Wing Half,9,0,0,0,0,0,0,0,0
+,"LIPSHAM, Jack ",Winger,3,0,0,0,0,0,0,0,0
+,"MCKENNA, John ",Winger,1,0,0,0,0,0,0,0,0
+,"MCPHERSON, Billy ",Inside Forward,28,11,0,4,1,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,9,7,0,4,0,0,0,0,0
+,"PARRY, Maurice ",Wing Half,19,0,0,0,0,0,0,0,0
+,"RAISBECK, Alex ",Centre Half,27,4,2,1,0,0,0,0,0
+,"RANDLES, Robert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RAYBOULD, Sam ",Centre Forward,35,15,0,4,2,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,28,8,0,4,0,0,0,0,0
+,"ROGERS, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"SAUL, Percy ",Full Back,33,0,0,3,0,0,0,0,0
+,"WEST, Alf ",Full Back,4,0,0,0,0,0,0,0,0
