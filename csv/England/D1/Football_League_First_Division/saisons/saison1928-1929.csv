@@ -1,23 +1,23 @@
 Clt,Équipe,MJ,V,N,D,BM,BE,GAv,DB,Pts,Affluence,Meilleur buteur de l'équipe,Gardien de but,Qualification or relegation
-1,Sheffield Wednesday,42,21,10,11,86,62,1.387,+24,52,27017,,,League Champions
-2,Leicester City,42,21,9,12,96,67,1.433,+29,51,23773,,,
-3,Aston Villa,42,23,4,15,98,81,1.210,+17,50,29531,,,
-4,Sunderland,42,20,7,15,93,75,1.240,+18,47,25196,,,
-5,Liverpool,42,17,12,13,90,64,1.406,+26,46,28257,,,
-6,Derby County,42,18,10,14,86,71,1.211,+15,46,16866,,,
-7,Blackburn Rovers,42,17,11,14,72,63,1.143,+9,45,19120,,,
-8,Manchester City,42,18,9,15,95,86,1.105,+9,45,31715,,,
-9,Arsenal,42,16,13,13,77,72,1.069,+5,45,26690,,,
-10,Newcastle United,42,19,6,17,70,72,0.972,-2,44,31667,,,
-11,Sheffield United,42,15,11,16,86,85,1.012,+1,41,22395,,,
-12,Manchester United,42,14,13,15,66,76,0.868,-10,41,23659,,,
-13,Leeds United,42,16,9,17,71,84,0.845,-13,41,22402,,,
-14,Bolton Wanderers,42,14,12,16,73,80,0.913,-7,40,19419,,,FA Cup Winners
-15,Birmingham City,42,15,10,17,68,77,0.883,-9,40,23406,,,
-16,Huddersfield Town,42,14,11,17,70,61,1.148,+9,39,16720,,,
-17,West Ham United,42,15,9,18,86,96,0.896,-10,39,19989,,,
-18,Everton,42,17,4,21,63,75,0.840,-12,38,29512,,,
-19,Burnley,42,15,8,19,81,103,0.786,-22,38,17239,,,
-20,Portsmouth,42,15,6,21,56,80,0.700,-24,36,20225,,,
-21,Bury,42,12,7,23,62,99,0.626,-37,31,,,,Relegated
-22,Cardiff City,42,8,13,21,43,59,0.729,-16,29,15256,,,Relegated
+1,Sheffield Wednesday,42,21,10,11,86,62,1.387,+24,52,27017,"ALLEN, Jack - 33","BROWN, Jack ",League Champions
+2,Leicester City,42,21,9,12,96,67,1.433,+29,51,23773,"CHANDLER, Arthur - 34","MCLAREN, Jimmy ",
+3,Aston Villa,42,23,4,15,98,81,1.210,+17,50,29531,"WARING, Tom 'Pongo' - 25","OLNEY, Ben ",
+4,Sunderland,42,20,7,15,93,75,1.240,+18,47,25196,"HALLIDAY, Dave - 43","MCINROY, Albert ",
+5,Liverpool,42,17,12,13,90,64,1.406,+26,46,28257,"HODGSON, Gordon - 30","SCOTT, Elisha ",
+6,Derby County,42,18,10,14,86,71,1.211,+15,46,16866,"BEDFORD, Harry - 27","WILKES, Harry ",
+7,Blackburn Rovers,42,17,11,14,72,63,1.143,+9,45,19120,"ROSCAMP, Jack - 16","CRAWFORD, Jock ",
+8,Manchester City,42,18,9,15,95,86,1.105,+9,45,31715,"JOHNSON, Tommy - 38","BARBER, Lewis ",
+9,Arsenal,42,16,13,13,77,72,1.069,+5,45,26690,"JACK, David - 25","LEWIS, Dan ",
+10,Newcastle United,42,19,6,17,70,72,0.972,-2,44,31667,"GALLACHER, Hughie - 24","BURNS, Mick ",
+11,Sheffield United,42,15,11,16,86,85,1.012,+1,41,22395,"PHILLIPSON, Tom - 14","WHARTON, Norman ",
+12,Manchester United,42,14,13,15,66,76,0.868,-10,41,23659,"HANSON, Jimmy - 19","STEWARD, Alf ",
+13,Leeds United,42,16,9,17,71,84,0.845,-13,41,22402,"KEETLEY, Charlie - 20","POTTS, Jimmy ",
+14,Bolton Wanderers,42,14,12,16,73,80,0.913,-7,40,19419,"BLACKMORE, Harold - 30","PYM, Dick ",FA Cup Winners
+15,Birmingham City,42,15,10,17,68,77,0.883,-9,40,23406,"BRADFORD, Joe - 22","TREMELLING, Dan ",
+16,Huddersfield Town,42,14,11,17,70,61,1.148,+9,39,16720,"BROWN, George - 15","TURNER, Hugh ",
+17,West Ham United,42,15,9,18,86,96,0.896,-10,39,19989,"WATSON, Vic - 29","HUFTON, Ted ",
+18,Everton,42,17,4,21,63,75,0.840,-12,38,29512,"DEAN, Bill 'Dixie' - 26","DAVIES, Arthur ",
+19,Burnley,42,15,8,19,81,103,0.786,-22,38,17239,"BEEL, George - 30","DOWN, Billy ",
+20,Portsmouth,42,15,6,21,56,80,0.700,-24,36,20225,"FORWARD, Fred / IRVINE, Bobby / SMITH, Jack / WEDDLE, Jack - 8","GILFILLAN, Jock ",
+21,Bury,42,12,7,23,62,99,0.626,-37,31,,"SMITH, John - 19","HARRISON, Billy ",Relegated
+22,Cardiff City,42,8,13,21,43,59,0.729,-16,29,15256,"FERGUSON, Hughie - 14","FARQUHARSON, Tom",Relegated
