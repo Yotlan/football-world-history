@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRCHALL, Jack	Wing Half	
-										
-BOWMAN, Adam	Inside Forward	
-										
-BRADSHAW, Billy	Wing Half	
-										
-BURTON, Jack	Inside Forward	
-										
-CAMERON, Jock	Full Back	
-										
-CHADWICK, Miles	Winger	
-										
-CONNOR, Ted	Winger	
-										
-COWELL, Arthur	Full Back	
-										
-CROMPTON, Bob	Full Back	
-										
-CUNLIFFE, Tommy	Winger	
-										
-DAVIES, Bill 'Tinker'	Centre Forward	
-										
-DAWSON, Arthur	Winger	
-										
-EVANS, Bob	Goalkeeper	
-										
-FRANCE, Herbert	Centre Forward	
-										
-MANSON, Bob	Inside Forward	
-										
-MCALLISTER, Tom	Wing Half	
-										
-MCCLURE, Sammy	Centre Half	
-										
-MCIVER, Willie	Goalkeeper	
-										
-MOIR, Jimmy	Wing Half	
-										
-PENTLAND, Fred	Winger	
-										
-ROBERTSON, Jimmy	Inside Forward	
-										
-SMITH, George	Inside Forward	
-										
-WHITTAKER, Arnie	Winger	
-										
-WILSON, Joe	Centre Half	
-										
-WOLSTENHOLME, Sam	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRCHALL, Jack ",Wing Half,6,2,0,0,0,0,0,0,0
+,"BOWMAN, Adam ",Inside Forward,32,15,0,1,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,36,4,0,1,0,0,0,0,0
+,"BURTON, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,7,0,0,0,0,0,0,0,0
+,"CHADWICK, Miles ",Winger,28,2,0,1,0,0,0,0,0
+,"CONNOR, Ted ",Winger,0,0,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,33,0,0,1,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,36,0,0,1,0,0,0,0,0
+,"CUNLIFFE, Tommy ",Winger,1,0,0,0,0,0,0,0,0
+,"DAVIES, Bill 'Tinker' ",Centre Forward,26,11,0,1,0,0,0,0,0
+,"DAWSON, Arthur ",Winger,10,3,0,0,0,0,0,0,0
+,"EVANS, Bob ",Goalkeeper,35,0,0,1,0,0,0,0,0
+,"FRANCE, Herbert ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"MANSON, Bob ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"MCALLISTER, Tom ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCCLURE, Sammy ",Centre Half,21,1,0,0,0,0,0,0,0
+,"MCIVER, Willie ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MOIR, Jimmy ",Wing Half,13,0,0,1,0,0,0,0,0
+,"PENTLAND, Fred ",Winger,6,1,0,0,0,0,0,0,0
+,"ROBERTSON, Jimmy ",Inside Forward,26,9,0,1,0,0,0,0,0
+,"SMITH, George ",Inside Forward,13,0,0,0,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,36,2,0,1,0,0,0,0,0
+,"WILSON, Joe ",Centre Half,3,1,0,0,0,0,0,0,0
+,"WOLSTENHOLME, Sam ",Wing Half,31,0,0,1,0,0,0,0,0

@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRIE, Alex	Centre Half	
-										
-BELL, Ted	Full Back	
-										
-BREBNER, Ron	Goalkeeper	
-										
-BRIDGETT, Arthur	Winger	
-										
-BROWN, Norman	Winger	
-										
-BUCKLE, Harry	Winger	
-										
-CHARLTON, Ted	Full Back	
-										
-COQUET, Ernie	Full Back	
-										
-DAYKIN, Tom	Full Back	
-										
-EDGAR, James	Winger	
-										
-FARQUHAR, Billy	Wing Half	
-										
-FULLARTON, William	Centre Half	
-										
-GEMMELL, Jimmy	Inside Forward	
-										
-HINDMARSH, Jimmy	Wing Half	
-										
-HOGG, Billy	Winger	
-										
-HOLLEY, George	Inside Forward	
-										
-KELLY, Thomas	Wing Half	
-										
-MCCONNELL, English	Centre Half	
-										
-MCINTOSH, Angus	Inside Forward	
-										
-MCKENZIE, Thomas	Centre Forward	
-										
-NAISBY, Tom	Goalkeeper	
-										
-O'DONNELL, Dennis	Inside Forward	
-										
-RHODES, Ephraim 'Dusty'	Full Back	
-										
-SHAW, John	Centre Forward	
-										
-SHAW, Joe	Centre Forward	
-										
-TOMLIN, Jack	Centre Half	
-										
-WATSON, Jimmy	Full Back	
-										
-WEBB, Ike	Goalkeeper	
-										
-WESTON, William	Inside Forward	
-										
-WILLIS, David	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRIE, Alex ",Centre Half,23,0,0,4,1,0,0,0,0
+,"BELL, Ted ",Full Back,17,0,0,4,0,0,0,0,0
+,"BREBNER, Ron ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,38,17,1,4,1,0,0,0,0
+,"BROWN, Norman ",Winger,11,1,0,2,1,0,0,0,0
+,"BUCKLE, Harry ",Winger,10,1,0,0,0,0,0,0,0
+,"CHARLTON, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"COQUET, Ernie ",Full Back,0,0,0,0,0,0,0,0,0
+,"DAYKIN, Tom ",Full Back,2,0,0,0,0,0,0,0,0
+,"EDGAR, James ",Winger,2,0,0,0,0,0,0,0,0
+,"FARQUHAR, Billy ",Wing Half,35,1,0,3,0,0,0,0,0
+,"FULLARTON, William ",Centre Half,5,0,0,0,0,0,0,0,0
+,"GEMMELL, Jimmy ",Inside Forward,29,7,0,4,0,0,0,0,0
+,"HINDMARSH, Jimmy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HOGG, Billy ",Winger,26,7,0,2,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,22,6,0,3,1,0,0,0,0
+,"KELLY, Thomas ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCCONNELL, English ",Centre Half,8,0,0,1,0,0,0,0,0
+,"MCINTOSH, Angus ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"MCKENZIE, Thomas ",Centre Forward,8,1,0,0,0,0,0,0,0
+,"NAISBY, Tom ",Goalkeeper,32,0,0,4,0,0,0,0,0
+,"O'DONNELL, Dennis ",Inside Forward,21,5,0,1,0,0,0,0,0
+,"RHODES, Ephraim 'Dusty' ",Full Back,24,1,1,0,0,0,0,0,0
+,"SHAW, John ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"SHAW, Joe ",Centre Forward,17,9,0,4,1,0,0,0,0
+,"TOMLIN, Jack ",Centre Half,13,1,0,0,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,33,0,0,4,0,0,0,0,0
+,"WEBB, Ike ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"WESTON, William ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WILLIS, David ",Wing Half,29,2,0,4,0,0,0,0,0

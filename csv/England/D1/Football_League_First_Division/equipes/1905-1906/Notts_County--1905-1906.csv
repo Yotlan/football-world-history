@@ -1,47 +1,23 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CHALMERS, Tommy	Centre Half	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-DEAN, Jerry	Winger	
-										
-EMBERTON, Teddy	Wing Half	
-										
-FOUNTAIN, Richard	Inside Forward	
-										
-GEE, Ellis	Winger	
-										
-GREEN, Arthur	Centre Forward	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-HARRISON, Albert	Winger	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JONES, Albert	Full Back	
-										
-MAINMAN, Harry	Centre Half	
-										
-MONTGOMERY, Jack	Full Back	
-										
-POPPITT, Jimmy	Inside Forward	
-										
-REILLY, Matt 'Ginger'	Goalkeeper	
-										
-ROBERTSON, Sam	Full Back	
-										
-TARPLIN, Walter	Inside Forward	
-										
-WAINWRIGHT, Thomas	Wing Half	
-										
-WATERALL, Tommy	Winger	
-										
-WILKINSON, John	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CHALMERS, Tommy ",Centre Half,4,1,0,0,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,38,1,0,1,0,0,0,0,0
+,"DEAN, Jerry ",Winger,38,11,5,1,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,37,0,0,1,0,0,0,0,0
+,"FOUNTAIN, Richard ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GEE, Ellis ",Winger,37,5,0,1,0,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,34,13,1,1,0,0,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,26,0,0,0,0,0,0,0,0
+,"HARRISON, Albert ",Winger,3,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,34,10,0,1,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,22,0,0,1,0,0,0,0,0
+,"JONES, Albert ",Full Back,14,0,0,1,0,0,0,0,0
+,"MAINMAN, Harry ",Centre Half,28,0,0,1,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,29,0,0,1,0,0,0,0,0
+,"POPPITT, Jimmy ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"REILLY, Matt 'Ginger' ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"ROBERTSON, Sam ",Full Back,2,0,0,0,0,0,0,0,0
+,"TARPLIN, Walter ",Inside Forward,36,13,0,1,0,0,0,0,0
+,"WAINWRIGHT, Thomas ",Wing Half,3,0,0,0,0,0,0,0,0
+,"WATERALL, Tommy ",Winger,1,0,0,0,0,0,0,0,0
+,"WILKINSON, John ",Full Back,6,0,0,0,0,0,0,0,0

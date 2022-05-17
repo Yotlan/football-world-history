@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRADLEY, Jimmy	Wing Half	
-										
-CARLIN, Jack	Inside Forward	
-										
-CHORLTON, Tom	Full Back	
-										
-COX, Jack	Winger	
-										
-DOIG, Ned	Goalkeeper	
-										
-DUNLOP, Billy	Full Back	
-										
-FLEMING, George	Wing Half	
-										
-GARSIDE, Jimmy	Winger	
-										
-GODDARD, Arthur	Winger	
-										
-GORMAN, Jimmy	Centre Half	
-										
-GRIFFITHS, Harry	Full Back	
-										
-HARDY, Sam	Goalkeeper	
-										
-HEWITT, Joe	Centre Forward	
-										
-LATHAM, George	Wing Half	
-										
-MURRAY, David	Full Back	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PARRY, Maurice	Wing Half	
-										
-RAISBECK, Alex	Centre Half	
-										
-RAYBOULD, Sam	Centre Forward	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-WEST, Alf	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRADLEY, Jimmy ",Wing Half,31,0,0,5,0,0,1,0,0
+,"CARLIN, Jack ",Inside Forward,14,6,0,2,0,0,0,0,0
+,"CHORLTON, Tom ",Full Back,6,1,0,0,0,0,0,0,0
+,"COX, Jack ",Winger,28,8,0,4,0,0,1,0,0
+,"DOIG, Ned ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"DUNLOP, Billy ",Full Back,31,0,0,5,0,0,1,0,0
+,"FLEMING, George ",Wing Half,4,0,0,0,0,0,0,0,0
+,"GARSIDE, Jimmy ",Winger,4,0,0,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,38,7,0,5,2,0,1,1,0
+,"GORMAN, Jimmy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"GRIFFITHS, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,30,0,0,5,0,0,1,0,0
+,"HEWITT, Joe ",Centre Forward,37,23,0,5,1,0,1,2,0
+,"LATHAM, George ",Wing Half,5,0,0,1,0,0,0,0,0
+,"MURRAY, David ",Full Back,3,0,0,0,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,9,7,0,1,0,0,1,0,0
+,"PARRY, Maurice ",Wing Half,36,1,0,5,0,0,1,0,0
+,"RAISBECK, Alex ",Centre Half,36,1,0,4,0,0,1,0,0
+,"RAYBOULD, Sam ",Centre Forward,25,10,0,4,4,0,1,1,0
+,"ROBINSON, Robbie ",Inside Forward,34,11,0,4,0,0,0,0,0
+,"WEST, Alf ",Full Back,37,3,3,5,1,0,1,0,0

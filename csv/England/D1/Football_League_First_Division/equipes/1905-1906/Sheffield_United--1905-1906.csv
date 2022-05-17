@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Edward	Centre Forward	
-										
-BENSON, Bob	Full Back	
-										
-BISBY, John	Wing Half	
-										
-BLUFF, Edgar	Inside Forward	
-										
-BROMAGE, Billy	Winger	
-										
-BROWN, Arthur	Centre Forward	
-										
-CROOT, Fred	Winger	
-										
-DONNELLY, Jimmy	Winger	
-										
-DRAKE, Alonzo	Inside Forward	
-										
-FORSTER, Bill	Wing Half	
-										
-GROVES, Albert	Full Back	
-										
-JOHNSON, Charlie	Full Back	
-										
-JOHNSON, Harry	Wing Half	
-										
-LANG, Johnny	Winger	
-										
-LAYTON, Edward	Full Back	
-										
-LIEVESLEY, Joe	Goalkeeper	
-										
-LIPSHAM, Bert	Winger	
-										
-MCCORMICK, Jimmy	Wing Half	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-PARKER, Billy	Wing Half	
-										
-PATON, Tom	Centre Forward	
-										
-PATTINSON, John	Winger	
-										
-PRIEST, Fred	Winger	
-										
-ROBERTS, William	Winger	
-										
-ROTHERY, Harry	Winger	
-										
-STEWART, Thomas	Full Back	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WILKINSON, Billy	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Edward ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BENSON, Bob ",Full Back,32,0,0,2,0,0,0,0,0
+,"BISBY, John ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BLUFF, Edgar ",Inside Forward,29,6,0,2,0,0,0,0,0
+,"BROMAGE, Billy ",Winger,2,1,0,0,0,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,36,16,0,2,3,0,0,0,0
+,"CROOT, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"DONNELLY, Jimmy ",Winger,30,9,0,2,0,0,0,0,0
+,"DRAKE, Alonzo ",Inside Forward,28,8,0,2,0,0,0,0,0
+,"FORSTER, Bill ",Wing Half,1,0,0,0,0,0,0,0,0
+,"GROVES, Albert ",Full Back,25,0,0,2,0,0,0,0,0
+,"JOHNSON, Charlie ",Full Back,13,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Wing Half,13,0,0,0,0,0,0,0,0
+,"LANG, Johnny ",Winger,20,2,0,0,0,0,0,0,0
+,"LAYTON, Edward ",Full Back,0,0,0,0,0,0,0,0,0
+,"LIEVESLEY, Joe ",Goalkeeper,38,0,0,2,0,0,0,0,0
+,"LIPSHAM, Bert ",Winger,32,2,0,2,2,0,0,0,0
+,"MCCORMICK, Jimmy ",Wing Half,17,1,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,27,2,0,0,0,0,0,0,0
+,"PARKER, Billy ",Wing Half,17,1,0,2,0,0,0,0,0
+,"PATON, Tom ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"PATTINSON, John ",Winger,2,1,0,0,0,0,0,0,0
+,"PRIEST, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBERTS, William ",Winger,0,0,0,0,0,0,0,0,0
+,"ROTHERY, Harry ",Winger,4,0,0,0,0,0,0,0,0
+,"STEWART, Thomas ",Full Back,2,0,0,0,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,34,5,0,2,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,8,0,0,2,0,0,0,0,0

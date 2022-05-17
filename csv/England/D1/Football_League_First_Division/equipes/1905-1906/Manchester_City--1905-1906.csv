@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANKS, Willie	Wing Half	
-										
-BANNISTER, Jimmy	Inside Forward	
-										
-BOOTH, Frank	Winger	
-										
-BUCHAN, James	Wing Half	
-										
-BURGESS, Herbert	Full Back	
-										
-CHRISTIE, John	Full Back	
-										
-DEARDEN, Robert	Wing Half	
-										
-DORSETT, George	Winger	
-										
-EDMONDSON, John	Goalkeeper	
-										
-EVANS, Arthur	Wing Half	
-										
-FROST, Sammy	Wing Half	
-										
-GREGORY, Julius	Full Back	
-										
-HILLMAN, Jack	Goalkeeper	
-										
-HYNDS, Tommy	Centre Half	
-										
-JONES, Lot	Inside Forward	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MCMAHON, Johnny	Full Back	
-										
-MCOUSTRA, Willie	Wing Half	
-										
-MOFFATT, Joe	Centre Forward	
-										
-NORGROVE, Frank	Full Back	
-										
-PEARSON, Frank	Centre Forward	
-										
-STEEL, Alex	Wing Half	
-										
-THORNLEY, Irvine	Centre Forward	
-										
-TURNBULL, Sandy	Inside Forward	
-										
-WHITTAKER, James	Winger	
-										
-YOUNG, James	Wing Half	
-										
-YUILL, Jack	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANKS, Willie ",Wing Half,21,1,0,1,0,0,0,0,0
+,"BANNISTER, Jimmy ",Inside Forward,11,2,0,1,1,0,0,0,0
+,"BOOTH, Frank ",Winger,28,7,0,1,0,0,0,0,0
+,"BUCHAN, James ",Wing Half,29,1,0,0,0,0,0,0,0
+,"BURGESS, Herbert ",Full Back,32,2,0,1,0,0,0,0,0
+,"CHRISTIE, John ",Full Back,5,0,0,0,0,0,0,0,0
+,"DEARDEN, Robert ",Wing Half,4,0,0,0,0,0,0,0,0
+,"DORSETT, George ",Winger,34,15,1,1,0,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,27,0,0,1,0,0,0,0,0
+,"EVANS, Arthur ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FROST, Sammy ",Wing Half,9,1,0,1,0,0,0,0,0
+,"GREGORY, Julius ",Full Back,3,0,0,0,0,0,0,0,0
+,"HILLMAN, Jack ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"HYNDS, Tommy ",Centre Half,33,0,0,1,0,0,0,0,0
+,"JONES, Lot ",Inside Forward,25,6,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,26,7,0,1,0,0,0,0,0
+,"MCMAHON, Johnny ",Full Back,25,1,0,1,0,0,0,0,0
+,"MCOUSTRA, Willie ",Wing Half,7,0,0,0,0,0,0,0,0
+,"MOFFATT, Joe ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"NORGROVE, Frank ",Full Back,11,0,0,0,0,0,0,0,0
+,"PEARSON, Frank ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"STEEL, Alex ",Wing Half,4,0,0,0,0,0,0,0,0
+,"THORNLEY, Irvine ",Centre Forward,36,21,0,1,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,26,6,0,0,0,0,0,0,0
+,"WHITTAKER, James ",Winger,6,1,0,0,0,0,0,0,0
+,"YOUNG, James ",Wing Half,1,0,0,0,0,0,0,0,0
+,"YUILL, Jack ",Winger,0,0,0,0,0,0,0,0,0

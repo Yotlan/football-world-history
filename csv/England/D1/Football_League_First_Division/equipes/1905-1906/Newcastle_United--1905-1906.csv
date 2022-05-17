@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy	Centre Half	
-										
-APPLEYARD, Bill	Centre Forward	
-										
-BLAKE, Syd	Goalkeeper	
-										
-BOLTON, Hugh	Inside Forward	
-										
-CARR, Jack	Wing Half	
-										
-CRUMLEY, Bob	Goalkeeper	
-										
-DODDS, Jack	Winger	
-										
-DONNACHIE, Joe	Winger	
-										
-FINDLAY, Jock	Wing Half	
-										
-GARDNER, Alec	Wing Half	
-										
-GOSNELL, Bert	Winger	
-										
-HARDINGE, Wally	Inside Forward	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-KIRKALDY, James	Wing Half	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LIDDELL, Bob	Wing Half	
-										
-MCCLARENCE, Joe	Inside Forward	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-ORR, Ronald	Inside Forward	
-										
-RAINE, Jim	Winger	
-										
-ROWLANDSON, Tom	Goalkeeper	
-										
-RUTHERFORD, Jock	Winger	
-										
-RUTHERFORD, Robert	Centre Half	
-										
-TILDESLEY, Jim	Full Back	
-										
-VEITCH, Colin	Centre Half	
-										
-WATTS, Charlie	Goalkeeper	
-										
-WHITSON, Tony	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Centre Half,15,0,0,4,0,0,0,0,0
+,"APPLEYARD, Bill ",Centre Forward,21,11,0,5,6,0,0,0,0
+,"BLAKE, Syd ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BOLTON, Hugh ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CARR, Jack ",Wing Half,23,0,0,8,0,0,0,0,0
+,"CRUMLEY, Bob ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"DODDS, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,2,0,0,0,0,0,0,0,0
+,"FINDLAY, Jock ",Wing Half,2,0,0,0,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,28,0,0,8,1,0,0,0,0
+,"GOSNELL, Bert ",Winger,35,8,0,8,1,0,0,0,0
+,"HARDINGE, Wally ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,29,12,0,8,2,0,0,0,0
+,"KIRKALDY, James ",Wing Half,8,0,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,33,0,0,8,0,0,0,0,0
+,"LIDDELL, Bob ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCCLARENCE, Joe ",Inside Forward,13,5,0,0,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,29,0,0,8,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,20,0,0,0,0,0,0,0,0
+,"MCWILLIAM, Peter ",Wing Half,30,2,0,8,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,35,17,0,7,4,0,0,0,0
+,"RAINE, Jim ",Winger,4,1,0,0,0,0,0,0,0
+,"ROWLANDSON, Tom ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,34,9,0,8,2,0,0,0,0
+,"RUTHERFORD, Robert ",Centre Half,1,0,0,0,0,0,0,0,0
+,"TILDESLEY, Jim ",Full Back,5,0,0,0,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,28,7,3,8,3,1,0,0,0
+,"WATTS, Charlie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WHITSON, Tony ",Full Back,1,0,0,0,0,0,0,0,0

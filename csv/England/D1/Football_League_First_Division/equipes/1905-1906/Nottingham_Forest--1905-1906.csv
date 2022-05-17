@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jack	Wing Half	
-										
-CHAPMAN, Fred	Full Back	
-										
-CLIFFORD, Tom	Centre Half	
-										
-CRAGGS, Jack	Winger	
-										
-CRAIG, Charlie	Full Back	
-										
-DAVIES, Tom	Winger	
-										
-DUDLEY, Walter	Full Back	
-										
-FORMAN, Frank	Wing Half	
-										
-FULLARTON, William	Centre Half	
-										
-HADLEY, Harry	Wing Half	
-										
-HARDSTAFF, Joe	Inside Forward	
-										
-HENDERSON, George	Wing Half	
-										
-HOLMES, Albert	Winger	
-										
-HUGHES, Teddy	Wing Half	
-										
-IREMONGER, Jim	Full Back	
-										
-LESSONS, Fred	Centre Forward	
-										
-LINACRE, Harry	Goalkeeper	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEEDHAM, George	Wing Half	
-										
-NIBLO, Tommy	Centre Forward	
-										
-NORRIS, Bob	Wing Half	
-										
-ROTHERY, Harry	Winger	
-										
-SHEARMAN, Bill	Inside Forward	
-										
-SPOUNCER, Alf	Winger	
-										
-TIMMINS, Sammy	Wing Half	
-										
-WARREN, Fred	Centre Half	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHITCHURCH, Herbert	Inside Forward	
-										
-WOLFE, George	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jack ",Wing Half,18,0,0,4,0,0,0,0,0
+,"CHAPMAN, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"CLIFFORD, Tom ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CRAGGS, Jack ",Winger,36,7,0,4,1,0,0,0,0
+,"CRAIG, Charlie ",Full Back,33,0,0,4,0,0,0,0,0
+,"DAVIES, Tom ",Winger,2,0,0,0,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,38,0,0,4,0,0,0,0,0
+,"FORMAN, Frank ",Wing Half,0,0,0,2,0,0,0,0,0
+,"FULLARTON, William ",Centre Half,20,0,0,1,0,0,0,0,0
+,"HADLEY, Harry ",Wing Half,7,0,0,0,0,0,0,0,0
+,"HARDSTAFF, Joe ",Inside Forward,9,1,0,1,0,0,0,0,0
+,"HENDERSON, George ",Wing Half,21,2,0,1,0,0,0,0,0
+,"HOLMES, Albert ",Winger,5,0,0,1,1,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"IREMONGER, Jim ",Full Back,5,0,0,0,0,0,0,0,0
+,"LESSONS, Fred ",Centre Forward,14,5,0,0,0,0,0,0,0
+,"LINACRE, Harry ",Goalkeeper,38,0,0,4,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,32,19,0,4,2,0,0,0,0
+,"NEEDHAM, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"NIBLO, Tommy ",Centre Forward,17,3,0,0,0,0,0,0,0
+,"NORRIS, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROTHERY, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"SHEARMAN, Bill ",Inside Forward,11,5,0,2,4,0,0,0,0
+,"SPOUNCER, Alf ",Winger,25,2,0,3,0,0,0,0,0
+,"TIMMINS, Sammy ",Wing Half,19,0,0,2,0,0,0,0,0
+,"WARREN, Fred ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,35,14,0,4,3,0,0,0,0
+,"WHITCHURCH, Herbert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WOLFE, George ",Centre Half,27,0,0,3,0,0,0,0,0

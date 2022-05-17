@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BADDELEY, Tom	Goalkeeper	
-										
-BAYNHAM, Albert	Winger	
-										
-BETTELEY, Dick	Full Back	
-										
-BEVIN, Bert	Inside Forward	
-										
-BOON, Reggie	Centre Forward	
-										
-BRAWN, Charles	Winger	
-										
-BREAKWELL, Arthur	Winger	
-										
-CORFIELD, Sam	Centre Half	
-										
-GOODALL, Archie	Centre Half	
-										
-GORMAN, John	Inside Forward	
-										
-HENSHALL, Albert	Inside Forward	
-										
-HOPKINS, Jack	Winger	
-										
-HUGHES, Harry	Wing Half	
-										
-JAMES, Jack	Wing Half	
-										
-JONES, Jackery	Full Back	
-										
-JUGGINS, Eli	Full Back	
-										
-LAYTON, Billy	Inside Forward	
-										
-LLOYD, Arthur	Wing Half	
-										
-LUNN, Tommy	Goalkeeper	
-										
-PEDLEY, Jack	Winger	
-										
-POPE, Frankie	Inside Forward	
-										
-RADFORD, Wally	Inside Forward	
-										
-RAYBOULD, Tom	Wing Half	
-										
-SMITH, John	Inside Forward	
-										
-STANLEY, Jack	Full Back	
-										
-WHITEHOUSE, Ben	Inside Forward	
-										
-WHITEHOUSE, Jack	Wing Half	
-										
-WILKES, George	Inside Forward	
-										
-WILLIAMS, George	Wing Half	
-										
-WILLIAMS, Walter	Winger	
-										
-WOOLDRIDGE, Billy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BADDELEY, Tom ",Goalkeeper,35,0,0,0,0,0,0,0,0
+,"BAYNHAM, Albert ",Winger,23,1,0,2,1,0,0,0,0
+,"BETTELEY, Dick ",Full Back,12,0,0,0,0,0,0,0,0
+,"BEVIN, Bert ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"BOON, Reggie ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"BRAWN, Charles ",Winger,0,0,0,0,0,0,0,0,0
+,"BREAKWELL, Arthur ",Winger,19,2,0,0,0,0,0,0,0
+,"CORFIELD, Sam ",Centre Half,27,3,0,2,0,0,0,0,0
+,"GOODALL, Archie ",Centre Half,7,0,0,0,0,0,0,0,0
+,"GORMAN, John ",Inside Forward,1,2,0,0,0,0,0,0,0
+,"HENSHALL, Albert ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HOPKINS, Jack ",Winger,10,5,0,0,0,0,0,0,0
+,"HUGHES, Harry ",Wing Half,9,0,0,0,0,0,0,0,0
+,"JAMES, Jack ",Wing Half,17,0,0,0,0,0,0,0,0
+,"JONES, Jackery ",Full Back,38,4,3,2,0,0,0,0,0
+,"JUGGINS, Eli ",Full Back,6,0,0,0,0,0,0,0,0
+,"LAYTON, Billy ",Inside Forward,15,3,0,2,0,0,0,0,0
+,"LLOYD, Arthur ",Wing Half,18,1,0,0,0,0,0,0,0
+,"LUNN, Tommy ",Goalkeeper,3,0,0,2,0,0,0,0,0
+,"PEDLEY, Jack ",Winger,21,10,0,2,1,0,0,0,0
+,"POPE, Frankie ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"RADFORD, Wally ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"RAYBOULD, Tom ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SMITH, John ",Inside Forward,26,10,0,2,1,0,0,0,0
+,"STANLEY, Jack ",Full Back,20,0,0,2,0,0,0,0,0
+,"WHITEHOUSE, Ben ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WHITEHOUSE, Jack ",Wing Half,23,0,0,2,0,0,0,0,0
+,"WILKES, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, George ",Wing Half,22,0,0,2,0,0,0,0,0
+,"WILLIAMS, Walter ",Winger,4,1,0,0,0,0,0,0,0
+,"WOOLDRIDGE, Billy ",Centre Forward,33,12,0,2,0,0,0,0,0

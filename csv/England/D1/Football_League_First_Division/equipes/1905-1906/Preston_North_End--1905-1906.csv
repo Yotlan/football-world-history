@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHTON, Herbert	Winger	
-										
-BELL, Jack	Inside Forward	
-										
-BLYTH, William	Wing Half	
-										
-BOND, Dickie	Winger	
-										
-BROWN, Albert	Centre Forward	
-										
-COOK, Lol	Centre Forward	
-										
-COOK, Walter	Full Back	
-										
-COX, Bill	Centre Forward	
-										
-CROSSTHWAITE, Herbert	Goalkeeper	
-										
-DANSON, Herbie	Winger	
-										
-DERBYSHIRE, Joe	Full Back	
-										
-HARTLEY, Percy	Wing Half	
-										
-HUNTER, John	Centre Half	
-										
-LOCKETT, Arthur	Winger	
-										
-LYON, Billy	Wing Half	
-										
-MAHER, Davie	Winger	
-										
-MCBRIDE, Peter	Goalkeeper	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-ORRELL, Richard	Full Back	
-										
-PEARSON, Harry	Centre Forward	
-										
-RODWAY, Tommy	Full Back	
-										
-SMITH, Percy	Centre Half	
-										
-TAYLOR, Herbert	Goalkeeper	
-										
-TOD, George	Wing Half	
-										
-TURNBULL, Jimmy	Centre Forward	
-										
-WILSON, James	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHTON, Herbert ",Winger,2,0,0,0,0,0,0,0,0
+,"BELL, Jack ",Inside Forward,30,10,0,1,0,0,0,0,0
+,"BLYTH, William ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,33,17,4,1,0,0,0,0,0
+,"BROWN, Albert ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"COOK, Lol ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COOK, Walter ",Full Back,3,0,0,0,0,0,0,0,0
+,"COX, Bill ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CROSSTHWAITE, Herbert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DANSON, Herbie ",Winger,8,2,0,0,0,0,0,0,0
+,"DERBYSHIRE, Joe ",Full Back,26,1,1,1,0,0,0,0,0
+,"HARTLEY, Percy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HUNTER, John ",Centre Half,37,1,0,1,0,0,0,0,0
+,"LOCKETT, Arthur ",Winger,32,4,0,1,0,0,0,0,0
+,"LYON, Billy ",Wing Half,33,2,0,1,0,0,0,0,0
+,"MAHER, Davie ",Winger,5,0,0,0,0,0,0,0,0
+,"MCBRIDE, Peter ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,35,0,0,1,0,0,0,0,0
+,"ORRELL, Richard ",Full Back,9,0,0,0,0,0,0,0,0
+,"PEARSON, Harry ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,37,1,0,1,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,35,10,0,1,0,0,0,0,0
+,"TAYLOR, Herbert ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"TOD, George ",Wing Half,8,0,0,0,0,0,0,0,0
+,"TURNBULL, Jimmy ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"WILSON, James ",Inside Forward,34,3,0,1,0,0,0,0,0

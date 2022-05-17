@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERRY, Alf	Inside Forward	
-										
-CHORLTON, Gilbert	Wing Half	
-										
-DEWHURST, Jack	Centre Half	
-										
-DOW, Billy	Centre Forward	
-										
-HODGKINSON, Joe	Inside Forward	
-										
-HULMES, Sam	Full Back	
-										
-HUMPHREYS, Billy	Wing Half	
-										
-JOHNSTON, John	Wing Half	
-										
-KAY, Tom	Inside Forward	
-										
-KILBOURNE, Amos	Inside Forward	
-										
-LEEMING, Joe	Full Back	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MONTEITH, Hugh	Goalkeeper	
-										
-MULLINEUX, Ernie	Full Back	
-										
-MURPHY, Eddie	Winger	
-										
-PLANT, Jack	Winger	
-										
-RICHARDS, Billy	Winger	
-										
-ROSS, George	Wing Half	
-										
-SIMPSON, Tommy	Centre Forward	
-										
-SLATER, Percy	Full Back	
-										
-SWANN, Herbert	Centre Forward	
-										
-THORPE, Frank	Centre Half	
-										
-WARBURTON, Fred	Inside Forward	
-										
-WILLIAMS, Jack	Centre Forward	
-										
-WOLSTENHOLME, John	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERRY, Alf ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"CHORLTON, Gilbert ",Wing Half,5,0,0,0,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,22,2,0,2,0,0,0,0,0
+,"DOW, Billy ",Centre Forward,15,6,0,2,2,0,0,0,0
+,"HODGKINSON, Joe ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"HULMES, Sam ",Full Back,15,0,0,2,0,0,0,0,0
+,"HUMPHREYS, Billy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"JOHNSTON, John ",Wing Half,34,0,0,2,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,18,7,0,0,0,0,0,0,0
+,"KILBOURNE, Amos ",Inside Forward,16,6,0,2,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,34,3,0,2,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,34,8,8,2,0,0,0,0,0
+,"MONTEITH, Hugh ",Goalkeeper,23,0,0,2,0,0,0,0,0
+,"MULLINEUX, Ernie ",Full Back,11,0,0,0,0,0,0,0,0
+,"MURPHY, Eddie ",Winger,27,1,0,2,1,0,0,0,0
+,"PLANT, Jack ",Winger,9,2,0,0,0,0,0,0,0
+,"RICHARDS, Billy ",Winger,30,3,0,2,0,0,0,0,0
+,"ROSS, George ",Wing Half,29,0,0,2,0,0,0,0,0
+,"SIMPSON, Tommy ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"SLATER, Percy ",Full Back,6,0,0,0,0,0,0,0,0
+,"SWANN, Herbert ",Centre Forward,16,3,0,0,0,0,0,0,0
+,"THORPE, Frank ",Centre Half,14,0,0,0,0,0,0,0,0
+,"WARBURTON, Fred ",Inside Forward,8,5,0,0,0,0,0,0,0
+,"WILLIAMS, Jack ",Centre Forward,13,6,0,0,0,0,0,0,0
+,"WOLSTENHOLME, John ",Goalkeeper,15,0,0,0,0,0,0,0,0

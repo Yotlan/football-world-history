@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, Walter	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BALMER, Billy	Full Back	
-										
-BIRNIE, Alex	Winger	
-										
-BLACK, William	Wing Half	
-										
-BOLTON, Hugh	Inside Forward	
-										
-BOOTH, Tom	Centre Half	
-										
-BOWSER, William	Inside Forward	
-										
-CHADWICK, Thomas	Centre Half	
-										
-COLLINS, Harry	Goalkeeper	
-										
-COOK, Harry	Inside Forward	
-										
-CRELLEY, Jack	Full Back	
-										
-DILLY, Tommy	Winger	
-										
-DONALDSON, Jack	Wing Half	
-										
-DONNACHIE, Joe	Winger	
-										
-GRUNDY, Harry	Winger	
-										
-HANNAH, John	Full Back	
-										
-HARDMAN, Harold	Winger	
-										
-HILL, Percy	Full Back	
-										
-JONES, Thomas	Centre Forward	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MCDERMOTT, Tommy	Inside Forward	
-										
-MCLAUGHLIN, Willie	Inside Forward	
-										
-MCQUILLAN, Jack	Full Back	
-										
-OLIVER, Frank	Inside Forward	
-										
-RANKIN, Bruce	Winger	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SETTLE, Jimmy	Inside Forward	
-										
-SHARP, Jack	Winger	
-										
-TAYLOR, Jack	Centre Half	
-										
-WILDMAN, William	Full Back	
-										
-WRIGHT, Robert	Wing Half	
-										
-YOUNG, Sandy	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, Walter ",Wing Half,27,5,0,5,1,0,0,0,0
+,"BALMER, Bob ",Full Back,20,0,0,2,0,0,0,0,0
+,"BALMER, Billy ",Full Back,18,0,0,5,0,0,0,0,0
+,"BIRNIE, Alex ",Winger,3,0,0,0,0,0,0,0,0
+,"BLACK, William ",Wing Half,13,0,0,0,0,0,0,0,0
+,"BOLTON, Hugh ",Inside Forward,13,5,0,4,1,0,0,0,0
+,"BOOTH, Tom ",Centre Half,17,0,0,2,1,0,0,0,0
+,"BOWSER, William ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CHADWICK, Thomas ",Centre Half,4,0,0,0,0,0,0,0,0
+,"COLLINS, Harry ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"COOK, Harry ",Inside Forward,7,3,0,2,0,0,0,0,0
+,"CRELLEY, Jack ",Full Back,23,0,0,3,0,0,0,0,0
+,"DILLY, Tommy ",Winger,2,2,0,0,0,0,0,0,0
+,"DONALDSON, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,8,0,0,0,0,0,0,0,0
+,"GRUNDY, Harry ",Winger,2,0,0,0,0,0,0,0,0
+,"HANNAH, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARDMAN, Harold ",Winger,31,6,0,6,2,0,0,0,0
+,"HILL, Percy ",Full Back,13,0,0,2,0,0,0,0,0
+,"JONES, Thomas ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,27,2,0,6,2,0,0,0,0
+,"MCDERMOTT, Tommy ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"MCLAUGHLIN, Willie ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"MCQUILLAN, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"OLIVER, Frank ",Inside Forward,4,4,0,1,0,0,0,0,0
+,"RANKIN, Bruce ",Winger,4,2,0,0,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,35,0,0,6,0,0,0,0,0
+,"SETTLE, Jimmy ",Inside Forward,28,11,0,5,1,0,0,0,0
+,"SHARP, Jack ",Winger,29,9,0,6,2,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,36,4,0,6,2,0,0,0,0
+,"WILDMAN, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Robert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,30,12,0,5,2,0,0,0,0

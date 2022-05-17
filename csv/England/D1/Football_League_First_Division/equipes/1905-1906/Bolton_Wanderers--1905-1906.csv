@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATKINSON, Jimmy	Inside Forward	
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BECKETT, Charles	Inside Forward	
-										
-BOYD, John	Wing Half	
-										
-BROOMFIELD, Herbert	Goalkeeper	
-										
-CLIFFORD, Bob	Centre Half	
-										
-DAVIES, Dai	Goalkeeper	
-										
-FREEBAIRN, Archie	Wing Half	
-										
-GASKELL, Arthur	Wing Half	
-										
-GREENHALGH, Sam	Centre Half	
-										
-KAY, Harry	Full Back	
-										
-LAWRIE, Hugh	Full Back	
-										
-MARSH, Sam	Inside Forward	
-										
-MCEWAN, Marshall	Winger	
-										
-NAPIER, Sam	Centre Forward	
-										
-OSTICK, Charlie	Full Back	
-										
-ROBERTSON, John	Wing Half	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-STANLEY, Jack	Full Back	
-										
-STOKES, David	Winger	
-										
-STRUTHERS, Bob	Full Back	
-										
-TAYLOR, Bob	Winger	
-										
-WHITE, Wattie	Inside Forward	
-										
-WILSON, Tommy	Winger	
-										
-WOLSTENHOLME, Tom	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATKINSON, Jimmy ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"BAVERSTOCK, Bert ",Full Back,37,0,0,1,0,0,0,0,0
+,"BECKETT, Charles ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BOYD, John ",Wing Half,38,0,0,1,0,0,0,0,0
+,"BROOMFIELD, Herbert ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"CLIFFORD, Bob ",Centre Half,27,1,0,1,0,0,0,0,0
+,"DAVIES, Dai ",Goalkeeper,35,0,0,1,0,0,0,0,0
+,"FREEBAIRN, Archie ",Wing Half,11,0,0,0,0,0,0,0,0
+,"GASKELL, Arthur ",Wing Half,5,0,0,0,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,4,1,0,0,0,0,0,0,0
+,"KAY, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"LAWRIE, Hugh ",Full Back,3,0,0,0,0,0,0,0,0
+,"MARSH, Sam ",Inside Forward,33,12,0,1,0,0,0,0,0
+,"MCEWAN, Marshall ",Winger,37,7,0,1,0,0,0,0,0
+,"NAPIER, Sam ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"OSTICK, Charlie ",Full Back,4,0,0,0,0,0,0,0,0
+,"ROBERTSON, John ",Wing Half,14,0,0,0,0,0,0,0,0
+,"SHEPHERD, Albert ",Centre Forward,31,26,0,1,0,0,0,0,0
+,"STANLEY, Jack ",Full Back,1,0,0,0,0,0,0,0,0
+,"STOKES, David ",Winger,38,6,0,1,0,0,0,0,0
+,"STRUTHERS, Bob ",Full Back,28,0,0,0,0,0,0,0,0
+,"TAYLOR, Bob ",Winger,16,0,0,1,0,0,0,0,0
+,"WHITE, Wattie ",Inside Forward,38,25,1,1,0,0,0,0,0
+,"WILSON, Tommy ",Winger,1,1,0,0,0,0,0,0,0
+,"WOLSTENHOLME, Tom ",Wing Half,6,0,0,1,0,0,0,0,0

@@ -1,81 +1,40 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1905/06
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Bert	Winger	
-										
-BACHE, Joe	Inside Forward	
-										
-BODEN, John	Centre Half	
-										
-BRAWN, Billy	Winger	
-										
-BROWN, William	Full Back	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CODLING, Rowland	Wing Half	
-										
-COOCH, Harry	Goalkeeper	
-										
-CORBETT, Watty	Full Back	
-										
-ELSTON, Arthur	Winger	
-										
-EVANS, Albert	Full Back	
-										
-FREEMAN, Walter	Centre Forward	
-										
-GARRATT, George	Winger	
-										
-GARRATY, Billy	Inside Forward	
-										
-GEORGE, Billy	Goalkeeper	
-										
-GREENHALGH, Sam	Centre Half	
-										
-HADLEY, Harry	Wing Half	
-										
-HALL, Bert	Winger	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HARRIS, George	Wing Half	
-										
-HARTSHORNE, Albert	Full Back	
-										
-HISBENT, Joe	Full Back	
-										
-JOHNSON, Joe	Goalkeeper	
-										
-KINGABY, Bert	Winger	
-										
-LEAKE, Alex	Centre Half	
-										
-LOGAN, James	Wing Half	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MILES, Alf	Full Back	
-										
-MILLINGTON, Charlie	Winger	
-										
-NOON, Micky	Full Back	
-										
-NORTHEY, George	Inside Forward	
-										
-PEARSON, Joe	Wing Half	
-										
-RILEY, Tom	Full Back	
-										
-SPENCER, Howard	Full Back	
-										
-TOOTH, John	Winger	
-										
-WALTERS, Joe	Inside Forward	
-										
-WILKES, Albert	Wing Half	
-										
-WINDMILL, Joseph	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Bert ",Winger,3,0,0,0,0,0,0,0,0
+,"BACHE, Joe ",Inside Forward,31,13,0,3,1,0,0,0,0
+,"BODEN, John ",Centre Half,9,2,0,0,0,0,0,0,0
+,"BRAWN, Billy ",Winger,15,3,0,0,0,0,0,0,0
+,"BROWN, William ",Full Back,1,0,0,1,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,8,3,0,0,0,0,0,0,0
+,"CODLING, Rowland ",Wing Half,3,0,0,0,0,0,0,0,0
+,"COOCH, Harry ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"CORBETT, Watty ",Full Back,4,0,0,0,0,0,0,0,0
+,"ELSTON, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"EVANS, Albert ",Full Back,14,0,0,1,0,0,0,0,0
+,"FREEMAN, Walter ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GARRATT, George ",Winger,13,0,0,4,1,0,0,0,0
+,"GARRATY, Billy ",Inside Forward,33,18,3,4,4,0,0,0,0
+,"GEORGE, Billy ",Goalkeeper,32,0,0,4,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,12,0,0,0,0,0,0,0,0
+,"HADLEY, Harry ",Wing Half,11,0,0,0,0,0,0,0,0
+,"HALL, Bert ",Winger,30,4,0,4,4,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,32,19,0,3,1,0,0,0,0
+,"HARRIS, George ",Wing Half,7,0,0,1,0,0,0,0,0
+,"HARTSHORNE, Albert ",Full Back,0,0,0,0,0,0,0,0,0
+,"HISBENT, Joe ",Full Back,2,0,0,0,0,0,0,0,0
+,"JOHNSON, Joe ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"KINGABY, Bert ",Winger,4,0,0,0,0,0,0,0,0
+,"LEAKE, Alex ",Centre Half,26,0,0,0,0,0,0,0,0
+,"LOGAN, James ",Wing Half,7,0,0,4,0,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,7,4,0,0,0,0,0,0,0
+,"MILES, Alf ",Full Back,7,0,0,0,0,0,0,0,0
+,"MILLINGTON, Charlie ",Winger,6,3,0,1,4,0,0,0,0
+,"NOON, Micky ",Full Back,4,0,0,1,0,0,0,0,0
+,"NORTHEY, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PEARSON, Joe ",Wing Half,26,0,0,4,1,0,0,0,0
+,"RILEY, Tom ",Full Back,4,0,0,0,0,0,0,0,0
+,"SPENCER, Howard ",Full Back,33,0,0,4,0,0,0,0,0
+,"TOOTH, John ",Winger,0,0,0,0,0,0,0,0,0
+,"WALTERS, Joe ",Inside Forward,7,2,0,1,0,0,0,0,0
+,"WILKES, Albert ",Wing Half,7,0,0,1,1,0,0,0,0
+,"WINDMILL, Joseph ",Wing Half,13,0,0,3,0,0,0,0,0
