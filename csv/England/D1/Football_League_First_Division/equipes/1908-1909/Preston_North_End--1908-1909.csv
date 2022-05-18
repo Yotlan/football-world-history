@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOND, Dickie	Winger	
-										
-BOOTH, Tom	Centre Half	
-										
-CARLIN, Jack	Inside Forward	
-										
-CHADWICK, Thomas	Centre Half	
-										
-DANSON, Herbie	Winger	
-										
-DAWSON, Charlie	Winger	
-										
-DERBYSHIRE, Joe	Full Back	
-										
-HENDERSON, Jimmy	Wing Half	
-										
-HODGSON, William	Inside Forward	
-										
-HOLDSWORTH, Eddie	Wing Half	
-										
-HUDSON, George	Winger	
-										
-LAVERY, William	Full Back	
-										
-LYON, Billy	Wing Half	
-										
-MAIN, William	Winger	
-										
-MANSFIELD, Eversley	Inside Forward	
-										
-MCBRIDE, Peter	Goalkeeper	
-										
-MCCALL, Joe	Centre Half	
-										
-MCFADYEN, Charlie	Full Back	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-PLATT, Jack	Inside Forward	
-										
-RODWAY, Tommy	Full Back	
-										
-SANDERSON, William	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-SMITH, Richard	Centre Forward	
-										
-TAYLOR, Herbert	Goalkeeper	
-										
-WILSON, James	Inside Forward	
-										
-WINCHESTER, Jack	Full Back	
-										
-WINTERHALDER, Arthur	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOND, Dickie ",Winger,29,2,0,1,0,0,0,0,0
+,"BOOTH, Tom ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CARLIN, Jack ",Inside Forward,7,1,0,1,0,0,0,0,0
+,"CHADWICK, Thomas ",Centre Half,9,0,0,0,0,0,0,0,0
+,"DANSON, Herbie ",Winger,30,6,0,2,0,0,0,0,0
+,"DAWSON, Charlie ",Winger,15,6,0,1,1,0,0,0,0
+,"DERBYSHIRE, Joe ",Full Back,2,2,2,0,0,0,0,0,0
+,"HENDERSON, Jimmy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"HODGSON, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HOLDSWORTH, Eddie ",Wing Half,25,0,0,2,0,0,0,0,0
+,"HUDSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"LAVERY, William ",Full Back,8,0,0,0,0,0,0,0,0
+,"LYON, Billy ",Wing Half,34,3,3,2,1,1,0,0,0
+,"MAIN, William ",Winger,6,0,0,0,0,0,0,0,0
+,"MANSFIELD, Eversley ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCBRIDE, Peter ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,23,0,0,0,0,0,0,0,0
+,"MCFADYEN, Charlie ",Full Back,19,0,0,1,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"PLATT, Jack ",Inside Forward,12,4,0,0,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,30,0,0,1,0,0,0,0,0
+,"SANDERSON, William ",Winger,24,5,0,2,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,30,6,0,2,0,0,0,0,0
+,"SMITH, Richard ",Centre Forward,6,1,0,1,0,0,0,0,0
+,"TAYLOR, Herbert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WILSON, James ",Inside Forward,32,11,0,2,0,0,0,0,0
+,"WINCHESTER, Jack ",Full Back,17,0,0,2,0,0,0,0,0
+,"WINTERHALDER, Arthur ",Winger,7,0,0,0,0,0,0,0,0

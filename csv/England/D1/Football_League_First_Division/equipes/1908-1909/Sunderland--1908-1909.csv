@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AGNEW, William	Full Back	
-										
-ALLAN, Tom	Goalkeeper	
-										
-BRIDGETT, Arthur	Winger	
-										
-BROWN, Arthur	Centre Forward	
-										
-CLARK, Billy	Winger	
-										
-DAYKIN, Tom	Full Back	
-										
-FORSTER, Harry	Full Back	
-										
-HASTINGS, John	Full Back	
-										
-HOGG, Billy	Winger	
-										
-HOLLEY, George	Inside Forward	
-										
-HOPE, James	Inside Forward	
-										
-JARVIE, Gavin	Wing Half	
-										
-JOHNSTON, John	Full Back	
-										
-KELLY, Peter	Full Back	
-										
-LOW, Harry	Wing Half	
-										
-MARTIN, Isaac 'Pompey'	Centre Half	
-										
-MCINTOSH, Angus	Inside Forward	
-										
-MILTON, Albert	Full Back	
-										
-MONTGOMERY, Bill	Inside Forward	
-										
-MORDUE, Jackie	Winger	
-										
-NEVIN, John	Centre Half	
-										
-ROOSE, Dick	Goalkeeper	
-										
-TAIT, Tommy	Wing Half	
-										
-THOMPSON, John	Winger	
-										
-THOMSON, Charlie	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AGNEW, William ",Full Back,19,0,0,0,0,0,0,0,0
+,"ALLAN, Tom ",Goalkeeper,3,0,0,1,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,34,11,0,5,1,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,37,18,0,5,2,0,0,0,0
+,"CLARK, Billy ",Winger,12,2,0,0,0,0,0,0,0
+,"DAYKIN, Tom ",Full Back,4,0,0,0,0,0,0,0,0
+,"FORSTER, Harry ",Full Back,33,0,0,5,0,0,0,0,0
+,"HASTINGS, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"HOGG, Billy ",Winger,21,9,0,5,1,0,0,0,0
+,"HOLLEY, George ",Inside Forward,30,19,1,5,1,0,0,0,0
+,"HOPE, James ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"JARVIE, Gavin ",Wing Half,23,1,0,4,0,0,0,0,0
+,"JOHNSTON, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"KELLY, Peter ",Full Back,1,0,0,0,0,0,0,0,0
+,"LOW, Harry ",Wing Half,31,2,0,4,0,0,0,0,0
+,"MARTIN, Isaac 'Pompey' ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MCINTOSH, Angus ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MILTON, Albert ",Full Back,17,0,0,3,0,0,0,0,0
+,"MONTGOMERY, Bill ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,33,7,0,5,1,0,0,0,0
+,"NEVIN, John ",Centre Half,0,0,0,0,0,0,0,0,0
+,"ROOSE, Dick ",Goalkeeper,35,0,0,4,0,0,0,0,0
+,"TAIT, Tommy ",Wing Half,27,0,0,4,0,0,0,0,0
+,"THOMPSON, John ",Winger,7,5,0,0,0,0,0,0,0
+,"THOMSON, Charlie ",Centre Half,36,2,0,5,2,0,0,0,0

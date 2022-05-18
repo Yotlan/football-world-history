@@ -1,43 +1,21 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CHALMERS, Tommy	Centre Half	
-										
-CLAMP, Arthur	Centre Half	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-DEAN, Jerry	Winger	
-										
-DODD, George	Inside Forward	
-										
-EMBERTON, Teddy	Wing Half	
-										
-FLINT, Billy	Wing Half	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-HARPER, Roly	Winger	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JONES, Freddie	Inside Forward	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MORLEY, Bert	Full Back	
-										
-MOSLEY, Andrew	Full Back	
-										
-NICHOL, Willie	Centre Forward	
-										
-SPRIGGS, Frank	Centre Forward	
-										
-WALKER, Albert	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CANTRELL, Jimmy ",Centre Forward,38,18,0,1,0,0,0,0,0
+,"CHALMERS, Tommy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"CLAMP, Arthur ",Centre Half,38,0,0,1,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,34,1,0,1,0,0,0,0,0
+,"DEAN, Jerry ",Winger,35,7,2,1,0,0,0,0,0
+,"DODD, George ",Inside Forward,35,9,1,1,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,38,0,0,1,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,5,0,0,0,0,0,0,0,0
+,"HARPER, Roly ",Winger,3,0,0,0,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"JONES, Freddie ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,38,7,0,1,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,37,0,0,1,0,0,0,0,0
+,"MORLEY, Bert ",Full Back,31,0,0,1,0,0,0,0,0
+,"MOSLEY, Andrew ",Full Back,6,0,0,0,0,0,0,0,0
+,"NICHOL, Willie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SPRIGGS, Frank ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WALKER, Albert ",Winger,34,7,0,1,0,0,0,0,0

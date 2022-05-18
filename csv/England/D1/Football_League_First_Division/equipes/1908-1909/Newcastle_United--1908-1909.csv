@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Centre Forward	
-										
-ANDERSON, Andrew	Winger	
-										
-BAINBRIDGE, Joe	Full Back	
-										
-BEATON, Simon	Wing Half	
-										
-BLANTHORNE, Bob	Centre Forward	
-										
-CARR, Jack	Wing Half	
-										
-DUNCAN, Scott	Winger	
-										
-GARDNER, Alec	Wing Half	
-										
-GOSNELL, Bert	Winger	
-										
-GRIERSON, Bob	Inside Forward	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-JOBEY, George	Wing Half	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LIDDELL, Bob	Wing Half	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-PUDAN, Dick	Full Back	
-										
-RANDALL, Charles	Inside Forward	
-										
-RIDLEY, James	Winger	
-										
-RUTHERFORD, Jock	Winger	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-STEWART, Jimmy	Inside Forward	
-										
-VEITCH, Colin	Centre Half	
-										
-WHITSON, Tony	Full Back	
-										
-WILLIS, David	Wing Half	
-										
-WILSON, George	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Centre Forward,9,5,0,0,0,0,1,1,0
+,"ANDERSON, Andrew ",Winger,19,3,0,5,2,0,1,0,0
+,"BAINBRIDGE, Joe ",Full Back,0,0,0,0,0,0,0,0,0
+,"BEATON, Simon ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BLANTHORNE, Bob ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"CARR, Jack ",Wing Half,11,0,0,0,0,0,0,0,0
+,"DUNCAN, Scott ",Winger,14,2,0,2,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,12,0,0,2,0,0,0,0,0
+,"GOSNELL, Bert ",Winger,5,0,0,0,0,0,0,0,0
+,"GRIERSON, Bob ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,26,5,0,5,0,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,26,6,0,6,1,0,1,0,0
+,"JOBEY, George ",Wing Half,10,1,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,38,0,0,7,0,0,1,0,0
+,"LIDDELL, Bob ",Wing Half,5,1,0,0,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,1,0,0,1,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,30,1,1,6,0,0,1,0,0
+,"MCWILLIAM, Peter ",Wing Half,27,0,0,7,0,0,1,0,0
+,"PUDAN, Dick ",Full Back,3,0,0,0,0,0,0,0,0
+,"RANDALL, Charles ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RIDLEY, James ",Winger,5,1,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,24,5,0,5,2,0,1,1,0
+,"SHEPHERD, Albert ",Centre Forward,14,11,1,7,4,1,0,0,0
+,"STEWART, Jimmy ",Inside Forward,25,8,0,2,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,34,9,4,7,0,0,1,0,0
+,"WHITSON, Tony ",Full Back,30,0,0,7,0,0,1,0,0
+,"WILLIS, David ",Wing Half,20,1,0,1,0,0,1,0,0
+,"WILSON, George ",Winger,28,5,0,7,5,0,1,0,0

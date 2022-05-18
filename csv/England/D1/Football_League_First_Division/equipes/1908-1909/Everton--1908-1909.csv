@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Hugh	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BARLOW, George	Winger	
-										
-BERRY, Clarence	Goalkeeper	
-										
-BOLTON, Hugh	Inside Forward	
-										
-BORTHWICK, John	Centre Half	
-										
-BUCK, Harry	Winger	
-										
-CLIFFORD, Bob	Centre Half	
-										
-COLEMAN, Tim	Inside Forward	
-										
-DAWSON, Harry	Winger	
-										
-DONNACHIE, Joe	Winger	
-										
-FREEMAN, Bert	Centre Forward	
-										
-HARRIS, Val	Wing Half	
-										
-JONES, Thomas	Centre Forward	
-										
-LACEY, Billy	Winger	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MOUNTFORD, Harry	Winger	
-										
-RAFFERTY, Daniel	Wing Half	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SHARP, Jack	Winger	
-										
-STEVENSON, William	Full Back	
-										
-STRETTLE, Sam	Full Back	
-										
-TAYLOR, Jack	Centre Half	
-										
-TURNER, Bob	Winger	
-										
-WHITE, Wattie	Inside Forward	
-										
-YOUNG, Sandy	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Hugh ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BALMER, Bob ",Full Back,35,0,0,2,0,0,0,0,0
+,"BARLOW, George ",Winger,23,4,0,1,0,0,0,0,0
+,"BERRY, Clarence ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BOLTON, Hugh ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"BORTHWICK, John ",Centre Half,1,0,0,0,0,0,0,0,0
+,"BUCK, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"CLIFFORD, Bob ",Centre Half,9,0,0,1,0,0,0,0,0
+,"COLEMAN, Tim ",Inside Forward,33,19,0,2,1,0,0,0,0
+,"DAWSON, Harry ",Winger,4,0,0,1,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,3,0,0,0,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,37,38,0,1,0,0,0,0,0
+,"HARRIS, Val ",Wing Half,36,0,0,2,0,0,0,0,0
+,"JONES, Thomas ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,38,0,0,2,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,33,0,0,2,0,0,0,0,0
+,"MOUNTFORD, Harry ",Winger,2,0,0,0,0,0,0,0,0
+,"RAFFERTY, Daniel ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,36,0,0,2,0,0,0,0,0
+,"SHARP, Jack ",Winger,31,6,2,2,1,0,0,0,0
+,"STEVENSON, William ",Full Back,2,0,0,0,0,0,0,0,0
+,"STRETTLE, Sam ",Full Back,1,0,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,27,1,0,1,0,0,0,0,0
+,"TURNER, Bob ",Winger,5,1,0,0,0,0,0,0,0
+,"WHITE, Wattie ",Inside Forward,18,3,0,2,1,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,23,9,0,1,0,0,0,0,0

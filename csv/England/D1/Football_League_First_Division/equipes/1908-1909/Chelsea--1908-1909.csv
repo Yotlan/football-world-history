@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRNIE, Ted	Wing Half	
-										
-BRAWN, Billy	Winger	
-										
-BRIDGEMAN, Billy	Winger	
-										
-CAMERON, Jock	Full Back	
-										
-CARTWRIGHT, Bill	Full Back	
-										
-DOUGLAS, Angus	Winger	
-										
-DOWNING, Sam	Wing Half	
-										
-FAIRGRAY, Norrie	Winger	
-										
-FREEMAN, Charlie	Inside Forward	
-										
-HENDERSON, George	Wing Half	
-										
-HILSDON, George	Centre Forward	
-										
-HOLDEN, Arthur	Winger	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-KENNEDY, George	Wing Half	
-										
-KEY, George	Wing Half	
-										
-MAIR, Tommy	Winger	
-										
-MCROBERTS, Bobby	Centre Forward	
-										
-MILLER, Tommy	Full Back	
-										
-MONK, Frank	Centre Half	
-										
-REILLY, Edward	Inside Forward	
-										
-ROBINSON, Nat	Goalkeeper	
-										
-ROUSE, Fred	Inside Forward	
-										
-STOCKTON, Colin	Winger	
-										
-WALTON, Joe	Full Back	
-										
-WARREN, Ben	Wing Half	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WINDRIDGE, Jimmy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRNIE, Ted ",Wing Half,31,0,0,3,0,0,0,0,0
+,"BRAWN, Billy ",Winger,32,3,1,2,0,0,0,0,0
+,"BRIDGEMAN, Billy ",Winger,16,4,0,1,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,35,0,0,3,0,0,0,0,0
+,"CARTWRIGHT, Bill ",Full Back,12,0,0,0,0,0,0,0,0
+,"DOUGLAS, Angus ",Winger,7,1,0,0,0,0,0,0,0
+,"DOWNING, Sam ",Wing Half,6,0,0,0,0,0,0,0,0
+,"FAIRGRAY, Norrie ",Winger,18,0,0,2,0,0,0,0,0
+,"FREEMAN, Charlie ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"HENDERSON, George ",Wing Half,6,0,0,1,0,0,0,0,0
+,"HILSDON, George ",Centre Forward,34,25,7,3,2,0,0,0,0
+,"HOLDEN, Arthur ",Winger,4,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,23,9,0,1,0,0,0,0,0
+,"KENNEDY, George ",Wing Half,10,0,0,2,0,0,0,0,0
+,"KEY, George ",Wing Half,4,0,0,0,0,0,0,0,0
+,"MAIR, Tommy ",Winger,4,0,0,0,0,0,0,0,0
+,"MCROBERTS, Bobby ",Centre Forward,15,0,0,0,0,0,0,0,0
+,"MILLER, Tommy ",Full Back,20,0,0,3,0,0,0,0,0
+,"MONK, Frank ",Centre Half,0,0,0,0,0,0,0,0,0
+,"REILLY, Edward ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Nat ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"ROUSE, Fred ",Inside Forward,18,5,0,3,0,0,0,0,0
+,"STOCKTON, Colin ",Winger,0,0,0,0,0,0,0,0,0
+,"WALTON, Joe ",Full Back,12,0,0,0,0,0,0,0,0
+,"WARREN, Ben ",Wing Half,34,3,0,3,1,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,36,0,0,3,0,0,0,0,0
+,"WINDRIDGE, Jimmy ",Inside Forward,34,6,0,3,0,0,0,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ACKERLEY, George	Inside Forward	
-										
-ALLMAN, Dick	Centre Forward	
-										
-BERRY, Arthur	Winger	
-										
-BOWYER, Sam	Inside Forward	
-										
-BRADLEY, Jimmy	Wing Half	
-										
-CHORLTON, Tom	Full Back	
-										
-COX, Jack	Winger	
-										
-CRAWFORD, Bob	Full Back	
-										
-DUNLOP, Billy	Full Back	
-										
-GODDARD, Arthur	Winger	
-										
-GOODE, Bert	Inside Forward	
-										
-GRIFFIN, Mick	Winger	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-HEWITT, Joe	Centre Forward	
-										
-HUGHES, Jimmy	Wing Half	
-										
-HUNTER, Bill	Centre Forward	
-										
-ORR, Ronald	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PARRY, Maurice	Wing Half	
-										
-PEAKE, Ernie	Wing Half	
-										
-RAISBECK, Alex	Centre Half	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROGERS, Tom	Full Back	
-										
-SAUL, Percy	Full Back	
-										
-SLOAN, Donald	Goalkeeper	
-										
-SMITH, Fred	Centre Forward	
-										
-SMITH, Wally	Inside Forward	
-										
-UREN, Harold	Winger	
-										
-WEST, Alf	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ACKERLEY, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ALLMAN, Dick ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BERRY, Arthur ",Winger,2,0,0,0,0,0,0,0,0
+,"BOWYER, Sam ",Inside Forward,14,4,0,0,0,0,0,0,0
+,"BRADLEY, Jimmy ",Wing Half,34,1,0,2,0,0,0,0,0
+,"CHORLTON, Tom ",Full Back,34,3,3,2,0,0,0,0,0
+,"COX, Jack ",Winger,28,2,0,2,1,0,0,0,0
+,"CRAWFORD, Bob ",Full Back,7,0,0,0,0,0,0,0,0
+,"DUNLOP, Billy ",Full Back,12,0,0,1,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,36,4,0,2,0,0,0,0,0
+,"GOODE, Bert ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"GRIFFIN, Mick ",Winger,1,0,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,30,1,0,1,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,33,12,0,2,1,0,0,0,0
+,"HUGHES, Jimmy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HUNTER, Bill ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,33,20,1,2,3,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,17,3,0,1,1,0,0,0,0
+,"PARRY, Maurice ",Wing Half,20,0,0,2,0,0,0,0,0
+,"PEAKE, Ernie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"RAISBECK, Alex ",Centre Half,15,2,1,1,0,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,21,5,0,1,1,0,0,0,0
+,"ROGERS, Tom ",Full Back,6,0,0,0,0,0,0,0,0
+,"SAUL, Percy ",Full Back,15,0,0,1,0,0,0,0,0
+,"SLOAN, Donald ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"SMITH, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SMITH, Wally ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"UREN, Harold ",Winger,1,0,0,0,0,0,0,0,0
+,"WEST, Alf ",Full Back,10,0,0,0,0,0,0,0,0

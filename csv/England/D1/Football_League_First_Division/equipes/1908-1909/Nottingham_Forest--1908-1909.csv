@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jack	Wing Half	
-										
-BANNISTER, Thomas	Inside Forward	
-										
-BIRCH, Bill	Winger	
-										
-BUTLER, Dick	Wing Half	
-										
-DUDLEY, Walter	Full Back	
-										
-GIBSON, Tommy	Full Back	
-										
-GREEN, Arthur	Centre Forward	
-										
-HOOPER, Bill	Winger	
-										
-HUGHES, Teddy	Wing Half	
-										
-IREMONGER, Jim	Full Back	
-										
-LINACRE, Harry	Goalkeeper	
-										
-MALTBY, George 'Ginger'	Full Back	
-										
-MARRISON, Tom	Inside Forward	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEEDHAM, George	Wing Half	
-										
-NIBLO, Tommy	Centre Forward	
-										
-NICHOL, Willie	Centre Forward	
-										
-ROWAN, Fred	Inside Forward	
-										
-SHEARMAN, Bill	Inside Forward	
-										
-SPOUNCER, Alf	Winger	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHITCHURCH, Herbert	Inside Forward	
-										
-WOLFE, George	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jack ",Wing Half,37,0,0,4,0,0,0,0,0
+,"BANNISTER, Thomas ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BIRCH, Bill ",Winger,14,2,0,0,0,0,0,0,0
+,"BUTLER, Dick ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,38,0,0,4,0,0,0,0,0
+,"GIBSON, Tommy ",Full Back,7,0,0,0,0,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,6,3,1,0,0,0,0,0,0
+,"HOOPER, Bill ",Winger,37,8,0,4,2,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,37,3,0,4,0,0,0,0,0
+,"IREMONGER, Jim ",Full Back,8,0,0,0,0,0,0,0,0
+,"LINACRE, Harry ",Goalkeeper,30,0,0,4,0,0,0,0,0
+,"MALTBY, George 'Ginger' ",Full Back,32,0,0,4,0,0,0,0,0
+,"MARRISON, Tom ",Inside Forward,36,10,0,4,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,34,11,0,3,0,0,0,0,0
+,"NEEDHAM, George ",Wing Half,15,1,0,2,0,0,0,0,0
+,"NIBLO, Tommy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"NICHOL, Willie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"ROWAN, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SHEARMAN, Bill ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SPOUNCER, Alf ",Winger,19,3,1,4,1,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,34,22,4,4,3,1,0,0,0
+,"WHITCHURCH, Herbert ",Inside Forward,7,2,0,1,0,0,0,0,0
+,"WOLFE, George ",Centre Half,23,0,0,2,0,0,0,0,0

@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1908/09
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARTLETT, Albert	Winger	
-										
-CAMPBELL, Bob	Full Back	
-										
-CHAPLIN, George	Full Back	
-										
-CLARKE, Willie	Winger	
-										
-COMRIE, Jimmy	Centre Half	
-										
-FARREN, Fred	Full Back	
-										
-GOULD, Willie	Winger	
-										
-GRIMES, Billy	Winger	
-										
-HANDLEY, George	Winger	
-										
-HANGER, Harry	Wing Half	
-										
-HARDMAN, Harold	Winger	
-										
-HIGGINSON, Sam	Inside Forward	
-										
-KENWORTHY, Ernest	Inside Forward	
-										
-LEESE, Harry	Inside Forward	
-										
-LINTOTT, Evelyn	Centre Half	
-										
-LOGAN, Peter	Winger	
-										
-MCDERMOTT, Tommy	Inside Forward	
-										
-MCDONALD, Jimmy	Wing Half	
-										
-MCLEAN, Jimmy	Full Back	
-										
-MELLORS, Mark	Goalkeeper	
-										
-MELVILLE, David	Wing Half	
-										
-O'ROURKE, Frank	Centre Forward	
-										
-ROBERTS, Jimmy	Full Back	
-										
-ROBINSON, George	Wing Half	
-										
-SMITH, Wally	Inside Forward	
-										
-SMITH, Billy	Inside Forward	
-										
-SPENDIFF, Martin	Goalkeeper	
-										
-TORRANCE, Bob	Centre Half	
-										
-WHITTAKER, Fred	Inside Forward	
-										
-WHITTINGHAM, Bob	Inside Forward	
-										
-WILLIAMS, Louis	Centre Half	
-										
-WILSON, Clare	Wing Half	
-										
-WISE, Micky	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARTLETT, Albert ",Winger,14,1,0,1,0,0,0,0,0
+,"CAMPBELL, Bob ",Full Back,25,0,0,3,0,0,0,0,0
+,"CHAPLIN, George ",Full Back,15,0,0,0,0,0,0,0,0
+,"CLARKE, Willie ",Winger,8,2,0,0,0,0,0,0,0
+,"COMRIE, Jimmy ",Centre Half,12,1,0,3,0,0,0,0,0
+,"FARREN, Fred ",Full Back,25,0,0,3,0,0,0,0,0
+,"GOULD, Willie ",Winger,18,2,0,1,0,0,0,0,0
+,"GRIMES, Billy ",Winger,15,1,0,1,0,0,0,0,0
+,"HANDLEY, George ",Winger,8,3,0,1,0,0,0,0,0
+,"HANGER, Harry ",Wing Half,31,0,0,2,1,0,0,0,0
+,"HARDMAN, Harold ",Winger,12,2,0,2,1,0,0,0,0
+,"HIGGINSON, Sam ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"KENWORTHY, Ernest ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LEESE, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LINTOTT, Evelyn ",Centre Half,20,1,0,2,0,0,0,0,0
+,"LOGAN, Peter ",Winger,7,0,0,0,0,0,0,0,0
+,"MCDERMOTT, Tommy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"MCDONALD, Jimmy ",Wing Half,17,2,0,3,0,0,0,0,0
+,"MCLEAN, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"MELVILLE, David ",Wing Half,5,0,0,0,0,0,0,0,0
+,"O'ROURKE, Frank ",Centre Forward,38,19,0,3,0,0,0,0,0
+,"ROBERTS, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROBINSON, George ",Wing Half,34,2,0,2,1,0,0,0,0
+,"SMITH, Wally ",Inside Forward,16,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"SPENDIFF, Martin ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"TORRANCE, Bob ",Centre Half,9,0,0,0,0,0,0,0,0
+,"WHITTAKER, Fred ",Inside Forward,9,1,0,1,0,0,0,0,0
+,"WHITTINGHAM, Bob ",Inside Forward,17,10,2,2,0,0,0,0,0
+,"WILLIAMS, Louis ",Centre Half,10,0,0,0,0,0,0,0,0
+,"WILSON, Clare ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WISE, Micky ",Goalkeeper,1,0,0,0,0,0,0,0,0
