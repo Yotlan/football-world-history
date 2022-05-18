@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTLEY, Harry	Centre Forward	
-										
-BOOTH, Frank	Winger	
-										
-BRADLEY, Herbert	Winger	
-										
-BRENNAN, James	Inside Forward	
-										
-BROOME, Sam	Inside Forward	
-										
-BULLEN, Teddy	Wing Half	
-										
-CHORLTON, Gilbert	Wing Half	
-										
-CURRIE, Bob	Inside Forward	
-										
-DAVIDSON, Andy	Wing Half	
-										
-DEWHURST, Jack	Centre Half	
-										
-GILDEA, Peter	Winger	
-										
-HAMPSON, Billy	Full Back	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HUMPHREYS, Billy	Wing Half	
-										
-KAY, Tom	Inside Forward	
-										
-LAMBERTON, George	Inside Forward	
-										
-LEEMING, Joe	Full Back	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MCMAHON, Johnny	Full Back	
-										
-MEARNS, Fred	Goalkeeper	
-										
-PEARSON, Harry	Winger	
-										
-RAE, Tommy	Wing Half	
-										
-RAESIDE, Jimmy	Goalkeeper	
-										
-RICHARDS, Billy	Winger	
-										
-TALBOT, Fred	Inside Forward	
-										
-TUFNELL, Harry	Inside Forward	
-										
-WILKINSON, Harry	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTLEY, Harry ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BOOTH, Frank ",Winger,36,3,0,2,0,0,0,0,0
+,"BRADLEY, Herbert ",Winger,2,0,0,0,0,0,0,0,0
+,"BRENNAN, James ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BROOME, Sam ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BULLEN, Teddy ",Wing Half,12,1,0,0,0,0,0,0,0
+,"CHORLTON, Gilbert ",Wing Half,2,0,0,0,0,0,0,0,0
+,"CURRIE, Bob ",Inside Forward,21,5,0,2,1,0,0,0,0
+,"DAVIDSON, Andy ",Wing Half,27,0,0,2,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,35,0,0,2,0,0,0,0,0
+,"GILDEA, Peter ",Winger,24,3,0,2,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,2,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,34,19,0,1,1,0,0,0,0
+,"HUMPHREYS, Billy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,34,16,0,2,0,0,0,0,0
+,"LAMBERTON, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LEEMING, Joe ",Full Back,22,0,0,0,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,30,4,3,2,0,0,0,0,0
+,"MCMAHON, Johnny ",Full Back,23,0,0,2,0,0,0,0,0
+,"MEARNS, Fred ",Goalkeeper,2,0,0,1,0,0,0,0,0
+,"PEARSON, Harry ",Winger,9,2,0,0,0,0,0,0,0
+,"RAE, Tommy ",Wing Half,33,0,0,2,0,0,0,0,0
+,"RAESIDE, Jimmy ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"RICHARDS, Billy ",Winger,9,3,0,0,0,0,0,0,0
+,"TALBOT, Fred ",Inside Forward,1,0,0,1,0,0,0,0,0
+,"TUFNELL, Harry ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"WILKINSON, Harry ",Winger,2,0,0,0,0,0,0,0,0

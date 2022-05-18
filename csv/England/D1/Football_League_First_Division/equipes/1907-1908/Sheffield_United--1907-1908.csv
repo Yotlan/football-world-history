@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATTY, Billy	Inside Forward	
-										
-BENSON, Bob	Full Back	
-										
-BLUFF, Edgar	Inside Forward	
-										
-BOOTH, Billy	Centre Half	
-										
-BROMAGE, Billy	Winger	
-										
-BROOKS, Joe	Full Back	
-										
-BROWN, Arthur	Centre Forward	
-										
-CASSIDY, Pat	Centre Half	
-										
-DRAKE, Alonzo	Inside Forward	
-										
-FEATHERSTONE, George	Inside Forward	
-										
-HARDINGE, Wally	Inside Forward	
-										
-HOBSON, James	Winger	
-										
-HOFTON, Leslie	Full Back	
-										
-JOHNSON, Arthur	Wing Half	
-										
-JOHNSON, Charlie	Full Back	
-										
-JOHNSON, Harry	Wing Half	
-										
-KITCHEN, Joe	Centre Forward	
-										
-LANG, Johnny	Winger	
-										
-LEVICK, Frank	Inside Forward	
-										
-LIEVESLEY, Joe	Goalkeeper	
-										
-LIPSHAM, Bert	Winger	
-										
-MCGUIRE, James	Wing Half	
-										
-MELLORS, Mark	Goalkeeper	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-NORTH, Tommy	Centre Half	
-										
-PARKER, Billy	Wing Half	
-										
-PEART, Jack	Centre Forward	
-										
-RENSHAW, Brien	Centre Half	
-										
-SMITH, Richard	Centre Forward	
-										
-THOMPSON, George	Winger	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WILKINSON, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATTY, Billy ",Inside Forward,15,3,0,1,0,0,0,0,0
+,"BENSON, Bob ",Full Back,32,2,2,2,0,0,0,0,0
+,"BLUFF, Edgar ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"BOOTH, Billy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"BROMAGE, Billy ",Winger,20,2,0,2,0,0,0,0,0
+,"BROOKS, Joe ",Full Back,27,0,0,0,0,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,27,15,2,2,1,0,0,0,0
+,"CASSIDY, Pat ",Centre Half,1,0,0,0,0,0,0,0,0
+,"DRAKE, Alonzo ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"FEATHERSTONE, George ",Inside Forward,10,4,0,0,0,0,0,0,0
+,"HARDINGE, Wally ",Inside Forward,21,5,0,2,0,0,0,0,0
+,"HOBSON, James ",Winger,8,1,0,0,0,0,0,0,0
+,"HOFTON, Leslie ",Full Back,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Arthur ",Wing Half,2,0,0,0,0,0,0,0,0
+,"JOHNSON, Charlie ",Full Back,16,0,0,2,0,0,0,0,0
+,"JOHNSON, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"KITCHEN, Joe ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"LANG, Johnny ",Winger,7,1,0,0,0,0,0,0,0
+,"LEVICK, Frank ",Inside Forward,18,6,0,0,0,0,0,0,0
+,"LIEVESLEY, Joe ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"LIPSHAM, Bert ",Winger,20,2,0,1,1,0,0,0,0
+,"MCGUIRE, James ",Wing Half,12,0,0,0,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,32,3,0,2,0,0,0,0,0
+,"NORTH, Tommy ",Centre Half,4,0,0,0,0,0,0,0,0
+,"PARKER, Billy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"RENSHAW, Brien ",Centre Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Richard ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"THOMPSON, George ",Winger,23,3,0,2,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,36,1,0,2,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,19,1,0,2,0,0,0,0,0

@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANNISTER, Jimmy	Inside Forward	
-										
-BELL, Alex	Wing Half	
-										
-BERRY, Bill	Winger	
-										
-BROOMFIELD, Herbert	Goalkeeper	
-										
-BURGESS, Herbert	Full Back	
-										
-DALTON, Edward	Full Back	
-										
-DOWNIE, Alex	Wing Half	
-										
-DUCKWORTH, Dick	Wing Half	
-										
-HALSE, Harold	Inside Forward	
-										
-HOLDEN, Dick	Full Back	
-										
-HULME, Aaron	Full Back	
-										
-MCGILLIVRAY, John	Centre Half	
-										
-MENZIES, Alex	Centre Forward	
-										
-MEREDITH, Billy	Winger	
-										
-MOGER, Harry	Goalkeeper	
-										
-PICKEN, John	Inside Forward	
-										
-PROUDFOOT, Peter	Inside Forward	
-										
-ROBERTS, Charlie	Centre Half	
-										
-STACEY, George	Full Back	
-										
-THOMSON, Ernest	Centre Half	
-										
-TURNBULL, Sandy	Inside Forward	
-										
-TURNBULL, Jimmy	Centre Forward	
-										
-WALL, George	Winger	
-										
-WHITESIDE, Kerr	Wing Half	
-										
-WILLIAMS, Harry	Winger	
-										
-WILSON, Tommy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANNISTER, Jimmy ",Inside Forward,36,5,0,4,1,0,1,0,0
+,"BELL, Alex ",Wing Half,35,1,0,4,0,0,1,0,0
+,"BERRY, Bill ",Winger,3,1,0,0,0,0,0,0,0
+,"BROOMFIELD, Herbert ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"BURGESS, Herbert ",Full Back,27,0,0,3,0,0,1,0,0
+,"DALTON, Edward ",Full Back,1,0,0,0,0,0,0,0,0
+,"DOWNIE, Alex ",Wing Half,10,0,0,0,0,0,0,0,0
+,"DUCKWORTH, Dick ",Wing Half,35,0,0,4,0,0,1,0,0
+,"HALSE, Harold ",Inside Forward,6,4,0,0,0,0,0,0,0
+,"HOLDEN, Dick ",Full Back,26,0,0,2,0,0,0,0,0
+,"HULME, Aaron ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCGILLIVRAY, John ",Centre Half,1,0,0,1,0,0,0,0,0
+,"MENZIES, Alex ",Centre Forward,6,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,37,10,0,4,0,0,1,1,0
+,"MOGER, Harry ",Goalkeeper,29,0,0,4,0,0,1,0,0
+,"PICKEN, John ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"PROUDFOOT, Peter ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Charlie ",Centre Half,32,2,0,3,0,0,1,0,0
+,"STACEY, George ",Full Back,18,1,0,3,0,0,1,0,0
+,"THOMSON, Ernest ",Centre Half,3,0,0,0,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,30,25,1,4,2,0,1,0,0
+,"TURNBULL, Jimmy ",Centre Forward,26,10,0,4,1,0,1,0,0
+,"WALL, George ",Winger,36,19,0,4,3,0,1,0,0
+,"WHITESIDE, Kerr ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"WILSON, Tommy ",Winger,1,0,0,0,0,0,0,0,0

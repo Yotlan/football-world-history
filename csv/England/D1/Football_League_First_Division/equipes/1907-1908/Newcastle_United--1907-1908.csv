@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-APPLEYARD, Bill	Centre Forward	
-										
-BLACKBURN, Robert	Winger	
-										
-BROWN, Harry	Inside Forward	
-										
-BROWN, Noel	Winger	
-										
-CARR, Jack	Wing Half	
-										
-CRAWFORD, Sidney	Goalkeeper	
-										
-DUFFY, Chris	Winger	
-										
-DUNCAN, Scott	Winger	
-										
-GARDNER, Alec	Wing Half	
-										
-GOSNELL, Bert	Winger	
-										
-GREY, Tom	Centre Half	
-										
-HALL, Alex	Centre Forward	
-										
-HEDLEY, George	Centre Half	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-HUGHES, Jack	Wing Half	
-										
-JOBEY, George	Wing Half	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LEONARD, Harry	Centre Forward	
-										
-LIDDELL, Bob	Wing Half	
-										
-MCCLARENCE, Joe	Inside Forward	
-										
-MCCOMBIE, Andy	Full Back	
-										
-MCCORMACK, John	Centre Half	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCCULLOCH, Alex	Inside Forward	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-NIBLO, Tommy	Centre Forward	
-										
-ORR, Ronald	Inside Forward	
-										
-PUDAN, Dick	Full Back	
-										
-RIDLEY, James	Winger	
-										
-RUTHERFORD, Jock	Winger	
-										
-SOYE, Jimmy	Inside Forward	
-										
-SPEEDIE, Finlay	Inside Forward	
-										
-VEITCH, Colin	Centre Half	
-										
-WHITSON, Tony	Full Back	
-										
-WILLIS, David	Wing Half	
-										
-WILSON, George	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"APPLEYARD, Bill ",Centre Forward,23,14,1,6,8,0,0,0,0
+,"BLACKBURN, Robert ",Winger,2,0,0,0,0,0,0,0,0
+,"BROWN, Harry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BROWN, Noel ",Winger,1,0,0,0,0,0,0,0,0
+,"CARR, Jack ",Wing Half,13,0,0,0,0,0,0,0,0
+,"CRAWFORD, Sidney ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DUFFY, Chris ",Winger,9,0,0,0,0,0,0,0,0
+,"DUNCAN, Scott ",Winger,4,0,0,0,0,0,0,0,0
+,"GARDNER, Alec ",Wing Half,35,1,0,6,2,0,0,0,0
+,"GOSNELL, Bert ",Winger,8,0,0,0,0,0,0,0,0
+,"GREY, Tom ",Centre Half,0,0,0,0,0,0,0,0,0
+,"HALL, Alex ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"HEDLEY, George ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,11,2,0,1,0,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,24,10,0,5,3,0,0,0,0
+,"HUGHES, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JOBEY, George ",Wing Half,4,1,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,38,0,0,6,0,0,0,0,0
+,"LEONARD, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LIDDELL, Bob ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCCLARENCE, Joe ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"MCCOMBIE, Andy ",Full Back,18,0,0,0,0,0,0,0,0
+,"MCCORMACK, John ",Centre Half,2,1,0,0,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,21,0,0,6,0,0,0,0,0
+,"MCCULLOCH, Alex ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCWILLIAM, Peter ",Wing Half,31,1,0,5,0,0,0,0,0
+,"NIBLO, Tommy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,19,5,1,0,0,0,0,0,0
+,"PUDAN, Dick ",Full Back,21,0,0,6,0,0,0,0,0
+,"RIDLEY, James ",Winger,7,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,19,11,0,6,4,0,0,0,0
+,"SOYE, Jimmy ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"SPEEDIE, Finlay ",Inside Forward,25,3,0,6,1,0,0,0,0
+,"VEITCH, Colin ",Centre Half,25,3,0,4,0,0,0,0,0
+,"WHITSON, Tony ",Full Back,2,0,0,0,0,0,0,0,0
+,"WILLIS, David ",Wing Half,20,1,0,3,0,0,0,0,0
+,"WILSON, George ",Winger,12,6,0,6,0,0,0,0,0

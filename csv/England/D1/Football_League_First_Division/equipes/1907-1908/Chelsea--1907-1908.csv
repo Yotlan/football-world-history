@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRNIE, Ted	Wing Half	
-										
-BRAWN, Billy	Winger	
-										
-BRIDGEMAN, Billy	Winger	
-										
-CAMERON, Jock	Full Back	
-										
-FAIRGRAY, Norrie	Winger	
-										
-FROST, Jimmy	Winger	
-										
-HARDING, Gus	Full Back	
-										
-HENDERSON, George	Wing Half	
-										
-HILSDON, George	Centre Forward	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-KEY, George	Wing Half	
-										
-KIRWAN, Jack	Winger	
-										
-LYON, Frank	Full Back	
-										
-MACKIE, Bob	Full Back	
-										
-MCKENZIE, Ronald	Inside Forward	
-										
-MCROBERTS, Bobby	Centre Forward	
-										
-MILLER, Tommy	Full Back	
-										
-MORAN, Marty	Winger	
-										
-PROUDFOOT, Peter	Inside Forward	
-										
-ROUSE, Fred	Inside Forward	
-										
-STARK, James	Centre Half	
-										
-WALTON, Joe	Full Back	
-										
-WHITEHOUSE, Ben	Inside Forward	
-										
-WHITING, Bob	Goalkeeper	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WINDRIDGE, Jimmy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRNIE, Ted ",Wing Half,36,1,0,2,0,0,0,0,0
+,"BRAWN, Billy ",Winger,26,4,0,2,0,0,0,0,0
+,"BRIDGEMAN, Billy ",Winger,18,1,0,2,1,0,0,0,0
+,"CAMERON, Jock ",Full Back,32,0,0,2,0,0,0,0,0
+,"FAIRGRAY, Norrie ",Winger,28,1,0,0,0,0,0,0,0
+,"FROST, Jimmy ",Winger,3,0,0,0,0,0,0,0,0
+,"HARDING, Gus ",Full Back,1,0,0,1,0,0,0,0,0
+,"HENDERSON, George ",Wing Half,14,1,0,1,0,0,0,0,0
+,"HILSDON, George ",Centre Forward,33,24,1,2,6,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,11,1,0,0,0,0,0,0,0
+,"KEY, George ",Wing Half,13,0,0,0,0,0,0,0,0
+,"KIRWAN, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"LYON, Frank ",Full Back,6,0,0,0,0,0,0,0,0
+,"MACKIE, Bob ",Full Back,6,0,0,0,0,0,0,0,0
+,"MCKENZIE, Ronald ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCROBERTS, Bobby ",Centre Forward,20,0,0,1,0,0,0,0,0
+,"MILLER, Tommy ",Full Back,30,0,0,1,0,0,0,0,0
+,"MORAN, Marty ",Winger,10,0,0,0,0,0,0,0,0
+,"PROUDFOOT, Peter ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROUSE, Fred ",Inside Forward,20,6,0,1,0,0,0,0,0
+,"STARK, James ",Centre Half,30,2,0,2,0,0,0,0,0
+,"WALTON, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"WHITEHOUSE, Ben ",Inside Forward,10,1,0,1,0,0,0,0,0
+,"WHITING, Bob ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,23,0,0,2,0,0,0,0,0
+,"WINDRIDGE, Jimmy ",Inside Forward,29,9,0,2,2,0,0,0,0

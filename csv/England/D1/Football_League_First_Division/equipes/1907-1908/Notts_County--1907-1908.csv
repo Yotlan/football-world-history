@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEMMENT, Fred	Wing Half	
-										
-CALLADINE, Charlie	Winger	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CHALMERS, Tommy	Centre Half	
-										
-CLAMP, Arthur	Centre Half	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-DEAN, Jerry	Winger	
-										
-DODD, George	Inside Forward	
-										
-EMBERTON, Teddy	Wing Half	
-										
-GOOCH, Percy	Centre Forward	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-HARPER, Roly	Winger	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JONES, Aaron	Centre Forward	
-										
-JONES, Freddie	Inside Forward	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MOORE, George	Inside Forward	
-										
-MORLEY, Bert	Full Back	
-										
-MUNRO, David	Winger	
-										
-O'DONNELL, Dennis	Inside Forward	
-										
-TARPLIN, Walter	Inside Forward	
-										
-WARNER, Alf	Inside Forward	
-										
-WATERALL, Tommy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEMMENT, Fred ",Wing Half,9,0,0,0,0,0,0,0,0
+,"CALLADINE, Charlie ",Winger,3,0,0,0,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"CHALMERS, Tommy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"CLAMP, Arthur ",Centre Half,33,1,0,3,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,34,1,0,3,0,0,0,0,0
+,"DEAN, Jerry ",Winger,28,4,3,3,0,0,0,0,0
+,"DODD, George ",Inside Forward,16,5,2,0,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,34,1,0,3,0,0,0,0,0
+,"GOOCH, Percy ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,18,0,0,0,0,0,0,0,0
+,"HARPER, Roly ",Winger,7,1,0,0,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,38,0,0,3,0,0,0,0,0
+,"JONES, Aaron ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"JONES, Freddie ",Inside Forward,22,6,0,3,2,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,28,3,0,2,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,25,0,0,3,0,0,0,0,0
+,"MOORE, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MORLEY, Bert ",Full Back,38,0,0,3,0,0,0,0,0
+,"MUNRO, David ",Winger,12,1,0,2,0,0,0,0,0
+,"O'DONNELL, Dennis ",Inside Forward,18,4,0,1,0,0,0,0,0
+,"TARPLIN, Walter ",Inside Forward,15,5,0,3,2,0,0,0,0
+,"WARNER, Alf ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"WATERALL, Tommy ",Winger,15,2,0,1,0,0,0,0,0

@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Andy	Centre Half	
-										
-AITKEN, Sam	Wing Half	
-										
-BARKER, Billy	Wing Half	
-										
-BLOOMER, Steve	Inside Forward	
-										
-BRAWN, Billy	Winger	
-										
-BROWN, Bobby	Full Back	
-										
-CAIL, Sammy	Centre Forward	
-										
-CAMPBELL, Alex	Full Back	
-										
-COMMON, Alf	Inside Forward	
-										
-DIXON, Tommy	Inside Forward	
-										
-GROVES, Albert	Full Back	
-										
-HARKINS, John	Wing Half	
-										
-HASELL, Bert	Goalkeeper	
-										
-HENDRY, Nick	Goalkeeper	
-										
-JOHNSTON, John	Full Back	
-										
-MCCULLOCH, Alex	Inside Forward	
-										
-O'GARA, Jimmy	Inside Forward	
-										
-ROBERTS, William	Winger	
-										
-THACKERAY, Jim	Winger	
-										
-URQUHART, Arthur	Winger	
-										
-VERRILL, Teddy	Wing Half	
-										
-WATSON, Jimmy	Full Back	
-										
-WILCOX, Freddie	Inside Forward	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-WILSON, Deuchar	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Andy ",Centre Half,32,1,0,1,0,0,0,0,0
+,"AITKEN, Sam ",Wing Half,38,1,0,1,0,0,0,0,0
+,"BARKER, Billy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BLOOMER, Steve ",Inside Forward,34,13,0,1,0,0,0,0,0
+,"BRAWN, Billy ",Winger,11,0,0,0,0,0,0,0,0
+,"BROWN, Bobby ",Full Back,20,0,0,1,0,0,0,0,0
+,"CAIL, Sammy ",Centre Forward,16,11,0,0,0,0,0,0,0
+,"CAMPBELL, Alex ",Full Back,9,0,0,0,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,34,9,1,1,0,0,0,0,0
+,"DIXON, Tommy ",Inside Forward,13,4,0,1,0,0,0,0,0
+,"GROVES, Albert ",Full Back,9,0,0,0,0,0,0,0,0
+,"HARKINS, John ",Wing Half,9,0,0,0,0,0,0,0,0
+,"HASELL, Bert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HENDRY, Nick ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"JOHNSTON, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"MCCULLOCH, Alex ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"O'GARA, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBERTS, William ",Winger,9,0,0,0,0,0,0,0,0
+,"THACKERAY, Jim ",Winger,28,5,0,1,0,0,0,0,0
+,"URQUHART, Arthur ",Winger,4,0,0,0,0,0,0,0,0
+,"VERRILL, Teddy ",Wing Half,25,0,0,1,0,0,0,0,0
+,"WATSON, Jimmy ",Full Back,38,0,0,1,0,0,0,0,0
+,"WILCOX, Freddie ",Inside Forward,34,9,0,1,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,37,0,0,1,0,0,0,0,0
+,"WILSON, Deuchar ",Centre Half,5,0,0,0,0,0,0,0,0

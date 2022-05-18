@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANNAN, Archie	Full Back	
-										
-BURTON, Andy	Inside Forward	
-										
-CHAPMAN, Bert	Inside Forward	
-										
-CLAY, Harry	Goalkeeper	
-										
-CONNELLY, Fred	Inside Forward	
-										
-COPESTAKE, Levi	Winger	
-										
-COTTLE, Joe	Full Back	
-										
-DEMMERY, Bill	Goalkeeper	
-										
-GALE, Tom	Full Back	
-										
-GILLIGAN, Sammy	Centre Forward	
-										
-HANLIN, Pat	Wing Half	
-										
-HILTON, Frank	Winger	
-										
-MARR, Reuben	Wing Half	
-										
-MAXWELL, Willie	Inside Forward	
-										
-MCGUIGAN, Andy	Inside Forward	
-										
-NIXON, Jock	Winger	
-										
-RIPPON, Willis	Centre Forward	
-										
-SHINNER, Bert	Centre Forward	
-										
-SPEAR, Arthur	Wing Half	
-										
-STANIFORTH, Fred	Winger	
-										
-TALBOT-LEWIS, Albert	Goalkeeper	
-										
-WEDLOCK, Billy	Centre Half	
-										
-YOUNG, Robert	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANNAN, Archie ",Full Back,13,0,0,2,0,0,0,0,0
+,"BURTON, Andy ",Inside Forward,32,9,0,2,0,0,0,0,0
+,"CHAPMAN, Bert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CLAY, Harry ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"CONNELLY, Fred ",Inside Forward,9,4,0,0,0,0,0,0,0
+,"COPESTAKE, Levi ",Winger,2,1,0,0,0,0,0,0,0
+,"COTTLE, Joe ",Full Back,36,0,0,2,0,0,0,0,0
+,"DEMMERY, Bill ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"GALE, Tom ",Full Back,2,0,0,0,0,0,0,0,0
+,"GILLIGAN, Sammy ",Centre Forward,33,16,0,2,0,0,0,0,0
+,"HANLIN, Pat ",Wing Half,34,0,0,2,0,0,0,0,0
+,"HILTON, Frank ",Winger,30,5,0,2,1,0,0,0,0
+,"MARR, Reuben ",Wing Half,24,0,0,1,0,0,0,0,0
+,"MAXWELL, Willie ",Inside Forward,34,13,1,2,0,0,0,0,0
+,"MCGUIGAN, Andy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"NIXON, Jock ",Winger,7,0,0,0,0,0,0,0,0
+,"RIPPON, Willis ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"SHINNER, Bert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SPEAR, Arthur ",Wing Half,23,0,0,1,0,0,0,0,0
+,"STANIFORTH, Fred ",Winger,35,4,0,2,0,0,0,0,0
+,"TALBOT-LEWIS, Albert ",Goalkeeper,21,0,0,2,0,0,0,0,0
+,"WEDLOCK, Billy ",Centre Half,34,2,0,2,0,0,0,0,0
+,"YOUNG, Robert ",Full Back,24,0,0,0,0,0,0,0,0

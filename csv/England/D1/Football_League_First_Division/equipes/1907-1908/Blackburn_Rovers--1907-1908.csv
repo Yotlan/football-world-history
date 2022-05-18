@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKENHEAD, Wattie	Inside Forward	
-										
-ANTHONY, Walter	Winger	
-										
-BOVILL, John	Inside Forward	
-										
-BRACEGIRDLE, Ernest	Winger	
-										
-BRADSHAW, Billy	Wing Half	
-										
-BURTON, Jack	Inside Forward	
-										
-CAMERON, Jock	Full Back	
-										
-CAMERON, William 'Kilty'	Inside Forward	
-										
-CHADWICK, Miles	Winger	
-										
-COWELL, Arthur	Full Back	
-										
-CROMPTON, Ellis	Wing Half	
-										
-CROMPTON, Bob	Full Back	
-										
-DAVIES, Bill 'Tinker'	Centre Forward	
-										
-EVANS, Bob	Goalkeeper	
-										
-FERGUSON, James	Wing Half	
-										
-HEYWOOD, Jimmy	Full Back	
-										
-HOULKER, Albert 'Kelly'	Wing Half	
-										
-KYLE, Archie	Inside Forward	
-										
-LATHERON, Eddie	Inside Forward	
-										
-MANNING, Jock	Centre Half	
-										
-MANSON, Bob	Inside Forward	
-										
-MARTIN, Jack	Centre Forward	
-										
-MCIVER, Willie	Goalkeeper	
-										
-ORR, Johnny	Inside Forward	
-										
-ROBERTSON, Jimmy	Inside Forward	
-										
-SMITH, Jack	Full Back	
-										
-STEVENSON, Hugh	Centre Half	
-										
-SUTTIE, Tommy	Full Back	
-										
-WALMSLEY, Albert	Wing Half	
-										
-WHITTAKER, Arnie	Winger	
-										
-WILSON, Joe	Centre Half	
-										
-WOLSTENHOLME, Sam	Wing Half	
-										
-WOMBWELL, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKENHEAD, Wattie ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"ANTHONY, Walter ",Winger,11,1,0,0,0,0,0,0,0
+,"BOVILL, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BRACEGIRDLE, Ernest ",Winger,24,1,0,0,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,19,2,0,1,0,0,0,0,0
+,"BURTON, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,2,0,0,0,0,0,0,0,0
+,"CAMERON, William 'Kilty' ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"CHADWICK, Miles ",Winger,1,1,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,10,0,0,0,0,0,0,0,0
+,"CROMPTON, Ellis ",Wing Half,8,5,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,33,1,0,1,0,0,0,0,0
+,"DAVIES, Bill 'Tinker' ",Centre Forward,19,11,0,1,0,0,0,0,0
+,"EVANS, Bob ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"FERGUSON, James ",Wing Half,9,1,0,1,0,0,0,0,0
+,"HEYWOOD, Jimmy ",Full Back,11,0,0,1,0,0,0,0,0
+,"HOULKER, Albert 'Kelly' ",Wing Half,21,0,0,1,0,0,0,0,0
+,"KYLE, Archie ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"LATHERON, Eddie ",Inside Forward,27,8,0,1,0,0,0,0,0
+,"MANNING, Jock ",Centre Half,4,0,0,0,0,0,0,0,0
+,"MANSON, Bob ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"MARTIN, Jack ",Centre Forward,21,8,1,0,0,0,0,0,0
+,"MCIVER, Willie ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROBERTSON, Jimmy ",Inside Forward,16,5,0,1,0,0,0,0,0
+,"SMITH, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"STEVENSON, Hugh ",Centre Half,23,0,0,0,0,0,0,0,0
+,"SUTTIE, Tommy ",Full Back,21,0,0,0,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,27,2,0,1,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,23,2,0,1,0,0,0,0,0
+,"WILSON, Joe ",Centre Half,10,0,0,0,0,0,0,0,0
+,"WOLSTENHOLME, Sam ",Wing Half,8,0,0,0,0,0,0,0,0
+,"WOMBWELL, Dicky ",Winger,10,0,0,0,0,0,0,0,0

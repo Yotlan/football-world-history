@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Robert	Goalkeeper	
-										
-BELL, Ted	Full Back	
-										
-BONTHRON, Bob	Full Back	
-										
-BRIDGETT, Arthur	Winger	
-										
-BROWN, Thomas	Inside Forward	
-										
-DAYKIN, Tom	Full Back	
-										
-FORSTER, Harry	Full Back	
-										
-FOSTER, Jack	Inside Forward	
-										
-GREY, Tom	Centre Half	
-										
-HOGG, Billy	Winger	
-										
-HOLLEY, George	Inside Forward	
-										
-HUGGINS, Jack	Winger	
-										
-HURDMAN, Arthur	Winger	
-										
-JARVIE, Gavin	Wing Half	
-										
-KEENLYSIDE, George	Winger	
-										
-LOW, Harry	Wing Half	
-										
-MARPLES, Arthur	Full Back	
-										
-MCCONNELL, English	Centre Half	
-										
-MCGHIE, Joe	Centre Half	
-										
-MCINTOSH, Angus	Inside Forward	
-										
-MCKEE, Fred	Goalkeeper	
-										
-MONTGOMERY, Bill	Inside Forward	
-										
-MORLEY, John	Winger	
-										
-RAINE, Jim	Winger	
-										
-RAYBOULD, Sam	Centre Forward	
-										
-RHODES, Ephraim 'Dusty'	Full Back	
-										
-ROOSE, Dick	Goalkeeper	
-										
-TAIT, Tommy	Wing Half	
-										
-THOMPSON, John	Winger	
-										
-WARD, Bob	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Robert ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"BELL, Ted ",Full Back,1,0,0,0,0,0,0,0,0
+,"BONTHRON, Bob ",Full Back,22,1,0,1,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,31,15,2,1,0,0,0,0,0
+,"BROWN, Thomas ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DAYKIN, Tom ",Full Back,21,0,0,0,0,0,0,0,0
+,"FORSTER, Harry ",Full Back,19,0,0,1,0,0,0,0,0
+,"FOSTER, Jack ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"GREY, Tom ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HOGG, Billy ",Winger,27,7,1,1,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,35,24,0,1,1,0,0,0,0
+,"HUGGINS, Jack ",Winger,7,0,0,0,0,0,0,0,0
+,"HURDMAN, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"JARVIE, Gavin ",Wing Half,24,1,0,1,0,0,0,0,0
+,"KEENLYSIDE, George ",Winger,0,0,0,0,0,0,0,0,0
+,"LOW, Harry ",Wing Half,31,2,0,1,0,0,0,0,0
+,"MARPLES, Arthur ",Full Back,10,0,0,0,0,0,0,0,0
+,"MCCONNELL, English ",Centre Half,8,0,0,0,0,0,0,0,0
+,"MCGHIE, Joe ",Centre Half,16,0,0,0,0,0,0,0,0
+,"MCINTOSH, Angus ",Inside Forward,16,4,0,1,0,0,0,0,0
+,"MCKEE, Fred ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MONTGOMERY, Bill ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MORLEY, John ",Winger,5,1,0,0,0,0,0,0,0
+,"RAINE, Jim ",Winger,13,1,0,0,0,0,0,0,0
+,"RAYBOULD, Sam ",Centre Forward,27,12,0,1,0,0,0,0,0
+,"RHODES, Ephraim 'Dusty' ",Full Back,8,1,0,0,0,0,0,0,0
+,"ROOSE, Dick ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"TAIT, Tommy ",Wing Half,30,0,0,1,0,0,0,0,0
+,"THOMPSON, John ",Winger,16,6,0,0,0,0,0,0,0
+,"WARD, Bob ",Goalkeeper,13,0,0,1,0,0,0,0,0

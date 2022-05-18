@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERRY, Arthur	Winger	
-										
-BOWYER, Sam	Inside Forward	
-										
-BRADLEY, Jimmy	Wing Half	
-										
-CHORLTON, Tom	Full Back	
-										
-COX, Jack	Winger	
-										
-DOIG, Ned	Goalkeeper	
-										
-DUNLOP, Billy	Full Back	
-										
-FITZPATRICK, Harry	Inside Forward	
-										
-GODDARD, Arthur	Winger	
-										
-GORMAN, Jimmy	Centre Half	
-										
-GRIFFIN, Mick	Winger	
-										
-GRIFFITHS, Harry	Full Back	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-HEWITT, Charlie	Inside Forward	
-										
-HEWITT, Joe	Centre Forward	
-										
-HIGNETT, Sam	Wing Half	
-										
-HUGHES, Jimmy	Wing Half	
-										
-LATHAM, George	Wing Half	
-										
-MCPHERSON, Billy	Inside Forward	
-										
-ORR, Ronald	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PARRY, Maurice	Wing Half	
-										
-RAISBECK, Alex	Centre Half	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROGERS, Tom	Full Back	
-										
-SAUL, Percy	Full Back	
-										
-UREN, Harold	Winger	
-										
-WEST, Alf	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERRY, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"BOWYER, Sam ",Inside Forward,4,0,0,1,0,0,0,0,0
+,"BRADLEY, Jimmy ",Wing Half,34,3,0,4,3,0,0,0,0
+,"CHORLTON, Tom ",Full Back,7,1,0,0,0,0,0,0,0
+,"COX, Jack ",Winger,35,2,0,4,3,0,0,0,0
+,"DOIG, Ned ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"DUNLOP, Billy ",Full Back,2,0,0,0,0,0,0,0,0
+,"FITZPATRICK, Harry ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,35,4,0,4,0,0,0,0,0
+,"GORMAN, Jimmy ",Centre Half,9,0,0,1,1,0,0,0,0
+,"GRIFFIN, Mick ",Winger,3,0,0,0,0,0,0,0,0
+,"GRIFFITHS, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,33,0,0,4,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,8,0,0,0,0,0,0,0,0
+,"HEWITT, Charlie ",Inside Forward,16,6,0,0,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,36,21,0,4,0,0,0,0,0
+,"HIGNETT, Sam ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HUGHES, Jimmy ",Wing Half,4,0,0,1,0,0,0,0,0
+,"LATHAM, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCPHERSON, Billy ",Inside Forward,20,5,0,3,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,7,5,0,0,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,8,7,0,2,1,0,0,0,0
+,"PARRY, Maurice ",Wing Half,21,0,0,3,0,0,0,0,0
+,"RAISBECK, Alex ",Centre Half,23,2,1,3,0,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,24,9,0,2,0,0,0,0,0
+,"ROGERS, Tom ",Full Back,12,0,0,1,0,0,0,0,0
+,"SAUL, Percy ",Full Back,27,1,0,4,1,0,0,0,0
+,"UREN, Harold ",Winger,2,0,0,0,0,0,0,0,0
+,"WEST, Alf ",Full Back,33,0,0,3,0,0,0,0,0

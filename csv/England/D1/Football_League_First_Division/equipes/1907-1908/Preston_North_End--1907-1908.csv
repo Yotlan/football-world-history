@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARLOW, George	Winger	
-										
-BECTON, Martin	Winger	
-										
-BELL, Jack	Inside Forward	
-										
-BOND, Anthony	Winger	
-										
-BOND, Dickie	Winger	
-										
-CARLIN, Jack	Inside Forward	
-										
-CLEAVER, Fred	Centre Forward	
-										
-DANSON, Herbie	Winger	
-										
-DAWSON, Charlie	Winger	
-										
-DERBYSHIRE, Joe	Full Back	
-										
-DONALDSON, Jack	Wing Half	
-										
-GILLIBRAND, Charles	Winger	
-										
-GRIFFITHS, Charles	Inside Forward	
-										
-HOLDSWORTH, Eddie	Wing Half	
-										
-HUNTER, John	Centre Half	
-										
-LOCKETT, Arthur	Winger	
-										
-LYON, Billy	Wing Half	
-										
-MANSFIELD, Eversley	Inside Forward	
-										
-MCBRIDE, Peter	Goalkeeper	
-										
-MCCALL, Joe	Centre Half	
-										
-MCFADYEN, Charlie	Full Back	
-										
-MCLAUGHLIN, Willie	Inside Forward	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-RODWAY, Tommy	Full Back	
-										
-SANDERSON, William	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-STRINGFELLOW, Harry	Centre Half	
-										
-TAYLOR, Herbert	Goalkeeper	
-										
-WILLIAMSON, Charles	Winger	
-										
-WILSON, James	Inside Forward	
-										
-WINCHESTER, Jack	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARLOW, George ",Winger,9,1,0,0,0,0,0,0,0
+,"BECTON, Martin ",Winger,7,1,0,0,0,0,0,0,0
+,"BELL, Jack ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"BOND, Anthony ",Winger,0,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,18,1,1,3,1,0,0,0,0
+,"CARLIN, Jack ",Inside Forward,25,4,0,0,0,0,0,0,0
+,"CLEAVER, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"DANSON, Herbie ",Winger,18,1,0,3,0,0,0,0,0
+,"DAWSON, Charlie ",Winger,24,6,0,1,0,0,0,0,0
+,"DERBYSHIRE, Joe ",Full Back,16,5,5,0,0,0,0,0,0
+,"DONALDSON, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"GILLIBRAND, Charles ",Winger,3,2,0,2,0,0,0,0,0
+,"GRIFFITHS, Charles ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HOLDSWORTH, Eddie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HUNTER, John ",Centre Half,17,1,0,0,0,0,0,0,0
+,"LOCKETT, Arthur ",Winger,9,0,0,1,0,0,0,0,0
+,"LYON, Billy ",Wing Half,36,2,0,3,0,0,0,0,0
+,"MANSFIELD, Eversley ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCBRIDE, Peter ",Goalkeeper,35,0,0,3,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,6,0,0,0,0,0,0,0,0
+,"MCFADYEN, Charlie ",Full Back,13,0,0,0,0,0,0,0,0
+,"MCLAUGHLIN, Willie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,33,1,0,3,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,37,0,0,3,0,0,0,0,0
+,"SANDERSON, William ",Winger,12,1,0,1,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,34,12,0,2,0,0,0,0,0
+,"STRINGFELLOW, Harry ",Centre Half,20,1,0,3,0,0,0,0,0
+,"TAYLOR, Herbert ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Charles ",Winger,1,0,0,0,0,0,0,0,0
+,"WILSON, James ",Inside Forward,27,7,0,3,0,0,0,0,0
+,"WINCHESTER, Jack ",Full Back,5,0,0,2,1,0,0,0,0

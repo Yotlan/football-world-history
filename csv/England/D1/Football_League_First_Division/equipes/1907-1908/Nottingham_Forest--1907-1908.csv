@@ -1,45 +1,22 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1907/08
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jack	Wing Half	
-										
-DUDLEY, Walter	Full Back	
-										
-GIBSON, Tommy	Full Back	
-										
-GREEN, Haydn	Inside Forward	
-										
-GREEN, Arthur	Centre Forward	
-										
-HOOPER, Bill	Winger	
-										
-HUGHES, Teddy	Wing Half	
-										
-IREMONGER, Jim	Full Back	
-										
-LINACRE, Harry	Goalkeeper	
-										
-MALTBY, George 'Ginger'	Full Back	
-										
-MARRISON, Tom	Inside Forward	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEEDHAM, George	Wing Half	
-										
-SHEARMAN, Bill	Inside Forward	
-										
-SPOUNCER, Alf	Winger	
-										
-STANLEY, Fred	Wing Half	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHITCHURCH, Herbert	Inside Forward	
-										
-WOLFE, George	Centre Half	
-										
-WOODLAND, Tommy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jack ",Wing Half,38,0,0,1,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,30,0,0,1,0,0,0,0,0
+,"GIBSON, Tommy ",Full Back,10,0,0,0,0,0,0,0,0
+,"GREEN, Haydn ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GREEN, Arthur ",Centre Forward,19,7,1,0,0,0,0,0,0
+,"HOOPER, Bill ",Winger,20,0,0,0,0,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,36,1,0,1,0,0,0,0,0
+,"IREMONGER, Jim ",Full Back,4,0,0,0,0,0,0,0,0
+,"LINACRE, Harry ",Goalkeeper,35,0,0,1,0,0,0,0,0
+,"MALTBY, George 'Ginger' ",Full Back,35,0,0,1,0,0,0,0,0
+,"MARRISON, Tom ",Inside Forward,36,7,0,1,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,23,7,0,1,0,0,0,0,0
+,"NEEDHAM, George ",Wing Half,22,1,0,1,0,0,0,0,0
+,"SHEARMAN, Bill ",Inside Forward,21,1,0,1,0,0,0,0,0
+,"SPOUNCER, Alf ",Winger,27,2,0,1,0,0,0,0,0
+,"STANLEY, Fred ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,35,28,4,1,0,0,0,0,0
+,"WHITCHURCH, Herbert ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"WOLFE, George ",Centre Half,17,0,0,0,0,0,0,0,0
+,"WOODLAND, Tommy ",Winger,2,1,0,0,0,0,0,0,0
