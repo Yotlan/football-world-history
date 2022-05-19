@@ -1,75 +1,37 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMAND, Jack	Inside Forward	
-										
-ATKINSON, Josh	Wing Half	
-										
-BAKER, Jim	Wing Half	
-										
-BAKER, Lawrie	Wing Half	
-										
-CLARK, Jimmy	Inside Forward	
-										
-COATES, Walter	Winger	
-										
-CROWTHER, George	Goalkeeper	
-										
-DOWN, Billy	Goalkeeper	
-										
-DUFFIELD, Bert	Full Back	
-										
-DUXBURY, Tom	Wing Half	
-										
-EDWARDS, Willis	Wing Half	
-										
-FLOOD, John Joe	Winger	
-										
-GRAVER, Fred	Inside Forward	
-										
-HARRIS, Jack	Winger	
-										
-HART, Ernie	Central Defender	
-										
-JENNINGS, Tommy	Centre Forward	
-										
-JOHNSON, Bill	Goalkeeper	
-										
-MARTIN, Jack	Winger	
-										
-MASON, Bobby	Centre Half	
-										
-MENZIES, Bill	Full Back	
-										
-MOORE, Billy	Goalkeeper	
-										
-NOBLE, Alan	Winger	
-										
-POWELL, Sam	Inside Forward	
-										
-RICHMOND, Joe	Centre Forward	
-										
-RILEY, Val	Wing Half	
-										
-ROBSON, Cud	Winger	
-										
-RUSSELL, Dave	Goalkeeper	
-										
-SHERWIN, Harry	Wing Half	
-										
-SMITH, Len	Wing Half	
-										
-SPEAK, George	Full Back	
-										
-SWAN, Jack	Inside Forward	
-										
-THOM, Jock	Inside Forward	
-										
-WAINSCOAT, Russell	Inside Forward	
-										
-WATSON, Frank	Inside Forward	
-										
-WHIPP, Percy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMAND, Jack ",Inside Forward,14,2,0,1,0,0,0,0,0
+,"ATKINSON, Josh ",Wing Half,13,0,0,0,0,0,0,0,0
+,"BAKER, Jim ",Wing Half,28,0,0,0,0,0,0,0,0
+,"BAKER, Lawrie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CLARK, Jimmy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"COATES, Walter ",Winger,8,0,0,0,0,0,0,0,0
+,"CROWTHER, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DOWN, Billy ",Goalkeeper,21,0,0,1,0,0,0,0,0
+,"DUFFIELD, Bert ",Full Back,39,0,0,0,0,0,0,0,0
+,"DUXBURY, Tom ",Wing Half,2,0,0,0,0,0,0,0,0
+,"EDWARDS, Willis ",Wing Half,9,0,0,0,0,0,0,0,0
+,"FLOOD, John Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"GRAVER, Fred ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HARRIS, Jack ",Winger,42,3,0,1,0,0,0,0,0
+,"HART, Ernie ",Central Defender,37,1,0,1,0,0,0,0,0
+,"JENNINGS, Tommy ",Centre Forward,10,3,0,0,0,0,0,0,0
+,"JOHNSON, Bill ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"MARTIN, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"MASON, Bobby ",Centre Half,5,0,0,0,0,0,0,0,0
+,"MENZIES, Bill ",Full Back,40,0,0,1,0,0,0,0,0
+,"MOORE, Billy ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"NOBLE, Alan ",Winger,11,1,0,0,0,0,0,0,0
+,"POWELL, Sam ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"RICHMOND, Joe ",Centre Forward,17,2,1,0,0,0,0,0,0
+,"RILEY, Val ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROBSON, Cud ",Winger,17,4,0,1,0,0,0,0,0
+,"RUSSELL, Dave ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"SHERWIN, Harry ",Wing Half,13,0,0,1,0,0,0,0,0
+,"SMITH, Len ",Wing Half,16,0,0,1,0,0,0,0,0
+,"SPEAK, George ",Full Back,5,0,0,1,0,0,0,0,0
+,"SWAN, Jack ",Inside Forward,27,11,0,1,0,0,0,0,0
+,"THOM, Jock ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"WAINSCOAT, Russell ",Inside Forward,9,4,0,0,0,0,0,0,0
+,"WATSON, Frank ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WHIPP, Percy ",Inside Forward,35,10,0,1,0,0,0,0,0

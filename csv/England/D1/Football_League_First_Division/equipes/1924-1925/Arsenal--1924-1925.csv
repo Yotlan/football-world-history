@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Alf	Wing Half	
-										
-BLYTH, Billy	Inside Forward	
-										
-BRAIN, Jimmy	Centre Forward	
-										
-BUTLER, Jack	Central Defender	
-										
-CLARK, John	Winger	
-										
-COCK, Donald	Centre Forward	
-										
-CURRIE, Ford	Wing Half	
-										
-HADEN, Sam	Winger	
-										
-HAWKINGS, Tom	Winger	
-										
-HOAR, Sid	Winger	
-										
-HUGHES, Joseph	Centre Forward	
-										
-JOHN, Bob	Wing Half	
-										
-KENNEDY, Andy	Full Back	
-										
-LEWIS, Dan	Goalkeeper	
-										
-MACKIE, Alex	Full Back	
-										
-MILNE, Billy	Wing Half	
-										
-NEIL, Andy	Inside Forward	
-										
-RAMSAY, Jimmy	Inside Forward	
-										
-ROBSON, Jock	Goalkeeper	
-										
-ROE, Arthur	Wing Half	
-										
-RUTHERFORD, Jock	Winger	
-										
-STEEL, John	Full Back	
-										
-TONER, Joe	Winger	
-										
-TURNBULL, Bobby	Centre Forward	
-										
-WELLS, Tommy	Winger	
-										
-WHITTAKER, Tom	Wing Half	
-										
-WOODS, Harry	Inside Forward	
-										
-YOUNG, Andrew	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Alf ",Wing Half,32,2,0,3,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,17,1,0,0,0,0,0,0,0
+,"BRAIN, Jimmy ",Centre Forward,28,12,0,3,2,0,0,0,0
+,"BUTLER, Jack ",Central Defender,39,3,0,3,0,0,0,0,0
+,"CLARK, John ",Winger,2,0,0,0,0,0,0,0,0
+,"COCK, Donald ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"CURRIE, Ford ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HADEN, Sam ",Winger,15,1,0,0,0,0,0,0,0
+,"HAWKINGS, Tom ",Winger,0,0,0,0,0,0,0,0,0
+,"HOAR, Sid ",Winger,19,1,0,3,0,0,0,0,0
+,"HUGHES, Joseph ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"JOHN, Bob ",Wing Half,39,1,0,3,0,0,0,0,0
+,"KENNEDY, Andy ",Full Back,40,0,0,3,0,0,0,0,0
+,"LEWIS, Dan ",Goalkeeper,16,0,0,3,0,0,0,0,0
+,"MACKIE, Alex ",Full Back,19,0,0,0,0,0,0,0,0
+,"MILNE, Billy ",Wing Half,32,0,0,2,0,0,0,0,0
+,"NEIL, Andy ",Inside Forward,16,2,0,0,0,0,0,0,0
+,"RAMSAY, Jimmy ",Inside Forward,30,6,0,3,0,0,0,0,0
+,"ROBSON, Jock ",Goalkeeper,26,0,0,0,0,0,0,0,0
+,"ROE, Arthur ",Wing Half,1,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,20,2,0,0,0,0,0,0,0
+,"STEEL, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"TONER, Joe ",Winger,26,1,0,3,0,0,0,0,0
+,"TURNBULL, Bobby ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WELLS, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"WHITTAKER, Tom ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WOODS, Harry ",Inside Forward,32,12,0,3,0,0,0,0,0
+,"YOUNG, Andrew ",Centre Forward,8,2,0,1,0,0,0,0,0

@@ -1,75 +1,37 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMFIELD, Billy	Winger	
-										
-BLACKBURN, George	Wing Half	
-										
-BOWEN, Teddy	Full Back	
-										
-CAMPBELL, Archie	Wing Half	
-										
-CAPEWELL, Len	Centre Forward	
-										
-CLARKE, George	Winger	
-										
-CORBETT, Joseph	Wing Half	
-										
-DENNINGTON, Les	Wing Half	
-										
-DINSDALE, Billy	Centre Forward	
-										
-DORRELL, Arthur	Winger	
-										
-ECCLES, Joe	Winger	
-										
-HARRIS, Cecil	Full Back	
-										
-HARRIS, Walter	Centre Forward	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JAKEMAN, George	Wing Half	
-										
-JOHNSTONE, Jock	Wing Half	
-										
-JONES, Tommy	Wing Half	
-										
-KIRTON, Billy	Inside Forward	
-										
-MALPAS, Ted	Centre Half	
-										
-MCCLURE, Alex	Centre Half	
-										
-MILNE, Vic	Centre Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-MULDOON, Tommy	Wing Half	
-										
-PHOENIX, Albert 'Ginger'	Wing Half	
-										
-SEDDON, Bill	Wing Half	
-										
-SHAW, Gilbert	Winger	
-										
-SMART, Tommy	Full Back	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-STEPHENSON, George	Inside Forward	
-										
-SURTEES, Albert	Centre Forward	
-										
-TALBOT, Alec	Central Defender	
-										
-VARCO, Percy	Centre Forward	
-										
-WALKER, Billy	Inside Forward	
-										
-YORK, Dicky	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMFIELD, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"BLACKBURN, George ",Wing Half,18,1,0,1,0,0,0,0,0
+,"BOWEN, Teddy ",Full Back,22,0,0,4,0,0,0,0,0
+,"CAMPBELL, Archie ",Wing Half,3,0,0,0,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,17,5,0,2,4,0,0,0,0
+,"CLARKE, George ",Winger,1,0,0,0,0,0,0,0,0
+,"CORBETT, Joseph ",Wing Half,2,0,0,0,0,0,0,0,0
+,"DENNINGTON, Les ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DINSDALE, Billy ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"DORRELL, Arthur ",Winger,41,8,0,4,0,0,0,0,0
+,"ECCLES, Joe ",Winger,10,0,0,0,0,0,0,0,0
+,"HARRIS, Cecil ",Full Back,15,0,0,0,0,0,0,0,0
+,"HARRIS, Walter ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"JAKEMAN, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"JOHNSTONE, Jock ",Wing Half,23,0,0,3,0,0,0,0,0
+,"JONES, Tommy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,33,6,0,4,0,0,0,0,0
+,"MALPAS, Ted ",Centre Half,0,0,0,0,0,0,0,0,0
+,"MCCLURE, Alex ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MILNE, Vic ",Centre Half,21,0,0,4,0,0,0,0,0
+,"MORT, Tommy ",Full Back,19,0,0,0,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,19,2,0,3,0,0,0,0,0
+,"MULDOON, Tommy ",Wing Half,17,0,0,1,0,0,0,0,0
+,"PHOENIX, Albert 'Ginger' ",Wing Half,3,2,0,1,1,0,0,0,0
+,"SEDDON, Bill ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SHAW, Gilbert ",Winger,0,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,28,0,0,4,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,34,0,0,4,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,13,5,0,1,0,0,0,0,0
+,"SURTEES, Albert ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"TALBOT, Alec ",Central Defender,13,0,0,0,0,0,0,0,0
+,"VARCO, Percy ",Centre Forward,8,2,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,35,19,0,4,6,0,0,0,0
+,"YORK, Dicky ",Winger,30,6,0,4,1,0,0,0,0

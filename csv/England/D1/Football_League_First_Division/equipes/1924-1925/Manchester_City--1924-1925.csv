@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AUSTIN, Billy	Winger	
-										
-BARNES, Horace	Inside Forward	
-										
-BENZIE, Robert	Wing Half	
-										
-BRIGGS, Arthur	Goalkeeper	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CALDERWOOD, James	Full Back	
-										
-COOKSON, Sam	Full Back	
-										
-COWAN, Sam	Central Defender	
-										
-DANIELS, Arthur	Winger	
-										
-ELWOOD, Jimmy	Central Defender	
-										
-FLETCHER, Eli	Full Back	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HICKS, George	Winger	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-MCCOURT, Jimmy	Centre Half	
-										
-MITCHELL, James	Goalkeeper	
-										
-MONKS, Albert	Goalkeeper	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-PRINGLE, Charlie	Wing Half	
-										
-ROBERTS, Frank	Centre Forward	
-										
-SHARP, Sammy	Wing Half	
-										
-THOMPSON, Frank	Full Back	
-										
-WARNER, Jack	Inside Forward	
-										
-WILSON, Billy	Full Back	
-										
-WINSKILL, Bill	Inside Forward	
-										
-WOOSNAM, Max	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AUSTIN, Billy ",Winger,38,6,0,1,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,14,8,0,0,0,0,0,0,0
+,"BENZIE, Robert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BRIGGS, Arthur ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,14,6,0,1,0,0,0,0,0
+,"CALDERWOOD, James ",Full Back,14,0,0,0,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,37,0,0,0,0,0,0,0,0
+,"COWAN, Sam ",Central Defender,21,1,0,0,0,0,0,0,0
+,"DANIELS, Arthur ",Winger,9,1,0,0,0,0,0,0,0
+,"ELWOOD, Jimmy ",Central Defender,15,0,0,0,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,27,0,0,1,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"HICKS, George ",Winger,15,3,0,1,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,41,12,0,1,0,0,0,0,0
+,"MCCOURT, Jimmy ",Centre Half,4,0,0,0,0,0,0,0,0
+,"MITCHELL, James ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"MONKS, Albert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,24,3,0,0,0,0,0,0,0
+,"PRINGLE, Charlie ",Wing Half,35,0,0,1,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,38,31,0,1,1,0,0,0,0
+,"SHARP, Sammy ",Wing Half,40,0,0,1,0,0,0,0,0
+,"THOMPSON, Frank ",Full Back,7,0,0,1,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,12,4,0,0,0,0,0,0,0
+,"WILSON, Billy ",Full Back,12,0,0,0,0,0,0,0,0
+,"WINSKILL, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WOOSNAM, Max ",Centre Half,2,1,0,1,0,0,0,0,0

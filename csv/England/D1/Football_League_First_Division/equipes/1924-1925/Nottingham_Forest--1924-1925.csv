@@ -1,60 +1,29 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRATT, Percy	Full Back	
-										
-BELTON, Jackie	Wing Half	
-										
-BENNETT, Alfred	Goalkeeper	
-										
-BULLING, Harry	Full Back	
-										
-BURTON, Noah	Inside Forward	
-										
-CHAMBERS, Bernard	Central Defender	
-										
-FLOOD, Charlie	Inside Forward	
-										
-GALLOWAY, Randolph	Centre Forward	
-										
-GIBSON, Sid	Winger	
-										
-HARDY, Sam	Goalkeeper	
-										
-HEWITT, Arthur	Full Back	
-										
-KEELING, Harry	Inside Forward	
-										
-LANGFORD, Len	Goalkeeper	
-										
-MARSHALL, Harry	Inside Forward	
-										
-MARTIN, Harry	Winger	
-										
-MILLER, Andy	Inside Forward	
-										
-MORGAN, Gerry	Centre Half	
-										
-MORRIS, Hugh	Winger	
-										
-NELIS, Pat	Centre Forward	
-										
-PARKER, Fred	Centre Half	
-										
-SPAVEN, Jack	Inside Forward	
-										
-STOCKS, Cyril	Inside Forward	
-										
-THOMPSON, Bill	Full Back	
-										
-TILFORD, Arthur	Full Back	
-										
-VARNEY, Frank	Full Back	
-										
-WALKER, Duncan	Centre Forward	
-										
-WALLACE, Bob	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRATT, Percy ",Full Back,32,0,0,0,0,0,0,0,0
+,"BELTON, Jackie ",Wing Half,28,0,0,2,0,0,0,0,0
+,"BENNETT, Alfred ",Goalkeeper,31,0,0,2,0,0,0,0,0
+,"BULLING, Harry ",Full Back,21,0,0,1,0,0,0,0,0
+,"BURTON, Noah ",Inside Forward,29,1,0,2,0,0,0,0,0
+,"CHAMBERS, Bernard ",Central Defender,0,0,0,0,0,0,0,0,0
+,"FLOOD, Charlie ",Inside Forward,24,6,0,0,0,0,0,0,0
+,"GALLOWAY, Randolph ",Centre Forward,11,2,0,0,0,0,0,0,0
+,"GIBSON, Sid ",Winger,31,1,0,2,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"HEWITT, Arthur ",Full Back,4,0,0,1,0,0,0,0,0
+,"KEELING, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LANGFORD, Len ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MARSHALL, Harry ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"MARTIN, Harry ",Winger,31,5,3,1,0,0,0,0,0
+,"MILLER, Andy ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"MORGAN, Gerry ",Centre Half,34,3,0,2,0,0,0,0,0
+,"MORRIS, Hugh ",Winger,22,1,0,1,0,0,0,0,0
+,"NELIS, Pat ",Centre Forward,11,2,0,0,0,0,0,0,0
+,"PARKER, Fred ",Centre Half,6,0,0,0,0,0,0,0,0
+,"SPAVEN, Jack ",Inside Forward,13,1,0,2,0,0,0,0,0
+,"STOCKS, Cyril ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"THOMPSON, Bill ",Full Back,28,0,0,2,0,0,0,0,0
+,"TILFORD, Arthur ",Full Back,1,0,0,0,0,0,0,0,0
+,"VARNEY, Frank ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALKER, Duncan ",Centre Forward,35,7,1,2,1,0,0,0,0
+,"WALLACE, Bob ",Wing Half,42,0,0,2,0,0,0,0,0

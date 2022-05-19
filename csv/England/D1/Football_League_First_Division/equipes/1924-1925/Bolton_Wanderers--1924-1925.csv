@@ -1,56 +1,27 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOSTON, Harry	Winger	
-										
-BOURNE, Jack	Goalkeeper	
-										
-BUTLER, Billy	Winger	
-										
-CASSIDY, Joe	Inside Forward	
-										
-CHAMBERS, Frank	Full Back	
-										
-DAVIES, Idwal	Centre Forward	
-										
-EATOCK, Tom	Winger	
-										
-FINNEY, Alex	Full Back	
-										
-FORBES, Jimmy	Centre Half	
-										
-GREENHALGH, Harry	Full Back	
-										
-HAWORTH, Bob	Full Back	
-										
-HOWARTH, Nelson	Wing Half	
-										
-JACK, David	Inside Forward	
-										
-JACK, Rollo	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-MATTHEWS, Vince	Centre Half	
-										
-NUTTALL, Harry	Wing Half	
-										
-PYM, Dick	Goalkeeper	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SHAW, Gilbert	Winger	
-										
-SMITH, Joe	Inside Forward	
-										
-SMITH, John	Centre Forward	
-										
-VIZARD, Ted	Winger	
-										
-WRIGHT, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOSTON, Harry ",Winger,9,0,0,0,0,0,0,0,0
+,"BOURNE, Jack ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,33,0,0,3,0,0,0,0,0
+,"CASSIDY, Joe ",Inside Forward,22,7,0,0,0,0,0,0,0
+,"CHAMBERS, Frank ",Full Back,0,0,0,1,0,0,0,0,0
+,"DAVIES, Idwal ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"EATOCK, Tom ",Winger,10,1,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,31,0,0,3,0,0,0,0,0
+,"FORBES, Jimmy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"GREENHALGH, Harry ",Full Back,13,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,35,0,0,2,0,0,0,0,0
+,"HOWARTH, Nelson ",Wing Half,16,0,0,3,0,0,0,0,0
+,"JACK, David ",Inside Forward,42,26,0,3,1,0,0,0,0
+,"JACK, Rollo ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,23,0,0,0,0,0,0,0,0
+,"MATTHEWS, Vince ",Centre Half,1,0,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,41,0,0,3,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,39,0,0,3,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,11,0,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,35,0,0,3,0,0,0,0,0
+,"SHAW, Gilbert ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,36,24,6,3,2,1,0,0,0
+,"SMITH, John ",Centre Forward,21,13,0,3,0,0,0,0,0
+,"VIZARD, Ted ",Winger,31,4,0,3,1,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,4,1,0,0,0,0,0,0,0

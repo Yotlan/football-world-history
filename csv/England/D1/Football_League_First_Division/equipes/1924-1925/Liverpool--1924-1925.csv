@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARON, Fred	Centre Forward	
-										
-BROMILOW, Tom	Wing Half	
-										
-BROWN, Ernie	Inside Forward	
-										
-CHALMERS, Billy	Winger	
-										
-CHAMBERS, Harry	Inside Forward	
-										
-COCKBURN, Bill	Centre Half	
-										
-FINDLAY, Billy	Wing Half	
-										
-FORSHAW, Dick	Inside Forward	
-										
-GARNER, Jimmy	Full Back	
-										
-GILHESPY, Cyril	Winger	
-										
-HOPKIN, Fred	Winger	
-										
-JOHNSON, Dick	Centre Forward	
-										
-JONES, John	Goalkeeper	
-										
-LAMB, Joe	Wing Half	
-										
-LAWSON, Hector	Wing Half	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LUCAS, Tommy	Full Back	
-										
-LUMBERG, Bert	Full Back	
-										
-MCDEVITT, Billy	Inside Forward	
-										
-MCKINLAY, Donald	Full Back	
-										
-MCNAB, Jock	Wing Half	
-										
-PARRY, Ted	Full Back	
-										
-PRATT, David	Wing Half	
-										
-RAWLINGS, Archie	Winger	
-										
-ROGERS, Bill	Wing Half	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SCOTT, Tom	Inside Forward	
-										
-SHONE, Danny	Inside Forward	
-										
-SMITH, Alf	Wing Half	
-										
-WADSWORTH, Walter	Centre Half	
-										
-WALSH, Jimmy	Inside Forward	
-										
-WILSON, Samuel	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARON, Fred ",Centre Forward,9,5,0,0,0,0,0,0,0
+,"BROMILOW, Tom ",Wing Half,22,0,0,2,0,0,0,0,0
+,"BROWN, Ernie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CHALMERS, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"CHAMBERS, Harry ",Inside Forward,27,7,0,4,0,0,0,0,0
+,"COCKBURN, Bill ",Centre Half,17,0,0,1,0,0,0,0,0
+,"FINDLAY, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,37,19,0,3,0,0,0,0,0
+,"GARNER, Jimmy ",Full Back,4,0,0,0,0,0,0,0,0
+,"GILHESPY, Cyril ",Winger,2,0,0,0,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,26,1,0,4,1,0,0,0,0
+,"JOHNSON, Dick ",Centre Forward,11,1,0,0,0,0,0,0,0
+,"JONES, John ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"LAMB, Joe ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LAWSON, Hector ",Wing Half,2,0,0,0,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,22,0,0,2,0,0,0,0,0
+,"LUCAS, Tommy ",Full Back,37,0,0,4,0,0,0,0,0
+,"LUMBERG, Bert ",Full Back,0,0,0,0,0,0,0,0,0
+,"MCDEVITT, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,28,4,0,2,0,0,0,0,0
+,"MCNAB, Jock ",Wing Half,29,2,0,2,0,0,0,0,0
+,"PARRY, Ted ",Full Back,1,0,0,0,0,0,0,0,0
+,"PRATT, David ",Wing Half,26,0,0,4,0,0,0,0,0
+,"RAWLINGS, Archie ",Winger,40,7,0,4,2,0,0,0,0
+,"ROGERS, Bill ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,38,0,0,4,0,0,0,0,0
+,"SCOTT, Tom ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"SHONE, Danny ",Inside Forward,42,12,0,4,3,0,0,0,0
+,"SMITH, Alf ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WADSWORTH, Walter ",Centre Half,25,0,0,3,0,0,0,0,0
+,"WALSH, Jimmy ",Inside Forward,4,3,0,1,0,0,0,0,0
+,"WILSON, Samuel ",Winger,0,0,0,0,0,0,0,0,0

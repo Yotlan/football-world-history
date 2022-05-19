@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BINKS, Sid	Centre Forward	
-										
-BOOT, Lennie	Goalkeeper	
-										
-BROWN, George	Centre Forward	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-COOK, Billy	Inside Forward	
-										
-GOODALL, Roy	Full Back	
-										
-JOHNSON, Arthur	Winger	
-										
-MERCER, Billy	Goalkeeper	
-										
-RICHARDSON, Eddie	Winger	
-										
-SHAW, George	Full Back	
-										
-SMITH, Norman	Wing Half	
-										
-SMITH, Billy	Winger	
-										
-SPENCE, Bonwell	Full Back	
-										
-STEELE, David	Wing Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-WADSWORTH, Sam	Full Back	
-										
-WALTER, Joe	Winger	
-										
-WATSON, Billy	Wing Half	
-										
-WILLIAMS, Joey	Winger	
-										
-WILSON, Charlie	Centre Forward	
-										
-WILSON, Tommy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,1,0,0,0,0,0,0,0,0
+,"BINKS, Sid ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BOOT, Lennie ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"BROWN, George ",Centre Forward,32,20,0,0,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,2,1,0,0,0,0,0,0,0
+,"COOK, Billy ",Inside Forward,25,9,0,1,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,38,0,0,1,0,0,0,0,0
+,"JOHNSON, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"MERCER, Billy ",Goalkeeper,27,0,0,1,0,0,0,0,0
+,"RICHARDSON, Eddie ",Winger,1,0,0,0,0,0,0,0,0
+,"SHAW, George ",Full Back,11,0,0,0,0,0,0,0,0
+,"SMITH, Norman ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,41,9,0,1,0,0,0,0,0
+,"SPENCE, Bonwell ",Full Back,4,0,0,0,0,0,0,0,0
+,"STEELE, David ",Wing Half,39,0,0,1,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,29,5,0,1,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,33,0,0,1,0,0,0,0,0
+,"WALTER, Joe ",Winger,7,1,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,41,0,0,1,0,0,0,0,0
+,"WILLIAMS, Joey ",Winger,35,0,0,1,0,0,0,0,0
+,"WILSON, Charlie ",Centre Forward,38,24,1,1,0,0,0,0,0
+,"WILSON, Tommy ",Central Defender,40,0,0,1,0,0,0,0,0

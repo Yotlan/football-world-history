@@ -1,69 +1,35 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Jock	Winger	
-										
-AITKEN, Willie	Winger	
-										
-BARNES, Horace	Inside Forward	
-										
-BRANSTON, Jimmy	Goalkeeper	
-										
-COOK, George	Full Back	
-										
-CRAWFORD, Bobby	Wing Half	
-										
-DICKIE, Jimmy	Winger	
-										
-FORREST, Jim	Centre Half	
-										
-HAMILTON, Tommy	Full Back	
-										
-HARRISON, George	Winger	
-										
-HENDERSON, Bill	Centre Forward	
-										
-HETHERINGTON, Jos	Centre Forward	
-										
-HICKS, Tom	Full Back	
-										
-HIRST, Harry	Wing Half	
-										
-LOVATT, Harry	Centre Forward	
-										
-MARQUIS, Fred	Inside Forward	
-										
-MCCALL, Joe	Centre Half	
-										
-MERCER, Billy	Wing Half	
-										
-MILLER, Henry	Inside Forward	
-										
-PATERSON, Jock	Centre Forward	
-										
-PHIZACKLEA, James	Full Back	
-										
-PICKERING, Francis	Winger	
-										
-PROUT, George	Goalkeeper	
-										
-QUIGLEY, Paddy	Winger	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-SAPSFORD, George	Inside Forward	
-										
-THOMPSON, Charles	Wing Half	
-										
-WADE, Bill	Full Back	
-										
-WILLIAMSON, Johnny	Wing Half	
-										
-WOODHOUSE, Roland	Inside Forward	
-										
-WOODWARD, Thomas	Wing Half	
-										
-YATES, Wilf	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Jock ",Winger,0,0,0,0,0,0,0,0,0
+,"AITKEN, Willie ",Winger,41,6,0,2,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,26,8,1,2,0,0,0,0,0
+,"BRANSTON, Jimmy ",Goalkeeper,17,0,0,2,0,0,0,0,0
+,"COOK, George ",Full Back,13,0,0,2,0,0,0,0,0
+,"CRAWFORD, Bobby ",Wing Half,25,0,0,0,0,0,0,0,0
+,"DICKIE, Jimmy ",Winger,0,0,0,0,0,0,0,0,0
+,"FORREST, Jim ",Centre Half,31,0,0,2,0,0,0,0,0
+,"HAMILTON, Tommy ",Full Back,18,0,0,0,0,0,0,0,0
+,"HARRISON, George ",Winger,38,8,3,2,0,0,0,0,0
+,"HENDERSON, Bill ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"HETHERINGTON, Jos ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"HICKS, Tom ",Full Back,2,0,0,0,0,0,0,0,0
+,"HIRST, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"LOVATT, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MARQUIS, Fred ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,20,0,0,2,0,0,0,0,0
+,"MERCER, Billy ",Wing Half,14,0,0,0,0,0,0,0,0
+,"MILLER, Henry ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"PATERSON, Jock ",Centre Forward,17,0,0,2,1,0,0,0,0
+,"PHIZACKLEA, James ",Full Back,15,0,0,0,0,0,0,0,0
+,"PICKERING, Francis ",Winger,1,0,0,0,0,0,0,0,0
+,"PROUT, George ",Goalkeeper,25,0,0,0,0,0,0,0,0
+,"QUIGLEY, Paddy ",Winger,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"SAPSFORD, George ",Inside Forward,12,2,0,0,0,0,0,0,0
+,"SHEPPARD, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Charles ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WADE, Bill ",Full Back,30,0,0,2,0,0,0,0,0
+,"WILLIAMSON, Johnny ",Wing Half,25,2,0,2,0,0,0,0,0
+,"WOODHOUSE, Roland ",Inside Forward,34,6,0,2,3,0,0,0,0
+,"WOODWARD, Thomas ",Wing Half,15,0,0,0,0,0,0,0,0
+,"YATES, Wilf ",Full Back,6,0,0,0,0,0,0,0,0

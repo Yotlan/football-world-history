@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRAYSHAW, Wally	Inside Forward	
-										
-CAMPBELL, Austen	Wing Half	
-										
-CRAWFORD, Jock	Goalkeeper	
-										
-CRISP, Jack	Winger	
-										
-DIXON, Stan	Centre Half	
-										
-HARPER, Ted	Centre Forward	
-										
-HATCH, Tom	Winger	
-										
-HEALLESS, Harry	Wing Half	
-										
-HOLLAND, Peter	Inside Forward	
-										
-HOPE, Phil	Full Back	
-										
-HULME, Joe	Winger	
-										
-KEAN, Archie	Inside Forward	
-										
-LOW, David	Wing Half	
-										
-MCCLEERY, Billy	Inside Forward	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCKAY, Jock	Inside Forward	
-										
-MCKINNELL, Jimmy	Wing Half	
-										
-POOL, Alexander	Centre Half	
-										
-PUDDEFOOT, Syd	Inside Forward	
-										
-RIGBY, Arthur	Winger	
-										
-ROLLO, Dave	Full Back	
-										
-ROSCAMP, Jack	Wing Half	
-										
-ROXBURGH, Robert	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-WYLIE, Tom	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRAYSHAW, Wally ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"CAMPBELL, Austen ",Wing Half,29,0,0,8,1,0,0,0,0
+,"CRAWFORD, Jock ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,35,4,0,7,1,0,0,0,0
+,"DIXON, Stan ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HARPER, Ted ",Centre Forward,14,3,0,0,0,0,0,0,0
+,"HATCH, Tom ",Winger,0,0,0,0,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,36,2,0,8,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,10,3,0,2,0,0,0,0,0
+,"HOPE, Phil ",Full Back,3,0,0,0,0,0,0,0,0
+,"HULME, Joe ",Winger,42,4,1,8,2,0,0,0,0
+,"KEAN, Archie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LOW, David ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCCLEERY, Billy ",Inside Forward,22,5,0,2,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,30,12,0,8,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,39,12,2,7,3,0,0,0,0
+,"MCKINNELL, Jimmy ",Wing Half,20,0,0,7,0,0,0,0,0
+,"POOL, Alexander ",Centre Half,4,0,0,0,0,0,0,0,0
+,"PUDDEFOOT, Syd ",Inside Forward,14,5,0,4,2,0,0,0,0
+,"RIGBY, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"ROLLO, Dave ",Full Back,28,0,0,8,0,0,0,0,0
+,"ROSCAMP, Jack ",Wing Half,35,1,0,3,0,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,13,0,0,0,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,41,0,0,8,0,0,0,0,0
+,"WYLIE, Tom ",Full Back,40,0,0,8,0,0,0,0,0

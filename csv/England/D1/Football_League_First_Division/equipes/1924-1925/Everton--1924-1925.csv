@@ -1,76 +1,37 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHWORTH, James	Winger	
-										
-BAIN, David	Wing Half	
-										
-BARTON, Teddy	Wing Half	
-										
-BROAD, Jimmy	Centre Forward	
-										
-BROWN, William	Wing Half	
-										
-CADDICK, George	Central Defender	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-CHEDGZOY, Sam	Winger	
-										
-COCK, Jack	Centre Forward	
-										
-DEAN, Bill 'Dixie'	Centre Forward	
-										
-FORBES, Fred	Inside Forward	
-										
-GLOVER, Ted	Full Back	
-										
-HARGREAVES, Frank	Inside Forward	
-										
-HARLAND, Alfie	Goalkeeper	
-										
-HART, Hunter	Wing Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-JONES, Bob	Goalkeeper	
-										
-KENDALL, Jack	Goalkeeper	
-										
-KENNEDY, Fred	Inside Forward	
-										
-KERR, Jasper	Full Back	
-										
-LIVINGSTONE, Duggie	Full Back	
-										
-MCBAIN, Neil	Centre Half	
-										
-MCDONALD, Jock	Full Back	
-										
-MCGRAE, Joe	Wing Half	
-										
-O'DONNELL, Jack	Full Back	
-										
-PARRY, Frank	Winger	
-										
-PEACOCK, Joe	Wing Half	
-										
-RAITT, David	Full Back	
-										
-REID, David	Inside Forward	
-										
-ROONEY, Walter	Wing Half	
-										
-TROUP, Alec	Winger	
-										
-VIRR, Albert	Wing Half	
-										
-WALL, Alec	Inside Forward	
-										
-WEAVER, Walter	Winger	
-										
-WILLIAMS, William	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHWORTH, James ",Winger,0,0,0,0,0,0,0,0,0
+,"BAIN, David ",Wing Half,3,0,0,1,0,0,0,0,0
+,"BARTON, Teddy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BROAD, Jimmy ",Centre Forward,14,8,0,3,0,0,0,0,0
+,"BROWN, William ",Wing Half,20,0,0,3,0,0,0,0,0
+,"CADDICK, George ",Central Defender,0,0,0,0,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,27,6,0,4,3,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,38,2,0,3,0,0,0,0,0
+,"COCK, Jack ",Centre Forward,19,5,0,1,0,0,0,0,0
+,"DEAN, Bill 'Dixie' ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"FORBES, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GLOVER, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"HARGREAVES, Frank ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"HARLAND, Alfie ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"HART, Hunter ",Wing Half,24,0,0,0,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,28,4,0,3,1,0,0,0,0
+,"JONES, Bob ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"KENDALL, Jack ",Goalkeeper,12,0,0,2,0,0,0,0,0
+,"KENNEDY, Fred ",Inside Forward,10,3,1,0,0,0,0,0,0
+,"KERR, Jasper ",Full Back,2,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Duggie ",Full Back,20,0,0,0,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,35,0,0,4,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,29,0,0,4,0,0,0,0,0
+,"MCGRAE, Joe ",Wing Half,0,0,0,0,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,13,1,0,0,0,0,0,0,0
+,"PARRY, Frank ",Winger,4,0,0,1,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,17,0,0,1,0,0,0,0,0
+,"RAITT, David ",Full Back,20,0,0,4,0,0,0,0,0
+,"REID, David ",Inside Forward,23,2,0,3,0,0,0,0,0
+,"ROONEY, Walter ",Wing Half,4,0,0,0,0,0,0,0,0
+,"TROUP, Alec ",Winger,32,2,0,0,0,0,0,0,0
+,"VIRR, Albert ",Wing Half,1,0,0,1,0,0,0,0,0
+,"WALL, Alec ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WEAVER, Walter ",Winger,9,2,0,4,0,0,0,0,0
+,"WILLIAMS, William ",Inside Forward,9,1,0,0,0,0,0,0,0

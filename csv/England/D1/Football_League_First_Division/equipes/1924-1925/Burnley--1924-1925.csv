@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMITAGE, Jack	Centre Half	
-										
-BAILEY, Frank	Wing Half	
-										
-BASNETT, Alf	Wing Half	
-										
-BEEL, George	Centre Forward	
-										
-BRUTON, Jack	Winger	
-										
-CHADWICK, Walter	Full Back	
-										
-COMBES, Billy	Centre Half	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DRUMMOND, Bob	Inside Forward	
-										
-EVANS, Jimmy	Full Back	
-										
-FERGUS, Alex	Full Back	
-										
-FREEMAN, Albert	Inside Forward	
-										
-GREENHALGH, John	Inside Forward	
-										
-HILL, Jack	Central Defender	
-										
-HUGHES, Len	Wing Half	
-										
-KELLY, Bob	Inside Forward	
-										
-LANCASTER, Wilfred	Winger	
-										
-PAGE, Samuel	Goalkeeper	
-										
-PARKIN, George	Wing Half	
-										
-RAWCLIFFE, Roland	Wing Half	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-SMELT, Len	Full Back	
-										
-TONNER, Jimmy	Winger	
-										
-TRESADERN, Jack	Wing Half	
-										
-WATERFIELD, George	Full Back	
-										
-WATSON, Billy	Wing Half	
-										
-WEAVER, Walter	Winger	
-										
-WHEELHOUSE, Ben	Full Back	
-										
-WILLIAMS, John	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMITAGE, Jack ",Centre Half,27,0,0,0,0,0,0,0,0
+,"BAILEY, Frank ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BASNETT, Alf ",Wing Half,25,1,0,1,0,0,0,0,0
+,"BEEL, George ",Centre Forward,35,10,0,1,0,0,0,0,0
+,"BRUTON, Jack ",Winger,2,1,0,0,0,0,0,0,0
+,"CHADWICK, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"COMBES, Billy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,40,5,0,1,0,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"DRUMMOND, Bob ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"EVANS, Jimmy ",Full Back,12,0,0,0,0,0,0,0,0
+,"FERGUS, Alex ",Full Back,16,0,0,0,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"GREENHALGH, John ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,25,3,0,1,0,0,0,0,0
+,"HUGHES, Len ",Wing Half,2,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,34,3,0,1,0,0,0,0,0
+,"LANCASTER, Wilfred ",Winger,4,0,0,0,0,0,0,0,0
+,"PAGE, Samuel ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"PARKIN, George ",Wing Half,25,1,0,0,0,0,0,0,0
+,"RAWCLIFFE, Roland ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,22,15,0,1,1,0,0,0,0
+,"SMELT, Len ",Full Back,34,0,0,1,0,0,0,0,0
+,"TONNER, Jimmy ",Winger,27,2,0,0,0,0,0,0,0
+,"TRESADERN, Jack ",Wing Half,22,0,0,1,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,27,0,0,1,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WEAVER, Walter ",Winger,11,1,0,0,0,0,0,0,0
+,"WHEELHOUSE, Ben ",Full Back,7,0,0,0,0,0,0,0,0
+,"WILLIAMS, John ",Centre Forward,4,2,0,1,0,0,0,0,0

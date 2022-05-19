@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHURST, Bill	Full Back	
-										
-BARRY, Len	Winger	
-										
-COCK, Donald	Centre Forward	
-										
-COPE, Horace	Full Back	
-										
-CORNWELL, Ralph	Full Back	
-										
-DALY, Joe	Winger	
-										
-DAVIS, Arthur	Inside Forward	
-										
-DINSDALE, Norman	Centre Half	
-										
-FENWICK, Bob	Centre Half	
-										
-FLINT, Billy	Wing Half	
-										
-GREATOREX, Laurie	Centre Forward	
-										
-HILL, Harold	Inside Forward	
-										
-HILLS, Walter	Wing Half	
-										
-HILTON, Fred	Wing Half	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JEPSON, John	Centre Forward	
-										
-KEELING, Percy	Winger	
-										
-KEETON, Walter	Inside Forward	
-										
-KEMP, Haydn	Wing Half	
-										
-MITCHELL, Michael	Wing Half	
-										
-MORRIS, Hugh	Winger	
-										
-NICHOLLS, Joe	Goalkeeper	
-										
-PLATTS, Bob	Winger	
-										
-SMITH, George	Full Back	
-										
-SMITH, William	Full Back	
-										
-STANIFORTH, Chris	Centre Forward	
-										
-STREETS, George	Goalkeeper	
-										
-WAINWRIGHT, Thomas	Goalkeeper	
-										
-WIDDOWSON, Alf	Inside Forward	
-										
-WREN, Jack	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHURST, Bill ",Full Back,30,0,0,3,0,0,0,0,0
+,"BARRY, Len ",Winger,42,4,0,3,1,0,0,0,0
+,"COCK, Donald ",Centre Forward,20,8,0,3,2,0,0,0,0
+,"COPE, Horace ",Full Back,28,2,1,3,0,0,0,0,0
+,"CORNWELL, Ralph ",Full Back,16,0,0,0,0,0,0,0,0
+,"DALY, Joe ",Winger,30,1,0,2,0,0,0,0,0
+,"DAVIS, Arthur ",Inside Forward,41,10,0,3,3,0,0,0,0
+,"DINSDALE, Norman ",Centre Half,39,1,0,3,0,0,0,0,0
+,"FENWICK, Bob ",Centre Half,1,0,0,0,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,31,1,0,2,0,0,0,0,0
+,"GREATOREX, Laurie ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"HILL, Harold ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"HILLS, Walter ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HILTON, Fred ",Wing Half,2,0,0,0,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"JEPSON, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"KEELING, Percy ",Winger,6,0,0,0,0,0,0,0,0
+,"KEETON, Walter ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"KEMP, Haydn ",Wing Half,35,1,0,3,0,0,0,0,0
+,"MITCHELL, Michael ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MORRIS, Hugh ",Winger,0,0,0,0,0,0,0,0,0
+,"NICHOLLS, Joe ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"PLATTS, Bob ",Winger,8,1,0,1,0,0,0,0,0
+,"SMITH, George ",Full Back,9,0,0,0,0,0,0,0,0
+,"SMITH, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"STANIFORTH, Chris ",Centre Forward,18,2,0,0,0,0,0,0,0
+,"STREETS, George ",Goalkeeper,10,0,0,1,0,0,0,0,0
+,"WAINWRIGHT, Thomas ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WIDDOWSON, Alf ",Inside Forward,39,10,0,3,0,0,0,0,0
+,"WREN, Jack ",Wing Half,11,0,0,1,0,0,0,0,0

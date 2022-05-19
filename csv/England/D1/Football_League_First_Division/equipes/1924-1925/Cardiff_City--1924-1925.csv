@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEADLES, Harry	Inside Forward	
-										
-BLAIR, Jimmy	Full Back	
-										
-CLENNELL, Joe	Inside Forward	
-										
-COLLINS, Elvet	Winger	
-										
-DAVIES, Len	Inside Forward	
-										
-DAVIES, Willie	Winger	
-										
-EVANS, Jack	Winger	
-										
-FARQUHARSON, Tom	Goalkeeper	
-										
-GILL, Jimmy	Inside Forward	
-										
-HAGAN, Alfie	Inside Forward	
-										
-HARDY, Billy	Wing Half	
-										
-HILLS, Joe	Goalkeeper	
-										
-KEENOR, Fred	Central Defender	
-										
-LAWSON, Denis	Winger	
-										
-LEWIS, Jack 'Ginger'	Wing Half	
-										
-MCILVENNY, Paddy	Winger	
-										
-NELSON, Jimmy	Full Back	
-										
-NICHOLLS, Jack	Inside Forward	
-										
-NICHOLSON, Joe	Wing Half	
-										
-PAGE, Jack	Full Back	
-										
-SLOAN, Tom	Centre Half	
-										
-TAYLOR, Billy	Winger	
-										
-WAKE, Harry	Wing Half	
-										
-WHITCOMBE, George	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEADLES, Harry ",Inside Forward,25,12,0,8,2,0,0,0,0
+,"BLAIR, Jimmy ",Full Back,36,0,0,7,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,12,1,0,0,0,0,0,0,0
+,"COLLINS, Elvet ",Winger,1,0,0,0,0,0,0,0,0
+,"DAVIES, Len ",Inside Forward,30,19,0,4,2,0,0,0,0
+,"DAVIES, Willie ",Winger,31,5,0,7,2,0,0,0,0
+,"EVANS, Jack ",Winger,33,0,0,6,0,0,0,0,0
+,"FARQUHARSON, Tom ",Goalkeeper,37,0,0,8,0,0,0,0,0
+,"GILL, Jimmy ",Inside Forward,32,8,0,6,2,0,0,0,0
+,"HAGAN, Alfie ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HARDY, Billy ",Wing Half,36,0,0,8,0,0,0,0,0
+,"HILLS, Joe ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"KEENOR, Fred ",Central Defender,36,0,0,8,0,0,0,0,0
+,"LAWSON, Denis ",Winger,26,1,0,5,0,0,0,0,0
+,"LEWIS, Jack 'Ginger' ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCILVENNY, Paddy ",Winger,5,2,0,0,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,37,2,2,8,0,0,0,0,0
+,"NICHOLLS, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"NICHOLSON, Joe ",Wing Half,29,6,0,5,2,0,0,0,0
+,"PAGE, Jack ",Full Back,9,0,0,0,0,0,0,0,0
+,"SLOAN, Tom ",Centre Half,4,0,0,0,0,0,0,0,0
+,"TAYLOR, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"WAKE, Harry ",Wing Half,31,0,0,8,0,0,0,0,0
+,"WHITCOMBE, George ",Wing Half,0,0,0,0,0,0,0,0,0

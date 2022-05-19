@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1924/25
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Tommy	Full Back	
-										
-AMOS, Wally	Winger	
-										
-BALL, Jack	Inside Forward	
-										
-BRADSHAW, Tom	Central Defender	
-										
-BROOKS, George	Wing Half	
-										
-BULLOCK, Norman	Centre Forward	
-										
-BURKINSHAW, Ralph	Inside Forward	
-										
-FINNEY, Arthur	Central Defender	
-										
-HARRISON, Billy	Goalkeeper	
-										
-HEAP, Fred	Full Back	
-										
-HORTON, Jackie	Winger	
-										
-HUMPISH, Bert	Wing Half	
-										
-MATTHEWS, Cyril	Winger	
-										
-OGDEN, Robert	Wing Half	
-										
-PEARSON, George	Winger	
-										
-PICK, Billy	Winger	
-										
-PORTER, Jimmy	Wing Half	
-										
-RICHARDSON, Billy	Goalkeeper	
-										
-ROBBIE, David	Winger	
-										
-SEYMOUR, Tommy	Full Back	
-										
-SMITH, Fred	Full Back	
-										
-STAGE, Billy	Inside Forward	
-										
-STEVENSON, John	Inside Forward	
-										
-TURNER, Bill	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Tommy ",Full Back,34,0,0,1,0,0,0,0,0
+,"AMOS, Wally ",Winger,42,10,1,1,0,0,0,0,0
+,"BALL, Jack ",Inside Forward,37,15,0,1,0,0,0,0,0
+,"BRADSHAW, Tom ",Central Defender,37,1,0,0,0,0,0,0,0
+,"BROOKS, George ",Wing Half,6,1,0,0,0,0,0,0,0
+,"BULLOCK, Norman ",Centre Forward,36,9,0,1,0,0,0,0,0
+,"BURKINSHAW, Ralph ",Inside Forward,13,2,0,0,0,0,0,0,0
+,"FINNEY, Arthur ",Central Defender,7,1,0,1,0,0,0,0,0
+,"HARRISON, Billy ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"HEAP, Fred ",Full Back,35,0,0,1,0,0,0,0,0
+,"HORTON, Jackie ",Winger,0,0,0,0,0,0,0,0,0
+,"HUMPISH, Bert ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MATTHEWS, Cyril ",Winger,16,3,0,1,0,0,0,0,0
+,"OGDEN, Robert ",Wing Half,2,0,0,0,0,0,0,0,0
+,"PEARSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"PICK, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"PORTER, Jimmy ",Wing Half,30,2,0,1,0,0,0,0,0
+,"RICHARDSON, Billy ",Goalkeeper,27,0,0,1,0,0,0,0,0
+,"ROBBIE, David ",Winger,33,2,0,0,0,0,0,0,0
+,"SEYMOUR, Tommy ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMITH, Fred ",Full Back,13,0,0,0,0,0,0,0,0
+,"STAGE, Billy ",Inside Forward,32,7,0,1,0,0,0,0,0
+,"STEVENSON, John ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"TURNER, Bill ",Wing Half,42,0,0,1,0,0,0,0,0
