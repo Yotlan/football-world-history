@@ -24,7 +24,13 @@ Computer Science is a wonderfull science. Indeed, this science is logical and us
 - Scala : Cloud-Based Application Development (intermediate)
 
 But first of all, it's important to prepare your computer to use language. In each folders bellow, you have a README file associate with an installing part :
-- 
+- `learn-python/`
+- `learn-javascript/`
+- `learn-java/`
+- `learn-c/`
+- `learn-c++/`
+- `learn-php/`
+- `learn-sql/`
 
 ### GIT
 
