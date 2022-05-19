@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARNETT, Fred	Winger	
-										
-BELLAMY, Walter	Winger	
-										
-BLAIR, John	Inside Forward	
-										
-BRITTON, Jack	Goalkeeper	
-										
-CLAY, Tommy	Full Back	
-										
-DIMMOCK, Jimmy	Winger	
-										
-ELKES, Jack	Inside Forward	
-										
-FORSTER, Matt	Full Back	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HANDLEY, Charlie	Winger	
-										
-LANE, Billy	Centre Forward	
-										
-LINDSAY, Alex	Centre Forward	
-										
-LOWE, Harry	Centre Half	
-										
-NICHOLLS, Joe	Goalkeeper	
-										
-O'CALLAGHAN, Eugene 'Taffy'	Inside Forward	
-										
-OSBORNE, Frank	Centre Forward	
-										
-POYNTON, Cecil	Full Back	
-										
-RICHARDSON, Jock	Full Back	
-										
-ROE, Tommy	Inside Forward	
-										
-SANDERS, Arthur	Wing Half	
-										
-SEED, Jimmy	Inside Forward	
-										
-SKITT, Harry	Central Defender	
-										
-SMITH, Bert	Wing Half	
-										
-SMITH, Jimmy	Goalkeeper	
-										
-THOMPSON, Andy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARNETT, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"BELLAMY, Walter ",Winger,1,0,0,0,0,0,0,0,0
+,"BLAIR, John ",Inside Forward,24,11,0,1,0,0,0,0,0
+,"BRITTON, Jack ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,16,0,0,1,0,0,0,0,0
+,"DIMMOCK, Jimmy ",Winger,41,19,2,1,1,0,0,0,0
+,"ELKES, Jack ",Inside Forward,40,2,0,1,0,0,0,0,0
+,"FORSTER, Matt ",Full Back,35,0,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HANDLEY, Charlie ",Winger,24,10,0,1,1,0,0,0,0
+,"LANE, Billy ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"LINDSAY, Alex ",Centre Forward,37,0,0,1,0,0,0,0,0
+,"LOWE, Harry ",Centre Half,1,0,0,0,0,0,0,0,0
+,"NICHOLLS, Joe ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"O'CALLAGHAN, Eugene 'Taffy' ",Inside Forward,13,5,0,0,0,0,0,0,0
+,"OSBORNE, Frank ",Centre Forward,34,9,0,0,0,0,0,0,0
+,"POYNTON, Cecil ",Full Back,31,0,0,1,0,0,0,0,0
+,"RICHARDSON, Jock ",Full Back,2,0,0,0,0,0,0,0,0
+,"ROE, Tommy ",Inside Forward,3,3,0,0,0,0,0,0,0
+,"SANDERS, Arthur ",Wing Half,12,7,0,0,0,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,23,7,0,1,0,0,0,0,0
+,"SKITT, Harry ",Central Defender,22,0,0,0,0,0,0,0,0
+,"SMITH, Bert ",Wing Half,24,0,0,1,0,0,0,0,0
+,"SMITH, Jimmy ",Goalkeeper,23,0,0,1,0,0,0,0,0
+,"THOMPSON, Andy ",Winger,30,2,0,1,0,0,0,0,0

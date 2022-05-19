@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jimmy	Full Back	
-										
-ARMAND, Jack	Inside Forward	
-										
-ATKINSON, Josh	Wing Half	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-DUGGAN, Harry	Winger	
-										
-EDWARDS, Willis	Wing Half	
-										
-FELL, Jackie	Winger	
-										
-HART, Ernie	Central Defender	
-										
-JACKSON, Billy	Winger	
-										
-JENNINGS, Tommy	Centre Forward	
-										
-KIRKPATRICK, Jim	Full Back	
-										
-MEARS, Frank	Centre Forward	
-										
-MENZIES, Bill	Full Back	
-										
-MITCHELL, Tom	Winger	
-										
-POTTS, Jimmy	Goalkeeper	
-										
-REED, George	Wing Half	
-										
-ROBERTS, Harry	Full Back	
-										
-ROBINSON, Dave	Full Back	
-										
-SISSONS, Albert	Winger	
-										
-TOWNSLEY, Tom	Full Back	
-										
-TURNBULL, Bobby	Winger	
-										
-WAINSCOAT, Russell	Inside Forward	
-										
-WHIPP, Percy	Inside Forward	
-										
-WHITE, John	Inside Forward	
-										
-WHITE, Sam	Winger	
-										
-YOUNG, Joe	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jimmy ",Full Back,22,0,0,3,0,0,0,0,0
+,"ARMAND, Jack ",Inside Forward,18,5,0,2,0,0,0,0,0
+,"ATKINSON, Josh ",Wing Half,11,0,0,0,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"DUGGAN, Harry ",Winger,8,1,0,1,1,0,0,0,0
+,"EDWARDS, Willis ",Wing Half,37,1,0,3,0,0,0,0,0
+,"FELL, Jackie ",Winger,6,0,0,0,0,0,0,0,0
+,"HART, Ernie ",Central Defender,5,0,0,0,0,0,0,0,0
+,"JACKSON, Billy ",Winger,8,0,0,0,0,0,0,0,0
+,"JENNINGS, Tommy ",Centre Forward,41,35,2,3,2,1,0,0,0
+,"KIRKPATRICK, Jim ",Full Back,3,0,0,0,0,0,0,0,0
+,"MEARS, Frank ",Centre Forward,1,0,0,1,0,0,0,0,0
+,"MENZIES, Bill ",Full Back,30,1,0,2,0,0,0,0,0
+,"MITCHELL, Tom ",Winger,23,4,0,3,0,0,0,0,0
+,"POTTS, Jimmy ",Goalkeeper,42,0,0,3,0,0,0,0,0
+,"REED, George ",Wing Half,22,0,0,3,0,0,0,0,0
+,"ROBERTS, Harry ",Full Back,34,0,0,1,0,0,0,0,0
+,"ROBINSON, Dave ",Full Back,4,0,0,0,0,0,0,0,0
+,"SISSONS, Albert ",Winger,16,1,0,1,0,0,0,0,0
+,"TOWNSLEY, Tom ",Full Back,42,0,0,3,0,0,0,0,0
+,"TURNBULL, Bobby ",Winger,31,5,0,1,0,0,0,0,0
+,"WAINSCOAT, Russell ",Inside Forward,25,11,1,2,0,0,0,0,0
+,"WHIPP, Percy ",Inside Forward,15,3,0,0,0,0,0,0,0
+,"WHITE, John ",Inside Forward,16,2,0,1,0,0,0,0,0
+,"WHITE, Sam ",Winger,0,0,0,0,0,0,0,0,0
+,"YOUNG, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0

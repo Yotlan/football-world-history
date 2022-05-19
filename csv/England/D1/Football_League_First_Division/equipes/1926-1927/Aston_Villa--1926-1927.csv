@@ -1,61 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMFIELD, Billy	Winger	
-										
-BOWEN, Teddy	Full Back	
-										
-CAPEWELL, Len	Centre Forward	
-										
-CHESTER, Reg	Winger	
-										
-COOK, Billy	Inside Forward	
-										
-CORBETT, Joseph	Wing Half	
-										
-DORRELL, Arthur	Winger	
-										
-GIBSON, Jimmy	Wing Half	
-										
-HARRIS, Walter	Centre Forward	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JAKEMAN, George	Wing Half	
-										
-JOHNSON, William	Goalkeeper	
-										
-JOHNSTONE, Jock	Wing Half	
-										
-KINGDON, Billy	Wing Half	
-										
-KIRTON, Billy	Inside Forward	
-										
-MILNE, Vic	Centre Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-MULDOON, Tommy	Wing Half	
-										
-NICHOLSON, Joe	Wing Half	
-										
-NORRIS, Fred	Wing Half	
-										
-SMART, Tommy	Full Back	
-										
-SMITH, Jack	Wing Half	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-STEPHENSON, George	Inside Forward	
-										
-TALBOT, Alec	Central Defender	
-										
-WALKER, Billy	Inside Forward	
-										
-YORK, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMFIELD, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"BOWEN, Teddy ",Full Back,31,0,0,1,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,21,16,0,1,0,0,0,0,0
+,"CHESTER, Reg ",Winger,4,0,0,0,0,0,0,0,0
+,"COOK, Billy ",Inside Forward,13,9,0,0,0,0,0,0,0
+,"CORBETT, Joseph ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DORRELL, Arthur ",Winger,38,7,0,1,1,0,0,0,0
+,"GIBSON, Jimmy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HARRIS, Walter ",Centre Forward,13,4,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"JAKEMAN, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JOHNSON, William ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"JOHNSTONE, Jock ",Wing Half,16,1,0,1,0,0,0,0,0
+,"KINGDON, Billy ",Wing Half,26,2,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"MILNE, Vic ",Centre Half,35,0,0,1,0,0,0,0,0
+,"MORT, Tommy ",Full Back,23,0,0,1,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,35,1,0,1,0,0,0,0,0
+,"MULDOON, Tommy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"NICHOLSON, Joe ",Wing Half,1,0,0,0,0,0,0,0,0
+,"NORRIS, Fred ",Wing Half,3,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,30,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,36,13,0,1,0,0,0,0,0
+,"TALBOT, Alec ",Central Defender,6,0,0,0,0,0,0,0,0
+,"VALLANCE, Hugh ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,33,15,0,1,0,0,0,0,0
+,"YORK, Dicky ",Winger,42,12,0,1,0,0,0,0,0

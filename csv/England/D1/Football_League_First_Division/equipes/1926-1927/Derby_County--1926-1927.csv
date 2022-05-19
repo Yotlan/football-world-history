@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BACON, Arthur	Centre Forward	
-										
-BEDFORD, Harry	Centre Forward	
-										
-BROMAGE, Enos	Winger	
-										
-CARR, Billy	Full Back	
-										
-COOPER, Tommy	Full Back	
-										
-COWELL, Billy	Goalkeeper	
-										
-CRILLY, Tommy	Full Back	
-										
-DONAGHY, Ted	Wing Half	
-										
-FAIRCLOUGH, Albert	Centre Forward	
-										
-GILL, Jimmy	Inside Forward	
-										
-HALEY, Bill	Inside Forward	
-										
-HART, Leslie	Centre Forward	
-										
-HOPE, Jack	Inside Forward	
-										
-KELLY, Dan	Winger	
-										
-MCINTYRE, Johnny	Wing Half	
-										
-MCLAVERTY, Bernard	Wing Half	
-										
-MEE, George	Winger	
-										
-MILES, Alfie	Centre Forward	
-										
-MURPHY, Lionel 'Spud'	Winger	
-										
-NELSON, Ted	Wing Half	
-										
-O'BRIEN, Mick	Central Defender	
-										
-OLNEY, Ben	Goalkeeper	
-										
-PLACKETT, Syd	Wing Half	
-										
-RITCHIE, Archie	Full Back	
-										
-SMITH, Valentine	Winger	
-										
-STORER, Harry	Wing Half	
-										
-THOMS, Harry	Centre Half	
-										
-THORNEWELL, George	Winger	
-										
-WHITEHOUSE, Jack	Inside Forward	
-										
-WIGHTMAN, Harry	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BACON, Arthur ",Centre Forward,1,0,0,1,0,0,0,0,0
+,"BEDFORD, Harry ",Centre Forward,33,22,3,2,4,0,0,0,0
+,"BROMAGE, Enos ",Winger,1,0,0,0,0,0,0,0,0
+,"CARR, Billy ",Full Back,19,0,0,2,0,0,0,0,0
+,"COOPER, Tommy ",Full Back,25,0,0,0,0,0,0,0,0
+,"COWELL, Billy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CRILLY, Tommy ",Full Back,38,0,0,2,0,0,0,0,0
+,"DONAGHY, Ted ",Wing Half,6,0,0,0,0,0,0,0,0
+,"FAIRCLOUGH, Albert ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"GILL, Jimmy ",Inside Forward,40,22,0,1,0,0,0,0,0
+,"HALEY, Bill ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HART, Leslie ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"HOPE, Jack ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"KELLY, Dan ",Winger,4,0,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Wing Half,29,0,0,2,0,0,0,0,0
+,"MCLAVERTY, Bernard ",Wing Half,26,1,0,1,0,0,0,0,0
+,"MEE, George ",Winger,11,3,0,0,0,0,0,0,0
+,"MILES, Alfie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MURPHY, Lionel 'Spud' ",Winger,34,10,0,2,1,0,0,0,0
+,"NELSON, Ted ",Wing Half,2,0,0,0,0,0,0,0,0
+,"O'BRIEN, Mick ",Central Defender,1,0,0,0,0,0,0,0,0
+,"OLNEY, Ben ",Goalkeeper,41,0,0,2,0,0,0,0,0
+,"PLACKETT, Syd ",Wing Half,12,0,0,1,0,0,0,0,0
+,"RITCHIE, Archie ",Full Back,1,0,0,0,0,0,0,0,0
+,"SMITH, Valentine ",Winger,2,0,0,0,0,0,0,0,0
+,"STORER, Harry ",Wing Half,29,8,0,1,0,0,0,0,0
+,"THOMS, Harry ",Centre Half,42,1,0,2,0,0,0,0,0
+,"THORNEWELL, George ",Winger,32,3,0,1,0,0,0,0,0
+,"WHITEHOUSE, Jack ",Inside Forward,23,13,0,2,1,0,0,0,0
+,"WIGHTMAN, Harry ",Centre Half,1,0,0,0,0,0,0,0,0

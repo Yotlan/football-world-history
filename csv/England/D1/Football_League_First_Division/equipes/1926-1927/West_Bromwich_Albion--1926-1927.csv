@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Billy	Full Back	
-										
-ASHMORE, George	Goalkeeper	
-										
-ASHURST, Bill	Full Back	
-										
-BAUGH, Dicky	Full Back	
-										
-BUSHELL, Willie	Winger	
-										
-BYERS, Jack	Winger	
-										
-CARTER, Joe	Inside Forward	
-										
-CORBETT, Frank	Full Back	
-										
-DAVIES, Stan	Centre Forward	
-										
-DUTTON, Harry	Wing Half	
-										
-EVANS, Joseph	Centre Half	
-										
-FERGUSON, Robert	Inside Forward	
-										
-FINCH, Bob	Full Back	
-										
-FITTON, Arthur	Winger	
-										
-GLIDDEN, Syd	Inside Forward	
-										
-GLIDDEN, Tommy	Winger	
-										
-HOWARTH, Nelson	Wing Half	
-										
-JAMES, George	Centre Forward	
-										
-MAGEE, Tommy	Wing Half	
-										
-MARTIN, Ted	Centre Forward	
-										
-MORRALL, George	Central Defender	
-										
-PERRY, Arthur	Full Back	
-										
-POXTON, Jimmy	Winger	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-ROOKE, Edward	Centre Half	
-										
-SHAW, George	Full Back	
-										
-SHORT, Sammy	Inside Forward	
-										
-SPROSON, Thomas	Goalkeeper	
-										
-WILSON, Charlie	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Billy ",Full Back,6,0,0,0,0,0,0,0,0
+,"ASHMORE, George ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"ASHURST, Bill ",Full Back,22,1,0,1,0,0,0,0,0
+,"BAUGH, Dicky ",Full Back,13,0,0,0,0,0,0,0,0
+,"BUSHELL, Willie ",Winger,0,0,0,0,0,0,0,0,0
+,"BYERS, Jack ",Winger,29,5,0,0,0,0,0,0,0
+,"CARTER, Joe ",Inside Forward,36,15,0,1,0,0,0,0,0
+,"CORBETT, Frank ",Full Back,4,0,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,33,15,0,1,0,0,0,0,0
+,"DUTTON, Harry ",Wing Half,3,0,0,0,0,0,0,0,0
+,"EVANS, Joseph ",Centre Half,5,0,0,0,0,0,0,0,0
+,"FERGUSON, Robert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FINCH, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"FITTON, Arthur ",Winger,12,1,0,1,0,0,0,0,0
+,"GLIDDEN, Syd ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GLIDDEN, Tommy ",Winger,41,6,0,1,0,0,0,0,0
+,"HOWARTH, Nelson ",Wing Half,34,0,0,1,1,0,0,0,0
+,"JAMES, George ",Centre Forward,17,6,1,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,42,3,0,1,0,0,0,0,0
+,"MARTIN, Ted ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MORRALL, George ",Central Defender,0,0,0,0,0,0,0,0,0
+,"PERRY, Arthur ",Full Back,13,0,0,0,0,0,0,0,0
+,"POXTON, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"REED, Fred ",Centre Half,15,0,0,0,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"ROOKE, Edward ",Centre Half,25,1,0,1,0,0,0,0,0
+,"SHAW, George ",Full Back,25,0,0,1,0,0,0,0,0
+,"SHORT, Sammy ",Inside Forward,18,7,1,1,0,0,0,0,0
+,"SPROSON, Thomas ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,18,4,0,0,0,0,0,0,0

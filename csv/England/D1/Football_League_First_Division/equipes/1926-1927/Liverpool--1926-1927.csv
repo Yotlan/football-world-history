@@ -1,59 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARON, Fred	Centre Forward	
-										
-BROMILOW, Tom	Wing Half	
-										
-CHAMBERS, Harry	Inside Forward	
-										
-COCKBURN, Bill	Centre Half	
-										
-DEVLIN, Bill	Centre Forward	
-										
-DONE, Bob	Full Back	
-										
-EDMED, Dick	Winger	
-										
-FORSHAW, Dick	Inside Forward	
-										
-HODGSON, Gordon	Inside Forward	
-										
-HOPKIN, Fred	Winger	
-										
-JACKSON, Jimmy	Full Back	
-										
-LIGHTBODY, John	Centre Forward	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LUCAS, Tommy	Full Back	
-										
-MCDADE, Patrick	Centre Forward	
-										
-MCKINLAY, Donald	Full Back	
-										
-MCMULLAN, Dave	Wing Half	
-										
-MCNAB, Jock	Wing Half	
-										
-PITHER, George	Winger	
-										
-PRATT, David	Wing Half	
-										
-REID, Tommy	Centre Forward	
-										
-RILEY, Arthur	Goalkeeper	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SCOTT, Tom	Inside Forward	
-										
-SHEARS, Bert	Central Defender	
-										
-SHEPPARD, Bill	Inside Forward	
-										
-WALSH, Jimmy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARON, Fred ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BROMILOW, Tom ",Wing Half,40,0,0,4,0,0,0,0,0
+,"CHAMBERS, Harry ",Inside Forward,42,17,0,4,4,0,0,0,0
+,"COCKBURN, Bill ",Centre Half,9,0,0,0,0,0,0,0,0
+,"DEVLIN, Bill ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"DONE, Bob ",Full Back,2,0,0,0,0,0,0,0,0
+,"EDMED, Dick ",Winger,38,6,0,4,1,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,24,14,1,3,0,0,0,0,0
+,"HODGSON, Gordon ",Inside Forward,36,16,0,4,2,0,0,0,0
+,"HOPKIN, Fred ",Winger,36,0,0,4,1,0,0,0,0
+,"JACKSON, Jimmy ",Full Back,19,0,0,0,0,0,0,0,0
+,"LIGHTBODY, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,15,0,0,0,0,0,0,0,0
+,"LUCAS, Tommy ",Full Back,39,1,1,4,0,0,0,0,0
+,"MCDADE, Patrick ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,28,1,0,4,0,0,0,0,0
+,"MCMULLAN, Dave ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCNAB, Jock ",Wing Half,29,0,0,4,0,0,0,0,0
+,"PITHER, George ",Winger,6,0,0,0,0,0,0,0,0
+,"PRATT, David ",Wing Half,14,0,0,4,0,0,0,0,0
+,"REID, Tommy ",Centre Forward,20,12,0,1,0,0,0,0,0
+,"RILEY, Arthur ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,32,0,0,4,0,0,0,0,0
+,"SCOTT, Tom ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"SHEARS, Bert ",Central Defender,8,0,0,0,0,0,0,0,0
+,"WALSH, Jimmy ",Inside Forward,7,0,0,0,0,0,0,0,0

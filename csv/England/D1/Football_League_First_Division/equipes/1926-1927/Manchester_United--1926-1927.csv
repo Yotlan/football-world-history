@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTLEY, Joe	Full Back	
-										
-BARSON, Frank	Centre Half	
-										
-BENNION, Ray	Wing Half	
-										
-BRISCOE, Jim	Full Back	
-										
-CHAPMAN, Billy	Winger	
-										
-DUCKWORTH, Dick	Wing Half	
-										
-GRIMWOOD, Jack	Wing Half	
-										
-HANNAFORD, Charlie	Winger	
-										
-HANSON, Jimmy	Inside Forward	
-										
-HARRIS, Tommy	Inside Forward	
-										
-HASLAM, George 'Tiny'	Centre Half	
-										
-HAWORTH, Ronald	Inside Forward	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-IDDON, Richard	Centre Forward	
-										
-INGLIS, Bill	Full Back	
-										
-JONES, Tom	Full Back	
-										
-MANN, Frank	Inside Forward	
-										
-MCLENAHAN, Hugh	Wing Half	
-										
-MCPHERSON, Frank	Winger	
-										
-MOORE, Charlie	Full Back	
-										
-PARTRIDGE, Ted	Winger	
-										
-RENNOX, Charlie	Inside Forward	
-										
-SILCOCK, Jack	Full Back	
-										
-SMITH, Albert	Winger	
-										
-SMITH, Tom	Inside Forward	
-										
-SPENCE, Joe	Winger	
-										
-STEWARD, Alf	Goalkeeper	
-										
-SWEENEY, Eric	Inside Forward	
-										
-THOMAS, Harry	Winger	
-										
-WILSON, Jack	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTLEY, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"BARSON, Frank ",Centre Half,21,2,0,3,0,0,0,0,0
+,"BENNION, Ray ",Wing Half,37,0,0,3,0,0,0,0,0
+,"BRISCOE, Jim ",Full Back,0,0,0,0,0,0,0,0,0
+,"CHAPMAN, Billy ",Winger,17,0,0,0,0,0,0,0,0
+,"DUCKWORTH, Dick ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GRIMWOOD, Jack ",Wing Half,17,0,0,0,0,0,0,0,0
+,"HANNAFORD, Charlie ",Winger,7,0,0,0,0,0,0,0,0
+,"HANSON, Jimmy ",Inside Forward,21,5,0,1,0,0,0,0,0
+,"HARRIS, Tommy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"HASLAM, George 'Tiny' ",Centre Half,4,0,0,0,0,0,0,0,0
+,"HAWORTH, Ronald ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,16,0,0,3,0,0,0,0,0
+,"IDDON, Richard ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"INGLIS, Bill ",Full Back,6,0,0,0,0,0,0,0,0
+,"JONES, Tom ",Full Back,21,0,0,0,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,14,0,0,0,0,0,0,0,0
+,"MCLENAHAN, Hugh ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MCPHERSON, Frank ",Winger,32,15,2,3,2,0,0,0,0
+,"MOORE, Charlie ",Full Back,30,0,0,3,0,0,0,0,0
+,"PARTRIDGE, Ted ",Winger,16,0,0,3,0,0,0,0,0
+,"RENNOX, Charlie ",Inside Forward,22,7,0,1,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,26,0,0,3,0,0,0,0,0
+,"SMITH, Albert ",Winger,5,1,0,0,0,0,0,0,0
+,"SMITH, Tom ",Inside Forward,10,0,0,1,0,0,0,0,0
+,"SPENCE, Joe ",Winger,40,18,0,3,1,0,0,0,0
+,"STEWARD, Alf ",Goalkeeper,42,0,0,3,0,0,0,0,0
+,"SWEENEY, Eric ",Inside Forward,13,3,0,3,1,0,0,0,0
+,"THOMAS, Harry ",Winger,16,0,0,0,0,0,0,0,0
+,"WILSON, Jack ",Wing Half,21,0,0,0,0,0,0,0,0

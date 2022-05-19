@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Alf	Wing Half	
-										
-BARLEY, Charlie	Wing Half	
-										
-BLAIR, John	Centre Forward	
-										
-BLYTH, Billy	Inside Forward	
-										
-BOWEN, Ted	Centre Forward	
-										
-BRAIN, Jimmy	Centre Forward	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-BUTLER, Jack	Central Defender	
-										
-COPE, Horace	Full Back	
-										
-HADEN, Sam	Winger	
-										
-HARPER, Bill	Goalkeeper	
-										
-HOAR, Sid	Winger	
-										
-HULME, Joe	Winger	
-										
-JOHN, Bob	Wing Half	
-										
-KENNEDY, Andy	Full Back	
-										
-LAMBERT, Jack	Centre Forward	
-										
-LEE, Jack	Winger	
-										
-LEWIS, Dan	Goalkeeper	
-										
-MCNESTRY, George	Winger	
-										
-MILNE, Billy	Wing Half	
-										
-MOODY, Jack	Goalkeeper	
-										
-PARKER, Tom	Full Back	
-										
-PARKES, Horace	Full Back	
-										
-PEEL, Harold	Inside Forward	
-										
-RAMSAY, Jimmy	Inside Forward	
-										
-ROBERTS, Herbie	Central Defender	
-										
-SEDDON, Bill	Wing Half	
-										
-SHAW, James	Inside Forward	
-										
-TRICKER, Reg	Inside Forward	
-										
-WELLS, Tommy	Winger	
-										
-YOUNG, Andrew	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Alf ",Wing Half,23,0,0,6,0,0,0,0,0
+,"BARLEY, Charlie ",Wing Half,3,1,0,1,0,0,0,0,0
+,"BLAIR, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,33,2,0,7,1,0,0,0,0
+,"BOWEN, Ted ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BRAIN, Jimmy ",Centre Forward,37,31,0,7,3,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,33,14,0,7,5,0,0,0,0
+,"BUTLER, Jack ",Central Defender,31,1,0,7,1,0,0,0,0
+,"COPE, Horace ",Full Back,11,0,0,5,0,0,0,0,0
+,"HADEN, Sam ",Winger,17,4,0,0,0,0,0,0,0
+,"HARPER, Bill ",Goalkeeper,23,0,0,1,0,0,0,0,0
+,"HOAR, Sid ",Winger,16,2,0,7,0,0,0,0,0
+,"HULME, Joe ",Winger,37,8,0,7,2,0,0,0,0
+,"JOHN, Bob ",Wing Half,41,3,0,7,0,0,0,0,0
+,"KENNEDY, Andy ",Full Back,11,0,0,1,0,0,0,0,0
+,"LAMBERT, Jack ",Centre Forward,16,1,0,0,0,0,0,0,0
+,"LEE, Jack ",Winger,7,0,0,0,0,0,0,0,0
+,"LEWIS, Dan ",Goalkeeper,17,0,0,6,0,0,0,0,0
+,"MCNESTRY, George ",Winger,0,0,0,0,0,0,0,0,0
+,"MILNE, Billy ",Wing Half,6,0,0,1,0,0,0,0,0
+,"MOODY, Jack ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"PARKER, Tom ",Full Back,42,4,3,7,0,0,0,0,0
+,"PARKES, Horace ",Full Back,0,0,0,0,0,0,0,0,0
+,"PEEL, Harold ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"RAMSAY, Jimmy ",Inside Forward,12,2,0,0,0,0,0,0,0
+,"ROBERTS, Herbie ",Central Defender,2,0,0,0,0,0,0,0,0
+,"SEDDON, Bill ",Wing Half,17,0,0,0,0,0,0,0,0
+,"SHAW, James ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"TRICKER, Reg ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"WELLS, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"YOUNG, Andrew ",Centre Forward,6,0,0,0,0,0,0,0,0

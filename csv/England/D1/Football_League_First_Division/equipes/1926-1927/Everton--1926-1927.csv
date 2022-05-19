@@ -1,81 +1,40 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAIN, David	Wing Half	
-										
-BAKER, Howard	Goalkeeper	
-										
-BATTEN, Bert	Inside Forward	
-										
-BROWN, William	Wing Half	
-										
-CRESSWELL, Warney	Full Back	
-										
-CRITCHLEY, Ted	Winger	
-										
-CURR, Robert	Full Back	
-										
-CURR, Wally	Wing Half	
-										
-DAVIES, Arthur	Goalkeeper	
-										
-DEAN, Bill 'Dixie'	Centre Forward	
-										
-DOMINY, Arthur	Inside Forward	
-										
-FORSHAW, Dick	Inside Forward	
-										
-GRIFFITHS, Tom	Central Defender	
-										
-HAMILTON, Herbert 'Duke'	Full Back	
-										
-HARDY, Harry	Goalkeeper	
-										
-HART, Hunter	Wing Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-KELLY, Jerry	Wing Half	
-										
-KENNEDY, Fred	Inside Forward	
-										
-KERR, Jasper	Full Back	
-										
-MCDONALD, Jock	Full Back	
-										
-MILLINGTON, Tommy	Winger	
-										
-MOFFAT, Harold	Winger	
-										
-MURRAY, David	Inside Forward	
-										
-O'DONNELL, Jack	Full Back	
-										
-O'NEILL, Harry	Centre Forward	
-										
-PARKER, Thomas	Winger	
-										
-PATERSON, Jim	Inside Forward	
-										
-PEACOCK, Joe	Wing Half	
-										
-RAITT, David	Full Back	
-										
-REID, David	Inside Forward	
-										
-ROONEY, Walter	Wing Half	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-TROUP, Alec	Winger	
-										
-VIRR, Albert	Wing Half	
-										
-WEAVER, Walter	Winger	
-										
-WELDON, Tony	Inside Forward	
-										
-WOODHOUSE, Roland	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAIN, David ",Wing Half,10,3,0,2,0,0,0,0,0
+,"BAKER, Howard ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"BATTEN, Bert ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"BROWN, William ",Wing Half,25,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,15,0,0,0,0,0,0,0,0
+,"CRITCHLEY, Ted ",Winger,15,0,0,0,0,0,0,0,0
+,"CURR, Robert ",Full Back,0,0,0,0,0,0,0,0,0
+,"CURR, Wally ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DAVIES, Arthur ",Goalkeeper,10,0,0,1,0,0,0,0,0
+,"DEAN, Bill 'Dixie' ",Centre Forward,27,21,0,4,3,0,0,0,0
+,"DOMINY, Arthur ",Inside Forward,28,12,0,4,1,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"GRIFFITHS, Tom ",Central Defender,1,0,0,0,0,0,0,0,0
+,"HAMILTON, Herbert 'Duke' ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARDY, Harry ",Goalkeeper,7,0,0,3,0,0,0,0,0
+,"HART, Hunter ",Wing Half,39,1,0,3,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,34,11,0,4,1,0,0,0,0
+,"KELLY, Jerry ",Wing Half,14,0,0,0,0,0,0,0,0
+,"KENNEDY, Fred ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"KERR, Jasper ",Full Back,15,1,0,3,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,24,0,0,2,0,0,0,0,0
+,"MILLINGTON, Tommy ",Winger,13,0,0,1,0,0,0,0,0
+,"MOFFAT, Harold ",Winger,2,0,0,1,0,0,0,0,0
+,"MURRAY, David ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,24,3,0,2,0,0,0,0,0
+,"O'NEILL, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PARKER, Thomas ",Winger,6,0,0,1,0,0,0,0,0
+,"PATERSON, Jim ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,3,0,0,1,0,0,0,0,0
+,"RAITT, David ",Full Back,11,0,0,1,0,0,0,0,0
+,"REID, David ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"ROONEY, Walter ",Wing Half,0,0,0,3,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"TROUP, Alec ",Winger,37,5,0,4,2,0,0,0,0
+,"VIRR, Albert ",Wing Half,32,1,0,4,1,0,0,0,0
+,"WEAVER, Walter ",Winger,5,0,0,0,0,0,0,0,0
+,"WELDON, Tony ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"WOODHOUSE, Roland ",Inside Forward,2,0,0,0,0,0,0,0,0

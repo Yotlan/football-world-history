@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASNETT, Alf	Wing Half	
-										
-BEEL, George	Centre Forward	
-										
-BLINKHORN, Fred	Full Back	
-										
-BROWN, John	Winger	
-										
-BRUTON, Jack	Winger	
-										
-BURLEY, George	Centre Forward	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DEVINE, Joe	Inside Forward	
-										
-DOUGAL, Billy	Wing Half	
-										
-EARLE, Edwin	Winger	
-										
-FERGUS, Alex	Full Back	
-										
-FREEMAN, Albert	Inside Forward	
-										
-HARGREAVES, Harry	Inside Forward	
-										
-HILL, Jack	Central Defender	
-										
-JONES, Tommy	Wing Half	
-										
-MCCLUGGAGE, Andy	Full Back	
-										
-PAGE, Louis	Winger	
-										
-PARKIN, George	Wing Half	
-										
-POLLARD, Walter	Inside Forward	
-										
-REID, Andy	Full Back	
-										
-RICHARDS, Percy	Centre Forward	
-										
-SOMMERVILLE, George	Goalkeeper	
-										
-SPARGO, Steve	Central Defender	
-										
-STEEL, John	Wing Half	
-										
-WATERFIELD, George	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASNETT, Alf ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BEEL, George ",Centre Forward,36,24,0,3,3,0,0,0,0
+,"BLINKHORN, Fred ",Full Back,8,0,0,0,0,0,0,0,0
+,"BROWN, John ",Winger,0,0,0,0,0,0,0,0,0
+,"BRUTON, Jack ",Winger,42,9,0,3,2,0,0,0,0
+,"BURLEY, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,29,8,0,2,1,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,26,9,0,3,0,0,0,0,0
+,"DOUGAL, Billy ",Wing Half,37,0,0,3,0,0,0,0,0
+,"EARLE, Edwin ",Winger,3,1,0,0,0,0,0,0,0
+,"FERGUS, Alex ",Full Back,9,0,0,1,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,14,7,0,1,0,0,0,0,0
+,"HARGREAVES, Harry ",Inside Forward,14,4,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,35,1,0,3,0,0,0,0,0
+,"JONES, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MCCLUGGAGE, Andy ",Full Back,33,2,2,2,0,0,0,0,0
+,"PAGE, Louis ",Winger,36,13,0,3,2,0,0,0,0
+,"PARKIN, George ",Wing Half,14,0,0,0,0,0,0,0,0
+,"POLLARD, Walter ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"REID, Andy ",Full Back,1,0,0,0,0,0,0,0,0
+,"RICHARDS, Percy ",Centre Forward,5,5,0,0,0,0,0,0,0
+,"SOMMERVILLE, George ",Goalkeeper,41,0,0,3,0,0,0,0,0
+,"SPARGO, Steve ",Central Defender,1,0,0,1,0,0,0,0,0
+,"STEEL, John ",Wing Half,38,5,0,2,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,32,0,0,3,0,0,0,0,0

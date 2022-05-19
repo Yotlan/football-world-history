@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CAMPBELL, Austen	Wing Half	
-										
-COPE, Harold	Goalkeeper	
-										
-CRAWFORD, Jock	Goalkeeper	
-										
-CRISP, Jack	Winger	
-										
-HARPER, Ted	Centre Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HOLLAND, Peter	Inside Forward	
-										
-HUTTON, Jock	Full Back	
-										
-JONES, Herbert	Full Back	
-										
-LOW, David	Wing Half	
-										
-MCCULLOCH, Sam	Wing Half	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCKAY, Jock	Inside Forward	
-										
-MCLEAN, Tommy	Inside Forward	
-										
-MITCHELL, Tommy	Winger	
-										
-PROUDFOOT, Joseph	Full Back	
-										
-PUDDEFOOT, Syd	Inside Forward	
-										
-RANKIN, Willie	Central Defender	
-										
-RIGBY, Arthur	Winger	
-										
-ROLLO, Dave	Full Back	
-										
-ROSCAMP, Jack	Wing Half	
-										
-ROXBURGH, Robert	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SHAW, Gilbert	Winger	
-										
-SIMPSON, Edwin	Wing Half	
-										
-SMAILES, Matt	Centre Half	
-										
-SMITH, Jack	Centre Forward	
-										
-WALTER, Joe	Winger	
-										
-WATSON, Billy	Wing Half	
-										
-WHYTE, John	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CAMPBELL, Austen ",Wing Half,22,1,0,0,0,0,0,0,0
+,"COPE, Harold ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"CRAWFORD, Jock ",Goalkeeper,23,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"HARPER, Ted ",Centre Forward,39,35,5,1,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,35,0,0,1,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,16,3,0,1,0,0,0,0,0
+,"HUTTON, Jock ",Full Back,17,0,0,0,0,0,0,0,0
+,"JONES, Herbert ",Full Back,39,0,0,1,0,0,0,0,0
+,"LOW, David ",Wing Half,10,0,0,0,0,0,0,0,0
+,"MCCULLOCH, Sam ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,21,1,0,1,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,17,4,1,0,0,0,0,0,0
+,"MCLEAN, Tommy ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"MITCHELL, Tommy ",Winger,22,4,0,1,0,0,0,0,0
+,"PROUDFOOT, Joseph ",Full Back,0,0,0,0,0,0,0,0,0
+,"PUDDEFOOT, Syd ",Inside Forward,39,14,0,1,0,0,0,0,0
+,"RANKIN, Willie ",Central Defender,2,1,0,0,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,40,8,0,1,0,0,0,0,0
+,"ROLLO, Dave ",Full Back,2,0,0,0,0,0,0,0,0
+,"ROSCAMP, Jack ",Wing Half,25,0,0,1,0,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,26,0,0,1,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,5,0,0,1,0,0,0,0,0
+,"SHAW, Gilbert ",Winger,4,2,0,0,0,0,0,0,0
+,"SIMPSON, Edwin ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SMAILES, Matt ",Centre Half,3,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WALTER, Joe ",Winger,22,2,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WHYTE, John ",Wing Half,7,0,0,0,0,0,0,0,0

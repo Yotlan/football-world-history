@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Jack	Goalkeeper	
-										
-BELL, William	Full Back	
-										
-BIRKS, Len	Full Back	
-										
-BOYLE, Tommy	Inside Forward	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-CHANDLER, Bert	Full Back	
-										
-COOK, Bill	Full Back	
-										
-DUNNE, Jimmy	Centre Forward	
-										
-GILCHRIST, Albert	Inside Forward	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GREEN, George	Wing Half	
-										
-HARRIS, Bernie	Full Back	
-										
-HOYLAND, Walter	Inside Forward	
-										
-JOHNSON, Harry	Centre Forward	
-										
-KING, Seth	Central Defender	
-										
-MACE, Stan	Centre Half	
-										
-MERCER, Arthur	Inside Forward	
-										
-MERCER, Dave	Winger	
-										
-MILTON, Ernest	Full Back	
-										
-MORDUE, Tom 'Tucker'	Inside Forward	
-										
-PARTRIDGE, Albert	Winger	
-										
-PEAKE, George	Goalkeeper	
-										
-PICKERING, Jack	Inside Forward	
-										
-ROXBURGH, Jack	Winger	
-										
-SAMPY, Tommy	Wing Half	
-										
-SAMPY, Bill	Full Back	
-										
-SHANKLY, Jimmy	Centre Forward	
-										
-SUTCLIFFE, Charles	Goalkeeper	
-										
-TUNSTALL, Fred	Winger	
-										
-WAUGH, Jimmy	Central Defender	
-										
-WEBSTER, Wally	Full Back	
-										
-WILBOURN, Harry	Winger	
-										
-WILKINSON, Joe	Centre Half	
-										
-WILLIAMS, Vic	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Jack ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"BELL, William ",Full Back,5,0,0,0,0,0,0,0,0
+,"BIRKS, Len ",Full Back,30,0,0,1,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,20,1,0,1,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,14,0,0,0,0,0,0,0,0
+,"CHANDLER, Bert ",Full Back,19,0,0,0,0,0,0,0,0
+,"COOK, Bill ",Full Back,0,0,0,1,0,0,0,0,0
+,"DUNNE, Jimmy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"GILCHRIST, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,38,11,0,1,0,0,0,0,0
+,"GREEN, George ",Wing Half,36,1,0,1,0,0,0,0,0
+,"HARRIS, Bernie ",Full Back,27,0,0,0,0,0,0,0,0
+,"HOYLAND, Walter ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,35,23,0,1,1,0,0,0,0
+,"KING, Seth ",Central Defender,37,0,0,1,0,0,0,0,0
+,"MACE, Stan ",Centre Half,4,0,0,0,0,0,0,0,0
+,"MERCER, Arthur ",Inside Forward,28,14,0,1,1,0,0,0,0
+,"MERCER, Dave ",Winger,39,3,0,1,0,0,0,0,0
+,"MILTON, Ernest ",Full Back,1,0,0,0,0,0,0,0,0
+,"MORDUE, Tom 'Tucker' ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"PARTRIDGE, Albert ",Winger,3,0,0,0,0,0,0,0,0
+,"PEAKE, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"PICKERING, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROXBURGH, Jack ",Winger,3,1,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SAMPY, Bill ",Full Back,7,0,0,0,0,0,0,0,0
+,"SHANKLY, Jimmy ",Centre Forward,4,4,0,0,0,0,0,0,0
+,"SUTCLIFFE, Charles ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,42,15,3,1,0,0,0,0,0
+,"WAUGH, Jimmy ",Central Defender,3,0,0,0,0,0,0,0,0
+,"WEBSTER, Wally ",Full Back,1,0,0,0,0,0,0,0,0
+,"WILBOURN, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"WILKINSON, Joe ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WILLIAMS, Vic ",Wing Half,3,0,0,0,0,0,0,0,0

@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOYD, Jimmy	Winger	
-										
-CHANDLER, Bert	Full Back	
-										
-CLARK, Bob	Inside Forward	
-										
-CURRY, Tom	Wing Half	
-										
-GALLACHER, Hughie	Centre Forward	
-										
-GIBSON, Willie	Wing Half	
-										
-HAMPSON, Billy	Full Back	
-										
-HARRIS, Joe	Wing Half	
-										
-HUDSPETH, Frank	Full Back	
-										
-KEATING, Reg	Centre Forward	
-										
-LOUGHLIN, Jimmy	Centre Forward	
-										
-LOW, Jimmy	Winger	
-										
-MACKENZIE, Roddie	Wing Half	
-										
-MAITLAND, Alf	Full Back	
-										
-MCDONALD, Tommy	Inside Forward	
-										
-MCKAY, Bobby	Inside Forward	
-										
-MOONEY, Peter	Wing Half	
-										
-PARK, Ossie	Central Defender	
-										
-SEYMOUR, Stan	Winger	
-										
-SMITH, Harry	Inside Forward	
-										
-SPENCER, Charlie	Centre Half	
-										
-TENNANT, Jack	Full Back	
-										
-TIPPETT, Tommy	Centre Forward	
-										
-URWIN, Tommy	Winger	
-										
-WALLS, Frankie	Centre Forward	
-										
-WILSON, Willie	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOYD, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"CHANDLER, Bert ",Full Back,4,0,0,0,0,0,0,0,0
+,"CLARK, Bob ",Inside Forward,17,4,0,0,0,0,0,0,0
+,"CURRY, Tom ",Wing Half,5,0,0,0,0,0,0,0,0
+,"GALLACHER, Hughie ",Centre Forward,38,36,0,3,3,0,0,0,0
+,"GIBSON, Willie ",Wing Half,32,0,0,3,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,2,0,0,0,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,9,0,0,0,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,42,3,2,3,0,0,0,0,0
+,"KEATING, Reg ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LOUGHLIN, Jimmy ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"LOW, Jimmy ",Winger,2,1,0,0,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,38,2,0,3,0,0,0,0,0
+,"MAITLAND, Alf ",Full Back,36,0,0,3,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,41,17,3,3,6,2,0,0,0
+,"MCKAY, Bobby ",Inside Forward,25,10,0,3,1,0,0,0,0
+,"MOONEY, Peter ",Wing Half,3,0,0,0,0,0,0,0,0
+,"PARK, Ossie ",Central Defender,5,0,0,0,0,0,0,0,0
+,"SEYMOUR, Stan ",Winger,42,18,0,3,1,0,0,0,0
+,"SMITH, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SPENCER, Charlie ",Centre Half,34,0,0,3,0,0,0,0,0
+,"TENNANT, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"TIPPETT, Tommy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,39,4,0,3,1,0,0,0,0
+,"WALLS, Frankie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WILSON, Willie ",Goalkeeper,42,0,0,3,0,0,0,0,0

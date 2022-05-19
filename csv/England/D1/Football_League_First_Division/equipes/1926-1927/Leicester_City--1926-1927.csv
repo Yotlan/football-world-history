@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADCOCK, Hugh	Winger	
-										
-BAMBER, Jack	Wing Half	
-										
-BELL, Billy	Winger	
-										
-BERRY, Les	Goalkeeper	
-										
-BISHOP, Sid	Wing Half	
-										
-BLACK, Adam	Full Back	
-										
-BROWN, Jack	Full Back	
-										
-CAMPBELL, Kenny	Goalkeeper	
-										
-CARR, George	Inside Forward	
-										
-CARRIGAN, Pat	Central Defender	
-										
-CHANDLER, Arthur	Centre Forward	
-										
-DUNCAN, Johnny	Inside Forward	
-										
-FINDLAY, Billy	Wing Half	
-										
-GARNER, Bert	Full Back	
-										
-GODDERIDGE, Albert	Goalkeeper	
-										
-HEATHCOCK, Berty	Centre Forward	
-										
-HINE, Ernie	Inside Forward	
-										
-LANE, Billy	Centre Forward	
-										
-LOCHHEAD, Arthur	Inside Forward	
-										
-MCLACHLAN, Ted	Winger	
-										
-MCLAREN, Jimmy	Goalkeeper	
-										
-MITCHELL, James	Goalkeeper	
-										
-MOYES, Davie	Full Back	
-										
-NORRINGTON, Cyril	Full Back	
-										
-OSBORNE, Reg	Full Back	
-										
-WADSWORTH, Harold	Winger	
-										
-WATSON, Norman	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADCOCK, Hugh ",Winger,42,2,0,1,0,0,0,0,0
+,"BAMBER, Jack ",Wing Half,16,2,0,0,0,0,0,0,0
+,"BELL, Billy ",Winger,23,3,0,0,0,0,0,0,0
+,"BERRY, Les ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BISHOP, Sid ",Wing Half,26,3,0,1,0,0,0,0,0
+,"BLACK, Adam ",Full Back,23,0,0,0,0,0,0,0,0
+,"BROWN, Jack ",Full Back,18,0,0,0,0,0,0,0,0
+,"CAMPBELL, Kenny ",Goalkeeper,39,0,0,1,0,0,0,0,0
+,"CARR, George ",Inside Forward,19,3,0,0,0,0,0,0,0
+,"CARRIGAN, Pat ",Central Defender,10,0,0,1,0,0,0,0,0
+,"CHANDLER, Arthur ",Centre Forward,34,28,0,1,1,0,0,0,0
+,"DUNCAN, Johnny ",Inside Forward,42,5,0,1,1,0,0,0,0
+,"FINDLAY, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"GARNER, Bert ",Full Back,0,0,0,0,0,0,0,0,0
+,"GODDERIDGE, Albert ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HEATHCOCK, Berty ",Centre Forward,1,2,0,0,0,0,0,0,0
+,"HINE, Ernie ",Inside Forward,39,16,0,1,1,0,0,0,0
+,"LANE, Billy ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,29,13,5,1,0,0,0,0,0
+,"MCLACHLAN, Ted ",Winger,0,0,0,0,0,0,0,0,0
+,"MCLAREN, Jimmy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MITCHELL, James ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MOYES, Davie ",Full Back,3,0,0,0,0,0,0,0,0
+,"NORRINGTON, Cyril ",Full Back,0,0,0,0,0,0,0,0,0
+,"OSBORNE, Reg ",Full Back,38,0,0,1,0,0,0,0,0
+,"WADSWORTH, Harold ",Winger,18,4,0,1,0,0,0,0,0
+,"WATSON, Norman ",Wing Half,34,0,0,1,0,0,0,0,0

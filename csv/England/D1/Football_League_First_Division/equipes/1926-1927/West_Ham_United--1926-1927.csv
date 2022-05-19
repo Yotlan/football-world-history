@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAILLIE, David	Goalkeeper	
-										
-BARRETT, Jim	Central Defender	
-										
-BISHOP, Sid	Wing Half	
-										
-CADWELL, Albert	Wing Half	
-										
-CAMPBELL, John	Centre Forward	
-										
-CARTER, George	Wing Half	
-										
-CHEETHAM, Jackie	Centre Forward	
-										
-COLLINS, Jimmy	Wing Half	
-										
-DOWSEY, Jack	Wing Half	
-										
-EARL, Alf	Full Back	
-										
-EARLE, Stan	Inside Forward	
-										
-ECCLES, Joe	Winger	
-										
-GIBBINS, Viv	Centre Forward	
-										
-HEBDEN, Jack	Full Back	
-										
-HEYES, Jack	Inside Forward	
-										
-HODGSON, Tommy	Full Back	
-										
-HORLER, George	Full Back	
-										
-HUFTON, Ted	Goalkeeper	
-										
-HULL, Archie	Wing Half	
-										
-JOHNSON, Joe	Inside Forward	
-										
-KANE, Alex	Goalkeeper	
-										
-MOORE, Billy	Inside Forward	
-										
-PAYNE, John	Winger	
-										
-RUFFELL, Jimmy	Winger	
-										
-WATSON, Vic	Centre Forward	
-										
-WILLIAMS, Billy	Inside Forward	
-										
-YEWS, Tommy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAILLIE, David ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BARRETT, Jim ",Central Defender,42,1,0,3,0,0,0,0,0
+,"BISHOP, Sid ",Wing Half,9,0,0,0,0,0,0,0,0
+,"CADWELL, Albert ",Wing Half,13,0,0,0,0,0,0,0,0
+,"CAMPBELL, John ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"CARTER, George ",Wing Half,26,0,0,3,0,0,0,0,0
+,"CHEETHAM, Jackie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,42,1,0,3,0,0,0,0,0
+,"DOWSEY, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"EARL, Alf ",Full Back,1,0,0,0,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,42,13,0,3,0,0,0,0,0
+,"ECCLES, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,22,4,0,1,0,0,0,0,0
+,"HEBDEN, Jack ",Full Back,39,0,0,3,0,0,0,0,0
+,"HEYES, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HODGSON, Tommy ",Full Back,16,0,0,0,0,0,0,0,0
+,"HORLER, George ",Full Back,20,0,0,3,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,40,0,0,3,0,0,0,0,0
+,"HULL, Archie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JOHNSON, Joe ",Inside Forward,14,7,0,0,0,0,0,0,0
+,"KANE, Alex ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,12,2,0,1,0,0,0,0,0
+,"PAYNE, John ",Winger,1,0,0,0,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,37,13,0,3,1,0,0,0,0
+,"WATSON, Vic ",Centre Forward,42,34,0,3,3,0,0,0,0
+,"WILLIAMS, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"YEWS, Tommy ",Winger,39,8,0,3,0,0,0,0,0

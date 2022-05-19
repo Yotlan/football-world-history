@@ -1,70 +1,34 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAGGETT, Bill	Inside Forward	
-										
-BLACKMORE, Harold	Centre Forward	
-										
-BOSTON, Harry	Winger	
-										
-BUTLER, Billy	Winger	
-										
-COPE, John	Wing Half	
-										
-CORCORAN, Tommy	Full Back	
-										
-FINNEY, Alex	Full Back	
-										
-GIBSON, George	Inside Forward	
-										
-GILL, Jimmy	Goalkeeper	
-										
-GREENHALGH, Harry	Full Back	
-										
-HAWORTH, Bob	Full Back	
-										
-JACK, David	Inside Forward	
-										
-JACK, Rollo	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-NUTTALL, Harry	Wing Half	
-										
-PICKEN, Albert	Winger	
-										
-PYM, Dick	Goalkeeper	
-										
-RIGBY, Will	Winger	
-										
-ROBERTS, Les	Inside Forward	
-										
-ROBERTS, Billy	Centre Forward	
-										
-ROUND, Jack	Central Defender	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SMEDLEY, Jimmy	Wing Half	
-										
-SMITH, Joe	Inside Forward	
-										
-SMITH, John	Centre Forward	
-										
-STANSFIELD, Harold	Full Back	
-										
-THORNBOROUGH, Ernie	Wing Half	
-										
-VIZARD, Ted	Winger	
-										
-WAGSTAFF, James	Full Back	
-										
-WILKINSON, Harry	Centre Half	
-										
-WRIGHT, Billy	Wing Half	
-										
-YATES, Bill	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAGGETT, Bill ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"BLACKMORE, Harold ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"BOSTON, Harry ",Winger,3,0,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,39,10,1,4,0,0,0,0,0
+,"COPE, John ",Wing Half,26,0,0,2,0,0,0,0,0
+,"CORCORAN, Tommy ",Full Back,0,0,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,33,0,0,4,0,0,0,0,0
+,"GIBSON, George ",Inside Forward,14,9,0,0,0,0,0,0,0
+,"GILL, Jimmy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"GREENHALGH, Harry ",Full Back,34,0,0,4,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,14,0,0,0,0,0,0,0,0
+,"JACK, David ",Inside Forward,38,16,1,4,1,0,0,0,0
+,"JACK, Rollo ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,10,0,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,35,0,0,4,0,0,0,0,0
+,"PICKEN, Albert ",Winger,6,0,0,0,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,37,0,0,4,0,0,0,0,0
+,"RIGBY, Will ",Winger,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Les ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"ROBERTS, Billy ",Centre Forward,5,4,0,0,0,0,0,0,0
+,"ROUND, Jack ",Central Defender,5,0,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,35,1,0,3,0,0,0,0,0
+,"SMEDLEY, Jimmy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,12,7,1,3,0,0,0,0,0
+,"SMITH, John ",Centre Forward,32,13,0,4,4,0,0,0,0
+,"STANSFIELD, Harold ",Full Back,0,0,0,0,0,0,0,0,0
+,"THORNBOROUGH, Ernie ",Wing Half,15,0,0,3,0,0,0,0,0
+,"VIZARD, Ted ",Winger,29,9,0,4,0,0,0,0,0
+,"WAGSTAFF, James ",Full Back,3,0,0,0,0,0,0,0,0
+,"WILKINSON, Harry ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,17,7,0,1,1,0,0,0,0
+,"YATES, Bill ",Goalkeeper,3,0,0,0,0,0,0,0,0

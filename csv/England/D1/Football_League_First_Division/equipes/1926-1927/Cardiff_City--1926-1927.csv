@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAILLIE, Jim	Wing Half	
-										
-BELL, Albert	Full Back	
-										
-BLACKBURN, George	Wing Half	
-										
-CASTLE, Fred	Centre Forward	
-										
-COLLINS, Elvet	Winger	
-										
-CURTIS, Ernie	Inside Forward	
-										
-DAVIES, Len	Inside Forward	
-										
-DAVIES, Willie	Winger	
-										
-FARQUHARSON, Tom	Goalkeeper	
-										
-FERGUSON, Hughie	Centre Forward	
-										
-HAMPSON, Tommy	Goalkeeper	
-										
-HARDY, Billy	Wing Half	
-										
-IRVING, Sam	Wing Half	
-										
-JENNINGS, Jack	Full Back	
-										
-KEENOR, Fred	Central Defender	
-										
-MATSON, Frank	Winger	
-										
-MCLACHLAN, George	Winger	
-										
-MOYLE, Walter	Full Back	
-										
-NELSON, Jimmy	Full Back	
-										
-PIRIE, Tom	Centre Half	
-										
-POTTER SMITH, Thomas	Inside Forward	
-										
-RICHARDS, Percy	Winger	
-										
-ROWLES, Reginald	Full Back	
-										
-SLOAN, Tom	Centre Half	
-										
-SMITH, Sam	Inside Forward	
-										
-THIRLAWAY, Billy	Winger	
-										
-TYSOE, Frank	Winger	
-										
-WAINWRIGHT, Thomas	Goalkeeper	
-										
-WAKE, Harry	Wing Half	
-										
-WATSON, Tommy	Full Back	
-										
-WHITLOW, Fred	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAILLIE, Jim ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BELL, Albert ",Full Back,0,0,0,0,0,0,0,0,0
+,"BLACKBURN, George ",Wing Half,18,0,0,0,0,0,0,0,0
+,"CASTLE, Fred ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"COLLINS, Elvet ",Winger,3,0,0,0,0,0,0,0,0
+,"CURTIS, Ernie ",Inside Forward,26,5,0,6,1,0,0,0,0
+,"DAVIES, Len ",Inside Forward,34,6,0,7,3,0,0,0,0
+,"DAVIES, Willie ",Winger,15,4,0,0,0,0,0,0,0
+,"FARQUHARSON, Tom ",Goalkeeper,40,0,0,7,0,0,0,0,0
+,"FERGUSON, Hughie ",Centre Forward,39,25,1,7,6,2,0,0,0
+,"HAMPSON, Tommy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HARDY, Billy ",Wing Half,40,0,0,7,0,0,0,0,0
+,"IRVING, Sam ",Wing Half,27,4,0,7,1,0,0,0,0
+,"JENNINGS, Jack ",Full Back,5,0,0,0,0,0,0,0,0
+,"KEENOR, Fred ",Central Defender,33,1,0,5,0,0,0,0,0
+,"MATSON, Frank ",Winger,4,0,0,0,0,0,0,0,0
+,"MCLACHLAN, George ",Winger,38,4,0,6,1,0,0,0,0
+,"MOYLE, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,38,0,0,7,0,0,0,0,0
+,"PIRIE, Tom ",Centre Half,5,0,0,0,0,0,0,0,0
+,"POTTER SMITH, Thomas ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"RICHARDS, Percy ",Winger,3,0,0,1,0,0,0,0,0
+,"ROWLES, Reginald ",Full Back,0,0,0,0,0,0,0,0,0
+,"SLOAN, Tom ",Centre Half,20,0,0,7,0,0,0,0,0
+,"SMITH, Sam ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"THIRLAWAY, Billy ",Winger,12,0,0,0,0,0,0,0,0
+,"TYSOE, Frank ",Winger,2,0,0,0,0,0,0,0,0
+,"WAINWRIGHT, Thomas ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WAKE, Harry ",Wing Half,9,2,0,3,1,0,0,0,0
+,"WATSON, Tommy ",Full Back,33,0,0,7,0,0,0,0,0
+,"WHITLOW, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0

@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1926/27
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDREWS, Arthur	Wing Half	
-										
-BARTLEY, Jack	Wing Half	
-										
-BELL, Jack	Goalkeeper	
-										
-CLUNAS, Billy	Wing Half	
-										
-COGLIN, Steve	Inside Forward	
-										
-COXFORD, Jack	Central Defender	
-										
-CRAWFORD, George	Centre Half	
-										
-CRESSWELL, Frank	Inside Forward	
-										
-CRESSWELL, Warney	Full Back	
-										
-DEATH, Billy	Winger	
-										
-DIXON, Charlie	Centre Half	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-GIBBON, Harry	Winger	
-										
-GRIMSHAW, Billy	Winger	
-										
-GURNEY, Bobby	Centre Forward	
-										
-HALLIDAY, Dave	Centre Forward	
-										
-HAWES, Arthur	Inside Forward	
-										
-HENDERSON, George	Central Defender	
-										
-KELLY, Bob	Inside Forward	
-										
-LEEDHAM, Tom	Centre Forward	
-										
-LLOYD, Tommy	Full Back	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MCGORIAN, Ike	Wing Half	
-										
-MCINROY, Albert	Goalkeeper	
-										
-OAKLEY, James	Full Back	
-										
-PARKER, Charlie	Centre Half	
-										
-PRIOR, Jack	Winger	
-										
-RAMSAY, Stan	Full Back	
-										
-SCOTT, Jack	Winger	
-										
-THRELFALL, Wilf	Winger	
-										
-WILKS, Alwyne	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDREWS, Arthur ",Wing Half,36,0,0,1,0,0,0,0,0
+,"BARTLEY, Jack ",Wing Half,3,1,0,0,0,0,0,0,0
+,"BELL, Jack ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"CLUNAS, Billy ",Wing Half,37,6,5,1,0,0,0,0,0
+,"COGLIN, Steve ",Inside Forward,12,6,0,0,0,0,0,0,0
+,"COXFORD, Jack ",Central Defender,2,0,0,0,0,0,0,0,0
+,"CRAWFORD, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CRESSWELL, Frank ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,25,0,0,1,0,0,0,0,0
+,"DEATH, Billy ",Winger,9,3,0,0,0,0,0,0,0
+,"DIXON, Charlie ",Centre Half,0,0,0,0,0,0,0,0,0
+,"ELLIS, Billy ",Winger,32,5,0,1,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,41,0,0,1,0,0,0,0,0
+,"GIBBON, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"GRIMSHAW, Billy ",Winger,6,1,0,0,0,0,0,0,0
+,"GURNEY, Bobby ",Centre Forward,23,7,0,1,0,0,0,0,0
+,"HALLIDAY, Dave ",Centre Forward,33,36,0,1,1,0,0,0,0
+,"HAWES, Arthur ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"HENDERSON, George ",Central Defender,17,1,0,1,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,27,4,0,1,0,0,0,0,0
+,"LEEDHAM, Tom ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LLOYD, Tommy ",Full Back,2,0,0,0,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,37,19,0,1,1,0,0,0,0
+,"MCGORIAN, Ike ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"OAKLEY, James ",Full Back,16,0,0,0,0,0,0,0,0
+,"PARKER, Charlie ",Centre Half,22,0,0,0,0,0,0,0,0
+,"PRIOR, Jack ",Winger,5,1,0,0,0,0,0,0,0
+,"RAMSAY, Stan ",Full Back,9,8,0,0,0,0,0,0,0
+,"SCOTT, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"THRELFALL, Wilf ",Winger,0,0,0,0,0,0,0,0,0
+,"WILKS, Alwyne ",Winger,10,0,0,0,0,0,0,0,0
