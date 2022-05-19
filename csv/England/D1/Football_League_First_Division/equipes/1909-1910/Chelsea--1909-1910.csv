@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BETTRIDGE, Wally	Full Back	
-										
-BIRNIE, Ted	Wing Half	
-										
-BRADSHAW, Joe	Inside Forward	
-										
-BRAWN, Billy	Winger	
-										
-BRIDGEMAN, Billy	Winger	
-										
-CAMERON, Jock	Full Back	
-										
-CARTWRIGHT, Bill	Full Back	
-										
-DENOON, Jock	Goalkeeper	
-										
-DOLBY, Hugh	Winger	
-										
-DOUGLAS, Angus	Winger	
-										
-DOWNING, Sam	Wing Half	
-										
-FAIRGRAY, Norrie	Winger	
-										
-FREEMAN, Charlie	Inside Forward	
-										
-HARDING, Gus	Full Back	
-										
-HILSDON, George	Centre Forward	
-										
-HOLDEN, Arthur	Winger	
-										
-HORN, George	Inside Forward	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-JONES, Evan	Inside Forward	
-										
-MAIR, Tommy	Winger	
-										
-MCCONNELL, English	Centre Half	
-										
-MCEWAN, Marshall	Winger	
-										
-ORMISTON, Andrew	Centre Half	
-										
-REID, Jimmy	Inside Forward	
-										
-ROBINSON, Nat	Goalkeeper	
-										
-SAUNDERS, James	Goalkeeper	
-										
-SMITH, Phil	Centre Forward	
-										
-TAYLOR, Fred	Wing Half	
-										
-WALTON, Joe	Full Back	
-										
-WARREN, Ben	Wing Half	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WHITTINGHAM, Bob	Inside Forward	
-										
-WILEMAN, Harry	Wing Half	
-										
-WILEMAN, Arthur	Inside Forward	
-										
-WILLIAMS, Ernest	Winger	
-										
-WINDRIDGE, Jimmy	Inside Forward	
-										
-WOODWARD, Vivian	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BETTRIDGE, Wally ",Full Back,18,0,0,2,0,0,0,0,0
+,"BIRNIE, Ted ",Wing Half,10,0,0,0,0,0,0,0,0
+,"BRADSHAW, Joe ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"BRAWN, Billy ",Winger,23,3,0,2,1,0,0,0,0
+,"BRIDGEMAN, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,26,0,0,0,0,0,0,0,0
+,"CARTWRIGHT, Bill ",Full Back,24,0,0,2,0,0,0,0,0
+,"DENOON, Jock ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DOLBY, Hugh ",Winger,1,0,0,0,0,0,0,0,0
+,"DOUGLAS, Angus ",Winger,14,2,0,0,0,0,0,0,0
+,"DOWNING, Sam ",Wing Half,37,5,1,2,0,0,0,0,0
+,"FAIRGRAY, Norrie ",Winger,6,2,0,0,0,0,0,0,0
+,"FREEMAN, Charlie ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"HARDING, Gus ",Full Back,3,0,0,0,0,0,0,0,0
+,"HILSDON, George ",Centre Forward,15,3,1,2,0,0,0,0,0
+,"HOLDEN, Arthur ",Winger,16,1,0,0,0,0,0,0,0
+,"HORN, George ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,11,3,0,0,0,0,0,0,0
+,"JONES, Evan ",Inside Forward,18,3,0,0,0,0,0,0,0
+,"MAIR, Tommy ",Winger,5,1,0,0,0,0,0,0,0
+,"MCCONNELL, English ",Centre Half,3,0,0,0,0,0,0,0,0
+,"MCEWAN, Marshall ",Winger,5,1,0,0,0,0,0,0,0
+,"ORMISTON, Andrew ",Centre Half,24,0,0,2,0,0,0,0,0
+,"REID, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Nat ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SAUNDERS, James ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"SMITH, Phil ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"TAYLOR, Fred ",Wing Half,20,1,0,2,0,0,0,0,0
+,"WALTON, Joe ",Full Back,5,0,0,0,0,0,0,0,0
+,"WARREN, Ben ",Wing Half,17,0,0,0,0,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,35,0,0,2,0,0,0,0,0
+,"WHITTINGHAM, Bob ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"WILEMAN, Harry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WILEMAN, Arthur ",Inside Forward,14,5,0,0,0,0,0,0,0
+,"WILLIAMS, Ernest ",Winger,6,0,0,2,1,0,0,0,0
+,"WINDRIDGE, Jimmy ",Inside Forward,23,6,0,2,0,0,0,0,0
+,"WOODWARD, Vivian ",Inside Forward,13,5,0,2,0,0,0,0,0

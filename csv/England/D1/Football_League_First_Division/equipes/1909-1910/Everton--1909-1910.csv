@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Hugh	Wing Half	
-										
-ALLAN, Jack	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BARDSLEY, John	Full Back	
-										
-BARLOW, George	Winger	
-										
-BERRY, Arthur	Winger	
-										
-BORTHWICK, John	Centre Half	
-										
-CHADWICK, Thomas	Centre Half	
-										
-CLIFFORD, Bob	Centre Half	
-										
-COLEMAN, Tim	Inside Forward	
-										
-FREEMAN, Bert	Centre Forward	
-										
-GOURLAY, James	Inside Forward	
-										
-HARRIS, Val	Wing Half	
-										
-JONES, Thomas	Centre Forward	
-										
-LACEY, Billy	Winger	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MCCORMACK, John	Centre Half	
-										
-MICHAELS, William	Winger	
-										
-MOUNTFORD, Harry	Winger	
-										
-PINKNEY, Ernie	Winger	
-										
-PRATT, Charles	Centre Half	
-										
-RAFFERTY, Daniel	Wing Half	
-										
-SCOTT, Walter	Goalkeeper	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SHARP, Jack	Winger	
-										
-STEVENSON, William	Full Back	
-										
-TAYLOR, Jack	Centre Half	
-										
-TURNER, Bob	Winger	
-										
-WEBSTER, Frank	Centre Half	
-										
-WELLER, Louis	Full Back	
-										
-WHITE, Wattie	Inside Forward	
-										
-YOUNG, Sandy	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Hugh ",Wing Half,2,0,0,0,0,0,0,0,0
+,"ALLAN, Jack ",Wing Half,8,0,0,0,0,0,0,0,0
+,"BALMER, Bob ",Full Back,20,0,0,0,0,0,0,0,0
+,"BARDSLEY, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"BARLOW, George ",Winger,6,0,0,7,1,0,0,0,0
+,"BERRY, Arthur ",Winger,6,2,0,0,0,0,0,0,0
+,"BORTHWICK, John ",Centre Half,19,0,0,0,0,0,0,0,0
+,"CHADWICK, Thomas ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CLIFFORD, Bob ",Centre Half,23,0,0,7,0,0,0,0,0
+,"COLEMAN, Tim ",Inside Forward,23,5,0,0,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,34,22,0,7,4,0,0,0,0
+,"GOURLAY, James ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"HARRIS, Val ",Wing Half,31,0,0,7,0,0,0,0,0
+,"JONES, Thomas ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,6,1,0,0,0,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,31,0,0,7,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,32,4,2,7,2,0,0,0,0
+,"MCCORMACK, John ",Centre Half,0,0,0,0,0,0,0,0,0
+,"MICHAELS, William ",Winger,3,0,0,0,0,0,0,0,0
+,"MOUNTFORD, Harry ",Winger,12,2,0,0,0,0,0,0,0
+,"PINKNEY, Ernie ",Winger,4,0,0,0,0,0,0,0,0
+,"PRATT, Charles ",Centre Half,2,0,0,0,0,0,0,0,0
+,"RAFFERTY, Daniel ",Wing Half,3,0,0,0,0,0,0,0,0
+,"SCOTT, Walter ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,27,0,0,7,0,0,0,0,0
+,"SHARP, Jack ",Winger,25,4,2,7,2,1,0,0,0
+,"STEVENSON, William ",Full Back,3,0,0,0,0,0,0,0,0
+,"TAYLOR, Jack ",Centre Half,14,0,0,7,1,0,0,0,0
+,"TURNER, Bob ",Winger,19,0,0,0,0,0,0,0,0
+,"WEBSTER, Frank ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WELLER, Louis ",Full Back,1,1,0,0,0,0,0,0,0
+,"WHITE, Wattie ",Inside Forward,23,6,0,7,2,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,24,2,0,7,3,0,0,0,0

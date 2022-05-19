@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANNISTER, Jimmy	Inside Forward	
-										
-BELL, Alex	Wing Half	
-										
-BLOTT, Prince	Wing Half	
-										
-BURGESS, Herbert	Full Back	
-										
-CONNOR, Ted	Winger	
-										
-CURRY, Joseph	Centre Half	
-										
-DONNELLY, Tony	Full Back	
-										
-DOWNIE, Alex	Wing Half	
-										
-DUCKWORTH, Dick	Wing Half	
-										
-FISHER, George	Goalkeeper	
-										
-FORD, Joe	Winger	
-										
-HALSE, Harold	Inside Forward	
-										
-HAYES, Vince	Full Back	
-										
-HOLDEN, Dick	Full Back	
-										
-HOMER, Tom	Centre Forward	
-										
-HOOPER, Arthur	Inside Forward	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MEREDITH, Billy	Winger	
-										
-MOGER, Harry	Goalkeeper	
-										
-PICKEN, John	Inside Forward	
-										
-QUIN, John	Winger	
-										
-ROBERTS, Charlie	Centre Half	
-										
-ROUND, Elijah	Goalkeeper	
-										
-STACEY, George	Full Back	
-										
-TURNBULL, Sandy	Inside Forward	
-										
-TURNBULL, Jimmy	Centre Forward	
-										
-WALL, George	Winger	
-										
-WHALLEY, Arthur	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANNISTER, Jimmy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BELL, Alex ",Wing Half,27,0,0,0,0,0,0,0,0
+,"BLOTT, Prince ",Wing Half,10,1,0,0,0,0,0,0,0
+,"BURGESS, Herbert ",Full Back,1,0,0,0,0,0,0,0,0
+,"CONNOR, Ted ",Winger,8,1,0,0,0,0,0,0,0
+,"CURRY, Joseph ",Centre Half,0,0,0,1,0,0,0,0,0
+,"DONNELLY, Tony ",Full Back,4,0,0,0,0,0,0,0,0
+,"DOWNIE, Alex ",Wing Half,3,0,0,0,0,0,0,0,0
+,"DUCKWORTH, Dick ",Wing Half,29,0,0,1,0,0,0,0,0
+,"FISHER, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"FORD, Joe ",Winger,1,0,0,0,0,0,0,0,0
+,"HALSE, Harold ",Inside Forward,27,6,0,1,0,0,0,0,0
+,"HAYES, Vince ",Full Back,30,0,0,1,0,0,0,0,0
+,"HOLDEN, Dick ",Full Back,7,0,0,0,0,0,0,0,0
+,"HOMER, Tom ",Centre Forward,17,8,0,0,0,0,0,0,0
+,"HOOPER, Arthur ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,16,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,31,5,0,1,0,0,0,0,0
+,"MOGER, Harry ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"PICKEN, John ",Inside Forward,19,7,0,1,0,0,0,0,0
+,"QUIN, John ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Charlie ",Centre Half,28,4,0,1,0,0,0,0,0
+,"ROUND, Elijah ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"STACEY, George ",Full Back,32,0,0,1,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,26,13,0,1,0,0,0,0,0
+,"TURNBULL, Jimmy ",Centre Forward,19,9,0,0,0,0,0,0,0
+,"WALL, George ",Winger,32,14,1,1,0,0,0,0,0
+,"WHALLEY, Arthur ",Centre Half,9,0,0,0,0,0,0,0,0

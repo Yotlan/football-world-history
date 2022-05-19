@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEEBY, Augustus	Goalkeeper	
-										
-BOWYER, Sam	Inside Forward	
-										
-BRADLEY, Jimmy	Wing Half	
-										
-CHORLTON, Tom	Full Back	
-										
-CRAWFORD, Bob	Full Back	
-										
-GODDARD, Arthur	Winger	
-										
-GOODE, Bert	Inside Forward	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-HEWITT, Joe	Centre Forward	
-										
-MCCONNELL, Jock	Wing Half	
-										
-MCDONALD, John	Winger	
-										
-MCKINLAY, Donald	Full Back	
-										
-ORR, Ronald	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PEAKE, Ernie	Wing Half	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROGERS, Tom	Full Back	
-										
-SPEAKMAN, James	Winger	
-										
-STEWART, Jimmy	Inside Forward	
-										
-UREN, Harold	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEEBY, Augustus ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"BOWYER, Sam ",Inside Forward,12,6,0,1,0,0,0,0,0
+,"BRADLEY, Jimmy ",Wing Half,30,0,0,0,0,0,0,0,0
+,"CHORLTON, Tom ",Full Back,38,0,0,1,0,0,0,0,0
+,"CRAWFORD, Bob ",Full Back,20,0,0,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,35,13,1,1,0,0,0,0,0
+,"GOODE, Bert ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,32,0,0,1,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,32,1,0,1,0,0,0,0,0
+,"HEWITT, Joe ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"MCCONNELL, Jock ",Wing Half,13,0,0,1,0,0,0,0,0
+,"MCDONALD, John ",Winger,34,2,0,1,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,1,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,31,4,0,0,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,31,30,3,1,0,0,0,0,0
+,"PEAKE, Ernie ",Wing Half,3,0,0,0,0,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,37,1,0,1,0,0,0,0,0
+,"ROGERS, Tom ",Full Back,17,0,0,1,0,0,0,0,0
+,"SPEAKMAN, James ",Winger,2,0,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,37,18,0,1,0,0,0,0,0
+,"UREN, Harold ",Winger,3,0,0,0,0,0,0,0,0

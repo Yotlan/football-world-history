@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRCHALL, Dick	Winger	
-										
-BOND, Anthony	Winger	
-										
-BOND, Dickie	Winger	
-										
-BOOCOCK, Irvine	Full Back	
-										
-CAMPBELL, Bob	Full Back	
-										
-CHAPLIN, George	Full Back	
-										
-COMRIE, Jimmy	Centre Half	
-										
-DUFFY, John	Centre Half	
-										
-FELSTEAD, Tom	Goalkeeper	
-										
-GRAHAM, Harry	Inside Forward	
-										
-GRIMES, Billy	Winger	
-										
-HAMPTON, Harry	Wing Half	
-										
-HANDLEY, George	Winger	
-										
-HARDMAN, Harold	Winger	
-										
-HEDLEY, George	Centre Half	
-										
-HENDERSON, Bill	Wing Half	
-										
-LINTOTT, Evelyn	Centre Half	
-										
-LOGAN, Peter	Winger	
-										
-MASKREY, Harry	Goalkeeper	
-										
-MCDONALD, Jimmy	Wing Half	
-										
-MELLORS, Mark	Goalkeeper	
-										
-MURPHY, John	Inside Forward	
-										
-O'ROURKE, Frank	Centre Forward	
-										
-ROBINSON, George	Wing Half	
-										
-RUTTER, Arthur	Centre Forward	
-										
-SLEMIN, Jack	Winger	
-										
-SPEIRS, Jimmy	Inside Forward	
-										
-SPENDIFF, Martin	Goalkeeper	
-										
-TORRANCE, Bob	Centre Half	
-										
-WHITTINGHAM, Bob	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRCHALL, Dick ",Winger,1,0,0,0,0,0,0,0,0
+,"BOND, Anthony ",Winger,1,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,36,6,1,2,1,0,0,0,0
+,"BOOCOCK, Irvine ",Full Back,1,0,0,0,0,0,0,0,0
+,"CAMPBELL, Bob ",Full Back,33,0,0,2,0,0,0,0,0
+,"CHAPLIN, George ",Full Back,34,0,0,2,0,0,0,0,0
+,"COMRIE, Jimmy ",Centre Half,31,2,0,2,0,0,0,0,0
+,"DUFFY, John ",Centre Half,1,0,0,0,0,0,0,0,0
+,"FELSTEAD, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"GRAHAM, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GRIMES, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"HAMPTON, Harry ",Wing Half,7,0,0,0,0,0,0,0,0
+,"HANDLEY, George ",Winger,1,0,0,0,0,0,0,0,0
+,"HARDMAN, Harold ",Winger,8,0,0,0,0,0,0,0,0
+,"HEDLEY, George ",Centre Half,2,0,0,0,0,0,0,0,0
+,"HENDERSON, Bill ",Wing Half,4,0,0,0,0,0,0,0,0
+,"LINTOTT, Evelyn ",Centre Half,24,1,0,2,0,0,0,0,0
+,"LOGAN, Peter ",Winger,27,5,0,2,0,0,0,0,0
+,"MASKREY, Harry ",Goalkeeper,29,0,0,2,0,0,0,0,0
+,"MCDONALD, Jimmy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MURPHY, John ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"O'ROURKE, Frank ",Centre Forward,35,20,0,2,3,0,0,0,0
+,"ROBINSON, George ",Wing Half,38,3,0,2,0,0,0,0,0
+,"RUTTER, Arthur ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"SLEMIN, Jack ",Winger,3,0,0,0,0,0,0,0,0
+,"SPEIRS, Jimmy ",Inside Forward,38,6,0,2,1,0,0,0,0
+,"SPENDIFF, Martin ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"TORRANCE, Bob ",Centre Half,8,0,0,0,0,0,0,0,0
+,"WHITTINGHAM, Bob ",Inside Forward,28,21,2,2,0,0,0,0,0

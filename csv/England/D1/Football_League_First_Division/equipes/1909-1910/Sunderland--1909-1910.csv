@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AGNEW, William	Full Back	
-										
-ALLAN, Tom	Goalkeeper	
-										
-BRIDGETT, Arthur	Winger	
-										
-BROWN, Arthur	Centre Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CLARK, Billy	Winger	
-										
-CUGGY, Frank	Wing Half	
-										
-FORSTER, Harry	Full Back	
-										
-GIBSON, Fred	Winger	
-										
-HALL, Tom	Inside Forward	
-										
-HEALEY, Dick	Inside Forward	
-										
-HOLLEY, George	Inside Forward	
-										
-HUGGINS, Jack	Winger	
-										
-HUNTER, Bill	Centre Forward	
-										
-JARVIE, Gavin	Wing Half	
-										
-LOGAN, Harry	Inside Forward	
-										
-LOW, Harry	Wing Half	
-										
-MARTIN, Isaac 'Pompey'	Centre Half	
-										
-MILTON, Albert	Full Back	
-										
-MORDUE, Jackie	Winger	
-										
-READ, Harry	Winger	
-										
-ROOSE, Dick	Goalkeeper	
-										
-TAIT, Tommy	Wing Half	
-										
-THOMPSON, John	Winger	
-										
-THOMSON, Charlie	Centre Half	
-										
-TROUGHEAR, Billy	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AGNEW, William ",Full Back,9,0,0,0,0,0,0,0,0
+,"ALLAN, Tom ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,36,9,0,3,1,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,13,3,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CLARK, Billy ",Winger,29,2,0,3,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,3,0,0,0,0,0,0,0,0
+,"FORSTER, Harry ",Full Back,24,0,0,2,0,0,0,0,0
+,"GIBSON, Fred ",Winger,2,0,0,0,0,0,0,0,0
+,"HALL, Tom ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HEALEY, Dick ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,33,20,0,2,1,0,0,0,0
+,"HUGGINS, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"HUNTER, Bill ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"JARVIE, Gavin ",Wing Half,31,0,0,2,0,0,0,0,0
+,"LOGAN, Harry ",Inside Forward,1,0,0,1,0,0,0,0,0
+,"LOW, Harry ",Wing Half,24,14,0,3,2,0,0,0,0
+,"MARTIN, Isaac 'Pompey' ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MILTON, Albert ",Full Back,24,0,0,2,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,38,13,0,3,0,0,0,0,0
+,"READ, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"ROOSE, Dick ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"TAIT, Tommy ",Wing Half,35,0,0,3,0,0,0,0,0
+,"THOMPSON, John ",Winger,11,4,0,0,0,0,0,0,0
+,"THOMSON, Charlie ",Centre Half,35,0,0,3,0,0,0,0,0
+,"TROUGHEAR, Billy ",Full Back,26,0,0,3,0,0,0,0,0

@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENTLEY, Frank	Wing Half	
-										
-BLACKHAM, Sam	Full Back	
-										
-BOREHAM, Fred	Goalkeeper	
-										
-BROWN, David	Centre Forward	
-										
-BROWN, Ivor	Centre Forward	
-										
-BURTON, Ollie	Full Back	
-										
-COQUET, Ernie	Full Back	
-										
-CURTIS, Jack	Winger	
-										
-DARNELL, Jabez	Wing Half	
-										
-DRABBLE, Frank	Goalkeeper	
-										
-ELKIN, Bertie	Full Back	
-										
-HARRIS, William	Full Back	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-KENNEDY, Jimmy	Wing Half	
-										
-KERRY, Arthur	Winger	
-										
-LESLIE, Tom	Full Back	
-										
-LUNN, Tommy	Goalkeeper	
-										
-LYLE, Archibald	Inside Forward	
-										
-MACFARLANE, Doug	Inside Forward	
-										
-MIDDLEMISS, Bert	Winger	
-										
-MINTER, Billy	Inside Forward	
-										
-MORRIS, Tom	Centre Half	
-										
-NEWMAN, Ernie	Inside Forward	
-										
-STEEL, Alex	Wing Half	
-										
-STEEL, Danny	Centre Half	
-										
-STEEL, Bobby	Inside Forward	
-										
-TULL, Walter	Centre Forward	
-										
-WILKES, Fred	Full Back	
-										
-WILSON, Archie	Winger	
-										
-WOODRUFF, Charlie	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENTLEY, Frank ",Wing Half,19,0,0,2,0,0,0,0,0
+,"BLACKHAM, Sam ",Full Back,0,0,0,0,0,0,0,0,0
+,"BOREHAM, Fred ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"BROWN, David ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BROWN, Ivor ",Centre Forward,8,0,0,0,0,0,0,0,0
+,"BURTON, Ollie ",Full Back,4,0,0,0,0,0,0,0,0
+,"COQUET, Ernie ",Full Back,27,0,0,4,0,0,0,0,0
+,"CURTIS, Jack ",Winger,37,3,0,4,0,0,0,0,0
+,"DARNELL, Jabez ",Wing Half,25,0,0,2,0,0,0,0,0
+,"DRABBLE, Frank ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"ELKIN, Bertie ",Full Back,8,0,0,2,0,0,0,0,0
+,"HARRIS, William ",Full Back,7,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,20,13,0,4,5,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,23,0,0,4,0,0,0,0,0
+,"KENNEDY, Jimmy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"KERRY, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"LESLIE, Tom ",Full Back,7,0,0,2,0,0,0,0,0
+,"LUNN, Tommy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"LYLE, Archibald ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MACFARLANE, Doug ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"MIDDLEMISS, Bert ",Winger,36,9,0,4,2,0,0,0,0
+,"MINTER, Billy ",Inside Forward,38,15,0,4,2,0,0,0,0
+,"MORRIS, Tom ",Centre Half,26,1,0,4,0,0,0,0,0
+,"NEWMAN, Ernie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"STEEL, Alex ",Wing Half,1,0,0,0,0,0,0,0,0
+,"STEEL, Danny ",Centre Half,36,2,0,4,0,0,0,0,0
+,"STEEL, Bobby ",Inside Forward,38,9,3,4,2,1,0,0,0
+,"TULL, Walter ",Centre Forward,7,1,0,0,0,0,0,0,0
+,"WILKES, Fred ",Full Back,23,0,0,0,0,0,0,0,0
+,"WILSON, Archie ",Winger,0,0,0,0,0,0,0,0,0
+,"WOODRUFF, Charlie ",Winger,2,0,0,0,0,0,0,0,0

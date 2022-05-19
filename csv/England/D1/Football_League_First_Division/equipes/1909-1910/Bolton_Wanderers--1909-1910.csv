@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Hugh	Wing Half	
-										
-BARBER, Tommy	Wing Half	
-										
-BAVERSTOCK, Bert	Full Back	
-										
-DAVIES, Dai	Goalkeeper	
-										
-EDMONDS, Hugh	Goalkeeper	
-										
-EDMONDSON, John	Goalkeeper	
-										
-FEEBERY, Jack	Full Back	
-										
-GASKELL, Arthur	Wing Half	
-										
-GREENHALGH, Sam	Centre Half	
-										
-HILTON, Harold	Inside Forward	
-										
-HOGAN, Jimmy	Inside Forward	
-										
-HUGHES, Billy	Centre Forward	
-										
-HUNTER, Billy	Winger	
-										
-JONES, Gordon	Inside Forward	
-										
-LOCKETT, Harry	Wing Half	
-										
-MARSH, Sam	Inside Forward	
-										
-MCEWAN, Marshall	Winger	
-										
-OWEN, Jackie	Inside Forward	
-										
-PULMAN, John	Wing Half	
-										
-ROBINSON, William	Centre Half	
-										
-SLATER, Jack	Full Back	
-										
-SMITH, Joe	Inside Forward	
-										
-STANLEY, Jack	Full Back	
-										
-STOKES, David	Winger	
-										
-STOTT, William	Full Back	
-										
-STUART, William	Inside Forward	
-										
-TOMLINSON, Jimmy	Centre Half	
-										
-WHITESIDE, Ernie	Wing Half	
-										
-WHITESIDE, Jimmy	Winger	
-										
-WILKINSON, Billy	Wing Half	
-										
-WOODS, Sam	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Hugh ",Wing Half,13,0,0,0,0,0,0,0,0
+,"BARBER, Tommy ",Wing Half,15,1,0,1,0,0,0,0,0
+,"BAVERSTOCK, Bert ",Full Back,34,3,3,1,0,0,0,0,0
+,"DAVIES, Dai ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"EDMONDS, Hugh ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,"FEEBERY, Jack ",Full Back,22,0,0,0,0,0,0,0,0
+,"GASKELL, Arthur ",Wing Half,10,0,0,0,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,23,0,0,0,0,0,0,0,0
+,"HILTON, Harold ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"HOGAN, Jimmy ",Inside Forward,14,2,0,1,1,0,0,0,0
+,"HUGHES, Billy ",Centre Forward,31,12,0,0,0,0,0,0,0
+,"HUNTER, Billy ",Winger,28,10,0,1,0,0,0,0,0
+,"JONES, Gordon ",Inside Forward,17,6,0,1,0,0,0,0,0
+,"LOCKETT, Harry ",Wing Half,16,4,0,0,0,0,0,0,0
+,"MARSH, Sam ",Inside Forward,21,1,0,1,0,0,0,0,0
+,"MCEWAN, Marshall ",Winger,26,3,2,1,0,0,0,0,0
+,"OWEN, Jackie ",Inside Forward,19,1,0,0,0,0,0,0,0
+,"PULMAN, John ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ROBINSON, William ",Centre Half,19,0,0,1,0,0,0,0,0
+,"SLATER, Jack ",Full Back,16,0,0,1,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"STANLEY, Jack ",Full Back,8,0,0,0,0,0,0,0,0
+,"STOKES, David ",Winger,24,1,0,0,0,0,0,0,0
+,"STOTT, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"STUART, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"TOMLINSON, Jimmy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WHITESIDE, Ernie ",Wing Half,7,0,0,0,0,0,0,0,0
+,"WHITESIDE, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"WILKINSON, Billy ",Wing Half,1,0,0,1,0,0,0,0,0
+,"WOODS, Sam ",Inside Forward,1,0,0,0,0,0,0,0,0

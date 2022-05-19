@@ -1,45 +1,22 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKENHEAD, Wattie	Inside Forward	
-										
-ANTHONY, Walter	Winger	
-										
-ASHCROFT, Jimmy	Goalkeeper	
-										
-BRACEGIRDLE, Ernest	Winger	
-										
-BRADSHAW, Billy	Wing Half	
-										
-BRANDON, Tom	Full Back	
-										
-CAMERON, William 'Kilty'	Inside Forward	
-										
-CHAPMAN, George	Centre Forward	
-										
-COWELL, Arthur	Full Back	
-										
-CROMPTON, Ellis	Wing Half	
-										
-CROMPTON, Bob	Full Back	
-										
-DAVIES, Bill 'Tinker'	Centre Forward	
-										
-FERGUSON, James	Wing Half	
-										
-GARBUTT, Billy	Winger	
-										
-LATHERON, Eddie	Inside Forward	
-										
-MURRAY, Bobby	Goalkeeper	
-										
-ORR, Johnny	Inside Forward	
-										
-STEVENSON, Hugh	Centre Half	
-										
-SUTTIE, Tommy	Full Back	
-										
-WALMSLEY, Albert	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKENHEAD, Wattie ",Inside Forward,38,12,0,3,4,0,0,0,0
+,"ANTHONY, Walter ",Winger,29,4,0,3,2,0,0,0,0
+,"ASHCROFT, Jimmy ",Goalkeeper,35,0,0,3,0,0,0,0,0
+,"BRACEGIRDLE, Ernest ",Winger,17,1,0,0,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,34,4,3,3,0,0,0,0,0
+,"BRANDON, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"CAMERON, William 'Kilty' ",Inside Forward,17,10,0,1,0,0,0,0,0
+,"CHAPMAN, George ",Centre Forward,31,4,0,3,2,0,0,0,0
+,"COWELL, Arthur ",Full Back,34,0,0,3,0,0,0,0,0
+,"CROMPTON, Ellis ",Wing Half,12,6,0,2,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,25,0,0,2,0,0,0,0,0
+,"DAVIES, Bill 'Tinker' ",Centre Forward,12,7,0,0,0,0,0,0,0
+,"FERGUSON, James ",Wing Half,4,0,0,0,0,0,0,0,0
+,"GARBUTT, Billy ",Winger,30,3,0,3,0,0,0,0,0
+,"LATHERON, Eddie ",Inside Forward,27,10,0,3,2,0,0,0,0
+,"MURRAY, Bobby ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,11,6,0,0,0,0,0,0,0
+,"STEVENSON, Hugh ",Centre Half,6,2,0,0,0,0,0,0,0
+,"SUTTIE, Tommy ",Full Back,16,0,0,1,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,37,2,0,3,0,0,0,0,0

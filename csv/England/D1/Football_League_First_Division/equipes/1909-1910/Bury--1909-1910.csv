@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, George	Centre Forward	
-										
-BIRNIE, Alex	Winger	
-										
-BRADLEY, Herbert	Winger	
-										
-BULLEN, Teddy	Wing Half	
-										
-CHORLTON, Charlie	Full Back	
-										
-CURRIE, Bob	Inside Forward	
-										
-DEWHURST, Jack	Centre Half	
-										
-DOMLEO, Bill	Full Back	
-										
-DUFFY, Chris	Winger	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HUMPHREYS, Billy	Wing Half	
-										
-JARVIS, Len	Wing Half	
-										
-KAY, Tom	Inside Forward	
-										
-LEE, Harold	Winger	
-										
-LINDSAY, Jimmy	Full Back	
-										
-MCINTOSH, Angus	Inside Forward	
-										
-MCLEOD, John	Full Back	
-										
-MCMAHON, Johnny	Full Back	
-										
-MILLINGTON, Tom	Full Back	
-										
-PARKIN, Dick	Full Back	
-										
-PEARSON, Harry	Winger	
-										
-RAE, Tommy	Wing Half	
-										
-RAESIDE, Jimmy	Goalkeeper	
-										
-SMITH, Alf	Inside Forward	
-										
-STANFIELD, Charlie	Inside Forward	
-										
-THORPE, Frank	Centre Half	
-										
-VINSON, Harry	Wing Half	
-										
-WALKER, Johnny	Winger	
-										
-WHITTAKER, Arnie	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, George ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BIRNIE, Alex ",Winger,26,2,0,0,0,0,0,0,0
+,"BRADLEY, Herbert ",Winger,9,0,0,0,0,0,0,0,0
+,"BULLEN, Teddy ",Wing Half,12,0,0,0,0,0,0,0,0
+,"CHORLTON, Charlie ",Full Back,3,0,0,0,0,0,0,0,0
+,"CURRIE, Bob ",Inside Forward,24,13,0,2,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,35,1,0,2,1,0,0,0,0
+,"DOMLEO, Bill ",Full Back,13,0,0,0,0,0,0,0,0
+,"DUFFY, Chris ",Winger,24,3,0,2,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,32,19,2,2,2,0,0,0,0
+,"HUMPHREYS, Billy ",Wing Half,29,0,0,2,0,0,0,0,0
+,"JARVIS, Len ",Wing Half,22,0,0,2,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,26,6,0,2,0,0,0,0,0
+,"LEE, Harold ",Winger,15,1,0,0,0,0,0,0,0
+,"LINDSAY, Jimmy ",Full Back,19,3,2,2,0,0,0,0,0
+,"MCINTOSH, Angus ",Inside Forward,14,6,0,0,0,0,0,0,0
+,"MCLEOD, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCMAHON, Johnny ",Full Back,13,0,0,0,0,0,0,0,0
+,"MILLINGTON, Tom ",Full Back,9,0,0,0,0,0,0,0,0
+,"PARKIN, Dick ",Full Back,19,0,0,2,0,0,0,0,0
+,"PEARSON, Harry ",Winger,5,0,0,1,1,0,0,0,0
+,"RAE, Tommy ",Wing Half,14,1,0,0,0,0,0,0,0
+,"RAESIDE, Jimmy ",Goalkeeper,38,3,3,2,0,0,0,0,0
+,"SMITH, Alf ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"STANFIELD, Charlie ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"THORPE, Frank ",Centre Half,0,0,0,0,0,0,0,0,0
+,"VINSON, Harry ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WALKER, Johnny ",Winger,4,0,0,0,0,0,0,0,0
+,"WHITTAKER, Arnie ",Winger,0,0,0,1,0,0,0,0,0

@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jack	Wing Half	
-										
-BADGER, Bert	Wing Half	
-										
-BELL, Jack	Inside Forward	
-										
-BUTLER, Dick	Wing Half	
-										
-DERRICK, John	Inside Forward	
-										
-DUDLEY, Walter	Full Back	
-										
-FISHER, Alfred	Full Back	
-										
-GIBSON, Tommy	Full Back	
-										
-HASELL, Bert	Goalkeeper	
-										
-HOOPER, Bill	Winger	
-										
-HORROCKS, John	Winger	
-										
-HUGHES, Teddy	Wing Half	
-										
-IREMONGER, Jim	Full Back	
-										
-MALTBY, George 'Ginger'	Full Back	
-										
-MARRISON, Tom	Inside Forward	
-										
-MARSDEN, Joseph	Full Back	
-										
-MCNAUGHT, Hugh	Full Back	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEEDHAM, George	Wing Half	
-										
-PALMER, Bill	Winger	
-										
-ROWAN, Fred	Inside Forward	
-										
-RYALLS, Joe	Winger	
-										
-SMITH, John	Goalkeeper	
-										
-SPOUNCER, Alf	Winger	
-										
-VAUGHAN, William	Winger	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHITCHURCH, Herbert	Inside Forward	
-										
-WOLFE, George	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jack ",Wing Half,25,2,0,2,1,0,0,0,0
+,"BADGER, Bert ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BELL, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BUTLER, Dick ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DERRICK, John ",Inside Forward,5,4,0,0,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,33,0,0,4,0,0,0,0,0
+,"FISHER, Alfred ",Full Back,2,0,0,0,0,0,0,0,0
+,"GIBSON, Tommy ",Full Back,3,0,0,0,0,0,0,0,0
+,"HASELL, Bert ",Goalkeeper,15,0,0,4,0,0,0,0,0
+,"HOOPER, Bill ",Winger,29,4,0,4,0,0,0,0,0
+,"HORROCKS, John ",Winger,18,0,0,0,0,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,36,0,0,4,0,0,0,0,0
+,"IREMONGER, Jim ",Full Back,6,0,0,0,0,0,0,0,0
+,"MALTBY, George 'Ginger' ",Full Back,38,1,0,4,0,0,0,0,0
+,"MARRISON, Tom ",Inside Forward,36,6,0,4,1,0,0,0,0
+,"MARSDEN, Joseph ",Full Back,2,0,0,0,0,0,0,0,0
+,"MCNAUGHT, Hugh ",Full Back,0,0,0,0,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,30,19,0,1,1,0,0,0,0
+,"NEEDHAM, George ",Wing Half,32,0,0,4,0,0,0,0,0
+,"PALMER, Bill ",Winger,12,1,0,4,0,0,0,0,0
+,"ROWAN, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RYALLS, Joe ",Winger,9,0,0,0,0,0,0,0,0
+,"SMITH, John ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"SPOUNCER, Alf ",Winger,5,0,0,0,0,0,0,0,0
+,"VAUGHAN, William ",Winger,4,0,0,0,0,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,32,17,1,4,2,0,0,0,0
+,"WHITCHURCH, Herbert ",Inside Forward,2,0,0,1,0,0,0,0,0
+,"WOLFE, George ",Centre Half,23,0,0,4,0,0,0,0,0

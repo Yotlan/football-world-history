@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANNAN, Archie	Full Back	
-										
-BATTY, Billy	Inside Forward	
-										
-BURTON, Andy	Inside Forward	
-										
-CHAPMAN, Bert	Inside Forward	
-										
-CLAY, Harry	Goalkeeper	
-										
-CLEGG, John	Goalkeeper	
-										
-COTTLE, Joe	Full Back	
-										
-COWELL, Jack	Centre Forward	
-										
-FOSTER, Allen	Inside Forward	
-										
-GILLIGAN, Sammy	Centre Forward	
-										
-HALL, Jack	Full Back	
-										
-HANLIN, Pat	Wing Half	
-										
-HARDY, Bob	Winger	
-										
-HILTON, Frank	Winger	
-										
-MARR, Reuben	Wing Half	
-										
-RIPPON, Willis	Centre Forward	
-										
-SHEARMAN, Ben	Winger	
-										
-SHINNER, Bert	Centre Forward	
-										
-SPEAR, Arthur	Wing Half	
-										
-STANIFORTH, Fred	Winger	
-										
-WEDLOCK, Billy	Centre Half	
-										
-YOUNG, Robert	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANNAN, Archie ",Full Back,28,0,0,3,0,0,0,0,0
+,"BATTY, Billy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"BURTON, Andy ",Inside Forward,33,3,0,3,1,0,0,0,0
+,"CHAPMAN, Bert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CLAY, Harry ",Goalkeeper,29,0,0,0,0,0,0,0,0
+,"CLEGG, John ",Goalkeeper,9,0,0,3,0,0,0,0,0
+,"COTTLE, Joe ",Full Back,38,0,0,3,0,0,0,0,0
+,"COWELL, Jack ",Centre Forward,31,20,3,1,0,0,0,0,0
+,"FOSTER, Allen ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"GILLIGAN, Sammy ",Centre Forward,22,3,0,3,2,0,0,0,0
+,"HALL, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"HANLIN, Pat ",Wing Half,24,0,0,0,0,0,0,0,0
+,"HARDY, Bob ",Winger,28,5,0,3,0,0,0,0,0
+,"HILTON, Frank ",Winger,1,0,0,0,0,0,0,0,0
+,"MARR, Reuben ",Wing Half,25,3,0,3,0,0,0,0,0
+,"RIPPON, Willis ",Centre Forward,6,4,1,1,1,0,0,0,0
+,"SHEARMAN, Ben ",Winger,35,2,0,3,0,0,0,0,0
+,"SHINNER, Bert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SPEAR, Arthur ",Wing Half,26,0,0,3,0,0,0,0,0
+,"STANIFORTH, Fred ",Winger,22,3,0,1,1,0,0,0,0
+,"WEDLOCK, Billy ",Centre Half,35,1,0,3,0,0,0,0,0
+,"YOUNG, Robert ",Full Back,14,0,0,0,0,0,0,0,0

@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1909/10
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATTY, Billy	Inside Forward	
-										
-BENSON, Bob	Full Back	
-										
-BRELSFORD, Bill	Wing Half	
-										
-BROOKS, Joe	Full Back	
-										
-EVANS, Bobby	Winger	
-										
-FRITH, Billy	Centre Half	
-										
-GALLIMORE, George	Inside Forward	
-										
-HARDINGE, Wally	Inside Forward	
-										
-JOBLING, Len	Winger	
-										
-JOHNSON, Charlie	Full Back	
-										
-KITCHEN, Joe	Centre Forward	
-										
-LIEVESLEY, Joe	Goalkeeper	
-										
-MCGUIRE, James	Wing Half	
-										
-MITCHELL, Joe	Goalkeeper	
-										
-NEEDHAM, Ernest	Wing Half	
-										
-PEAKE, Billy	Inside Forward	
-										
-PEART, Jack	Centre Forward	
-										
-ROBINS, Arthur	Winger	
-										
-ROBINSON, Alfred	Inside Forward	
-										
-SIMMONS, Jim	Inside Forward	
-										
-SMITH, Joe	Full Back	
-										
-STURGESS, Albert	Wing Half	
-										
-WALTON, Joe	Winger	
-										
-WARD, William	Full Back	
-										
-WILKINSON, Bernard	Centre Half	
-										
-WISHART, McNab	Centre Half	
-										
-WRIGHT, Grayson	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATTY, Billy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"BENSON, Bob ",Full Back,34,0,0,1,1,1,0,0,0
+,"BRELSFORD, Bill ",Wing Half,36,1,0,1,0,0,0,0,0
+,"BROOKS, Joe ",Full Back,36,0,0,1,0,0,0,0,0
+,"EVANS, Bobby ",Winger,34,8,0,1,0,0,0,0,0
+,"FRITH, Billy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"GALLIMORE, George ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"HARDINGE, Wally ",Inside Forward,34,14,0,1,0,0,0,0,0
+,"JOBLING, Len ",Winger,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Charlie ",Full Back,3,0,0,0,0,0,0,0,0
+,"KITCHEN, Joe ",Centre Forward,37,21,1,1,0,0,0,0,0
+,"LIEVESLEY, Joe ",Goalkeeper,37,0,0,1,0,0,0,0,0
+,"MCGUIRE, James ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MITCHELL, Joe ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"NEEDHAM, Ernest ",Wing Half,4,1,0,0,0,0,0,0,0
+,"PEAKE, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"ROBINS, Arthur ",Winger,4,0,0,0,0,0,0,0,0
+,"ROBINSON, Alfred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SIMMONS, Jim ",Inside Forward,33,12,0,1,0,0,0,0,0
+,"SMITH, Joe ",Full Back,2,0,0,0,0,0,0,0,0
+,"STURGESS, Albert ",Wing Half,38,1,1,1,0,0,0,0,0
+,"WALTON, Joe ",Winger,32,4,0,1,1,0,0,0,0
+,"WARD, William ",Full Back,0,0,0,0,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,32,0,0,1,0,0,0,0,0
+,"WISHART, McNab ",Centre Half,2,0,0,0,0,0,0,0,0
+,"WRIGHT, Grayson ",Inside Forward,2,0,0,0,0,0,0,0,0
