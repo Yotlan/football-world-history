@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Billy	Full Back	
-										
-AMOS, Stan	Centre Forward	
-										
-ASHMORE, George	Goalkeeper	
-										
-BLOOD, Bobby	Centre Forward	
-										
-BOWSER, Sid	Centre Half	
-										
-BYERS, Jack	Winger	
-										
-CARTER, Joe	Inside Forward	
-										
-CHAMBERLAIN, Bert	Full Back	
-										
-DAVIES, Stan	Centre Forward	
-										
-DUTTON, Harry	Wing Half	
-										
-FITTON, Arthur	Winger	
-										
-FOSTER, Jabez	Winger	
-										
-GLIDDEN, Tommy	Winger	
-										
-GREGORY, Howard	Winger	
-										
-HORNE, Alf	Winger	
-										
-JAMES, George	Centre Forward	
-										
-JONES, Ivor	Inside Forward	
-										
-MAGEE, Tommy	Wing Half	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MORRIS, Fred	Inside Forward	
-										
-PARKES, Horace	Full Back	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PERRY, Arthur	Full Back	
-										
-PHILLIPS, Jack	Centre Forward	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-SMITH, Horace	Winger	
-										
-SMITH, Joe	Full Back	
-										
-SPENCER, James	Winger	
-										
-WHITE, Harry	Inside Forward	
-										
-WILSON, Charlie	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Billy ",Full Back,16,0,0,0,0,0,0,0,0
+,"AMOS, Stan ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"ASHMORE, George ",Goalkeeper,35,0,0,5,0,0,0,0,0
+,"BLOOD, Bobby ",Centre Forward,11,9,2,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,17,2,0,1,0,0,0,0,0
+,"BYERS, Jack ",Winger,13,1,0,0,0,0,0,0,0
+,"CARTER, Joe ",Inside Forward,19,8,0,3,2,0,0,0,0
+,"CHAMBERLAIN, Bert ",Full Back,1,0,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,21,7,2,2,2,1,0,0,0
+,"DUTTON, Harry ",Wing Half,14,1,0,1,0,0,0,0,0
+,"FITTON, Arthur ",Winger,14,2,0,1,0,0,0,0,0
+,"FOSTER, Jabez ",Winger,0,0,0,0,0,0,0,0,0
+,"GLIDDEN, Tommy ",Winger,12,0,0,1,0,0,0,0,0
+,"GREGORY, Howard ",Winger,14,2,0,4,1,0,0,0,0
+,"HORNE, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"JAMES, George ",Centre Forward,11,4,0,3,0,0,0,0,0
+,"JONES, Ivor ",Inside Forward,21,4,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,36,0,0,2,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,29,0,0,4,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,30,5,0,4,1,0,0,0,0
+,"PARKES, Horace ",Full Back,0,0,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"PERRY, Arthur ",Full Back,25,0,0,5,0,0,0,0,0
+,"PHILLIPS, Jack ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"REED, Fred ",Centre Half,27,1,0,5,1,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,5,0,0,3,0,0,0,0,0
+,"SMITH, Horace ",Winger,2,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Full Back,42,0,0,5,0,0,0,0,0
+,"SPENCER, James ",Winger,27,1,0,3,0,0,0,0,0
+,"WHITE, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,13,4,1,3,2,0,0,0,0

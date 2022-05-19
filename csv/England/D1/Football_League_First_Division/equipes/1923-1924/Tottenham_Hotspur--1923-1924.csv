@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARNETT, Fred	Winger	
-										
-BLAKE, Herbert	Goalkeeper	
-										
-BROOKS, Sammy	Winger	
-										
-BROWN, Bob	Full Back	
-										
-CLAY, Tommy	Full Back	
-										
-DIMMOCK, Jimmy	Winger	
-										
-DUFFUS, Jack	Wing Half	
-										
-ELKES, Jack	Inside Forward	
-										
-FORSTER, Matt	Full Back	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HANDLEY, Charlie	Winger	
-										
-HARGREAVES, Harry	Inside Forward	
-										
-LINDSAY, Alex	Centre Forward	
-										
-LOWE, Harry	Centre Half	
-										
-MACDONALD, Bob	Full Back	
-										
-MADDISON, Geordie	Goalkeeper	
-										
-MCCUDDEN, Frank	Inside Forward	
-										
-OSBORNE, Frank	Centre Forward	
-										
-POYNTON, Cecil	Full Back	
-										
-PURDY, Arthur	Goalkeeper	
-										
-ROSS, Jimmy	Full Back	
-										
-ROWE, Arthur	Central Defender	
-										
-SAGE, Billy	Wing Half	
-										
-SEED, Jimmy	Inside Forward	
-										
-SKINNER, Jimmy	Wing Half	
-										
-SMITH, Bert	Wing Half	
-										
-SMITH, Billy	Full Back	
-										
-THOMPSON, Andy	Winger	
-										
-WALDEN, Fanny	Winger	
-										
-WALTERS, Charlie	Centre Half	
-										
-WHITE, Sid	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARNETT, Fred ",Winger,2,0,0,0,0,0,0,0,0
+,"BLAKE, Herbert ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"BROOKS, Sammy ",Winger,3,0,0,0,0,0,0,0,0
+,"BROWN, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,40,1,1,1,0,0,0,0,0
+,"DIMMOCK, Jimmy ",Winger,25,2,0,0,0,0,0,0,0
+,"DUFFUS, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ELKES, Jack ",Inside Forward,37,11,0,1,0,0,0,0,0
+,"FORSTER, Matt ",Full Back,35,0,0,1,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,27,1,0,1,0,0,0,0,0
+,"HANDLEY, Charlie ",Winger,22,4,0,1,0,0,0,0,0
+,"HARGREAVES, Harry ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"LINDSAY, Alex ",Centre Forward,39,20,0,1,0,0,0,0,0
+,"LOWE, Harry ",Centre Half,22,0,0,1,0,0,0,0,0
+,"MACDONALD, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"MADDISON, Geordie ",Goalkeeper,35,0,0,1,0,0,0,0,0
+,"MCCUDDEN, Frank ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"OSBORNE, Frank ",Centre Forward,12,1,0,0,0,0,0,0,0
+,"POYNTON, Cecil ",Full Back,10,1,0,0,0,0,0,0,0
+,"PURDY, Arthur ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"ROSS, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROWE, Arthur ",Central Defender,0,0,0,0,0,0,0,0,0
+,"SAGE, Billy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,21,2,0,0,0,0,0,0,0
+,"SKINNER, Jimmy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"SMITH, Bert ",Wing Half,41,1,0,1,0,0,0,0,0
+,"SMITH, Billy ",Full Back,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Andy ",Winger,7,1,0,1,0,0,0,0,0
+,"WALDEN, Fanny ",Winger,34,1,0,1,0,0,0,0,0
+,"WALTERS, Charlie ",Centre Half,15,0,0,0,0,0,0,0,0
+,"WHITE, Sid ",Wing Half,5,0,0,0,0,0,0,0,0

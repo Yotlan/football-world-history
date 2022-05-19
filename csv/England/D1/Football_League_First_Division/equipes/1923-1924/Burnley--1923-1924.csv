@@ -1,75 +1,37 @@
-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Joe	Centre Forward	
-										
-BARKER, Billy	Winger	
-										
-BASNETT, Alf	Wing Half	
-										
-BEEL, George	Centre Forward	
-										
-BENNIE, Peter	Winger	
-										
-BITHELL, Bert	Inside Forward	
-										
-CAWTHRA, Jack	Goalkeeper	
-										
-CHADWICK, Walter	Full Back	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DIXON, Ernie	Centre Forward	
-										
-EMERSON, William	Wing Half	
-										
-EVANS, Jimmy	Full Back	
-										
-FREEMAN, Albert	Inside Forward	
-										
-GILLATT, Ernie	Inside Forward	
-										
-GREENHALGH, John	Inside Forward	
-										
-HALL, Robert	Centre Half	
-										
-HILL, Jack	Central Defender	
-										
-KELLY, Bob	Inside Forward	
-										
-MORGAN, Billy	Wing Half	
-										
-MULHALL, John	Inside Forward	
-										
-O'BEIRNE, Joe	Inside Forward	
-										
-PAGE, Samuel	Goalkeeper	
-										
-PARKIN, George	Wing Half	
-										
-PEDLAR, Philip	Full Back	
-										
-ROBINSON, James	Wing Half	
-										
-SIMS, Stephen	Centre Half	
-										
-SMELT, Len	Full Back	
-										
-TAYLOR, David	Full Back	
-										
-WARD, Tom	Winger	
-										
-WATERFIELD, George	Full Back	
-										
-WATSON, Billy	Wing Half	
-										
-WEAVER, Walter	Winger	
-										
-WHEELHOUSE, Ben	Full Back	
-										
-WYPER, Tommy	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Joe ",Centre Forward,8,5,0,0,0,0,0,0,0
+,"BARKER, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"BASNETT, Alf ",Wing Half,36,0,0,7,0,0,0,0,0
+,"BEEL, George ",Centre Forward,34,19,0,7,2,0,0,0,0
+,"BENNIE, Peter ",Winger,36,7,0,7,0,0,0,0,0
+,"BITHELL, Bert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CAWTHRA, Jack ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"CHADWICK, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,39,5,1,7,2,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,36,0,0,5,0,0,0,0,0
+,"DIXON, Ernie ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"EMERSON, William ",Wing Half,2,0,0,0,0,0,0,0,0
+,"EVANS, Jimmy ",Full Back,7,0,0,0,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"GILLATT, Ernie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GREENHALGH, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HALL, Robert ",Centre Half,0,0,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,39,2,0,7,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,37,8,3,7,2,0,0,0,0
+,"MORGAN, Billy ",Wing Half,18,0,0,6,0,0,0,0,0
+,"MULHALL, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"O'BEIRNE, Joe ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"PAGE, Samuel ",Goalkeeper,6,0,0,2,0,0,0,0,0
+,"PARKIN, George ",Wing Half,11,0,0,0,0,0,0,0,0
+,"PEDLAR, Philip ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROBINSON, James ",Wing Half,4,0,0,0,0,0,0,0,0
+,"SIMS, Stephen ",Centre Half,2,0,0,0,0,0,0,0,0
+,"SMELT, Len ",Full Back,31,0,0,7,0,0,0,0,0
+,"TAYLOR, David ",Full Back,37,1,1,7,0,0,0,0,0
+,"WARD, Tom ",Winger,0,0,0,0,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,17,1,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,19,0,0,1,0,0,0,0,0
+,"WEAVER, Walter ",Winger,21,2,0,7,3,0,0,0,0
+,"WHEELHOUSE, Ben ",Full Back,6,0,0,0,0,0,0,0,0
+,"WYPER, Tommy ",Winger,0,0,0,0,0,0,0,0,0

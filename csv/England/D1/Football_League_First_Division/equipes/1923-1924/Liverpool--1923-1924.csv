@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAMBER, Jack	Wing Half	
-										
-BEADLES, Harry	Inside Forward	
-										
-BROMILOW, Tom	Wing Half	
-										
-CHAMBERS, Harry	Inside Forward	
-										
-DAVIES, Idwal	Centre Forward	
-										
-DAVIS, Charles	Centre Half	
-										
-FORSHAW, Dick	Inside Forward	
-										
-GILHESPY, Cyril	Winger	
-										
-HOPKIN, Fred	Winger	
-										
-JOHNSON, Dick	Centre Forward	
-										
-KEETLEY, Joe	Inside Forward	
-										
-LACEY, Billy	Winger	
-										
-LAWSON, Hector	Wing Half	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LUCAS, Tommy	Full Back	
-										
-MCDEVITT, Billy	Inside Forward	
-										
-MCKINLAY, Donald	Full Back	
-										
-MCNAB, Jock	Wing Half	
-										
-PARRY, Ted	Full Back	
-										
-PRATT, David	Wing Half	
-										
-RAWLINGS, Archie	Winger	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SHONE, Danny	Inside Forward	
-										
-TERRIS, James	Centre Half	
-										
-WADSWORTH, Harold	Winger	
-										
-WADSWORTH, Walter	Centre Half	
-										
-WALSH, Jimmy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAMBER, Jack ",Wing Half,6,0,0,0,0,0,0,0,0
+,"BEADLES, Harry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BROMILOW, Tom ",Wing Half,27,0,0,5,0,0,0,0,0
+,"CHAMBERS, Harry ",Inside Forward,30,13,0,5,4,0,0,0,0
+,"DAVIES, Idwal ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"DAVIS, Charles ",Centre Half,0,0,0,0,0,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,39,5,0,5,1,0,0,0,0
+,"GILHESPY, Cyril ",Winger,5,0,0,0,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,33,0,0,5,0,0,0,0,0
+,"JOHNSON, Dick ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"KEETLEY, Joe ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,8,0,0,1,0,0,0,0,0
+,"LAWSON, Hector ",Wing Half,10,0,0,4,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,14,0,0,0,0,0,0,0,0
+,"LUCAS, Tommy ",Full Back,28,0,0,5,0,0,0,0,0
+,"MCDEVITT, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,39,6,2,5,0,0,0,0,0
+,"MCNAB, Jock ",Wing Half,30,0,0,4,0,0,0,0,0
+,"PARRY, Ted ",Full Back,3,0,0,0,0,0,0,0,0
+,"PRATT, David ",Wing Half,15,0,0,0,0,0,0,0,0
+,"RAWLINGS, Archie ",Winger,11,0,0,0,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,42,0,0,5,0,0,0,0,0
+,"SHONE, Danny ",Inside Forward,15,5,0,1,0,0,0,0,0
+,"TERRIS, James ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WADSWORTH, Harold ",Winger,17,0,0,0,0,0,0,0,0
+,"WADSWORTH, Walter ",Centre Half,37,0,0,5,0,0,0,0,0
+,"WALSH, Jimmy ",Inside Forward,37,16,0,5,3,0,0,0,0

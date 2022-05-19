@@ -1,60 +1,29 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BOOT, Lennie	Goalkeeper	
-										
-BROWN, George	Centre Forward	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-COOK, Billy	Inside Forward	
-										
-COWELL, Billy	Goalkeeper	
-										
-DAVIES, Jimmy	Central Defender	
-										
-GOODALL, Roy	Full Back	
-										
-GRAY, Tom	Full Back	
-										
-ISLIP, Ernie	Inside Forward	
-										
-JOHNSTON, Billy	Inside Forward	
-										
-POWELL, Edgar	Inside Forward	
-										
-RICHARDSON, Eddie	Winger	
-										
-RICHARDSON, George	Winger	
-										
-ROBERTS, Billy	Centre Forward	
-										
-SHAW, George	Full Back	
-										
-SMITH, Bertie	Centre Half	
-										
-SMITH, Billy	Winger	
-										
-STEELE, David	Wing Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-WADSWORTH, Sam	Full Back	
-										
-WALTER, Joe	Winger	
-										
-WATSON, Billy	Wing Half	
-										
-WHITE, Bob	Centre Forward	
-										
-WILSON, Charlie	Centre Forward	
-										
-WILSON, Tommy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,21,0,0,2,0,0,0,0,0
+,"BOOT, Lennie ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"BROWN, George ",Centre Forward,22,8,0,1,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,16,0,0,0,0,0,0,0,0
+,"COOK, Billy ",Inside Forward,25,9,0,1,0,0,0,0,0
+,"COWELL, Billy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DAVIES, Jimmy ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,14,0,0,1,0,0,0,0,0
+,"GRAY, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"ISLIP, Ernie ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"JOHNSTON, Billy ",Inside Forward,8,0,0,3,1,0,0,0,0
+,"POWELL, Edgar ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RICHARDSON, Eddie ",Winger,5,0,0,0,0,0,0,0,0
+,"RICHARDSON, George ",Winger,2,0,0,0,0,0,0,0,0
+,"ROBERTS, Billy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SHAW, George ",Full Back,9,0,0,0,0,0,0,0,0
+,"SMITH, Bertie ",Centre Half,8,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,39,13,2,3,0,0,0,0,0
+,"STEELE, David ",Wing Half,31,0,0,3,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,40,11,0,3,1,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,35,0,0,3,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,37,0,0,3,0,0,0,0,0
+,"WALTER, Joe ",Winger,26,0,0,2,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,42,0,0,3,0,0,0,0,0
+,"WHITE, Bob ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Centre Forward,31,18,0,2,2,0,0,0,0
+,"WILSON, Tommy ",Central Defender,41,0,0,3,0,0,0,0,0

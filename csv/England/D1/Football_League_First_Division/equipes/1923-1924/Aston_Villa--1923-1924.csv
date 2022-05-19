@@ -1,66 +1,32 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMFIELD, Billy	Winger	
-										
-BALL, Tommy	Centre Half	
-										
-BEATS, Eddie	Centre Forward	
-										
-BELL, Billy	Winger	
-										
-BLACKBURN, George	Wing Half	
-										
-BOWEN, Teddy	Full Back	
-										
-CAMPBELL, Archie	Wing Half	
-										
-CAPEWELL, Len	Centre Forward	
-										
-CORBETT, Joseph	Wing Half	
-										
-DICKSON, Ian	Centre Forward	
-										
-DORRELL, Arthur	Winger	
-										
-HARRIS, Cecil	Full Back	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JOHNSTONE, Jock	Wing Half	
-										
-JONES, Percy	Full Back	
-										
-KIRTON, Billy	Inside Forward	
-										
-MACKAY, Norman	Wing Half	
-										
-MCCLURE, Alex	Centre Half	
-										
-MILNE, Vic	Centre Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-SINGLETON, Herbert	Goalkeeper	
-										
-SMART, Tommy	Full Back	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-STEPHENSON, George	Inside Forward	
-										
-SURTEES, Albert	Centre Forward	
-										
-TALBOT, Alec	Central Defender	
-										
-VARCO, Percy	Centre Forward	
-										
-WALKER, Billy	Inside Forward	
-										
-YORK, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMFIELD, Billy ",Winger,3,0,0,0,0,0,0,0,0
+,"BALL, Tommy ",Centre Half,14,0,0,0,0,0,0,0,0
+,"BEATS, Eddie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BELL, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"BLACKBURN, George ",Wing Half,35,0,0,5,1,0,0,0,0
+,"BOWEN, Teddy ",Full Back,2,0,0,0,0,0,0,0,0
+,"CAMPBELL, Archie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,39,20,0,6,6,0,0,0,0
+,"CORBETT, Joseph ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DICKSON, Ian ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"DORRELL, Arthur ",Winger,39,4,0,6,1,0,0,0,0
+,"HARRIS, Cecil ",Full Back,2,0,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,35,0,0,6,0,0,0,0,0
+,"JOHNSTONE, Jock ",Wing Half,12,0,0,2,0,0,0,0,0
+,"JONES, Percy ",Full Back,5,0,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,39,6,0,6,1,0,0,0,0
+,"MACKAY, Norman ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCCLURE, Alex ",Centre Half,5,0,0,0,0,0,0,0,0
+,"MILNE, Vic ",Centre Half,24,0,0,6,0,0,0,0,0
+,"MORT, Tommy ",Full Back,36,0,0,6,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,34,0,0,4,0,0,0,0,0
+,"SINGLETON, Herbert ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,39,0,0,6,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"SURTEES, Albert ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"TALBOT, Alec ",Central Defender,0,0,0,1,0,0,0,0,0
+,"VARCO, Percy ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,36,14,2,6,3,0,0,0,0
+,"YORK, Dicky ",Winger,37,3,0,6,2,0,0,0,0

@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Herbert	Inside Forward	
-										
-ASHURST, Bill	Full Back	
-										
-BARRY, Len	Winger	
-										
-COCK, Donald	Centre Forward	
-										
-COOK, Jack	Inside Forward	
-										
-COOPER, Joe	Inside Forward	
-										
-COOPER, John	Centre Forward	
-										
-COPE, Horace	Full Back	
-										
-CORNWELL, Ralph	Full Back	
-										
-DALY, Joe	Winger	
-										
-DAVIS, Arthur	Inside Forward	
-										
-DINSDALE, Norman	Centre Half	
-										
-FENWICK, Bob	Centre Half	
-										
-FLINT, Billy	Wing Half	
-										
-HARRIS, George	Wing Half	
-										
-HILL, Harold	Inside Forward	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-KEMP, Haydn	Wing Half	
-										
-MACKEY, Jim	Winger	
-										
-MCPHERSON, Lacky	Wing Half	
-										
-PAPE, Albert	Centre Forward	
-										
-PLATTS, Bob	Winger	
-										
-PRICE, Lew	Winger	
-										
-SMEDLEY, Jimmy	Wing Half	
-										
-SMITH, William	Full Back	
-										
-STREETS, George	Goalkeeper	
-										
-WIDDOWSON, Alf	Inside Forward	
-										
-WREN, Jack	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Herbert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ASHURST, Bill ",Full Back,33,0,0,5,0,0,0,0,0
+,"BARRY, Len ",Winger,11,0,0,0,0,0,0,0,0
+,"COCK, Donald ",Centre Forward,32,11,0,2,0,0,0,0,0
+,"COOK, Jack ",Inside Forward,4,0,0,2,0,0,0,0,0
+,"COOPER, Joe ",Inside Forward,25,3,0,2,0,0,0,0,0
+,"COOPER, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COPE, Horace ",Full Back,32,1,0,1,0,0,0,0,0
+,"CORNWELL, Ralph ",Full Back,17,0,0,4,0,0,0,0,0
+,"DALY, Joe ",Winger,26,1,0,4,0,0,0,0,0
+,"DAVIS, Arthur ",Inside Forward,15,7,0,0,0,0,0,0,0
+,"DINSDALE, Norman ",Centre Half,40,0,0,5,0,0,0,0,0
+,"FENWICK, Bob ",Centre Half,2,0,0,0,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,26,0,0,4,0,0,0,0,0
+,"HARRIS, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HILL, Harold ",Inside Forward,30,8,0,5,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,34,0,0,5,0,0,0,0,0
+,"KEMP, Haydn ",Wing Half,38,0,0,5,0,0,0,0,0
+,"MACKEY, Jim ",Winger,3,1,0,0,0,0,0,0,0
+,"MCPHERSON, Lacky ",Wing Half,5,0,0,0,0,0,0,0,0
+,"PAPE, Albert ",Centre Forward,6,2,0,2,1,0,0,0,0
+,"PLATTS, Bob ",Winger,17,1,0,1,0,0,0,0,0
+,"PRICE, Lew ",Winger,24,2,0,4,1,0,0,0,0
+,"SMEDLEY, Jimmy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SMITH, William ",Full Back,2,0,0,0,0,0,0,0,0
+,"STREETS, George ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"WIDDOWSON, Alf ",Inside Forward,16,6,0,3,1,0,0,0,0
+,"WREN, Jack ",Wing Half,14,0,0,1,0,0,0,0,0

@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRANSTON, Jimmy	Goalkeeper	
-										
-BROWN, John	Centre Forward	
-										
-CRAWFORD, Bobby	Wing Half	
-										
-DUGGINS, Alf	Winger	
-										
-DUXBURY, Tom	Wing Half	
-										
-FERRIS, Jimmy	Inside Forward	
-										
-FORREST, Jim	Centre Half	
-										
-GILCHRIST, John	Wing Half	
-										
-HALE, Walter	Full Back	
-										
-HAMILTON, Tommy	Full Back	
-										
-HARRISON, George	Winger	
-										
-KELLETT, Alfred	Centre Half	
-										
-LAIRD, Sandy	Inside Forward	
-										
-LIDDELL, Jimmy	Inside Forward	
-										
-MARQUIS, Fred	Inside Forward	
-										
-MARSHALL, Jack	Centre Half	
-										
-MCCALL, Joe	Centre Half	
-										
-MERCER, Billy	Wing Half	
-										
-MOON, Tommy	Winger	
-										
-O'RAWE, Frank	Centre Half	
-										
-PROUT, George	Goalkeeper	
-										
-QUANTRILL, Alf	Winger	
-										
-RAWLINGS, Archie	Winger	
-										
-REAY, Harold	Winger	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-SAPSFORD, George	Inside Forward	
-										
-SCOTT, Leslie	Goalkeeper	
-										
-WADE, Bill	Full Back	
-										
-WILLIAMSON, Johnny	Wing Half	
-										
-WOODHOUSE, Roland	Inside Forward	
-										
-YATES, Wilf	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRANSTON, Jimmy ",Goalkeeper,22,0,0,1,0,0,0,0,0
+,"BROWN, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CRAWFORD, Bobby ",Wing Half,42,1,0,1,0,0,0,0,0
+,"DUGGINS, Alf ",Winger,2,0,0,0,0,0,0,0,0
+,"DUXBURY, Tom ",Wing Half,8,0,0,0,0,0,0,0,0
+,"FERRIS, Jimmy ",Inside Forward,21,4,0,1,0,0,0,0,0
+,"FORREST, Jim ",Centre Half,2,0,0,0,0,0,0,0,0
+,"GILCHRIST, John ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HALE, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"HAMILTON, Tommy ",Full Back,36,0,0,1,0,0,0,0,0
+,"HARRISON, George ",Winger,24,6,3,1,0,0,0,0,0
+,"KELLETT, Alfred ",Centre Half,0,0,0,0,0,0,0,0,0
+,"LAIRD, Sandy ",Inside Forward,11,2,0,0,0,0,0,0,0
+,"LIDDELL, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MARQUIS, Fred ",Inside Forward,17,4,0,0,0,0,0,0,0
+,"MARSHALL, Jack ",Centre Half,7,0,0,1,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,32,0,0,0,0,0,0,0,0
+,"MERCER, Billy ",Wing Half,30,0,0,1,0,0,0,0,0
+,"MOON, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"O'RAWE, Frank ",Centre Half,4,0,0,0,0,0,0,0,0
+,"PROUT, George ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"QUANTRILL, Alf ",Winger,31,2,0,0,0,0,0,0,0
+,"RAWLINGS, Archie ",Winger,27,3,0,1,1,0,0,0,0
+,"REAY, Harold ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,42,26,0,1,0,0,0,0,0
+,"SAPSFORD, George ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"SCOTT, Leslie ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"WADE, Bill ",Full Back,8,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Johnny ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WOODHOUSE, Roland ",Inside Forward,25,2,0,1,0,0,0,0,0
+,"YATES, Wilf ",Full Back,40,0,0,1,0,0,0,0,0

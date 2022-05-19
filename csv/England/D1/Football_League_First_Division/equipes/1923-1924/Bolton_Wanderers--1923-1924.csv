@@ -1,62 +1,30 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAGGETT, Bill	Inside Forward	
-										
-BOSTON, Harry	Winger	
-										
-BRUTON, Jack	Winger	
-										
-BUTLER, Billy	Winger	
-										
-CHAMBERS, Frank	Full Back	
-										
-EVANS, Dai Gethin	Wing Half	
-										
-FINNEY, Alex	Full Back	
-										
-GOODIER, Ted	Wing Half	
-										
-HAWORTH, Bob	Full Back	
-										
-HINTON, Freddy	Goalkeeper	
-										
-HOWARTH, Nelson	Wing Half	
-										
-JACK, David	Inside Forward	
-										
-JACK, Rollo	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, John	Winger	
-										
-LONGWORTH, Bruce	Wing Half	
-										
-NUTTALL, Harry	Wing Half	
-										
-PARTON, James	Wing Half	
-										
-PYM, Dick	Goalkeeper	
-										
-READMAN, Joe	Inside Forward	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SIMPSON, Herbie	Winger	
-										
-SMITH, Joe	Inside Forward	
-										
-SMITH, John	Centre Forward	
-										
-VIZARD, Ted	Winger	
-										
-WALSH, Tommy 'Tot'	Centre Forward	
-										
-WRIGHT, Billy	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAGGETT, Bill ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BOSTON, Harry ",Winger,6,0,0,0,0,0,0,0,0
+,"BRUTON, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,36,2,0,2,0,0,0,0,0
+,"CHAMBERS, Frank ",Full Back,5,0,0,0,0,0,0,0,0
+,"EVANS, Dai Gethin ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,42,0,0,3,0,0,0,0,0
+,"GOODIER, Ted ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,36,0,0,3,0,0,0,0,0
+,"HINTON, Freddy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HOWARTH, Nelson ",Wing Half,8,1,0,0,0,0,0,0,0
+,"JACK, David ",Inside Forward,39,24,0,3,3,0,0,0,0
+,"JACK, Rollo ",Inside Forward,7,2,0,1,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,34,0,0,3,0,0,0,0,0
+,"JONES, John ",Winger,1,1,0,0,0,0,0,0,0
+,"LONGWORTH, Bruce ",Wing Half,12,0,0,3,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,30,2,0,0,0,0,0,0,0
+,"PARTON, James ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,41,0,0,3,0,0,0,0,0
+,"READMAN, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,14,0,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,29,0,0,3,0,0,0,0,0
+,"SIMPSON, Herbie ",Winger,2,1,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,39,16,3,3,0,0,0,0,0
+,"SMITH, John ",Centre Forward,32,17,0,3,4,0,0,0,0
+,"VIZARD, Ted ",Winger,40,1,0,3,0,0,0,0,0
+,"WALSH, Tommy 'Tot' ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,4,0,0,0,0,0,0,0,0

@@ -1,73 +1,36 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRRELL, Billy	Inside Forward	
-										
-BOSOMWORTH, Alex	Wing Half	
-										
-BOTTRILL, Billy	Inside Forward	
-										
-BROWN, Bert	Winger	
-										
-CARR, George	Inside Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-CLOUGH, Jack	Goalkeeper	
-										
-COCHRANE, Sandy	Inside Forward	
-										
-CREASOR, Walter	Winger	
-										
-DICKSON, Ian	Centre Forward	
-										
-DIXON, Billy	Wing Half	
-										
-ELLERINGTON, Bill	Centre Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-FOX, Victor	Full Back	
-										
-FREEMAN, Reg	Full Back	
-										
-GRAHAM, Bob	Wing Half	
-										
-HARRIS, Joe	Wing Half	
-										
-HARRISON, Harry	Goalkeeper	
-										
-HICK, Billy	Centre Forward	
-										
-HOLMES, Walter	Full Back	
-										
-KERR, Bobby	Centre Forward	
-										
-MAITLAND, Alf	Full Back	
-										
-OXLEY, Billy	Centre Forward	
-										
-PENDER, Robert	Wing Half	
-										
-RILEY, Val	Wing Half	
-										
-SLADE, Charlie	Wing Half	
-										
-SMITH, Bert	Centre Half	
-										
-STEVENSON, Arthur	Winger	
-										
-URWIN, Tommy	Winger	
-										
-WAINSCOAT, Russell	Inside Forward	
-										
-WEBSTER, Maurice	Central Defender	
-										
-WILLIAMS, Owen	Winger	
-										
-WILSON, Andy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRRELL, Billy ",Inside Forward,22,2,0,0,0,0,0,0,0
+,"BOSOMWORTH, Alex ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BOTTRILL, Billy ",Inside Forward,9,0,0,1,0,0,0,0,0
+,"BROWN, Bert ",Winger,0,0,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,24,3,1,0,0,0,0,0,0
+,"CARR, Willie ",Centre Half,6,0,0,0,0,0,0,0,0
+,"CLOUGH, Jack ",Goalkeeper,30,0,0,1,0,0,0,0,0
+,"COCHRANE, Sandy ",Inside Forward,18,4,0,0,0,0,0,0,0
+,"CREASOR, Walter ",Winger,0,0,0,0,0,0,0,0,0
+,"DICKSON, Ian ",Centre Forward,16,5,0,1,0,0,0,0,0
+,"DIXON, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ELLERINGTON, Bill ",Centre Half,5,1,0,0,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,24,6,2,1,0,0,0,0,0
+,"FOX, Victor ",Full Back,3,0,0,0,0,0,0,0,0
+,"FREEMAN, Reg ",Full Back,40,0,0,1,0,0,0,0,0
+,"GRAHAM, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,32,0,0,1,0,0,0,0,0
+,"HARRISON, Harry ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"HICK, Billy ",Centre Forward,7,4,0,0,0,0,0,0,0
+,"HOLMES, Walter ",Full Back,19,0,0,0,0,0,0,0,0
+,"KERR, Bobby ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MAITLAND, Alf ",Full Back,25,0,0,1,0,0,0,0,0
+,"OXLEY, Billy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PENDER, Robert ",Wing Half,9,0,0,0,0,0,0,0,0
+,"RILEY, Val ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SLADE, Charlie ",Wing Half,27,2,0,1,0,0,0,0,0
+,"SMITH, Bert ",Centre Half,12,0,0,0,0,0,0,0,0
+,"STEVENSON, Arthur ",Winger,8,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,33,0,0,1,0,0,0,0,0
+,"WAINSCOAT, Russell ",Inside Forward,17,2,0,1,0,0,0,0,0
+,"WEBSTER, Maurice ",Central Defender,32,0,0,1,0,0,0,0,0
+,"WILLIAMS, Owen ",Winger,13,0,0,0,0,0,0,0,0
+,"WILSON, Andy ",Inside Forward,13,8,1,0,0,0,0,0,0

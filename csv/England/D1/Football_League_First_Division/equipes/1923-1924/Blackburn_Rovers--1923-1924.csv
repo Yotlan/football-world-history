@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BATESON, Edward	Winger	
-										
-BEDFORD, Fred	Winger	
-										
-BYERS, Jack	Winger	
-										
-CAMPBELL, Austen	Wing Half	
-										
-CRISP, Jack	Winger	
-										
-DAVIS, Ted	Goalkeeper	
-										
-DIXON, Stan	Centre Half	
-										
-FAIRBROTHER, Ronald	Centre Half	
-										
-FORREST, James	Full Back	
-										
-HARPER, Ted	Centre Forward	
-										
-HAWKSWORTH, Ernest	Inside Forward	
-										
-HAWORTH, Ronald	Inside Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HOLLAND, Peter	Inside Forward	
-										
-HULME, Joe	Winger	
-										
-MALCOLM, William	Inside Forward	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCKAY, Jock	Inside Forward	
-										
-MCKINNELL, Jimmy	Wing Half	
-										
-ROLLO, Dave	Full Back	
-										
-ROSCAMP, Jack	Wing Half	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-WILLIAMSON, Tom	Central Defender	
-										
-WYLIE, Tom	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BATESON, Edward ",Winger,2,0,0,0,0,0,0,0,0
+,"BEDFORD, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"BYERS, Jack ",Winger,25,2,0,1,0,0,0,0,0
+,"CAMPBELL, Austen ",Wing Half,12,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,34,5,0,1,0,0,0,0,0
+,"DAVIS, Ted ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,14,0,0,0,0,0,0,0,0
+,"FAIRBROTHER, Ronald ",Centre Half,1,0,0,0,0,0,0,0,0
+,"FORREST, James ",Full Back,2,0,0,0,0,0,0,0,0
+,"HARPER, Ted ",Centre Forward,42,18,0,1,0,0,0,0,0
+,"HAWKSWORTH, Ernest ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"HAWORTH, Ronald ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,36,0,0,1,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"HULME, Joe ",Winger,11,0,0,0,0,0,0,0,0
+,"MALCOLM, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,40,10,0,1,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,33,12,4,1,0,0,0,0,0
+,"MCKINNELL, Jimmy ",Wing Half,27,0,0,1,0,0,0,0,0
+,"ROLLO, Dave ",Full Back,40,1,1,1,0,0,0,0,0
+,"ROSCAMP, Jack ",Wing Half,25,1,0,1,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,40,0,0,1,0,0,0,0,0
+,"WILLIAMSON, Tom ",Central Defender,15,1,0,0,0,0,0,0,0
+,"WYLIE, Tom ",Full Back,42,0,0,1,0,0,0,0,0

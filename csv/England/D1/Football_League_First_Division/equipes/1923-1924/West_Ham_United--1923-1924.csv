@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRETT, Bert	Wing Half	
-										
-BISHOP, Sid	Wing Half	
-										
-BROWN, Billy	Inside Forward	
-										
-CADWELL, Albert	Wing Half	
-										
-CAMPBELL, John	Centre Forward	
-										
-CARTER, George	Wing Half	
-										
-COLLINS, Jimmy	Wing Half	
-										
-EDWARDS, Billy	Winger	
-										
-FLETCHER, Bert	Wing Half	
-										
-GIBBINS, Viv	Centre Forward	
-										
-HAMPSON, Tommy	Goalkeeper	
-										
-HEBDEN, Jack	Full Back	
-										
-HENDERSON, Billy	Full Back	
-										
-HODGES, Harry	Centre Forward	
-										
-HODGSON, Tommy	Full Back	
-										
-HUFTON, Ted	Goalkeeper	
-										
-KAY, George	Centre Half	
-										
-KELLY, Paddy	Winger	
-										
-MOORE, Billy	Inside Forward	
-										
-PROCTOR, Norman	Inside Forward	
-										
-RICHARDS, Dick	Inside Forward	
-										
-RICHARDSON, Frank	Centre Forward	
-										
-ROBINSON, Les	Inside Forward	
-										
-RUFFELL, Jimmy	Winger	
-										
-THIRLAWAY, Billy	Winger	
-										
-TRESADERN, Jack	Wing Half	
-										
-WATSON, Vic	Centre Forward	
-										
-WILLIAMS, Billy	Inside Forward	
-										
-YEWS, Tommy	Winger	
-										
-YOUNG, Jack	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRETT, Bert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BISHOP, Sid ",Wing Half,31,0,0,0,0,0,0,0,0
+,"BROWN, Billy ",Inside Forward,26,6,0,3,2,0,0,0,0
+,"CADWELL, Albert ",Wing Half,29,0,0,3,0,0,0,0,0
+,"CAMPBELL, John ",Centre Forward,11,4,0,0,0,0,0,0,0
+,"CARTER, George ",Wing Half,16,0,0,3,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,5,1,0,0,0,0,0,0,0
+,"EDWARDS, Billy ",Winger,25,3,0,2,0,0,0,0,0
+,"FLETCHER, Bert ",Wing Half,7,1,0,0,0,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"HAMPSON, Tommy ",Goalkeeper,27,0,0,3,0,0,0,0,0
+,"HEBDEN, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"HENDERSON, Billy ",Full Back,42,0,0,3,1,0,0,0,0
+,"HODGES, Harry ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"HODGSON, Tommy ",Full Back,5,0,0,0,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"KAY, George ",Centre Half,40,3,0,3,1,0,0,0,0
+,"KELLY, Paddy ",Winger,0,0,0,0,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,36,9,0,3,1,0,0,0,0
+,"PROCTOR, Norman ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"RICHARDS, Dick ",Inside Forward,9,0,0,1,0,0,0,0,0
+,"RICHARDSON, Frank ",Centre Forward,10,2,0,1,0,0,0,0,0
+,"ROBINSON, Les ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,39,2,0,3,0,0,0,0,0
+,"THIRLAWAY, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"TRESADERN, Jack ",Wing Half,10,0,0,0,0,0,0,0,0
+,"WATSON, Vic ",Centre Forward,11,3,0,0,0,0,0,0,0
+,"WILLIAMS, Billy ",Inside Forward,5,0,0,2,1,0,0,0,0
+,"YEWS, Tommy ",Winger,12,1,0,0,0,0,0,0,0
+,"YOUNG, Jack ",Full Back,35,2,2,3,0,0,0,0,0

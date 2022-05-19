@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARRATT, Percy	Full Back	
-										
-BELTON, Jackie	Wing Half	
-										
-BENNETT, Alfred	Goalkeeper	
-										
-BULLING, Harry	Full Back	
-										
-BURTON, Noah	Inside Forward	
-										
-DENNIS, George	Winger	
-										
-DEXTER, Arthur	Goalkeeper	
-										
-DICKINSON, Syd	Wing Half	
-										
-FALCONER, Fleming	Wing Half	
-										
-FLOOD, Charlie	Inside Forward	
-										
-GIBSON, Sid	Winger	
-										
-HARDY, Sam	Goalkeeper	
-										
-JONES, Harry	Full Back	
-										
-MARSHALL, Harry	Inside Forward	
-										
-MARTIN, Harry	Winger	
-										
-MILLS, Joe	Wing Half	
-										
-MORGAN, Gerry	Centre Half	
-										
-NELIS, Pat	Centre Forward	
-										
-PARKER, Fred	Centre Half	
-										
-RANSFORD, Herbert	Inside Forward	
-										
-SPAVEN, Jack	Inside Forward	
-										
-TETLOW, Albert	Inside Forward	
-										
-THOMPSON, Bill	Full Back	
-										
-TINSLEY, Walter	Inside Forward	
-										
-WALKER, Duncan	Centre Forward	
-										
-WALLACE, Bob	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARRATT, Percy ",Full Back,7,0,0,0,0,0,0,0,0
+,"BELTON, Jackie ",Wing Half,33,0,0,1,0,0,0,0,0
+,"BENNETT, Alfred ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"BULLING, Harry ",Full Back,33,0,0,1,0,0,0,0,0
+,"BURTON, Noah ",Inside Forward,7,0,0,1,0,0,0,0,0
+,"DENNIS, George ",Winger,1,0,0,0,0,0,0,0,0
+,"DEXTER, Arthur ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DICKINSON, Syd ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FALCONER, Fleming ",Wing Half,2,0,0,0,0,0,0,0,0
+,"FLOOD, Charlie ",Inside Forward,40,7,0,0,0,0,0,0,0
+,"GIBSON, Sid ",Winger,37,4,0,1,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,24,0,0,1,0,0,0,0,0
+,"JONES, Harry ",Full Back,16,0,0,0,0,0,0,0,0
+,"MARSHALL, Harry ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"MARTIN, Harry ",Winger,40,4,0,1,0,0,0,0,0
+,"MILLS, Joe ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MORGAN, Gerry ",Centre Half,32,0,0,1,0,0,0,0,0
+,"NELIS, Pat ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"PARKER, Fred ",Centre Half,12,3,0,0,0,0,0,0,0
+,"RANSFORD, Herbert ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"SPAVEN, Jack ",Inside Forward,19,1,0,1,0,0,0,0,0
+,"TETLOW, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Bill ",Full Back,25,0,0,1,0,0,0,0,0
+,"TINSLEY, Walter ",Inside Forward,16,2,0,0,0,0,0,0,0
+,"WALKER, Duncan ",Centre Forward,39,17,1,1,0,0,0,0,0
+,"WALLACE, Bob ",Wing Half,42,0,0,1,0,0,0,0,0

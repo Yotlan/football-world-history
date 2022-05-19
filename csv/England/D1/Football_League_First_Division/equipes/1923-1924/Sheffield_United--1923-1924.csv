@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKWELL, Ernest	Goalkeeper	
-										
-BOYLE, Tommy	Inside Forward	
-										
-BROMAGE, George	Winger	
-										
-COOK, Bill	Full Back	
-										
-EVANS, Jack	Winger	
-										
-FRANCIS, Albert	Inside Forward	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GLEW, Joseph	Winger	
-										
-GORDON, Les	Wing Half	
-										
-GOUGH, Harold	Goalkeeper	
-										
-GREEN, George	Wing Half	
-										
-HALLIWELL, Cliff	Wing Half	
-										
-HOYLAND, Walter	Inside Forward	
-										
-JOHNSON, Harry	Centre Forward	
-										
-KING, Seth	Central Defender	
-										
-MCCOURT, Jimmy	Centre Half	
-										
-MENLOVE, Bertie	Centre Forward	
-										
-MERCER, Dave	Winger	
-										
-MILTON, Ernest	Full Back	
-										
-PANTLING, Harry	Wing Half	
-										
-PARTRIDGE, Albert	Winger	
-										
-PLANT, Jim	Wing Half	
-										
-SAMPY, Tommy	Wing Half	
-										
-TAYLOR, Stan	Inside Forward	
-										
-TUNSTALL, Fred	Winger	
-										
-WAUGH, Jimmy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKWELL, Ernest ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,18,4,0,0,0,0,0,0,0
+,"BROMAGE, George ",Winger,2,0,0,0,0,0,0,0,0
+,"COOK, Bill ",Full Back,41,0,0,1,0,0,0,0,0
+,"EVANS, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"FRANCIS, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,38,14,0,1,0,0,0,0,0
+,"GLEW, Joseph ",Winger,0,0,0,0,0,0,0,0,0
+,"GORDON, Les ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GOUGH, Harold ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"GREEN, George ",Wing Half,42,0,0,1,0,0,0,0,0
+,"HALLIWELL, Cliff ",Wing Half,5,0,0,0,0,0,0,0,0
+,"HOYLAND, Walter ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,26,15,0,1,0,0,0,0,0
+,"KING, Seth ",Central Defender,2,0,0,0,0,0,0,0,0
+,"MCCOURT, Jimmy ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MENLOVE, Bertie ",Centre Forward,18,13,0,0,0,0,0,0,0
+,"MERCER, Dave ",Winger,34,1,0,0,0,0,0,0,0
+,"MILTON, Ernest ",Full Back,41,0,0,1,0,0,0,0,0
+,"PANTLING, Harry ",Wing Half,34,0,0,1,0,0,0,0,0
+,"PARTRIDGE, Albert ",Winger,7,1,0,1,0,0,0,0,0
+,"PLANT, Jim ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,24,5,0,1,0,0,0,0,0
+,"TAYLOR, Stan ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,38,14,3,1,0,0,0,0,0
+,"WAUGH, Jimmy ",Central Defender,42,1,0,1,0,0,0,0,0

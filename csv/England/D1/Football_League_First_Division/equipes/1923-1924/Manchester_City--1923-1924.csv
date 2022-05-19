@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jack	Full Back	
-										
-BARNES, Horace	Inside Forward	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CALDERWOOD, James	Full Back	
-										
-CARROLL, Frank	Inside Forward	
-										
-COOKSON, Jimmy	Centre Forward	
-										
-COOKSON, Sam	Full Back	
-										
-DANIELS, Arthur	Winger	
-										
-DONALDSON, Alex	Winger	
-										
-ELWOOD, Jimmy	Central Defender	
-										
-FINLAY, Andrew	Inside Forward	
-										
-FLETCHER, Eli	Full Back	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HAMILL, Mickey	Wing Half	
-										
-HARPER, Bill	Goalkeeper	
-										
-HICKS, George	Winger	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-LESLIE, Alex	Wing Half	
-										
-MEREDITH, Billy	Winger	
-										
-MITCHELL, James	Goalkeeper	
-										
-MORRIS, Hugh	Winger	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-PRINGLE, Charlie	Wing Half	
-										
-ROBERTS, Frank	Centre Forward	
-										
-SHARP, Sammy	Wing Half	
-										
-SMITH, Bob	Wing Half	
-										
-THOMPSON, Frank	Full Back	
-										
-WARNER, Jack	Inside Forward	
-										
-WILSON, Billy	Full Back	
-										
-WOOSNAM, Max	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jack ",Full Back,14,0,0,4,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,23,20,2,7,2,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,14,4,0,5,4,0,0,0,0
+,"CALDERWOOD, James ",Full Back,15,0,0,0,0,0,0,0,0
+,"CARROLL, Frank ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"COOKSON, Jimmy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,34,0,0,8,0,0,0,0,0
+,"DANIELS, Arthur ",Winger,11,0,0,1,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,7,0,0,0,0,0,0,0,0
+,"ELWOOD, Jimmy ",Central Defender,8,0,0,0,0,0,0,0,0
+,"FINLAY, Andrew ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,20,0,0,4,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"HAMILL, Mickey ",Wing Half,25,1,0,7,1,0,0,0,0
+,"HARPER, Bill ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"HICKS, George ",Winger,2,1,0,0,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,30,9,0,5,0,0,0,0,0
+,"LESLIE, Alex ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,2,0,0,4,1,0,0,0,0
+,"MITCHELL, James ",Goalkeeper,31,0,0,8,0,0,0,0,0
+,"MORRIS, Hugh ",Winger,31,0,0,4,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,26,2,0,4,0,0,0,0,0
+,"PRINGLE, Charlie ",Wing Half,28,0,0,8,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,41,14,0,8,4,0,0,0,0
+,"SHARP, Sammy ",Wing Half,34,0,0,4,1,0,0,0,0
+,"SMITH, Bob ",Wing Half,6,0,0,0,0,0,0,0,0
+,"THOMPSON, Frank ",Full Back,1,0,0,0,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,23,3,0,2,0,0,0,0,0
+,"WILSON, Billy ",Full Back,21,0,0,4,0,0,0,0,0
+,"WOOSNAM, Max ",Centre Half,1,0,0,1,0,0,0,0,0

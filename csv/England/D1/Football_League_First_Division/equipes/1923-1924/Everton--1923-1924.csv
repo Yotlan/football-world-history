@@ -1,47 +1,23 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1923/24
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROWN, William	Wing Half	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-CHEDGZOY, Sam	Winger	
-										
-COCK, Jack	Centre Forward	
-										
-DOWNS, Dickie	Full Back	
-										
-FERN, Tommy	Goalkeeper	
-										
-FORBES, Fred	Inside Forward	
-										
-HARLAND, Alfie	Goalkeeper	
-										
-HARRISON, George	Winger	
-										
-HART, Hunter	Wing Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-KENDALL, Jack	Goalkeeper	
-										
-LIVINGSTONE, Duggie	Full Back	
-										
-MCBAIN, Neil	Centre Half	
-										
-MCDONALD, Jock	Full Back	
-										
-PARRY, Frank	Winger	
-										
-PEACOCK, Joe	Wing Half	
-										
-RAITT, David	Full Back	
-										
-REID, David	Inside Forward	
-										
-TROUP, Alec	Winger	
-										
-WILLIAMS, William	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROWN, William ",Wing Half,37,0,0,2,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,42,28,0,2,2,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,38,5,0,2,1,0,0,0,0
+,"COCK, Jack ",Centre Forward,35,15,0,2,2,0,0,0,0
+,"DOWNS, Dickie ",Full Back,3,0,0,0,0,0,0,0,0
+,"FERN, Tommy ",Goalkeeper,25,0,0,0,0,0,0,0,0
+,"FORBES, Fred ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HARLAND, Alfie ",Goalkeeper,16,0,0,2,0,0,0,0,0
+,"HARRISON, George ",Winger,1,0,0,0,0,0,0,0,0
+,"HART, Hunter ",Wing Half,42,2,0,1,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,40,9,0,2,0,0,0,0,0
+,"KENDALL, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Duggie ",Full Back,38,0,0,2,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,37,0,0,2,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,24,0,0,2,0,0,0,0,0
+,"PARRY, Frank ",Winger,4,0,0,0,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,8,1,0,1,0,0,0,0,0
+,"RAITT, David ",Full Back,19,0,0,0,0,0,0,0,0
+,"REID, David ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"TROUP, Alec ",Winger,41,1,0,2,0,0,0,0,0
+,"WILLIAMS, William ",Inside Forward,2,0,0,0,0,0,0,0,0
