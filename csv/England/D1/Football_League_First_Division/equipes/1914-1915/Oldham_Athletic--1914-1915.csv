@@ -1,43 +1,21 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROAD, Jimmy	Centre Forward	
-										
-CASHMORE, Arthur	Centre Forward	
-										
-COOK, Billy	Full Back	
-										
-DIXON, Arthur	Wing Half	
-										
-DONNACHIE, Joe	Winger	
-										
-GEE, Arthur	Centre Forward	
-										
-GOODWIN, Bill	Full Back	
-										
-GRUNDY, Harry	Full Back	
-										
-HODSON, Jimmy	Full Back	
-										
-KEMP, Gilbert	Inside Forward	
-										
-LESTER, Hugh	Full Back	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-MOFFAT, Hugh	Wing Half	
-										
-PILKINGTON, Elliot	Centre Half	
-										
-ROBERTS, Charlie	Centre Half	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-TUMMON, Ollie	Winger	
-										
-WALTERS, Joe	Inside Forward	
-										
-WILSON, David	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROAD, Jimmy ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"CASHMORE, Arthur ",Centre Forward,16,8,0,5,1,0,0,0,0
+,"COOK, Billy ",Full Back,29,4,3,4,0,0,0,0,0
+,"DIXON, Arthur ",Wing Half,9,0,0,1,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,28,3,0,5,1,0,0,0,0
+,"GEE, Arthur ",Centre Forward,23,11,0,1,1,0,0,0,0
+,"GOODWIN, Bill ",Full Back,4,0,0,0,0,0,0,0,0
+,"GRUNDY, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"HODSON, Jimmy ",Full Back,37,0,0,5,0,0,0,0,0
+,"KEMP, Gilbert ",Inside Forward,37,16,0,5,3,0,0,0,0
+,"LESTER, Hugh ",Full Back,1,0,0,0,0,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,36,0,0,5,0,0,0,0,0
+,"MOFFAT, Hugh ",Wing Half,37,4,0,5,0,0,0,0,0
+,"PILKINGTON, Elliot ",Centre Half,22,4,0,4,1,0,0,0,0
+,"ROBERTS, Charlie ",Centre Half,34,0,0,5,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"TUMMON, Ollie ",Winger,36,6,0,5,1,0,0,0,0
+,"WALTERS, Joe ",Inside Forward,23,8,0,0,0,0,0,0,0
+,"WILSON, David ",Wing Half,38,4,0,5,1,0,0,0,0

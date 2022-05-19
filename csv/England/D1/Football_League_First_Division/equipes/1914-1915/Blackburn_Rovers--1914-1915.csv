@@ -1,47 +1,23 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKENHEAD, Wattie	Inside Forward	
-										
-BELL, Alex	Wing Half	
-										
-BRADSHAW, Billy	Wing Half	
-										
-BYROM, Tom	Inside Forward	
-										
-CAULFIELD, Billy	Inside Forward	
-										
-CHAPMAN, George	Centre Forward	
-										
-COWELL, Arthur	Full Back	
-										
-CROMPTON, Bob	Full Back	
-										
-DAWSON, Percy	Centre Forward	
-										
-EDGE, Arthur	Goalkeeper	
-										
-HODKINSON, Joe	Winger	
-										
-LATHERON, Eddie	Inside Forward	
-										
-MCGHIE, Alex	Winger	
-										
-ORR, Johnny	Inside Forward	
-										
-ROBINSON, Alfred	Goalkeeper	
-										
-SHEA, Danny	Inside Forward	
-										
-SIMPSON, Jock	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-SUTTIE, Tommy	Full Back	
-										
-WADSWORTH, Sam	Full Back	
-										
-WALMSLEY, Albert	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKENHEAD, Wattie ",Inside Forward,35,9,0,1,0,0,0,0,0
+,"BELL, Alex ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,20,2,1,1,0,0,0,0,0
+,"BYROM, Tom ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"CAULFIELD, Billy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CHAPMAN, George ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,31,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,34,4,3,1,0,0,0,0,0
+,"DAWSON, Percy ",Centre Forward,28,20,0,0,0,0,0,0,0
+,"EDGE, Arthur ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,38,4,0,1,0,0,0,0,0
+,"LATHERON, Eddie ",Inside Forward,37,17,0,1,0,0,0,0,0
+,"MCGHIE, Alex ",Winger,1,0,0,1,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,13,4,0,1,0,0,0,0,0
+,"ROBINSON, Alfred ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"SHEA, Danny ",Inside Forward,21,13,1,0,0,0,0,0,0
+,"SIMPSON, Jock ",Winger,37,3,0,0,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,35,1,0,1,0,0,0,0,0
+,"SUTTIE, Tommy ",Full Back,8,0,0,1,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,0,0,0,0,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,31,0,0,1,0,0,0,0,0

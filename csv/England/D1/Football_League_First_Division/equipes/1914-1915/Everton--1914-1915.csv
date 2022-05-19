@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROWN, William	Wing Half	
-										
-CARNEY, Gene	Winger	
-										
-CHEDGZOY, Sam	Winger	
-										
-CLENNELL, Joe	Inside Forward	
-										
-FERN, Tommy	Goalkeeper	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-GALT, Jimmy	Centre Half	
-										
-GRENYER, Alan	Wing Half	
-										
-HARRISON, George	Winger	
-										
-HOUSTON, Johnny	Winger	
-										
-HOWARTH, Horace	Inside Forward	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-KIRSOPP, Billy	Inside Forward	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MCFADYEN, Charlie	Full Back	
-										
-MITCHELL, Frank	Goalkeeper	
-										
-NUTTALL, Tommy	Inside Forward	
-										
-PALMER, Bill	Winger	
-										
-PARKER, Bobby	Centre Forward	
-										
-ROBERTS, Jas	Winger	
-										
-SIMPSON, Bobby	Full Back	
-										
-THOMPSON, Bob	Full Back	
-										
-WAREING, Billy	Wing Half	
-										
-WELLER, Louis	Full Back	
-										
-WRIGHT, Bill	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROWN, William ",Wing Half,4,0,0,0,0,0,0,0,0
+,"CARNEY, Gene ",Winger,0,0,0,0,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,30,2,0,5,1,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,36,14,0,5,3,0,0,0,0
+,"FERN, Tommy ",Goalkeeper,36,0,0,4,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,35,2,0,5,0,0,0,0,0
+,"GALT, Jimmy ",Centre Half,32,2,0,4,3,0,0,0,0
+,"GRENYER, Alan ",Wing Half,14,1,0,0,0,0,0,0,0
+,"HARRISON, George ",Winger,26,4,0,4,0,0,0,0,0
+,"HOUSTON, Johnny ",Winger,1,0,0,0,0,0,0,0,0
+,"HOWARTH, Horace ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,18,4,0,0,0,0,0,0,0
+,"KIRSOPP, Billy ",Inside Forward,16,9,0,5,1,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,28,0,0,3,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,23,1,0,5,0,0,0,0,0
+,"MCFADYEN, Charlie ",Full Back,0,0,0,0,0,0,0,0,0
+,"MITCHELL, Frank ",Goalkeeper,2,0,0,1,0,0,0,0,0
+,"NUTTALL, Tommy ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"PALMER, Bill ",Winger,17,1,0,1,0,0,0,0,0
+,"PARKER, Bobby ",Centre Forward,35,36,4,5,2,0,0,0,0
+,"ROBERTS, Jas ",Winger,1,0,0,0,0,0,0,0,0
+,"SIMPSON, Bobby ",Full Back,9,0,0,2,0,0,0,0,0
+,"THOMPSON, Bob ",Full Back,33,0,0,5,0,0,0,0,0
+,"WAREING, Billy ",Wing Half,8,0,0,1,1,0,0,0,0
+,"WELLER, Louis ",Full Back,6,0,0,0,0,0,0,0,0
+,"WRIGHT, Bill ",Centre Forward,2,0,0,0,0,0,0,0,0

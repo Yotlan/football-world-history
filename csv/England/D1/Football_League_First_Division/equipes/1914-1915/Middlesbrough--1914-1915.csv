@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CAIG, Hugh	Inside Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-COOK, Harry	Wing Half	
-										
-COOK, Jack	Inside Forward	
-										
-DAVIDSON, Stewart	Wing Half	
-										
-DAVIES, Bertie	Winger	
-										
-DAVIES, Ben	Goalkeeper	
-										
-ELLIOTT, George	Centre Forward	
-										
-HAWORTH, Jack	Full Back	
-										
-HEALEY, Dick	Inside Forward	
-										
-HISBENT, Joe	Full Back	
-										
-HOLMES, Walter	Full Back	
-										
-JACKSON, Andrew	Centre Half	
-										
-MALCOLM, George	Wing Half	
-										
-STOREY, Tom	Inside Forward	
-										
-TINSLEY, Walter	Inside Forward	
-										
-URWIN, Tommy	Winger	
-										
-VERRILL, Teddy	Wing Half	
-										
-WALKER, Jock	Full Back	
-										
-WEIR, Jimmy	Full Back	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-WILSON, Archie	Winger	
-										
-WILSON, Andy	Inside Forward	
-										
-WYNN, Richard	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CAIG, Hugh ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,33,9,1,2,3,0,0,0,0
+,"CARR, Willie ",Centre Half,6,0,0,0,0,0,0,0,0
+,"COOK, Harry ",Wing Half,8,0,0,2,0,0,0,0,0
+,"COOK, Jack ",Inside Forward,22,1,0,1,0,0,0,0,0
+,"DAVIDSON, Stewart ",Wing Half,36,0,0,1,0,0,0,0,0
+,"DAVIES, Bertie ",Winger,1,0,0,1,0,0,0,0,0
+,"DAVIES, Ben ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,30,14,1,2,3,0,0,0,0
+,"HAWORTH, Jack ",Full Back,27,0,0,2,0,0,0,0,0
+,"HEALEY, Dick ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"HISBENT, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"HOLMES, Walter ",Full Back,10,0,0,0,0,0,0,0,0
+,"JACKSON, Andrew ",Centre Half,29,2,0,1,0,0,0,0,0
+,"MALCOLM, George ",Wing Half,34,0,0,2,0,0,0,0,0
+,"STOREY, Tom ",Inside Forward,21,1,0,0,0,0,0,0,0
+,"TINSLEY, Walter ",Inside Forward,37,23,2,2,3,1,0,0,0
+,"URWIN, Tommy ",Winger,7,1,0,0,0,0,0,0,0
+,"VERRILL, Teddy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WALKER, Jock ",Full Back,33,0,0,1,0,0,0,0,0
+,"WEIR, Jimmy ",Full Back,5,0,0,1,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,20,0,0,2,0,0,0,0,0
+,"WILSON, Archie ",Winger,21,4,0,2,0,0,0,0,0
+,"WILSON, Andy ",Inside Forward,8,5,0,0,0,0,0,0,0
+,"WYNN, Richard ",Winger,5,0,0,0,0,0,0,0,0

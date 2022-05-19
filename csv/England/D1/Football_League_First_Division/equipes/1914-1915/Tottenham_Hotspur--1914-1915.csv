@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAGGE, Harry	Wing Half	
-										
-BANKS, Jimmy	Inside Forward	
-										
-BLISS, Bert	Inside Forward	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CLAY, Tommy	Full Back	
-										
-COLLINS, Tom	Full Back	
-										
-DARNELL, Jabez	Wing Half	
-										
-EADON, John	Goalkeeper	
-										
-FLEMING, John	Wing Half	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HANNAFORD, Charlie	Winger	
-										
-JACQUES, Bill	Goalkeeper	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-LIGHTFOOT, Edward	Wing Half	
-										
-LOWE, Harry	Centre Half	
-										
-MIDDLEMISS, Bert	Winger	
-										
-MINTER, Billy	Inside Forward	
-										
-PEARSON, John	Full Back	
-										
-RANCE, Charlie	Centre Half	
-										
-SPARROW, Harry	Centre Forward	
-										
-STEEL, Bobby	Inside Forward	
-										
-TATTERSALL, Wally	Winger	
-										
-WALDEN, Fanny	Winger	
-										
-WEBSTER, Fred	Full Back	
-										
-WEIR, Findlay	Wing Half	
-										
-WOODGER, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAGGE, Harry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BANKS, Jimmy ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"BLISS, Bert ",Inside Forward,33,21,0,2,1,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,26,14,0,1,1,0,0,0,0
+,"CLAY, Tommy ",Full Back,38,4,4,2,0,0,0,0,0
+,"COLLINS, Tom ",Full Back,12,0,0,0,0,0,0,0,0
+,"DARNELL, Jabez ",Wing Half,11,0,0,0,0,0,0,0,0
+,"EADON, John ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"FLEMING, John ",Wing Half,11,2,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,8,0,0,0,0,0,0,0,0
+,"HANNAFORD, Charlie ",Winger,0,0,0,0,0,0,0,0,0
+,"JACQUES, Bill ",Goalkeeper,28,0,0,2,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"LIGHTFOOT, Edward ",Wing Half,23,1,0,2,0,0,0,0,0
+,"LOWE, Harry ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MIDDLEMISS, Bert ",Winger,33,2,0,2,0,0,0,0,0
+,"MINTER, Billy ",Inside Forward,26,5,0,2,0,0,0,0,0
+,"PEARSON, John ",Full Back,17,0,0,2,0,0,0,0,0
+,"RANCE, Charlie ",Centre Half,3,0,0,0,0,0,0,0,0
+,"SPARROW, Harry ",Centre Forward,15,3,0,1,0,0,0,0,0
+,"STEEL, Bobby ",Inside Forward,36,2,0,2,0,0,0,0,0
+,"TATTERSALL, Wally ",Winger,5,0,0,0,0,0,0,0,0
+,"WALDEN, Fanny ",Winger,38,1,0,2,1,0,0,0,0
+,"WEBSTER, Fred ",Full Back,9,0,0,0,0,0,0,0,0
+,"WEIR, Findlay ",Wing Half,29,1,0,2,0,0,0,0,0
+,"WOODGER, George ",Inside Forward,0,0,0,0,0,0,0,0,0

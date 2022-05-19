@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BACHE, Harold	Centre Forward	
-										
-BENTLEY, Alf	Centre Forward	
-										
-BOOKMAN, Louis	Winger	
-										
-BOWEN, Walter	Centre Half	
-										
-BOWSER, Sid	Centre Half	
-										
-CRISP, Jack	Winger	
-										
-GREGORY, Howard	Winger	
-										
-JEPHCOTT, Claude	Winger	
-										
-MANN, Jack	Inside Forward	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MORRIS, Fred	Inside Forward	
-										
-NEWALL, Tommy	Wing Half	
-										
-PARKES, Harry	Winger	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-POULTON, Jerry	Inside Forward	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-SHEARMAN, Ben	Winger	
-										
-SHORE, Ted	Full Back	
-										
-SMITH, Joe	Full Back	
-										
-SWIFT, Arthur	Centre Forward	
-										
-WATERHOUSE, Frank	Wing Half	
-										
-WOOD, Matt	Full Back	
-										
-WRIGHT, Harry	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BACHE, Harold ",Centre Forward,12,4,0,1,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,19,9,0,0,0,0,0,0,0
+,"BOOKMAN, Louis ",Winger,16,1,0,0,0,0,0,0,0
+,"BOWEN, Walter ",Centre Half,1,0,0,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,35,1,1,1,0,0,0,0,0
+,"CRISP, Jack ",Winger,18,4,0,1,0,0,0,0,0
+,"GREGORY, Howard ",Winger,7,4,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,18,2,0,1,0,0,0,0,0
+,"MANN, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,37,2,0,1,0,0,0,0,0
+,"MOORWOOD, Len ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,28,11,0,1,0,0,0,0,0
+,"NEWALL, Tommy ",Wing Half,8,2,0,0,0,0,0,0,0
+,"PARKES, Harry ",Winger,8,0,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,30,0,0,1,0,0,0,0,0
+,"POULTON, Jerry ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"REED, Fred ",Centre Half,3,0,0,0,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"SHEARMAN, Ben ",Winger,28,1,0,1,0,0,0,0,0
+,"SHORE, Ted ",Full Back,5,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Full Back,29,0,0,1,0,0,0,0,0
+,"SWIFT, Arthur ",Centre Forward,15,7,0,0,0,0,0,0,0
+,"WATERHOUSE, Frank ",Wing Half,35,0,0,1,0,0,0,0,0
+,"WOOD, Matt ",Full Back,8,0,0,0,0,0,0,0,0
+,"WRIGHT, Harry ",Inside Forward,7,0,0,0,0,0,0,0,0

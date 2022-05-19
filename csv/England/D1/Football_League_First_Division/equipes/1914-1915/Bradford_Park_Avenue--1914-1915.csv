@@ -1,47 +1,23 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAUCHOP, Jimmy	Inside Forward	
-										
-BLACKHAM, Sam	Full Back	
-										
-CLEGG, John	Goalkeeper	
-										
-CROZIER, Joe	Wing Half	
-										
-DEMPSEY, Mark	Full Back	
-										
-DRABBLE, Frank	Goalkeeper	
-										
-GARRY, Ted	Wing Half	
-										
-HOWIE, David	Centre Half	
-										
-JOBEY, George	Wing Half	
-										
-KIRBY, Fred	Centre Forward	
-										
-KIVLICHAN, Willie	Winger	
-										
-LITTLE, Tommy	Inside Forward	
-										
-MAVEN, Fred	Centre Half	
-										
-MCCANDLESS, Jack	Winger	
-										
-MCCONNELL, Bill	Full Back	
-										
-SCATTERGOOD, Ernie	Goalkeeper	
-										
-SCOTT, Jack	Wing Half	
-										
-SMITH, Jimmy	Centre Forward	
-										
-STANSFIELD, Jack	Winger	
-										
-STIRLING, Jock	Winger	
-										
-WATSON, Sandy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAUCHOP, Jimmy ",Inside Forward,35,28,0,3,1,0,0,0,0
+,"BLACKHAM, Sam ",Full Back,37,0,0,3,0,0,0,0,0
+,"CLEGG, John ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"CROZIER, Joe ",Wing Half,25,2,0,2,0,0,0,0,0
+,"DEMPSEY, Mark ",Full Back,1,0,0,0,0,0,0,0,0
+,"DRABBLE, Frank ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"GARRY, Ted ",Wing Half,8,0,0,0,0,0,0,0,0
+,"HOWIE, David ",Centre Half,34,0,0,3,0,0,0,0,0
+,"JOBEY, George ",Wing Half,14,3,0,1,0,0,0,0,0
+,"KIRBY, Fred ",Centre Forward,10,3,0,0,0,0,0,0,0
+,"KIVLICHAN, Willie ",Winger,6,0,0,0,0,0,0,0,0
+,"LITTLE, Tommy ",Inside Forward,33,15,0,3,0,0,0,0,0
+,"MAVEN, Fred ",Centre Half,3,0,0,0,0,0,0,0,0
+,"MCCANDLESS, Jack ",Winger,38,3,0,3,0,0,0,0,0
+,"MCCONNELL, Bill ",Full Back,4,0,0,0,0,0,0,0,0
+,"SCATTERGOOD, Ernie ",Goalkeeper,29,0,0,3,0,0,0,0,0
+,"SCOTT, Jack ",Wing Half,38,1,0,3,0,0,0,0,0
+,"SMITH, Jimmy ",Centre Forward,29,10,0,3,1,0,0,0,0
+,"STANSFIELD, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"STIRLING, Jock ",Winger,31,2,0,3,0,0,0,0,0
+,"WATSON, Sandy ",Full Back,34,0,0,3,0,0,0,0,0

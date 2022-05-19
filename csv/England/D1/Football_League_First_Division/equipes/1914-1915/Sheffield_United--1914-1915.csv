@@ -1,43 +1,21 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRELSFORD, Bill	Wing Half	
-										
-COOK, Bill	Full Back	
-										
-DAVIES, Walter	Centre Forward	
-										
-ENGLISH, Jack	Full Back	
-										
-EVANS, Bobby	Winger	
-										
-FAZACKERLEY, Stan	Inside Forward	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GOUGH, Harold	Goalkeeper	
-										
-HAWLEY, Fred	Centre Half	
-										
-HUFTON, Ted	Goalkeeper	
-										
-KITCHEN, Joe	Centre Forward	
-										
-MARSHALL, William	Winger	
-										
-MASTERMAN, Wally	Inside Forward	
-										
-PANTLING, Harry	Wing Half	
-										
-REVILL, Jimmy	Winger	
-										
-SIMMONS, Jim	Inside Forward	
-										
-STURGESS, Albert	Wing Half	
-										
-THOMPSON, Jack	Winger	
-										
-UTLEY, George	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRELSFORD, Bill ",Wing Half,31,0,0,6,0,0,0,0,0
+,"COOK, Bill ",Full Back,37,0,0,7,0,0,0,0,0
+,"DAVIES, Walter ",Centre Forward,22,7,0,3,0,0,0,0,0
+,"ENGLISH, Jack ",Full Back,28,0,0,6,0,0,0,0,0
+,"EVANS, Bobby ",Winger,32,1,0,6,0,0,0,0,0
+,"FAZACKERLEY, Stan ",Inside Forward,25,6,0,5,2,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GOUGH, Harold ",Goalkeeper,37,0,0,6,0,0,0,0,0
+,"HAWLEY, Fred ",Centre Half,23,1,0,2,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,1,0,0,1,0,0,0,0,0
+,"KITCHEN, Joe ",Centre Forward,29,12,0,7,4,0,0,0,0
+,"MARSHALL, William ",Winger,0,0,0,0,0,0,0,0,0
+,"MASTERMAN, Wally ",Inside Forward,25,9,0,6,2,0,0,0,0
+,"PANTLING, Harry ",Wing Half,6,0,0,0,0,0,0,0,0
+,"REVILL, Jimmy ",Winger,10,0,0,1,0,0,0,0,0
+,"SIMMONS, Jim ",Inside Forward,37,9,1,7,2,0,0,0,0
+,"STURGESS, Albert ",Wing Half,36,1,0,7,0,0,0,0,0
+,"THOMPSON, Jack ",Winger,8,2,0,0,0,0,0,0,0
+,"UTLEY, George ",Wing Half,30,1,0,7,1,0,0,0,0

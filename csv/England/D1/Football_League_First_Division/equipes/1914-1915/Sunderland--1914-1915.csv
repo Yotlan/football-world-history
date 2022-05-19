@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEST, Bobby	Winger	
-										
-BOE, James	Goalkeeper	
-										
-BROWNING, William	Goalkeeper	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-COVERDALE, Robert	Wing Half	
-										
-CRINGAN, Willie	Wing Half	
-										
-CROSSLEY, Charlie	Inside Forward	
-										
-CUGGY, Frank	Wing Half	
-										
-FIELD, Dick 'Rusty'	Wing Half	
-										
-GLADWIN, Charlie	Full Back	
-										
-HOBSON, Bert	Full Back	
-										
-HOLLEY, George	Inside Forward	
-										
-HOPKINS, Bill	Centre Half	
-										
-JONES, Jack	Full Back	
-										
-LOW, Harry	Wing Half	
-										
-MARTIN, Harry	Winger	
-										
-MOORE, Billy	Inside Forward	
-										
-MORDUE, Jackie	Winger	
-										
-NESS, Harry	Full Back	
-										
-PHILIP, George	Centre Forward	
-										
-SCOTT, Leslie	Goalkeeper	
-										
-SEED, Jimmy	Inside Forward	
-										
-SHERWIN, Harry	Wing Half	
-										
-THOMSON, Charlie	Centre Half	
-										
-WILLIAMSON, John	Full Back	
-										
-YOUNG, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEST, Bobby ",Winger,9,8,0,1,0,0,0,0,0
+,"BOE, James ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BROWNING, William ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,37,23,0,1,0,0,0,0,0
+,"COVERDALE, Robert ",Wing Half,4,0,0,0,0,0,0,0,0
+,"CRINGAN, Willie ",Wing Half,23,0,0,1,0,0,0,0,0
+,"CROSSLEY, Charlie ",Inside Forward,14,6,0,0,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,31,0,0,1,0,0,0,0,0
+,"FIELD, Dick 'Rusty' ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GLADWIN, Charlie ",Full Back,16,0,0,0,0,0,0,0,0
+,"HOBSON, Bert ",Full Back,28,0,0,1,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"HOPKINS, Bill ",Centre Half,4,0,0,0,0,0,0,0,0
+,"JONES, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"LOW, Harry ",Wing Half,14,0,0,0,0,0,0,0,0
+,"MARTIN, Harry ",Winger,35,6,0,1,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,11,4,0,0,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,38,10,4,1,1,1,0,0,0
+,"NESS, Harry ",Full Back,26,0,0,1,0,0,0,0,0
+,"PHILIP, George ",Centre Forward,37,22,0,1,0,0,0,0,0
+,"SCOTT, Leslie ",Goalkeeper,37,0,0,1,0,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SHERWIN, Harry ",Wing Half,4,0,0,0,0,0,0,0,0
+,"THOMSON, Charlie ",Centre Half,36,0,0,1,0,0,0,0,0
+,"WILLIAMSON, John ",Full Back,5,0,0,0,0,0,0,0,0
+,"YOUNG, Bob ",Full Back,1,0,0,0,0,0,0,0,0

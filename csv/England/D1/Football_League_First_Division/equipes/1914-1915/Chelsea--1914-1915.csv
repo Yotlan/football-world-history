@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABRAM, Lol	Wing Half	
-										
-BETTRIDGE, Wally	Full Back	
-										
-BRIDGEMAN, Billy	Winger	
-										
-BRITTAN, Harold	Centre Forward	
-										
-BROWN, John	Winger	
-										
-CROAL, Jimmy	Inside Forward	
-										
-FORD, Harry	Winger	
-										
-FREEMAN, Charlie	Inside Forward	
-										
-HALSE, Harold	Inside Forward	
-										
-HAMPTON, Colin	Goalkeeper	
-										
-HARROW, Jack	Full Back	
-										
-LOGAN, Tom	Centre Half	
-										
-MACFARLANE, Sandy	Inside Forward	
-										
-MARSHALL, Owen	Full Back	
-										
-MCNEIL, Bobby	Winger	
-										
-MIDDELBOE, Nils	Wing Half	
-										
-MOLYNEUX, Jimmy	Goalkeeper	
-										
-SHARP, Jimmy	Full Back	
-										
-TAYLOR, Fred	Wing Half	
-										
-THOMSON, Bobby	Centre Forward	
-										
-TYE, Edward	Full Back	
-										
-WALKER, Andy	Wing Half	
-										
-WOODWARD, Vivian	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABRAM, Lol ",Wing Half,31,5,1,5,0,0,0,0,0
+,"BETTRIDGE, Wally ",Full Back,25,0,0,8,0,0,0,0,0
+,"BRIDGEMAN, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"BRITTAN, Harold ",Centre Forward,9,2,0,0,0,0,0,0,0
+,"BROWN, John ",Winger,2,1,0,0,0,0,0,0,0
+,"CROAL, Jimmy ",Inside Forward,27,6,0,6,1,0,0,0,0
+,"FORD, Harry ",Winger,33,3,0,8,2,0,0,0,0
+,"FREEMAN, Charlie ",Inside Forward,15,3,0,2,0,0,0,0,0
+,"HALSE, Harold ",Inside Forward,27,10,0,8,2,0,0,0,0
+,"HAMPTON, Colin ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HARROW, Jack ",Full Back,22,0,0,7,0,0,0,0,0
+,"LOGAN, Tom ",Centre Half,35,3,2,6,0,0,0,0,0
+,"MACFARLANE, Sandy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MARSHALL, Owen ",Full Back,11,0,0,0,0,0,0,0,0
+,"MCNEIL, Bobby ",Winger,37,3,0,8,1,0,0,0,0
+,"MIDDELBOE, Nils ",Wing Half,7,0,0,0,0,0,0,0,0
+,"MOLYNEUX, Jimmy ",Goalkeeper,37,0,0,8,0,0,0,0,0
+,"SHARP, Jimmy ",Full Back,17,0,0,1,0,0,0,0,0
+,"TAYLOR, Fred ",Wing Half,31,0,0,8,0,0,0,0,0
+,"THOMSON, Bobby ",Centre Forward,30,12,0,8,6,0,0,0,0
+,"TYE, Edward ",Full Back,1,0,0,0,0,0,0,0,0
+,"WALKER, Andy ",Wing Half,12,0,0,5,0,0,0,0,0
+,"WOODWARD, Vivian ",Inside Forward,6,3,0,0,0,0,0,0,0

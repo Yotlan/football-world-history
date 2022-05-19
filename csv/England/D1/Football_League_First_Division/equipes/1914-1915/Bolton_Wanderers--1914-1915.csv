@@ -1,68 +1,33 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BLEAKLEY, Tommy	Wing Half	
-										
-BUCHAN, Tom	Wing Half	
-										
-DAVIES, Wally	Inside Forward	
-										
-DONALDSON, Alex	Winger	
-										
-EDMONDSON, John	Goalkeeper	
-										
-FAY, Jimmy	Centre Half	
-										
-FEEBERY, Jack	Full Back	
-										
-GLENDENNING, Bob	Wing Half	
-										
-GUY, George	Centre Forward	
-										
-HEATHCOTE, Jimmy	Inside Forward	
-										
-HESLOP, Tom	Inside Forward	
-										
-HESMONDHALGH, Tom	Centre Forward	
-										
-HILTON, Harold	Inside Forward	
-										
-HODGKISS, Jack	Goalkeeper	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Evan	Inside Forward	
-										
-KAY, Tom	Goalkeeper	
-										
-KIDD, Jimmy	Goalkeeper	
-										
-LILLYCROP, George	Centre Forward	
-										
-ROBERTS, Frank	Centre Forward	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SIDLOW, Edward	Goalkeeper	
-										
-SMITH, Joe	Inside Forward	
-										
-STOKES, David	Winger	
-										
-THOMAS, Joe	Wing Half	
-										
-TOONE, Percy	Goalkeeper	
-										
-VIZARD, Ted	Winger	
-										
-WALLACE, William	Winger	
-										
-WILSON, George	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAVERSTOCK, Bert ",Full Back,27,0,0,2,0,0,0,0,0
+,"BLEAKLEY, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BUCHAN, Tom ",Wing Half,3,1,0,0,0,0,0,0,0
+,"DAVIES, Wally ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,15,0,0,0,0,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,13,0,0,6,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,22,1,0,0,0,0,0,0,0
+,"FEEBERY, Jack ",Full Back,16,0,0,4,0,0,0,0,0
+,"GLENDENNING, Bob ",Wing Half,28,0,0,7,0,0,0,0,0
+,"GUY, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HEATHCOTE, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HESLOP, Tom ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HESMONDHALGH, Tom ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HILTON, Harold ",Inside Forward,10,4,0,2,1,0,0,0,0
+,"HODGKISS, Jack ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,24,0,0,2,0,0,0,0,0
+,"JONES, Evan ",Inside Forward,21,6,0,5,3,0,0,0,0
+,"KAY, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"KIDD, Jimmy ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"LILLYCROP, George ",Centre Forward,15,7,0,0,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,28,10,0,7,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,29,1,0,7,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,6,0,0,0,0,0,0,0,0
+,"SIDLOW, Edward ",Goalkeeper,13,0,0,1,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,38,29,7,7,7,3,0,0,0
+,"STOKES, David ",Winger,21,3,0,7,0,0,0,0,0
+,"THOMAS, Joe ",Wing Half,10,0,0,6,0,0,0,0,0
+,"TOONE, Percy ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"VIZARD, Ted ",Winger,38,5,0,7,4,0,0,0,0
+,"WALLACE, William ",Winger,2,1,0,0,0,0,0,0,0
+,"WILSON, George ",Full Back,26,0,0,7,0,0,0,0,0

@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOOTH, Tommy	Inside Forward	
-										
-CAIRNS, Thomas	Inside Forward	
-										
-COOPER, Edward	Winger	
-										
-CRACKNELL, Dick	Centre Half	
-										
-DIXON, Stan	Centre Half	
-										
-DOUGLAS, Angus	Winger	
-										
-FINLAY, Jock	Wing Half	
-										
-GOODWILL, Thomas	Winger	
-										
-HALL, Tom	Inside Forward	
-										
-HAMPSON, Billy	Full Back	
-										
-HAY, Jimmy	Wing Half	
-										
-HEWISON, Bob	Wing Half	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-KING, John	Inside Forward	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LITTLE, Dick	Full Back	
-										
-LOW, Wilf	Centre Half	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCGOUGH, Richard	Centre Half	
-										
-MELLOR, William	Goalkeeper	
-										
-PAILOR, Bob	Centre Forward	
-										
-SOULSBY, James	Winger	
-										
-SPINK, Jimmy	Wing Half	
-										
-VEITCH, Colin	Centre Half	
-										
-WILSON, George	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOOTH, Tommy ",Inside Forward,19,2,0,0,0,0,0,0,0
+,"CAIRNS, Thomas ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"COOPER, Edward ",Winger,11,1,0,1,0,0,0,0,0
+,"CRACKNELL, Dick ",Centre Half,0,0,0,0,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,1,0,0,0,0,0,0,0,0
+,"DOUGLAS, Angus ",Winger,27,1,0,6,0,0,0,0,0
+,"FINLAY, Jock ",Wing Half,11,2,0,1,0,0,0,0,0
+,"GOODWILL, Thomas ",Winger,34,2,0,7,3,0,0,0,0
+,"HALL, Tom ",Inside Forward,23,8,0,1,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,7,0,0,1,0,0,0,0,0
+,"HAY, Jimmy ",Wing Half,33,0,0,7,0,0,0,0,0
+,"HEWISON, Bob ",Wing Half,20,0,0,2,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,30,14,0,6,2,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,36,4,3,6,0,0,0,0,0
+,"KING, John ",Inside Forward,18,5,0,7,2,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,31,0,0,5,0,0,0,0,0
+,"LITTLE, Dick ",Full Back,1,0,0,0,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,35,0,0,7,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,29,0,0,7,1,1,0,0,0
+,"MCGOUGH, Richard ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MELLOR, William ",Goalkeeper,6,0,0,2,0,0,0,0,0
+,"PAILOR, Bob ",Centre Forward,11,2,0,5,3,0,0,0,0
+,"SOULSBY, James ",Winger,1,0,0,0,0,0,0,0,0
+,"SPINK, Jimmy ",Wing Half,15,0,0,4,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WILSON, George ",Winger,6,0,0,2,0,0,0,0,0

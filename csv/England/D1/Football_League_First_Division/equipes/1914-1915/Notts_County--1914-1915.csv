@@ -1,47 +1,22 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1914/15
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLSEBROOK, Dick	Wing Half	
-										
-BASSETT, Ted	Winger	
-										
-BATTISTE, Wally	Winger	
-										
-BIRD, Walter	Inside Forward	
-										
-CLAMP, Arthur	Centre Half	
-										
-DALE, George	Inside Forward	
-										
-EMBERTON, Teddy	Wing Half	
-										
-FLINT, Billy	Wing Half	
-										
-HENSHALL, Horace	Winger	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JENNINGS, Bill	Centre Half	
-										
-LAMB, Jack	Inside Forward	
-										
-MORLEY, Bert	Full Back	
-										
-PEART, Jack	Centre Forward	
-										
-PERRY, Joe	Full Back	
-										
-RICHARDS, Sam	Inside Forward	
-										
-SISSON, Tom	Full Back	
-										
-STREETS, John	Inside Forward	
-										
-WATERALL, Ike	Winger	
-										
-WEST, Alf	Full Back	
-										
-WOOLLEY, Jim	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLSEBROOK, Dick ",Wing Half,38,1,0,1,0,0,0,0,0
+,"BASSETT, Ted ",Winger,9,0,0,0,0,0,0,0,0
+,"BATTISTE, Wally ",Winger,0,0,0,0,0,0,0,0,0
+,"BIRD, Walter ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"CLAMP, Arthur ",Centre Half,24,0,0,0,0,0,0,0,0
+,"DALE, George ",Inside Forward,18,5,0,1,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,26,1,0,1,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,36,4,0,1,0,0,0,0,0
+,"HENSHALL, Horace ",Winger,31,4,0,1,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"JENNINGS, Bill ",Centre Half,22,0,0,1,0,0,0,0,0
+,"LAMB, Jack ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"MORLEY, Bert ",Full Back,25,0,0,1,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,32,11,1,1,0,0,0,0,0
+,"PERRY, Joe ",Full Back,18,0,0,0,0,0,0,0,0
+,"RICHARDS, Sam ",Inside Forward,34,8,0,1,1,0,0,0,0
+,"SISSON, Tom ",Full Back,3,0,0,0,0,0,0,0,0
+,"WATERALL, Ike ",Winger,33,1,0,1,0,0,0,0,0
+,"WEST, Alf ",Full Back,18,0,0,0,0,0,0,0,0
+,"WOOLLEY, Jim ",Full Back,1,0,0,0,0,0,0,0,0
