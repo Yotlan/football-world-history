@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKER, Billy	Wing Half	
-										
-CAIL, Sammy	Centre Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-CHAPELHOW, Harry	Winger	
-										
-COOK, Jack	Inside Forward	
-										
-CROZIER, Joe	Wing Half	
-										
-DAVIES, Ben	Goalkeeper	
-										
-DUGUID, William	Wing Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-EYRE, Edmund	Winger	
-										
-FRASER, Alec	Inside Forward	
-										
-HAWORTH, Jack	Full Back	
-										
-HISBENT, Joe	Full Back	
-										
-JACKSON, Andrew	Centre Half	
-										
-JAMES, Billy	Winger	
-										
-LAYTON, Edward	Full Back	
-										
-LEONARD, Harry	Centre Forward	
-										
-MCLEOD, Donald	Full Back	
-										
-MCROBBIE, Allan	Full Back	
-										
-NICHOLL, Jimmy	Winger	
-										
-PENTLAND, Fred	Winger	
-										
-STIRLING, Jock	Winger	
-										
-VERRILL, Teddy	Wing Half	
-										
-WEIR, Jimmy	Full Back	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-WINDRIDGE, Jimmy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKER, Billy ",Wing Half,32,0,0,4,0,0,0,0,0
+,"CAIL, Sammy ",Centre Forward,30,13,1,1,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"CARR, Willie ",Centre Half,13,1,0,0,0,0,0,0,0
+,"CHAPELHOW, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"COOK, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CROZIER, Joe ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DAVIES, Ben ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DUGUID, William ",Wing Half,6,0,0,0,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,35,17,0,4,1,0,0,0,0
+,"EYRE, Edmund ",Winger,32,8,0,3,0,0,0,0,0
+,"FRASER, Alec ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"HAWORTH, Jack ",Full Back,11,0,0,0,0,0,0,0,0
+,"HISBENT, Joe ",Full Back,11,0,0,0,0,0,0,0,0
+,"JACKSON, Andrew ",Centre Half,18,1,0,4,0,0,0,0,0
+,"JAMES, Billy ",Winger,19,8,1,3,1,0,0,0,0
+,"LAYTON, Edward ",Full Back,7,0,0,1,0,0,0,0,0
+,"LEONARD, Harry ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"MCLEOD, Donald ",Full Back,24,0,0,4,0,0,0,0,0
+,"MCROBBIE, Allan ",Full Back,1,0,0,0,0,0,0,0,0
+,"NICHOLL, Jimmy ",Winger,4,0,0,1,0,0,0,0,0
+,"PENTLAND, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"STIRLING, Jock ",Winger,36,3,0,4,0,0,0,0,0
+,"VERRILL, Teddy ",Wing Half,31,0,0,4,1,0,0,0,0
+,"WEIR, Jimmy ",Full Back,33,0,0,3,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,36,0,0,4,0,0,0,0,0
+,"WINDRIDGE, Jimmy ",Inside Forward,20,3,0,4,1,0,0,0,0

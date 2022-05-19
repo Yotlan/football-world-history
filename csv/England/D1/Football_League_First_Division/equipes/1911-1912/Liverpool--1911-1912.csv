@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOVILL, John	Inside Forward	
-										
-BOWYER, Sam	Inside Forward	
-										
-CAMPBELL, Kenny	Goalkeeper	
-										
-CRAWFORD, Bob	Full Back	
-										
-GILLIGAN, Sammy	Centre Forward	
-										
-GODDARD, Arthur	Winger	
-										
-GRACIE, Tommy	Inside Forward	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-LACEY, Billy	Winger	
-										
-LESTER, Hugh	Full Back	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LOWE, Harry	Wing Half	
-										
-MCCONNELL, Jock	Wing Half	
-										
-MCDONALD, John	Winger	
-										
-MCKINLAY, Donald	Full Back	
-										
-MILLER, Tom	Centre Forward	
-										
-ORR, Ronald	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PEAKE, Ernie	Wing Half	
-										
-PURSELL, Bob	Full Back	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROWLANDS, Stan	Centre Forward	
-										
-SCOTT, James	Wing Half	
-										
-SPEAKMAN, James	Winger	
-										
-STEWART, Jimmy	Inside Forward	
-										
-STUART, William	Inside Forward	
-										
-UREN, Harold	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOVILL, John ",Inside Forward,23,7,0,2,0,0,0,0,0
+,"BOWYER, Sam ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"CAMPBELL, Kenny ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"CRAWFORD, Bob ",Full Back,15,0,0,0,0,0,0,0,0
+,"GILLIGAN, Sammy ",Centre Forward,24,11,0,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,28,2,1,1,0,0,0,0,0
+,"GRACIE, Tommy ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,31,0,0,2,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,29,1,0,2,0,0,0,0,0
+,"LACEY, Billy ",Winger,11,1,0,0,0,0,0,0,0
+,"LESTER, Hugh ",Full Back,1,0,0,0,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,37,0,0,2,0,0,0,0,0
+,"LOWE, Harry ",Wing Half,28,1,0,2,0,0,0,0,0
+,"MCCONNELL, Jock ",Wing Half,8,1,0,0,0,0,0,0,0
+,"MCDONALD, John ",Winger,18,1,0,1,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,7,0,0,0,0,0,0,0,0
+,"MILLER, Tom ",Centre Forward,8,1,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,25,12,0,2,1,0,0,0,0
+,"PEAKE, Ernie ",Wing Half,8,0,0,0,0,0,0,0,0
+,"PURSELL, Bob ",Full Back,24,0,0,2,0,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,31,2,0,2,0,0,0,0,0
+,"ROWLANDS, Stan ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SCOTT, James ",Wing Half,4,0,0,0,0,0,0,0,0
+,"SPEAKMAN, James ",Winger,3,1,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"STUART, William ",Inside Forward,3,1,0,2,0,0,0,0,0
+,"UREN, Harold ",Winger,24,2,0,2,0,0,0,0,0

@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Centre Forward	
-										
-BADDELEY, George	Wing Half	
-										
-BETTELEY, Dick	Full Back	
-										
-BOWSER, Sid	Centre Half	
-										
-BUCK, Fred	Inside Forward	
-										
-COOK, Arthur	Full Back	
-										
-DEACEY, Charlie	Centre Half	
-										
-GREGORY, Howard	Winger	
-										
-HIBBERT, James	Wing Half	
-										
-JEPHCOTT, Claude	Winger	
-										
-LLOYD, Amos	Winger	
-										
-MANNERS, Jack	Wing Half	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MORRIS, Fred	Inside Forward	
-										
-PAILOR, Bob	Centre Forward	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-SHEARMAN, Ben	Winger	
-										
-SMITH, Joe	Full Back	
-										
-WATERHOUSE, Frank	Wing Half	
-										
-WOLLASTON, William	Winger	
-										
-WOOD, Matt	Full Back	
-										
-WRIGHT, Harry	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Centre Forward,19,4,0,1,0,0,0,0,0
+,"BADDELEY, George ",Wing Half,28,0,0,8,0,0,0,0,0
+,"BETTELEY, Dick ",Full Back,1,0,0,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,27,8,0,7,4,0,0,0,0
+,"BUCK, Fred ",Inside Forward,30,1,0,8,0,0,0,0,0
+,"COOK, Arthur ",Full Back,12,0,0,8,0,0,0,0,0
+,"DEACEY, Charlie ",Centre Half,6,0,0,1,1,0,0,0,0
+,"GREGORY, Howard ",Winger,3,0,0,0,0,0,0,0,0
+,"HIBBERT, James ",Wing Half,2,0,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,20,4,0,8,0,0,0,0,0
+,"LLOYD, Amos ",Winger,3,0,0,0,0,0,0,0,0
+,"MANNERS, Jack ",Wing Half,18,0,0,0,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,37,0,0,8,0,0,0,0,0
+,"MOORWOOD, Len ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"PAILOR, Bob ",Centre Forward,20,10,0,7,3,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,36,2,2,8,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,29,0,0,8,0,0,0,0,0
+,"SHEARMAN, Ben ",Winger,34,7,0,8,0,0,0,0,0
+,"SMITH, Joe ",Full Back,32,0,0,0,0,0,0,0,0
+,"WATERHOUSE, Frank ",Wing Half,11,0,0,0,0,0,0,0,0
+,"WOLLASTON, William ",Winger,6,0,0,0,0,0,0,0,0
+,"WOOD, Matt ",Full Back,2,0,0,0,0,0,0,0,0
+,"WRIGHT, Harry ",Inside Forward,34,4,0,8,2,0,0,0,0

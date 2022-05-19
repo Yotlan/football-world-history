@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENSON, Bob	Full Back	
-										
-BRELSFORD, Bill	Wing Half	
-										
-BROOKS, Joe	Full Back	
-										
-CHARLES, Frederick	Inside Forward	
-										
-CONNOR, Ted	Winger	
-										
-EVANS, Bobby	Winger	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GROVES, Fred	Inside Forward	
-										
-HARDINGE, Wally	Inside Forward	
-										
-HOLT, Andy	Winger	
-										
-KITCHEN, Joe	Centre Forward	
-										
-LEAFE, Dicky	Inside Forward	
-										
-LIEVESLEY, Joe	Goalkeeper	
-										
-MITCHELL, Joe	Goalkeeper	
-										
-MITE, Bob	Wing Half	
-										
-PEAKE, Billy	Inside Forward	
-										
-REVILL, Jimmy	Winger	
-										
-SIMMONS, Jim	Inside Forward	
-										
-SIMONS, Tommy	Inside Forward	
-										
-SMITH, Joe	Full Back	
-										
-STURGESS, Albert	Wing Half	
-										
-TRUEMAN, Albert	Wing Half	
-										
-WAGSTAFFE, Teddy	Centre Half	
-										
-WALKER, Willis	Goalkeeper	
-										
-WILKINSON, Bernard	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENSON, Bob ",Full Back,27,5,4,1,0,0,0,0,0
+,"BRELSFORD, Bill ",Wing Half,36,0,0,1,0,0,0,0,0
+,"BROOKS, Joe ",Full Back,14,0,0,0,0,0,0,0,0
+,"CHARLES, Frederick ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CONNOR, Ted ",Winger,14,0,0,0,0,0,0,0,0
+,"EVANS, Bobby ",Winger,36,12,0,1,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,17,11,0,1,0,0,0,0,0
+,"GROVES, Fred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARDINGE, Wally ",Inside Forward,24,4,0,0,0,0,0,0,0
+,"HOLT, Andy ",Winger,0,0,0,0,0,0,0,0,0
+,"KITCHEN, Joe ",Centre Forward,37,11,1,1,0,0,0,0,0
+,"LEAFE, Dicky ",Inside Forward,12,8,0,0,0,0,0,0,0
+,"LIEVESLEY, Joe ",Goalkeeper,25,0,0,0,0,0,0,0,0
+,"MITCHELL, Joe ",Goalkeeper,13,0,0,1,0,0,0,0,0
+,"MITE, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PEAKE, Billy ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"REVILL, Jimmy ",Winger,3,0,0,0,0,0,0,0,0
+,"SIMMONS, Jim ",Inside Forward,34,5,0,1,0,0,0,0,0
+,"SIMONS, Tommy ",Inside Forward,2,1,0,1,0,0,0,0,0
+,"SMITH, Joe ",Full Back,25,0,0,1,0,0,0,0,0
+,"STURGESS, Albert ",Wing Half,32,3,0,1,0,0,0,0,0
+,"TRUEMAN, Albert ",Wing Half,26,0,0,1,0,0,0,0,0
+,"WAGSTAFFE, Teddy ",Centre Half,2,0,0,0,0,0,0,0,0
+,"WALKER, Willis ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WILKINSON, Bernard ",Centre Half,30,2,0,0,0,0,0,0,0

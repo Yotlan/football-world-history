@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENEY, Albert	Centre Forward	
-										
-BIRNIE, Alex	Winger	
-										
-BROOKS, George	Wing Half	
-										
-BROWN, John	Inside Forward	
-										
-BULLEN, Teddy	Wing Half	
-										
-CANNELL, Barker	Centre Forward	
-										
-CANNON, Tom	Wing Half	
-										
-CURRIE, Bob	Inside Forward	
-										
-DEWHURST, Jack	Centre Half	
-										
-DUFFY, Chris	Winger	
-										
-FENNER, Bill	Full Back	
-										
-FOOT, George	Goalkeeper	
-										
-GREAVES, Tommy	Full Back	
-										
-HEAP, Bob	Wing Half	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HORROCKS, John	Winger	
-										
-HUMPHREYS, Billy	Wing Half	
-										
-JARVIS, Len	Wing Half	
-										
-KAY, Tom	Inside Forward	
-										
-LEE, Harold	Winger	
-										
-LOMAS, Billy	Centre Forward	
-										
-MCDONALD, Tom	Goalkeeper	
-										
-MILLINGTON, Tom	Full Back	
-										
-PARKIN, Dick	Full Back	
-										
-RAESIDE, Jimmy	Goalkeeper	
-										
-SMITH, Wally	Inside Forward	
-										
-STEWART, Harry	Full Back	
-										
-VINSON, Harry	Wing Half	
-										
-WALKER, Johnny	Winger	
-										
-WALKER, Dick	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENEY, Albert ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"BIRNIE, Alex ",Winger,26,0,0,3,0,0,0,0,0
+,"BROOKS, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROWN, John ",Inside Forward,21,5,0,2,0,0,0,0,0
+,"BULLEN, Teddy ",Wing Half,34,3,1,3,0,0,0,0,0
+,"CANNELL, Barker ",Centre Forward,3,0,0,1,1,0,0,0,0
+,"CANNON, Tom ",Wing Half,13,0,0,1,0,0,0,0,0
+,"CURRIE, Bob ",Inside Forward,11,1,0,2,0,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,4,0,0,0,0,0,0,0,0
+,"DUFFY, Chris ",Winger,31,2,0,2,1,0,0,0,0
+,"FENNER, Bill ",Full Back,9,0,0,0,0,0,0,0,0
+,"FOOT, George ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"GREAVES, Tommy ",Full Back,29,0,0,3,0,0,0,0,0
+,"HEAP, Bob ",Wing Half,17,1,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,7,1,0,0,0,0,0,0,0
+,"HORROCKS, John ",Winger,1,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Billy ",Wing Half,25,0,0,3,0,0,0,0,0
+,"JARVIS, Len ",Wing Half,20,0,0,2,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,35,12,0,2,1,0,0,0,0
+,"LEE, Harold ",Winger,11,1,0,0,0,0,0,0,0
+,"LOMAS, Billy ",Centre Forward,8,1,0,1,0,0,0,0,0
+,"MCDONALD, Tom ",Goalkeeper,29,0,0,3,0,0,0,0,0
+,"MILLINGTON, Tom ",Full Back,34,0,0,3,0,0,0,0,0
+,"PARKIN, Dick ",Full Back,3,0,0,1,0,0,0,0,0
+,"RAESIDE, Jimmy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SMITH, Wally ",Inside Forward,22,4,2,0,0,0,0,0,0
+,"STEWART, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"VINSON, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WALKER, Johnny ",Winger,3,0,0,1,0,0,0,0,0
+,"WALKER, Dick ",Winger,6,0,0,0,0,0,0,0,0

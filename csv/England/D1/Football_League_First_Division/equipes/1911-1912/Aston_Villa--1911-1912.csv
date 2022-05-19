@@ -1,73 +1,36 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANSTEY, Brendel	Goalkeeper	
-										
-ASKEW, Billy	Wing Half	
-										
-BACHE, Joe	Inside Forward	
-										
-BIRCH, Jimmy	Inside Forward	
-										
-BUCKLEY, Chris	Centre Half	
-										
-EDGLEY, Harry	Winger	
-										
-EDWARDS, Alfred	Centre Half	
-										
-GERRISH, Billy	Inside Forward	
-										
-GOODE, Bert	Inside Forward	
-										
-HALL, Bert	Winger	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HENSHALL, Horace	Winger	
-										
-HUNTER, George	Wing Half	
-										
-KEARNS, John	Full Back	
-										
-LINDON, Albert	Goalkeeper	
-										
-LITTLEWOOD, Wilfred	Full Back	
-										
-LOGAN, James	Wing Half	
-										
-LYONS, Tommy	Full Back	
-										
-MANN, Frank	Inside Forward	
-										
-MCCLURE, Samuel	Inside Forward	
-										
-MILES, Alf	Full Back	
-										
-MORRIS, William	Centre Half	
-										
-MOSS, Arthur	Wing Half	
-										
-RALPHS, Albert	Winger	
-										
-RICHARDS, Leonard	Goalkeeper	
-										
-ROOSE, Dick	Goalkeeper	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TRANTER, George	Wing Half	
-										
-WALLACE, Charlie	Winger	
-										
-WALTERS, Joe	Inside Forward	
-										
-WATSON, Walter	Winger	
-										
-WESTON, Tommy	Full Back	
-										
-WHITTAKER, Samson	Wing Half	
-										
-WILLIAMSON, John	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANSTEY, Brendel ",Goalkeeper,21,0,0,3,0,0,0,0,0
+,"ASKEW, Billy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BACHE, Joe ",Inside Forward,34,7,0,3,1,0,0,0,0
+,"BIRCH, Jimmy ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"BUCKLEY, Chris ",Centre Half,21,0,0,0,0,0,0,0,0
+,"EDGLEY, Harry ",Winger,2,1,0,0,0,0,0,0,0
+,"EDWARDS, Alfred ",Centre Half,6,0,0,2,0,0,0,0,0
+,"GERRISH, Billy ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"GOODE, Bert ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"HALL, Bert ",Winger,1,1,0,0,0,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,33,25,0,3,3,0,0,0,0
+,"HENSHALL, Horace ",Winger,26,3,0,3,2,0,0,0,0
+,"HUNTER, George ",Wing Half,11,0,0,0,0,0,0,0,0
+,"KEARNS, John ",Full Back,5,0,0,0,0,0,0,0,0
+,"LINDON, Albert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"LITTLEWOOD, Wilfred ",Full Back,3,0,0,0,0,0,0,0,0
+,"LOGAN, James ",Wing Half,15,0,0,2,0,0,0,0,0
+,"LYONS, Tommy ",Full Back,28,0,0,1,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCCLURE, Samuel ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MILES, Alf ",Full Back,25,0,0,3,0,0,0,0,0
+,"MORRIS, William ",Centre Half,1,0,0,0,0,0,0,0,0
+,"MOSS, Arthur ",Wing Half,3,0,0,0,0,0,0,0,0
+,"RALPHS, Albert ",Winger,1,0,0,0,0,0,0,0,0
+,"RICHARDS, Leonard ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"ROOSE, Dick ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,20,10,0,0,0,0,0,0,0
+,"TRANTER, George ",Wing Half,31,0,0,2,0,0,0,0,0
+,"WALLACE, Charlie ",Winger,35,16,6,3,1,0,0,0,0
+,"WALTERS, Joe ",Inside Forward,19,7,0,3,0,0,0,0,0
+,"WATSON, Walter ",Winger,3,0,0,0,0,0,0,0,0
+,"WESTON, Tommy ",Full Back,15,0,0,2,0,0,0,0,0
+,"WHITTAKER, Samson ",Wing Half,24,1,0,3,0,0,0,0,0
+,"WILLIAMSON, John ",Full Back,0,0,0,0,0,0,0,0,0

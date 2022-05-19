@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARBER, Tommy	Wing Half	
-										
-BARNETT, Albert	Wing Half	
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BENTLEY, Alf	Centre Forward	
-										
-EDMONDSON, John	Goalkeeper	
-										
-EGERTON, Billy	Centre Forward	
-										
-FAY, Jimmy	Centre Half	
-										
-FEEBERY, Jack	Full Back	
-										
-GIMBLETT, Gwilym	Wing Half	
-										
-GREENHALGH, Sam	Centre Half	
-										
-GRIFFITHS, Bob	Wing Half	
-										
-HILTON, Harold	Inside Forward	
-										
-HOBSON, James	Winger	
-										
-HOGAN, Jimmy	Inside Forward	
-										
-HUGHES, Billy	Centre Forward	
-										
-HUNTER, Billy	Winger	
-										
-JONES, Gordon	Inside Forward	
-										
-MARSH, Sam	Inside Forward	
-										
-NEWTON, Sydney	Goalkeeper	
-										
-SLATER, Jack	Full Back	
-										
-SMITH, Joe	Inside Forward	
-										
-STOKES, David	Winger	
-										
-STOTT, William	Full Back	
-										
-TYLDESLEY, James	Goalkeeper	
-										
-VIZARD, Ted	Winger	
-										
-WHITESIDE, Ernie	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARBER, Tommy ",Wing Half,38,4,0,3,0,0,0,0,0
+,"BARNETT, Albert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BAVERSTOCK, Bert ",Full Back,26,0,0,3,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,27,7,0,3,1,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,21,0,0,1,0,0,0,0,0
+,"EGERTON, Billy ",Centre Forward,2,0,0,1,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,29,2,0,3,0,0,0,0,0
+,"FEEBERY, Jack ",Full Back,26,2,2,3,0,0,0,0,0
+,"GIMBLETT, Gwilym ",Wing Half,13,0,0,0,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,13,2,0,0,0,0,0,0,0
+,"GRIFFITHS, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HILTON, Harold ",Inside Forward,16,6,0,0,0,0,0,0,0
+,"HOBSON, James ",Winger,0,0,0,0,0,0,0,0,0
+,"HOGAN, Jimmy ",Inside Forward,13,4,0,2,0,0,0,0,0
+,"HUGHES, Billy ",Centre Forward,13,0,0,0,0,0,0,0,0
+,"HUNTER, Billy ",Winger,4,0,0,0,0,0,0,0,0
+,"JONES, Gordon ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"MARSH, Sam ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"NEWTON, Sydney ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"SLATER, Jack ",Full Back,8,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,37,22,0,3,2,0,0,0,0
+,"STOKES, David ",Winger,37,3,0,3,0,0,0,0,0
+,"STOTT, William ",Full Back,16,0,0,0,0,0,0,0,0
+,"TYLDESLEY, James ",Goalkeeper,3,0,0,2,0,0,0,0,0
+,"VIZARD, Ted ",Winger,33,2,0,3,0,0,0,0,0
+,"WHITESIDE, Ernie ",Wing Half,19,0,0,3,0,0,0,0,0

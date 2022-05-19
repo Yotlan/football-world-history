@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BEARE, George	Winger	
-										
-BERRY, Clarence	Goalkeeper	
-										
-BRADSHAW, Frank	Inside Forward	
-										
-BROWELL, Tommy	Centre Forward	
-										
-BURTON, Andy	Inside Forward	
-										
-DAVIDSON, Willie	Winger	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-GOURLAY, James	Inside Forward	
-										
-GRACIE, Tommy	Inside Forward	
-										
-GRENYER, Alan	Wing Half	
-										
-HARRIS, Val	Wing Half	
-										
-HENDERSON, James	Centre Forward	
-										
-HOLBEM, Walter	Full Back	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-JORDAN, Willie	Centre Forward	
-										
-KELLY, Frank	Winger	
-										
-LACEY, Billy	Winger	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MEUNIER, James	Full Back	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SMITH, Joe 'Stanley'	Winger	
-										
-STEVENSON, William	Full Back	
-										
-UREN, Harold	Winger	
-										
-WELLER, Louis	Full Back	
-										
-YOUNG, Robert	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BALMER, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"BEARE, George ",Winger,30,3,0,5,1,0,0,0,0
+,"BERRY, Clarence ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BRADSHAW, Frank ",Inside Forward,21,8,0,4,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,17,12,0,5,7,0,0,0,0
+,"BURTON, Andy ",Inside Forward,12,4,0,0,0,0,0,0,0
+,"DAVIDSON, Willie ",Winger,25,3,0,4,1,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,34,1,0,5,0,0,0,0,0
+,"GOURLAY, James ",Inside Forward,16,2,0,1,0,0,0,0,0
+,"GRACIE, Tommy ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,3,0,0,0,0,0,0,0,0
+,"HARRIS, Val ",Wing Half,34,0,0,5,0,0,0,0,0
+,"HENDERSON, James ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HOLBEM, Walter ",Full Back,11,0,0,0,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,36,7,0,5,1,0,0,0,0
+,"JORDAN, Willie ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"KELLY, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,6,2,0,1,0,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,31,0,0,5,1,1,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,34,1,1,5,1,0,0,0,0
+,"MEUNIER, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,37,0,0,5,0,0,0,0,0
+,"SMITH, Joe 'Stanley' ",Winger,8,0,0,0,0,0,0,0,0
+,"STEVENSON, William ",Full Back,32,0,0,5,0,0,0,0,0
+,"UREN, Harold ",Winger,8,1,0,0,0,0,0,0,0
+,"WELLER, Louis ",Full Back,1,0,0,0,0,0,0,0,0
+,"YOUNG, Robert ",Centre Half,7,2,2,0,0,0,0,0,0

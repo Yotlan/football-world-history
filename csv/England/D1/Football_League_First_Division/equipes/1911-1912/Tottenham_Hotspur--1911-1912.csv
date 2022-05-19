@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASSETT, Ted	Winger	
-										
-BENTLEY, Frank	Wing Half	
-										
-BLISS, Bert	Inside Forward	
-										
-BOWERING, Ernie	Wing Half	
-										
-BRITTAN, Charlie	Full Back	
-										
-COLLINS, Tom	Full Back	
-										
-CROMPTON, Ellis	Wing Half	
-										
-CURTIS, Jack	Winger	
-										
-DARNELL, Jabez	Wing Half	
-										
-ELLIOTT, Jimmy	Wing Half	
-										
-FORMAN, Tom	Winger	
-										
-GILBOY, Bertram	Inside Forward	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-KENNEDY, Jimmy	Wing Half	
-										
-LIGHTFOOT, Edward	Wing Half	
-										
-LUNN, Tommy	Goalkeeper	
-										
-MASON, Tom	Inside Forward	
-										
-MCTAVISH, Jock	Inside Forward	
-										
-MIDDLEMISS, Bert	Winger	
-										
-MINTER, Billy	Inside Forward	
-										
-MORRIS, Tom	Centre Half	
-										
-NEWMAN, Ernie	Inside Forward	
-										
-RANCE, Charlie	Centre Half	
-										
-STEEL, Danny	Centre Half	
-										
-STEEL, Bobby	Inside Forward	
-										
-TATTERSALL, Wally	Winger	
-										
-WEBSTER, Fred	Full Back	
-										
-WILKES, Fred	Full Back	
-										
-YOUNG, Sandy	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASSETT, Ted ",Winger,0,0,0,0,0,0,0,0,0
+,"BENTLEY, Frank ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BLISS, Bert ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"BOWERING, Ernie ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BRITTAN, Charlie ",Full Back,26,0,0,1,0,0,0,0,0
+,"COLLINS, Tom ",Full Back,33,0,0,1,0,0,0,0,0
+,"CROMPTON, Ellis ",Wing Half,3,0,0,0,0,0,0,0,0
+,"CURTIS, Jack ",Winger,9,0,0,0,0,0,0,0,0
+,"DARNELL, Jabez ",Wing Half,34,1,0,1,0,0,0,0,0
+,"ELLIOTT, Jimmy ",Wing Half,5,2,0,0,0,0,0,0,0
+,"FORMAN, Tom ",Winger,6,0,0,0,0,0,0,0,0
+,"GILBOY, Bertram ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"KENNEDY, Jimmy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"LIGHTFOOT, Edward ",Wing Half,21,0,0,0,0,0,0,0,0
+,"LUNN, Tommy ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"MASON, Tom ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"MCTAVISH, Jock ",Inside Forward,30,3,0,1,0,0,0,0,0
+,"MIDDLEMISS, Bert ",Winger,31,11,1,1,0,0,0,0,0
+,"MINTER, Billy ",Inside Forward,35,17,0,1,0,0,0,0,0
+,"MORRIS, Tom ",Centre Half,2,0,0,0,0,0,0,0,0
+,"NEWMAN, Ernie ",Inside Forward,20,6,0,1,0,0,0,0,0
+,"RANCE, Charlie ",Centre Half,17,0,0,1,0,0,0,0,0
+,"STEEL, Danny ",Centre Half,28,0,0,1,0,0,0,0,0
+,"STEEL, Bobby ",Inside Forward,31,8,0,1,0,0,0,0,0
+,"TATTERSALL, Wally ",Winger,2,0,0,0,0,0,0,0,0
+,"WEBSTER, Fred ",Full Back,6,0,0,0,0,0,0,0,0
+,"WILKES, Fred ",Full Back,9,0,0,0,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,5,3,0,0,0,0,0,0,0

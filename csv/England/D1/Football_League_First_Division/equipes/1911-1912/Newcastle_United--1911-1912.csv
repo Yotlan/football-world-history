@@ -1,73 +1,36 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Andrew	Winger	
-										
-BETTS, Charlie	Full Back	
-										
-BLAKE, Syd	Goalkeeper	
-										
-CARR, Jack	Wing Half	
-										
-DUNCAN, Scott	Winger	
-										
-FINLAY, Jock	Wing Half	
-										
-GIBSON, Bob	Winger	
-										
-HARRISON, Harry	Goalkeeper	
-										
-HAY, Jimmy	Wing Half	
-										
-HEWISON, Bob	Wing Half	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-JOBEY, George	Wing Half	
-										
-KELLY, William	Inside Forward	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LOW, Wilf	Centre Half	
-										
-LOWES, Tommy	Inside Forward	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCTAVISH, Jock	Inside Forward	
-										
-METCALF, Arthur	Inside Forward	
-										
-PEART, Jack	Centre Forward	
-										
-RUTHERFORD, Jock	Winger	
-										
-SCOTT, John	Winger	
-										
-SINCLAIR, Thomas	Goalkeeper	
-										
-STEWART, Jimmy	Inside Forward	
-										
-TATTON, Jack	Winger	
-										
-THOMAS, Jack	Inside Forward	
-										
-THOMPSON, George	Winger	
-										
-VEITCH, Colin	Centre Half	
-										
-WAUGH, Bob	Full Back	
-										
-WHITSON, Tony	Full Back	
-										
-WILLIS, David	Wing Half	
-										
-WILSON, George	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Andrew ",Winger,5,1,0,0,0,0,0,0,0
+,"BETTS, Charlie ",Full Back,0,0,0,0,0,0,0,0,0
+,"BLAKE, Syd ",Goalkeeper,9,0,0,1,0,0,0,0,0
+,"CARR, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DUNCAN, Scott ",Winger,12,1,0,0,0,0,0,0,0
+,"FINLAY, Jock ",Wing Half,7,3,0,1,0,0,0,0,0
+,"GIBSON, Bob ",Winger,2,0,0,0,0,0,0,0,0
+,"HARRISON, Harry ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HAY, Jimmy ",Wing Half,35,7,0,1,0,0,0,0,0
+,"HEWISON, Bob ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,27,14,0,1,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,15,4,0,0,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,17,0,0,1,0,0,0,0,0
+,"JOBEY, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"KELLY, William ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,27,0,0,0,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,35,3,0,1,0,0,0,0,0
+,"LOWES, Tommy ",Inside Forward,13,3,0,0,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,34,3,3,1,0,0,0,0,0
+,"MCTAVISH, Jock ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"METCALF, Arthur ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,8,3,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,23,4,0,1,0,0,0,0,0
+,"SCOTT, John ",Winger,6,1,0,0,0,0,0,0,0
+,"SINCLAIR, Thomas ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,33,14,0,1,0,0,0,0,0
+,"TATTON, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"THOMAS, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"THOMPSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,5,1,0,1,0,0,0,0,0
+,"WAUGH, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"WHITSON, Tony ",Full Back,20,0,0,0,0,0,0,0,0
+,"WILLIS, David ",Wing Half,33,0,0,0,0,0,0,0,0
+,"WILSON, George ",Winger,32,2,0,1,0,0,0,0,0

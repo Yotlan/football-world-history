@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1911/12
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRADBURY, Bill	Wing Half	
-										
-BROAD, Tommy	Winger	
-										
-BUXTON, Steve	Full Back	
-										
-COOK, Billy	Full Back	
-										
-COPE, Billy	Full Back	
-										
-DONNACHIE, Joe	Winger	
-										
-FAY, Jimmy	Centre Half	
-										
-GEE, Arthur	Centre Forward	
-										
-HARDMAN, Jack	Wing Half	
-										
-HODSON, Jimmy	Full Back	
-										
-HUNTER, George	Wing Half	
-										
-JONES, Evan	Inside Forward	
-										
-MACDONALD, Hugh	Goalkeeper	
-										
-MARRISON, Tom	Inside Forward	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-MILLER, Stan	Winger	
-										
-MOFFAT, Hugh	Wing Half	
-										
-MONTGOMERY, Bill	Inside Forward	
-										
-PILKINGTON, Elliot	Centre Half	
-										
-SALLEY, George	Centre Half	
-										
-TOWARD, Alf	Centre Forward	
-										
-WALDERS, David	Centre Half	
-										
-WILSON, Clare	Wing Half	
-										
-WILSON, David	Wing Half	
-										
-WOODGER, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRADBURY, Bill ",Wing Half,7,2,0,0,0,0,0,0,0
+,"BROAD, Tommy ",Winger,36,1,0,4,0,0,0,0,0
+,"BUXTON, Steve ",Full Back,23,0,0,1,0,0,0,0,0
+,"COOK, Billy ",Full Back,17,2,2,3,0,0,0,0,0
+,"COPE, Billy ",Full Back,10,0,0,0,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,34,2,0,4,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,2,0,0,0,0,0,0,0,0
+,"GEE, Arthur ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"HARDMAN, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HODSON, Jimmy ",Full Back,26,1,0,4,0,0,0,0,0
+,"HUNTER, George ",Wing Half,17,1,0,2,0,0,0,0,0
+,"JONES, Evan ",Inside Forward,35,17,1,4,0,0,0,0,0
+,"MACDONALD, Hugh ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MARRISON, Tom ",Inside Forward,17,4,0,0,0,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,35,0,0,4,0,0,0,0,0
+,"MILLER, Stan ",Winger,2,0,0,0,0,0,0,0,0
+,"MOFFAT, Hugh ",Wing Half,37,3,0,4,0,0,0,0,0
+,"MONTGOMERY, Bill ",Inside Forward,25,6,0,4,0,0,0,0,0
+,"PILKINGTON, Elliot ",Centre Half,1,0,0,0,0,0,0,0,0
+,"SALLEY, George ",Centre Half,3,0,0,0,0,0,0,0,0
+,"TOWARD, Alf ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"WALDERS, David ",Centre Half,10,0,0,1,0,0,0,0,0
+,"WILSON, Clare ",Wing Half,9,0,0,1,0,0,0,0,0
+,"WILSON, David ",Wing Half,34,2,0,4,1,0,0,0,0
+,"WOODGER, George ",Inside Forward,27,5,0,4,2,0,0,0,0
