@@ -1,87 +1,43 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERWICK, William	Inside Forward	
-										
-BISSETT, Jimmy	Full Back	
-										
-BLAIR, John	Centre Forward	
-										
-BREWSTER, George 'Dod'	Centre Half	
-										
-BROWN, William	Wing Half	
-										
-BURTON, Matt	Winger	
-										
-CHEDGZOY, Sam	Winger	
-										
-CLENNELL, Joe	Inside Forward	
-										
-DONNACHIE, Joe	Winger	
-										
-DOWNS, Dickie	Full Back	
-										
-EVANS, Billy	Full Back	
-										
-FERN, Tommy	Goalkeeper	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-GAULT, Ernie	Inside Forward	
-										
-GRENYER, Alan	Wing Half	
-										
-HARRISON, George	Winger	
-										
-HENDERSON, James	Centre Forward	
-										
-HILTON, Percy	Wing Half	
-										
-HOWARTH, Horace	Inside Forward	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-JONES, George	Winger	
-										
-KEARSLAKE, Joe	Winger	
-										
-KIRSOPP, Billy	Inside Forward	
-										
-LEIVESLEY, Walter	Centre Half	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAYSON, Tommy	Inside Forward	
-										
-MEHAFFY, Bert	Goalkeeper	
-										
-MILLER, Jimmy	Winger	
-										
-MITCHELL, Frank	Goalkeeper	
-										
-PAGE, Jack	Full Back	
-										
-PARKER, Bobby	Centre Forward	
-										
-PEACOCK, Joe	Wing Half	
-										
-RIGSBY, Bert	Inside Forward	
-										
-ROBINSON, Alfred	Inside Forward	
-										
-ROBINSON, Thomas	Inside Forward	
-										
-ROBINSON, Billy	Wing Half	
-										
-THOMPSON, Bob	Full Back	
-										
-WALL, Alec	Inside Forward	
-										
-WAREING, Billy	Wing Half	
-										
-WELLER, Louis	Full Back	
-										
-WILLIAMS, Owen	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERWICK, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BISSETT, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"BLAIR, John ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"BREWSTER, George 'Dod' ",Centre Half,5,0,0,0,0,0,0,0,0
+,"BROWN, William ",Wing Half,20,0,0,1,0,0,0,0,0
+,"BURTON, Matt ",Winger,0,0,0,0,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,18,3,1,1,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,18,12,0,1,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,16,0,0,0,0,0,0,0,0
+,"DOWNS, Dickie ",Full Back,12,0,0,0,0,0,0,0,0
+,"EVANS, Billy ",Full Back,2,0,0,0,0,0,0,0,0
+,"FERN, Tommy ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,37,1,0,1,0,0,0,0,0
+,"GAULT, Ernie ",Inside Forward,21,12,0,1,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,33,5,0,1,0,0,0,0,0
+,"HARRISON, George ",Winger,25,0,0,1,0,0,0,0,0
+,"HENDERSON, James ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HILTON, Percy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HOWARTH, Horace ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,12,1,0,1,0,0,0,0,0
+,"JONES, George ",Winger,18,1,0,0,0,0,0,0,0
+,"KEARSLAKE, Joe ",Winger,1,1,0,0,0,0,0,0,0
+,"KIRSOPP, Billy ",Inside Forward,29,14,0,0,0,0,0,0,0
+,"LEIVESLEY, Walter ",Centre Half,5,0,0,0,0,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,16,2,0,0,0,0,0,0,0
+,"MAYSON, Tommy ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"MEHAFFY, Bert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MILLER, Jimmy ",Winger,8,1,0,0,0,0,0,0,0
+,"MITCHELL, Frank ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"PAGE, Jack ",Full Back,8,0,0,1,0,0,0,0,0
+,"PARKER, Bobby ",Centre Forward,8,4,0,0,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,9,2,0,0,0,0,0,0,0
+,"RIGSBY, Bert ",Inside Forward,14,5,0,0,0,0,0,0,0
+,"ROBINSON, Alfred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Thomas ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Billy ",Wing Half,7,0,0,0,0,0,0,0,0
+,"THOMPSON, Bob ",Full Back,17,0,0,0,0,0,0,0,0
+,"WALL, Alec ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"WAREING, Billy ",Wing Half,15,0,0,0,0,0,0,0,0
+,"WELLER, Louis ",Full Back,28,0,0,1,0,0,0,0,0
+,"WILLIAMS, Owen ",Wing Half,2,0,0,0,0,0,0,0,0

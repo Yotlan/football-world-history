@@ -1,87 +1,43 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Tommy	Centre Half	
-										
-BARSON, Frank	Centre Half	
-										
-BLACKBURN, Ernie	Full Back	
-										
-BOURNE, Hubert	Inside Forward	
-										
-BOYMAN, William	Centre Forward	
-										
-BRADFORD, Joe	Centre Forward	
-										
-CORBETT, Joseph	Wing Half	
-										
-DAVIS, Arthur	Inside Forward	
-										
-DORRELL, Arthur	Winger	
-										
-DUCAT, Andy	Wing Half	
-										
-EDGLEY, Harry	Winger	
-										
-FISHER, Charles	Wing Half	
-										
-HADLEY, George	Wing Half	
-										
-HAMPSON, John	Centre Half	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-HUMPHRIES, Howard	Inside Forward	
-										
-KIRTON, Billy	Inside Forward	
-										
-LAWRENCE, Jimmy	Full Back	
-										
-LEE, Jimmy	Goalkeeper	
-										
-MAIDEN, Walter	Full Back	
-										
-MENLOVE, Bertie	Centre Forward	
-										
-MOSS, Frank	Wing Half	
-										
-NASH, Harry	Wing Half	
-										
-NEWMAN, Frank	Winger	
-										
-PENDLETON, Jack	Wing Half	
-										
-SLOLEY, Dick	Inside Forward	
-										
-SMART, Tommy	Full Back	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-STEPHENSON, George	Inside Forward	
-										
-STEPHENSON, Jimmy	Winger	
-										
-THOMPSON, Jack	Full Back	
-										
-WALKER, Billy	Inside Forward	
-										
-WALLACE, Charlie	Winger	
-										
-WEBB, George	Centre Half	
-										
-WESTON, Tommy	Full Back	
-										
-WIGMORE, Clive	Wing Half	
-										
-WORRELL, Joseph	Wing Half	
-										
-YORK, Dicky	Winger	
-										
-YOUNG, Andrew	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Tommy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"BARSON, Frank ",Centre Half,26,4,3,6,0,0,0,0,0
+,"BLACKBURN, Ernie ",Full Back,8,0,0,1,0,0,0,0,0
+,"BOURNE, Hubert ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"BOYMAN, William ",Centre Forward,10,8,0,0,0,0,0,0,0
+,"BRADFORD, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CORBETT, Joseph ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DAVIS, Arthur ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"DORRELL, Arthur ",Winger,18,4,0,1,0,0,0,0,0
+,"DUCAT, Andy ",Wing Half,20,1,0,6,0,0,0,0,0
+,"EDGLEY, Harry ",Winger,19,1,0,5,1,0,0,0,0
+,"FISHER, Charles ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HADLEY, George ",Wing Half,4,0,0,0,0,0,0,0,0
+,"HAMPSON, John ",Centre Half,8,0,0,1,0,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,7,0,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,34,0,0,6,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,31,0,0,4,0,0,0,0,0
+,"HUMPHRIES, Howard ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,32,15,0,6,1,0,0,0,0
+,"LAWRENCE, Jimmy ",Full Back,13,0,0,1,0,0,0,0,0
+,"LEE, Jimmy ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"MAIDEN, Walter ",Full Back,1,0,0,0,0,0,0,0,0
+,"MENLOVE, Bertie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,16,0,0,2,0,0,0,0,0
+,"NASH, Harry ",Wing Half,7,0,0,0,0,0,0,0,0
+,"NEWMAN, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"PENDLETON, Jack ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SLOLEY, Dick ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,11,0,0,4,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,39,27,1,6,2,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"STEPHENSON, Jimmy ",Winger,5,0,0,0,0,0,0,0,0
+,"THOMPSON, Jack ",Full Back,17,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,15,8,0,6,5,0,0,0,0
+,"WALLACE, Charlie ",Winger,31,1,0,6,0,0,0,0,0
+,"WEBB, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WESTON, Tommy ",Full Back,30,0,0,5,0,0,0,0,0
+,"WIGMORE, Clive ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WORRELL, Joseph ",Wing Half,4,0,0,0,0,0,0,0,0
+,"YORK, Dicky ",Winger,17,1,0,0,0,0,0,0,0
+,"YOUNG, Andrew ",Centre Forward,6,2,0,0,0,0,0,0,0

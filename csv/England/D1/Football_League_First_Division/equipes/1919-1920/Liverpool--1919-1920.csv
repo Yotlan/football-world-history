@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Tom	Goalkeeper	
-										
-BAKER, Howard	Goalkeeper	
-										
-BAMBER, Jack	Wing Half	
-										
-BENNETT, Tommy	Centre Forward	
-										
-BROMILOW, Tom	Wing Half	
-										
-CAMPBELL, Kenny	Goalkeeper	
-										
-CHAMBERS, Harry	Inside Forward	
-										
-FORSHAW, Dick	Inside Forward	
-										
-JENKINSON, Bill	Full Back	
-										
-JOHNSON, Dick	Centre Forward	
-										
-LACEY, Billy	Winger	
-										
-LAMB, Walter	Full Back	
-										
-LEWIS, Harry	Inside Forward	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LOWE, Harry	Wing Half	
-										
-LUCAS, Tommy	Full Back	
-										
-MATTHEWS, Billy	Central Defender	
-										
-MCKINLAY, Donald	Full Back	
-										
-MCNAB, Jock	Wing Half	
-										
-MILLER, Jack	Inside Forward	
-										
-MILLER, Tom	Centre Forward	
-										
-MOLYNEUX, William	Wing Half	
-										
-PAGNAM, Fred	Centre Forward	
-										
-PEARSON, Bert	Winger	
-										
-PURSELL, Bob	Full Back	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SHELDON, Jackie	Winger	
-										
-SPEAKMAN, Sam	Full Back	
-										
-STANLEY, Tom	Full Back	
-										
-STANSFIELD, Jimmy	Full Back	
-										
-WADE, Ted	Inside Forward	
-										
-WADSWORTH, Harold	Winger	
-										
-WADSWORTH, Walter	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Tom ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BAKER, Howard ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BAMBER, Jack ",Wing Half,23,1,0,5,0,0,0,0,0
+,"BENNETT, Tommy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BROMILOW, Tom ",Wing Half,23,1,0,5,0,0,0,0,0
+,"CAMPBELL, Kenny ",Goalkeeper,32,0,0,5,0,0,0,0,0
+,"CHAMBERS, Harry ",Inside Forward,34,15,1,0,0,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,23,7,0,0,0,0,0,0,0
+,"JENKINSON, Bill ",Full Back,13,0,0,0,0,0,0,0,0
+,"JOHNSON, Dick ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,33,3,0,5,2,0,0,0,0
+,"LAMB, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"LEWIS, Harry ",Inside Forward,23,7,0,5,2,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,27,0,0,5,0,0,0,0,0
+,"LOWE, Harry ",Wing Half,5,0,0,0,0,0,0,0,0
+,"LUCAS, Tommy ",Full Back,16,0,0,0,0,0,0,0,0
+,"MATTHEWS, Billy ",Central Defender,1,0,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,41,4,0,5,0,0,0,0,0
+,"MCNAB, Jock ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MILLER, Jack ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"MILLER, Tom ",Centre Forward,20,11,1,5,2,0,0,0,0
+,"MOLYNEUX, William ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PAGNAM, Fred ",Centre Forward,8,4,0,0,0,0,0,0,0
+,"PEARSON, Bert ",Winger,34,4,0,5,0,0,0,0,0
+,"PURSELL, Bob ",Full Back,2,0,0,0,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"SHELDON, Jackie ",Winger,37,1,0,5,2,0,0,0,0
+,"SPEAKMAN, Sam ",Full Back,4,0,0,0,0,0,0,0,0
+,"STANLEY, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"STANSFIELD, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"WADE, Ted ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WADSWORTH, Harold ",Winger,8,0,0,0,0,0,0,0,0
+,"WADSWORTH, Walter ",Centre Half,33,0,0,5,0,0,0,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARNETT, Fred	Winger	
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BUCHAN, Tom	Wing Half	
-										
-CARTMAN, Bert	Winger	
-										
-DAVIES, Alf	Centre Half	
-										
-DONALDSON, Alex	Winger	
-										
-DRABBLE, Frank	Goalkeeper	
-										
-FAY, Jimmy	Centre Half	
-										
-FEEBERY, Jack	Full Back	
-										
-GIMBLETT, Gwilym	Wing Half	
-										
-HERBERT, Billy	Inside Forward	
-										
-HILTON, Harold	Inside Forward	
-										
-HODSON, James	Full Back	
-										
-HOWARTH, Jack	Goalkeeper	
-										
-HUGHES, Joe	Goalkeeper	
-										
-HULME, William	Wing Half	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Jimmy	Full Back	
-										
-LONGWORTH, Bruce	Wing Half	
-										
-NORTON, Billy	Full Back	
-										
-PICKUP, Jack	Winger	
-										
-ROBERTS, Frank	Centre Forward	
-										
-ROWLEY, Walter	Centre Half	
-										
-SCURR, Tommy	Winger	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SMITH, Joe	Inside Forward	
-										
-STOKES, David	Winger	
-										
-VIZARD, Ted	Winger	
-										
-WATSON, Andrew	Full Back	
-										
-WINTERBURN, Alf	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARNETT, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"BAVERSTOCK, Bert ",Full Back,17,0,0,0,0,0,0,0,0
+,"BUCHAN, Tom ",Wing Half,42,8,0,0,0,0,0,0,0
+,"CARTMAN, Bert ",Winger,2,0,0,0,0,0,0,0,0
+,"DAVIES, Alf ",Centre Half,8,1,0,0,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,30,0,0,1,0,0,0,0,0
+,"DRABBLE, Frank ",Goalkeeper,28,0,0,1,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,25,0,0,1,0,0,0,0,0
+,"FEEBERY, Jack ",Full Back,25,4,2,1,0,0,0,0,0
+,"GIMBLETT, Gwilym ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HERBERT, Billy ",Inside Forward,21,5,0,1,0,0,0,0,0
+,"HILTON, Harold ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HODSON, James ",Full Back,7,0,0,0,0,0,0,0,0
+,"HOWARTH, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HUGHES, Joe ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"HULME, William ",Wing Half,3,0,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,34,1,0,1,0,0,0,0,0
+,"JONES, Jimmy ",Full Back,8,0,0,0,0,0,0,0,0
+,"LONGWORTH, Bruce ",Wing Half,1,0,0,0,0,0,0,0,0
+,"NORTON, Billy ",Full Back,0,0,0,0,0,0,0,0,0
+,"PICKUP, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,40,26,3,1,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,26,2,0,0,0,0,0,0,0
+,"SCURR, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,24,1,0,1,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,27,18,0,1,0,0,0,0,0
+,"STOKES, David ",Winger,11,1,0,0,0,0,0,0,0
+,"VIZARD, Ted ",Winger,39,4,0,1,0,0,0,0,0
+,"WATSON, Andrew ",Full Back,25,0,0,1,0,0,0,0,0
+,"WINTERBURN, Alf ",Inside Forward,1,0,0,0,0,0,0,0,0

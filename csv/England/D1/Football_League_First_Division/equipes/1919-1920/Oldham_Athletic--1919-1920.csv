@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Peter	Winger	
-										
-BRADBURY, Bill	Wing Half	
-										
-BURROWS, George	Centre Forward	
-										
-CARLISLE, Dick	Centre Half	
-										
-CHADDERTON, Albert	Full Back	
-										
-COOK, Billy	Full Back	
-										
-CUNLIFFE, Tommy	Winger	
-										
-DOLPHIN, Alf	Winger	
-										
-DOUGHERTY, Joe	Wing Half	
-										
-GEE, Arthur	Centre Forward	
-										
-GOODWIN, Bill	Full Back	
-										
-GRUNDY, Harry	Full Back	
-										
-HALLIGAN, Billy	Inside Forward	
-										
-HEMSLEY, Charles	Centre Forward	
-										
-HOOPER, Danny	Centre Half	
-										
-HOOPER, Bill	Inside Forward	
-										
-JONES, Tom	Inside Forward	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-PILKINGTON, Elliot	Centre Half	
-										
-SMITHURST, Edgar	Winger	
-										
-STEWART, Bob	Full Back	
-										
-TATTON, Jack	Winger	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-THOMPSON, Jimmy	Winger	
-										
-WALL, George	Winger	
-										
-WALTERS, Joe	Inside Forward	
-										
-WILSON, David	Wing Half	
-										
-WOLSTENHOLME, Arthur	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Peter ",Winger,2,0,0,0,0,0,0,0,0
+,"BRADBURY, Bill ",Wing Half,39,3,0,1,0,0,0,0,0
+,"BURROWS, George ",Centre Forward,5,1,0,1,0,0,0,0,0
+,"CARLISLE, Dick ",Centre Half,1,0,0,0,0,0,0,0,0
+,"CHADDERTON, Albert ",Full Back,1,0,0,0,0,0,0,0,0
+,"COOK, Billy ",Full Back,20,0,0,0,0,0,0,0,0
+,"CUNLIFFE, Tommy ",Winger,2,0,0,0,0,0,0,0,0
+,"DOLPHIN, Alf ",Winger,16,0,0,0,0,0,0,0,0
+,"DOUGHERTY, Joe ",Wing Half,15,5,0,1,0,0,0,0,0
+,"GEE, Arthur ",Centre Forward,30,13,0,0,0,0,0,0,0
+,"GOODWIN, Bill ",Full Back,25,0,0,0,0,0,0,0,0
+,"GRUNDY, Harry ",Full Back,7,0,0,0,0,0,0,0,0
+,"HALLIGAN, Billy ",Inside Forward,18,6,0,0,0,0,0,0,0
+,"HEMSLEY, Charles ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"HOOPER, Danny ",Centre Half,5,0,0,0,0,0,0,0,0
+,"HOOPER, Bill ",Inside Forward,5,1,0,1,0,0,0,0,0
+,"JONES, Tom ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,18,0,0,1,0,0,0,0,0
+,"PILKINGTON, Elliot ",Centre Half,37,1,0,1,0,0,0,0,0
+,"SMITHURST, Edgar ",Winger,2,0,0,0,0,0,0,0,0
+,"STEWART, Bob ",Full Back,22,0,0,1,0,0,0,0,0
+,"TATTON, Jack ",Winger,17,1,0,0,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,24,0,0,0,0,0,0,0,0
+,"THOMPSON, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"WALL, George ",Winger,40,4,1,1,0,0,0,0,0
+,"WALTERS, Joe ",Inside Forward,30,6,0,1,0,0,0,0,0
+,"WILSON, David ",Wing Half,42,0,0,1,0,0,0,0,0
+,"WOLSTENHOLME, Arthur ",Inside Forward,22,2,0,1,0,0,0,0,0

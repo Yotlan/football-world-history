@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARLOW, Cyril	Full Back	
-										
-BEEL, George	Centre Forward	
-										
-BISSETT, George	Inside Forward	
-										
-EAVES, Bill	Inside Forward	
-										
-FORSTER, Tommy	Wing Half	
-										
-GRIMWOOD, Jack	Wing Half	
-										
-HARRIS, Frank	Wing Half	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-HODGE, Jimmy	Full Back	
-										
-HODGES, Frank	Winger	
-										
-HOPKIN, Fred	Winger	
-										
-MEEHAN, Tommy	Wing Half	
-										
-MEREDITH, Billy	Winger	
-										
-MEW, Jack	Goalkeeper	
-										
-MONTGOMERY, Jim	Wing Half	
-										
-MOORE, Charlie	Full Back	
-										
-NUTTALL, Jimmy	Full Back	
-										
-POTTS, Arthur	Inside Forward	
-										
-PRENTICE, John	Winger	
-										
-ROBINSON, James	Winger	
-										
-SAPSFORD, George	Inside Forward	
-										
-SILCOCK, Jack	Full Back	
-										
-SPENCE, Joe	Winger	
-										
-SPRATT, Walter	Full Back	
-										
-SWANN, John	Goalkeeper	
-										
-TOMS, Bill	Inside Forward	
-										
-WHALLEY, Arthur	Centre Half	
-										
-WILLIAMSON, John	Inside Forward	
-										
-WOODCOCK, Wilf	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARLOW, Cyril ",Full Back,7,0,0,0,0,0,0,0,0
+,"BEEL, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BISSETT, George ",Inside Forward,22,6,0,0,0,0,0,0,0
+,"EAVES, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FORSTER, Tommy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"GRIMWOOD, Jack ",Wing Half,22,1,0,2,0,0,0,0,0
+,"HARRIS, Frank ",Wing Half,7,1,0,0,0,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,32,2,0,2,0,0,0,0,0
+,"HODGE, Jimmy ",Full Back,16,2,0,0,0,0,0,0,0
+,"HODGES, Frank ",Winger,18,4,0,0,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,39,5,0,2,0,0,0,0,0
+,"MEEHAN, Tommy ",Wing Half,36,2,0,2,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,19,2,0,2,0,0,0,0,0
+,"MEW, Jack ",Goalkeeper,42,0,0,2,0,0,0,0,0
+,"MONTGOMERY, Jim ",Wing Half,14,1,0,0,0,0,0,0,0
+,"MOORE, Charlie ",Full Back,36,0,0,2,0,0,0,0,0
+,"NUTTALL, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"POTTS, Arthur ",Inside Forward,4,0,0,1,0,0,0,0,0
+,"PRENTICE, John ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBINSON, James ",Winger,2,0,0,0,0,0,0,0,0
+,"SAPSFORD, George ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,40,0,0,1,0,0,0,0,0
+,"SPENCE, Joe ",Winger,32,14,0,1,0,0,0,0,0
+,"SPRATT, Walter ",Full Back,1,0,0,0,0,0,0,0,0
+,"SWANN, John ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"TOMS, Bill ",Inside Forward,12,3,0,1,1,0,0,0,0
+,"WHALLEY, Arthur ",Centre Half,23,0,0,2,0,0,0,0,0
+,"WILLIAMSON, John ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WOODCOCK, Wilf ",Inside Forward,28,11,0,2,1,0,0,0,0

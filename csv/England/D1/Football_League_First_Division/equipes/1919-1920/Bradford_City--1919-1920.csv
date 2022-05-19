@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRCHALL, Dick	Winger	
-										
-BOND, Dickie	Winger	
-										
-BOOCOCK, Irvine	Full Back	
-										
-BROWN, Craig	Full Back	
-										
-CARROLL, Joe	Wing Half	
-										
-DOOLAN, Sandy	Full Back	
-										
-DUCKETT, Don	Wing Half	
-										
-EWART, Jock	Goalkeeper	
-										
-FOX, Oscar	Inside Forward	
-										
-GOLDTHORPE, Ernie	Centre Forward	
-										
-HANDLEY, George	Winger	
-										
-HARGREAVES, Joe	Wing Half	
-										
-HEATH, Ernie	Goalkeeper	
-										
-KEMP, Gilbert	Inside Forward	
-										
-LOGAN, Peter	Winger	
-										
-MARSH, Joe	Inside Forward	
-										
-MARSHALL, Jimmy	Centre Forward	
-										
-MCDONALD, Jimmy	Wing Half	
-										
-MCGINN, Sandy	Wing Half	
-										
-MCILVENNY, Jimmy	Inside Forward	
-										
-MYERS, Colin	Inside Forward	
-										
-NORTON, Horace	Inside Forward	
-										
-POTTS, Fred	Full Back	
-										
-QUINN, Peter	Inside Forward	
-										
-ROBB, Tommy	Wing Half	
-										
-STANSFIELD, Jack	Winger	
-										
-STORER, Charlie	Centre Half	
-										
-WADDELL, George	Wing Half	
-										
-WALDEN, Harold	Centre Forward	
-										
-WELLOCK, Maurice	Centre Forward	
-										
-WILD, Bob	Wing Half	
-										
-WILKINSON, Algy	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRCHALL, Dick ",Winger,0,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,41,11,4,4,2,1,0,0,0
+,"BOOCOCK, Irvine ",Full Back,16,0,0,0,0,0,0,0,0
+,"BROWN, Craig ",Full Back,6,0,0,0,0,0,0,0,0
+,"CARROLL, Joe ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DOOLAN, Sandy ",Full Back,20,0,0,4,0,0,0,0,0
+,"DUCKETT, Don ",Wing Half,21,0,0,0,0,0,0,0,0
+,"EWART, Jock ",Goalkeeper,40,0,0,4,0,0,0,0,0
+,"FOX, Oscar ",Inside Forward,29,8,0,3,1,0,0,0,0
+,"GOLDTHORPE, Ernie ",Centre Forward,15,3,0,4,3,0,0,0,0
+,"HANDLEY, George ",Winger,13,1,0,0,0,0,0,0,0
+,"HARGREAVES, Joe ",Wing Half,39,1,0,4,0,0,0,0,0
+,"HEATH, Ernie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"KEMP, Gilbert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LOGAN, Peter ",Winger,22,1,0,4,1,0,0,0,0
+,"MARSH, Joe ",Inside Forward,13,2,0,1,0,0,0,0,0
+,"MARSHALL, Jimmy ",Centre Forward,17,7,0,0,0,0,0,0,0
+,"MCDONALD, Jimmy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCGINN, Sandy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCILVENNY, Jimmy ",Inside Forward,31,13,0,4,0,0,0,0,0
+,"MYERS, Colin ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"NORTON, Horace ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"POTTS, Fred ",Full Back,42,0,0,4,0,0,0,0,0
+,"QUINN, Peter ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"ROBB, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"STANSFIELD, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"STORER, Charlie ",Centre Half,41,0,0,4,0,0,0,0,0
+,"WADDELL, George ",Wing Half,15,0,0,4,0,0,0,0,0
+,"WALDEN, Harold ",Centre Forward,12,4,0,0,0,0,0,0,0
+,"WELLOCK, Maurice ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WILD, Bob ",Wing Half,3,0,0,0,0,0,0,0,0
+,"WILKINSON, Algy ",Goalkeeper,1,0,0,0,0,0,0,0,0

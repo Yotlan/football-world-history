@@ -1,87 +1,43 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Tommy	Centre Half	
-										
-BERTRAM, Billy	Inside Forward	
-										
-BEST, Jerry	Winger	
-										
-BOOTH, Tommy	Inside Forward	
-										
-BRADLEY, Bill	Goalkeeper	
-										
-COOPER, Edward	Winger	
-										
-CURRY, Tom	Wing Half	
-										
-DARK, Alf	Centre Half	
-										
-DIXON, Stan	Centre Half	
-										
-FINLAY, Jock	Wing Half	
-										
-GIBSON, Bob	Winger	
-										
-HAGAN, Alfie	Inside Forward	
-										
-HALL, Tom	Inside Forward	
-										
-HAMPSON, Billy	Full Back	
-										
-HENDERSON, James	Inside Forward	
-										
-HENDERSON, Tommy	Full Back	
-										
-HEWISON, Bob	Wing Half	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-HUNTER, James	Full Back	
-										
-KETTLE, Billy	Winger	
-										
-KIDD, Ernest	Winger	
-										
-KING, John	Inside Forward	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LOW, Wilf	Centre Half	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCKECHNIE, Jimmy	Full Back	
-										
-MELLOR, William	Goalkeeper	
-										
-MOONEY, Peter	Wing Half	
-										
-NEWTON, Billy	Wing Half	
-										
-PHILLIPSON, Tom	Centre Forward	
-										
-PYKE, George	Centre Forward	
-										
-RAINNIE, Alex	Wing Half	
-										
-RAMSAY, Alex	Winger	
-										
-ROBINSON, Ray	Winger	
-										
-SMAILES, Andy	Inside Forward	
-										
-SPILSBURY, Albert	Goalkeeper	
-										
-SWAN, Chris	Inside Forward	
-										
-WAKE, Harry	Wing Half	
-										
-WILSON, Jack	Wing Half	
-										
-WILSON, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Tommy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"BERTRAM, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"BEST, Jerry ",Winger,2,0,0,0,0,0,0,0,0
+,"BOOTH, Tommy ",Inside Forward,15,4,0,0,0,0,0,0,0
+,"BRADLEY, Bill ",Goalkeeper,21,0,0,1,0,0,0,0,0
+,"COOPER, Edward ",Winger,11,0,0,0,0,0,0,0,0
+,"CURRY, Tom ",Wing Half,37,0,0,2,0,0,0,0,0
+,"DARK, Alf ",Centre Half,0,0,0,0,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,21,5,0,2,1,0,0,0,0
+,"FINLAY, Jock ",Wing Half,36,0,0,1,0,0,0,0,0
+,"GIBSON, Bob ",Winger,0,0,0,0,0,0,0,0,0
+,"HAGAN, Alfie ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"HALL, Tom ",Inside Forward,12,1,0,2,1,0,0,0,0
+,"HAMPSON, Billy ",Full Back,12,0,0,0,0,0,0,0,0
+,"HENDERSON, James ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"HENDERSON, Tommy ",Full Back,0,0,0,0,0,0,0,0,0
+,"HEWISON, Bob ",Wing Half,3,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,24,9,0,2,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,39,1,1,2,0,0,0,0,0
+,"HUNTER, James ",Full Back,0,0,0,0,0,0,0,0,0
+,"KETTLE, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"KIDD, Ernest ",Winger,0,0,0,0,0,0,0,0,0
+,"KING, John ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,20,0,0,1,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,38,0,0,2,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,33,0,0,2,0,0,0,0,0
+,"MCKECHNIE, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"MELLOR, William ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MOONEY, Peter ",Wing Half,8,0,0,1,0,0,0,0,0
+,"NEWTON, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PHILLIPSON, Tom ",Centre Forward,10,3,0,0,0,0,0,0,0
+,"PYKE, George ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"RAINNIE, Alex ",Wing Half,1,0,0,0,0,0,0,0,0
+,"RAMSAY, Alex ",Winger,32,2,0,2,0,0,0,0,0
+,"ROBINSON, Ray ",Winger,27,4,0,2,0,0,0,0,0
+,"SMAILES, Andy ",Inside Forward,23,10,0,0,0,0,0,0,0
+,"SPILSBURY, Albert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SWAN, Chris ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"WAKE, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WILSON, Jack ",Wing Half,7,2,0,0,0,0,0,0,0
+,"WILSON, Billy ",Wing Half,0,0,0,0,0,0,0,0,0

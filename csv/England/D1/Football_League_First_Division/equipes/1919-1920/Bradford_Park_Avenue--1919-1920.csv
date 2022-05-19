@@ -1,45 +1,22 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAUCHOP, Jimmy	Inside Forward	
-										
-BLACKHAM, Sam	Full Back	
-										
-BOYLE, Owen	Wing Half	
-										
-BROWN, Tommy	Wing Half	
-										
-CROWTHER, George	Centre Forward	
-										
-CROZIER, Joe	Wing Half	
-										
-DICKINSON, Wally	Full Back	
-										
-HOWIE, David	Centre Half	
-										
-HOWLING, Teddy	Goalkeeper	
-										
-KEETLEY, Tom	Centre Forward	
-										
-LITTLE, Tommy	Inside Forward	
-										
-LOUGHRAN, Tommy	Inside Forward	
-										
-MCCANDLESS, Jack	Winger	
-										
-MCLEAN, David	Centre Forward	
-										
-SCATTERGOOD, Ernie	Goalkeeper	
-										
-SCOTT, Jack	Wing Half	
-										
-SMITH, Cliff	Centre Forward	
-										
-TURNBULL, Bobby	Winger	
-										
-WAITE, George	Inside Forward	
-										
-WATSON, Sandy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAUCHOP, Jimmy ",Inside Forward,42,11,0,4,2,0,0,0,0
+,"BLACKHAM, Sam ",Full Back,32,0,0,4,0,0,0,0,0
+,"BOYLE, Owen ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROWN, Tommy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"CROWTHER, George ",Centre Forward,9,0,0,0,0,0,0,0,0
+,"CROZIER, Joe ",Wing Half,38,1,0,4,0,0,0,0,0
+,"DICKINSON, Wally ",Full Back,36,0,0,3,0,0,0,0,0
+,"HOWIE, David ",Centre Half,41,0,0,4,0,0,0,0,0
+,"HOWLING, Teddy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"KEETLEY, Tom ",Centre Forward,6,4,0,0,0,0,0,0,0
+,"LITTLE, Tommy ",Inside Forward,32,11,0,4,2,0,0,0,0
+,"LOUGHRAN, Tommy ",Inside Forward,13,3,0,0,0,0,0,0,0
+,"MCCANDLESS, Jack ",Winger,36,6,0,4,1,0,0,0,0
+,"MCLEAN, David ",Centre Forward,23,18,0,4,5,0,0,0,0
+,"SCATTERGOOD, Ernie ",Goalkeeper,41,0,0,4,0,0,0,0,0
+,"SCOTT, Jack ",Wing Half,41,0,0,4,0,0,0,0,0
+,"SMITH, Cliff ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"TURNBULL, Bobby ",Winger,36,5,2,4,1,0,0,0,0
+,"WAITE, George ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"WATSON, Sandy ",Full Back,16,0,0,1,0,0,0,0,0

@@ -1,89 +1,44 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jack	Full Back	
-										
-BARNES, Horace	Inside Forward	
-										
-BRENNAN, Jack	Wing Half	
-										
-BROAD, Tommy	Winger	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CARRICK, Jim	Centre Half	
-										
-CARTWRIGHT, Joe	Winger	
-										
-COOKSON, Sam	Full Back	
-										
-CRAWSHAW, Dick	Inside Forward	
-										
-DORSETT, Joe	Winger	
-										
-EDGE, Tommy	Winger	
-										
-FAIRCLOUGH, Albert	Centre Forward	
-										
-FAIRCLOUGH, Peter	Wing Half	
-										
-FLETCHER, Eli	Full Back	
-										
-FORESTER, Reg	Wing Half	
-										
-GODFREY, Joby	Centre Forward	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-GOODWIN, Ernest	Winger	
-										
-GRAY, George	Wing Half	
-										
-HANNEY, Ted	Centre Half	
-										
-HENDERSON, Jock	Centre Half	
-										
-HENRY, Billy	Full Back	
-										
-HOWARD, Fred	Centre Forward	
-										
-HUGHES, Teddy	Wing Half	
-										
-JARVIS, Harold	Wing Half	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-KNOWLES, Frank	Centre Half	
-										
-LAMPH, Tommy	Wing Half	
-										
-LIEVESLEY, Fred	Inside Forward	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-NEWTON, Andy	Full Back	
-										
-OLLERENSHAW, Ernest	Goalkeeper	
-										
-REID, Joe	Full Back	
-										
-SCOTT, Sid	Centre Half	
-										
-SHARP, Sammy	Wing Half	
-										
-SIMON, Frank	Centre Half	
-										
-SMITH, Walter	Goalkeeper	
-										
-SUGDEN, Arthur	Full Back	
-										
-TAYLOR, Harry	Inside Forward	
-										
-TYLER, Herbert	Centre Half	
-										
-WOOSNAM, Max	Centre Half	
-										
-WYNN, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,39,22,0,2,1,0,0,0,0
+,"BRENNAN, Jack ",Wing Half,20,0,0,2,0,0,0,0,0
+,"BROAD, Tommy ",Winger,19,0,0,1,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,30,22,3,2,0,0,0,0,0
+,"CARRICK, Jim ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CARTWRIGHT, Joe ",Winger,6,1,0,0,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,20,0,0,2,0,0,0,0,0
+,"CRAWSHAW, Dick ",Inside Forward,21,6,0,1,0,0,0,0,0
+,"DORSETT, Joe ",Winger,8,0,0,0,0,0,0,0,0
+,"EDGE, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"FAIRCLOUGH, Albert ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"FAIRCLOUGH, Peter ",Wing Half,4,0,0,0,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,34,1,1,2,0,0,0,0,0
+,"FORESTER, Reg ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GODFREY, Joby ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,33,0,0,2,0,0,0,0,0
+,"GOODWIN, Ernest ",Winger,15,2,1,1,2,0,0,0,0
+,"GRAY, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HANNEY, Ted ",Centre Half,7,0,0,0,0,0,0,0,0
+,"HENDERSON, Jock ",Centre Half,4,0,0,0,0,0,0,0,0
+,"HENRY, Billy ",Full Back,13,0,0,0,0,0,0,0,0
+,"HOWARD, Fred ",Centre Forward,1,0,0,1,0,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"JARVIS, Harold ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,10,5,0,0,0,0,0,0,0
+,"KNOWLES, Frank ",Centre Half,2,0,0,0,0,0,0,0,0
+,"LAMPH, Tommy ",Wing Half,11,0,0,0,0,0,0,0,0
+,"LIEVESLEY, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,36,5,0,2,1,0,0,0,0
+,"NEWTON, Andy ",Full Back,2,0,0,0,0,0,0,0,0
+,"OLLERENSHAW, Ernest ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"REID, Joe ",Full Back,3,1,0,0,0,0,0,0,0
+,"SCOTT, Sid ",Centre Half,13,0,0,1,0,0,0,0,0
+,"SHARP, Sammy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SIMON, Frank ",Centre Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Walter ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"SUGDEN, Arthur ",Full Back,6,0,0,0,0,0,0,0,0
+,"TAYLOR, Harry ",Inside Forward,6,4,0,0,0,0,0,0,0
+,"TYLER, Herbert ",Centre Half,41,0,0,2,0,0,0,0,0
+,"WOOSNAM, Max ",Centre Half,16,0,0,1,0,0,0,0,0
+,"WYNN, George ",Inside Forward,4,1,0,0,0,0,0,0,0

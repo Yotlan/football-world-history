@@ -1,81 +1,40 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADEY, Tom	Wing Half	
-										
-ALLEN, Tommy	Goalkeeper	
-										
-ARDLEY, George	Wing Half	
-										
-BEST, Bobby	Winger	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-COOKE, Fred	Centre Forward	
-										
-COVERDALE, Robert	Wing Half	
-										
-CROSSLEY, Charlie	Inside Forward	
-										
-CROWN, Laurie	Full Back	
-										
-CUGGY, Frank	Wing Half	
-										
-DEMPSTER, James	Goalkeeper	
-										
-DIXON, Tommy	Wing Half	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-GLIDDEN, Tommy	Winger	
-										
-HAGGAN, John	Wing Half	
-										
-HOBSON, Bert	Full Back	
-										
-HOPE, Phil	Full Back	
-										
-HUGHES, Dick	Full Back	
-										
-JOHNSON, Joseph	Full Back	
-										
-KASHER, Joe	Centre Half	
-										
-MARTIN, Harry	Winger	
-										
-MOORE, Billy	Inside Forward	
-										
-MORDUE, Jackie	Winger	
-										
-MORRISON, John	Full Back	
-										
-NESS, Harry	Full Back	
-										
-PAGE, Jack	Winger	
-										
-PARKER, Dick	Centre Forward	
-										
-PHILIP, George	Centre Forward	
-										
-POOLE, Jack	Wing Half	
-										
-SCOTT, Leslie	Goalkeeper	
-										
-SHERWIN, Harry	Wing Half	
-										
-SHORE, Victor	Inside Forward	
-										
-STEVENSON, John	Inside Forward	
-										
-THOMPSON, Tom	Centre Half	
-										
-TRAVERS, Barney	Centre Forward	
-										
-TURNER, Neil	Winger	
-										
-YOUNG, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADEY, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ALLEN, Tommy ",Goalkeeper,19,0,0,1,0,0,0,0,0
+,"ARDLEY, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BEST, Bobby ",Winger,20,4,0,1,0,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,36,22,0,4,5,0,0,0,0
+,"COOKE, Fred ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"COVERDALE, Robert ",Wing Half,9,0,0,1,0,0,0,0,0
+,"CROSSLEY, Charlie ",Inside Forward,24,9,0,3,0,0,0,0,0
+,"CROWN, Laurie ",Full Back,0,0,0,0,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,34,0,0,4,0,0,0,0,0
+,"DEMPSTER, James ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"DIXON, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ELLIS, Billy ",Winger,4,0,0,0,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,7,0,0,0,0,0,0,0,0
+,"GLIDDEN, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"HAGGAN, John ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HOBSON, Bert ",Full Back,40,0,0,4,0,0,0,0,0
+,"HOPE, Phil ",Full Back,0,0,0,0,0,0,0,0,0
+,"HUGHES, Dick ",Full Back,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Joseph ",Full Back,3,0,0,0,0,0,0,0,0
+,"KASHER, Joe ",Centre Half,24,0,0,3,0,0,0,0,0
+,"MARTIN, Harry ",Winger,33,2,0,4,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,11,4,1,0,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,27,7,3,4,0,0,0,0,0
+,"MORRISON, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"NESS, Harry ",Full Back,9,0,0,0,0,0,0,0,0
+,"PAGE, Jack ",Winger,3,0,0,0,0,0,0,0,0
+,"PARKER, Dick ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"PHILIP, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"POOLE, Jack ",Wing Half,41,0,0,4,1,0,0,0,0
+,"SCOTT, Leslie ",Goalkeeper,18,0,0,3,0,0,0,0,0
+,"SHERWIN, Harry ",Wing Half,16,0,0,0,0,0,0,0,0
+,"SHORE, Victor ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"STEVENSON, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Tom ",Centre Half,0,0,0,0,0,0,0,0,0
+,"TRAVERS, Barney ",Centre Forward,42,20,0,4,3,0,0,0,0
+,"TURNER, Neil ",Winger,1,0,0,0,0,0,0,0,0
+,"YOUNG, Bob ",Full Back,24,0,0,4,0,0,0,0,0

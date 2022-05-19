@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AINSWORTH, Fred	Inside Forward	
-										
-ATKIN, Jack	Full Back	
-										
-BAGSHAW, Jimmy	Wing Half	
-										
-BAKER, Billy	Winger	
-										
-BARBOUR, Tommy	Full Back	
-										
-BOXLEY, Harry	Wing Half	
-										
-BRADFORD, Joe	Centre Forward	
-										
-BROMAGE, George	Winger	
-										
-BURTON, Noah	Inside Forward	
-										
-CHAMBERS, Frank	Full Back	
-										
-CHANDLER, Bert	Full Back	
-										
-CULLUM, Charles	Inside Forward	
-										
-HENDERSON, James	Centre Forward	
-										
-HOWARD, Fred	Inside Forward	
-										
-KEETLEY, Tom	Centre Forward	
-										
-KIDD, Jimmy	Goalkeeper	
-										
-LAMPH, Tommy	Wing Half	
-										
-LAWRENCE, George	Goalkeeper	
-										
-LEIGH, Syd	Centre Forward	
-										
-LEONARD, Harry	Centre Forward	
-										
-LYONS, Jimmy	Inside Forward	
-										
-MACDONALD, Elias	Winger	
-										
-MARTIN, Blakey	Wing Half	
-										
-MOORE, Jim	Inside Forward	
-										
-MOORE, Ralph	Inside Forward	
-										
-NEEDHAM, George	Wing Half	
-										
-PEART, Jack	Centre Forward	
-										
-QUANTRILL, Alf	Winger	
-										
-RITCHIE, Billy	Winger	
-										
-SHEPHERD, George	Inside Forward	
-										
-THORNEWELL, George	Winger	
-										
-WALKER, Harry	Wing Half	
-										
-WATERHOUSE, Frank	Wing Half	
-										
-WIGHTMAN, Harry	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AINSWORTH, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ATKIN, Jack ",Full Back,42,1,0,2,0,0,0,0,0
+,"BAGSHAW, Jimmy ",Wing Half,18,1,0,0,0,0,0,0,0
+,"BAKER, Billy ",Winger,6,1,0,0,0,0,0,0,0
+,"BARBOUR, Tommy ",Full Back,37,1,0,2,0,0,0,0,0
+,"BOXLEY, Harry ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BRADFORD, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BROMAGE, George ",Winger,0,0,0,0,0,0,0,0,0
+,"BURTON, Noah ",Inside Forward,35,12,2,2,1,0,0,0,0
+,"CHAMBERS, Frank ",Full Back,0,0,0,0,0,0,0,0,0
+,"CHANDLER, Bert ",Full Back,11,0,0,2,0,0,0,0,0
+,"CULLUM, Charles ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HENDERSON, James ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HOWARD, Fred ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"KEETLEY, Tom ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"KIDD, Jimmy ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"LAMPH, Tommy ",Wing Half,10,0,0,0,0,0,0,0,0
+,"LAWRENCE, George ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"LEIGH, Syd ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"LEONARD, Harry ",Centre Forward,29,12,1,2,0,0,0,0,0
+,"LYONS, Jimmy ",Inside Forward,18,6,0,0,0,0,0,0,0
+,"MACDONALD, Elias ",Winger,0,0,0,0,0,0,0,0,0
+,"MARTIN, Blakey ",Wing Half,6,0,0,0,0,0,0,0,0
+,"MOORE, Jim ",Inside Forward,17,3,0,2,0,0,0,0,0
+,"MOORE, Ralph ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"NEEDHAM, George ",Wing Half,5,0,0,0,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,9,1,0,0,0,0,0,0,0
+,"QUANTRILL, Alf ",Winger,36,2,0,2,0,0,0,0,0
+,"RITCHIE, Billy ",Winger,4,1,0,0,0,0,0,0,0
+,"SHEPHERD, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"THORNEWELL, George ",Winger,42,3,0,2,0,0,0,0,0
+,"WALKER, Harry ",Wing Half,27,0,0,2,0,0,0,0,0
+,"WATERHOUSE, Frank ",Wing Half,9,0,0,0,0,0,0,0,0
+,"WIGHTMAN, Harry ",Centre Half,42,3,1,2,0,0,0,0,0

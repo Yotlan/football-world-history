@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLSEBROOK, Dick	Wing Half	
-										
-BAGSHAW, Jimmy	Wing Half	
-										
-CHARLESWORTH, George	Full Back	
-										
-COOK, Jack	Inside Forward	
-										
-COOKE, James	Winger	
-										
-CURRIE, Blair	Inside Forward	
-										
-DAWS, Jimmy	Wing Half	
-										
-FLINT, Billy	Wing Half	
-										
-FOSTER, Jack	Wing Half	
-										
-GIBSON, Tommy	Full Back	
-										
-HENSHALL, Horace	Winger	
-										
-HILL, Harold	Inside Forward	
-										
-HOTEN, Ralph	Inside Forward	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JOHNSON, Joe	Full Back	
-										
-JONES, Jimmy	Winger	
-										
-MARRIOTT, Frank	Full Back	
-										
-MCLEOD, Billy	Centre Forward	
-										
-MEE, George	Winger	
-										
-PEART, Jack	Centre Forward	
-										
-PEMBLETON, Arthur	Wing Half	
-										
-POOLE, William	Inside Forward	
-										
-RICHARDS, Sam	Inside Forward	
-										
-STOAKES, Jimmy	Winger	
-										
-STREETS, George	Goalkeeper	
-										
-TASKER, Ernest	Full Back	
-										
-WATERALL, Ike	Winger	
-										
-WIDDOWSON, Alf	Inside Forward	
-										
-WOODLAND, Arthur	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLSEBROOK, Dick ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BAGSHAW, Jimmy ",Wing Half,16,0,0,0,0,0,0,0,0
+,"CHARLESWORTH, George ",Full Back,30,4,4,0,0,0,0,0,0
+,"COOK, Jack ",Inside Forward,21,5,0,3,1,0,0,0,0
+,"COOKE, James ",Winger,12,0,0,0,0,0,0,0,0
+,"CURRIE, Blair ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"DAWS, Jimmy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,27,0,0,3,0,0,0,0,0
+,"FOSTER, Jack ",Wing Half,32,1,0,3,0,0,0,0,0
+,"GIBSON, Tommy ",Full Back,23,1,1,3,1,1,0,0,0
+,"HENSHALL, Horace ",Winger,32,9,0,3,1,0,0,0,0
+,"HILL, Harold ",Inside Forward,33,12,0,3,1,0,0,0,0
+,"HOTEN, Ralph ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,21,0,0,0,0,0,0,0,0
+,"JOHNSON, Joe ",Full Back,10,0,0,0,0,0,0,0,0
+,"JONES, Jimmy ",Winger,10,0,0,0,0,0,0,0,0
+,"MARRIOTT, Frank ",Full Back,27,0,0,3,0,0,0,0,0
+,"MCLEOD, Billy ",Centre Forward,30,9,0,3,2,0,0,0,0
+,"MEE, George ",Winger,0,0,0,0,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,9,5,0,0,0,0,0,0,0
+,"PEMBLETON, Arthur ",Wing Half,35,0,0,2,0,0,0,0,0
+,"POOLE, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RICHARDS, Sam ",Inside Forward,11,7,0,0,0,0,0,0,0
+,"STOAKES, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"STREETS, George ",Goalkeeper,21,0,0,3,0,0,0,0,0
+,"TASKER, Ernest ",Full Back,1,0,0,0,0,0,0,0,0
+,"WATERALL, Ike ",Winger,33,1,0,3,0,0,0,0,0
+,"WIDDOWSON, Alf ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WOODLAND, Arthur ",Wing Half,10,0,0,1,0,0,0,0,0

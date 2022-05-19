@@ -1,83 +1,41 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALSTEAD, Anthony	Full Back	
-										
-BAINBRIDGE, Simpson	Winger	
-										
-BLAKE, Herbert	Goalkeeper	
-										
-BROADHURST, Fred	Full Back	
-										
-BROOME, Tommy	Wing Half	
-										
-CAUSER, Arthur	Goalkeeper	
-										
-CLIFTON, William	Winger	
-										
-DANIELS, George	Winger	
-										
-DAVIES, Stan	Centre Forward	
-										
-DAWSON, George	Wing Half	
-										
-FOOT, George	Goalkeeper	
-										
-GILLOW, Wilf	Wing Half	
-										
-GOODWIN, Ralph	Full Back	
-										
-GREATOREX, Billy	Full Back	
-										
-GREEN, James	Winger	
-										
-HALLIGAN, Billy	Inside Forward	
-										
-HENDERSON, William	Wing Half	
-										
-HOLDSWORTH, Eddie	Wing Half	
-										
-HOSKER, John	Inside Forward	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-JONES, Charlie	Goalkeeper	
-										
-KERR, Ned	Winger	
-										
-KNIGHT, John	Winger	
-										
-LEES, Jack	Full Back	
-										
-MARSHALL, Jack	Centre Half	
-										
-MCCALL, Joe	Centre Half	
-										
-MERCER, Billy	Wing Half	
-										
-MILLER, Jimmy	Winger	
-										
-OSBORN, Freddie	Centre Forward	
-										
-QUINN, Peter	Winger	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-ROSBOTHAM, Arthur	Inside Forward	
-										
-SINGLETON, Albert	Centre Forward	
-										
-SPEAK, George	Full Back	
-										
-TATTON, Jack	Winger	
-										
-THRELFALL, Thomas	Full Back	
-										
-WHALLEY, Fred	Goalkeeper	
-										
-WINSPER, Tom	Wing Half	
-										
-WOODHOUSE, Roland	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALSTEAD, Anthony ",Full Back,11,0,0,0,0,0,0,0,0
+,"BAINBRIDGE, Simpson ",Winger,14,1,0,3,1,0,0,0,0
+,"BLAKE, Herbert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BROADHURST, Fred ",Full Back,33,2,2,3,0,0,0,0,0
+,"BROOME, Tommy ",Wing Half,19,1,1,0,0,0,0,0,0
+,"CAUSER, Arthur ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"CLIFTON, William ",Winger,3,0,0,0,0,0,0,0,0
+,"DANIELS, George ",Winger,12,1,0,1,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,11,4,0,2,0,0,0,0,0
+,"DAWSON, George ",Wing Half,35,0,0,3,0,0,0,0,0
+,"FOOT, George ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"GILLOW, Wilf ",Wing Half,4,0,0,0,0,0,0,0,0
+,"GOODWIN, Ralph ",Full Back,7,0,0,0,0,0,0,0,0
+,"GREATOREX, Billy ",Full Back,17,0,0,3,0,0,0,0,0
+,"GREEN, James ",Winger,4,0,0,1,0,0,0,0,0
+,"HALLIGAN, Billy ",Inside Forward,16,2,0,0,0,0,0,0,0
+,"HENDERSON, William ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HOLDSWORTH, Eddie ",Wing Half,12,0,0,0,0,0,0,0,0
+,"HOSKER, John ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,12,4,0,0,0,0,0,0,0
+,"JONES, Charlie ",Goalkeeper,12,0,0,3,0,0,0,0,0
+,"KERR, Ned ",Winger,2,0,0,0,0,0,0,0,0
+,"KNIGHT, John ",Winger,1,0,0,0,0,0,0,0,0
+,"LEES, Jack ",Full Back,20,0,0,3,0,0,0,0,0
+,"MARSHALL, Jack ",Centre Half,4,0,0,0,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,32,1,0,3,0,0,0,0,0
+,"MERCER, Billy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MILLER, Jimmy ",Winger,15,1,0,2,0,0,0,0,0
+,"OSBORN, Freddie ",Centre Forward,7,1,0,0,0,0,0,0,0
+,"QUINN, Peter ",Winger,11,1,0,0,0,0,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,35,26,0,3,3,0,0,0,0
+,"ROSBOTHAM, Arthur ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SINGLETON, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SPEAK, George ",Full Back,13,0,0,0,0,0,0,0,0
+,"TATTON, Jack ",Winger,18,1,0,0,0,0,0,0,0
+,"THRELFALL, Thomas ",Full Back,2,0,0,0,0,0,0,0,0
+,"WHALLEY, Fred ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"WINSPER, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WOODHOUSE, Roland ",Inside Forward,37,9,0,3,1,0,0,0,0

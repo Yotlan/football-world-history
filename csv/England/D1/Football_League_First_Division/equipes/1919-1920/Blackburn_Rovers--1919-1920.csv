@@ -1,87 +1,43 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARTON, Jack	Full Back	
-										
-BOOTHMAN, James	Full Back	
-										
-BRADSHAW, Billy	Wing Half	
-										
-BROOKS, Ernest	Winger	
-										
-BYROM, Tom	Inside Forward	
-										
-CLOUGH, Albert	Full Back	
-										
-COWELL, Arthur	Full Back	
-										
-CRABTREE, Jimmy	Goalkeeper	
-										
-CROMPTON, Bob	Full Back	
-										
-DAWSON, Percy	Centre Forward	
-										
-DENNIS, Billy	Full Back	
-										
-DENNISON, Harry	Inside Forward	
-										
-DUCKWORTH, Fred	Full Back	
-										
-DUCKWORTH, Joe	Goalkeeper	
-										
-EDDLESTON, Joe	Inside Forward	
-										
-FAULKNER, Roy	Winger	
-										
-FAWCETT, William	Winger	
-										
-GREEN, John	Inside Forward	
-										
-HAWKSWORTH, Ernest	Inside Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HEATON, Tommy	Wing Half	
-										
-HODKINSON, Joe	Winger	
-										
-HOLLAND, Peter	Inside Forward	
-										
-KERR, John	Wing Half	
-										
-LEAVER, Jimmy	Full Back	
-										
-MCDONALD, John	Inside Forward	
-										
-MCGHIE, Alex	Winger	
-										
-ORR, Johnny	Inside Forward	
-										
-PEARCE, Bert	Winger	
-										
-REILLY, Frank	Centre Half	
-										
-RIGG, Tweedale	Wing Half	
-										
-ROBINSON, Alfred	Goalkeeper	
-										
-RODGERS, Norman	Inside Forward	
-										
-ROLLO, Dave	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SHEA, Danny	Inside Forward	
-										
-SMITH, Percy	Centre Half	
-										
-THORPE, Levy	Wing Half	
-										
-WALMSLEY, Albert	Wing Half	
-										
-WALMSLEY, Richard	Full Back	
-										
-WEBSTER, Montague	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARTON, Jack ",Full Back,1,0,0,1,0,0,0,0,0
+,"BOOTHMAN, James ",Full Back,2,0,0,0,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,22,1,1,2,0,0,0,0,0
+,"BROOKS, Ernest ",Winger,3,0,0,0,0,0,0,0,0
+,"BYROM, Tom ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"CLOUGH, Albert ",Full Back,1,0,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,1,0,0,0,0,0,0,0,0
+,"CRABTREE, Jimmy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,2,0,0,0,0,0,0,0,0
+,"DAWSON, Percy ",Centre Forward,23,14,0,2,1,0,0,0,0
+,"DENNIS, Billy ",Full Back,5,0,0,0,0,0,0,0,0
+,"DENNISON, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DUCKWORTH, Fred ",Full Back,35,0,0,1,0,0,0,0,0
+,"DUCKWORTH, Joe ",Goalkeeper,5,0,0,2,0,0,0,0,0
+,"EDDLESTON, Joe ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"FAULKNER, Roy ",Winger,9,0,0,0,0,0,0,0,0
+,"FAWCETT, William ",Winger,5,1,0,0,0,0,0,0,0
+,"GREEN, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HAWKSWORTH, Ernest ",Inside Forward,41,17,0,2,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,6,1,0,0,0,0,0,0,0
+,"HEATON, Tommy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,37,1,0,2,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"KERR, John ",Wing Half,15,0,0,0,0,0,0,0,0
+,"LEAVER, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"MCDONALD, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCGHIE, Alex ",Winger,6,0,0,1,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"PEARCE, Bert ",Winger,1,0,0,0,0,0,0,0,0
+,"REILLY, Frank ",Centre Half,26,1,0,2,1,0,0,0,0
+,"RIGG, Tweedale ",Wing Half,12,0,0,0,0,0,0,0,0
+,"ROBINSON, Alfred ",Goalkeeper,20,0,0,0,0,0,0,0,0
+,"RODGERS, Norman ",Inside Forward,11,13,4,0,0,0,0,0,0
+,"ROLLO, Dave ",Full Back,15,0,0,2,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"SHEA, Danny ",Inside Forward,25,9,0,2,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,15,0,0,0,0,0,0,0,0
+,"THORPE, Levy ",Wing Half,14,0,0,0,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,19,0,0,2,0,0,0,0,0
+,"WALMSLEY, Richard ",Full Back,31,0,0,1,0,0,0,0,0
+,"WEBSTER, Montague ",Inside Forward,2,0,0,0,0,0,0,0,0

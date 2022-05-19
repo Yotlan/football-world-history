@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Joe	Centre Forward	
-										
-BASNETT, Alf	Wing Half	
-										
-BOYLE, Tommy	Centre Half	
-										
-CAMERON, Hugh	Inside Forward	
-										
-CLARKSON, Billy	Winger	
-										
-COLLIER, James	Wing Half	
-										
-CRAGG, Richard	Centre Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-EDWARDS, Charlie	Goalkeeper	
-										
-FREEMAN, Bert	Centre Forward	
-										
-GALLACHER, William	Inside Forward	
-										
-HALLEY, George	Wing Half	
-										
-HASTIE, Harry	Full Back	
-										
-JACKSON, Tom	Inside Forward	
-										
-JONES, Cliff	Full Back	
-										
-KELLY, Bob	Inside Forward	
-										
-LINDLEY, Dick	Inside Forward	
-										
-LINDSAY, James	Inside Forward	
-										
-MOSSCROP, Eddie	Winger	
-										
-NESBITT, Billy	Winger	
-										
-NORRIS, Patrick	Inside Forward	
-										
-RIGG, Clem	Full Back	
-										
-ROBERTS, Lawrence	Centre Forward	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SMELT, Len	Full Back	
-										
-TAYLOR, David	Full Back	
-										
-TAYLOR, Bill	Wing Half	
-										
-THOMPSON, George	Full Back	
-										
-THORPE, Levy	Wing Half	
-										
-TWISS, James	Centre Forward	
-										
-WARNER, Jack	Inside Forward	
-										
-WATSON, Billy	Wing Half	
-										
-WEAVER, Walter	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Joe ",Centre Forward,8,6,0,0,0,0,0,0,0
+,"BASNETT, Alf ",Wing Half,6,1,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Centre Half,29,5,3,2,0,0,0,0,0
+,"CAMERON, Hugh ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CLARKSON, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"COLLIER, James ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CRAGG, Richard ",Centre Forward,15,5,0,2,1,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,34,0,0,2,0,0,0,0,0
+,"EDWARDS, Charlie ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,28,12,0,4,0,0,0,0,0
+,"GALLACHER, William ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"HALLEY, George ",Wing Half,26,0,0,4,0,0,0,0,0
+,"HASTIE, Harry ",Full Back,7,0,0,0,0,0,0,0,0
+,"JACKSON, Tom ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"JONES, Cliff ",Full Back,19,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,38,9,0,4,1,0,0,0,0
+,"LINDLEY, Dick ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"LINDSAY, James ",Inside Forward,32,6,0,4,3,0,0,0,0
+,"MOSSCROP, Eddie ",Winger,31,4,0,2,0,0,0,0,0
+,"NESBITT, Billy ",Winger,30,6,0,4,1,0,0,0,0
+,"NORRIS, Patrick ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"RIGG, Clem ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Lawrence ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,8,0,0,2,0,0,0,0,0
+,"SMELT, Len ",Full Back,42,0,0,4,0,0,0,0,0
+,"TAYLOR, David ",Full Back,3,0,0,0,0,0,0,0,0
+,"TAYLOR, Bill ",Wing Half,15,2,1,2,0,0,0,0,0
+,"THOMPSON, George ",Full Back,5,0,0,0,0,0,0,0,0
+,"THORPE, Levy ",Wing Half,20,0,0,4,0,0,0,0,0
+,"TWISS, James ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,39,5,2,4,0,0,0,0,0
+,"WEAVER, Walter ",Winger,7,2,0,0,0,0,0,0,0

@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1919/20
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARCH, Harry	Full Back	
-										
-ASHTON, Hubert	Full Back	
-										
-BENTLEY, Alf	Centre Forward	
-										
-BOWSER, Sid	Centre Half	
-										
-BROWN, Edward	Wing Half	
-										
-COOK, Arthur	Full Back	
-										
-COOPER, Joe	Inside Forward	
-										
-CRISP, Jack	Winger	
-										
-DAVIES, Idwal	Centre Forward	
-										
-EDWARDS, Sam	Winger	
-										
-GREGORY, Howard	Winger	
-										
-HATTON, Sid	Wing Half	
-										
-JEPHCOTT, Claude	Winger	
-										
-MAGEE, Tommy	Wing Half	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MORRIS, Fred	Inside Forward	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-SMITH, Alfred	Centre Forward	
-										
-SMITH, Joe	Full Back	
-										
-WATERHOUSE, Frank	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARCH, Harry ",Full Back,0,0,0,0,0,0,0,0,0
+,"ASHTON, Hubert ",Full Back,0,0,0,0,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,24,15,0,1,0,0,1,0,0
+,"BOWSER, Sid ",Centre Half,41,10,8,1,0,0,1,0,0
+,"BROWN, Edward ",Wing Half,0,0,0,0,0,0,0,0,0
+,"COOK, Arthur ",Full Back,7,0,0,0,0,0,0,0,0
+,"COOPER, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,38,8,0,1,0,0,1,0,0
+,"DAVIES, Idwal ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"EDWARDS, Sam ",Winger,0,0,0,0,0,0,0,0,0
+,"GREGORY, Howard ",Winger,34,12,0,1,0,0,1,0,0
+,"HATTON, Sid ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,21,5,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,24,7,0,1,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,42,2,1,1,0,0,1,0,0
+,"MOORWOOD, Len ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,39,37,0,1,0,0,1,0,0
+,"PEARSON, Hubert ",Goalkeeper,39,0,0,1,0,0,1,0,0
+,"PENNINGTON, Jesse ",Full Back,37,0,0,1,0,0,1,0,0
+,"REED, Fred ",Centre Half,1,0,0,0,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,40,0,0,1,0,0,1,0,0
+,"SMITH, Alfred ",Centre Forward,29,7,0,0,0,0,1,2,0
+,"SMITH, Joe ",Full Back,40,0,0,1,0,0,1,0,0
+,"WATERHOUSE, Frank ",Wing Half,2,0,0,0,0,0,0,0,0
