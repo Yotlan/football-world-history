@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEEL, George	Centre Forward	
-										
-BOWSHER, Stan	Central Defender	
-										
-BROWN, Jimmy	Wing Half	
-										
-BRUTON, Jack	Winger	
-										
-CHAMBERS, Bill	Inside Forward	
-										
-DEVINE, Joe	Inside Forward	
-										
-DOWN, Billy	Goalkeeper	
-										
-FITTON, Fred	Centre Forward	
-										
-FORREST, Alex	Wing Half	
-										
-HARKER, Willie	Inside Forward	
-										
-HENDERSON, Bob	Winger	
-										
-HESLOP, Archie	Winger	
-										
-HUTCHINSON, Alex	Winger	
-										
-KNOX, William	Full Back	
-										
-MANTLE, Joe	Centre Forward	
-										
-MCCLUGGAGE, Andy	Full Back	
-										
-O'DOWD, Peter	Central Defender	
-										
-PAGE, Louis	Winger	
-										
-PLUMMER, Harold	Full Back	
-										
-PREST, Tommy	Inside Forward	
-										
-RICHMOND, Gilbert	Full Back	
-										
-RYDER, Frank	Winger	
-										
-SOMMERVILLE, George	Goalkeeper	
-										
-STAGE, Billy	Inside Forward	
-										
-STEEL, John	Wing Half	
-										
-STORER, Harry	Wing Half	
-										
-WADSWORTH, Sam	Full Back	
-										
-WALLACE, James	Inside Forward	
-										
-WATERFIELD, George	Full Back	
-										
-WILLIGHAN, Tommy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEEL, George ",Centre Forward,33,10,0,1,0,0,0,0,0
+,"BOWSHER, Stan ",Central Defender,33,0,0,0,0,0,0,0,0
+,"BROWN, Jimmy ",Wing Half,27,0,0,1,0,0,0,0,0
+,"BRUTON, Jack ",Winger,17,8,0,0,0,0,0,0,0
+,"CHAMBERS, Bill ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,20,5,0,1,0,0,0,0,0
+,"DOWN, Billy ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"FITTON, Fred ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"FORREST, Alex ",Wing Half,34,1,1,1,0,0,0,0,0
+,"HARKER, Willie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HENDERSON, Bob ",Winger,1,0,0,0,0,0,0,0,0
+,"HESLOP, Archie ",Winger,21,4,0,1,0,0,0,0,0
+,"HUTCHINSON, Alex ",Winger,5,2,0,0,0,0,0,0,0
+,"KNOX, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"MANTLE, Joe ",Centre Forward,27,14,0,1,0,0,0,0,0
+,"MCCLUGGAGE, Andy ",Full Back,40,6,6,1,0,0,0,0,0
+,"O'DOWD, Peter ",Central Defender,10,3,0,0,0,0,0,0,0
+,"PAGE, Louis ",Winger,32,15,0,1,0,0,0,0,0
+,"PLUMMER, Harold ",Full Back,0,0,0,0,0,0,0,0,0
+,"PREST, Tommy ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"RICHMOND, Gilbert ",Full Back,0,0,0,0,0,0,0,0,0
+,"RYDER, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"SOMMERVILLE, George ",Goalkeeper,28,0,0,1,0,0,0,0,0
+,"STAGE, Billy ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"STEEL, John ",Wing Half,22,0,0,1,0,0,0,0,0
+,"STORER, Harry ",Wing Half,3,0,0,0,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,3,0,0,0,0,0,0,0,0
+,"WALLACE, James ",Inside Forward,33,7,0,0,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,39,0,0,1,0,0,0,0,0
+,"WILLIGHAN, Tommy ",Full Back,2,0,0,0,0,0,0,0,0

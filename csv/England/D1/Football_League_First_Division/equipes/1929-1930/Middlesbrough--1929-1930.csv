@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHMAN, Don	Full Back	
-										
-BROWN, Joe	Winger	
-										
-BRUCE, Bobbie	Inside Forward	
-										
-CAMERON, Ken	Inside Forward	
-										
-CAMSELL, George	Centre Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-ELKES, Jack	Inside Forward	
-										
-EMMERSON, George	Winger	
-										
-FERGUSON, Robert	Centre Half	
-										
-FORREST, Billy	Wing Half	
-										
-FREEMAN, Reg	Full Back	
-										
-HALL, Allan	Centre Forward	
-										
-HILLIER, Joe	Goalkeeper	
-										
-JARVIS, Sid	Full Back	
-										
-JENNINGS, Jack	Full Back	
-										
-MACFARLANE, John	Wing Half	
-										
-MATHIESON, Jimmy	Goalkeeper	
-										
-MCKAY, Jock	Inside Forward	
-										
-MILLER, Joe	Wing Half	
-										
-MUTTITT, Ernie	Inside Forward	
-										
-PEACOCK, Joe	Wing Half	
-										
-PEASE, Billy	Winger	
-										
-PERRY, Ivor	Centre Half	
-										
-SMITH, Jock	Full Back	
-										
-WARREN, Freddie	Winger	
-										
-WATSON, Bert	Wing Half	
-										
-WEBSTER, Maurice	Central Defender	
-										
-WILLIAMS, Owen	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHMAN, Don ",Full Back,31,0,0,6,0,0,0,0,0
+,"BROWN, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"BRUCE, Bobbie ",Inside Forward,36,12,2,6,4,1,0,0,0
+,"CAMERON, Ken ",Inside Forward,11,5,0,1,0,0,0,0,0
+,"CAMSELL, George ",Centre Forward,34,29,0,4,2,0,0,0,0
+,"CARR, Jackie ",Inside Forward,16,3,0,2,0,0,0,0,0
+,"ELKES, Jack ",Inside Forward,21,3,0,3,0,0,0,0,0
+,"EMMERSON, George ",Winger,3,0,0,0,0,0,0,0,0
+,"FERGUSON, Robert ",Centre Half,23,0,0,3,0,0,0,0,0
+,"FORREST, Billy ",Wing Half,10,0,0,3,0,0,0,0,0
+,"FREEMAN, Reg ",Full Back,6,0,0,0,0,0,0,0,0
+,"HALL, Allan ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"HILLIER, Joe ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"JARVIS, Sid ",Full Back,2,0,0,0,0,0,0,0,0
+,"JENNINGS, Jack ",Full Back,16,1,1,0,0,0,0,0,0
+,"MACFARLANE, John ",Wing Half,30,0,0,3,0,0,0,0,0
+,"MATHIESON, Jimmy ",Goalkeeper,41,0,0,6,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,28,6,0,3,1,0,0,0,0
+,"MILLER, Joe ",Wing Half,20,0,0,4,0,0,0,0,0
+,"MUTTITT, Ernie ",Inside Forward,10,2,0,4,1,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,8,0,0,0,0,0,0,0,0
+,"PEASE, Billy ",Winger,39,12,2,6,0,0,0,0,0
+,"PERRY, Ivor ",Centre Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Jock ",Full Back,6,0,0,3,0,0,0,0,0
+,"WARREN, Freddie ",Winger,16,4,0,1,0,0,0,0,0
+,"WATSON, Bert ",Wing Half,11,1,0,2,0,0,0,0,0
+,"WEBSTER, Maurice ",Central Defender,34,1,0,6,0,0,0,0,0
+,"WILLIAMS, Owen ",Winger,6,2,0,0,0,0,0,0,0

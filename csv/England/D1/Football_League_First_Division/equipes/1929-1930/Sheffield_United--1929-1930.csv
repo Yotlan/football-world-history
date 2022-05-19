@@ -1,56 +1,27 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENNETT, Jesse	Full Back	
-										
-BIRKS, Len	Full Back	
-										
-CARRIGAN, Pat	Central Defender	
-										
-DAVIS, George	Central Defender	
-										
-DUNNE, Jimmy	Centre Forward	
-										
-GIBSON, Jock	Full Back	
-										
-GIBSON, Sid	Winger	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GREEN, George	Wing Half	
-										
-JOHNSON, Harry	Centre Forward	
-										
-JOHNSON, Tom	Central Defender	
-										
-KENDALL, Jack	Goalkeeper	
-										
-KENNEDY, Jack	Inside Forward	
-										
-MATTHEWS, Vince	Centre Half	
-										
-MILLS, Tommy	Goalkeeper	
-										
-OXLEY, Bernard	Winger	
-										
-PHILLIPSON, Tom	Centre Forward	
-										
-PICKERING, Jack	Inside Forward	
-										
-RADFORD, Bernard	Centre Forward	
-										
-SAMPY, Tommy	Wing Half	
-										
-TORDOFF, Harry	Central Defender	
-										
-TUNSTALL, Fred	Winger	
-										
-WARREN, Harry	Centre Half	
-										
-WEBSTER, Wally	Full Back	
-										
-WHARTON, Norman	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENNETT, Jesse ",Full Back,9,0,0,0,0,0,0,0,0
+,"BIRKS, Len ",Full Back,41,0,0,2,0,0,0,0,0
+,"CARRIGAN, Pat ",Central Defender,6,0,0,0,0,0,0,0,0
+,"DAVIS, George ",Central Defender,4,0,0,0,0,0,0,0,0
+,"DUNNE, Jimmy ",Centre Forward,39,36,0,2,2,0,0,0,0
+,"GIBSON, Jock ",Full Back,23,0,0,2,0,0,0,0,0
+,"GIBSON, Sid ",Winger,27,3,0,2,1,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,14,5,0,0,0,0,0,0,0
+,"GREEN, George ",Wing Half,38,1,1,2,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"JOHNSON, Tom ",Central Defender,1,0,0,0,0,0,0,0,0
+,"KENDALL, Jack ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"KENNEDY, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MATTHEWS, Vince ",Centre Half,33,0,0,2,0,0,0,0,0
+,"MILLS, Tommy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"OXLEY, Bernard ",Winger,15,1,0,0,0,0,0,0,0
+,"PHILLIPSON, Tom ",Centre Forward,15,9,0,2,0,0,0,0,0
+,"PICKERING, Jack ",Inside Forward,38,14,0,2,0,0,0,0,0
+,"RADFORD, Bernard ",Centre Forward,15,6,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,42,0,0,2,0,0,0,0,0
+,"TORDOFF, Harry ",Central Defender,0,0,0,0,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,42,11,2,2,0,0,0,0,0
+,"WARREN, Harry ",Centre Half,2,0,0,0,0,0,0,0,0
+,"WEBSTER, Wally ",Full Back,11,0,0,0,0,0,0,0,0
+,"WHARTON, Norman ",Goalkeeper,36,0,0,2,0,0,0,0,0

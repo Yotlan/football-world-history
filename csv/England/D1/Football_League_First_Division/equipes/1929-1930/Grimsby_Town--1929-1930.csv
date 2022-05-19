@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARLEY, Harry	Winger	
-										
-BATEMAN, Arthur	Full Back	
-										
-BESTALL, Jackie	Inside Forward	
-										
-BUCK, Teddy	Wing Half	
-										
-CALDERWOOD, James	Full Back	
-										
-COGLIN, Steve	Inside Forward	
-										
-COLEMAN, Tim	Inside Forward	
-										
-COOPER, Joe	Inside Forward	
-										
-GLOVER, Pat	Centre Forward	
-										
-HALL, Alec	Wing Half	
-										
-HEIGH, Bob	Inside Forward	
-										
-JACOBSON, Hughie	Full Back	
-										
-MARSHALL, Billy	Winger	
-										
-MOULSON, Con	Central Defender	
-										
-POWELL, Billy	Wing Half	
-										
-PRIESTLEY, Jock	Wing Half	
-										
-PRIOR, Jack	Winger	
-										
-READ, Tommy	Goalkeeper	
-										
-ROBSON, Joe	Centre Forward	
-										
-SEAGRAVE, Jack	Full Back	
-										
-SWABY, Harry	Central Defender	
-										
-WILLIAMS, Johnny	Centre Half	
-										
-WILSON, Charlie	Full Back	
-										
-WRACK, Charlie	Central Defender	
-										
-WRIGHT, Norman	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARLEY, Harry ",Winger,4,1,0,0,0,0,0,0,0
+,"BATEMAN, Arthur ",Full Back,6,0,0,0,0,0,0,0,0
+,"BESTALL, Jackie ",Inside Forward,39,10,0,2,0,0,0,0,0
+,"BUCK, Teddy ",Wing Half,23,0,0,2,0,0,0,0,0
+,"CALDERWOOD, James ",Full Back,9,0,0,0,0,0,0,0,0
+,"COGLIN, Steve ",Inside Forward,32,13,4,2,0,0,0,0,0
+,"COLEMAN, Tim ",Inside Forward,18,2,0,2,0,0,0,0,0
+,"COOPER, Joe ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"GLOVER, Pat ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"HALL, Alec ",Wing Half,6,0,0,0,0,0,0,0,0
+,"HEIGH, Bob ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JACOBSON, Hughie ",Full Back,37,0,0,2,0,0,0,0,0
+,"MARSHALL, Billy ",Winger,38,9,0,2,0,0,0,0,0
+,"MOULSON, Con ",Central Defender,0,0,0,0,0,0,0,0,0
+,"POWELL, Billy ",Wing Half,8,0,0,0,0,0,0,0,0
+,"PRIESTLEY, Jock ",Wing Half,41,1,0,2,0,0,0,0,0
+,"PRIOR, Jack ",Winger,26,3,0,2,1,0,0,0,0
+,"READ, Tommy ",Goalkeeper,42,0,0,2,0,0,0,0,0
+,"ROBSON, Joe ",Centre Forward,41,30,0,0,0,0,0,0,0
+,"SEAGRAVE, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"SWABY, Harry ",Central Defender,24,1,0,0,0,0,0,0,0
+,"WILLIAMS, Johnny ",Centre Half,0,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Full Back,42,0,0,2,0,0,0,0,0
+,"WRACK, Charlie ",Central Defender,14,0,0,2,0,0,0,0,0
+,"WRIGHT, Norman ",Winger,3,1,0,0,0,0,0,0,0

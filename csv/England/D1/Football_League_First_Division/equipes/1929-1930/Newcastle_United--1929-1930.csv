@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOWDEN, Ossie	Inside Forward	
-										
-BOYD, Jimmy	Winger	
-										
-BURNS, Mick	Goalkeeper	
-										
-CAPE, Jackie	Winger	
-										
-CHALMERS, Willie	Inside Forward	
-										
-CUNNINGHAM, Andy	Inside Forward	
-										
-DAVIDSON, Dave	Central Defender	
-										
-DEVINE, Joe	Inside Forward	
-										
-FAIRHURST, David	Full Back	
-										
-FIDLER, Albert	Goalkeeper	
-										
-GALLACHER, Hughie	Centre Forward	
-										
-GREEN, John	Central Defender	
-										
-HARRIS, Joe	Wing Half	
-										
-HILL, Jack	Central Defender	
-										
-HUTCHISON, Duncan	Centre Forward	
-										
-LANG, Tommy	Winger	
-										
-MACKAY, Alex	Goalkeeper	
-										
-MACKENZIE, Roddie	Wing Half	
-										
-MAITLAND, Alf	Full Back	
-										
-MATHISON, George	Wing Half	
-										
-MCCABE, Barney	Centre Forward	
-										
-MCCURLEY, Jock	Inside Forward	
-										
-MCDONALD, Tommy	Inside Forward	
-										
-MCINROY, Albert	Goalkeeper	
-										
-NEVIN, George	Full Back	
-										
-RICHARDSON, Joe	Full Back	
-										
-RICHARDSON, Jimmy	Inside Forward	
-										
-RIGG, Clem	Full Back	
-										
-SCOTT, George	Winger	
-										
-SPOONER, Peter	Winger	
-										
-THOMSON, Bob	Full Back	
-										
-TURNER, Bobby	Wing Half	
-										
-URWIN, Tommy	Winger	
-										
-WEAVER, Sam	Wing Half	
-										
-WILSON, Joe	Central Defender	
-										
-WOOD, Ed	Centre Half	
-										
-WOODWARD, Billy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOWDEN, Ossie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BOYD, Jimmy ",Winger,15,1,0,2,0,0,0,0,0
+,"BURNS, Mick ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"CAPE, Jackie ",Winger,10,1,0,0,0,0,0,0,0
+,"CHALMERS, Willie ",Inside Forward,15,4,0,1,0,0,0,0,0
+,"CUNNINGHAM, Andy ",Inside Forward,2,0,0,3,0,0,0,0,0
+,"DAVIDSON, Dave ",Central Defender,2,0,0,0,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,16,8,0,0,0,0,0,0,0
+,"FAIRHURST, David ",Full Back,15,0,0,2,0,0,0,0,0
+,"FIDLER, Albert ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"GALLACHER, Hughie ",Centre Forward,38,29,2,6,5,0,0,0,0
+,"GREEN, John ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,38,0,0,3,0,0,0,0,0
+,"HILL, Jack ",Central Defender,33,2,0,4,0,0,0,0,0
+,"HUTCHISON, Duncan ",Centre Forward,14,5,0,4,1,0,0,0,0
+,"LANG, Tommy ",Winger,29,4,0,3,1,0,0,0,0
+,"MACKAY, Alex ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,15,0,0,3,0,0,0,0,0
+,"MAITLAND, Alf ",Full Back,26,0,0,2,0,0,0,0,0
+,"MATHISON, George ",Wing Half,11,0,0,2,0,0,0,0,0
+,"MCCABE, Barney ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MCCURLEY, Jock ",Inside Forward,14,1,0,0,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,29,5,0,5,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,30,0,0,6,0,0,0,0,0
+,"NEVIN, George ",Full Back,6,0,0,0,0,0,0,0,0
+,"RICHARDSON, Joe ",Full Back,14,0,0,2,0,0,0,0,0
+,"RICHARDSON, Jimmy ",Inside Forward,9,1,0,2,3,0,0,0,0
+,"RIGG, Clem ",Full Back,0,0,0,0,0,0,0,0,0
+,"SCOTT, George ",Winger,7,2,0,3,0,0,0,0,0
+,"SPOONER, Peter ",Winger,0,0,0,0,0,0,0,0,0
+,"THOMSON, Bob ",Full Back,23,0,0,6,0,0,0,0,0
+,"TURNER, Bobby ",Wing Half,0,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,19,2,0,1,0,0,0,0,0
+,"WEAVER, Sam ",Wing Half,15,5,0,6,0,0,0,0,0
+,"WILSON, Joe ",Central Defender,1,0,0,0,0,0,0,0,0
+,"WOOD, Ed ",Centre Half,4,0,0,0,0,0,0,0,0
+,"WOODWARD, Billy ",Inside Forward,0,0,0,0,0,0,0,0,0

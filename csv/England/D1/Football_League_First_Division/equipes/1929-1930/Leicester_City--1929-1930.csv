@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADCOCK, Hugh	Winger	
-										
-BARRY, Len	Winger	
-										
-BEBY, Jack	Goalkeeper	
-										
-BELL, Billy	Winger	
-										
-BLACK, Adam	Full Back	
-										
-BROWN, Jack	Full Back	
-										
-BUSHELL, Willie	Winger	
-										
-CARR, George	Inside Forward	
-										
-CARRIGAN, Pat	Central Defender	
-										
-CHANDLER, Arthur	Centre Forward	
-										
-DUNCAN, Johnny	Inside Forward	
-										
-FINDLAY, Billy	Wing Half	
-										
-HARRISON, Albert	Centre Half	
-										
-HEYWOOD, Roger	Central Defender	
-										
-HINE, Ernie	Inside Forward	
-										
-LANGFORD, Walter	Inside Forward	
-										
-LOCHHEAD, Arthur	Inside Forward	
-										
-LOVATT, Harry	Centre Forward	
-										
-MANDY, Aubrey	Goalkeeper	
-										
-MCLAREN, Jimmy	Goalkeeper	
-										
-OSBORNE, Reg	Full Back	
-										
-RITCHIE, George	Wing Half	
-										
-SMITH, Joe	Full Back	
-										
-SMITH, Sep	Wing Half	
-										
-WATSON, Norman	Wing Half	
-										
-WOOLLISCROFT, Arthur	Inside Forward	
-										
-WRIGHT, Joe	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADCOCK, Hugh ",Winger,39,7,0,1,0,0,0,0,0
+,"BARRY, Len ",Winger,41,5,0,1,0,0,0,0,0
+,"BEBY, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BELL, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"BLACK, Adam ",Full Back,42,0,0,1,0,0,0,0,0
+,"BROWN, Jack ",Full Back,36,0,0,1,0,0,0,0,0
+,"BUSHELL, Willie ",Winger,3,1,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,16,1,0,0,0,0,0,0,0
+,"CARRIGAN, Pat ",Central Defender,4,0,0,0,0,0,0,0,0
+,"CHANDLER, Arthur ",Centre Forward,38,32,0,1,0,0,0,0,0
+,"DUNCAN, Johnny ",Inside Forward,40,3,0,1,0,0,0,0,0
+,"FINDLAY, Billy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"HARRISON, Albert ",Centre Half,21,0,0,1,0,0,0,0,0
+,"HEYWOOD, Roger ",Central Defender,1,0,0,0,0,0,0,0,0
+,"HINE, Ernie ",Inside Forward,38,20,0,1,1,0,0,0,0
+,"LANGFORD, Walter ",Inside Forward,5,3,0,0,0,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,33,10,0,1,0,0,0,0,0
+,"LOVATT, Harry ",Centre Forward,5,4,0,0,0,0,0,0,0
+,"MANDY, Aubrey ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MCLAREN, Jimmy ",Goalkeeper,23,0,0,1,0,0,0,0,0
+,"OSBORNE, Reg ",Full Back,6,0,0,0,0,0,0,0,0
+,"RITCHIE, George ",Wing Half,24,0,0,1,0,0,0,0,0
+,"SMITH, Joe ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMITH, Sep ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WATSON, Norman ",Wing Half,22,0,0,0,0,0,0,0,0
+,"WOOLLISCROFT, Arthur ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Joe ",Goalkeeper,15,0,0,0,0,0,0,0,0

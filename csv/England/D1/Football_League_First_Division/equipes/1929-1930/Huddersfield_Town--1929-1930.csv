@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Tom	Inside Forward	
-										
-BLACKBURN, William	Full Back	
-										
-CAMPBELL, Austen	Wing Half	
-										
-CROWNSHAW, George	Inside Forward	
-										
-CUMMING, Laurie	Inside Forward	
-										
-DAVIES, Harry	Inside Forward	
-										
-DENT, Johnny	Centre Forward	
-										
-DIXON, Ernie	Centre Forward	
-										
-FOGG, Billy	Wing Half	
-										
-FOULKES, Jabez	Winger	
-										
-GOODALL, Roy	Full Back	
-										
-HALL, George	Wing Half	
-										
-JACKSON, Alex	Winger	
-										
-JENKINSON, Fred	Full Back	
-										
-KELLY, Gerry	Winger	
-										
-KELLY, Bob	Inside Forward	
-										
-LEWIS, Wilf	Centre Forward	
-										
-LIDDLE, Fred	Winger	
-										
-MANGNALL, Dave	Centre Forward	
-										
-MOUNTFORD, Reg	Full Back	
-										
-NAYLOR, Jimmy	Wing Half	
-										
-RALEIGH, Simeon	Centre Forward	
-										
-RAW, Harry	Inside Forward	
-										
-REDFERN, Levi	Wing Half	
-										
-ROUGHTON, George	Full Back	
-										
-SMAILES, Jimmy	Winger	
-										
-SMITH, Billy	Winger	
-										
-SPENCE, Bonwell	Full Back	
-										
-STEPHENSON, George	Winger	
-										
-SUMMERS, George	Winger	
-										
-TINNION, Jim	Wing Half	
-										
-TURNER, Hugh	Goalkeeper	
-										
-WADE, Tom	Full Back	
-										
-WADSWORTH, Sam	Full Back	
-										
-WHITTAM, Ernie	Inside Forward	
-										
-WILSON, Tommy	Central Defender	
-										
-YOUNG, Alf	Central Defender
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BLACKBURN, William ",Full Back,0,0,0,0,0,0,0,0,0
+,"CAMPBELL, Austen ",Wing Half,34,0,0,7,0,0,0,0,0
+,"CROWNSHAW, George ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"CUMMING, Laurie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DAVIES, Harry ",Inside Forward,30,9,0,2,0,0,0,0,0
+,"DENT, Johnny ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"DIXON, Ernie ",Centre Forward,5,2,0,0,0,0,0,0,0
+,"FOGG, Billy ",Wing Half,31,2,0,6,0,0,0,0,0
+,"FOULKES, Jabez ",Winger,0,0,0,0,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,37,0,0,7,0,0,0,0,0
+,"HALL, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JACKSON, Alex ",Winger,30,8,0,7,9,0,0,0,0
+,"JENKINSON, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"KELLY, Gerry ",Winger,14,7,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,28,6,0,7,1,0,0,0,0
+,"LEWIS, Wilf ",Centre Forward,10,4,0,2,0,0,0,0,0
+,"LIDDLE, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"MANGNALL, Dave ",Centre Forward,14,8,0,4,0,0,0,0,0
+,"MOUNTFORD, Reg ",Full Back,4,0,0,0,0,0,0,0,0
+,"NAYLOR, Jimmy ",Wing Half,16,1,0,1,0,0,0,0,0
+,"RALEIGH, Simeon ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"RAW, Harry ",Inside Forward,23,5,0,6,0,0,0,0,0
+,"REDFERN, Levi ",Wing Half,7,0,0,0,0,0,0,0,0
+,"ROUGHTON, George ",Full Back,20,0,0,0,0,0,0,0,0
+,"SMAILES, Jimmy ",Winger,8,3,0,2,0,0,0,0,0
+,"SMITH, Billy ",Winger,33,5,0,5,1,0,0,0,0
+,"SPENCE, Bonwell ",Full Back,19,0,0,7,0,0,0,0,0
+,"STEPHENSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"SUMMERS, George ",Winger,0,0,0,0,0,0,0,0,0
+,"TINNION, Jim ",Wing Half,0,0,0,0,0,0,0,0,0
+,"TURNER, Hugh ",Goalkeeper,42,0,0,7,0,0,0,0,0
+,"WADE, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,3,0,0,0,0,0,0,0,0
+,"WHITTAM, Ernie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WILSON, Tommy ",Central Defender,37,0,0,7,0,0,0,0,0
+,"YOUNG, Alf ",Central Defender,5,0,0,0,0,0,0,0,0

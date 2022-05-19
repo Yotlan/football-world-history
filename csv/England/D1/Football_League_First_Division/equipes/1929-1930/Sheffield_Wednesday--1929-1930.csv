@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jack	Centre Forward	
-										
-BALMFORTH, George	Wing Half	
-										
-BEESON, George	Full Back	
-										
-BLENKINSOP, Ernie	Full Back	
-										
-BRADLEY, Cecil	Winger	
-										
-BROWN, Jack	Goalkeeper	
-										
-BURGESS, Harry	Inside Forward	
-										
-BURRIDGE, Bert	Wing Half	
-										
-ELLIOTT, Charlie	Full Back	
-										
-FELTON, Teddy	Inside Forward	
-										
-GREGG, Bob	Inside Forward	
-										
-HOOPER, Carl	Inside Forward	
-										
-HOOPER, Mark	Winger	
-										
-HOPKINS, Dai	Winger	
-										
-JONES, Tommy	Winger	
-										
-LEACH, Tommy 'Tony'	Central Defender	
-										
-MACKEY, Tom	Full Back	
-										
-MARSDEN, Billy	Wing Half	
-										
-MELLORS, Dick	Goalkeeper	
-										
-MILLERSHIP, Walter	Central Defender	
-										
-NEALE, Tom	Wing Half	
-										
-REYNOLDS, Wally	Winger	
-										
-RIMMER, Ellis	Winger	
-										
-SEED, Jimmy	Inside Forward	
-										
-SMITH, William	Wing Half	
-										
-STRANGE, Alf	Wing Half	
-										
-WALKER, Tommy	Full Back	
-										
-WEBSTER, Walter	Central Defender	
-										
-WHITEHOUSE, Jack	Inside Forward	
-										
-WILKINSON, Jack	Winger	
-										
-WILSON, Charlie	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jack ",Centre Forward,41,33,0,6,6,1,0,0,0
+,"BALMFORTH, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BEESON, George ",Full Back,2,0,0,0,0,0,0,0,0
+,"BLENKINSOP, Ernie ",Full Back,39,0,0,6,0,0,0,0,0
+,"BRADLEY, Cecil ",Winger,0,0,0,0,0,0,0,0,0
+,"BROWN, Jack ",Goalkeeper,41,0,0,6,0,0,0,0,0
+,"BURGESS, Harry ",Inside Forward,39,20,0,6,1,0,0,0,0
+,"BURRIDGE, Bert ",Wing Half,2,0,0,0,0,0,0,0,0
+,"ELLIOTT, Charlie ",Full Back,0,0,0,0,0,0,0,0,0
+,"FELTON, Teddy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GREGG, Bob ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"HOOPER, Carl ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HOOPER, Mark ",Winger,42,18,0,6,3,0,0,0,0
+,"HOPKINS, Dai ",Winger,0,0,0,0,0,0,0,0,0
+,"JONES, Tommy ",Winger,1,0,0,0,0,0,0,0,0
+,"LEACH, Tommy 'Tony' ",Central Defender,40,2,0,6,0,0,0,0,0
+,"MACKEY, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"MARSDEN, Billy ",Wing Half,37,3,0,6,0,0,0,0,0
+,"MELLORS, Dick ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MILLERSHIP, Walter ",Central Defender,6,1,0,0,0,0,0,0,0
+,"NEALE, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"REYNOLDS, Wally ",Winger,0,0,0,0,0,0,0,0,0
+,"RIMMER, Ellis ",Winger,40,14,0,6,2,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,32,9,0,6,3,0,0,0,0
+,"SMITH, William ",Wing Half,4,0,0,0,0,0,0,0,0
+,"STRANGE, Alf ",Wing Half,41,3,0,6,0,0,0,0,0
+,"WALKER, Tommy ",Full Back,34,0,0,6,0,0,0,0,0
+,"WEBSTER, Walter ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WHITEHOUSE, Jack ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"WILKINSON, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,9,0,0,0,0,0,0,0,0

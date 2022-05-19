@@ -1,75 +1,37 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATTWOOD, Arthur	Centre Forward	
-										
-COGGINS, Billy	Goalkeeper	
-										
-COMMON, Ted	Full Back	
-										
-CRESSWELL, Warney	Full Back	
-										
-CRITCHLEY, Ted	Winger	
-										
-DAVIES, Arthur	Goalkeeper	
-										
-DEAN, Bill 'Dixie'	Centre Forward	
-										
-DUNN, Jimmy	Inside Forward	
-										
-FRENCH, Alf	Centre Forward	
-										
-GRIFFITHS, Tom	Central Defender	
-										
-HART, Hunter	Wing Half	
-										
-HEWITT, Joss	Centre Forward	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-KELLY, Jerry	Wing Half	
-										
-LIGGINS, Alf	Winger	
-										
-MARTIN, George	Inside Forward	
-										
-MCCLURE, Joe	Wing Half	
-										
-MCPHERSON, Lacky	Wing Half	
-										
-O'DONNELL, Jack	Full Back	
-										
-O'DONNELL, William	Full Back	
-										
-RIGBY, Arthur	Winger	
-										
-RITCHIE, Harry	Winger	
-										
-ROBSON, Tom	Wing Half	
-										
-ROONEY, Walter	Wing Half	
-										
-SAGAR, Ted	Goalkeeper	
-										
-STEIN, Jimmy	Winger	
-										
-THOMSON, Jock	Wing Half	
-										
-TROUP, Alec	Winger	
-										
-VIRR, Albert	Wing Half	
-										
-WALTON, Bob	Centre Forward	
-										
-WELDON, Tony	Inside Forward	
-										
-WHITE, Tommy	Central Defender	
-										
-WHYTE, John	Wing Half	
-										
-WILKINSON, Monty	Winger	
-										
-WILLIAMS, Ben	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATTWOOD, Arthur ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"COGGINS, Billy ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"COMMON, Ted ",Full Back,4,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,30,0,0,0,0,0,0,0,0
+,"CRITCHLEY, Ted ",Winger,30,4,0,2,2,0,0,0,0
+,"DAVIES, Arthur ",Goalkeeper,28,0,0,1,0,0,0,0,0
+,"DEAN, Bill 'Dixie' ",Centre Forward,25,23,0,2,2,1,0,0,0
+,"DUNN, Jimmy ",Inside Forward,12,0,0,1,0,0,0,0,0
+,"FRENCH, Alf ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GRIFFITHS, Tom ",Central Defender,26,4,0,1,0,0,0,0,0
+,"HART, Hunter ",Wing Half,20,0,0,2,0,0,0,0,0
+,"HEWITT, Joss ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,10,4,0,0,0,0,0,0,0
+,"KELLY, Jerry ",Wing Half,6,0,0,0,0,0,0,0,0
+,"LIGGINS, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"MARTIN, George ",Inside Forward,40,15,0,1,1,0,0,0,0
+,"MCCLURE, Joe ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCPHERSON, Lacky ",Wing Half,10,0,0,1,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,41,0,0,2,0,0,0,0,0
+,"O'DONNELL, William ",Full Back,0,0,0,0,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,25,7,0,2,0,0,0,0,0
+,"RITCHIE, Harry ",Winger,9,1,0,0,0,0,0,0,0
+,"ROBSON, Tom ",Wing Half,27,0,0,2,0,0,0,0,0
+,"ROONEY, Walter ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SAGAR, Ted ",Goalkeeper,8,0,0,1,0,0,0,0,0
+,"STEIN, Jimmy ",Winger,29,10,0,2,0,0,0,0,0
+,"THOMSON, Jock ",Wing Half,9,0,0,0,0,0,0,0,0
+,"TROUP, Alec ",Winger,4,1,0,0,0,0,0,0,0
+,"VIRR, Albert ",Wing Half,5,0,0,0,0,0,0,0,0
+,"WALTON, Bob ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WELDON, Tony ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"WHITE, Tommy ",Central Defender,35,11,0,0,0,0,0,0,0
+,"WHYTE, John ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WILKINSON, Monty ",Winger,6,0,0,0,0,0,0,0,0
+,"WILLIAMS, Ben ",Full Back,9,0,0,2,0,0,0,0,0

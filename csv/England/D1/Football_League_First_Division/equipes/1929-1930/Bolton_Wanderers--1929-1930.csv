@@ -1,60 +1,29 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKMORE, Harold	Centre Forward	
-										
-BRYAN, James	Winger	
-										
-BUTLER, Billy	Winger	
-										
-COOK, Willie	Winger	
-										
-FINNEY, Alex	Full Back	
-										
-GIBSON, George	Inside Forward	
-										
-GILL, Jimmy	Goalkeeper	
-										
-HAWORTH, Bob	Full Back	
-										
-HOWARTH, Harold	Wing Half	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Bob	Goalkeeper	
-										
-KEAN, Fred	Wing Half	
-										
-MCCLELLAND, Jimmy	Inside Forward	
-										
-MCKAY, Billy	Wing Half	
-										
-MILLER, Bill	Central Defender	
-										
-MILSOM, Jack	Centre Forward	
-										
-MORTON, Harry	Goalkeeper	
-										
-NUTTALL, Harry	Wing Half	
-										
-PARRY, Harry	Wing Half	
-										
-PYM, Dick	Goalkeeper	
-										
-ROUND, Jack	Central Defender	
-										
-SEABROOK, Ted	Central Defender	
-										
-SEDDON, Jimmy	Central Defender	
-										
-THORNBOROUGH, Ernie	Wing Half	
-										
-VIZARD, Ted	Winger	
-										
-WAGSTAFF, James	Full Back	
-										
-WRIGHT, Billy	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKMORE, Harold ",Centre Forward,38,30,0,0,0,0,0,0,0
+,"BRYAN, James ",Winger,1,1,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,35,7,0,1,0,0,0,0,0
+,"COOK, Willie ",Winger,41,6,0,1,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,38,0,0,0,0,0,0,0,0
+,"GIBSON, George ",Inside Forward,42,13,0,1,0,0,0,0,0
+,"GILL, Jimmy ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,42,0,0,1,0,0,0,0,0
+,"HOWARTH, Harold ",Wing Half,4,0,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JONES, Bob ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"KEAN, Fred ",Wing Half,39,0,0,1,0,0,0,0,0
+,"MCCLELLAND, Jimmy ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"MCKAY, Billy ",Wing Half,22,5,0,1,0,0,0,0,0
+,"MILLER, Bill ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MILSOM, Jack ",Centre Forward,4,3,0,0,0,0,0,0,0
+,"MORTON, Harry ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,27,1,0,1,0,0,0,0,0
+,"PARRY, Harry ",Wing Half,5,0,0,0,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,24,0,0,1,0,0,0,0,0
+,"ROUND, Jack ",Central Defender,7,0,0,0,0,0,0,0,0
+,"SEABROOK, Ted ",Central Defender,0,0,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,32,0,0,1,0,0,0,0,0
+,"THORNBOROUGH, Ernie ",Wing Half,5,0,0,0,0,0,0,0,0
+,"VIZARD, Ted ",Winger,4,0,0,0,0,0,0,0,0
+,"WAGSTAFF, James ",Full Back,4,0,0,1,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,21,6,0,1,0,0,0,0,0

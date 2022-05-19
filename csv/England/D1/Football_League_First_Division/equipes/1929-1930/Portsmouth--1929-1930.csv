@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Tommy	Full Back	
-										
-CLIFFORD, George	Full Back	
-										
-COOK, Fred	Winger	
-										
-EASSON, Jimmy	Inside Forward	
-										
-FLETCHER, Jack	Inside Forward	
-										
-FORWARD, Fred	Winger	
-										
-GILFILLAN, Jock	Goalkeeper	
-										
-HILL, Frank	Full Back	
-										
-IRVINE, Bobby	Inside Forward	
-										
-KEARNEY, Bob	Centre Half	
-										
-LATIMER, John	Winger	
-										
-LEVER, Eddie	Wing Half	
-										
-MACKIE, Alex	Full Back	
-										
-MCCOLGAN, John	Full Back	
-										
-MCILWANE, Johnny	Central Defender	
-										
-MCNEIL, Johnny	Central Defender	
-										
-NICHOL, Jimmy	Wing Half	
-										
-ROSS, George	Winger	
-										
-RUTHERFORD, Sep	Winger	
-										
-SMITH, Jack	Inside Forward	
-										
-SMITH, Billy	Full Back	
-										
-THACKERAY, David	Wing Half	
-										
-WATSON, David	Inside Forward	
-										
-WEDDLE, Jack	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Tommy ",Full Back,9,0,0,0,0,0,0,0,0
+,"CLIFFORD, George ",Full Back,17,0,0,0,0,0,0,0,0
+,"COOK, Fred ",Winger,38,6,0,2,0,0,0,0,0
+,"EASSON, Jimmy ",Inside Forward,35,15,0,2,0,0,0,0,0
+,"FLETCHER, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FORWARD, Fred ",Winger,32,4,0,2,1,0,0,0,0
+,"GILFILLAN, Jock ",Goalkeeper,42,0,0,2,0,0,0,0,0
+,"HILL, Frank ",Full Back,0,0,0,0,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"KEARNEY, Bob ",Centre Half,32,0,0,2,0,0,0,0,0
+,"LATIMER, John ",Winger,7,1,0,0,0,0,0,0,0
+,"LEVER, Eddie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MACKIE, Alex ",Full Back,31,0,0,2,0,0,0,0,0
+,"MCCOLGAN, John ",Full Back,7,0,0,0,0,0,0,0,0
+,"MCILWANE, Johnny ",Central Defender,10,1,0,0,0,0,0,0,0
+,"MCNEIL, Johnny ",Central Defender,3,1,0,0,0,0,0,0,0
+,"NICHOL, Jimmy ",Wing Half,41,2,0,2,0,0,0,0,0
+,"ROSS, George ",Winger,3,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Sep ",Winger,4,1,0,0,0,0,0,0,0
+,"SMITH, Jack ",Inside Forward,36,8,0,2,1,0,0,0,0
+,"SMITH, Billy ",Full Back,22,0,0,2,0,0,0,0,0
+,"THACKERAY, David ",Wing Half,41,4,0,2,0,0,0,0,0
+,"WATSON, David ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"WEDDLE, Jack ",Centre Forward,42,21,0,2,0,0,0,0,0

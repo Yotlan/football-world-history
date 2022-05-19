@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAXTER, Thomas	Full Back	
-										
-BINNS, Cliff	Goalkeeper	
-										
-BOURTON, Clarrie	Centre Forward	
-										
-BRUTON, Jack	Winger	
-										
-BRUTON, Les	Centre Forward	
-										
-CAMPBELL, Austen	Wing Half	
-										
-COPE, Harold	Goalkeeper	
-										
-CRAWFORD, Jock	Goalkeeper	
-										
-CROMPTON, Wilf	Winger	
-										
-CUNLIFFE, Arthur	Winger	
-										
-GILHESPY, Cyril	Winger	
-										
-GROVES, Arthur	Inside Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HUTTON, Jock	Full Back	
-										
-IMRIE, Bill	Wing Half	
-										
-JONES, Herbert	Full Back	
-										
-KEATING, Albert	Inside Forward	
-										
-MCLEAN, Tommy	Inside Forward	
-										
-MELVILLE, Jim	Central Defender	
-										
-O'DOWD, Peter	Central Defender	
-										
-PICKUP, Tom	Winger	
-										
-PUDDEFOOT, Syd	Inside Forward	
-										
-RANKIN, Willie	Central Defender	
-										
-RIGBY, Arthur	Winger	
-										
-ROSCAMP, Jack	Wing Half	
-										
-ROXBURGH, Robert	Full Back	
-										
-TURNER, Tom 'Tucker'	Winger	
-										
-WRIGHT, Albert	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAXTER, Thomas ",Full Back,19,0,0,3,0,0,0,0,0
+,"BINNS, Cliff ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"BOURTON, Clarrie ",Centre Forward,23,21,0,3,2,0,0,0,0
+,"BRUTON, Jack ",Winger,20,4,0,3,2,0,0,0,0
+,"BRUTON, Les ",Centre Forward,12,5,0,0,0,0,0,0,0
+,"CAMPBELL, Austen ",Wing Half,2,0,0,0,0,0,0,0,0
+,"COPE, Harold ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"CRAWFORD, Jock ",Goalkeeper,26,0,0,3,0,0,0,0,0
+,"CROMPTON, Wilf ",Winger,16,5,0,0,0,0,0,0,0
+,"CUNLIFFE, Arthur ",Winger,18,11,0,3,2,0,0,0,0
+,"GILHESPY, Cyril ",Winger,5,1,0,0,0,0,0,0,0
+,"GROVES, Arthur ",Inside Forward,16,10,0,0,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,7,0,0,0,0,0,0,0,0
+,"HUTTON, Jock ",Full Back,18,3,3,0,0,0,0,0,0
+,"IMRIE, Bill ",Wing Half,35,6,4,3,1,1,0,0,0
+,"JONES, Herbert ",Full Back,39,0,0,3,0,0,0,0,0
+,"KEATING, Albert ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"MCLEAN, Tommy ",Inside Forward,26,10,0,3,2,0,0,0,0
+,"MELVILLE, Jim ",Central Defender,1,0,0,0,0,0,0,0,0
+,"O'DOWD, Peter ",Central Defender,20,0,0,0,0,0,0,0,0
+,"PICKUP, Tom ",Winger,0,0,0,0,0,0,0,0,0
+,"PUDDEFOOT, Syd ",Inside Forward,37,12,0,3,0,0,0,0,0
+,"RANKIN, Willie ",Central Defender,38,1,0,3,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,3,0,0,0,0,0,0,0,0
+,"ROSCAMP, Jack ",Wing Half,33,6,0,3,0,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,8,0,0,0,0,0,0,0,0
+,"TURNER, Tom 'Tucker' ",Winger,23,2,0,0,0,0,0,0,0
+,"WRIGHT, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0

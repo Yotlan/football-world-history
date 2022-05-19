@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLISON, Bill	Full Back	
-										
-BAKER, Alf	Wing Half	
-										
-BASTIN, Cliff	Winger	
-										
-BRAIN, Jimmy	Centre Forward	
-										
-BUTLER, Jack	Central Defender	
-										
-COPE, Horace	Full Back	
-										
-FROST, Jack	Wing Half	
-										
-HALLIDAY, Dave	Centre Forward	
-										
-HAPGOOD, Eddie	Full Back	
-										
-HAYNES, Alfred	Wing Half	
-										
-HULME, Joe	Winger	
-										
-HUMPISH, Bert	Wing Half	
-										
-JACK, David	Inside Forward	
-										
-JAMES, Alex	Inside Forward	
-										
-JOHN, Bob	Wing Half	
-										
-JOHNSTONE, Bill	Centre Forward	
-										
-JONES, Charlie	Winger	
-										
-LAMBERT, Jack	Centre Forward	
-										
-LEWIS, Dan	Goalkeeper	
-										
-PARKER, Tom	Full Back	
-										
-PEEL, Harold	Inside Forward	
-										
-PREEDY, Charlie	Goalkeeper	
-										
-ROBERTS, Herbie	Central Defender	
-										
-SEDDON, Bill	Wing Half	
-										
-THOMPSON, Len	Inside Forward	
-										
-WILLIAMS, Joey	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLISON, Bill ",Full Back,0,0,0,0,0,0,0,0,0
+,"BAKER, Alf ",Wing Half,19,0,0,7,2,1,0,0,0
+,"BASTIN, Cliff ",Winger,21,7,0,8,4,0,0,0,0
+,"BRAIN, Jimmy ",Centre Forward,6,0,0,0,0,0,0,0,0
+,"BUTLER, Jack ",Central Defender,2,0,0,0,0,0,0,0,0
+,"COPE, Horace ",Full Back,1,0,0,0,0,0,0,0,0
+,"FROST, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HALLIDAY, Dave ",Centre Forward,15,8,0,0,0,0,0,0,0
+,"HAPGOOD, Eddie ",Full Back,38,0,0,8,0,0,0,0,0
+,"HAYNES, Alfred ",Wing Half,13,0,0,1,0,0,0,0,0
+,"HULME, Joe ",Winger,37,14,0,4,0,0,0,0,0
+,"HUMPISH, Bert ",Wing Half,3,0,0,0,0,0,0,0,0
+,"JACK, David ",Inside Forward,33,13,0,8,3,0,0,0,0
+,"JAMES, Alex ",Inside Forward,31,6,0,6,1,0,0,0,0
+,"JOHN, Bob ",Wing Half,34,0,0,5,0,0,0,0,0
+,"JOHNSTONE, Bill ",Centre Forward,7,3,0,0,0,0,0,0,0
+,"JONES, Charlie ",Winger,31,1,0,4,0,0,0,0,0
+,"LAMBERT, Jack ",Centre Forward,20,18,0,8,5,0,0,0,0
+,"LEWIS, Dan ",Goalkeeper,30,0,0,6,0,0,0,0,0
+,"PARKER, Tom ",Full Back,41,3,2,8,0,0,0,0,0
+,"PEEL, Harold ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"PREEDY, Charlie ",Goalkeeper,12,0,0,2,0,0,0,0,0
+,"ROBERTS, Herbie ",Central Defender,26,0,0,5,0,0,0,0,0
+,"SEDDON, Bill ",Wing Half,24,0,0,3,0,0,0,0,0
+,"THOMPSON, Len ",Inside Forward,5,1,0,1,0,0,0,0,0
+,"WILLIAMS, Joey ",Winger,12,3,0,4,0,0,0,0,0

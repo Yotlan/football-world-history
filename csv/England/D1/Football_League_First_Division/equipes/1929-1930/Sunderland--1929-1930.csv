@@ -1,77 +1,38 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Adam	Central Defender	
-										
-ANDREWS, Arthur	Wing Half	
-										
-BARTLEY, Jack	Wing Half	
-										
-BELL, Jack	Goalkeeper	
-										
-BROWN, Joe	Winger	
-										
-CLUNAS, Billy	Wing Half	
-										
-EDEN, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-GALLACHER, Patsy	Inside Forward	
-										
-GUNSON, Gordon	Winger	
-										
-GURNEY, Bobby	Centre Forward	
-										
-HALLIDAY, Dave	Centre Forward	
-										
-HANN, Ralph	Wing Half	
-										
-LAWLEY, George	Winger	
-										
-MCDOUGALL, Jock	Central Defender	
-										
-MCGREGOR, George	Inside Forward	
-										
-MCINALLY, Tommy	Inside Forward	
-										
-MCINROY, Albert	Goalkeeper	
-										
-MCKAY, Bobby	Inside Forward	
-										
-MCLEAN, Adam	Winger	
-										
-MCNESTRY, George	Winger	
-										
-MCPHEE, Johnny	Winger	
-										
-MORRIS, Sam	Wing Half	
-										
-MORRISON, Evelyn	Centre Forward	
-										
-MURRAY, Bill	Full Back	
-										
-OAKLEY, James	Full Back	
-										
-PICKARD, Tom	Goalkeeper	
-										
-ROBINSON, Henry	Winger	
-										
-ROBINSON, Bob	Goalkeeper	
-										
-SHAW, Harry	Full Back	
-										
-THOMPSON, Jimmy	Centre Forward	
-										
-URWIN, Tommy	Winger	
-										
-WHELAN, Billy	Full Back	
-										
-WILKINS, Les	Inside Forward	
-										
-WOOD, Albert	Inside Forward	
-										
-WRIGHT, Dave	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Adam ",Central Defender,14,0,0,1,0,0,0,0,0
+,"ANDREWS, Arthur ",Wing Half,28,0,0,4,0,0,0,0,0
+,"BARTLEY, Jack ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BELL, Jack ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"BROWN, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"CLUNAS, Billy ",Wing Half,35,8,4,4,0,0,0,0,0
+,"EDEN, Billy ",Winger,19,6,0,2,1,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,17,0,0,2,0,0,0,0,0
+,"GALLACHER, Patsy ",Inside Forward,22,4,0,4,1,0,0,0,0
+,"GUNSON, Gordon ",Winger,19,11,0,4,1,0,0,0,0
+,"GURNEY, Bobby ",Centre Forward,22,15,0,3,2,0,0,0,0
+,"HALLIDAY, Dave ",Centre Forward,11,4,0,0,0,0,0,0,0
+,"HANN, Ralph ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LAWLEY, George ",Winger,9,1,0,0,0,0,0,0,0
+,"MCDOUGALL, Jock ",Central Defender,37,1,0,2,0,0,0,0,0
+,"MCGREGOR, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCINALLY, Tommy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"MCKAY, Bobby ",Inside Forward,14,2,0,1,0,0,0,0,0
+,"MCLEAN, Adam ",Winger,25,7,0,4,2,0,0,0,0
+,"MCNESTRY, George ",Winger,4,0,0,0,0,0,0,0,0
+,"MCPHEE, Johnny ",Winger,4,0,0,0,0,0,0,0,0
+,"MORRIS, Sam ",Wing Half,7,0,0,1,0,0,0,0,0
+,"MORRISON, Evelyn ",Centre Forward,11,5,0,1,0,0,0,0,0
+,"MURRAY, Bill ",Full Back,38,0,0,3,0,0,0,0,0
+,"OAKLEY, James ",Full Back,12,0,0,3,0,0,0,0,0
+,"PICKARD, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Henry ",Winger,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Bob ",Goalkeeper,22,0,0,4,0,0,0,0,0
+,"SHAW, Harry ",Full Back,15,0,0,0,0,0,0,0,0
+,"THOMPSON, Jimmy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,13,1,0,0,0,0,0,0,0
+,"WHELAN, Billy ",Full Back,3,0,0,0,0,0,0,0,0
+,"WILKINS, Les ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WOOD, Albert ",Inside Forward,20,8,0,1,0,0,0,0,0
+,"WRIGHT, Dave ",Inside Forward,10,1,0,0,0,0,0,0,0

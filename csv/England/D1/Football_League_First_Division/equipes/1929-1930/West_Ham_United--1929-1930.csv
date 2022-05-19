@@ -1,51 +1,25 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Jack	Inside Forward	
-										
-BARRETT, Jim	Central Defender	
-										
-CADWELL, Albert	Wing Half	
-										
-COLLINS, Jimmy	Wing Half	
-										
-COX, Charlie	Full Back	
-										
-DIXON, Bob	Goalkeeper	
-										
-EARL, Alf	Full Back	
-										
-EARLE, Stan	Inside Forward	
-										
-GIBBINS, Viv	Centre Forward	
-										
-HODGSON, Tommy	Full Back	
-										
-HUFTON, Ted	Goalkeeper	
-										
-LISTER, Bobby	Winger	
-										
-MORAN, John	Inside Forward	
-										
-NORRIS, Fred	Wing Half	
-										
-POLLARD, Walter	Inside Forward	
-										
-ROBSON, George	Inside Forward	
-										
-RUFFELL, Jimmy	Winger	
-										
-ST PIER, Wally	Central Defender	
-										
-WADE, Reg	Full Back	
-										
-WADE, Bill	Full Back	
-										
-WATSON, Vic	Centre Forward	
-										
-WOOD, Jimmy	Winger	
-										
-YEWS, Tommy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Jack ",Inside Forward,15,9,0,0,0,0,0,0,0
+,"BARRETT, Jim ",Central Defender,40,7,1,4,1,0,0,0,0
+,"CADWELL, Albert ",Wing Half,38,0,0,4,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,21,0,0,4,0,0,0,0,0
+,"COX, Charlie ",Full Back,32,0,0,4,0,0,0,0,0
+,"DIXON, Bob ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"EARL, Alf ",Full Back,38,0,0,4,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,36,3,0,4,0,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,18,3,0,3,2,0,0,0,0
+,"HODGSON, Tommy ",Full Back,4,0,0,0,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,30,0,0,4,0,0,0,0,0
+,"LISTER, Bobby ",Winger,0,0,0,0,0,0,0,0,0
+,"MORAN, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"NORRIS, Fred ",Wing Half,19,0,0,0,0,0,0,0,0
+,"POLLARD, Walter ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"ROBSON, George ",Inside Forward,10,1,0,1,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,40,13,1,4,0,0,0,0,0
+,"ST PIER, Wally ",Central Defender,4,0,0,0,0,0,0,0,0
+,"WADE, Reg ",Full Back,2,0,0,0,0,0,0,0,0
+,"WADE, Bill ",Full Back,11,0,0,0,0,0,0,0,0
+,"WATSON, Vic ",Centre Forward,40,42,0,4,8,0,0,0,0
+,"WOOD, Jimmy ",Winger,4,1,0,0,0,0,0,0,0
+,"YEWS, Tommy ",Winger,41,3,0,4,1,0,0,0,0

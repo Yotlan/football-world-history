@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1929/30
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARTON, Harold	Winger	
-										
-BRADSHAW, Tom	Central Defender	
-										
-BROMILOW, Tom	Wing Half	
-										
-BURKE, Peter	Central Defender	
-										
-CLARK, Bob	Inside Forward	
-										
-DAVIDSON, Dave	Central Defender	
-										
-DONE, Bob	Full Back	
-										
-EDMED, Dick	Winger	
-										
-GARDNER, Tommy	Wing Half	
-										
-GRICE, Bob	Central Defender	
-										
-GUNSON, Gordon	Winger	
-										
-HALSALL, Walter	Wing Half	
-										
-HODGSON, Gordon	Inside Forward	
-										
-HOPKIN, Fred	Winger	
-										
-JACKSON, Jimmy	Full Back	
-										
-LINDSAY, John	Winger	
-										
-LUCAS, Tommy	Full Back	
-										
-MCDOUGALL, Jimmy	Wing Half	
-										
-MCFARLANE, John	Inside Forward	
-										
-MCPHERSON, Archie	Inside Forward	
-										
-MORRISON, Tom	Wing Half	
-										
-MURRAY, Billy	Wing Half	
-										
-RACE, Harry	Inside Forward	
-										
-RILEY, Arthur	Goalkeeper	
-										
-SCOTT, Alan	Inside Forward	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SHAW, Robert	Centre Forward	
-										
-SMITH, Jimmy	Centre Forward	
-										
-THOMPSON, Charlie	Wing Half	
-										
-WRIGHT, Dave	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARTON, Harold ",Winger,11,0,0,0,0,0,0,0,0
+,"BRADSHAW, Tom ",Central Defender,17,0,0,0,0,0,0,0,0
+,"BROMILOW, Tom ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BURKE, Peter ",Central Defender,0,0,0,0,0,0,0,0,0
+,"CLARK, Bob ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"DAVIDSON, Dave ",Central Defender,22,1,0,1,0,0,0,0,0
+,"DONE, Bob ",Full Back,13,0,0,0,0,0,0,0,0
+,"EDMED, Dick ",Winger,29,4,0,1,0,0,0,0,0
+,"GARDNER, Tommy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"GRICE, Bob ",Central Defender,0,0,0,0,0,0,0,0,0
+,"GUNSON, Gordon ",Winger,10,1,0,0,0,0,0,0,0
+,"HALSALL, Walter ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HODGSON, Gordon ",Inside Forward,36,14,0,1,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,31,3,0,1,0,0,0,0,0
+,"JACKSON, Jimmy ",Full Back,40,0,0,1,0,0,0,0,0
+,"LINDSAY, John ",Winger,4,1,0,0,0,0,0,0,0
+,"LUCAS, Tommy ",Full Back,31,0,0,1,0,0,0,0,0
+,"MCDOUGALL, Jimmy ",Wing Half,34,1,0,1,0,0,0,0,0
+,"MCFARLANE, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCPHERSON, Archie ",Inside Forward,25,5,0,1,1,0,0,0,0
+,"MORRISON, Tom ",Wing Half,36,0,0,1,0,0,0,0,0
+,"MURRAY, Billy ",Wing Half,2,1,0,0,0,0,0,0,0
+,"RACE, Harry ",Inside Forward,19,7,0,0,0,0,0,0,0
+,"RILEY, Arthur ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"SCOTT, Alan ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"SHAW, Robert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SMITH, Jimmy ",Centre Forward,37,23,0,1,0,0,0,0,0
+,"THOMPSON, Charlie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Dave ",Inside Forward,1,0,0,0,0,0,0,0,0
