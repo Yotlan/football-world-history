@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLAIR, Jimmy	Wing Half	
-										
-BOND, Dickie	Winger	
-										
-BOOCOCK, Irvine	Full Back	
-										
-CAMPBELL, Bob	Full Back	
-										
-CASSIDY, Pat	Centre Half	
-										
-CHAPLIN, George	Full Back	
-										
-CONNELLY, John	Inside Forward	
-										
-DEVINE, Archie	Inside Forward	
-										
-DINES, Joe	Wing Half	
-										
-FOX, Oscar	Inside Forward	
-										
-GANE, George	Full Back	
-										
-GILDEA, Willie	Centre Half	
-										
-GRAHAM, Harry	Inside Forward	
-										
-HAMPTON, Harry	Wing Half	
-										
-HANDLEY, George	Winger	
-										
-LINTOTT, Evelyn	Centre Half	
-										
-LOGAN, Peter	Winger	
-										
-MASKREY, Harry	Goalkeeper	
-										
-MCDONALD, Jimmy	Wing Half	
-										
-MCILVENNY, Jimmy	Inside Forward	
-										
-MELLORS, Mark	Goalkeeper	
-										
-O'ROURKE, Frank	Centre Forward	
-										
-PEART, Harry	Centre Half	
-										
-ROBINSON, George	Wing Half	
-										
-SPEIRS, Jimmy	Inside Forward	
-										
-TAYLOR, David	Full Back	
-										
-THOMPSON, Frank	Winger	
-										
-THOMPSON, Sydney	Centre Half	
-										
-TORRANCE, Bob	Centre Half	
-										
-YOUNG, Jack	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLAIR, Jimmy ",Wing Half,18,0,0,1,0,0,0,0,0
+,"BOND, Dickie ",Winger,26,4,0,3,2,0,0,0,0
+,"BOOCOCK, Irvine ",Full Back,1,0,0,0,0,0,0,0,0
+,"CAMPBELL, Bob ",Full Back,23,1,1,7,0,0,0,0,0
+,"CASSIDY, Pat ",Centre Half,2,0,0,0,0,0,0,0,0
+,"CHAPLIN, George ",Full Back,22,0,0,2,0,0,0,0,0
+,"CONNELLY, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DEVINE, Archie ",Inside Forward,24,8,0,6,1,0,0,0,0
+,"DINES, Joe ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FOX, Oscar ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"GANE, George ",Full Back,1,0,0,0,0,0,0,0,0
+,"GILDEA, Willie ",Centre Half,7,0,0,3,0,0,0,0,0
+,"GRAHAM, Harry ",Inside Forward,10,0,0,0,0,0,0,0,0
+,"HAMPTON, Harry ",Wing Half,13,0,0,1,0,0,0,0,0
+,"HANDLEY, George ",Winger,12,0,0,0,0,0,0,0,0
+,"LINTOTT, Evelyn ",Centre Half,7,0,0,0,0,0,0,0,0
+,"LOGAN, Peter ",Winger,26,6,0,7,1,0,0,0,0
+,"MASKREY, Harry ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"MCDONALD, Jimmy ",Wing Half,18,0,0,6,0,0,0,0,0
+,"MCILVENNY, Jimmy ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,26,0,0,7,0,0,0,0,0
+,"O'ROURKE, Frank ",Centre Forward,32,13,0,7,1,0,0,0,0
+,"PEART, Harry ",Centre Half,2,0,0,1,0,0,0,0,0
+,"ROBINSON, George ",Wing Half,27,0,0,7,0,0,0,0,0
+,"SPEIRS, Jimmy ",Inside Forward,25,7,0,6,2,0,0,0,0
+,"TAYLOR, David ",Full Back,33,1,0,6,0,0,0,0,0
+,"THOMPSON, Frank ",Winger,10,2,0,5,2,0,0,0,0
+,"THOMPSON, Sydney ",Centre Half,1,0,0,0,0,0,0,0,0
+,"TORRANCE, Bob ",Centre Half,19,0,0,2,0,0,0,0,0
+,"YOUNG, Jack ",Centre Forward,9,8,0,0,0,0,0,0,0

@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Wing Half	
-										
-BALMER, Bob	Full Back	
-										
-BARLOW, George	Winger	
-										
-BEARE, George	Winger	
-										
-BERRY, Arthur	Winger	
-										
-BORTHWICK, John	Centre Half	
-										
-CHEDGZOY, Sam	Winger	
-										
-CLIFFORD, Bob	Centre Half	
-										
-DAVIES, Llew	Full Back	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-FREEMAN, Bert	Centre Forward	
-										
-GOURLAY, James	Inside Forward	
-										
-GRACIE, Tommy	Inside Forward	
-										
-GRENYER, Alan	Wing Half	
-										
-HARRIS, Val	Wing Half	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-LACEY, Billy	Winger	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAGNER, Ted	Centre Forward	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-MEUNIER, James	Full Back	
-										
-MOUNTFORD, Harry	Winger	
-										
-PINKNEY, Ernie	Winger	
-										
-SCOTT, Walter	Goalkeeper	
-										
-SCOTT, Billy	Goalkeeper	
-										
-SHELDON, Frank	Inside Forward	
-										
-STEVENSON, William	Full Back	
-										
-TURNER, Bob	Winger	
-										
-WELLER, Louis	Full Back	
-										
-WHITE, Wattie	Inside Forward	
-										
-YOUNG, Sandy	Centre Forward	
-										
-YOUNG, Robert	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BALMER, Bob ",Full Back,23,0,0,1,0,0,0,0,0
+,"BARLOW, George ",Winger,5,1,0,0,0,0,0,0,0
+,"BEARE, George ",Winger,26,8,0,3,0,0,0,0,0
+,"BERRY, Arthur ",Winger,21,5,0,2,0,0,0,0,0
+,"BORTHWICK, John ",Centre Half,4,0,0,0,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,3,0,0,0,0,0,0,0,0
+,"CLIFFORD, Bob ",Centre Half,5,0,0,0,0,0,0,0,0
+,"DAVIES, Llew ",Full Back,0,0,0,0,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,8,1,0,0,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,11,2,0,0,0,0,0,0,0
+,"GOURLAY, James ",Inside Forward,28,4,0,2,1,0,0,0,0
+,"GRACIE, Tommy ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HARRIS, Val ",Wing Half,32,0,0,3,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,24,8,0,2,0,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,22,0,0,2,0,0,0,0,0
+,"MAGNER, Ted ",Centre Forward,6,2,0,3,1,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,33,1,0,3,0,0,0,0,0
+,"MEUNIER, James ",Full Back,4,0,0,0,0,0,0,0,0
+,"MOUNTFORD, Harry ",Winger,1,0,0,0,0,0,0,0,0
+,"PINKNEY, Ernie ",Winger,4,1,0,0,0,0,0,0,0
+,"SCOTT, Walter ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"SCOTT, Billy ",Goalkeeper,31,0,0,3,0,0,0,0,0
+,"SHELDON, Frank ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"STEVENSON, William ",Full Back,22,0,0,3,0,0,0,0,0
+,"TURNER, Bob ",Winger,10,0,0,0,0,0,0,0,0
+,"WELLER, Louis ",Full Back,5,0,0,0,0,0,0,0,0
+,"WHITE, Wattie ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"YOUNG, Sandy ",Centre Forward,30,8,0,3,3,0,0,0,0
+,"YOUNG, Robert ",Centre Half,31,5,2,3,1,0,0,0,0

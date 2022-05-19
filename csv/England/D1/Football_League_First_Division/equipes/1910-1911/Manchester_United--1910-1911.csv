@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Alex	Wing Half	
-										
-BLOTT, Prince	Wing Half	
-										
-BROAD, Jimmy	Centre Forward	
-										
-CONNOR, Ted	Winger	
-										
-CURRY, Joseph	Centre Half	
-										
-DONNELLY, Tony	Full Back	
-										
-DUCKWORTH, Dick	Wing Half	
-										
-EDMONDS, Hugh	Goalkeeper	
-										
-GREEN, Haydn	Inside Forward	
-										
-HALSE, Harold	Inside Forward	
-										
-HAYES, Vince	Full Back	
-										
-HODGE, Jimmy	Full Back	
-										
-HOFTON, Leslie	Full Back	
-										
-HOLDEN, Dick	Full Back	
-										
-HOMER, Tom	Centre Forward	
-										
-HOOPER, Arthur	Inside Forward	
-										
-LINKSON, Oscar	Full Back	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MEREDITH, Billy	Winger	
-										
-MOGER, Harry	Goalkeeper	
-										
-NUTTALL, Jimmy	Full Back	
-										
-PICKEN, John	Inside Forward	
-										
-POTTS, Fred	Full Back	
-										
-ROBERTS, Charlie	Centre Half	
-										
-SHELDON, Jackie	Winger	
-										
-STACEY, George	Full Back	
-										
-STANFORD, James	Inside Forward	
-										
-TURNBULL, Sandy	Inside Forward	
-										
-WALL, George	Winger	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHALLEY, Arthur	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Alex ",Wing Half,27,0,0,3,0,0,0,0,0
+,"BLOTT, Prince ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROAD, Jimmy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CONNOR, Ted ",Winger,7,1,0,0,0,0,0,0,0
+,"CURRY, Joseph ",Centre Half,5,0,0,0,0,0,0,0,0
+,"DONNELLY, Tony ",Full Back,15,0,0,3,0,0,0,0,0
+,"DUCKWORTH, Dick ",Wing Half,22,2,0,3,0,0,0,0,0
+,"EDMONDS, Hugh ",Goalkeeper,13,0,0,1,0,0,0,0,0
+,"GREEN, Haydn ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HALSE, Harold ",Inside Forward,23,9,1,2,1,0,0,0,0
+,"HAYES, Vince ",Full Back,1,0,0,0,0,0,0,0,0
+,"HODGE, Jimmy ",Full Back,2,0,0,0,0,0,0,0,0
+,"HOFTON, Leslie ",Full Back,9,0,0,0,0,0,0,0,0
+,"HOLDEN, Dick ",Full Back,8,0,0,0,0,0,0,0,0
+,"HOMER, Tom ",Centre Forward,7,6,0,0,0,0,0,0,0
+,"HOOPER, Arthur ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"LINKSON, Oscar ",Full Back,7,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,10,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,35,5,0,3,0,0,0,0,0
+,"MOGER, Harry ",Goalkeeper,25,0,0,2,0,0,0,0,0
+,"NUTTALL, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"PICKEN, John ",Inside Forward,14,4,0,1,1,0,0,0,0
+,"POTTS, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROBERTS, Charlie ",Centre Half,33,1,0,3,0,0,0,0,0
+,"SHELDON, Jackie ",Winger,5,0,0,0,0,0,0,0,0
+,"STACEY, George ",Full Back,36,0,0,3,0,0,0,0,0
+,"STANFORD, James ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,35,18,0,3,1,0,0,0,0
+,"WALL, George ",Winger,26,5,0,3,1,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,35,19,0,3,1,0,0,0,0
+,"WHALLEY, Arthur ",Centre Half,15,0,0,0,0,0,0,0,0

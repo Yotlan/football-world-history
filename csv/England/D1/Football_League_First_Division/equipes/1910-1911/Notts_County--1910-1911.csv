@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BETTISON, Harry	Full Back	
-										
-BRADLEY, Herbert	Winger	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CHAPMAN, Fred	Full Back	
-										
-CLAMP, Arthur	Centre Half	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-DEAN, Jerry	Winger	
-										
-DODD, George	Inside Forward	
-										
-EMBERTON, Teddy	Wing Half	
-										
-FLINT, Billy	Wing Half	
-										
-GARRATT, Fred	Centre Half	
-										
-GRICE, Reuben	Winger	
-										
-GRIFFITHS, Arthur	Full Back	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JAMES, Lance	Full Back	
-										
-JONES, Freddie	Inside Forward	
-										
-LEE, Garnet	Full Back	
-										
-MATTHEWS, Billy	Inside Forward	
-										
-MONTGOMERY, Jack	Full Back	
-										
-MORLEY, Bert	Full Back	
-										
-PACEY, Herbert	Wing Half	
-										
-RICHARDS, Sam	Inside Forward	
-										
-WALKER, Albert	Winger	
-										
-WATERALL, Albert	Wing Half	
-										
-WATERALL, Ike	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BETTISON, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"BRADLEY, Herbert ",Winger,3,0,0,0,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,28,13,0,1,0,0,0,0,0
+,"CHAPMAN, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"CLAMP, Arthur ",Centre Half,36,0,0,1,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,33,2,0,1,0,0,0,0,0
+,"DEAN, Jerry ",Winger,30,4,2,1,1,1,0,0,0
+,"DODD, George ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,37,0,0,1,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,25,1,0,1,0,0,0,0,0
+,"GARRATT, Fred ",Centre Half,4,0,0,0,0,0,0,0,0
+,"GRICE, Reuben ",Winger,1,0,0,0,0,0,0,0,0
+,"GRIFFITHS, Arthur ",Full Back,20,0,0,0,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"JAMES, Lance ",Full Back,2,0,0,0,0,0,0,0,0
+,"JONES, Freddie ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"LEE, Garnet ",Full Back,4,0,0,0,0,0,0,0,0
+,"MATTHEWS, Billy ",Inside Forward,29,5,0,0,0,0,0,0,0
+,"MONTGOMERY, Jack ",Full Back,36,1,1,1,0,0,0,0,0
+,"MORLEY, Bert ",Full Back,14,0,0,1,0,0,0,0,0
+,"PACEY, Herbert ",Wing Half,2,0,0,0,0,0,0,0,0
+,"RICHARDS, Sam ",Inside Forward,20,7,0,0,0,0,0,0,0
+,"WALKER, Albert ",Winger,3,0,0,1,0,0,0,0,0
+,"WATERALL, Albert ",Wing Half,5,0,0,0,0,0,0,0,0
+,"WATERALL, Ike ",Winger,35,3,0,1,0,0,0,0,0

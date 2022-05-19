@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, George	Centre Forward	
-										
-BENEY, Albert	Centre Forward	
-										
-BIRNIE, Alex	Winger	
-										
-BULLEN, Teddy	Wing Half	
-										
-CHORLTON, Charlie	Full Back	
-										
-CURRIE, Bob	Inside Forward	
-										
-DEWHURST, Jack	Centre Half	
-										
-DOMLEO, Bill	Full Back	
-										
-DUFFY, Chris	Winger	
-										
-FENNER, Bill	Full Back	
-										
-HEAP, Bob	Wing Half	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HOLT, Jim	Goalkeeper	
-										
-HUMPHREYS, Billy	Wing Half	
-										
-JARVIS, Len	Wing Half	
-										
-KAY, Tom	Inside Forward	
-										
-LEE, Harold	Winger	
-										
-LOMAS, Billy	Centre Forward	
-										
-MCLEOD, John	Full Back	
-										
-MILLINGTON, Tom	Full Back	
-										
-PARKIN, Dick	Full Back	
-										
-RAE, Tommy	Wing Half	
-										
-RAESIDE, Jimmy	Goalkeeper	
-										
-SMITH, Alf	Inside Forward	
-										
-WALKER, Johnny	Winger	
-										
-WALKER, Dick	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BENEY, Albert ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BIRNIE, Alex ",Winger,16,0,0,0,0,0,0,0,0
+,"BULLEN, Teddy ",Wing Half,34,1,0,1,0,0,0,0,0
+,"CHORLTON, Charlie ",Full Back,2,1,1,0,0,0,0,0,0
+,"CURRIE, Bob ",Inside Forward,37,10,0,1,1,0,0,0,0
+,"DEWHURST, Jack ",Centre Half,28,0,0,1,0,0,0,0,0
+,"DOMLEO, Bill ",Full Back,1,0,0,0,0,0,0,0,0
+,"DUFFY, Chris ",Winger,10,0,0,1,0,0,0,0,0
+,"FENNER, Bill ",Full Back,26,0,0,0,0,0,0,0,0
+,"HEAP, Bob ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,35,19,4,1,0,0,0,0,0
+,"HOLT, Jim ",Goalkeeper,21,0,0,1,0,0,0,0,0
+,"HUMPHREYS, Billy ",Wing Half,33,0,0,1,0,0,0,0,0
+,"JARVIS, Len ",Wing Half,13,0,0,0,0,0,0,0,0
+,"KAY, Tom ",Inside Forward,30,7,0,1,0,0,0,0,0
+,"LEE, Harold ",Winger,24,2,0,1,0,0,0,0,0
+,"LOMAS, Billy ",Centre Forward,7,0,0,0,0,0,0,0,0
+,"MCLEOD, John ",Full Back,1,1,1,0,0,0,0,0,0
+,"MILLINGTON, Tom ",Full Back,26,0,0,1,0,0,0,0,0
+,"PARKIN, Dick ",Full Back,21,0,0,1,0,0,0,0,0
+,"RAE, Tommy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"RAESIDE, Jimmy ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"SMITH, Alf ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"WALKER, Johnny ",Winger,11,0,0,0,0,0,0,0,0
+,"WALKER, Dick ",Winger,17,1,0,0,0,0,0,0,0

@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BOTTOMLEY, Bill	Wing Half	
-										
-BRENNAN, Jack	Wing Half	
-										
-BROOKS, George	Wing Half	
-										
-BROWN, Harry	Wing Half	
-										
-BUCHAN, James	Wing Half	
-										
-BURGESS, Charlie	Full Back	
-										
-CHAPLIN, John	Full Back	
-										
-CODLING, Rowland	Wing Half	
-										
-CONLIN, Jimmy	Winger	
-										
-DORSETT, George	Winger	
-										
-DORSETT, Joe	Winger	
-										
-EADIE, Bill	Centre Half	
-										
-GOULD, Willie	Winger	
-										
-HOLFORD, Tom	Centre Half	
-										
-HUMPHREYS, Reginald	Full Back	
-										
-JACKSON, Bertram	Full Back	
-										
-JONES, Lot	Inside Forward	
-										
-KELSO, Tommy	Full Back	
-										
-LYALL, Jack	Goalkeeper	
-										
-NELSON, John	Winger	
-										
-NORGROVE, Frank	Full Back	
-										
-ROSS, Davie	Inside Forward	
-										
-SALT, George	Winger	
-										
-SMITH, Jack	Centre Forward	
-										
-SMITH, Walter	Goalkeeper	
-										
-STEWART, George	Winger	
-										
-THORNLEY, Irvine	Centre Forward	
-										
-WALL, Len	Wing Half	
-										
-WILKINSON, John	Centre Half	
-										
-WYNN, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BOTTOMLEY, Bill ",Wing Half,19,0,0,0,0,0,0,0,0
+,"BRENNAN, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BROOKS, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROWN, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BUCHAN, James ",Wing Half,6,0,0,0,0,0,0,0,0
+,"BURGESS, Charlie ",Full Back,2,0,0,0,0,0,0,0,0
+,"CHAPLIN, John ",Full Back,15,0,0,2,0,0,0,0,0
+,"CODLING, Rowland ",Wing Half,5,0,0,0,0,0,0,0,0
+,"CONLIN, Jimmy ",Winger,27,4,0,1,0,0,0,0,0
+,"DORSETT, George ",Winger,23,2,0,2,0,0,0,0,0
+,"DORSETT, Joe ",Winger,26,3,0,1,0,0,0,0,0
+,"EADIE, Bill ",Centre Half,29,0,0,2,0,0,0,0,0
+,"GOULD, Willie ",Winger,2,0,0,0,0,0,0,0,0
+,"HOLFORD, Tom ",Centre Half,29,2,0,2,0,0,0,0,0
+,"HUMPHREYS, Reginald ",Full Back,3,0,0,0,0,0,0,0,0
+,"JACKSON, Bertram ",Full Back,13,0,0,0,0,0,0,0,0
+,"JONES, Lot ",Inside Forward,34,6,0,2,1,0,0,0,0
+,"KELSO, Tommy ",Full Back,31,0,0,2,0,0,0,0,0
+,"LYALL, Jack ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"NELSON, John ",Winger,8,0,0,0,0,0,0,0,0
+,"NORGROVE, Frank ",Full Back,13,1,0,0,0,0,0,0,0
+,"ROSS, Davie ",Inside Forward,10,4,0,2,0,0,0,0,0
+,"SALT, George ",Winger,1,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Centre Forward,14,5,0,2,1,0,0,0,0
+,"SMITH, Walter ",Goalkeeper,31,0,0,2,0,0,0,0,0
+,"STEWART, George ",Winger,17,0,0,2,0,0,0,0,0
+,"THORNLEY, Irvine ",Centre Forward,18,6,0,0,0,0,0,0,0
+,"WALL, Len ",Wing Half,10,1,0,0,0,0,0,0,0
+,"WILKINSON, John ",Centre Half,2,0,0,0,0,0,0,0,0
+,"WYNN, George ",Inside Forward,20,9,0,0,0,0,0,0,0

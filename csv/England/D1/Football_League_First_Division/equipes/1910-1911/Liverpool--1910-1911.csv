@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEEBY, Augustus	Goalkeeper	
-										
-BOWYER, Sam	Inside Forward	
-										
-BRADLEY, Jimmy	Wing Half	
-										
-BROUGH, Joe	Inside Forward	
-										
-CHORLTON, Tom	Full Back	
-										
-CRAWFORD, Bob	Full Back	
-										
-GILLIGAN, Sammy	Centre Forward	
-										
-GODDARD, Arthur	Winger	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-LEAVEY, Bert	Winger	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-MCCONNELL, Jock	Wing Half	
-										
-MCDONALD, John	Winger	
-										
-MCKINLAY, Donald	Full Back	
-										
-ORR, Ronald	Inside Forward	
-										
-PAGE, Tom	Inside Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PEAKE, Ernie	Wing Half	
-										
-ROBINSON, Robbie	Inside Forward	
-										
-ROGERS, Tom	Full Back	
-										
-SPEAK, George	Full Back	
-										
-SPEAKMAN, James	Winger	
-										
-STEWART, Jimmy	Inside Forward	
-										
-THOMPSON, Alfred	Inside Forward	
-										
-UREN, Harold	Winger	
-										
-WEST, Alf	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEEBY, Augustus ",Goalkeeper,11,0,0,0,0,0,0,0,0
+,"BOWYER, Sam ",Inside Forward,13,4,0,1,2,0,0,0,0
+,"BRADLEY, Jimmy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"BROUGH, Joe ",Inside Forward,10,3,0,0,0,0,0,0,0
+,"CHORLTON, Tom ",Full Back,7,0,0,0,0,0,0,0,0
+,"CRAWFORD, Bob ",Full Back,31,0,0,2,0,0,0,0,0
+,"GILLIGAN, Sammy ",Centre Forward,15,5,0,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,32,8,2,2,1,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,34,1,0,2,0,0,0,0,0
+,"LEAVEY, Bert ",Winger,5,0,0,0,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,33,0,0,1,0,0,0,0,0
+,"MCCONNELL, Jock ",Wing Half,29,0,0,2,0,0,0,0,0
+,"MCDONALD, John ",Winger,24,1,0,1,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,2,0,0,0,0,0,0,0,0
+,"ORR, Ronald ",Inside Forward,30,5,0,2,0,0,0,0,0
+,"PAGE, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,33,19,0,2,1,0,0,0,0
+,"PEAKE, Ernie ",Wing Half,8,3,0,0,0,0,0,0,0
+,"ROBINSON, Robbie ",Inside Forward,38,0,0,2,0,0,0,0,0
+,"ROGERS, Tom ",Full Back,2,0,0,0,0,0,0,0,0
+,"SPEAK, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"SPEAKMAN, James ",Winger,2,0,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,11,4,0,1,0,0,0,0,0
+,"THOMPSON, Alfred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"UREN, Harold ",Winger,13,0,0,1,0,0,0,0,0
+,"WEST, Alf ",Full Back,4,0,0,1,0,0,0,0,0

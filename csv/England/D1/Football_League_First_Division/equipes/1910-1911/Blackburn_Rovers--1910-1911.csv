@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKENHEAD, Wattie	Inside Forward	
-										
-ANTHONY, Walter	Winger	
-										
-ASHCROFT, Jimmy	Goalkeeper	
-										
-BAILEY, Horace	Goalkeeper	
-										
-BRADSHAW, Billy	Wing Half	
-										
-CAMERON, William 'Kilty'	Inside Forward	
-										
-CLENNELL, Joe	Inside Forward	
-										
-COWELL, Arthur	Full Back	
-										
-CROMPTON, Ellis	Wing Half	
-										
-CROMPTON, Bob	Full Back	
-										
-DAVIES, Bill 'Tinker'	Centre Forward	
-										
-DENNISON, Harry	Inside Forward	
-										
-FERGUSON, James	Wing Half	
-										
-GARBUTT, Billy	Winger	
-										
-JOHNSTON, James	Full Back	
-										
-LATHERON, Eddie	Inside Forward	
-										
-MCGHIE, Alex	Winger	
-										
-MURRAY, Bobby	Goalkeeper	
-										
-ORR, Johnny	Inside Forward	
-										
-PROCTER, Benjamin	Winger	
-										
-SIMPSON, Jock	Winger	
-										
-SIMPSON, Bobby	Full Back	
-										
-SMETHAMS, Charlie	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-STEVENSON, Hugh	Centre Half	
-										
-SUTTIE, Tommy	Full Back	
-										
-WALMSLEY, Albert	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKENHEAD, Wattie ",Inside Forward,35,13,0,6,1,0,0,0,0
+,"ANTHONY, Walter ",Winger,24,1,0,1,0,0,0,0,0
+,"ASHCROFT, Jimmy ",Goalkeeper,31,0,0,6,0,0,0,0,0
+,"BAILEY, Horace ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,34,5,5,6,2,1,0,0,0
+,"CAMERON, William 'Kilty' ",Inside Forward,14,1,0,4,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,23,0,0,2,0,0,0,0,0
+,"CROMPTON, Ellis ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,31,1,1,6,0,0,0,0,0
+,"DAVIES, Bill 'Tinker' ",Centre Forward,33,17,0,6,2,0,0,0,0
+,"DENNISON, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"FERGUSON, James ",Wing Half,2,0,0,0,0,0,0,0,0
+,"GARBUTT, Billy ",Winger,22,5,0,1,0,0,0,0,0
+,"JOHNSTON, James ",Full Back,4,0,0,0,0,0,0,0,0
+,"LATHERON, Eddie ",Inside Forward,30,11,0,6,3,0,0,0,0
+,"MCGHIE, Alex ",Winger,1,0,0,0,0,0,0,0,0
+,"MURRAY, Bobby ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,12,4,0,1,0,0,0,0,0
+,"PROCTER, Benjamin ",Winger,1,0,0,1,0,0,0,0,0
+,"SIMPSON, Jock ",Winger,11,0,0,3,3,0,0,0,0
+,"SIMPSON, Bobby ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMETHAMS, Charlie ",Winger,3,0,0,0,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,25,0,0,6,1,0,0,0,0
+,"STEVENSON, Hugh ",Centre Half,19,0,0,3,0,0,0,0,0
+,"SUTTIE, Tommy ",Full Back,18,0,0,4,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,33,1,0,4,0,0,0,0,0

@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANSTEY, Brendel	Goalkeeper	
-										
-BACHE, Joe	Inside Forward	
-										
-BIRCH, Jimmy	Inside Forward	
-										
-BUCKLEY, Chris	Centre Half	
-										
-CARTLIDGE, Arthur	Goalkeeper	
-										
-EYRE, Edmund	Winger	
-										
-GEORGE, Billy	Goalkeeper	
-										
-GERRISH, Billy	Inside Forward	
-										
-HALL, Bert	Winger	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HENSHALL, Horace	Winger	
-										
-HUNTER, George	Wing Half	
-										
-JONES, Walter	Centre Forward	
-										
-KEARNS, John	Full Back	
-										
-LAYTON, Edward	Full Back	
-										
-LOGAN, James	Wing Half	
-										
-LYONS, Tommy	Full Back	
-										
-MILES, Alf	Full Back	
-										
-MOSS, Arthur	Wing Half	
-										
-NOBLE, Bob	Inside Forward	
-										
-RENNEVILLE, Bill	Centre Forward	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TRANTER, George	Wing Half	
-										
-TURNER, Gilbert	Goalkeeper	
-										
-WALLACE, Charlie	Winger	
-										
-WALTERS, Joe	Inside Forward	
-										
-WEST, Jack	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANSTEY, Brendel ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"BACHE, Joe ",Inside Forward,32,15,0,2,1,0,1,0,0
+,"BIRCH, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BUCKLEY, Chris ",Centre Half,30,0,0,1,0,0,1,0,0
+,"CARTLIDGE, Arthur ",Goalkeeper,14,0,0,0,0,0,1,0,0
+,"EYRE, Edmund ",Winger,14,2,0,0,0,0,0,0,0
+,"GEORGE, Billy ",Goalkeeper,14,0,0,2,0,0,0,0,0
+,"GERRISH, Billy ",Inside Forward,14,3,0,0,0,0,1,0,0
+,"HALL, Bert ",Winger,3,0,0,0,0,0,1,0,0
+,"HAMPTON, Harry ",Centre Forward,33,19,0,2,2,0,0,0,0
+,"HENSHALL, Horace ",Winger,19,5,0,2,1,0,0,0,0
+,"HUNTER, George ",Wing Half,33,0,0,2,0,0,1,0,0
+,"JONES, Walter ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"KEARNS, John ",Full Back,15,0,0,1,0,0,0,0,0
+,"LAYTON, Edward ",Full Back,3,0,0,0,0,0,0,0,0
+,"LOGAN, James ",Wing Half,14,2,0,1,0,0,0,0,0
+,"LYONS, Tommy ",Full Back,28,0,0,1,0,0,1,0,0
+,"MILES, Alf ",Full Back,30,0,0,2,0,0,1,0,0
+,"MOSS, Arthur ",Wing Half,1,0,0,0,0,0,0,0,0
+,"NOBLE, Bob ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RENNEVILLE, Bill ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,5,3,0,0,0,0,0,0,0
+,"TRANTER, George ",Wing Half,36,0,0,2,0,0,1,0,0
+,"TURNER, Gilbert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WALLACE, Charlie ",Winger,38,5,3,2,0,0,1,0,0
+,"WALTERS, Joe ",Inside Forward,28,13,0,2,1,0,1,0,0
+,"WEST, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0

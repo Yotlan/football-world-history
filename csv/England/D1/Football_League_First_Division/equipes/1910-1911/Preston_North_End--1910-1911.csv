@@ -1,71 +1,35 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, David	Wing Half	
-										
-BAKER, George	Full Back	
-										
-BANNISTER, Ernest	Wing Half	
-										
-BANNISTER, Jimmy	Inside Forward	
-										
-BEST, Harry	Centre Forward	
-										
-BROADHURST, Fred	Full Back	
-										
-CHESTER, Albert	Inside Forward	
-										
-DANSON, Herbie	Winger	
-										
-DICKINSON, Thomas	Winger	
-										
-ENGLISH, Jack	Full Back	
-										
-GALBRAITH, David	Winger	
-										
-GILLOW, Wilf	Wing Half	
-										
-HALL, Jack	Winger	
-										
-HOLDSWORTH, Eddie	Wing Half	
-										
-LYON, Billy	Wing Half	
-										
-MACLEAN, Lachie	Inside Forward	
-										
-MCBRIDE, Peter	Goalkeeper	
-										
-MCCALL, Joe	Centre Half	
-										
-MCFADYEN, Charlie	Full Back	
-										
-MCLEAN, David	Centre Forward	
-										
-MCLEAN, Jimmy	Wing Half	
-										
-MOUNTENEY, Arthur	Inside Forward	
-										
-PLATT, Jack	Inside Forward	
-										
-ROBERTSON, Willie	Winger	
-										
-RODWAY, Tommy	Full Back	
-										
-SPENCE, William	Inside Forward	
-										
-STANFIELD, Charlie	Inside Forward	
-										
-TAYLOR, Herbert	Goalkeeper	
-										
-THOMPSON, John	Winger	
-										
-THOMPSON, Bob	Centre Forward	
-										
-WAREING, Billy	Wing Half	
-										
-WILSON, James	Inside Forward	
-										
-WINTERHALDER, Arthur	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, David ",Wing Half,1,1,0,0,0,0,0,0,0
+,"BAKER, George ",Full Back,8,0,0,0,0,0,0,0,0
+,"BANNISTER, Ernest ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BANNISTER, Jimmy ",Inside Forward,30,7,0,2,0,0,0,0,0
+,"BEST, Harry ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"BROADHURST, Fred ",Full Back,2,0,0,0,0,0,0,0,0
+,"CHESTER, Albert ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"DANSON, Herbie ",Winger,24,4,0,1,0,0,0,0,0
+,"DICKINSON, Thomas ",Winger,1,0,0,0,0,0,0,0,0
+,"ENGLISH, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"GALBRAITH, David ",Winger,1,0,0,0,0,0,0,0,0
+,"GILLOW, Wilf ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HALL, Jack ",Winger,9,2,0,0,0,0,0,0,0
+,"HOLDSWORTH, Eddie ",Wing Half,33,0,0,2,0,0,0,0,0
+,"LYON, Billy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"MACLEAN, Lachie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCBRIDE, Peter ",Goalkeeper,35,0,0,2,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,32,2,0,2,0,0,0,0,0
+,"MCFADYEN, Charlie ",Full Back,33,0,0,2,0,0,0,0,0
+,"MCLEAN, David ",Centre Forward,22,7,0,2,0,0,0,0,0
+,"MCLEAN, Jimmy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MOUNTENEY, Arthur ",Inside Forward,21,5,0,1,0,0,0,0,0
+,"PLATT, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"ROBERTSON, Willie ",Winger,2,0,0,0,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,30,2,2,2,1,1,0,0,0
+,"SPENCE, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"STANFIELD, Charlie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Herbert ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"THOMPSON, John ",Winger,34,5,0,2,0,0,0,0,0
+,"THOMPSON, Bob ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WAREING, Billy ",Wing Half,37,2,0,2,0,0,0,0,0
+,"WILSON, James ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"WINTERHALDER, Arthur ",Winger,30,2,0,2,0,0,0,0,0

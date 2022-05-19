@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Tom	Goalkeeper	
-										
-ARTHUR, Joe	Winger	
-										
-BRIDGETT, Arthur	Winger	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-BUCHAN, Tom	Wing Half	
-										
-CARR, Harry	Centre Forward	
-										
-COLEMAN, Tim	Inside Forward	
-										
-COPE, Tom	Goalkeeper	
-										
-COWELL, Jack	Centre Forward	
-										
-CRINGAN, Willie	Wing Half	
-										
-CUGGY, Frank	Wing Half	
-										
-FORSTER, Harry	Full Back	
-										
-GEMMELL, Jimmy	Inside Forward	
-										
-HALL, Tom	Inside Forward	
-										
-HODKIN, Ernie	Wing Half	
-										
-HOLLEY, George	Inside Forward	
-										
-JARVIE, Gavin	Wing Half	
-										
-LOW, Harry	Wing Half	
-										
-MAIN, Davie	Centre Forward	
-										
-MARTIN, Isaac 'Pompey'	Centre Half	
-										
-MILTON, Albert	Full Back	
-										
-MORDUE, Jackie	Winger	
-										
-READ, Harry	Winger	
-										
-ROOSE, Dick	Goalkeeper	
-										
-TAIT, Tommy	Wing Half	
-										
-THOMSON, Charlie	Centre Half	
-										
-TROUGHEAR, Billy	Full Back	
-										
-WORRALL, Bill	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Tom ",Goalkeeper,14,0,0,1,0,0,0,0,0
+,"ARTHUR, Joe ",Winger,1,0,0,0,0,0,0,0,0
+,"BRIDGETT, Arthur ",Winger,37,7,0,1,1,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"BUCHAN, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CARR, Harry ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"COLEMAN, Tim ",Inside Forward,32,21,0,1,0,0,0,0,0
+,"COPE, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"COWELL, Jack ",Centre Forward,14,6,0,0,0,0,0,0,0
+,"CRINGAN, Willie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,3,0,0,0,0,0,0,0,0
+,"FORSTER, Harry ",Full Back,15,0,0,1,0,0,0,0,0
+,"GEMMELL, Jimmy ",Inside Forward,20,1,0,1,0,0,0,0,0
+,"HALL, Tom ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"HODKIN, Ernie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,25,14,1,1,0,0,0,0,0
+,"JARVIE, Gavin ",Wing Half,12,0,0,0,0,0,0,0,0
+,"LOW, Harry ",Wing Half,36,8,0,1,0,0,0,0,0
+,"MAIN, Davie ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"MARTIN, Isaac 'Pompey' ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MILTON, Albert ",Full Back,24,0,0,0,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,35,5,0,1,0,0,0,0,0
+,"READ, Harry ",Winger,3,2,0,0,0,0,0,0,0
+,"ROOSE, Dick ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"TAIT, Tommy ",Wing Half,35,1,0,1,0,0,0,0,0
+,"THOMSON, Charlie ",Centre Half,35,0,0,1,0,0,0,0,0
+,"TROUGHEAR, Billy ",Full Back,37,0,0,1,0,0,0,0,0
+,"WORRALL, Bill ",Goalkeeper,12,0,0,0,0,0,0,0,0

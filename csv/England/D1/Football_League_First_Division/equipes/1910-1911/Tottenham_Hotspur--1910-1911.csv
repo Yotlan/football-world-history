@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATKIN, Fred	Full Back	
-										
-BENTLEY, Frank	Wing Half	
-										
-BIRNIE, Ted	Wing Half	
-										
-BROWN, Ivor	Centre Forward	
-										
-BULLING, Ed	Full Back	
-										
-COLLINS, Tom	Full Back	
-										
-COQUET, Ernie	Full Back	
-										
-CROMPTON, Ellis	Wing Half	
-										
-CURTIS, Jack	Winger	
-										
-DARNELL, Jabez	Wing Half	
-										
-ELKIN, Bertie	Full Back	
-										
-FORMAN, Tom	Winger	
-										
-GOSNELL, Bert	Winger	
-										
-HUMPHREYS, Percy	Inside Forward	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-KENNEDY, Jimmy	Wing Half	
-										
-LESLIE, Tom	Full Back	
-										
-LUNN, Tommy	Goalkeeper	
-										
-MCTAVISH, Jock	Inside Forward	
-										
-MCTAVISH, Bob	Inside Forward	
-										
-MIDDLEMISS, Bert	Winger	
-										
-MINTER, Billy	Inside Forward	
-										
-MORRIS, Tom	Centre Half	
-										
-NEWMAN, Ernie	Inside Forward	
-										
-RANCE, Charlie	Centre Half	
-										
-STEEL, Danny	Centre Half	
-										
-STEEL, Bobby	Inside Forward	
-										
-STEPHENSON, William	Full Back	
-										
-TULL, Walter	Centre Forward	
-										
-VINCETT, John	Full Back	
-										
-WILKES, Fred	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATKIN, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"BENTLEY, Frank ",Wing Half,16,0,0,3,0,0,0,0,0
+,"BIRNIE, Ted ",Wing Half,4,1,0,0,0,0,0,0,0
+,"BROWN, Ivor ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"BULLING, Ed ",Full Back,2,0,0,0,0,0,0,0,0
+,"COLLINS, Tom ",Full Back,25,0,0,3,0,0,0,0,0
+,"COQUET, Ernie ",Full Back,12,0,0,0,0,0,0,0,0
+,"CROMPTON, Ellis ",Wing Half,5,0,0,2,0,0,0,0,0
+,"CURTIS, Jack ",Winger,30,1,0,3,0,0,0,0,0
+,"DARNELL, Jabez ",Wing Half,38,2,0,3,0,0,0,0,0
+,"ELKIN, Bertie ",Full Back,18,0,0,0,0,0,0,0,0
+,"FORMAN, Tom ",Winger,2,1,0,0,0,0,0,0,0
+,"GOSNELL, Bert ",Winger,5,0,0,2,0,0,0,0,0
+,"HUMPHREYS, Percy ",Inside Forward,24,11,0,1,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"KENNEDY, Jimmy ",Wing Half,7,1,0,0,0,0,0,0,0
+,"LESLIE, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"LUNN, Tommy ",Goalkeeper,34,0,0,3,0,0,0,0,0
+,"MCTAVISH, Jock ",Inside Forward,7,0,0,1,0,0,0,0,0
+,"MCTAVISH, Bob ",Inside Forward,11,3,0,1,0,0,0,0,0
+,"MIDDLEMISS, Bert ",Winger,30,3,0,0,0,0,0,0,0
+,"MINTER, Billy ",Inside Forward,38,19,0,3,1,0,0,0,0
+,"MORRIS, Tom ",Centre Half,11,0,0,0,0,0,0,0,0
+,"NEWMAN, Ernie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"RANCE, Charlie ",Centre Half,11,0,0,0,0,0,0,0,0
+,"STEEL, Danny ",Centre Half,26,0,0,3,0,0,0,0,0
+,"STEEL, Bobby ",Inside Forward,29,9,0,2,0,0,0,0,0
+,"STEPHENSON, William ",Full Back,0,0,0,0,0,0,0,0,0
+,"TULL, Walter ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"VINCETT, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"WILKES, Fred ",Full Back,19,0,0,3,0,0,0,0,0

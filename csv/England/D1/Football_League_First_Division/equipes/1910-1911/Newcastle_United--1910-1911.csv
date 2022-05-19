@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Centre Forward	
-										
-ANDERSON, Andrew	Winger	
-										
-BELL, Donald	Full Back	
-										
-CARR, Jack	Wing Half	
-										
-DUNCAN, Scott	Winger	
-										
-FINLAY, Jock	Wing Half	
-										
-HEDLEY, George	Centre Half	
-										
-HEWISON, Bob	Wing Half	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HOWIE, Jimmy	Inside Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-IRVING, Sam	Wing Half	
-										
-JOBEY, George	Wing Half	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LAWRENCE, Val	Wing Half	
-										
-LOW, Wilf	Centre Half	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCWILLIAM, Peter	Wing Half	
-										
-METCALF, Arthur	Inside Forward	
-										
-RANDALL, Charles	Inside Forward	
-										
-RIDLEY, James	Winger	
-										
-RUTHERFORD, Jock	Winger	
-										
-SCOTT, John	Winger	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-SINCLAIR, Thomas	Goalkeeper	
-										
-STEWART, Jimmy	Inside Forward	
-										
-VEITCH, Colin	Centre Half	
-										
-WAUGH, Bob	Full Back	
-										
-WHITSON, Tony	Full Back	
-										
-WILLIS, David	Wing Half	
-										
-WILSON, George	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"ANDERSON, Andrew ",Winger,18,0,0,1,0,0,0,0,0
+,"BELL, Donald ",Full Back,0,0,0,0,0,0,0,0,0
+,"CARR, Jack ",Wing Half,6,0,0,0,0,0,0,0,0
+,"DUNCAN, Scott ",Winger,23,5,0,3,1,0,0,0,0
+,"FINLAY, Jock ",Wing Half,18,0,0,0,0,0,0,0,0
+,"HEDLEY, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"HEWISON, Bob ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,26,8,1,8,1,0,0,0,0
+,"HOWIE, Jimmy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,12,0,0,0,0,0,0,0,0
+,"IRVING, Sam ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JOBEY, George ",Wing Half,7,0,0,2,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,36,0,0,8,0,0,0,0,0
+,"LAWRENCE, Val ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,31,1,0,8,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,30,1,1,8,0,0,0,0,0
+,"MCWILLIAM, Peter ",Wing Half,18,0,0,4,1,0,0,0,0
+,"METCALF, Arthur ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"RANDALL, Charles ",Inside Forward,15,5,0,1,0,0,0,0,0
+,"RIDLEY, James ",Winger,3,1,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,15,1,0,5,1,0,0,0,0
+,"SCOTT, John ",Winger,1,0,0,0,0,0,0,0,0
+,"SHEPHERD, Albert ",Centre Forward,33,25,1,5,8,1,0,0,0
+,"SINCLAIR, Thomas ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,30,10,0,7,3,0,0,0,0
+,"VEITCH, Colin ",Centre Half,26,0,0,8,1,0,0,0,0
+,"WAUGH, Bob ",Full Back,2,0,0,0,0,0,0,0,0
+,"WHITSON, Tony ",Full Back,26,0,0,8,0,0,0,0,0
+,"WILLIS, David ",Wing Half,10,1,0,4,1,0,0,0,0
+,"WILSON, George ",Winger,19,1,0,8,1,0,0,0,0

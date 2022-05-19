@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAILIFF, William	Goalkeeper	
-										
-BATTY, Billy	Inside Forward	
-										
-BURTON, Andy	Inside Forward	
-										
-CHAPMAN, Bert	Inside Forward	
-										
-CLARK, Billy	Winger	
-										
-CLAY, Harry	Goalkeeper	
-										
-CLEGG, John	Goalkeeper	
-										
-COPESTAKE, Levi	Winger	
-										
-COTTLE, Joe	Full Back	
-										
-COWELL, Jack	Centre Forward	
-										
-DATE, Marmy	Inside Forward	
-										
-FAGAN, Stephen	Full Back	
-										
-FOSTER, Allen	Inside Forward	
-										
-GADSBY, Ernie	Inside Forward	
-										
-GILDEA, Harry	Inside Forward	
-										
-HANLIN, Pat	Wing Half	
-										
-HARDY, Bob	Winger	
-										
-JONES, Eddie	Full Back	
-										
-LOGAN, Alec	Inside Forward	
-										
-MARR, Reuben	Wing Half	
-										
-MASON, SR	Wing Half	
-										
-OSBORNE, Albert	Wing Half	
-										
-OWERS, Ebenezer	Centre Forward	
-										
-PADFIELD, Billy	Full Back	
-										
-SHEARMAN, Ben	Winger	
-										
-SPEAR, Arthur	Wing Half	
-										
-STANIFORTH, Fred	Winger	
-										
-SWEET, Frank	Centre Half	
-										
-WEDLOCK, Billy	Centre Half	
-										
-YOUNG, Robert	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAILIFF, William ",Goalkeeper,7,0,0,1,0,0,0,0,0
+,"BATTY, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BURTON, Andy ",Inside Forward,21,4,0,1,0,0,0,0,0
+,"CHAPMAN, Bert ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"CLARK, Billy ",Winger,24,1,0,1,0,0,0,0,0
+,"CLAY, Harry ",Goalkeeper,28,0,0,0,0,0,0,0,0
+,"CLEGG, John ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"COPESTAKE, Levi ",Winger,4,0,0,0,0,0,0,0,0
+,"COTTLE, Joe ",Full Back,24,0,0,1,0,0,0,0,0
+,"COWELL, Jack ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"DATE, Marmy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"FAGAN, Stephen ",Full Back,18,0,0,0,0,0,0,0,0
+,"FOSTER, Allen ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"GADSBY, Ernie ",Inside Forward,10,1,1,1,0,0,0,0,0
+,"GILDEA, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HANLIN, Pat ",Wing Half,32,0,0,1,0,0,0,0,0
+,"HARDY, Bob ",Winger,20,4,0,0,0,0,0,0,0
+,"JONES, Eddie ",Full Back,3,0,0,0,0,0,0,0,0
+,"LOGAN, Alec ",Inside Forward,20,7,2,0,0,0,0,0,0
+,"MARR, Reuben ",Wing Half,30,2,2,0,0,0,0,0,0
+,"MASON, SR ",Wing Half,3,0,0,1,0,0,0,0,0
+,"OSBORNE, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"OWERS, Ebenezer ",Centre Forward,31,16,0,1,0,0,0,0,0
+,"PADFIELD, Billy ",Full Back,4,0,0,0,0,0,0,0,0
+,"SHEARMAN, Ben ",Winger,25,2,0,1,0,0,0,0,0
+,"SPEAR, Arthur ",Wing Half,3,0,0,0,0,0,0,0,0
+,"STANIFORTH, Fred ",Winger,19,0,0,0,0,0,0,0,0
+,"SWEET, Frank ",Centre Half,2,1,0,0,0,0,0,0,0
+,"WEDLOCK, Billy ",Centre Half,34,3,0,1,0,0,0,0,0
+,"YOUNG, Robert ",Full Back,36,0,0,1,0,0,0,0,0

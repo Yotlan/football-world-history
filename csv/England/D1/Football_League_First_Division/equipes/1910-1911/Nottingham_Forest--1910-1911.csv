@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jack	Wing Half	
-										
-BAILEY, Joe	Inside Forward	
-										
-DERRICK, John	Inside Forward	
-										
-DRABBLE, Frank	Goalkeeper	
-										
-DUDLEY, Walter	Full Back	
-										
-FEEBERY, Albert	Wing Half	
-										
-FISHER, Alfred	Full Back	
-										
-FORD, Joe	Winger	
-										
-GIBSON, Tommy	Full Back	
-										
-HASELL, Bert	Goalkeeper	
-										
-HOOPER, Bill	Winger	
-										
-HORROCKS, John	Winger	
-										
-HUGHES, Teddy	Wing Half	
-										
-LOCKETT, Harry	Wing Half	
-										
-MALTBY, George 'Ginger'	Full Back	
-										
-MARRISON, Tom	Inside Forward	
-										
-MERCER, Joe	Centre Half	
-										
-MORRIS, Grenville	Inside Forward	
-										
-NEEDHAM, George	Wing Half	
-										
-RIDLEY, James	Winger	
-										
-ROWLANDS, Stan	Centre Forward	
-										
-SLATER, Herbert	Centre Forward	
-										
-SMITH, Jackie	Inside Forward	
-										
-SMITH, John	Goalkeeper	
-										
-WOLFE, George	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jack ",Wing Half,37,2,0,1,0,0,0,0,0
+,"BAILEY, Joe ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"DERRICK, John ",Inside Forward,19,6,0,1,0,0,0,0,0
+,"DRABBLE, Frank ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"DUDLEY, Walter ",Full Back,24,0,0,1,0,0,0,0,0
+,"FEEBERY, Albert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FISHER, Alfred ",Full Back,7,1,0,0,0,0,0,0,0
+,"FORD, Joe ",Winger,22,5,0,0,0,0,0,0,0
+,"GIBSON, Tommy ",Full Back,18,0,0,0,0,0,0,0,0
+,"HASELL, Bert ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"HOOPER, Bill ",Winger,37,6,0,1,0,0,0,0,0
+,"HORROCKS, John ",Winger,4,0,0,0,0,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,16,1,0,1,0,0,0,0,0
+,"LOCKETT, Harry ",Wing Half,23,5,0,0,0,0,0,0,0
+,"MALTBY, George 'Ginger' ",Full Back,36,2,2,1,0,0,0,0,0
+,"MARRISON, Tom ",Inside Forward,30,10,0,1,0,0,0,0,0
+,"MERCER, Joe ",Centre Half,13,0,0,1,0,0,0,0,0
+,"MORRIS, Grenville ",Inside Forward,26,11,0,1,1,0,0,0,0
+,"NEEDHAM, George ",Wing Half,31,2,0,1,0,0,0,0,0
+,"RIDLEY, James ",Winger,4,1,0,0,0,0,0,0,0
+,"ROWLANDS, Stan ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"SLATER, Herbert ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"SMITH, Jackie ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"SMITH, John ",Goalkeeper,12,0,0,1,0,0,0,0,0
+,"WOLFE, George ",Centre Half,23,1,0,0,0,0,0,0,0

@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKER, Billy	Wing Half	
-										
-BEST, Charles	Inside Forward	
-										
-CAIL, Sammy	Centre Forward	
-										
-CARR, Harry	Centre Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-CROZIER, Joe	Wing Half	
-										
-DAVIDSON, Willie	Winger	
-										
-DAVIES, Ben	Goalkeeper	
-										
-DIXON, Tommy	Inside Forward	
-										
-DUGUID, William	Wing Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-GIBSON, Bob	Winger	
-										
-HOWLING, Teddy	Goalkeeper	
-										
-JACKSON, Andrew	Centre Half	
-										
-JAMES, Billy	Winger	
-										
-KELLY, Bernard	Full Back	
-										
-LEONARD, Harry	Centre Forward	
-										
-MCCLURE, Samuel	Inside Forward	
-										
-MCLEOD, Donald	Full Back	
-										
-NICHOLL, Jimmy	Winger	
-										
-PEGGIE, James	Centre Forward	
-										
-PENTLAND, Fred	Winger	
-										
-VERRILL, Teddy	Wing Half	
-										
-WARDROPE, Sandy	Centre Half	
-										
-WEIR, Jimmy	Full Back	
-										
-WILLIAMSON, Tim	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKER, Billy ",Wing Half,32,0,0,4,0,0,0,0,0
+,"BEST, Charles ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"CAIL, Sammy ",Centre Forward,26,7,0,4,2,0,0,0,0
+,"CARR, Harry ",Centre Forward,3,3,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,1,2,0,0,0,0,0,0,0
+,"CARR, Willie ",Centre Half,2,0,0,0,0,0,0,0,0
+,"CROZIER, Joe ",Wing Half,5,0,0,0,0,0,0,0,0
+,"DAVIDSON, Willie ",Winger,16,0,0,3,0,0,0,0,0
+,"DAVIES, Ben ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DIXON, Tommy ",Inside Forward,3,1,0,1,1,0,0,0,0
+,"DUGUID, William ",Wing Half,9,0,0,1,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,25,10,0,4,0,0,0,0,0
+,"GIBSON, Bob ",Winger,28,3,0,3,0,0,0,0,0
+,"HOWLING, Teddy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"JACKSON, Andrew ",Centre Half,28,0,0,4,0,0,0,0,0
+,"JAMES, Billy ",Winger,3,0,0,0,0,0,0,0,0
+,"KELLY, Bernard ",Full Back,4,0,0,0,0,0,0,0,0
+,"LEONARD, Harry ",Centre Forward,7,1,0,0,0,0,0,0,0
+,"MCCLURE, Samuel ",Inside Forward,11,3,0,1,0,0,0,0,0
+,"MCLEOD, Donald ",Full Back,34,0,0,3,0,0,0,0,0
+,"NICHOLL, Jimmy ",Winger,24,8,0,2,0,0,0,0,0
+,"PEGGIE, James ",Centre Forward,6,0,0,0,0,0,0,0,0
+,"PENTLAND, Fred ",Winger,30,7,0,2,0,0,0,0,0
+,"VERRILL, Teddy ",Wing Half,33,1,0,3,0,0,0,0,0
+,"WARDROPE, Sandy ",Centre Half,10,0,0,1,0,0,0,0,0
+,"WEIR, Jimmy ",Full Back,35,0,0,4,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,36,1,1,4,0,0,0,0,0

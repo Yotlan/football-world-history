@@ -1,49 +1,24 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1910/11
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROAD, Tommy	Winger	
-										
-COOK, Billy	Full Back	
-										
-COPE, Billy	Full Back	
-										
-DONNACHIE, Joe	Winger	
-										
-DOWNIE, Alex	Wing Half	
-										
-FAY, Jimmy	Centre Half	
-										
-HAMILTON, James 'Snowy'	Full Back	
-										
-HODSON, Jimmy	Full Back	
-										
-JONES, Evan	Inside Forward	
-										
-MACDONALD, Hugh	Goalkeeper	
-										
-MCTAVISH, Jock	Inside Forward	
-										
-MILLER, Stan	Winger	
-										
-MOFFAT, Hugh	Wing Half	
-										
-MONTGOMERY, Bill	Inside Forward	
-										
-PARSONAGE, George	Centre Half	
-										
-PILKINGTON, Sam	Winger	
-										
-ROWLEY, Walter	Centre Half	
-										
-STOKES, Paddy	Winger	
-										
-TOWARD, Alf	Centre Forward	
-										
-WALDERS, David	Centre Half	
-										
-WILSON, David	Wing Half	
-										
-WOODGER, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROAD, Tommy ",Winger,23,1,0,3,0,0,0,0,0
+,"COOK, Billy ",Full Back,17,0,0,0,0,0,0,0,0
+,"COPE, Billy ",Full Back,19,1,0,0,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,36,2,0,3,0,0,0,0,0
+,"DOWNIE, Alex ",Wing Half,18,0,0,0,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,38,6,0,3,0,0,0,0,0
+,"HAMILTON, James 'Snowy' ",Full Back,15,0,0,3,0,0,0,0,0
+,"HODSON, Jimmy ",Full Back,24,0,0,3,0,0,0,0,0
+,"JONES, Evan ",Inside Forward,15,8,0,0,0,0,0,0,0
+,"MACDONALD, Hugh ",Goalkeeper,38,0,0,3,0,0,0,0,0
+,"MCTAVISH, Jock ",Inside Forward,10,0,0,0,0,0,0,0,0
+,"MILLER, Stan ",Winger,9,0,0,1,0,0,0,0,0
+,"MOFFAT, Hugh ",Wing Half,22,0,0,3,0,0,0,0,0
+,"MONTGOMERY, Bill ",Inside Forward,17,4,0,0,0,0,0,0,0
+,"PARSONAGE, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"PILKINGTON, Sam ",Winger,5,0,0,0,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,0,0,0,0,0,0,0,0,0
+,"STOKES, Paddy ",Winger,0,0,0,0,0,0,0,0,0
+,"TOWARD, Alf ",Centre Forward,23,12,0,2,1,0,0,0,0
+,"WALDERS, David ",Centre Half,24,3,0,3,0,0,0,0,0
+,"WILSON, David ",Wing Half,38,2,0,3,1,0,0,0,0
+,"WOODGER, George ",Inside Forward,27,5,0,3,1,0,0,0,0
