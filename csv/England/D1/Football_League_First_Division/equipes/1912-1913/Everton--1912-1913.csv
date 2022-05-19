@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEARE, George	Winger	
-										
-BRADSHAW, Frank	Inside Forward	
-										
-BRANNICK, James	Inside Forward	
-										
-BROMILOW, William	Goalkeeper	
-										
-BROWELL, Andy	Centre Half	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CALDWELL, Jimmy	Goalkeeper	
-										
-CHEDGZOY, Sam	Winger	
-										
-DAVIDSON, Willie	Winger	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-GAULT, Ernie	Inside Forward	
-										
-GOURLAY, James	Inside Forward	
-										
-GRENYER, Alan	Wing Half	
-										
-HARRIS, Val	Wing Half	
-										
-HODGE, William	Goalkeeper	
-										
-HOLBEM, Walter	Full Back	
-										
-HOUSTON, Johnny	Winger	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-MACONNACHIE, Jock	Full Back	
-										
-MAKEPEACE, Harry	Wing Half	
-										
-SIMMS, Sammy	Wing Half	
-										
-SIMPSON, Bobby	Full Back	
-										
-SMITH, Joe 'Stanley'	Winger	
-										
-STEVENS, Thomas	Winger	
-										
-STEVENSON, William	Full Back	
-										
-UREN, Harold	Winger	
-										
-WAREING, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEARE, George ",Winger,37,7,0,5,0,0,0,0,0
+,"BRADSHAW, Frank ",Inside Forward,34,10,0,3,1,0,0,0,0
+,"BRANNICK, James ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"BROMILOW, William ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BROWELL, Andy ",Centre Half,1,0,0,0,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,26,12,1,5,4,0,0,0,0
+,"CALDWELL, Jimmy ",Goalkeeper,31,0,0,5,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,1,0,0,0,0,0,0,0,0
+,"DAVIDSON, Willie ",Winger,13,0,0,3,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,28,1,0,2,1,0,0,0,0
+,"GAULT, Ernie ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"GOURLAY, James ",Inside Forward,6,0,0,1,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,26,0,0,4,0,0,0,0,0
+,"HARRIS, Val ",Wing Half,28,1,0,5,1,0,0,0,0
+,"HODGE, William ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"HOLBEM, Walter ",Full Back,7,0,0,0,0,0,0,0,0
+,"HOUSTON, Johnny ",Winger,7,0,0,2,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,27,5,0,5,2,0,0,0,0
+,"MACONNACHIE, Jock ",Full Back,23,4,3,5,0,0,0,0,0
+,"MAKEPEACE, Harry ",Wing Half,10,0,0,1,0,0,0,0,0
+,"SIMMS, Sammy ",Wing Half,2,1,0,0,0,0,0,0,0
+,"SIMPSON, Bobby ",Full Back,10,0,0,0,0,0,0,0,0
+,"SMITH, Joe 'Stanley' ",Winger,2,0,0,0,0,0,0,0,0
+,"STEVENS, Thomas ",Winger,5,0,0,0,0,0,0,0,0
+,"STEVENSON, William ",Full Back,36,0,0,5,0,0,0,0,0
+,"UREN, Harold ",Winger,16,2,0,0,0,0,0,0,0
+,"WAREING, Billy ",Wing Half,24,2,0,4,1,0,0,0,0

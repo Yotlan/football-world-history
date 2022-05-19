@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERRY, Arthur	Winger	
-										
-BOVILL, John	Inside Forward	
-										
-CAMPBELL, Kenny	Goalkeeper	
-										
-CRAWFORD, Bob	Full Back	
-										
-DINES, Joe	Wing Half	
-										
-FERGUSON, Bob	Wing Half	
-										
-GILLIGAN, Sammy	Centre Forward	
-										
-GODDARD, Arthur	Winger	
-										
-GRACIE, Tommy	Inside Forward	
-										
-HOLDEN, Ralph	Centre Half	
-										
-LACEY, Billy	Winger	
-										
-LESTER, Hugh	Full Back	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LOWE, Harry	Wing Half	
-										
-MCKINLAY, Donald	Full Back	
-										
-METCALF, Arthur	Inside Forward	
-										
-MILLER, Tom	Centre Forward	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PEAKE, Ernie	Wing Half	
-										
-PURSELL, Bob	Full Back	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SCOTT, James	Wing Half	
-										
-SPEAKMAN, James	Winger	
-										
-STEWART, Jimmy	Inside Forward	
-										
-TOSSWILL, John	Inside Forward	
-										
-WELFARE, Harry	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERRY, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"BOVILL, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CAMPBELL, Kenny ",Goalkeeper,37,0,0,4,0,0,0,0,0
+,"CRAWFORD, Bob ",Full Back,22,0,0,4,0,0,0,0,0
+,"DINES, Joe ",Wing Half,1,0,0,0,0,0,0,0,0
+,"FERGUSON, Bob ",Wing Half,38,2,0,4,0,0,0,0,0
+,"GILLIGAN, Sammy ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"GODDARD, Arthur ",Winger,33,7,1,4,1,1,0,0,0
+,"GRACIE, Tommy ",Inside Forward,13,1,0,1,0,0,0,0,0
+,"HOLDEN, Ralph ",Centre Half,1,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,20,3,0,4,3,0,0,0,0
+,"LESTER, Hugh ",Full Back,1,0,0,0,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,36,0,0,3,0,0,0,0,0
+,"LOWE, Harry ",Wing Half,34,1,0,4,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,22,6,0,1,0,0,0,0,0
+,"METCALF, Arthur ",Inside Forward,28,15,0,4,3,0,0,0,0
+,"MILLER, Tom ",Centre Forward,30,9,0,4,0,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,25,12,1,2,0,0,0,0,0
+,"PEAKE, Ernie ",Wing Half,26,2,0,4,1,0,0,0,0
+,"PURSELL, Bob ",Full Back,20,0,0,1,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SCOTT, James ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SPEAKMAN, James ",Winger,1,0,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"TOSSWILL, John ",Inside Forward,11,1,0,0,0,0,0,0,0
+,"WELFARE, Harry ",Winger,4,1,0,0,0,0,0,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Jack	Goalkeeper	
-										
-BARKER, Billy	Wing Half	
-										
-BROWN, Arthur	Centre Forward	
-										
-BURTON, Ridley	Wing Half	
-										
-BUTLER, Reuben	Centre Forward	
-										
-CAIL, Sammy	Centre Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-CLARKE, John	Centre Forward	
-										
-COOK, Harry	Wing Half	
-										
-COOK, Jack	Inside Forward	
-										
-CROZIER, Joe	Wing Half	
-										
-DAVIES, Ben	Goalkeeper	
-										
-DUGUID, William	Wing Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-EYRE, Edmund	Winger	
-										
-FRASER, Alec	Inside Forward	
-										
-HAWORTH, Jack	Full Back	
-										
-HISBENT, Joe	Full Back	
-										
-JACKSON, Andrew	Centre Half	
-										
-JAMES, Billy	Winger	
-										
-MALCOLM, George	Wing Half	
-										
-MCLEOD, Donald	Full Back	
-										
-MCROBBIE, Allan	Full Back	
-										
-NICHOLL, Jimmy	Winger	
-										
-STIRLING, Jock	Winger	
-										
-VERRILL, Teddy	Wing Half	
-										
-WEIR, Jimmy	Full Back	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-WINDRIDGE, Jimmy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Jack ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BARKER, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROWN, Arthur ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"BURTON, Ridley ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BUTLER, Reuben ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CAIL, Sammy ",Centre Forward,13,3,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,30,16,2,4,3,1,0,0,0
+,"CARR, Willie ",Centre Half,15,0,0,0,0,0,0,0,0
+,"CLARKE, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COOK, Harry ",Wing Half,5,0,0,0,0,0,0,0,0
+,"COOK, Jack ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"CROZIER, Joe ",Wing Half,19,0,0,4,0,0,0,0,0
+,"DAVIES, Ben ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DUGUID, William ",Wing Half,8,0,0,0,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,33,21,2,4,3,0,0,0,0
+,"EYRE, Edmund ",Winger,27,4,0,3,2,0,0,0,0
+,"FRASER, Alec ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HAWORTH, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"HISBENT, Joe ",Full Back,22,0,0,3,0,0,0,0,0
+,"JACKSON, Andrew ",Centre Half,20,0,0,4,0,0,0,0,0
+,"JAMES, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"MALCOLM, George ",Wing Half,25,0,0,4,0,0,0,0,0
+,"MCLEOD, Donald ",Full Back,13,0,0,0,0,0,0,0,0
+,"MCROBBIE, Allan ",Full Back,6,0,0,1,0,0,0,0,0
+,"NICHOLL, Jimmy ",Winger,11,2,0,1,0,0,0,0,0
+,"STIRLING, Jock ",Winger,33,2,0,4,0,0,0,0,0
+,"VERRILL, Teddy ",Wing Half,21,0,0,0,0,0,0,0,0
+,"WEIR, Jimmy ",Full Back,32,0,0,4,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,37,0,0,4,0,0,0,0,0
+,"WINDRIDGE, Jimmy ",Inside Forward,33,5,0,4,0,0,0,0,0

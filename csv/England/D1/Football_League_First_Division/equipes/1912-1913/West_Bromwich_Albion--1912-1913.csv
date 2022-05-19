@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BADDELEY, George	Wing Half	
-										
-BOWSER, Sid	Centre Half	
-										
-BUCK, Fred	Inside Forward	
-										
-COOK, Arthur	Full Back	
-										
-DEACEY, Charlie	Centre Half	
-										
-EDWARDS, Ernie	Wing Half	
-										
-GREGORY, Howard	Winger	
-										
-JACKSON, Bill	Centre Forward	
-										
-JEPHCOTT, Claude	Winger	
-										
-LLOYD, Amos	Winger	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MORRIS, Fred	Inside Forward	
-										
-PAILOR, Bob	Centre Forward	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-POULTON, Jerry	Inside Forward	
-										
-SHEARMAN, Ben	Winger	
-										
-SMITH, Joe	Full Back	
-										
-VARTY, James	Wing Half	
-										
-WATERHOUSE, Frank	Wing Half	
-										
-WOOD, Matt	Full Back	
-										
-WRIGHT, Harry	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BADDELEY, George ",Wing Half,10,0,0,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,32,6,0,3,1,0,0,0,0
+,"BUCK, Fred ",Inside Forward,36,4,2,3,0,0,0,0,0
+,"COOK, Arthur ",Full Back,8,0,0,3,0,0,0,0,0
+,"DEACEY, Charlie ",Centre Half,4,0,0,0,0,0,0,0,0
+,"EDWARDS, Ernie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GREGORY, Howard ",Winger,13,4,0,2,1,0,0,0,0
+,"JACKSON, Bill ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,38,2,0,3,0,0,0,0,0
+,"LLOYD, Amos ",Winger,1,0,0,0,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,30,1,0,3,0,0,0,0,0
+,"MOORWOOD, Len ",Goalkeeper,19,0,0,3,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,19,9,0,3,0,0,0,0,0
+,"PAILOR, Bob ",Centre Forward,24,16,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,19,0,0,0,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,31,0,0,0,0,0,0,0,0
+,"POULTON, Jerry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SHEARMAN, Ben ",Winger,37,8,0,3,0,0,0,0,0
+,"SMITH, Joe ",Full Back,35,0,0,3,0,0,0,0,0
+,"VARTY, James ",Wing Half,3,0,0,0,0,0,0,0,0
+,"WATERHOUSE, Frank ",Wing Half,34,2,0,3,0,0,0,0,0
+,"WOOD, Matt ",Full Back,2,0,0,0,0,0,0,0,0
+,"WRIGHT, Harry ",Inside Forward,20,4,0,1,1,0,0,0,0

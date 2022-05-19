@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BETTRIDGE, Wally	Full Back	
-										
-BREBNER, Ron	Goalkeeper	
-										
-BRIDGEMAN, Billy	Winger	
-										
-BROWN, John	Winger	
-										
-BROWN, Billy	Inside Forward	
-										
-CALDERHEAD, David	Centre Half	
-										
-CAMERON, Jock	Full Back	
-										
-CARTWRIGHT, Bill	Full Back	
-										
-DODD, George	Inside Forward	
-										
-DOUGLAS, Angus	Winger	
-										
-DOWNING, Sam	Wing Half	
-										
-FAIRGRAY, Norrie	Winger	
-										
-FORD, Harry	Winger	
-										
-FREEMAN, Charlie	Inside Forward	
-										
-HARROW, Jack	Full Back	
-										
-HARWOOD, Jack	Centre Half	
-										
-HUNTER, George	Wing Half	
-										
-JOHNSON, George	Full Back	
-										
-MOLYNEUX, Jimmy	Goalkeeper	
-										
-ORMISTON, Andrew	Centre Half	
-										
-SHARP, Jimmy	Full Back	
-										
-STEER, Billy	Inside Forward	
-										
-TAYLOR, Fred	Wing Half	
-										
-THOMSON, Bobby	Centre Forward	
-										
-TURNBULL, Jimmy	Centre Forward	
-										
-WHITLEY, Jack	Goalkeeper	
-										
-WHITTINGHAM, Bob	Inside Forward	
-										
-WOODWARD, Vivian	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BETTRIDGE, Wally ",Full Back,33,0,0,1,0,0,0,0,0
+,"BREBNER, Ron ",Goalkeeper,17,0,0,1,0,0,0,0,0
+,"BRIDGEMAN, Billy ",Winger,17,2,0,1,0,0,0,0,0
+,"BROWN, John ",Winger,11,4,0,0,0,0,0,0,0
+,"BROWN, Billy ",Inside Forward,6,1,0,1,0,0,0,0,0
+,"CALDERHEAD, David ",Centre Half,16,0,0,3,0,0,0,0,0
+,"CAMERON, Jock ",Full Back,16,0,0,2,0,0,0,0,0
+,"CARTWRIGHT, Bill ",Full Back,2,0,0,0,0,0,0,0,0
+,"DODD, George ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"DOUGLAS, Angus ",Winger,16,1,0,0,0,0,0,0,0
+,"DOWNING, Sam ",Wing Half,25,1,0,0,0,0,0,0,0
+,"FAIRGRAY, Norrie ",Winger,9,2,0,2,0,0,0,0,0
+,"FORD, Harry ",Winger,29,9,0,3,0,0,0,0,0
+,"FREEMAN, Charlie ",Inside Forward,11,3,0,0,0,0,0,0,0
+,"HARROW, Jack ",Full Back,6,0,0,0,0,0,0,0,0
+,"HARWOOD, Jack ",Centre Half,4,0,0,0,0,0,0,0,0
+,"HUNTER, George ",Wing Half,11,1,0,0,0,0,0,0,0
+,"JOHNSON, George ",Full Back,2,0,0,1,0,0,0,0,0
+,"MOLYNEUX, Jimmy ",Goalkeeper,18,0,0,2,0,0,0,0,0
+,"ORMISTON, Andrew ",Centre Half,20,0,0,3,0,0,0,0,0
+,"SHARP, Jimmy ",Full Back,23,0,0,2,0,0,0,0,0
+,"STEER, Billy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"TAYLOR, Fred ",Wing Half,32,0,0,3,0,0,0,0,0
+,"THOMSON, Bobby ",Centre Forward,10,1,0,0,0,0,0,0,0
+,"TURNBULL, Jimmy ",Centre Forward,19,8,0,2,0,0,0,0,0
+,"WHITLEY, Jack ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"WHITTINGHAM, Bob ",Inside Forward,20,7,1,3,5,2,0,0,0
+,"WOODWARD, Vivian ",Inside Forward,27,10,0,3,1,0,0,0,0

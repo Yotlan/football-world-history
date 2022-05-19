@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANSTEY, Brendel	Goalkeeper	
-										
-BACHE, Joe	Inside Forward	
-										
-BARBER, Tommy	Wing Half	
-										
-BUCKLEY, Chris	Centre Half	
-										
-DOBSON, Arthur	Wing Half	
-										
-DONCASTER, Stuart	Centre Forward	
-										
-DUCAT, Andy	Wing Half	
-										
-EDWARDS, Albert	Wing Half	
-										
-GREEN, Haydn	Inside Forward	
-										
-HALL, Bert	Winger	
-										
-HALSE, Harold	Inside Forward	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-LEACH, Jimmy	Wing Half	
-										
-LITTLEWOOD, Wilfred	Full Back	
-										
-LYONS, Tommy	Full Back	
-										
-MCLACHLAN, John	Inside Forward	
-										
-MILES, Alf	Full Back	
-										
-MORRIS, William	Centre Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TRANTER, George	Wing Half	
-										
-WALLACE, Charlie	Winger	
-										
-WESTON, Tommy	Full Back	
-										
-WHITTAKER, Samson	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANSTEY, Brendel ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"BACHE, Joe ",Inside Forward,35,9,0,6,1,0,0,0,0
+,"BARBER, Tommy ",Wing Half,15,2,0,5,1,0,0,0,0
+,"BUCKLEY, Chris ",Centre Half,1,0,0,0,0,0,0,0,0
+,"DOBSON, Arthur ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DONCASTER, Stuart ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"DUCAT, Andy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"EDWARDS, Albert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GREEN, Haydn ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HALL, Bert ",Winger,16,3,0,0,0,0,0,0,0
+,"HALSE, Harold ",Inside Forward,31,21,0,6,7,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,33,25,1,6,5,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,33,0,0,6,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,35,1,0,4,0,0,0,0,0
+,"LEACH, Jimmy ",Wing Half,10,1,0,4,0,0,0,0,0
+,"LITTLEWOOD, Wilfred ",Full Back,5,0,0,0,0,0,0,0,0
+,"LYONS, Tommy ",Full Back,30,0,0,6,0,0,0,0,0
+,"MCLACHLAN, John ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"MILES, Alf ",Full Back,11,0,0,0,0,0,0,0,0
+,"MORRIS, William ",Centre Half,20,0,0,2,1,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,34,14,0,6,5,0,0,0,0
+,"TRANTER, George ",Wing Half,10,0,0,1,0,0,0,0,0
+,"WALLACE, Charlie ",Winger,31,7,2,6,0,0,0,0,0
+,"WESTON, Tommy ",Full Back,30,0,0,6,0,0,0,0,0
+,"WHITTAKER, Samson ",Wing Half,18,0,0,2,0,0,0,0,0

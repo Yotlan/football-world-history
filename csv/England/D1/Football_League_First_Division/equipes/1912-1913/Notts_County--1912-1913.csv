@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLSEBROOK, Dick	Wing Half	
-										
-BIRD, Walter	Inside Forward	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CLAMP, Arthur	Centre Half	
-										
-CRAYTHORNE, Ben	Wing Half	
-										
-EMBERTON, Teddy	Wing Half	
-										
-FLINT, Billy	Wing Half	
-										
-HENSHALL, Horace	Winger	
-										
-HOOPER, Bill	Winger	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-JAMES, Lance	Full Back	
-										
-JONES, Freddie	Inside Forward	
-										
-MORLEY, Bert	Full Back	
-										
-PEART, Jack	Centre Forward	
-										
-RICHARDS, Sam	Inside Forward	
-										
-STEELE, Murray	Goalkeeper	
-										
-TOMLINSON, Tommy	Winger	
-										
-WATERALL, Albert	Wing Half	
-										
-WATERALL, Ike	Winger	
-										
-WATHEY, Frank	Winger	
-										
-WATKIN, Frank	Winger	
-										
-WEST, Alf	Full Back	
-										
-WEST, Abe	Goalkeeper	
-										
-WILLIAMS, Dai	Centre Forward	
-										
-WOOLLEY, Jim	Full Backs
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLSEBROOK, Dick ",Wing Half,21,0,0,1,0,0,0,0,0
+,"BIRD, Walter ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"CLAMP, Arthur ",Centre Half,38,0,0,1,0,0,0,0,0
+,"CRAYTHORNE, Ben ",Wing Half,13,0,0,0,0,0,0,0,0
+,"EMBERTON, Teddy ",Wing Half,26,0,0,0,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,35,4,1,1,0,0,0,0,0
+,"HENSHALL, Horace ",Winger,24,2,0,1,0,0,0,0,0
+,"HOOPER, Bill ",Winger,16,1,0,1,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"JAMES, Lance ",Full Back,1,0,0,0,0,0,0,0,0
+,"JONES, Freddie ",Inside Forward,20,3,0,1,0,0,0,0,0
+,"MORLEY, Bert ",Full Back,35,0,0,1,0,0,0,0,0
+,"PEART, Jack ",Centre Forward,11,7,1,0,0,0,0,0,0
+,"RICHARDS, Sam ",Inside Forward,18,2,0,0,0,0,0,0,0
+,"STEELE, Murray ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"TOMLINSON, Tommy ",Winger,7,0,0,0,0,0,0,0,0
+,"WATERALL, Albert ",Wing Half,18,1,0,1,0,0,0,0,0
+,"WATERALL, Ike ",Winger,19,1,0,0,0,0,0,0,0
+,"WATHEY, Frank ",Winger,7,0,0,0,0,0,0,0,0
+,"WATKIN, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"WEST, Alf ",Full Back,38,3,3,1,0,0,0,0,0
+,"WEST, Abe ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Dai ",Centre Forward,24,3,0,1,0,0,0,0,0
+,"WOOLLEY, Jim ",Full Back,2,0,0,0,0,0,0,0,0

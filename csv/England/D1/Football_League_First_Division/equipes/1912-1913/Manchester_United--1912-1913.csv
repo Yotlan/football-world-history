@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, George	Centre Forward	
-										
-BEALE, Bobby	Goalkeeper	
-										
-BELL, Alex	Wing Half	
-										
-BLOTT, Prince	Wing Half	
-										
-DONNELLY, Tony	Full Back	
-										
-DUCKWORTH, Dick	Wing Half	
-										
-GIPPS, Tommy	Wing Half	
-										
-HAMILL, Mickey	Wing Half	
-										
-HODGE, Jimmy	Full Back	
-										
-HOLDEN, Dick	Full Back	
-										
-HUNTER, Bill	Centre Forward	
-										
-KNOWLES, Frank	Centre Half	
-										
-LINKSON, Oscar	Full Back	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MEREDITH, Billy	Winger	
-										
-MEW, Jack	Goalkeeper	
-										
-NUTTALL, Tommy	Inside Forward	
-										
-ROBERTS, Charlie	Centre Half	
-										
-SHELDON, Jackie	Winger	
-										
-STACEY, George	Full Back	
-										
-TURNBULL, Sandy	Inside Forward	
-										
-WALL, George	Winger	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHALLEY, Arthur	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, George ",Centre Forward,24,12,0,5,2,0,0,0,0
+,"BEALE, Bobby ",Goalkeeper,37,0,0,5,0,0,0,0,0
+,"BELL, Alex ",Wing Half,26,0,0,0,0,0,0,0,0
+,"BLOTT, Prince ",Wing Half,2,1,0,0,0,0,0,0,0
+,"DONNELLY, Tony ",Full Back,1,0,0,0,0,0,0,0,0
+,"DUCKWORTH, Dick ",Wing Half,24,0,0,5,0,0,0,0,0
+,"GIPPS, Tommy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HAMILL, Mickey ",Wing Half,15,1,0,2,0,0,0,0,0
+,"HODGE, Jimmy ",Full Back,19,0,0,5,0,0,0,0,0
+,"HOLDEN, Dick ",Full Back,2,0,0,0,0,0,0,0,0
+,"HUNTER, Bill ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"KNOWLES, Frank ",Centre Half,2,0,0,0,0,0,0,0,0
+,"LINKSON, Oscar ",Full Back,17,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,22,2,0,5,0,0,0,0,0
+,"MEW, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"NUTTALL, Tommy ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"ROBERTS, Charlie ",Centre Half,24,1,0,5,1,0,0,0,0
+,"SHELDON, Jackie ",Winger,16,1,0,0,0,0,0,0,0
+,"STACEY, George ",Full Back,36,1,0,5,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,35,10,0,4,0,0,0,0,0
+,"WALL, George ",Winger,36,10,0,5,2,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,36,21,0,4,1,0,0,0,0
+,"WHALLEY, Arthur ",Centre Half,26,4,0,5,0,0,0,0,0

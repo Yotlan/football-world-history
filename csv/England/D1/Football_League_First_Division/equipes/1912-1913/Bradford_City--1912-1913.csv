@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARTLETT, Albert	Winger	
-										
-BIGGAR, Alex	Winger	
-										
-BOND, Dickie	Winger	
-										
-BOOCOCK, Irvine	Full Back	
-										
-BOOKMAN, Louis	Winger	
-										
-CAMPBELL, Bob	Full Back	
-										
-CHESSER, Billy	Inside Forward	
-										
-CLARK, Jack	Centre Forward	
-										
-DEVINE, Archie	Inside Forward	
-										
-DOOLAN, Sandy	Full Back	
-										
-EWART, Jock	Goalkeeper	
-										
-FOX, Oscar	Inside Forward	
-										
-GANE, George	Full Back	
-										
-GRIMSHAW, Billy	Winger	
-										
-HAMPTON, Harry	Wing Half	
-										
-HARGREAVES, Joe	Wing Half	
-										
-LOGAN, Peter	Winger	
-										
-MCDONALD, Jimmy	Wing Half	
-										
-MCILVENNY, Jimmy	Inside Forward	
-										
-MCILWRAITH, Frank	Full Back	
-										
-MELLORS, Mark	Goalkeeper	
-										
-O'ROURKE, Frank	Centre Forward	
-										
-PEART, Harry	Centre Half	
-										
-POTTS, Fred	Full Back	
-										
-ROBINSON, George	Wing Half	
-										
-SPEIRS, Jimmy	Inside Forward	
-										
-STORER, Charlie	Centre Half	
-										
-THOMPSON, Frank	Winger	
-										
-TORRANCE, Bob	Centre Half	
-										
-WALDEN, Harold	Centre Forward	
-										
-WALKER, Billy	Inside Forward	
-										
-WYLLIE, Jock	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARTLETT, Albert ",Winger,0,0,0,0,0,0,0,0,0
+,"BIGGAR, Alex ",Winger,1,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,34,4,2,1,0,0,0,0,0
+,"BOOCOCK, Irvine ",Full Back,31,0,0,1,0,0,0,0,0
+,"BOOKMAN, Louis ",Winger,7,0,0,0,0,0,0,0,0
+,"CAMPBELL, Bob ",Full Back,16,0,0,1,0,0,0,0,0
+,"CHESSER, Billy ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"CLARK, Jack ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"DEVINE, Archie ",Inside Forward,11,1,0,1,0,0,0,0,0
+,"DOOLAN, Sandy ",Full Back,2,0,0,0,0,0,0,0,0
+,"EWART, Jock ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,"FOX, Oscar ",Inside Forward,30,13,0,1,0,0,0,0,0
+,"GANE, George ",Full Back,4,0,0,0,0,0,0,0,0
+,"GRIMSHAW, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"HAMPTON, Harry ",Wing Half,11,0,0,0,0,0,0,0,0
+,"HARGREAVES, Joe ",Wing Half,3,0,0,0,0,0,0,0,0
+,"LOGAN, Peter ",Winger,23,6,0,0,0,0,0,0,0
+,"MCDONALD, Jimmy ",Wing Half,34,0,0,1,0,0,0,0,0
+,"MCILVENNY, Jimmy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MCILWRAITH, Frank ",Full Back,3,0,0,0,0,0,0,0,0
+,"MELLORS, Mark ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"O'ROURKE, Frank ",Centre Forward,18,5,0,1,0,0,0,0,0
+,"PEART, Harry ",Centre Half,1,0,0,0,0,0,0,0,0
+,"POTTS, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROBINSON, George ",Wing Half,19,0,0,1,0,0,0,0,0
+,"SPEIRS, Jimmy ",Inside Forward,13,9,0,0,0,0,0,0,0
+,"STORER, Charlie ",Centre Half,11,2,0,0,0,0,0,0,0
+,"THOMPSON, Frank ",Winger,17,2,0,1,0,0,0,0,0
+,"TORRANCE, Bob ",Centre Half,36,0,0,1,0,0,0,0,0
+,"WALDEN, Harold ",Centre Forward,16,6,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"WYLLIE, Jock ",Full Back,24,0,0,0,0,0,0,0,0

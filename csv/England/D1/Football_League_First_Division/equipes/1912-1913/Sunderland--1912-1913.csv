@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, George	Goalkeeper	
-										
-BEST, Bobby	Winger	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-BUTLER, Joe	Goalkeeper	
-										
-CONNER, Jack	Centre Forward	
-										
-CRINGAN, Willie	Wing Half	
-										
-CUGGY, Frank	Wing Half	
-										
-GLADWIN, Charlie	Full Back	
-										
-HALL, Tom	Inside Forward	
-										
-HOBSON, Bert	Full Back	
-										
-HOLLEY, George	Inside Forward	
-										
-LOW, Harry	Wing Half	
-										
-MARTIN, Fred	Centre Forward	
-										
-MARTIN, Harry	Winger	
-										
-MILTON, Albert	Full Back	
-										
-MORDUE, Jackie	Winger	
-										
-NESS, Harry	Full Back	
-										
-PATTISON, Frank	Winger	
-										
-RICHARDSON, Jimmy	Centre Forward	
-										
-SCOTT, Walter	Goalkeeper	
-										
-SMALL, Jack	Wing Half	
-										
-THOMSON, Charlie	Centre Half	
-										
-TINSLEY, Walter	Inside Forward	
-										
-TROUGHEAR, Billy	Full Back	
-										
-WOOD, James	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, George ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BEST, Bobby ",Winger,3,0,0,0,0,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,36,27,0,9,3,0,0,0,0
+,"BUTLER, Joe ",Goalkeeper,32,0,0,9,0,0,0,0,0
+,"CONNER, Jack ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"CRINGAN, Willie ",Wing Half,10,0,0,0,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,32,1,0,9,0,0,0,0,0
+,"GLADWIN, Charlie ",Full Back,27,0,0,9,1,0,0,0,0
+,"HALL, Tom ",Inside Forward,20,7,1,0,0,0,0,0,0
+,"HOBSON, Bert ",Full Back,3,0,0,0,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,30,12,0,9,5,0,0,0,0
+,"LOW, Harry ",Wing Half,37,4,0,9,0,0,0,0,0
+,"MARTIN, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MARTIN, Harry ",Winger,38,4,0,9,0,0,0,0,0
+,"MILTON, Albert ",Full Back,27,0,0,7,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,35,16,7,9,5,2,0,0,0
+,"NESS, Harry ",Full Back,13,0,0,2,0,0,0,0,0
+,"PATTISON, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"RICHARDSON, Jimmy ",Centre Forward,18,11,0,9,6,0,0,0,0
+,"SCOTT, Walter ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SMALL, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"THOMSON, Charlie ",Centre Half,35,1,0,9,0,0,0,0,0
+,"TINSLEY, Walter ",Inside Forward,7,3,0,0,0,0,0,0,0
+,"TROUGHEAR, Billy ",Full Back,6,0,0,0,0,0,0,0,0
+,"WOOD, James ",Full Back,0,0,0,0,0,0,0,0,0

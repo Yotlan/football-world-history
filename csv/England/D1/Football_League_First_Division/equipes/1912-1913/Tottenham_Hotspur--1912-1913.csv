@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLISS, Bert	Inside Forward	
-										
-BRITTAN, Charlie	Full Back	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-COLLINS, Tom	Full Back	
-										
-COOMBER, George	Centre Half	
-										
-CURTIS, Jack	Winger	
-										
-DARNELL, Jabez	Wing Half	
-										
-ELLIOTT, Jimmy	Wing Half	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-JONES, Gordon	Inside Forward	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-LIGHTFOOT, Edward	Wing Half	
-										
-LUNN, Tommy	Goalkeeper	
-										
-MIDDLEMISS, Bert	Winger	
-										
-MINTER, Billy	Inside Forward	
-										
-NEWMAN, Ernie	Inside Forward	
-										
-RANCE, Charlie	Centre Half	
-										
-RUTHERFORD, Jack	Centre Half	
-										
-STEEL, Bobby	Inside Forward	
-										
-TATE, John	Goalkeeper	
-										
-TATTERSALL, Wally	Winger	
-										
-UPTON, Solly	Winger	
-										
-WALDEN, Fanny	Winger	
-										
-WEBSTER, Fred	Full Back	
-										
-WEIR, Findlay	Wing Half	
-										
-WILLIAMS, Jack	Wing Half	
-										
-YOUNG, Chris	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLISS, Bert ",Inside Forward,18,6,0,0,0,0,0,0,0
+,"BRITTAN, Charlie ",Full Back,14,0,0,1,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,25,12,0,3,2,0,0,0,0
+,"COLLINS, Tom ",Full Back,28,1,1,2,0,0,0,0,0
+,"COOMBER, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CURTIS, Jack ",Winger,4,0,0,0,0,0,0,0,0
+,"DARNELL, Jabez ",Wing Half,4,0,0,0,0,0,0,0,0
+,"ELLIOTT, Jimmy ",Wing Half,6,1,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,25,0,0,3,0,0,0,0,0
+,"JONES, Gordon ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,20,0,0,2,0,0,0,0,0
+,"LIGHTFOOT, Edward ",Wing Half,15,0,0,0,0,0,0,0,0
+,"LUNN, Tommy ",Goalkeeper,16,0,0,1,0,0,0,0,0
+,"MIDDLEMISS, Bert ",Winger,38,9,0,3,1,0,0,0,0
+,"MINTER, Billy ",Inside Forward,38,11,0,3,0,0,0,0,0
+,"NEWMAN, Ernie ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"RANCE, Charlie ",Centre Half,32,0,0,3,1,0,0,0,0
+,"RUTHERFORD, Jack ",Centre Half,0,0,0,0,0,0,0,0,0
+,"STEEL, Bobby ",Inside Forward,19,1,0,3,1,0,0,0,0
+,"TATE, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"TATTERSALL, Wally ",Winger,30,3,0,3,2,0,0,0,0
+,"UPTON, Solly ",Winger,2,0,0,0,0,0,0,0,0
+,"WALDEN, Fanny ",Winger,1,0,0,0,0,0,0,0,0
+,"WEBSTER, Fred ",Full Back,34,0,0,3,0,0,0,0,0
+,"WEIR, Findlay ",Wing Half,34,1,0,3,0,0,0,0,0
+,"WILLIAMS, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"YOUNG, Chris ",Centre Forward,4,0,0,0,0,0,0,0,0

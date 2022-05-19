@@ -1,49 +1,24 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKENHEAD, Wattie	Inside Forward	
-										
-ANTHONY, Walter	Winger	
-										
-ASHCROFT, Jimmy	Goalkeeper	
-										
-BRADSHAW, Billy	Wing Half	
-										
-CAMERON, William 'Kilty'	Inside Forward	
-										
-CHAPMAN, George	Centre Forward	
-										
-CLENNELL, Joe	Inside Forward	
-										
-COWELL, Arthur	Full Back	
-										
-CROMPTON, Bob	Full Back	
-										
-HODKINSON, Joe	Winger	
-										
-JACQUES, Edgar	Centre Half	
-										
-JOHNSTON, James	Full Back	
-										
-LATHERON, Eddie	Inside Forward	
-										
-MCGHIE, Alex	Winger	
-										
-ORR, Johnny	Inside Forward	
-										
-PORTEOUS, George	Centre Half	
-										
-ROBINSON, Alfred	Goalkeeper	
-										
-SHEA, Danny	Inside Forward	
-										
-SIMPSON, Jock	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-SUTTIE, Tommy	Full Back	
-										
-WALMSLEY, Albert	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKENHEAD, Wattie ",Inside Forward,24,12,0,4,4,0,0,0,0
+,"ANTHONY, Walter ",Winger,25,3,0,4,1,0,0,0,0
+,"ASHCROFT, Jimmy ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,35,6,4,4,1,1,0,0,0
+,"CAMERON, William 'Kilty' ",Inside Forward,6,6,0,0,0,0,0,0,0
+,"CHAPMAN, George ",Centre Forward,25,9,0,1,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,32,0,0,3,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,31,0,0,4,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,13,3,0,0,0,0,0,0,0
+,"JACQUES, Edgar ",Centre Half,2,0,0,0,0,0,0,0,0
+,"JOHNSTON, James ",Full Back,3,0,0,0,0,0,0,0,0
+,"LATHERON, Eddie ",Inside Forward,36,14,0,4,2,0,0,0,0
+,"MCGHIE, Alex ",Winger,6,0,0,0,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,11,5,0,1,2,0,0,0,0
+,"PORTEOUS, George ",Centre Half,5,0,0,0,0,0,0,0,0
+,"ROBINSON, Alfred ",Goalkeeper,36,0,0,4,0,0,0,0,0
+,"SHEA, Danny ",Inside Forward,15,12,0,3,1,0,0,0,0
+,"SIMPSON, Jock ",Winger,34,9,0,4,1,0,0,0,0
+,"SMITH, Percy ",Centre Half,33,0,0,3,0,0,0,0,0
+,"SUTTIE, Tommy ",Full Back,7,0,0,1,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,36,0,0,4,0,0,0,0,0

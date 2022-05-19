@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1912/13
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jack	Wing Half	
-										
-BOTTOMLEY, Bill	Wing Half	
-										
-BROAD, Jimmy	Centre Forward	
-										
-CUNNINGHAM, Charlie	Inside Forward	
-										
-DORSETT, Joe	Winger	
-										
-EADIE, Bill	Centre Half	
-										
-EVANS, Arthur	Wing Half	
-										
-FLETCHER, Eli	Full Back	
-										
-GARNER, William	Centre Half	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HENRY, Billy	Full Back	
-										
-HOAD, Sid	Winger	
-										
-HOLFORD, Tom	Centre Half	
-										
-HOWARD, Fred	Centre Forward	
-										
-HUGHES, Teddy	Wing Half	
-										
-JENKINSON, Bill	Full Back	
-										
-JOBLING, Len	Winger	
-										
-JONES, Lot	Inside Forward	
-										
-KELLY, William	Inside Forward	
-										
-LAKE, George	Wing Half	
-										
-LAWRENCE, Val	Wing Half	
-										
-MCGUIRE, Paddy	Full Back	
-										
-SMITH, Walter	Goalkeeper	
-										
-TAYLOR, Harry	Inside Forward	
-										
-WALL, Len	Wing Half	
-										
-WALLACE, William	Winger	
-										
-WATSON, Jack	Full Back	
-										
-WEBB, George	Centre Forward	
-										
-WYNN, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jack ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BOTTOMLEY, Bill ",Wing Half,33,1,0,1,0,0,0,0,0
+,"BROAD, Jimmy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CUNNINGHAM, Charlie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DORSETT, Joe ",Winger,30,4,0,0,0,0,0,0,0
+,"EADIE, Bill ",Centre Half,31,0,0,2,0,0,0,0,0
+,"EVANS, Arthur ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,33,0,0,2,0,0,0,0,0
+,"GARNER, William ",Centre Half,2,0,0,0,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,27,0,0,0,0,0,0,0,0
+,"HENRY, Billy ",Full Back,37,1,0,2,0,0,0,0,0
+,"HOAD, Sid ",Winger,16,1,0,2,1,0,0,0,0
+,"HOLFORD, Tom ",Centre Half,38,0,0,2,0,0,0,0,0
+,"HOWARD, Fred ",Centre Forward,16,11,0,1,0,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,5,0,0,1,0,0,0,0,0
+,"JENKINSON, Bill ",Full Back,0,0,0,0,0,0,0,0,0
+,"JOBLING, Len ",Winger,2,0,0,0,0,0,0,0,0
+,"JONES, Lot ",Inside Forward,37,9,0,2,0,0,0,0,0
+,"KELLY, William ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"LAKE, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LAWRENCE, Val ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCGUIRE, Paddy ",Full Back,6,0,0,0,0,0,0,0,0
+,"SMITH, Walter ",Goalkeeper,11,0,0,2,0,0,0,0,0
+,"TAYLOR, Harry ",Inside Forward,22,4,0,1,1,0,0,0,0
+,"WALL, Len ",Wing Half,7,0,0,0,0,0,0,0,0
+,"WALLACE, William ",Winger,28,8,0,2,0,0,0,0,0
+,"WATSON, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"WEBB, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"WYNN, George ",Inside Forward,31,14,0,2,2,0,0,0,0
