@@ -3,13 +3,17 @@
 ## TABLE OF CONTENTS
 
 - [MEANING](#meaning)
-  * [FIRST DIVISION OF ENGLAND FOOTBALL](#first-division-of-england-football)
+  * [FIRST DIVISION OF ENGLAND FOOTBALL : SEASONS FILES](#first-division-of-england-football---seasons-files)
+  * [FIRST DIVISION OF ENGLAND FOOTBALL : SQUADS FILES](#first-division-of-england-football---squads-files)
+  * [FIRST DIVISION OF ENGLAND FOOTBALL : GROUPED FILES](#first-division-of-england-football---grouped-files)
+  * [SCRIPTS TO CLEAN DATA](#scripts-to-clean-data)
 - [AUTHORS](#authors)
 - [LICENSES](#licenses)
   * [LICENSE OF OUR DATASET](#license-of-our-dataset)
 - [SOURCES](#sources)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ## MEANING
