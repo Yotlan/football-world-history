@@ -1,71 +1,35 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARBER, Stan	Wing Half	
-										
-BOYD, Jimmy	Winger	
-										
-BRADLEY, Bob	Full Back	
-										
-BURNS, Mick	Goalkeeper	
-										
-CARLTON, William	Full Back	
-										
-CHALMERS, Willie	Inside Forward	
-										
-CLARK, Bob	Inside Forward	
-										
-CURRY, Tom	Wing Half	
-										
-EVANS, Tom	Full Back	
-										
-GALLACHER, Hughie	Centre Forward	
-										
-GIBSON, Willie	Wing Half	
-										
-GILLESPIE, Wally	Full Back	
-										
-HALLIDAY, Billy	Inside Forward	
-										
-HARRIS, Joe	Wing Half	
-										
-HUDSPETH, Frank	Full Back	
-										
-LANG, Tommy	Winger	
-										
-LEE, John	Centre Forward	
-										
-LITTLE, Jack	Full Back	
-										
-LOW, Jimmy	Winger	
-										
-MACKENZIE, Roddie	Wing Half	
-										
-MAITLAND, Alf	Full Back	
-										
-MCCURLEY, Jock	Inside Forward	
-										
-MCDONALD, Tommy	Inside Forward	
-										
-MCKAY, Bobby	Inside Forward	
-										
-PARK, Ossie	Central Defender	
-										
-PARKIN, Ray	Inside Forward	
-										
-ROBERTSON, Alf	Goalkeeper	
-										
-SEYMOUR, Stan	Winger	
-										
-SPENCER, Charlie	Centre Half	
-										
-URWIN, Tommy	Winger	
-										
-WILKINSON, Monty	Winger	
-										
-WILSON, Willie	Goalkeeper	
-										
-WOOD, William	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARBER, Stan ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BOYD, Jimmy ",Winger,10,3,0,0,0,0,0,0,0
+,"BRADLEY, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"BURNS, Mick ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"CARLTON, William ",Full Back,3,0,0,0,0,0,0,0,0
+,"CHALMERS, Willie ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"CLARK, Bob ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"CURRY, Tom ",Wing Half,14,0,0,0,0,0,0,0,0
+,"EVANS, Tom ",Full Back,12,1,0,0,0,0,0,0,0
+,"GALLACHER, Hughie ",Centre Forward,32,21,0,1,0,0,0,0,0
+,"GIBSON, Willie ",Wing Half,10,0,0,1,0,0,0,0,0
+,"GILLESPIE, Wally ",Full Back,7,0,0,0,0,0,0,0,0
+,"HALLIDAY, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,41,1,0,1,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,23,1,1,1,0,0,0,0,0
+,"LANG, Tommy ",Winger,1,0,0,0,0,0,0,0,0
+,"LEE, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LITTLE, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"LOW, Jimmy ",Winger,4,0,0,0,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,10,0,0,0,0,0,0,0,0
+,"MAITLAND, Alf ",Full Back,38,0,0,1,0,0,0,0,0
+,"MCCURLEY, Jock ",Inside Forward,4,3,0,1,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,41,13,4,0,0,0,0,0,0
+,"MCKAY, Bobby ",Inside Forward,32,12,0,1,0,0,0,0,0
+,"PARK, Ossie ",Central Defender,20,0,0,0,0,0,0,0,0
+,"PARKIN, Ray ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBERTSON, Alf ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SEYMOUR, Stan ",Winger,29,12,0,1,1,0,0,0,0
+,"SPENCER, Charlie ",Centre Half,23,0,0,1,0,0,0,0,0
+,"URWIN, Tommy ",Winger,38,2,0,1,0,0,0,0,0
+,"WILKINSON, Monty ",Winger,16,9,0,0,0,0,0,0,0
+,"WILSON, Willie ",Goalkeeper,32,0,0,1,0,0,0,0,0
+,"WOOD, William ",Goalkeeper,0,0,0,0,0,0,0,0,0

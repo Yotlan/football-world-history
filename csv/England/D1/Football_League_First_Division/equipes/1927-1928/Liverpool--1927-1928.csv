@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Ted	Goalkeeper	
-										
-BROMILOW, Tom	Wing Half	
-										
-CHAMBERS, Harry	Inside Forward	
-										
-CLARK, Bob	Inside Forward	
-										
-DEVLIN, Tom	Inside Forward	
-										
-DEVLIN, Bill	Centre Forward	
-										
-DONE, Bob	Full Back	
-										
-EDMED, Dick	Winger	
-										
-FAIRHURST, Bill	Goalkeeper	
-										
-GALLYER, Richard	Wing Half	
-										
-HODGSON, Gordon	Inside Forward	
-										
-HOLMES, Jim	Central Defender	
-										
-HOPKIN, Fred	Winger	
-										
-JACKSON, Jimmy	Full Back	
-										
-KERRY, Ned	Inside Forward	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LUCAS, Tommy	Full Back	
-										
-MCBAIN, Neil	Centre Half	
-										
-MCKINLAY, Donald	Full Back	
-										
-MCMULLAN, Dave	Wing Half	
-										
-MCNAB, Jock	Wing Half	
-										
-MEEK, Joe	Inside Forward	
-										
-MILLER, James	Wing Half	
-										
-MORRISON, Tom	Wing Half	
-										
-MURRAY, Billy	Wing Half	
-										
-NEAL, Arthur	Winger	
-										
-PEARS, Jack	Winger	
-										
-PITHER, George	Winger	
-										
-RACE, Harry	Inside Forward	
-										
-REID, Tommy	Centre Forward	
-										
-RILEY, Arthur	Goalkeeper	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SCOTT, Tom	Inside Forward	
-										
-SHEARS, Bert	Central Defender	
-										
-THOMAS, Billy	Wing Half	
-										
-VALENTINE, Albert	Centre Forward	
-										
-WALSH, Jimmy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Ted ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BROMILOW, Tom ",Wing Half,42,3,0,2,0,0,0,0,0
+,"CHAMBERS, Harry ",Inside Forward,24,3,0,2,1,0,0,0,0
+,"CLARK, Bob ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"DEVLIN, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DEVLIN, Bill ",Centre Forward,18,14,0,0,0,0,0,0,0
+,"DONE, Bob ",Full Back,4,0,0,0,0,0,0,0,0
+,"EDMED, Dick ",Winger,42,14,2,2,1,1,0,0,0
+,"FAIRHURST, Bill ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"GALLYER, Richard ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HODGSON, Gordon ",Inside Forward,32,23,0,0,0,0,0,0,0
+,"HOLMES, Jim ",Central Defender,0,0,0,0,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,36,3,0,2,0,0,0,0,0
+,"JACKSON, Jimmy ",Full Back,40,1,0,2,0,0,0,0,0
+,"KERRY, Ned ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,1,0,0,0,0,0,0,0,0
+,"LUCAS, Tommy ",Full Back,28,0,0,2,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,10,0,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,40,0,0,2,0,0,0,0,0
+,"MCMULLAN, Dave ",Wing Half,19,0,0,1,0,0,0,0,0
+,"MCNAB, Jock ",Wing Half,7,1,0,1,0,0,0,0,0
+,"MEEK, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MILLER, James ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MORRISON, Tom ",Wing Half,15,0,0,0,0,0,0,0,0
+,"MURRAY, Billy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"NEAL, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"PEARS, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"PITHER, George ",Winger,6,1,0,0,0,0,0,0,0
+,"RACE, Harry ",Inside Forward,11,2,0,0,0,0,0,0,0
+,"REID, Tommy ",Centre Forward,25,15,0,2,0,0,0,0,0
+,"RILEY, Arthur ",Goalkeeper,25,0,0,2,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"SCOTT, Tom ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"SHEARS, Bert ",Central Defender,4,0,0,0,0,0,0,0,0
+,"THOMAS, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"VALENTINE, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WALSH, Jimmy ",Inside Forward,9,2,0,2,0,0,0,0,0

@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADCOCK, Hugh	Winger	
-										
-BARRY, Len	Winger	
-										
-BAXTER, Jimmy	Wing Half	
-										
-BELL, Billy	Winger	
-										
-BISHOP, Sid	Wing Half	
-										
-BLACK, Adam	Full Back	
-										
-BROWN, Jack	Full Back	
-										
-CALLACHAN, Harry	Full Back	
-										
-CAMPBELL, Kenny	Goalkeeper	
-										
-CARR, George	Inside Forward	
-										
-CARRIGAN, Pat	Central Defender	
-										
-CHANDLER, Arthur	Centre Forward	
-										
-DUNCAN, Johnny	Inside Forward	
-										
-FINDLAY, Billy	Wing Half	
-										
-GIBBS, George	Winger	
-										
-GIBSON, Tom	Inside Forward	
-										
-HINE, Ernie	Inside Forward	
-										
-LANE, Billy	Centre Forward	
-										
-LOCHHEAD, Arthur	Inside Forward	
-										
-MCLAREN, Jimmy	Goalkeeper	
-										
-OSBORNE, Reg	Full Back	
-										
-RUSSELL, Andy	Wing Half	
-										
-WATSON, Norman	Wing Half	
-										
-WYNESS, George	Central Defender
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADCOCK, Hugh ",Winger,42,10,0,3,1,0,0,0,0
+,"BARRY, Len ",Winger,34,4,0,3,1,0,0,0,0
+,"BAXTER, Jimmy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BELL, Billy ",Winger,7,1,0,0,0,0,0,0,0
+,"BISHOP, Sid ",Wing Half,23,4,0,3,0,0,0,0,0
+,"BLACK, Adam ",Full Back,41,0,0,3,0,0,0,0,0
+,"BROWN, Jack ",Full Back,8,0,0,0,0,0,0,0,0
+,"CALLACHAN, Harry ",Full Back,3,0,0,0,0,0,0,0,0
+,"CAMPBELL, Kenny ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,35,2,0,3,0,0,0,0,0
+,"CARRIGAN, Pat ",Central Defender,6,0,0,0,0,0,0,0,0
+,"CHANDLER, Arthur ",Centre Forward,41,34,0,3,0,0,0,0,0
+,"DUNCAN, Johnny ",Inside Forward,21,3,0,3,0,0,0,0,0
+,"FINDLAY, Billy ",Wing Half,28,0,0,0,0,0,0,0,0
+,"GIBBS, George ",Winger,0,0,0,0,0,0,0,0,0
+,"GIBSON, Tom ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HINE, Ernie ",Inside Forward,41,20,0,3,0,0,0,0,0
+,"LANE, Billy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,41,17,0,3,0,0,0,0,0
+,"MCLAREN, Jimmy ",Goalkeeper,36,0,0,3,0,0,0,0,0
+,"OSBORNE, Reg ",Full Back,32,0,0,3,0,0,0,0,0
+,"RUSSELL, Andy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WATSON, Norman ",Wing Half,10,0,0,0,0,0,0,0,0
+,"WYNESS, George ",Central Defender,0,0,0,0,0,0,0,0,0

@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Tommy	Full Back	
-										
-AMOS, Wally	Winger	
-										
-BALL, Jack	Inside Forward	
-										
-BATE, Arthur	Winger	
-										
-BRADSHAW, George	Full Back	
-										
-BRADSHAW, Tom	Central Defender	
-										
-BULLOCK, Norman	Centre Forward	
-										
-CHAMBERS, Jimmy	Winger	
-										
-CROWN, Laurie	Full Back	
-										
-CURRY, Luke	Wing Half	
-										
-DAVIN, Martin	Inside Forward	
-										
-DUTTON, Harry	Wing Half	
-										
-FINNEY, Arthur	Central Defender	
-										
-GALE, Arthur	Winger	
-										
-HARRISON, Billy	Goalkeeper	
-										
-HEAP, Fred	Full Back	
-										
-MASSIE, Alex	Wing Half	
-										
-MATTHEWS, Cyril	Winger	
-										
-MCLACHLAN, Fred	Wing Half	
-										
-PORTER, Jimmy	Wing Half	
-										
-PRATT, David	Wing Half	
-										
-RICHARDSON, Billy	Goalkeeper	
-										
-ROBBIE, David	Winger	
-										
-ROBINSON, Alick	Wing Half	
-										
-SMITH, Fred	Full Back	
-										
-SMITH, John	Centre Forward	
-										
-STAGE, Billy	Inside Forward	
-										
-VERNON, Les	Centre Forward	
-										
-WALLER, Harry	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Tommy ",Full Back,26,0,0,3,0,0,0,0,0
+,"AMOS, Wally ",Winger,42,14,0,4,2,0,0,0,0
+,"BALL, Jack ",Inside Forward,34,19,1,4,2,1,0,0,0
+,"BATE, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"BRADSHAW, George ",Full Back,19,0,0,4,0,0,0,0,0
+,"BRADSHAW, Tom ",Central Defender,40,4,0,4,0,0,0,0,0
+,"BULLOCK, Norman ",Centre Forward,34,15,0,2,0,0,0,0,0
+,"CHAMBERS, Jimmy ",Winger,4,1,0,3,0,0,0,0,0
+,"CROWN, Laurie ",Full Back,17,0,0,0,0,0,0,0,0
+,"CURRY, Luke ",Wing Half,0,0,0,1,0,0,0,0,0
+,"DAVIN, Martin ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"DUTTON, Harry ",Wing Half,14,0,0,0,0,0,0,0,0
+,"FINNEY, Arthur ",Central Defender,13,0,0,2,0,0,0,0,0
+,"GALE, Arthur ",Winger,4,0,0,0,0,0,0,0,0
+,"HARRISON, Billy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HEAP, Fred ",Full Back,21,0,0,1,0,0,0,0,0
+,"MASSIE, Alex ",Wing Half,6,0,0,0,0,0,0,0,0
+,"MATTHEWS, Cyril ",Winger,8,2,1,0,0,0,0,0,0
+,"MCLACHLAN, Fred ",Wing Half,2,0,0,0,0,0,0,0,0
+,"PORTER, Jimmy ",Wing Half,25,0,0,2,0,0,0,0,0
+,"PRATT, David ",Wing Half,26,0,0,3,0,0,0,0,0
+,"RICHARDSON, Billy ",Goalkeeper,41,0,0,4,0,0,0,0,0
+,"ROBBIE, David ",Winger,28,4,0,1,0,0,0,0,0
+,"ROBINSON, Alick ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SMITH, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"SMITH, John ",Centre Forward,9,10,1,0,0,0,0,0,0
+,"STAGE, Billy ",Inside Forward,22,1,0,2,0,0,0,0,0
+,"VERNON, Les ",Centre Forward,12,7,0,4,2,0,0,0,0
+,"WALLER, Harry ",Winger,0,0,0,0,0,0,0,0,0

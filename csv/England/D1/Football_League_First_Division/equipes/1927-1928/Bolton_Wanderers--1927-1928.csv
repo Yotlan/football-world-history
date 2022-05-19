@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATKIN, Tommy	Winger	
-										
-BLACKMORE, Harold	Centre Forward	
-										
-BOSTON, Harry	Winger	
-										
-BUTLER, Billy	Winger	
-										
-COPE, John	Wing Half	
-										
-DONCASTER, Dick	Winger	
-										
-FINNEY, Alex	Full Back	
-										
-GIBSON, George	Inside Forward	
-										
-GILL, Jimmy	Goalkeeper	
-										
-GOUGH, Harold	Goalkeeper	
-										
-GREENHALGH, Harry	Full Back	
-										
-HAWORTH, Bob	Full Back	
-										
-JACK, David	Inside Forward	
-										
-JACK, Rollo	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Benny	Inside Forward	
-										
-MCCLELLAND, Jimmy	Inside Forward	
-										
-MURPHY, Lionel 'Spud'	Winger	
-										
-NUTTALL, Harry	Wing Half	
-										
-PEACHEY, Alf	Central Defender	
-										
-PICKEN, Albert	Winger	
-										
-PYM, Dick	Goalkeeper	
-										
-ROUND, Jack	Central Defender	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SMITH, John	Centre Forward	
-										
-THORNBOROUGH, Ernie	Wing Half	
-										
-VIZARD, Ted	Winger	
-										
-WAGSTAFF, James	Full Back	
-										
-WRIGHT, Billy	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATKIN, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"BLACKMORE, Harold ",Centre Forward,12,8,1,0,0,0,0,0,0
+,"BOSTON, Harry ",Winger,6,1,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,39,5,0,2,1,0,0,0,0
+,"COPE, John ",Wing Half,28,0,0,2,0,0,0,0,0
+,"DONCASTER, Dick ",Winger,0,0,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,33,1,0,1,0,0,0,0,0
+,"GIBSON, George ",Inside Forward,38,8,0,2,0,0,0,0,0
+,"GILL, Jimmy ",Goalkeeper,17,0,0,2,0,0,0,0,0
+,"GOUGH, Harold ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"GREENHALGH, Harry ",Full Back,3,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,28,0,0,2,0,0,0,0,0
+,"JACK, David ",Inside Forward,33,24,0,2,0,0,0,0,0
+,"JACK, Rollo ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,18,0,0,1,0,0,0,0,0
+,"JONES, Benny ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCCLELLAND, Jimmy ",Inside Forward,10,8,1,0,0,0,0,0,0
+,"MURPHY, Lionel 'Spud' ",Winger,14,3,0,1,1,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,36,2,0,1,0,0,0,0,0
+,"PEACHEY, Alf ",Central Defender,0,0,0,0,0,0,0,0,0
+,"PICKEN, Albert ",Winger,9,2,0,0,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,21,0,0,0,0,0,0,0,0
+,"ROUND, Jack ",Central Defender,21,1,0,2,1,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,21,0,0,0,0,0,0,0,0
+,"SMITH, John ",Centre Forward,18,10,0,2,1,0,0,0,0
+,"THORNBOROUGH, Ernie ",Wing Half,12,0,0,1,0,0,0,0,0
+,"VIZARD, Ted ",Winger,18,4,0,0,0,0,0,0,0
+,"WAGSTAFF, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,16,2,0,1,0,0,0,0,0

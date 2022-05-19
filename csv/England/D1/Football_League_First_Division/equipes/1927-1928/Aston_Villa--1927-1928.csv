@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMFIELD, Billy	Winger	
-										
-BERESFORD, Joe	Inside Forward	
-										
-BOWEN, Teddy	Full Back	
-										
-BRITTLETON, John	Full Back	
-										
-CAPEWELL, Len	Centre Forward	
-										
-CHESTER, Reg	Winger	
-										
-COOK, Billy	Inside Forward	
-										
-DORRELL, Arthur	Winger	
-										
-GIBSON, Jimmy	Wing Half	
-										
-GODDARD, Howard	Goalkeeper	
-										
-HARRIS, Walter	Centre Forward	
-										
-HICKMAN, Joe	Goalkeeper	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JOHNSON, William	Goalkeeper	
-										
-KINGDON, Billy	Wing Half	
-										
-MILNE, Vic	Centre Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-OLNEY, Ben	Goalkeeper	
-										
-SMART, Tommy	Full Back	
-										
-SPENCER, James	Winger	
-										
-STEPHENSON, George	Inside Forward	
-										
-TALBOT, Alec	Central Defender	
-										
-TATE, Joe	Wing Half	
-										
-TULLY, Fred	Winger	
-										
-VALLANCE, Hugh	Centre Forward	
-										
-WALKER, Billy	Inside Forward	
-										
-WARING, Tom 'Pongo'	Centre Forward	
-										
-YATES, Jack	Wing Half	
-										
-YORK, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMFIELD, Billy ",Winger,3,2,0,0,0,0,0,0,0
+,"BERESFORD, Joe ",Inside Forward,31,10,1,3,1,0,0,0,0
+,"BOWEN, Teddy ",Full Back,32,0,0,2,0,0,0,0,0
+,"BRITTLETON, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,6,4,0,0,0,0,0,0,0
+,"CHESTER, Reg ",Winger,11,3,0,1,0,0,0,0,0
+,"COOK, Billy ",Inside Forward,35,23,0,3,4,0,0,0,0
+,"DORRELL, Arthur ",Winger,36,9,0,3,0,0,0,0,0
+,"GIBSON, Jimmy ",Wing Half,24,1,0,0,0,0,0,0,0
+,"GODDARD, Howard ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HARRIS, Walter ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"HICKMAN, Joe ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"JOHNSON, William ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"KINGDON, Billy ",Wing Half,31,0,0,3,0,0,0,0,0
+,"MILNE, Vic ",Centre Half,37,0,0,3,0,0,0,0,0
+,"MORT, Tommy ",Full Back,14,0,0,1,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,17,0,0,3,0,0,0,0,0
+,"OLNEY, Ben ",Goalkeeper,20,0,0,3,0,0,0,0,0
+,"SMART, Tommy ",Full Back,36,4,4,3,0,0,0,0,0
+,"SPENCER, James ",Winger,0,0,0,0,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"TALBOT, Alec ",Central Defender,2,0,0,0,0,0,0,0,0
+,"TATE, Joe ",Wing Half,4,0,0,0,0,0,0,0,0
+,"TULLY, Fred ",Winger,6,0,0,0,0,0,0,0,0
+,"VALLANCE, Hugh ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,38,10,0,3,1,0,0,0,0
+,"WARING, Tom 'Pongo' ",Centre Forward,13,7,0,0,0,0,0,0,0
+,"YATES, Jack ",Wing Half,11,0,0,0,0,0,0,0,0
+,"YORK, Dicky ",Winger,28,4,0,2,0,0,0,0,0

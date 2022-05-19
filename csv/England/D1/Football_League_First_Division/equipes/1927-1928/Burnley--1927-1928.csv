@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEEL, George	Centre Forward	
-										
-BINNS, Cliff	Goalkeeper	
-										
-BROWN, Jimmy	Wing Half	
-										
-BRUTON, Jack	Winger	
-										
-BURLEY, George	Centre Forward	
-										
-CAINE, Jimmy	Centre Half	
-										
-CROSS, Benny	Inside Forward	
-										
-DEVINE, Joe	Inside Forward	
-										
-DOUGAL, Peter	Inside Forward	
-										
-DOUGAL, Billy	Wing Half	
-										
-DOWN, Billy	Goalkeeper	
-										
-FORREST, Alex	Wing Half	
-										
-FREEMAN, Albert	Inside Forward	
-										
-HADDOW, Andrew	Centre Forward	
-										
-HARGREAVES, Harry	Inside Forward	
-										
-HESLOP, Archie	Winger	
-										
-HESLOP, Robert	Inside Forward	
-										
-HILL, Jack	Central Defender	
-										
-KNOX, William	Full Back	
-										
-MANTLE, Joe	Centre Forward	
-										
-MCCLUGGAGE, Andy	Full Back	
-										
-PAGE, Louis	Winger	
-										
-PARKIN, George	Wing Half	
-										
-POLLARD, Walter	Inside Forward	
-										
-REID, Andy	Full Back	
-										
-RICHARDS, Percy	Centre Forward	
-										
-SOMMERVILLE, George	Goalkeeper	
-										
-STEEL, John	Wing Half	
-										
-WATERFIELD, George	Full Back	
-										
-WESTON, John	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEEL, George ",Centre Forward,39,35,0,1,0,0,0,0,0
+,"BINNS, Cliff ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BROWN, Jimmy ",Wing Half,14,0,0,1,0,0,0,0,0
+,"BRUTON, Jack ",Winger,41,6,0,1,0,0,0,0,0
+,"BURLEY, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"CAINE, Jimmy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,17,1,0,0,0,0,0,0,0
+,"DOUGAL, Peter ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"DOUGAL, Billy ",Wing Half,12,1,0,0,0,0,0,0,0
+,"DOWN, Billy ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"FORREST, Alex ",Wing Half,1,0,0,0,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,38,6,0,1,0,0,0,0,0
+,"HADDOW, Andrew ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"HARGREAVES, Harry ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"HESLOP, Archie ",Winger,1,0,0,0,0,0,0,0,0
+,"HESLOP, Robert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,37,4,0,1,0,0,0,0,0
+,"KNOX, William ",Full Back,11,0,0,0,0,0,0,0,0
+,"MANTLE, Joe ",Centre Forward,1,1,0,0,0,0,0,0,0
+,"MCCLUGGAGE, Andy ",Full Back,29,1,1,1,0,0,0,0,0
+,"PAGE, Louis ",Winger,41,22,0,1,0,0,0,0,0
+,"PARKIN, George ",Wing Half,41,0,0,1,0,0,0,0,0
+,"POLLARD, Walter ",Inside Forward,12,1,0,0,0,0,0,0,0
+,"REID, Andy ",Full Back,2,0,0,0,0,0,0,0,0
+,"RICHARDS, Percy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"SOMMERVILLE, George ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"STEEL, John ",Wing Half,25,0,0,1,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,42,0,0,1,0,0,0,0,0
+,"WESTON, John ",Winger,2,1,0,0,0,0,0,0,0

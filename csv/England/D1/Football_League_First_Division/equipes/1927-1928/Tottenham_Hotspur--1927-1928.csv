@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jimmy	Inside Forward	
-										
-AUSTIN, Percy	Wing Half	
-										
-BARNETT, Fred	Winger	
-										
-BELLAMY, Walter	Winger	
-										
-BLAIR, John	Inside Forward	
-										
-BRITTON, Jack	Goalkeeper	
-										
-CLAY, Tommy	Full Back	
-										
-DIMMOCK, Jimmy	Winger	
-										
-ELKES, Jack	Inside Forward	
-										
-EVANS, Albert	Centre Forward	
-										
-EVANS, Tom	Wing Half	
-										
-FORSTER, Matt	Full Back	
-										
-GARBUTT, Harry	Centre Forward	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HANDLEY, Charlie	Winger	
-										
-HARTLEY, Frank	Inside Forward	
-										
-HAYWARD, Willie	Wing Half	
-										
-HELLIWELL, Sid	Central Defender	
-										
-LINDSAY, Alex	Centre Forward	
-										
-LOWDELL, Arthur	Wing Half	
-										
-MULDOON, Tommy	Wing Half	
-										
-NICHOLLS, Joe	Goalkeeper	
-										
-O'CALLAGHAN, Eugene 'Taffy'	Inside Forward	
-										
-OSBORNE, Frank	Centre Forward	
-										
-POYNTON, Cecil	Full Back	
-										
-RICHARDSON, Jock	Full Back	
-										
-SANDERS, Arthur	Wing Half	
-										
-SKITT, Harry	Central Defender	
-										
-SMITH, Bert	Wing Half	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-THOMPSON, Andy	Winger	
-										
-TOWNLEY, Jimmy	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jimmy ",Inside Forward,11,4,0,4,0,0,0,0,0
+,"AUSTIN, Percy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BARNETT, Fred ",Winger,5,0,0,0,0,0,0,0,0
+,"BELLAMY, Walter ",Winger,4,0,0,0,0,0,0,0,0
+,"BLAIR, John ",Inside Forward,5,4,0,0,0,0,0,0,0
+,"BRITTON, Jack ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,16,0,0,3,0,0,0,0,0
+,"DIMMOCK, Jimmy ",Winger,38,11,2,4,2,0,0,0,0
+,"ELKES, Jack ",Inside Forward,22,5,0,0,0,0,0,0,0
+,"EVANS, Albert ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"EVANS, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FORSTER, Matt ",Full Back,32,0,0,2,0,0,0,0,0
+,"GARBUTT, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,35,2,1,4,0,0,0,0,0
+,"HANDLEY, Charlie ",Winger,26,4,0,4,1,0,0,0,0
+,"HARTLEY, Frank ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"HAYWARD, Willie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HELLIWELL, Sid ",Central Defender,2,0,0,0,0,0,0,0,0
+,"LINDSAY, Alex ",Centre Forward,19,4,1,1,0,0,0,0,0
+,"LOWDELL, Arthur ",Wing Half,34,0,0,4,0,0,0,0,0
+,"MULDOON, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"NICHOLLS, Joe ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"O'CALLAGHAN, Eugene 'Taffy' ",Inside Forward,42,19,0,4,5,0,0,0,0
+,"OSBORNE, Frank ",Centre Forward,31,18,0,3,1,0,0,0,0
+,"POYNTON, Cecil ",Full Back,14,0,0,0,0,0,0,0,0
+,"RICHARDSON, Jock ",Full Back,24,0,0,3,0,0,0,0,0
+,"SANDERS, Arthur ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SKITT, Harry ",Central Defender,38,0,0,4,0,0,0,0,0
+,"SMITH, Bert ",Wing Half,8,0,0,0,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,26,0,0,4,0,0,0,0,0
+,"THOMPSON, Andy ",Winger,4,0,0,0,0,0,0,0,0
+,"TOWNLEY, Jimmy ",Winger,3,2,0,0,0,0,0,0,0

@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAIN, David	Wing Half	
-										
-BROWN, William	Wing Half	
-										
-CRESSWELL, Warney	Full Back	
-										
-CRITCHLEY, Ted	Winger	
-										
-DAVIES, Arthur	Goalkeeper	
-										
-DEAN, Bill 'Dixie'	Centre Forward	
-										
-DICKIE, Bill	Wing Half	
-										
-DOMINY, Arthur	Inside Forward	
-										
-EASTON, Bill	Inside Forward	
-										
-FORSHAW, Dick	Inside Forward	
-										
-HARDY, Harry	Goalkeeper	
-										
-HART, Hunter	Wing Half	
-										
-HOUGHTON, Harold	Inside Forward	
-										
-IRVINE, Bobby	Inside Forward	
-										
-JONES, Mickey	Inside Forward	
-										
-KELLY, Jerry	Wing Half	
-										
-MARTIN, George	Inside Forward	
-										
-MESTON, Sammy	Winger	
-										
-MILLER, Bill	Central Defender	
-										
-O'DONNELL, Jack	Full Back	
-										
-RAITT, David	Full Back	
-										
-ROONEY, Walter	Wing Half	
-										
-ROSCOE, Jack	Winger	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-TEMPLEMAN, Joe	Winger	
-										
-TROUP, Alec	Winger	
-										
-VIRR, Albert	Wing Half	
-										
-WELDON, Tony	Inside Forward	
-										
-WHITE, Tommy	Central Defender	
-										
-WILKINSON, Tom	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAIN, David ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BROWN, William ",Wing Half,2,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,36,0,0,2,0,0,0,0,0
+,"CRITCHLEY, Ted ",Winger,40,6,0,2,0,0,0,0,0
+,"DAVIES, Arthur ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"DEAN, Bill 'Dixie' ",Centre Forward,39,60,1,2,3,0,0,0,0
+,"DICKIE, Bill ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DOMINY, Arthur ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"EASTON, Bill ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,23,5,0,0,0,0,0,0,0
+,"HARDY, Harry ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"HART, Hunter ",Wing Half,41,1,0,2,0,0,0,0,0
+,"HOUGHTON, Harold ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,9,3,0,2,1,0,0,0,0
+,"JONES, Mickey ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"KELLY, Jerry ",Wing Half,40,1,0,2,0,0,0,0,0
+,"MARTIN, George ",Inside Forward,10,3,0,0,0,0,0,0,0
+,"MESTON, Sammy ",Winger,1,0,0,0,0,0,0,0,0
+,"MILLER, Bill ",Central Defender,0,0,0,0,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,42,1,1,2,0,0,0,0,0
+,"RAITT, David ",Full Back,6,0,0,0,0,0,0,0,0
+,"ROONEY, Walter ",Wing Half,4,0,0,1,0,0,0,0,0
+,"ROSCOE, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,26,0,0,2,0,0,0,0,0
+,"TEMPLEMAN, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"TROUP, Alec ",Winger,42,10,0,2,1,0,0,0,0
+,"VIRR, Albert ",Wing Half,39,1,0,1,0,0,0,0,0
+,"WELDON, Tony ",Inside Forward,38,7,0,2,0,0,0,0,0
+,"WHITE, Tommy ",Central Defender,1,2,0,0,0,0,0,0,0
+,"WILKINSON, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0

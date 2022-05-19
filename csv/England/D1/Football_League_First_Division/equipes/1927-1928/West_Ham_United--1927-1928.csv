@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAILLIE, David	Goalkeeper	
-										
-BARRETT, Jim	Central Defender	
-										
-CADWELL, Albert	Wing Half	
-										
-CAMPBELL, John	Centre Forward	
-										
-COLLINS, Jimmy	Wing Half	
-										
-COX, Charlie	Full Back	
-										
-EARL, Alf	Full Back	
-										
-EARLE, Stan	Inside Forward	
-										
-GIBBINS, Viv	Centre Forward	
-										
-HEBDEN, Jack	Full Back	
-										
-HENDERSON, Billy	Full Back	
-										
-HODGSON, Tommy	Full Back	
-										
-HORLER, George	Full Back	
-										
-HUFTON, Ted	Goalkeeper	
-										
-JACKSON, Billy	Winger	
-										
-JOHNSON, Joe	Inside Forward	
-										
-LOUGHLIN, Jimmy	Centre Forward	
-										
-MOORE, Billy	Inside Forward	
-										
-NORRINGTON, Cyril	Full Back	
-										
-ROBSON, George	Inside Forward	
-										
-RUFFELL, Jimmy	Winger	
-										
-RUTHERFORD, John	Winger	
-										
-SMITH, Harry	Inside Forward	
-										
-SMITH, William	Full Back	
-										
-TATE, Hal	Goalkeeper	
-										
-WATSON, Vic	Centre Forward	
-										
-YEWS, Tommy	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAILLIE, David ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"BARRETT, Jim ",Central Defender,34,5,0,0,0,0,0,0,0
+,"CADWELL, Albert ",Wing Half,27,0,0,2,0,0,0,0,0
+,"CAMPBELL, John ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,42,0,0,2,0,0,0,0,0
+,"COX, Charlie ",Full Back,26,0,0,2,0,0,0,0,0
+,"EARL, Alf ",Full Back,33,0,0,2,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,31,11,0,1,0,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,25,14,0,2,2,0,0,0,0
+,"HEBDEN, Jack ",Full Back,12,0,0,0,0,0,0,0,0
+,"HENDERSON, Billy ",Full Back,16,0,0,2,0,0,0,0,0
+,"HODGSON, Tommy ",Full Back,5,0,0,0,0,0,0,0,0
+,"HORLER, George ",Full Back,2,0,0,0,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,25,0,0,2,0,0,0,0,0
+,"JACKSON, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"JOHNSON, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LOUGHLIN, Jimmy ",Centre Forward,10,4,0,0,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,23,2,0,1,0,0,0,0,0
+,"NORRINGTON, Cyril ",Full Back,13,0,0,0,0,0,0,0,0
+,"ROBSON, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,39,18,0,2,1,0,0,0,0
+,"RUTHERFORD, John ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SMITH, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"TATE, Hal ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"WATSON, Vic ",Centre Forward,33,16,0,2,0,0,0,0,0
+,"YEWS, Tommy ",Winger,42,11,0,2,0,0,0,0,0

@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Adam	Central Defender	
-										
-ANDREWS, Arthur	Wing Half	
-										
-BARTLEY, Jack	Wing Half	
-										
-BELL, Jack	Goalkeeper	
-										
-CHAPPELL, Archie	Inside Forward	
-										
-CLUNAS, Billy	Wing Half	
-										
-CRESSWELL, Frank	Inside Forward	
-										
-DEATH, Billy	Winger	
-										
-DOWSEY, Jack	Wing Half	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-GURNEY, Bobby	Centre Forward	
-										
-HALLIDAY, Dave	Centre Forward	
-										
-HALLIDAY, Tom	Full Back	
-										
-HARGREAVES, Len	Winger	
-										
-HENDERSON, George	Central Defender	
-										
-KELLY, Gerry	Winger	
-										
-LILLEY, Tom	Full Back	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MCGORIAN, Ike	Wing Half	
-										
-MCINROY, Albert	Goalkeeper	
-										
-MITCHELL, Andy	Winger	
-										
-MURRAY, Bill	Full Back	
-										
-OAKLEY, James	Full Back	
-										
-PARKER, Charlie	Centre Half	
-										
-RAMSAY, Stan	Full Back	
-										
-ROBINSON, George	Inside Forward	
-										
-SCOTT, David	Inside Forward	
-										
-THOMSON, Bob	Full Back	
-										
-WHELAN, Billy	Full Back	
-										
-WILKS, Alwyne	Winger	
-										
-WOOD, Albert	Inside Forward	
-										
-WRIGHT, Dave	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Adam ",Central Defender,20,0,0,0,0,0,0,0,0
+,"ANDREWS, Arthur ",Wing Half,27,0,0,3,0,0,0,0,0
+,"BARTLEY, Jack ",Wing Half,8,0,0,0,0,0,0,0,0
+,"BELL, Jack ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"CHAPPELL, Archie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CLUNAS, Billy ",Wing Half,35,3,0,3,1,1,0,0,0
+,"CRESSWELL, Frank ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"DEATH, Billy ",Winger,9,1,0,0,0,0,0,0,0
+,"DOWSEY, Jack ",Wing Half,9,1,0,0,0,0,0,0,0
+,"ELLIS, Billy ",Winger,7,3,1,0,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,15,0,0,1,0,0,0,0,0
+,"GURNEY, Bobby ",Centre Forward,9,3,0,0,0,0,0,0,0
+,"HALLIDAY, Dave ",Centre Forward,38,35,0,3,4,0,0,0,0
+,"HALLIDAY, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"HARGREAVES, Len ",Winger,28,8,0,3,1,0,0,0,0
+,"HENDERSON, George ",Central Defender,15,0,0,3,0,0,0,0,0
+,"KELLY, Gerry ",Winger,0,0,0,0,0,0,0,0,0
+,"LILLEY, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,19,6,0,3,0,0,0,0,0
+,"MCGORIAN, Ike ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"MITCHELL, Andy ",Winger,0,0,0,0,0,0,0,0,0
+,"MURRAY, Bill ",Full Back,41,0,0,2,0,0,0,0,0
+,"OAKLEY, James ",Full Back,8,0,0,0,0,0,0,0,0
+,"PARKER, Charlie ",Centre Half,13,0,0,0,0,0,0,0,0
+,"RAMSAY, Stan ",Full Back,7,4,0,1,0,0,0,0,0
+,"ROBINSON, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SCOTT, David ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMSON, Bob ",Full Back,19,0,0,3,0,0,0,0,0
+,"WHELAN, Billy ",Full Back,7,0,0,0,0,0,0,0,0
+,"WILKS, Alwyne ",Winger,40,3,0,3,0,0,0,0,0
+,"WOOD, Albert ",Inside Forward,3,0,0,1,0,0,0,0,0
+,"WRIGHT, Dave ",Inside Forward,32,5,0,1,1,0,0,0,0

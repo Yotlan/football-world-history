@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Jack	Goalkeeper	
-										
-BIRKS, Len	Full Back	
-										
-BLAIR, John	Inside Forward	
-										
-BOYLE, Tommy	Inside Forward	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-CHANDLER, Bert	Full Back	
-										
-DUNNE, Jimmy	Centre Forward	
-										
-FOX, Stan	Wing Half	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GREEN, George	Wing Half	
-										
-HUNT, George	Centre Forward	
-										
-JOHNSON, Harry	Centre Forward	
-										
-JOHNSON, Martin	Inside Forward	
-										
-KING, Seth	Central Defender	
-										
-MATTHEWS, Vince	Centre Half	
-										
-MERCER, Arthur	Inside Forward	
-										
-MERCER, Dave	Winger	
-										
-MORDUE, Tom 'Tucker'	Inside Forward	
-										
-OAKTON, Eric	Winger	
-										
-PARTRIDGE, Albert	Winger	
-										
-PHILLIPSON, Tom	Centre Forward	
-										
-PICKERING, Jack	Inside Forward	
-										
-SAMPY, Tommy	Wing Half	
-										
-SHANKLY, Jimmy	Centre Forward	
-										
-STEVENSON, Arthur	Winger	
-										
-TUNSTALL, Fred	Winger	
-										
-TURNBULL, George	Goalkeeper	
-										
-WEBSTER, Wally	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Jack ",Goalkeeper,41,0,0,8,0,0,0,0,0
+,"BIRKS, Len ",Full Back,41,0,0,8,0,0,0,0,0
+,"BLAIR, John ",Inside Forward,18,6,0,8,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,8,0,0,0,0,0,0,0,0
+,"CHANDLER, Bert ",Full Back,32,0,0,7,0,0,0,0,0
+,"DUNNE, Jimmy ",Centre Forward,8,1,0,0,0,0,0,0,0
+,"FOX, Stan ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,34,5,0,8,1,0,0,0,0
+,"GREEN, George ",Wing Half,42,0,0,8,0,0,0,0,0
+,"HUNT, George ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,36,33,0,8,10,0,0,0,0
+,"JOHNSON, Martin ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"KING, Seth ",Central Defender,13,0,0,1,0,0,0,0,0
+,"MATTHEWS, Vince ",Centre Half,34,1,0,8,0,0,0,0,0
+,"MERCER, Arthur ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"MERCER, Dave ",Winger,10,0,0,0,0,0,0,0,0
+,"MORDUE, Tom 'Tucker' ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"OAKTON, Eric ",Winger,0,0,0,0,0,0,0,0,0
+,"PARTRIDGE, Albert ",Winger,31,11,0,8,3,0,0,0,0
+,"PHILLIPSON, Tom ",Centre Forward,10,3,0,0,0,0,0,0,0
+,"PICKERING, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,34,0,0,8,0,0,0,0,0
+,"SHANKLY, Jimmy ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"STEVENSON, Arthur ",Winger,2,0,0,0,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,40,19,4,8,1,0,0,0,0
+,"TURNBULL, George ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WEBSTER, Wally ",Full Back,5,0,0,0,0,0,0,0,0

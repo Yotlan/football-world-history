@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAIN, Jimmy	Central Defender	
-										
-BARNETT, Tommy	Inside Forward	
-										
-BARSON, Frank	Centre Half	
-										
-BENNION, Ray	Wing Half	
-										
-BRIERLEY, Jack	Inside Forward	
-										
-CHAPMAN, Billy	Winger	
-										
-FERGUSON, Danny	Wing Half	
-										
-HANSON, Jimmy	Inside Forward	
-										
-HASLAM, George 'Tiny'	Centre Half	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-JOHNSTON, Billy	Inside Forward	
-										
-JONES, Tom	Full Back	
-										
-KIRBY, Norman	Winger	
-										
-MANN, Frank	Inside Forward	
-										
-MCLENAHAN, Hugh	Wing Half	
-										
-MCPHERSON, Frank	Winger	
-										
-MOORE, Charlie	Full Back	
-										
-MOYLE, Walter	Full Back	
-										
-NICOL, Geordie	Centre Forward	
-										
-PARTRIDGE, Ted	Winger	
-										
-RAMSDEN, Charlie	Winger	
-										
-RAWLINGS, Bill	Centre Forward	
-										
-RICHARDSON, Lance	Goalkeeper	
-										
-SILCOCK, Jack	Full Back	
-										
-SPENCE, Joe	Winger	
-										
-STEWARD, Alf	Goalkeeper	
-										
-STOCKDALE, Tom	Wing Half	
-										
-SWEENEY, Eric	Inside Forward	
-										
-TAYLOR, Christopher	Centre Half	
-										
-TAYLOR, Charles	Inside Forward	
-										
-THOMAS, Harry	Winger	
-										
-WILLIAMS, Rees	Winger	
-										
-WILSON, Jack	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAIN, Jimmy ",Central Defender,1,0,0,0,0,0,0,0,0
+,"BARNETT, Tommy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BARSON, Frank ",Centre Half,11,0,0,0,0,0,0,0,0
+,"BENNION, Ray ",Wing Half,36,1,0,5,0,0,0,0,0
+,"BRIERLEY, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CHAPMAN, Billy ",Winger,9,0,0,0,0,0,0,0,0
+,"FERGUSON, Danny ",Wing Half,4,0,0,0,0,0,0,0,0
+,"HANSON, Jimmy ",Inside Forward,30,10,0,5,4,0,0,0,0
+,"HASLAM, George 'Tiny' ",Centre Half,3,0,0,0,0,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,5,0,0,0,0,0,0,0,0
+,"JOHNSTON, Billy ",Inside Forward,31,8,0,5,3,0,0,0,0
+,"JONES, Tom ",Full Back,33,0,0,5,0,0,0,0,0
+,"KIRBY, Norman ",Winger,0,0,0,0,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,26,0,0,5,0,0,0,0,0
+,"MCLENAHAN, Hugh ",Wing Half,10,1,0,0,0,0,0,0,0
+,"MCPHERSON, Frank ",Winger,26,6,0,3,1,0,0,0,0
+,"MOORE, Charlie ",Full Back,25,0,0,1,0,0,0,0,0
+,"MOYLE, Walter ",Full Back,0,0,0,0,0,0,0,0,0
+,"NICOL, Geordie ",Centre Forward,4,2,0,1,0,0,0,0,0
+,"PARTRIDGE, Ted ",Winger,23,5,0,3,0,0,0,0,0
+,"RAMSDEN, Charlie ",Winger,2,0,0,0,0,0,0,0,0
+,"RAWLINGS, Bill ",Centre Forward,12,10,0,0,0,0,0,0,0
+,"RICHARDSON, Lance ",Goalkeeper,32,0,0,4,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,26,0,0,4,0,0,0,0,0
+,"SPENCE, Joe ",Winger,38,22,1,5,2,0,0,0,0
+,"STEWARD, Alf ",Goalkeeper,10,0,0,1,0,0,0,0,0
+,"STOCKDALE, Tom ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SWEENEY, Eric ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"TAYLOR, Christopher ",Centre Half,2,0,0,0,0,0,0,0,0
+,"TAYLOR, Charles ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMAS, Harry ",Winger,13,2,0,0,0,0,0,0,0
+,"WILLIAMS, Rees ",Winger,13,2,0,3,0,0,0,0,0
+,"WILSON, Jack ",Wing Half,33,0,0,5,0,0,0,0,0

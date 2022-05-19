@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BROWN, George	Centre Forward	
-										
-BROWN, Bill	Full Back	
-										
-CAMPBELL, Willie	Wing Half	
-										
-CARR, Billy	Wing Half	
-										
-CUMMING, Laurie	Inside Forward	
-										
-DENT, Johnny	Centre Forward	
-										
-DUFF, Tommy	Winger	
-										
-GOODALL, Roy	Full Back	
-										
-HARWOOD, Vince	Inside Forward	
-										
-JACKSON, Alex	Winger	
-										
-JEPSON, Bert	Winger	
-										
-KELLY, Bob	Inside Forward	
-										
-MARTIN, Sidney	Inside Forward	
-										
-MEADS, Tommy	Wing Half	
-										
-MERCER, Billy	Goalkeeper	
-										
-MORALEE, Bill	Wing Half	
-										
-PICKERING, Bill	Full Back	
-										
-RAW, Harry	Inside Forward	
-										
-REDFERN, Levi	Wing Half	
-										
-SHANKS, Robert	Full Back	
-										
-SMAILES, Jimmy	Winger	
-										
-SMITH, Norman	Wing Half	
-										
-SMITH, Billy	Winger	
-										
-SPENCE, Bonwell	Full Back	
-										
-STEELE, David	Wing Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TURNER, Hugh	Goalkeeper	
-										
-WADSWORTH, Sam	Full Back	
-										
-WILSON, George	Inside Forward	
-										
-WILSON, Tommy	Central Defender	
-										
-WREN, Tom	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,36,4,3,4,0,0,0,0,0
+,"BROWN, George ",Centre Forward,32,27,0,6,8,0,0,0,0
+,"BROWN, Bill ",Full Back,0,0,0,0,0,0,0,0,0
+,"CAMPBELL, Willie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"CARR, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CUMMING, Laurie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DENT, Johnny ",Centre Forward,18,8,0,2,0,0,0,0,0
+,"DUFF, Tommy ",Winger,0,0,0,0,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,29,5,5,8,1,1,0,0,0
+,"HARWOOD, Vince ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JACKSON, Alex ",Winger,39,19,1,8,5,0,0,0,0
+,"JEPSON, Bert ",Winger,0,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,35,5,0,8,0,0,0,0,0
+,"MARTIN, Sidney ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MEADS, Tommy ",Wing Half,27,0,0,2,0,0,0,0,0
+,"MERCER, Billy ",Goalkeeper,23,0,0,7,0,0,0,0,0
+,"MORALEE, Bill ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PICKERING, Bill ",Full Back,1,0,0,0,0,0,0,0,0
+,"RAW, Harry ",Inside Forward,10,2,0,0,0,0,0,0,0
+,"REDFERN, Levi ",Wing Half,23,0,0,7,0,0,0,0,0
+,"SHANKS, Robert ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMAILES, Jimmy ",Winger,3,0,0,0,0,0,0,0,0
+,"SMITH, Norman ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,38,17,0,8,4,0,0,0,0
+,"SPENCE, Bonwell ",Full Back,5,0,0,1,0,0,0,0,0
+,"STEELE, David ",Wing Half,24,0,0,6,2,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,31,2,0,8,0,0,0,0,0
+,"TURNER, Hugh ",Goalkeeper,19,0,0,1,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,17,0,0,4,0,0,0,0,0
+,"WILSON, George ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"WILSON, Tommy ",Central Defender,41,0,0,8,0,0,0,0,0
+,"WREN, Tom ",Full Back,0,0,0,0,0,0,0,0,0

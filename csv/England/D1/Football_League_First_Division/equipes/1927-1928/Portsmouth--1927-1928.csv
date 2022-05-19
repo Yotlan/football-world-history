@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BINKS, Sid	Centre Forward	
-										
-CLIFFORD, George	Full Back	
-										
-COOK, Fred	Winger	
-										
-DAVEY, Hugh	Centre Forward	
-										
-DAVIES, Reg	Wing Half	
-										
-FORWARD, Fred	Winger	
-										
-FOXALL, Harry	Centre Half	
-										
-HAINES, Billy	Centre Forward	
-										
-HASLAM, George 'Tiny'	Centre Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-JARVIE, John	Goalkeeper	
-										
-LUKE, Charlie	Winger	
-										
-MACKIE, Jerry	Inside Forward	
-										
-MCCOLGAN, John	Full Back	
-										
-MCILWANE, Johnny	Central Defender	
-										
-MCPHAIL, Dan	Goalkeeper	
-										
-MCWHIRR, James	Winger	
-										
-MOFFAT, Billy	Wing Half	
-										
-NICHOL, Jimmy	Wing Half	
-										
-RUTHERFORD, Sep	Winger	
-										
-SMITH, Jack	Inside Forward	
-										
-WALTERS, Albert	Centre Forward	
-										
-WATSON, David	Inside Forward	
-										
-WATTS, Farewell	Inside Forward	
-										
-WEDDLE, Jack	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BINKS, Sid ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CLIFFORD, George ",Full Back,42,0,0,1,0,0,0,0,0
+,"COOK, Fred ",Winger,41,10,0,1,0,0,0,0,0
+,"DAVEY, Hugh ",Centre Forward,7,2,0,1,0,0,0,0,0
+,"DAVIES, Reg ",Wing Half,24,1,0,1,0,0,0,0,0
+,"FORWARD, Fred ",Winger,42,5,0,1,0,0,0,0,0
+,"FOXALL, Harry ",Centre Half,21,1,0,1,0,0,0,0,0
+,"HAINES, Billy ",Centre Forward,26,11,0,1,0,0,0,0,0
+,"HASLAM, George 'Tiny' ",Centre Half,4,0,0,0,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"JARVIE, John ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"LUKE, Charlie ",Winger,0,0,0,0,0,0,0,0,0
+,"MACKIE, Jerry ",Inside Forward,19,5,0,0,0,0,0,0,0
+,"MCCOLGAN, John ",Full Back,42,0,0,1,0,0,0,0,0
+,"MCILWANE, Johnny ",Central Defender,15,0,0,0,0,0,0,0,0
+,"MCPHAIL, Dan ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"MCWHIRR, James ",Winger,0,0,0,0,0,0,0,0,0
+,"MOFFAT, Billy ",Wing Half,41,0,0,1,0,0,0,0,0
+,"NICHOL, Jimmy ",Wing Half,21,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Sep ",Winger,1,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Inside Forward,18,11,0,0,0,0,0,0,0
+,"WALTERS, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WATSON, David ",Inside Forward,35,10,0,1,0,0,0,0,0
+,"WATTS, Farewell ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WEDDLE, Jack ",Centre Forward,14,9,0,0,0,0,0,0,0

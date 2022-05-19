@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1927/28
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-CAMPBELL, Austen	Wing Half	
-										
-COPE, Harold	Goalkeeper	
-										
-CRAWFORD, Jock	Goalkeeper	
-										
-GRASS, George	Inside Forward	
-										
-HARPER, Ted	Centre Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HOLLAND, Peter	Inside Forward	
-										
-HUTTON, Jock	Full Back	
-										
-JENNINGS, Wally	Wing Half	
-										
-JONES, Herbert	Full Back	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCLEAN, Tommy	Inside Forward	
-										
-MITCHELL, Tommy	Winger	
-										
-O'DOWD, Peter	Central Defender	
-										
-PUDDEFOOT, Syd	Inside Forward	
-										
-RANKIN, Willie	Central Defender	
-										
-RIGBY, Arthur	Winger	
-										
-ROSCAMP, Jack	Wing Half	
-										
-ROXBURGH, Robert	Full Back	
-										
-SHAW, Gilbert	Winger	
-										
-SUTTIE, David	Wing Half	
-										
-THORNEWELL, George	Winger	
-										
-WALTER, Joe	Winger	
-										
-WHYTE, John	Wing Half	
-										
-WILSON, Tom	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"CAMPBELL, Austen ",Wing Half,32,2,2,7,0,0,0,0,0
+,"COPE, Harold ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"CRAWFORD, Jock ",Goalkeeper,40,0,0,7,0,0,0,0,0
+,"GRASS, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARPER, Ted ",Centre Forward,12,7,0,0,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,38,2,0,7,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,24,2,0,2,0,0,0,0,0
+,"HUTTON, Jock ",Full Back,37,0,0,7,0,0,0,0,0
+,"JENNINGS, Wally ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JONES, Herbert ",Full Back,35,0,0,4,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MCLEAN, Tommy ",Inside Forward,33,4,0,5,1,0,0,0,0
+,"MITCHELL, Tommy ",Winger,28,15,0,4,4,0,0,0,0
+,"O'DOWD, Peter ",Central Defender,8,0,0,0,0,0,0,0,0
+,"PUDDEFOOT, Syd ",Inside Forward,35,13,0,7,4,0,0,0,0
+,"RANKIN, Willie ",Central Defender,31,0,0,7,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,37,7,0,7,1,0,0,0,0
+,"ROSCAMP, Jack ",Wing Half,20,11,0,6,6,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,12,0,0,3,0,0,0,0,0
+,"SHAW, Gilbert ",Winger,1,0,0,0,0,0,0,0,0
+,"SUTTIE, David ",Wing Half,0,0,0,0,0,0,0,0,0
+,"THORNEWELL, George ",Winger,14,1,0,4,1,0,0,0,0
+,"WALTER, Joe ",Winger,3,0,0,0,0,0,0,0,0
+,"WHYTE, John ",Wing Half,18,2,0,0,0,0,0,0,0
+,"WILSON, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
