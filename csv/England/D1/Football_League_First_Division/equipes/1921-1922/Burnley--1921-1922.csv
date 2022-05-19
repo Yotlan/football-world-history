@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Joe	Centre Forward	
-										
-ASTIN, James	Full Back	
-										
-BASNETT, Alf	Wing Half	
-										
-BOYLE, Tommy	Centre Half	
-										
-CAMERON, Hugh	Inside Forward	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DOBINSON, Harry	Centre Forward	
-										
-DOUGLAS, George	Winger	
-										
-EMERSON, William	Wing Half	
-										
-FISHER, Jackie	Winger	
-										
-HALLEY, George	Wing Half	
-										
-JONES, Cliff	Full Back	
-										
-KELLY, Bob	Inside Forward	
-										
-KENNEDY, Sam	Centre Forward	
-										
-LANE, Jack	Inside Forward	
-										
-LINDSAY, James	Inside Forward	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MORGAN, Billy	Wing Half	
-										
-MOSSCROP, Eddie	Winger	
-										
-NESBITT, Billy	Winger	
-										
-RICHARDSON, George	Wing Half	
-										
-SMELT, Len	Full Back	
-										
-TAYLOR, David	Full Back	
-										
-THORPE, Albert	Wing Half	
-										
-WATSON, Billy	Wing Half	
-										
-WEAVER, Walter	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Joe ",Centre Forward,36,21,0,1,1,0,0,0,0
+,"ASTIN, James ",Full Back,13,0,0,0,0,0,0,0,0
+,"BASNETT, Alf ",Wing Half,21,1,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Centre Half,26,3,2,2,1,0,0,0,0
+,"CAMERON, Hugh ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,25,9,0,1,0,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"DOBINSON, Harry ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"DOUGLAS, George ",Winger,3,0,0,0,0,0,0,0,0
+,"EMERSON, William ",Wing Half,9,0,0,0,0,0,0,0,0
+,"FISHER, Jackie ",Winger,10,2,0,0,0,0,0,0,0
+,"HALLEY, George ",Wing Half,34,1,1,2,0,0,0,0,0
+,"JONES, Cliff ",Full Back,14,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,40,18,0,2,1,0,0,0,0
+,"KENNEDY, Sam ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LANE, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"LINDSAY, James ",Inside Forward,13,2,0,2,0,0,0,0,0
+,"MOORWOOD, Len ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"MORGAN, Billy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"MOSSCROP, Eddie ",Winger,35,7,0,2,1,0,0,0,0
+,"NESBITT, Billy ",Winger,29,0,0,2,0,0,0,0,0
+,"RICHARDSON, George ",Wing Half,8,5,0,0,0,0,0,0,0
+,"SMELT, Len ",Full Back,41,0,0,2,0,0,0,0,0
+,"TAYLOR, David ",Full Back,15,0,0,2,0,0,0,0,0
+,"THORPE, Albert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,31,2,1,2,0,0,0,0,0
+,"WEAVER, Walter ",Winger,7,1,0,0,0,0,0,0,0

@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Tommy	Centre Half	
-										
-BARNES, Harold	Inside Forward	
-										
-BARSON, Frank	Centre Half	
-										
-BLACKBURN, George	Wing Half	
-										
-BLACKBURN, Ernie	Full Back	
-										
-BLAKEMORE, Cecil	Inside Forward	
-										
-BOYMAN, William	Centre Forward	
-										
-CAPEWELL, Len	Centre Forward	
-										
-DAVIS, Arthur	Inside Forward	
-										
-DICKSON, Ian	Centre Forward	
-										
-DORRELL, Arthur	Winger	
-										
-HARKUS, George	Central Defender	
-										
-HUMPHREYS, Joe	Centre Half	
-										
-HUMPHRIES, Howard	Inside Forward	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JOHNSTONE, Jock	Wing Half	
-										
-JONES, Percy	Full Back	
-										
-KIRTON, Billy	Inside Forward	
-										
-LEACH, Jimmy	Wing Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-PRICE, Lew	Winger	
-										
-ROBERTS, Les	Inside Forward	
-										
-ROBINSON, Dave	Full Back	
-										
-SMART, Tommy	Full Back	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-STEPHENSON, George	Inside Forward	
-										
-STOTT, Harry	Winger	
-										
-TAYLOR, Martin	Centre Forward	
-										
-WALKER, Billy	Inside Forward	
-										
-WATSON, Frank	Inside Forward	
-										
-WESTON, Tommy	Full Back	
-										
-YORK, Dicky	Winger	
-										
-YOUNG, Andrew	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Tommy ",Centre Half,11,0,0,2,0,0,0,0,0
+,"BARNES, Harold ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BARSON, Frank ",Centre Half,37,4,0,5,0,0,0,0,0
+,"BLACKBURN, George ",Wing Half,34,0,0,5,0,0,0,0,0
+,"BLACKBURN, Ernie ",Full Back,20,0,0,0,0,0,0,0,0
+,"BLAKEMORE, Cecil ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BOYMAN, William ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"DAVIS, Arthur ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DICKSON, Ian ",Centre Forward,36,20,0,6,8,0,0,0,0
+,"DORRELL, Arthur ",Winger,42,6,0,6,0,0,0,0,0
+,"HARKUS, George ",Central Defender,1,0,0,0,0,0,0,0,0
+,"HUMPHREYS, Joe ",Centre Half,0,0,0,0,0,0,0,0,0
+,"HUMPHRIES, Howard ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,39,0,0,6,0,0,0,0,0
+,"JOHNSTONE, Jock ",Wing Half,6,0,0,0,0,0,0,0,0
+,"JONES, Percy ",Full Back,7,0,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,35,11,0,6,2,0,0,0,0
+,"LEACH, Jimmy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MORT, Tommy ",Full Back,4,0,0,0,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,35,3,0,6,0,0,0,0,0
+,"PRICE, Lew ",Winger,2,0,0,0,0,0,0,0,0
+,"ROBERTS, Les ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Dave ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,39,0,0,6,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"STOTT, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Martin ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,36,21,7,6,6,0,0,0,0
+,"WATSON, Frank ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WESTON, Tommy ",Full Back,11,0,0,6,0,0,0,0,0
+,"YORK, Dicky ",Winger,41,2,0,6,0,0,0,0,0
+,"YOUNG, Andrew ",Centre Forward,7,4,0,0,0,0,0,0,0

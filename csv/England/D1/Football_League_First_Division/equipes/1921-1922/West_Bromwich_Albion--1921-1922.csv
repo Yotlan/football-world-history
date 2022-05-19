@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Billy	Full Back	
-										
-ASHMORE, George	Goalkeeper	
-										
-BEDFORD, Lew	Winger	
-										
-BENTLEY, Alf	Centre Forward	
-										
-BLAGDEN, Jonathan	Inside Forward	
-										
-BLOOD, Bobby	Centre Forward	
-										
-BOWSER, Sid	Centre Half	
-										
-BRUTON, Les	Centre Forward	
-										
-COOK, Arthur	Full Back	
-										
-CRISP, Jack	Winger	
-										
-DAVIES, Stan	Centre Forward	
-										
-GREGORY, Howard	Winger	
-										
-HATTON, Sid	Wing Half	
-										
-JAMES, George	Centre Forward	
-										
-JAMES, Roly	Wing Half	
-										
-JEPHCOTT, Claude	Winger	
-										
-JONES, Ivor	Inside Forward	
-										
-MAGEE, Tommy	Wing Half	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MORRIS, Fred	Inside Forward	
-										
-NEWALL, Tommy	Wing Half	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-SAVAGE, George	Wing Half	
-										
-SMITH, Alfred	Centre Forward	
-										
-SMITH, Joe	Full Back	
-										
-WATSON, Ernest	Wing Half	
-										
-WILSON, Charlie	Inside Forward	
-										
-WILSON, Cyril	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Billy ",Full Back,10,0,0,0,0,0,0,0,0
+,"ASHMORE, George ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"BEDFORD, Lew ",Winger,1,0,0,0,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"BLAGDEN, Jonathan ",Inside Forward,16,2,0,4,2,0,0,0,0
+,"BLOOD, Bobby ",Centre Forward,14,4,0,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,30,0,0,1,0,0,0,0,0
+,"BRUTON, Les ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COOK, Arthur ",Full Back,3,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,19,2,0,4,1,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,25,14,0,4,3,1,0,0,0
+,"GREGORY, Howard ",Winger,28,4,0,0,0,0,0,0,0
+,"HATTON, Sid ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JAMES, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"JAMES, Roly ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,4,0,0,0,0,0,0,0,0
+,"JONES, Ivor ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,31,2,0,4,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,41,0,0,3,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,38,11,0,4,0,0,0,0,0
+,"NEWALL, Tommy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,28,0,0,4,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,29,0,0,4,0,0,0,0,0
+,"REED, Fred ",Centre Half,12,1,0,4,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,38,1,0,4,0,0,0,0,0
+,"SAVAGE, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"SMITH, Alfred ",Centre Forward,19,5,0,0,0,0,0,0,0
+,"SMITH, Joe ",Full Back,42,0,0,4,0,0,0,0,0
+,"WATSON, Ernest ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"WILSON, Cyril ",Inside Forward,0,0,0,0,0,0,0,0,0

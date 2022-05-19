@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARLOW, Cyril	Full Back	
-										
-BENNION, Ray	Wing Half	
-										
-BISSETT, George	Inside Forward	
-										
-BRETT, Frank	Full Back	
-										
-CROOKS, Billy	Inside Forward	
-										
-FORSTER, Tommy	Wing Half	
-										
-GIBSON, Richard	Winger	
-										
-GOODWIN, Billy	Centre Forward	
-										
-GRIMWOOD, Jack	Wing Half	
-										
-HARRIS, Frank	Wing Half	
-										
-HARRISON, Billy	Winger	
-										
-HASLAM, George 'Tiny'	Centre Half	
-										
-HENDERSON, Bill	Centre Forward	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-HOWARTH, John	Full Back	
-										
-LOCHHEAD, Arthur	Inside Forward	
-										
-MCBAIN, Neil	Centre Half	
-										
-MEW, Jack	Goalkeeper	
-										
-MORRIS, Harry	Centre Half	
-										
-MYERSCOUGH, Joe	Inside Forward	
-										
-PARTRIDGE, Ted	Winger	
-										
-PUGH, Jimmy	Full Back	
-										
-RADFORD, Charlie	Full Back	
-										
-ROBINSON, James	Winger	
-										
-SAPSFORD, George	Inside Forward	
-										
-SCHOFIELD, Percy	Inside Forward	
-										
-SCOTT, Jack	Wing Half	
-										
-SILCOCK, Jack	Full Back	
-										
-SPENCE, Joe	Winger	
-										
-STEWARD, Alf	Goalkeeper	
-										
-TAYLOR, Walter	Winger	
-										
-THOMAS, Harry	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARLOW, Cyril ",Full Back,3,0,0,0,0,0,0,0,0
+,"BENNION, Ray ",Wing Half,15,0,0,0,0,0,0,0,0
+,"BISSETT, George ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"BRETT, Frank ",Full Back,10,0,0,0,0,0,0,0,0
+,"CROOKS, Billy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FORSTER, Tommy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"GIBSON, Richard ",Winger,11,0,0,1,0,0,0,0,0
+,"GOODWIN, Billy ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"GRIMWOOD, Jack ",Wing Half,28,0,0,0,0,0,0,0,0
+,"HARRIS, Frank ",Wing Half,13,0,0,1,0,0,0,0,0
+,"HARRISON, Billy ",Winger,21,2,0,0,0,0,0,0,0
+,"HASLAM, George 'Tiny' ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HENDERSON, Bill ",Centre Forward,10,2,0,0,0,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,29,0,0,1,0,0,0,0,0
+,"HOWARTH, John ",Full Back,4,0,0,0,0,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,31,8,0,1,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,21,0,0,1,0,0,0,0,0
+,"MEW, Jack ",Goalkeeper,41,0,0,1,0,0,0,0,0
+,"MORRIS, Harry ",Centre Half,0,0,0,0,0,0,0,0,0
+,"MYERSCOUGH, Joe ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"PARTRIDGE, Ted ",Winger,37,4,0,1,0,0,0,0,0
+,"PUGH, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"RADFORD, Charlie ",Full Back,26,0,0,1,0,0,0,0,0
+,"ROBINSON, James ",Winger,12,1,0,0,0,0,0,0,0
+,"SAPSFORD, George ",Inside Forward,29,9,0,1,1,0,0,0,0
+,"SCHOFIELD, Percy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SCOTT, Jack ",Wing Half,23,0,0,1,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,36,0,0,0,0,0,0,0,0
+,"SPENCE, Joe ",Winger,35,15,0,1,0,0,0,0,0
+,"STEWARD, Alf ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"TAYLOR, Walter ",Winger,1,0,0,0,0,0,0,0,0
+,"THOMAS, Harry ",Winger,3,0,0,0,0,0,0,0,0

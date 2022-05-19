@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHFORD, James	Full Back	
-										
-BAKER, Howard	Goalkeeper	
-										
-BARRETT, Fred	Full Back	
-										
-BELL, John	Winger	
-										
-CAMERON, David	Wing Half	
-										
-COCK, Jack	Centre Forward	
-										
-CROAL, Jimmy	Inside Forward	
-										
-DALE, George	Inside Forward	
-										
-FERRIS, Jimmy	Inside Forward	
-										
-FINLAYSON, Bill	Inside Forward	
-										
-FORD, Harry	Winger	
-										
-HAMPTON, Colin	Goalkeeper	
-										
-HARROW, Jack	Full Back	
-										
-HAYWOOD, Billy	Winger	
-										
-HODDINOTT, Frank	Inside Forward	
-										
-LANGTON, Joseph	Wing Half	
-										
-LINFOOT, Fred	Winger	
-										
-MARSH, Wilson	Goalkeeper	
-										
-MCKENZIE, Kenneth	Centre Half	
-										
-MCNEIL, Bobby	Winger	
-										
-MEEHAN, Tommy	Wing Half	
-										
-MIDDELBOE, Nils	Wing Half	
-										
-MOLYNEUX, Jimmy	Goalkeeper	
-										
-SHARP, Kenny	Inside Forward	
-										
-SILLITO, Harry	Winger	
-										
-SMITH, George	Full Back	
-										
-SMITH, Stephen	Full Back	
-										
-WARD, Joseph	Wing Half	
-										
-WILDING, Harry	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHFORD, James ",Full Back,2,0,0,0,0,0,0,0,0
+,"BAKER, Howard ",Goalkeeper,23,1,1,1,0,0,0,0,0
+,"BARRETT, Fred ",Full Back,9,0,0,1,0,0,0,0,0
+,"BELL, John ",Winger,24,5,0,1,1,0,0,0,0
+,"CAMERON, David ",Wing Half,13,0,0,0,0,0,0,0,0
+,"COCK, Jack ",Centre Forward,31,13,0,0,0,0,0,0,0
+,"CROAL, Jimmy ",Inside Forward,21,3,0,1,0,0,0,0,0
+,"DALE, George ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"FERRIS, Jimmy ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"FINLAYSON, Bill ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"FORD, Harry ",Winger,29,3,0,1,1,0,0,0,0
+,"HAMPTON, Colin ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"HARROW, Jack ",Full Back,38,1,1,1,0,0,0,0,0
+,"HAYWOOD, Billy ",Winger,5,1,0,0,0,0,0,0,0
+,"HODDINOTT, Frank ",Inside Forward,23,3,0,1,0,0,0,0,0
+,"LANGTON, Joseph ",Wing Half,2,0,0,0,0,0,0,0,0
+,"LINFOOT, Fred ",Winger,2,0,0,0,0,0,0,0,0
+,"MARSH, Wilson ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MCKENZIE, Kenneth ",Centre Half,18,0,0,1,0,0,0,0,0
+,"MCNEIL, Bobby ",Winger,42,2,0,1,0,0,0,0,0
+,"MEEHAN, Tommy ",Wing Half,37,0,0,0,0,0,0,0,0
+,"MIDDELBOE, Nils ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MOLYNEUX, Jimmy ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"SHARP, Kenny ",Inside Forward,21,7,0,0,0,0,0,0,0
+,"SILLITO, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, George ",Full Back,35,0,0,0,0,0,0,0,0
+,"SMITH, Stephen ",Full Back,20,1,0,1,0,0,0,0,0
+,"WARD, Joseph ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WILDING, Harry ",Centre Half,29,0,0,1,0,0,0,0,0

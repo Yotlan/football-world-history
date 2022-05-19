@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALFORD, Frank	Winger	
-										
-BLAIR, John	Centre Forward	
-										
-BREWSTER, George 'Dod'	Centre Half	
-										
-BROWN, William	Wing Half	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-CHEDGZOY, Sam	Winger	
-										
-CLENNELL, Joe	Inside Forward	
-										
-CROSSLEY, Charlie	Inside Forward	
-										
-DAVIES, Stan	Centre Forward	
-										
-DOWNS, Dickie	Full Back	
-										
-FAZACKERLEY, Stan	Inside Forward	
-										
-FERN, Tommy	Goalkeeper	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-GRENYER, Alan	Wing Half	
-										
-HARRISON, George	Winger	
-										
-HART, Hunter	Wing Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-JACKSON, Billy	Centre Forward	
-										
-JONES, George	Winger	
-										
-LEARY, Rex	Centre Half	
-										
-LEDDY, Harry	Centre Half	
-										
-LIVINGSTONE, Duggie	Full Back	
-										
-LOMAX, John	Inside Forward	
-										
-MCDONALD, Jock	Full Back	
-										
-PEACOCK, Joe	Wing Half	
-										
-REID, David	Inside Forward	
-										
-SALT, Ernie	Goalkeeper	
-										
-SPENCER, Henry	Inside Forward	
-										
-WALL, Alec	Inside Forward	
-										
-WELLER, Louis	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALFORD, Frank ",Winger,2,0,0,0,0,0,0,0,0
+,"BLAIR, John ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"BREWSTER, George 'Dod' ",Centre Half,25,3,0,0,0,0,0,0,0
+,"BROWN, William ",Wing Half,16,0,0,1,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,4,3,0,0,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,35,5,0,1,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CROSSLEY, Charlie ",Inside Forward,15,3,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,10,5,0,0,0,0,0,0,0
+,"DOWNS, Dickie ",Full Back,28,0,0,0,0,0,0,0,0
+,"FAZACKERLEY, Stan ",Inside Forward,29,12,0,1,0,0,0,0,0
+,"FERN, Tommy ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,33,1,0,1,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,13,1,0,0,0,0,0,0,0
+,"HARRISON, George ",Winger,40,2,0,1,0,0,0,0,0
+,"HART, Hunter ",Wing Half,17,0,0,0,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,25,11,0,1,0,0,0,0,0
+,"JACKSON, Billy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"JONES, George ",Winger,8,0,0,0,0,0,0,0,0
+,"LEARY, Rex ",Centre Half,0,0,0,0,0,0,0,0,0
+,"LEDDY, Harry ",Centre Half,0,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Duggie ",Full Back,24,0,0,1,0,0,0,0,0
+,"LOMAX, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,26,0,0,1,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,29,1,0,1,0,0,0,0,0
+,"REID, David ",Inside Forward,16,4,0,0,0,0,0,0,0
+,"SALT, Ernie ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SPENCER, Henry ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"WALL, Alec ",Inside Forward,8,3,0,1,0,0,0,0,0
+,"WELLER, Louis ",Full Back,5,0,0,0,0,0,0,0,0

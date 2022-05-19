@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Willie	Winger	
-										
-ARCHIBALD, Jock	Goalkeeper	
-										
-BRADLEY, Bill	Goalkeeper	
-										
-COULTHARD, Tom	Full Back	
-										
-CURRY, Tom	Wing Half	
-										
-DIXON, Stan	Centre Half	
-										
-FINLAY, Jock	Wing Half	
-										
-HAGAN, Alfie	Inside Forward	
-										
-HAMPSON, Billy	Full Back	
-										
-HARRIS, Neil	Centre Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LOW, Jimmy	Winger	
-										
-LOW, Wilf	Centre Half	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCDONALD, Tommy	Inside Forward	
-										
-MCINTOSH, Robert	Wing Half	
-										
-MITCHELL, Tom	Winger	
-										
-MOONEY, Peter	Wing Half	
-										
-MORTON, William	Winger	
-										
-PARTRIDGE, Albert	Winger	
-										
-PATON, Harry	Inside Forward	
-										
-PYKE, George	Centre Forward	
-										
-REED, Ebor	Centre Half	
-										
-ROXBURGH, Robert	Full Back	
-										
-RUSSELL, Sam	Full Back	
-										
-SEYMOUR, Stan	Winger	
-										
-SMAILES, Andy	Inside Forward	
-										
-SPENCER, Charlie	Centre Half	
-										
-SWAN, Chris	Inside Forward	
-										
-TAIT, James	Inside Forward	
-										
-THAIN, John	Winger	
-										
-WAKE, Harry	Wing Half	
-										
-WOODS, Harry	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Willie ",Winger,16,0,0,0,0,0,0,0,0
+,"ARCHIBALD, Jock ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BRADLEY, Bill ",Goalkeeper,25,0,0,2,0,0,0,0,0
+,"COULTHARD, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"CURRY, Tom ",Wing Half,35,3,0,2,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,10,1,0,2,2,0,0,0,0
+,"FINLAY, Jock ",Wing Half,5,1,0,0,0,0,0,0,0
+,"HAGAN, Alfie ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,1,0,0,1,0,0,0,0,0
+,"HARRIS, Neil ",Centre Forward,34,22,0,2,1,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,41,1,1,1,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"LOW, Jimmy ",Winger,24,2,0,2,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,29,1,0,2,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,26,0,0,2,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,39,16,0,2,2,0,0,0,0
+,"MCINTOSH, Robert ",Wing Half,24,1,0,0,0,0,0,0,0
+,"MITCHELL, Tom ",Winger,22,1,0,0,0,0,0,0,0
+,"MOONEY, Peter ",Wing Half,28,2,0,2,1,0,0,0,0
+,"MORTON, William ",Winger,0,0,0,0,0,0,0,0,0
+,"PARTRIDGE, Albert ",Winger,0,0,0,0,0,0,0,0,0
+,"PATON, Harry ",Inside Forward,13,2,0,0,0,0,0,0,0
+,"PYKE, George ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"REED, Ebor ",Centre Half,0,0,0,0,0,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,9,0,0,0,0,0,0,0,0
+,"RUSSELL, Sam ",Full Back,7,0,0,0,0,0,0,0,0
+,"SEYMOUR, Stan ",Winger,18,1,0,2,1,0,0,0,0
+,"SMAILES, Andy ",Inside Forward,11,2,0,0,0,0,0,0,0
+,"SPENCER, Charlie ",Centre Half,5,0,0,0,0,0,0,0,0
+,"SWAN, Chris ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"TAIT, James ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THAIN, John ",Winger,1,0,0,0,0,0,0,0,0
+,"WAKE, Harry ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WOODS, Harry ",Inside Forward,8,1,0,0,0,0,0,0,0

@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRRELL, Billy	Inside Forward	
-										
-BOTTRILL, Allan	Winger	
-										
-CARR, George	Inside Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-DAVIDSON, Stewart	Wing Half	
-										
-DAVISON, Joe	Full Back	
-										
-DONAGHY, Peter	Centre Forward	
-										
-ELLERINGTON, Bill	Centre Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-FOX, Victor	Full Back	
-										
-HARRISON, Harry	Goalkeeper	
-										
-HILLHOUSE, John	Wing Half	
-										
-HOLMES, Walter	Full Back	
-										
-MARSHALL, Jock	Full Back	
-										
-MORDUE, Jackie	Winger	
-										
-MORDUE, Billy	Wing Half	
-										
-MURRAY, Bill	Inside Forward	
-										
-NEWTON, George	Full Back	
-										
-PENDER, Robert	Wing Half	
-										
-POULTON, Jerry	Inside Forward	
-										
-PRINGLE, Robert	Full Back	
-										
-STEVENSON, John	Inside Forward	
-										
-URWIN, Tommy	Winger	
-										
-WEBSTER, Maurice	Central Defender	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-WILSON, Andy	Inside Forward	
-										
-WILSON, Gordon	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRRELL, Billy ",Inside Forward,35,9,0,1,0,0,0,0,0
+,"BOTTRILL, Allan ",Winger,0,0,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,28,15,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,28,2,0,1,0,0,0,0,0
+,"CARR, Willie ",Centre Half,19,0,0,0,0,0,0,0,0
+,"DAVIDSON, Stewart ",Wing Half,41,2,0,1,0,0,0,0,0
+,"DAVISON, Joe ",Full Back,5,0,0,0,0,0,0,0,0
+,"DONAGHY, Peter ",Centre Forward,11,0,0,0,0,0,0,0,0
+,"ELLERINGTON, Bill ",Centre Half,33,0,0,1,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,26,13,2,1,0,0,0,0,0
+,"FOX, Victor ",Full Back,37,0,0,1,0,0,0,0,0
+,"HARRISON, Harry ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"HILLHOUSE, John ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HOLMES, Walter ",Full Back,9,0,0,0,0,0,0,0,0
+,"MARSHALL, Jock ",Full Back,33,0,0,1,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,16,0,0,0,0,0,0,0,0
+,"MORDUE, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MURRAY, Bill ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"NEWTON, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"PENDER, Robert ",Wing Half,21,1,0,1,0,0,0,0,0
+,"POULTON, Jerry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"PRINGLE, Robert ",Full Back,0,0,0,0,0,0,0,0,0
+,"STEVENSON, John ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,37,6,0,1,0,0,0,0,0
+,"WEBSTER, Maurice ",Central Defender,1,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,26,0,0,1,0,0,0,0,0
+,"WILSON, Andy ",Inside Forward,35,31,2,1,0,0,0,0,0
+,"WILSON, Gordon ",Full Back,0,0,0,0,0,0,0,0,0

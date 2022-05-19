@@ -1,79 +1,39 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Thomas	Centre Forward	
-										
-BALLANTYNE, John	Full Back	
-										
-BARRINGTON, Jimmy	Full Back	
-										
-BOND, Dickie	Winger	
-										
-BOOCOCK, Irvine	Full Back	
-										
-BRAITHWAITE, Ted	Inside Forward	
-										
-CARRUTHERS, John	Centre Forward	
-										
-CHALMERS, Andrew	Inside Forward	
-										
-CHEETHAM, Samuel	Full Back	
-										
-COOK, Charlie	Winger	
-										
-DIXON, Ernie	Centre Forward	
-										
-DUCKETT, Don	Wing Half	
-										
-EWART, Jock	Goalkeeper	
-										
-FOX, Oscar	Inside Forward	
-										
-GANE, George	Full Back	
-										
-GOLDTHORPE, Ernie	Centre Forward	
-										
-HARGREAVES, Joe	Wing Half	
-										
-HAY, John	Full Back	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HILL, Tommy	Wing Half	
-										
-HOWSON, Billy	Inside Forward	
-										
-KILBORN, Cecil	Inside Forward	
-										
-LOGAN, Peter	Winger	
-										
-MARSH, Joe	Inside Forward	
-										
-MCILVENNY, Jimmy	Inside Forward	
-										
-NEWTON, Frank	Wing Half	
-										
-POTTS, Fred	Full Back	
-										
-PRATT, David	Wing Half	
-										
-RIGBY, Arthur	Winger	
-										
-ROBB, Tommy	Wing Half	
-										
-SHAW, William	Inside Forward	
-										
-STORER, Charlie	Centre Half	
-										
-THOMAS, Alf	Winger	
-										
-WALKER, Bob	Full Back	
-										
-WATSON, Willie	Full Back	
-										
-WILKINSON, Algy	Goalkeeper	
-										
-WINN, Norman	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Thomas ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BALLANTYNE, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"BARRINGTON, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,31,7,2,5,1,1,0,0,0
+,"BOOCOCK, Irvine ",Full Back,2,0,0,0,0,0,0,0,0
+,"BRAITHWAITE, Ted ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"CARRUTHERS, John ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"CHALMERS, Andrew ",Inside Forward,15,4,0,0,0,0,0,0,0
+,"CHEETHAM, Samuel ",Full Back,9,0,0,2,0,0,0,0,0
+,"COOK, Charlie ",Winger,2,0,0,0,0,0,0,0,0
+,"DIXON, Ernie ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"DUCKETT, Don ",Wing Half,42,2,0,5,0,0,0,0,0
+,"EWART, Jock ",Goalkeeper,35,0,0,0,0,0,0,0,0
+,"FOX, Oscar ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GANE, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"GOLDTHORPE, Ernie ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HARGREAVES, Joe ",Wing Half,29,0,0,4,0,0,0,0,0
+,"HAY, John ",Full Back,3,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,24,13,2,4,2,0,0,0,0
+,"HILL, Tommy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HOWSON, Billy ",Inside Forward,21,6,0,4,4,0,0,0,0
+,"KILBORN, Cecil ",Inside Forward,14,0,0,1,0,0,0,0,0
+,"LOGAN, Peter ",Winger,30,5,0,4,1,0,0,0,0
+,"MARSH, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCILVENNY, Jimmy ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"NEWTON, Frank ",Wing Half,1,0,0,0,0,0,0,0,0
+,"POTTS, Fred ",Full Back,30,0,0,3,0,0,0,0,0
+,"PRATT, David ",Wing Half,27,1,0,5,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,18,1,1,2,0,0,0,0,0
+,"ROBB, Tommy ",Wing Half,11,1,0,1,0,0,0,0,0
+,"SHAW, William ",Inside Forward,10,4,0,1,0,0,0,0,0
+,"STORER, Charlie ",Centre Half,15,0,0,1,0,0,0,0,0
+,"THOMAS, Alf ",Winger,8,1,0,0,0,0,0,0,0
+,"WALKER, Bob ",Full Back,0,0,0,0,0,0,0,0,0
+,"WATSON, Willie ",Full Back,39,0,0,5,0,0,0,0,0
+,"WILKINSON, Algy ",Goalkeeper,7,0,0,5,0,0,0,0,0
+,"WINN, Norman ",Winger,22,2,0,3,0,0,0,0,0

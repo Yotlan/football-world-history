@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BROUGH, Harry	Wing Half	
-										
-BROWN, George	Centre Forward	
-										
-BYERS, Jack	Winger	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-DAVIS, Ted	Goalkeeper	
-										
-ISLIP, Ernie	Inside Forward	
-										
-JOHNSTON, Billy	Inside Forward	
-										
-JONES, Robert	Winger	
-										
-MANN, Frank	Inside Forward	
-										
-MARLOW, Len	Inside Forward	
-										
-MCKAY, Colin	Wing Half	
-										
-MUTCH, Alex	Goalkeeper	
-										
-PEARSON, Stanley	Winger	
-										
-RICHARDSON, George	Winger	
-										
-SLADE, Charlie	Wing Half	
-										
-SMITH, Billy	Inside Forward	
-										
-SMITH, Billy	Winger	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-SWAN, Jack	Inside Forward	
-										
-WADSWORTH, Sam	Full Back	
-										
-WATSON, Billy	Wing Half	
-										
-WILSON, Tommy	Central Defender	
-										
-WOOD, James	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,4,0,0,0,0,0,0,0,0
+,"BROUGH, Harry ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BROWN, George ",Centre Forward,6,4,0,0,0,0,0,0,0
+,"BYERS, Jack ",Winger,5,1,0,0,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,5,0,0,0,0,0,0,0,0
+,"DAVIS, Ted ",Goalkeeper,27,0,0,7,0,0,0,0,0
+,"ISLIP, Ernie ",Inside Forward,34,11,0,9,4,0,1,0,0
+,"JOHNSTON, Billy ",Inside Forward,21,2,0,1,0,0,0,0,0
+,"JONES, Robert ",Winger,2,1,0,0,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,40,5,0,8,4,0,1,0,0
+,"MARLOW, Len ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCKAY, Colin ",Wing Half,14,2,0,0,0,0,0,0,0
+,"MUTCH, Alex ",Goalkeeper,15,0,0,2,0,0,1,0,0
+,"PEARSON, Stanley ",Winger,1,0,0,1,0,0,0,0,0
+,"RICHARDSON, George ",Winger,14,1,0,8,1,0,1,0,0
+,"SLADE, Charlie ",Wing Half,25,0,0,9,0,0,1,0,0
+,"SMITH, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,40,8,0,9,4,1,1,0,0
+,"STEPHENSON, Clem ",Inside Forward,39,9,3,9,6,0,1,0,0
+,"SWAN, Jack ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,39,1,1,9,0,0,1,0,0
+,"WATSON, Billy ",Wing Half,36,0,0,9,1,0,1,0,0
+,"WILSON, Tommy ",Central Defender,39,1,0,9,0,0,1,1,0
+,"WOOD, James ",Full Back,36,0,0,9,0,0,1,0,0

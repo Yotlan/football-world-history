@@ -1,75 +1,37 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Frank	Wing Half	
-										
-BARNETT, Albert	Wing Half	
-										
-BLAIR, Jimmy	Full Back	
-										
-BRAIN, Jimmy	Centre Forward	
-										
-BRITTAN, Charlie	Full Back	
-										
-BROWN, Tommy	Winger	
-										
-CASHMORE, Arthur	Centre Forward	
-										
-CLARK, Joe	Winger	
-										
-CLENNELL, Joe	Inside Forward	
-										
-DAVIES, Ben	Goalkeeper	
-										
-DAVIES, Len	Inside Forward	
-										
-EVANS, Herbie	Wing Half	
-										
-EVANS, Jack	Winger	
-										
-EVANS, Sid	Winger	
-										
-FARQUHARSON, Tom	Goalkeeper	
-										
-GILL, Jimmy	Inside Forward	
-										
-GRIMSHAW, Billy	Winger	
-										
-HARDY, Billy	Wing Half	
-										
-JENKINS, Eddie	Wing Half	
-										
-KEENOR, Fred	Central Defender	
-										
-KNEESHAW, Jack	Goalkeeper	
-										
-LATHAM, George	Wing Half	
-										
-MCDONALD, Ken	Centre Forward	
-										
-MELVILLE, James	Full Back	
-										
-MOODY, William	Inside Forward	
-										
-NASH, Harry	Wing Half	
-										
-NELSON, Jimmy	Full Back	
-										
-NEWTON, Billy	Wing Half	
-										
-NOCK, Jack	Inside Forward	
-										
-PAGE, Jack	Full Back	
-										
-PAGE, Willie	Inside Forward	
-										
-PAGNAM, Fred	Centre Forward	
-										
-RUTHERFORD, Jack	Centre Half	
-										
-SMITH, Bert	Centre Half	
-										
-WEST, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Frank ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BARNETT, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BLAIR, Jimmy ",Full Back,32,0,0,6,0,0,0,0,0
+,"BRAIN, Jimmy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BRITTAN, Charlie ",Full Back,27,0,0,0,0,0,0,0,0
+,"BROWN, Tommy ",Winger,2,0,0,0,0,0,0,0,0
+,"CASHMORE, Arthur ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"CLARK, Joe ",Winger,1,0,0,1,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,32,11,0,6,3,0,0,0,0
+,"DAVIES, Ben ",Goalkeeper,34,0,0,6,0,0,0,0,0
+,"DAVIES, Len ",Inside Forward,25,16,0,6,5,0,0,0,0
+,"EVANS, Herbie ",Wing Half,29,0,0,6,0,0,0,0,0
+,"EVANS, Jack ",Winger,36,1,0,4,0,0,0,0,0
+,"EVANS, Sid ",Winger,4,0,0,0,0,0,0,0,0
+,"FARQUHARSON, Tom ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"GILL, Jimmy ",Inside Forward,34,19,0,5,4,0,0,0,0
+,"GRIMSHAW, Billy ",Winger,38,7,0,6,0,0,0,0,0
+,"HARDY, Billy ",Wing Half,32,1,0,6,0,0,0,0,0
+,"JENKINS, Eddie ",Wing Half,9,0,0,0,0,0,0,0,0
+,"KEENOR, Fred ",Central Defender,27,1,0,1,0,0,0,0,0
+,"KNEESHAW, Jack ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"LATHAM, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCDONALD, Ken ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"MELVILLE, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"MOODY, William ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"NASH, Harry ",Wing Half,8,1,0,2,1,0,0,0,0
+,"NELSON, Jimmy ",Full Back,2,0,0,0,0,0,0,0,0
+,"NEWTON, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"NOCK, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"PAGE, Jack ",Full Back,21,0,0,6,0,0,0,0,0
+,"PAGE, Willie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PAGNAM, Fred ",Centre Forward,13,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Jack ",Centre Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Bert ",Centre Half,29,1,0,5,0,0,0,0,0
+,"WEST, George ",Inside Forward,4,1,0,0,0,0,0,0,0

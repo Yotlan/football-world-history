@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAMBER, Jack	Wing Half	
-										
-BEADLES, Harry	Inside Forward	
-										
-BROMILOW, Tom	Wing Half	
-										
-CHAMBERS, Harry	Inside Forward	
-										
-CHECKLAND, Frank	Wing Half	
-										
-CUNNINGHAM, Willie	Wing Half	
-										
-FORSHAW, Dick	Inside Forward	
-										
-GILHESPY, Cyril	Winger	
-										
-HOPKIN, Fred	Winger	
-										
-JEFFES, Bert	Wing Half	
-										
-LACEY, Billy	Winger	
-										
-LEWIS, Harry	Inside Forward	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LUCAS, Tommy	Full Back	
-										
-MATTHEWS, Billy	Central Defender	
-										
-MCKINLAY, Donald	Full Back	
-										
-MCNAB, Jock	Wing Half	
-										
-MITCHELL, Frank	Goalkeeper	
-										
-OWEN, Griffith	Centre Forward	
-										
-PARRY, Ted	Full Back	
-										
-PEARSON, Charlie	Goalkeeper	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SHONE, Danny	Inside Forward	
-										
-THOMPSON, Arthur	Winger	
-										
-WADSWORTH, Harold	Winger	
-										
-WADSWORTH, Walter	Centre Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAMBER, Jack ",Wing Half,8,0,0,0,0,0,0,0,0
+,"BEADLES, Harry ",Inside Forward,11,6,0,0,0,0,1,0,0
+,"BROMILOW, Tom ",Wing Half,40,2,0,3,0,0,1,0,0
+,"CHAMBERS, Harry ",Inside Forward,32,19,0,3,2,0,1,0,0
+,"CHECKLAND, Frank ",Wing Half,5,0,0,0,0,0,0,0,0
+,"CUNNINGHAM, Willie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,42,17,0,3,3,0,1,0,0
+,"GILHESPY, Cyril ",Winger,2,1,0,0,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,42,0,0,3,0,0,1,0,0
+,"JEFFES, Bert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,39,1,0,3,0,0,1,0,0
+,"LEWIS, Harry ",Inside Forward,19,1,0,3,0,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,26,0,0,0,0,0,1,0,0
+,"LUCAS, Tommy ",Full Back,27,2,2,3,0,0,0,0,0
+,"MATTHEWS, Billy ",Central Defender,7,4,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,29,1,0,3,0,0,1,0,0
+,"MCNAB, Jock ",Wing Half,29,2,0,3,0,0,1,0,0
+,"MITCHELL, Frank ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"OWEN, Griffith ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PARRY, Ted ",Full Back,7,0,0,0,0,0,0,0,0
+,"PEARSON, Charlie ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,39,0,0,3,0,0,1,0,0
+,"SHONE, Danny ",Inside Forward,15,6,0,0,0,0,0,0,0
+,"THOMPSON, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"WADSWORTH, Harold ",Winger,1,0,0,0,0,0,0,0,0
+,"WADSWORTH, Walter ",Centre Half,38,0,0,3,1,0,1,0,0

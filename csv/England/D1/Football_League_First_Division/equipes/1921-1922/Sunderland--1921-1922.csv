@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEST, Bobby	Winger	
-										
-BEW, Danny	Centre Half	
-										
-BLACK, John	Wing Half	
-										
-BROWN, Harry	Centre Forward	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-CLACK, Ted	Winger	
-										
-CRESSWELL, Warney	Full Back	
-										
-CRINGAN, Jimmy	Central Defender	
-										
-DEMPSTER, James	Goalkeeper	
-										
-DONALDSON, Alex	Winger	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-FERGUSON, Robert	Centre Half	
-										
-GIBSON, Jock	Full Back	
-										
-GILHOOLEY, Mike	Centre Half	
-										
-HARPER, Bill	Goalkeeper	
-										
-HAWES, Arthur	Inside Forward	
-										
-HOBSON, Bert	Full Back	
-										
-HUNTER, George	Wing Half	
-										
-JOHNSTON, John	Full Back	
-										
-KASHER, Joe	Centre Half	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MARTIN, Harry	Winger	
-										
-MITTON, Jack	Wing Half	
-										
-MOORE, Billy	Inside Forward	
-										
-PARKER, Charlie	Centre Half	
-										
-PATERSON, Jock	Centre Forward	
-										
-POOLE, Jack	Wing Half	
-										
-SCOTT, Leslie	Goalkeeper	
-										
-STALEY, Victor	Centre Forward	
-										
-STANNARD, Paul	Centre Forward	
-										
-STEPHENSON, Jimmy	Winger	
-										
-YORK, Andy	Full Back	
-										
-YOUNG, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEST, Bobby ",Winger,12,0,0,1,0,0,0,0,0
+,"BEW, Danny ",Centre Half,0,0,0,0,0,0,0,0,0
+,"BLACK, John ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BROWN, Harry ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,40,21,0,2,0,0,0,0,0
+,"CLACK, Ted ",Winger,8,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,12,0,0,0,0,0,0,0,0
+,"CRINGAN, Jimmy ",Central Defender,0,0,0,0,0,0,0,0,0
+,"DEMPSTER, James ",Goalkeeper,10,0,0,2,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,8,0,0,0,0,0,0,0,0
+,"ELLIS, Billy ",Winger,13,3,2,2,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,38,0,0,2,0,0,0,0,0
+,"FERGUSON, Robert ",Centre Half,0,0,0,1,0,0,0,0,0
+,"GIBSON, Jock ",Full Back,3,0,0,1,0,0,0,0,0
+,"GILHOOLEY, Mike ",Centre Half,4,0,0,0,0,0,0,0,0
+,"HARPER, Bill ",Goalkeeper,18,0,0,0,0,0,0,0,0
+,"HAWES, Arthur ",Inside Forward,21,5,0,2,0,0,0,0,0
+,"HOBSON, Bert ",Full Back,22,0,0,1,0,0,0,0,0
+,"HUNTER, George ",Wing Half,2,0,0,2,0,0,0,0,0
+,"JOHNSTON, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"KASHER, Joe ",Centre Half,31,0,0,1,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,18,6,0,0,0,0,0,0,0
+,"MARTIN, Harry ",Winger,29,4,1,0,0,0,0,0,0
+,"MITTON, Jack ",Wing Half,25,7,0,1,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"PARKER, Charlie ",Centre Half,39,4,0,0,0,0,0,0,0
+,"PATERSON, Jock ",Centre Forward,12,5,0,0,0,0,0,0,0
+,"POOLE, Jack ",Wing Half,32,0,0,2,0,0,0,0,0
+,"SCOTT, Leslie ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"STALEY, Victor ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"STANNARD, Paul ",Centre Forward,10,2,0,1,1,0,0,0,0
+,"STEPHENSON, Jimmy ",Winger,21,2,0,1,0,0,0,0,0
+,"YORK, Andy ",Full Back,1,0,0,0,0,0,0,0,0
+,"YOUNG, Bob ",Full Back,8,0,0,0,0,0,0,0,0

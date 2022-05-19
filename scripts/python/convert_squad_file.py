@@ -6,9 +6,9 @@ import pandas as pd
 import re
 
 #Select directories
-dirs = glob.glob('../../csv/**/**/Football_League_First_Division/equipes/1920-1921')
+dirs = glob.glob('../../csv/**/**/Football_League_First_Division/equipes/1921-1922')
 #Select files
-files = glob.glob('../../csv/**/**/Football_League_First_Division/equipes/1920-1921/*.csv')
+files = glob.glob('../../csv/**/**/Football_League_First_Division/equipes/1921-1922/*.csv')
 
 def produce():
     print('Start...')

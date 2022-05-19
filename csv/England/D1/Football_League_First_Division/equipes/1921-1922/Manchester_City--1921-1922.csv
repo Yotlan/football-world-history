@@ -1,81 +1,40 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALBINSON, George	Wing Half	
-										
-ALLEN, Jack	Full Back	
-										
-BAKER, Arthur 'Billy'	Winger	
-										
-BARNES, Horace	Inside Forward	
-										
-BLAIR, Thomas	Goalkeeper	
-										
-BRADLEY, Jimmy	Wing Half	
-										
-BRENNAN, Jack	Wing Half	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CARROLL, Frank	Inside Forward	
-										
-COOKSON, Sam	Full Back	
-										
-CRAWSHAW, Dick	Inside Forward	
-										
-ETHERINGTON, Robert	Winger	
-										
-FAYERS, Fred	Centre Half	
-										
-FLETCHER, Eli	Full Back	
-										
-FORD, Alf	Winger	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HAMILL, Mickey	Wing Half	
-										
-INGHAM, Thomas	Centre Forward	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-KELLY, Paddy	Winger	
-										
-LEYLAND, John	Centre Half	
-										
-LIEVESLEY, Fred	Inside Forward	
-										
-MCCRAE, David	Centre Forward	
-										
-MCKECHNIE, James	Winger	
-										
-MEE, Peter	Inside Forward	
-										
-MEREDITH, Billy	Winger	
-										
-MULLIGAN, Jimmy	Full Back	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-PEARSON, Harry	Inside Forward	
-										
-ROYLE, Stanley	Winger	
-										
-SHARP, Sammy	Wing Half	
-										
-SIMPSON, Albert	Inside Forward	
-										
-THOMPSON, Frank	Full Back	
-										
-WARBURTON, Richard	Winger	
-										
-WARNER, Jack	Inside Forward	
-										
-WILSON, Billy	Full Back	
-										
-WOODCOCK, Wilf	Inside Forward	
-										
-WOOSNAM, Max	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALBINSON, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"ALLEN, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"BAKER, Arthur 'Billy' ",Winger,0,0,0,0,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,37,20,1,3,0,0,0,0,0
+,"BLAIR, Thomas ",Goalkeeper,38,0,0,3,0,0,0,0,0
+,"BRADLEY, Jimmy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BRENNAN, Jack ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,38,21,1,3,5,0,0,0,0
+,"CARROLL, Frank ",Inside Forward,4,0,0,1,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,39,0,0,2,0,0,0,0,0
+,"CRAWSHAW, Dick ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"ETHERINGTON, Robert ",Winger,2,0,0,0,0,0,0,0,0
+,"FAYERS, Fred ",Centre Half,32,0,0,3,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,38,0,0,3,0,0,0,0,0
+,"FORD, Alf ",Winger,4,0,0,0,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"HAMILL, Mickey ",Wing Half,24,0,0,2,0,0,0,0,0
+,"INGHAM, Thomas ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,20,5,0,3,0,0,0,0,0
+,"KELLY, Paddy ",Winger,11,1,0,3,2,0,0,0,0
+,"LEYLAND, John ",Centre Half,2,0,0,0,0,0,0,0,0
+,"LIEVESLEY, Fred ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCCRAE, David ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MCKECHNIE, James ",Winger,0,0,0,0,0,0,0,0,0
+,"MEE, Peter ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,25,1,0,0,0,0,0,0,0
+,"MULLIGAN, Jimmy ",Full Back,2,0,0,0,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,42,9,0,3,0,0,0,0,0
+,"PEARSON, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"ROYLE, Stanley ",Winger,1,0,0,0,0,0,0,0,0
+,"SHARP, Sammy ",Wing Half,25,0,0,0,0,0,0,0,0
+,"SIMPSON, Albert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"THOMPSON, Frank ",Full Back,3,0,0,1,0,0,0,0,0
+,"WARBURTON, Richard ",Winger,0,0,0,0,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,22,3,0,0,0,0,0,0,0
+,"WILSON, Billy ",Full Back,1,0,0,0,0,0,0,0,0
+,"WOODCOCK, Wilf ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WOOSNAM, Max ",Centre Half,33,3,0,3,0,0,0,0,0

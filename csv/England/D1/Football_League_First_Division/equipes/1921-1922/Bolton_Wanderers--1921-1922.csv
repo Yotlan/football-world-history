@@ -1,77 +1,38 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BROOME, Tommy	Wing Half	
-										
-BUCHAN, Tom	Wing Half	
-										
-BUTLER, Billy	Winger	
-										
-CARTMAN, Bert	Winger	
-										
-CHAMBERS, Frank	Full Back	
-										
-COWPER, Peter	Winger	
-										
-DONALDSON, Alex	Winger	
-										
-ELVEY, John	Full Back	
-										
-HAWORTH, Bob	Full Back	
-										
-HERBERT, Billy	Inside Forward	
-										
-HINTON, Freddy	Goalkeeper	
-										
-HODSON, James	Full Back	
-										
-HORROCKS, Harry	Inside Forward	
-										
-JACK, David	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Jimmy	Full Back	
-										
-KEETLEY, Joe	Inside Forward	
-										
-LONG, John	Winger	
-										
-LONGWORTH, Bruce	Wing Half	
-										
-LOWE, Jack	Winger	
-										
-MELLOR, Frank	Winger	
-										
-NORTON, Billy	Full Back	
-										
-NUTTALL, Harry	Wing Half	
-										
-PYM, Dick	Goalkeeper	
-										
-ROBERTS, Edgar	Winger	
-										
-ROBERTS, Frank	Centre Forward	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SIMPSON, Herbie	Winger	
-										
-SMITH, Charles	Wing Half	
-										
-SMITH, Joe	Inside Forward	
-										
-VIZARD, Ted	Winger	
-										
-WALSH, Tommy 'Tot'	Centre Forward	
-										
-WATSON, Andrew	Full Back	
-										
-WRIGHT, Steve	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAVERSTOCK, Bert ",Full Back,1,0,0,0,0,0,0,0,0
+,"BROOME, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"BUCHAN, Tom ",Wing Half,22,2,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,13,1,0,0,0,0,0,0,0
+,"CARTMAN, Bert ",Winger,13,0,0,0,0,0,0,0,0
+,"CHAMBERS, Frank ",Full Back,5,0,0,0,0,0,0,0,0
+,"COWPER, Peter ",Winger,0,0,0,0,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,8,0,0,2,0,0,0,0,0
+,"ELVEY, John ",Full Back,8,0,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,29,0,0,2,0,0,0,0,0
+,"HERBERT, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HINTON, Freddy ",Goalkeeper,19,0,0,2,0,0,0,0,0
+,"HODSON, James ",Full Back,5,0,0,0,0,0,0,0,0
+,"HORROCKS, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JACK, David ",Inside Forward,39,24,0,2,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,20,0,0,2,0,0,0,0,0
+,"JONES, Jimmy ",Full Back,29,0,0,2,0,0,0,0,0
+,"KEETLEY, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LONG, John ",Winger,1,0,0,0,0,0,0,0,0
+,"LONGWORTH, Bruce ",Wing Half,38,0,0,2,0,0,0,0,0
+,"LOWE, Jack ",Winger,4,0,0,0,0,0,0,0,0
+,"MELLOR, Frank ",Winger,1,0,0,0,0,0,0,0,0
+,"NORTON, Billy ",Full Back,0,0,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,10,0,0,0,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,23,0,0,0,0,0,0,0,0
+,"ROBERTS, Edgar ",Winger,4,0,0,0,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,39,18,0,2,1,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,13,1,0,1,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,27,0,0,1,0,0,0,0,0
+,"SIMPSON, Herbie ",Winger,2,0,0,0,0,0,0,0,0
+,"SMITH, Charles ",Wing Half,3,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,39,18,7,2,0,0,0,0,0
+,"VIZARD, Ted ",Winger,35,3,0,2,1,0,0,0,0
+,"WALSH, Tommy 'Tot' ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"WATSON, Andrew ",Full Back,5,0,0,0,0,0,0,0,0
+,"WRIGHT, Steve ",Wing Half,4,0,0,0,0,0,0,0,0

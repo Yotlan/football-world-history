@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Fergie	Winger	
-										
-CAMPBELL, Joe	Winger	
-										
-CRAWLEY, Frank	Full Back	
-										
-DAWSON, Percy	Centre Forward	
-										
-FORREST, James	Full Back	
-										
-GILL, Francis	Goalkeeper	
-										
-HAWKSWORTH, Ernest	Inside Forward	
-										
-HAWORTH, Ronald	Inside Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HEATON, Tommy	Wing Half	
-										
-HODKINSON, Joe	Winger	
-										
-HOLLAND, Peter	Inside Forward	
-										
-LONGMUIR, Archie	Winger	
-										
-MCCALL, Willie	Winger	
-										
-MCDONALD, John	Inside Forward	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCKAY, Jock	Inside Forward	
-										
-MCKINNELL, Jimmy	Wing Half	
-										
-POOL, Alexander	Centre Half	
-										
-RALPHS, Bert	Winger	
-										
-REILLY, Frank	Centre Half	
-										
-RODGERS, Norman	Inside Forward	
-										
-ROLLO, Dave	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SIMPSON, William	Wing Half	
-										
-THORPE, Levy	Wing Half	
-										
-WALMSLEY, Richard	Full Back	
-										
-WRIGLEY, Bernard	Goalkeeper	
-										
-WYLIE, Tom	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Fergie ",Winger,8,1,0,0,0,0,0,0,0
+,"CAMPBELL, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"CRAWLEY, Frank ",Full Back,15,1,0,0,0,0,0,0,0
+,"DAWSON, Percy ",Centre Forward,27,12,0,5,0,0,0,0,0
+,"FORREST, James ",Full Back,4,0,0,2,0,0,0,0,0
+,"GILL, Francis ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HAWKSWORTH, Ernest ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"HAWORTH, Ronald ",Inside Forward,5,3,0,0,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,20,0,0,2,0,0,0,0,0
+,"HEATON, Tommy ",Wing Half,23,1,0,0,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,36,4,0,5,1,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,17,6,0,0,0,0,0,0,0
+,"LONGMUIR, Archie ",Winger,17,0,0,4,0,0,0,0,0
+,"MCCALL, Willie ",Winger,4,0,0,0,0,0,0,0,0
+,"MCDONALD, John ",Inside Forward,16,3,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,16,2,0,3,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,12,5,0,0,0,0,0,0,0
+,"MCKINNELL, Jimmy ",Wing Half,7,0,0,2,0,0,0,0,0
+,"POOL, Alexander ",Centre Half,7,0,0,2,0,0,0,0,0
+,"RALPHS, Bert ",Winger,24,4,0,1,0,0,0,0,0
+,"REILLY, Frank ",Centre Half,34,4,0,4,0,0,0,0,0
+,"RODGERS, Norman ",Inside Forward,22,6,0,5,3,0,0,0,0
+,"ROLLO, Dave ",Full Back,25,0,0,5,1,1,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,41,0,0,5,0,0,0,0,0
+,"SIMPSON, William ",Wing Half,4,0,0,0,0,0,0,0,0
+,"THORPE, Levy ",Wing Half,29,0,0,5,0,0,0,0,0
+,"WALMSLEY, Richard ",Full Back,3,0,0,0,0,0,0,0,0
+,"WRIGLEY, Bernard ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"WYLIE, Tom ",Full Back,40,0,0,5,0,0,0,0,0

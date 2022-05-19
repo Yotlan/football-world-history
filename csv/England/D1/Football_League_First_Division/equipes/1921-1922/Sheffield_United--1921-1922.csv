@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKWELL, Ernest	Goalkeeper	
-										
-BOLAM, Bob	Winger	
-										
-BOYLE, Tommy	Inside Forward	
-										
-BRELSFORD, Bill	Wing Half	
-										
-BROWN, Fred	Inside Forward	
-										
-COOK, Bill	Full Back	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GOUGH, Harold	Goalkeeper	
-										
-HALLIWELL, Cliff	Wing Half	
-										
-HARROP, Jimmy	Centre Half	
-										
-HOYLAND, Walter	Inside Forward	
-										
-JOHNSON, Harry	Centre Forward	
-										
-LOWE, Davey	Winger	
-										
-MCCOURT, Jimmy	Centre Half	
-										
-MENLOVE, Bertie	Centre Forward	
-										
-MERCER, Dave	Winger	
-										
-MILTON, Ernest	Full Back	
-										
-OLDACRE, Percy	Inside Forward	
-										
-PANTLING, Harry	Wing Half	
-										
-PLANT, Jim	Wing Half	
-										
-RAWSON, Albert	Centre Forward	
-										
-RICHARDSON, George	Wing Half	
-										
-SAMPY, Tommy	Wing Half	
-										
-STURGESS, Albert	Wing Half	
-										
-TUNSTALL, Fred	Winger	
-										
-UTLEY, George	Wing Half	
-										
-WAUGH, Jimmy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKWELL, Ernest ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"BOLAM, Bob ",Winger,1,0,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BRELSFORD, Bill ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BROWN, Fred ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"COOK, Bill ",Full Back,19,0,0,1,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,31,14,0,0,0,0,0,0,0
+,"GOUGH, Harold ",Goalkeeper,36,0,0,1,0,0,0,0,0
+,"HALLIWELL, Cliff ",Wing Half,11,0,0,0,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,8,0,0,0,0,0,0,0,0
+,"HOYLAND, Walter ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,26,17,0,1,0,0,0,0,0
+,"LOWE, Davey ",Winger,1,0,0,0,0,0,0,0,0
+,"MCCOURT, Jimmy ",Centre Half,39,3,2,1,0,0,0,0,0
+,"MENLOVE, Bertie ",Centre Forward,7,1,0,0,0,0,0,0,0
+,"MERCER, Dave ",Winger,40,6,1,1,0,0,0,0,0
+,"MILTON, Ernest ",Full Back,32,0,0,0,0,0,0,0,0
+,"OLDACRE, Percy ",Inside Forward,5,4,0,0,0,0,0,0,0
+,"PANTLING, Harry ",Wing Half,38,0,0,1,0,0,0,0,0
+,"PLANT, Jim ",Wing Half,1,0,0,0,0,0,0,0,0
+,"RAWSON, Albert ",Centre Forward,9,2,0,1,0,0,0,0,0
+,"RICHARDSON, George ",Wing Half,7,0,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,40,8,0,1,0,0,0,0,0
+,"STURGESS, Albert ",Wing Half,36,0,0,1,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,41,3,0,1,0,0,0,0,0
+,"UTLEY, George ",Wing Half,15,0,0,1,0,0,0,0,0
+,"WAUGH, Jimmy ",Central Defender,3,0,0,0,0,0,0,0,0

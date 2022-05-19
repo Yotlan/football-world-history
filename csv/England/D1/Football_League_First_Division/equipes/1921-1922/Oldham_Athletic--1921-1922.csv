@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1921/22
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASSINDALE, Ike	Wing Half	
-										
-BELL, Peter	Winger	
-										
-BRAIDWOOD, Ernie	Wing Half	
-										
-BROADBENT, Fred	Centre Forward	
-										
-BROADBENT, Billy	Wing Half	
-										
-BROOME, Harry	Inside Forward	
-										
-BUTLER, Reuben	Centre Forward	
-										
-CAMPBELL, Sandy	Inside Forward	
-										
-CARRICK, Jim	Centre Half	
-										
-FREEMAN, Reg	Full Back	
-										
-GRUNDY, Harry	Full Back	
-										
-JONES, Dicky	Wing Half	
-										
-LUNN, Laurence	Goalkeeper	
-										
-MARSHALL, Alf	Wing Half	
-										
-MARSHALL, Jimmy	Centre Forward	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-NORD, John	Winger	
-										
-PARKINSON, Harry	Centre Forward	
-										
-PILKINGTON, Elliot	Centre Half	
-										
-ROBERTSON, Alex	Centre Half	
-										
-TATTON, Jack	Winger	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-TAYLOR, Bill	Wing Half	
-										
-TOMS, Bill	Inside Forward	
-										
-WALLACE, Charlie	Winger	
-										
-WATSON, Bert	Winger	
-										
-WILKINSON, George	Wing Half	
-										
-WOOD, William	Inside Forward	
-										
-WYNNE, Sam	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASSINDALE, Ike ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BELL, Peter ",Winger,15,2,0,0,0,0,0,0,0
+,"BRAIDWOOD, Ernie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROADBENT, Fred ",Centre Forward,11,4,0,2,3,0,0,0,0
+,"BROADBENT, Billy ",Wing Half,4,1,0,0,0,0,0,0,0
+,"BROOME, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BUTLER, Reuben ",Centre Forward,29,13,1,0,0,0,0,0,0
+,"CAMPBELL, Sandy ",Inside Forward,12,0,0,0,0,0,0,0,0
+,"CARRICK, Jim ",Centre Half,5,0,0,0,0,0,0,0,0
+,"FREEMAN, Reg ",Full Back,42,0,0,2,0,0,0,0,0
+,"GRUNDY, Harry ",Full Back,37,0,0,1,0,0,0,0,0
+,"JONES, Dicky ",Wing Half,9,0,0,2,0,0,0,0,0
+,"LUNN, Laurence ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MARSHALL, Alf ",Wing Half,37,0,0,2,0,0,0,0,0
+,"MARSHALL, Jimmy ",Centre Forward,29,6,0,2,0,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"NORD, John ",Winger,2,0,0,0,0,0,0,0,0
+,"PARKINSON, Harry ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"PILKINGTON, Elliot ",Centre Half,38,2,0,2,0,0,0,0,0
+,"ROBERTSON, Alex ",Centre Half,0,0,0,0,0,0,0,0,0
+,"TATTON, Jack ",Winger,13,0,0,2,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"TAYLOR, Bill ",Wing Half,36,0,0,2,1,0,0,0,0
+,"TOMS, Bill ",Inside Forward,20,5,0,0,0,0,0,0,0
+,"WALLACE, Charlie ",Winger,34,1,0,2,0,0,0,0,0
+,"WATSON, Bert ",Winger,24,3,0,0,0,0,0,0,0
+,"WILKINSON, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WOOD, William ",Inside Forward,11,1,0,0,0,0,0,0,0
+,"WYNNE, Sam ",Full Back,5,0,0,1,0,0,0,0,0
