@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRANSTON, Jimmy	Goalkeeper	
-										
-BURNIP, John	Centre Half	
-										
-CRAWFORD, Bobby	Wing Half	
-										
-DOOLAN, Sandy	Full Back	
-										
-DUXBURY, Tom	Wing Half	
-										
-FERRIS, Jimmy	Inside Forward	
-										
-GILCHRIST, John	Wing Half	
-										
-HAMILTON, Tommy	Full Back	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-KELLY, John	Goalkeeper	
-										
-LAIRD, Sandy	Inside Forward	
-										
-MARQUIS, Fred	Inside Forward	
-										
-MARSHALL, Jack	Centre Half	
-										
-MCCALL, Joe	Centre Half	
-										
-MERCER, Billy	Wing Half	
-										
-QUANTRILL, Alf	Winger	
-										
-QUINN, Peter	Winger	
-										
-RAWLINGS, Archie	Winger	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-SAPSFORD, George	Inside Forward	
-										
-SPEAK, George	Full Back	
-										
-STOREY, John	Full Back	
-										
-SULLIVAN, Con	Wing Half	
-										
-TURNER, Joe	Wing Half	
-										
-WILLIAMSON, Johnny	Wing Half	
-										
-WOODHOUSE, Roland	Inside Forward	
-										
-YATES, Wilf	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRANSTON, Jimmy ",Goalkeeper,42,0,0,2,0,0,0,0,0
+,"BURNIP, John ",Centre Half,0,0,0,0,0,0,0,0,0
+,"CRAWFORD, Bobby ",Wing Half,28,0,0,2,0,0,0,0,0
+,"DOOLAN, Sandy ",Full Back,16,0,0,1,0,0,0,0,0
+,"DUXBURY, Tom ",Wing Half,12,1,0,0,0,0,0,0,0
+,"FERRIS, Jimmy ",Inside Forward,24,7,0,2,0,0,0,0,0
+,"GILCHRIST, John ",Wing Half,17,0,0,0,0,0,0,0,0
+,"HAMILTON, Tommy ",Full Back,38,0,0,2,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,6,0,0,1,0,0,0,0,0
+,"KELLY, John ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"LAIRD, Sandy ",Inside Forward,17,2,0,2,0,0,0,0,0
+,"MARQUIS, Fred ",Inside Forward,3,3,0,0,0,0,0,0,0
+,"MARSHALL, Jack ",Centre Half,28,0,0,1,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,14,0,0,1,0,0,0,0,0
+,"MERCER, Billy ",Wing Half,20,0,0,0,0,0,0,0,0
+,"QUANTRILL, Alf ",Winger,28,5,0,1,0,0,0,0,0
+,"QUINN, Peter ",Winger,7,0,0,0,0,0,0,0,0
+,"RAWLINGS, Archie ",Winger,38,6,1,2,1,1,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,39,28,0,2,1,0,0,0,0
+,"SAPSFORD, George ",Inside Forward,14,3,0,0,0,0,0,0,0
+,"SPEAK, George ",Full Back,18,0,0,1,0,0,0,0,0
+,"STOREY, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"SULLIVAN, Con ",Wing Half,0,0,0,0,0,0,0,0,0
+,"TURNER, Joe ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Johnny ",Wing Half,9,0,0,0,0,0,0,0,0
+,"WOODHOUSE, Roland ",Inside Forward,32,5,0,2,1,0,0,0,0
+,"YATES, Wilf ",Full Back,11,0,0,0,0,0,0,0,0

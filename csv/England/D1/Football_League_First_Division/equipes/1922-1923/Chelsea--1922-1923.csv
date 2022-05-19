@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jimmy	Inside Forward	
-										
-ASHFORD, James	Full Back	
-										
-BAKER, Howard	Goalkeeper	
-										
-BELL, John	Winger	
-										
-BENNETT, Walter	Wing Half	
-										
-CAMERON, David	Wing Half	
-										
-COCK, Jack	Centre Forward	
-										
-FERGUSON, Ted	Full Back	
-										
-FORD, Harry	Winger	
-										
-FREW, Jimmy	Centre Half	
-										
-HAMPTON, Colin	Goalkeeper	
-										
-HARROW, Jack	Full Back	
-										
-HAYWOOD, Billy	Winger	
-										
-HODDINOTT, Frank	Inside Forward	
-										
-LEE, Jack	Winger	
-										
-LINFOOT, Fred	Winger	
-										
-MCNEIL, Bobby	Winger	
-										
-MEEHAN, Tommy	Wing Half	
-										
-PRIESTLEY, Jock	Wing Half	
-										
-SHARP, Kenny	Inside Forward	
-										
-SMITH, George	Full Back	
-										
-SMITH, George	Full Back	
-										
-SMITH, Stephen	Full Back	
-										
-THAIN, Albert	Inside Forward	
-										
-WHITTON, Willie	Centre Forward	
-										
-WILDING, Harry	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jimmy ",Inside Forward,14,7,0,2,1,0,0,0,0
+,"ASHFORD, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"BAKER, Howard ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"BELL, John ",Winger,13,2,0,1,0,0,0,0,0
+,"BENNETT, Walter ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CAMERON, David ",Wing Half,25,0,0,3,0,0,0,0,0
+,"COCK, Jack ",Centre Forward,11,1,0,0,0,0,0,0,0
+,"FERGUSON, Ted ",Full Back,10,0,0,0,0,0,0,0,0
+,"FORD, Harry ",Winger,36,10,0,3,0,0,0,0,0
+,"FREW, Jimmy ",Centre Half,14,0,0,0,0,0,0,0,0
+,"HAMPTON, Colin ",Goalkeeper,25,0,0,3,0,0,0,0,0
+,"HARROW, Jack ",Full Back,40,0,0,3,0,0,0,0,0
+,"HAYWOOD, Billy ",Winger,16,1,0,0,0,0,0,0,0
+,"HODDINOTT, Frank ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"LEE, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"LINFOOT, Fred ",Winger,14,0,0,2,0,0,0,0,0
+,"MCNEIL, Bobby ",Winger,41,4,0,3,0,0,0,0,0
+,"MEEHAN, Tommy ",Wing Half,42,3,3,3,0,0,0,0,0
+,"PRIESTLEY, Jock ",Wing Half,20,1,0,3,0,0,0,0,0
+,"SHARP, Kenny ",Inside Forward,25,10,0,2,0,0,0,0,0
+,"SMITH, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMITH, George ",Full Back,42,0,0,3,0,0,0,0,0
+,"SMITH, Stephen ",Full Back,2,0,0,0,0,0,0,0,0
+,"THAIN, Albert ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"WHITTON, Willie ",Centre Forward,6,2,0,0,0,0,0,0,0
+,"WILDING, Harry ",Centre Half,29,3,0,2,0,0,0,0,0

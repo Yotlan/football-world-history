@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Jack	Wing Half	
-										
-BARRATT, Percy	Full Back	
-										
-BELTON, Jackie	Wing Half	
-										
-BENNETT, Alfred	Goalkeeper	
-										
-BOYMAN, William	Centre Forward	
-										
-BULLING, Harry	Full Back	
-										
-BURTON, Noah	Inside Forward	
-										
-COX, Billy	Centre Forward	
-										
-DENNIS, George	Winger	
-										
-FLOOD, Charlie	Inside Forward	
-										
-GIBSON, Sid	Winger	
-										
-GREEN, John	Inside Forward	
-										
-HARDY, Sam	Goalkeeper	
-										
-JONES, Harry	Full Back	
-										
-MARTIN, Harry	Winger	
-										
-MESSER, Alf	Central Defender	
-										
-MILLS, Joe	Wing Half	
-										
-MORGAN, Gerry	Centre Half	
-										
-NELIS, Pat	Centre Forward	
-										
-PARKER, Fred	Centre Half	
-										
-PARKER, Bobby	Centre Forward	
-										
-RONALD, Peter	Inside Forward	
-										
-SPAVEN, Jack	Inside Forward	
-										
-THOM, Jock	Inside Forward	
-										
-THOMPSON, Bill	Full Back	
-										
-TINSLEY, Walter	Inside Forward	
-										
-WICKS, Jack	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Jack ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BARRATT, Percy ",Full Back,4,0,0,0,0,0,0,0,0
+,"BELTON, Jackie ",Wing Half,28,1,0,4,0,0,0,0,0
+,"BENNETT, Alfred ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"BOYMAN, William ",Centre Forward,2,0,0,1,0,0,0,0,0
+,"BULLING, Harry ",Full Back,31,1,0,4,0,0,0,0,0
+,"BURTON, Noah ",Inside Forward,42,2,0,3,0,0,0,0,0
+,"COX, Billy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"DENNIS, George ",Winger,5,0,0,0,0,0,0,0,0
+,"FLOOD, Charlie ",Inside Forward,14,3,0,0,0,0,0,0,0
+,"GIBSON, Sid ",Winger,35,4,0,4,0,0,0,0,0
+,"GREEN, John ",Inside Forward,10,2,0,3,1,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,37,0,0,4,0,0,0,0,0
+,"JONES, Harry ",Full Back,39,1,1,4,0,0,0,0,0
+,"MARTIN, Harry ",Winger,36,4,3,4,0,0,0,0,0
+,"MESSER, Alf ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MILLS, Joe ",Wing Half,3,0,0,1,0,0,0,0,0
+,"MORGAN, Gerry ",Centre Half,28,0,0,4,0,0,0,0,0
+,"NELIS, Pat ",Centre Forward,32,4,0,1,0,0,0,0,0
+,"PARKER, Fred ",Centre Half,28,0,0,1,0,0,0,0,0
+,"PARKER, Bobby ",Centre Forward,14,3,0,1,0,0,0,0,0
+,"RONALD, Peter ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SPAVEN, Jack ",Inside Forward,32,10,0,3,0,0,0,0,0
+,"THOM, Jock ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Bill ",Full Back,9,0,0,0,0,0,0,0,0
+,"TINSLEY, Walter ",Inside Forward,23,5,0,2,0,0,0,0,0
+,"WICKS, Jack ",Goalkeeper,0,0,0,0,0,0,0,0,0

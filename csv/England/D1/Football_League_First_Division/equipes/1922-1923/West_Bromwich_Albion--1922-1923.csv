@@ -1,63 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Billy	Full Back	
-										
-ASHMORE, George	Goalkeeper	
-										
-BIRCH, Frank	Winger	
-										
-BLOOD, Bobby	Centre Forward	
-										
-BOWSER, Sid	Centre Half	
-										
-CARTER, Joe	Inside Forward	
-										
-CHAMBERLAIN, Bert	Full Back	
-										
-CRISP, Jack	Winger	
-										
-DAVIES, Stan	Centre Forward	
-										
-DUTTON, Harry	Wing Half	
-										
-FITTON, Arthur	Winger	
-										
-FORD, Ewart	Winger	
-										
-FORD, Ernest	Winger	
-										
-GLIDDEN, Tommy	Winger	
-										
-GREGORY, Howard	Winger	
-										
-JEPHCOTT, Claude	Winger	
-										
-JONES, Ivor	Inside Forward	
-										
-LAMMUS, William	Full Back	
-										
-LENNEY, Ralph	Winger	
-										
-MAGEE, Tommy	Wing Half	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MORRIS, Fred	Inside Forward	
-										
-MUNDY, Fred	Inside Forward	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-SMITH, Alfred	Centre Forward	
-										
-SMITH, Joe	Full Back	
-										
-SPENCER, James	Winger	
-										
-WILSON, Charlie	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Billy ",Full Back,40,0,0,4,0,0,0,0,0
+,"ASHMORE, George ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"BIRCH, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"BLOOD, Bobby ",Centre Forward,9,4,0,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,42,1,0,4,0,0,0,0,0
+,"CARTER, Joe ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"CHAMBERLAIN, Bert ",Full Back,3,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,13,3,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,37,20,1,4,1,0,0,0,0
+,"DUTTON, Harry ",Wing Half,2,0,0,0,0,0,0,0,0
+,"FITTON, Arthur ",Winger,4,0,0,0,0,0,0,0,0
+,"FORD, Ernest ",Winger,1,0,0,0,0,0,0,0,0
+,"GLIDDEN, Tommy ",Winger,11,0,0,0,0,0,0,0,0
+,"GREGORY, Howard ",Winger,27,7,0,4,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,5,0,0,0,0,0,0,0,0
+,"JONES, Ivor ",Inside Forward,31,3,0,4,1,0,0,0,0
+,"LAMMUS, William ",Full Back,0,0,0,0,0,0,0,0,0
+,"LENNEY, Ralph ",Winger,0,0,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,40,0,0,4,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,40,0,0,4,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,40,14,2,4,2,0,0,0,0
+,"MUNDY, Fred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,38,0,0,4,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"SMITH, Alfred ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"SMITH, Joe ",Full Back,41,0,0,4,0,0,0,0,0
+,"SPENCER, James ",Winger,20,2,0,4,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,1,0,0,0,0,0,0,0,0

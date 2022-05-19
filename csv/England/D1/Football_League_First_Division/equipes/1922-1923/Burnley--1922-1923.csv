@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Joe	Centre Forward	
-										
-BASNETT, Alf	Wing Half	
-										
-BEEL, George	Centre Forward	
-										
-BLACKADDER, Bill	Wing Half	
-										
-CHAMBERS, Bob	Centre Half	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-EMERSON, William	Wing Half	
-										
-EVANS, Jimmy	Full Back	
-										
-FISHER, Jackie	Winger	
-										
-FREEMAN, Albert	Inside Forward	
-										
-GEE, Harry	Wing Half	
-										
-GREENHALGH, John	Inside Forward	
-										
-KELLY, Bob	Inside Forward	
-										
-LANE, Jack	Inside Forward	
-										
-LINDSAY, James	Inside Forward	
-										
-MARTIN, Jack	Central Defender	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MORGAN, Billy	Wing Half	
-										
-MOSSCROP, Eddie	Winger	
-										
-NESBITT, Billy	Winger	
-										
-PEARSON, John	Full Back	
-										
-RICHARDSON, George	Wing Half	
-										
-ROBSON, Jack	Winger	
-										
-SIMS, Stephen	Centre Half	
-										
-SMELT, Len	Full Back	
-										
-SULLIVAN, Jim	Centre Forward	
-										
-TAYLOR, David	Full Back	
-										
-WADE, Ted	Inside Forward	
-										
-WALLER, Billy	Inside Forward	
-										
-WATSON, Billy	Wing Half	
-										
-WEAVER, Walter	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Joe ",Centre Forward,28,9,0,1,1,0,0,0,0
+,"BASNETT, Alf ",Wing Half,36,2,0,1,0,0,0,0,0
+,"BEEL, George ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BLACKADDER, Bill ",Wing Half,0,0,0,0,0,0,0,0,0
+,"CHAMBERS, Bob ",Centre Half,4,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,42,12,0,1,0,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,30,0,0,1,0,0,0,0,0
+,"EMERSON, William ",Wing Half,33,0,0,1,0,0,0,0,0
+,"EVANS, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"FISHER, Jackie ",Winger,22,1,0,1,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"GEE, Harry ",Wing Half,5,0,0,0,0,0,0,0,0
+,"GREENHALGH, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,40,17,3,1,0,0,0,0,0
+,"LANE, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"LINDSAY, James ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"MARTIN, Jack ",Central Defender,0,0,0,0,0,0,0,0,0
+,"MOORWOOD, Len ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"MORGAN, Billy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"MOSSCROP, Eddie ",Winger,16,0,0,0,0,0,0,0,0
+,"NESBITT, Billy ",Winger,8,1,0,0,0,0,0,0,0
+,"PEARSON, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"RICHARDSON, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ROBSON, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"SIMS, Stephen ",Centre Half,9,0,0,0,0,0,0,0,0
+,"SMELT, Len ",Full Back,42,0,0,1,0,0,0,0,0
+,"SULLIVAN, Jim ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"TAYLOR, David ",Full Back,40,0,0,1,0,0,0,0,0
+,"WADE, Ted ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"WALLER, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,39,4,0,1,0,0,0,0,0
+,"WEAVER, Walter ",Winger,33,7,0,1,0,0,0,0,0

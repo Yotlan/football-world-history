@@ -1,81 +1,40 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Fred	Inside Forward	
-										
-BOND, Dickie	Winger	
-										
-BYERS, Jack	Winger	
-										
-CAMPBELL, Austen	Wing Half	
-										
-CRAWLEY, Frank	Full Back	
-										
-CRISP, Jack	Winger	
-										
-DAVEY, Hugh	Centre Forward	
-										
-DAVIS, Ted	Goalkeeper	
-										
-DAWSON, Percy	Centre Forward	
-										
-DIXON, Stan	Centre Half	
-										
-FORREST, James	Full Back	
-										
-FOSTER, Bobby	Inside Forward	
-										
-GEE, Jimmy	Inside Forward	
-										
-HARDY, Jacob	Winger	
-										
-HAWKSWORTH, Ernest	Inside Forward	
-										
-HAWORTH, Ronald	Inside Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HEATON, Tommy	Wing Half	
-										
-HODKINSON, Joe	Winger	
-										
-HOLLAND, Peter	Inside Forward	
-										
-LONGMUIR, Archie	Winger	
-										
-MALCOLM, William	Inside Forward	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCKAY, Jock	Inside Forward	
-										
-MCKINNELL, Jimmy	Wing Half	
-										
-MOORE, Billy	Goalkeeper	
-										
-POOL, Alexander	Centre Half	
-										
-REILLY, Frank	Centre Half	
-										
-RITCHIE, George	Wing Half	
-										
-ROBSON, James	Winger	
-										
-RODGERS, Norman	Inside Forward	
-										
-ROLLO, Dave	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SMITH, Fred	Centre Forward	
-										
-WALMSLEY, Richard	Full Back	
-										
-WATSON, William	Wing Half	
-										
-WILLIAMSON, Tom	Central Defender	
-										
-WYLIE, Tom	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Fred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,24,2,1,2,1,1,0,0,0
+,"BYERS, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"CAMPBELL, Austen ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CRAWLEY, Frank ",Full Back,9,0,0,2,0,0,0,0,0
+,"CRISP, Jack ",Winger,9,3,0,0,0,0,0,0,0
+,"DAVEY, Hugh ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"DAVIS, Ted ",Goalkeeper,22,0,0,1,0,0,0,0,0
+,"DAWSON, Percy ",Centre Forward,21,5,0,2,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,11,0,0,0,0,0,0,0,0
+,"FORREST, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"FOSTER, Bobby ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GEE, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARDY, Jacob ",Winger,1,0,0,0,0,0,0,0,0
+,"HAWKSWORTH, Ernest ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"HAWORTH, Ronald ",Inside Forward,18,4,0,0,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,39,1,0,3,0,0,0,0,0
+,"HEATON, Tommy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,32,3,0,3,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,9,0,0,2,0,0,0,0,0
+,"LONGMUIR, Archie ",Winger,7,2,0,0,0,0,0,0,0
+,"MALCOLM, William ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,31,10,0,3,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,38,12,0,3,0,0,0,0,0
+,"MCKINNELL, Jimmy ",Wing Half,41,0,0,3,0,0,0,0,0
+,"MOORE, Billy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"POOL, Alexander ",Centre Half,6,0,0,0,0,0,0,0,0
+,"REILLY, Frank ",Centre Half,29,1,0,3,0,0,0,0,0
+,"RITCHIE, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"ROBSON, James ",Winger,0,0,0,0,0,0,0,0,0
+,"RODGERS, Norman ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"ROLLO, Dave ",Full Back,29,2,2,1,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,20,0,0,2,0,0,0,0,0
+,"SMITH, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WALMSLEY, Richard ",Full Back,4,0,0,0,0,0,0,0,0
+,"WATSON, William ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Tom ",Central Defender,4,0,0,0,0,0,0,0,0
+,"WYLIE, Tom ",Full Back,39,0,0,3,0,0,0,0,0

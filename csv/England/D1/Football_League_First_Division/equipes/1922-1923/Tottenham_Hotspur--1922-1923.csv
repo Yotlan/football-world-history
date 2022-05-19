@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANKS, Jimmy	Inside Forward	
-										
-BARNARD, Wally	Full Back	
-										
-BARNETT, Fred	Winger	
-										
-BLAKE, Herbert	Goalkeeper	
-										
-BLISS, Bert	Inside Forward	
-										
-BROOKS, Sammy	Winger	
-										
-BROWN, Bob	Full Back	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CLAY, Tommy	Full Back	
-										
-DIMMOCK, Jimmy	Winger	
-										
-FORSTER, Matt	Full Back	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HANDLEY, Charlie	Winger	
-										
-HARTLEY, Frank	Inside Forward	
-										
-JACQUES, Bill	Goalkeeper	
-										
-JENNINGS, Alf	Winger	
-										
-LANE, Billy	Centre Forward	
-										
-LINDSAY, Alex	Centre Forward	
-										
-LOWE, Harry	Centre Half	
-										
-MACDONALD, Bob	Full Back	
-										
-MADDISON, Geordie	Goalkeeper	
-										
-MEHAFFY, Bert	Goalkeeper	
-										
-PEARSON, John	Full Back	
-										
-ROSS, Jimmy	Full Back	
-										
-SEED, Jimmy	Inside Forward	
-										
-SHARP, Kenny	Inside Forward	
-										
-SINNING, Arthur	Winger	
-										
-SKINNER, Jimmy	Wing Half	
-										
-SMITH, Bert	Wing Half	
-										
-THOMPSON, Andy	Winger	
-										
-WALDEN, Fanny	Winger	
-										
-WALTERS, Charlie	Centre Half	
-										
-WILSON, Charlie	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANKS, Jimmy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BARNARD, Wally ",Full Back,0,0,0,0,0,0,0,0,0
+,"BARNETT, Fred ",Winger,2,0,0,0,0,0,0,0,0
+,"BLAKE, Herbert ",Goalkeeper,36,0,0,5,0,0,0,0,0
+,"BLISS, Bert ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"BROOKS, Sammy ",Winger,7,1,0,0,0,0,0,0,0
+,"BROWN, Bob ",Full Back,12,0,0,3,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,10,4,0,0,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,34,3,3,4,0,0,0,0,0
+,"DIMMOCK, Jimmy ",Winger,42,6,0,5,1,0,0,0,0
+,"FORSTER, Matt ",Full Back,12,0,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,40,2,0,5,0,0,0,0,0
+,"HANDLEY, Charlie ",Winger,30,5,0,5,7,0,0,0,0
+,"HARTLEY, Frank ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"JACQUES, Bill ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"JENNINGS, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"LANE, Billy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LINDSAY, Alex ",Centre Forward,34,11,0,5,6,0,0,0,0
+,"LOWE, Harry ",Centre Half,14,0,0,5,0,0,0,0,0
+,"MACDONALD, Bob ",Full Back,17,0,0,0,0,0,0,0,0
+,"MADDISON, Geordie ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"MEHAFFY, Bert ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"PEARSON, John ",Full Back,1,0,0,2,0,0,0,0,0
+,"ROSS, Jimmy ",Full Back,6,0,0,0,0,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,36,9,0,5,2,0,0,0,0
+,"SHARP, Kenny ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SINNING, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"SKINNER, Jimmy ",Wing Half,15,1,0,1,0,0,0,0,0
+,"SMITH, Bert ",Wing Half,32,2,0,5,0,0,0,0,0
+,"THOMPSON, Andy ",Winger,2,0,0,0,0,0,0,0,0
+,"WALDEN, Fanny ",Winger,30,3,0,5,0,0,0,0,0
+,"WALTERS, Charlie ",Centre Half,29,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Centre Forward,2,0,0,0,0,0,0,0,0

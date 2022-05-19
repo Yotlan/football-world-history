@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BROUGH, Harry	Wing Half	
-										
-BROWN, George	Centre Forward	
-										
-BYERS, Jack	Winger	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-COWELL, Billy	Goalkeeper	
-										
-CRAPPER, Joe	Winger	
-										
-GOODALL, Roy	Full Back	
-										
-GOODIER, Ted	Wing Half	
-										
-ISLIP, Ernie	Inside Forward	
-										
-JOHNSTON, Billy	Inside Forward	
-										
-LILLEY, Tom	Full Back	
-										
-MANGNALL, Dave	Centre Forward	
-										
-MANN, Frank	Inside Forward	
-										
-MUTCH, Alex	Goalkeeper	
-										
-RICHARDSON, George	Winger	
-										
-SLADE, Charlie	Wing Half	
-										
-SMITH, Bertie	Centre Half	
-										
-SMITH, John	Winger	
-										
-SMITH, Billy	Winger	
-										
-STEELE, David	Wing Half	
-										
-STENTIFORD, George	Wing Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-WADSWORTH, Sam	Full Back	
-										
-WALTER, Joe	Winger	
-										
-WATSON, Billy	Wing Half	
-										
-WILSON, Charlie	Centre Forward	
-										
-WILSON, Tommy	Central Defender	
-										
-WOOD, James	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,29,0,0,5,0,0,0,0,0
+,"BROUGH, Harry ",Wing Half,8,0,0,0,0,0,0,0,0
+,"BROWN, George ",Centre Forward,12,6,0,0,0,0,0,0,0
+,"BYERS, Jack ",Winger,7,3,0,0,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,6,0,0,0,0,0,0,0,0
+,"COWELL, Billy ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"CRAPPER, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,1,0,0,0,0,0,0,0,0
+,"GOODIER, Ted ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ISLIP, Ernie ",Inside Forward,34,10,0,4,1,0,0,0,0
+,"JOHNSTON, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"LILLEY, Tom ",Full Back,3,0,0,0,0,0,0,0,0
+,"MANGNALL, Dave ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,27,8,0,5,0,0,0,0,0
+,"MUTCH, Alex ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"RICHARDSON, George ",Winger,21,1,0,4,1,0,0,0,0
+,"SLADE, Charlie ",Wing Half,6,0,0,0,0,0,0,0,0
+,"SMITH, Bertie ",Centre Half,3,0,0,0,0,0,0,0,0
+,"SMITH, John ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,35,9,2,5,0,0,0,0,0
+,"STEELE, David ",Wing Half,33,1,0,4,0,0,0,0,0
+,"STENTIFORD, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,27,1,0,3,1,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,35,0,0,5,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,38,2,2,5,0,0,0,0,0
+,"WALTER, Joe ",Winger,22,4,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,33,0,0,5,0,0,0,0,0
+,"WILSON, Charlie ",Centre Forward,26,13,0,5,3,0,0,0,0
+,"WILSON, Tommy ",Central Defender,39,1,0,5,0,0,0,0,0
+,"WOOD, James ",Full Back,7,0,0,0,0,0,0,0,0

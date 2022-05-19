@@ -1,75 +1,37 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALDWIN, Harry	Winger	
-										
-BUCHAN, Tom	Wing Half	
-										
-BUTLER, Billy	Winger	
-										
-CHAMBERS, Frank	Full Back	
-										
-CREWE, Billy	Wing Half	
-										
-FARRINGTON, Robert	Inside Forward	
-										
-FINNEY, Alex	Full Back	
-										
-FLOOD, Charlie	Inside Forward	
-										
-HAWORTH, Bob	Full Back	
-										
-HOWARTH, Nelson	Wing Half	
-										
-HUGHES, Joseph	Centre Forward	
-										
-IVILL, Teddy	Full Back	
-										
-JACK, David	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JOHNSTON, John	Full Back	
-										
-JONES, John	Winger	
-										
-LONGWORTH, Bruce	Wing Half	
-										
-LOWE, Jack	Winger	
-										
-MATTHEWS, Vince	Centre Half	
-										
-NEWNES, Jack	Wing Half	
-										
-NUTTALL, Harry	Wing Half	
-										
-PYM, Dick	Goalkeeper	
-										
-ROBERTS, Edgar	Winger	
-										
-ROBERTS, Frank	Centre Forward	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SIMMONS, William	Centre Forward	
-										
-SIMPSON, Herbie	Winger	
-										
-SMITH, Charles	Wing Half	
-										
-SMITH, Joe	Inside Forward	
-										
-SMITH, John	Centre Forward	
-										
-THIRKELL, Percy	Full Back	
-										
-VIZARD, Ted	Winger	
-										
-WALSH, Tommy 'Tot'	Centre Forward	
-										
-WRIGHT, Billy	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALDWIN, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"BUCHAN, Tom ",Wing Half,9,1,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,30,2,0,7,0,0,0,0,0
+,"CHAMBERS, Frank ",Full Back,2,0,0,0,0,0,0,0,0
+,"CREWE, Billy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"FARRINGTON, Robert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,26,0,0,6,0,0,0,0,0
+,"FLOOD, Charlie ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,30,0,0,5,0,0,0,0,0
+,"HOWARTH, Nelson ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HUGHES, Joseph ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"IVILL, Teddy ",Full Back,0,0,0,0,0,0,0,0,0
+,"JACK, David ",Inside Forward,41,11,0,7,7,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,32,1,0,7,0,0,0,0,0
+,"JOHNSTON, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"JONES, John ",Winger,9,2,0,0,0,0,0,0,0
+,"LONGWORTH, Bruce ",Wing Half,5,0,0,0,0,0,0,0,0
+,"LOWE, Jack ",Winger,1,0,0,0,0,0,0,0,0
+,"MATTHEWS, Vince ",Centre Half,2,0,0,0,0,0,0,0,0
+,"NEWNES, Jack ",Wing Half,7,0,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,20,0,0,5,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,42,0,0,7,0,0,0,0,0
+,"ROBERTS, Edgar ",Winger,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,8,1,0,0,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,33,1,0,5,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,16,0,0,6,0,0,0,0,0
+,"SIMMONS, William ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SIMPSON, Herbie ",Winger,5,0,0,0,0,0,0,0,0
+,"SMITH, Charles ",Wing Half,4,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,37,17,1,7,2,0,0,0,0
+,"SMITH, John ",Centre Forward,22,7,0,7,2,0,0,0,0
+,"THIRKELL, Percy ",Full Back,14,0,0,1,0,0,0,0,0
+,"VIZARD, Ted ",Winger,38,2,0,7,0,0,0,0,0
+,"WALSH, Tommy 'Tot' ",Centre Forward,7,3,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,6,0,0,0,0,0,0,0,0

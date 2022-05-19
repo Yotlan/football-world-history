@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADLAM, Les	Wing Half	
-										
-BASSINDALE, Ike	Wing Half	
-										
-BLAIR, John	Centre Forward	
-										
-BROADBENT, Fred	Centre Forward	
-										
-BROADBENT, Billy	Wing Half	
-										
-BUTLER, Reuben	Centre Forward	
-										
-CARRICK, Jim	Centre Half	
-										
-COOPER, Arthur	Goalkeeper	
-										
-DOUGLAS, George	Winger	
-										
-FERGUSSON, Billy	Centre Forward	
-										
-FREEMAN, Reg	Full Back	
-										
-GRUNDY, Harry	Full Back	
-										
-HARGREAVES, Frank	Inside Forward	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HORROCKS, Harry	Inside Forward	
-										
-JONES, Charlie	Winger	
-										
-KING, George	Inside Forward	
-										
-MARSHALL, Alf	Wing Half	
-										
-MARSHALL, Jimmy	Centre Forward	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-NAYLOR, Jimmy	Wing Half	
-										
-PARKINSON, Harry	Centre Forward	
-										
-PILKINGTON, Elliot	Centre Half	
-										
-SPENCE, David	Winger	
-										
-STANIFORTH, Chris	Centre Forward	
-										
-TAYLOR, Bill	Wing Half	
-										
-WADDELL, George	Wing Half	
-										
-WALLACE, Charlie	Winger	
-										
-WATSON, Bert	Winger	
-										
-WOOD, William	Inside Forward	
-										
-WYNNE, Sam	Full Back	
-										
-YARWOOD, Jonty	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADLAM, Les ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BASSINDALE, Ike ",Wing Half,14,0,0,0,0,0,0,0,0
+,"BLAIR, John ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"BROADBENT, Fred ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BROADBENT, Billy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"BUTLER, Reuben ",Centre Forward,15,3,0,1,0,0,0,0,0
+,"CARRICK, Jim ",Centre Half,1,0,0,0,0,0,0,0,0
+,"COOPER, Arthur ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"DOUGLAS, George ",Winger,30,1,0,0,0,0,0,0,0
+,"FERGUSSON, Billy ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"FREEMAN, Reg ",Full Back,39,0,0,1,0,0,0,0,0
+,"GRUNDY, Harry ",Full Back,35,0,0,1,0,0,0,0,0
+,"HARGREAVES, Frank ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,16,4,0,1,0,0,0,0,0
+,"HORROCKS, Harry ",Inside Forward,15,2,0,0,0,0,0,0,0
+,"JONES, Charlie ",Winger,9,0,0,0,0,0,0,0,0
+,"KING, George ",Inside Forward,4,1,0,1,0,0,0,0,0
+,"MARSHALL, Alf ",Wing Half,22,3,0,1,0,0,0,0,0
+,"MARSHALL, Jimmy ",Centre Forward,20,6,0,1,0,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,33,0,0,1,0,0,0,0,0
+,"NAYLOR, Jimmy ",Wing Half,19,2,0,1,0,0,0,0,0
+,"PARKINSON, Harry ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"PILKINGTON, Elliot ",Centre Half,40,0,0,0,0,0,0,0,0
+,"SPENCE, David ",Winger,4,0,0,0,0,0,0,0,0
+,"STANIFORTH, Chris ",Centre Forward,18,3,0,0,0,0,0,0,0
+,"TAYLOR, Bill ",Wing Half,34,1,0,1,0,0,0,0,0
+,"WADDELL, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WALLACE, Charlie ",Winger,13,2,1,1,0,0,0,0,0
+,"WATSON, Bert ",Winger,26,2,0,0,0,0,0,0,0
+,"WOOD, William ",Inside Forward,13,3,0,0,0,0,0,0,0
+,"WYNNE, Sam ",Full Back,7,0,0,0,0,0,0,0,0
+,"YARWOOD, Jonty ",Full Back,5,0,0,0,0,0,0,0,0

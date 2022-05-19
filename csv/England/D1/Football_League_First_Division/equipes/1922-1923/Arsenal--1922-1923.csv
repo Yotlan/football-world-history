@@ -1,74 +1,36 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Alf	Wing Half	
-										
-BLYTH, Billy	Inside Forward	
-										
-BOREHAM, Reg	Inside Forward	
-										
-BRADSHAW, Frank	Inside Forward	
-										
-BUTLER, Jack	Central Defender	
-										
-CLARK, John	Winger	
-										
-DUNN, Stephen	Goalkeeper	
-										
-EARLE, Stan	Inside Forward	
-										
-ELVEY, John	Full Back	
-										
-GRAHAM, Alex	Centre Half	
-										
-HENDERSON, Bill	Winger	
-										
-HOPKINS, Jimmy	Inside Forward	
-										
-HUTCHINS, Arthur	Full Back	
-										
-IRVING, Joseph	Wing Half	
-										
-JOHN, Bob	Wing Half	
-										
-KENNEDY, Andy	Full Back	
-										
-MACKIE, Alex	Full Back	
-										
-MCCONNELL, Billy 'Pat'	Full Back	
-										
-MCKENZIE, Alexander	Inside Forward	
-										
-MILNE, Billy	Wing Half	
-										
-MOODY, Alf	Winger	
-										
-PATERSON, Jimmy	Winger	
-										
-ROBSON, Jock	Goalkeeper	
-										
-ROE, Archie	Centre Forward	
-										
-RUTHERFORD, Jock	Winger	
-										
-SISSONS, Albert	Winger	
-										
-TONER, Joe	Winger	
-										
-TOWNROW, Frank	Wing Half	
-										
-TURNBULL, Bobby	Centre Forward	
-										
-VOYSEY, Clem	Centre Half	
-										
-WHITE, Bert	Inside Forward	
-										
-WHITTAKER, Tom	Wing Half	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-YOUNG, Andrew	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Alf ",Wing Half,29,6,0,2,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,31,9,0,1,0,0,0,0,0
+,"BOREHAM, Reg ",Inside Forward,27,8,0,2,0,0,0,0,0
+,"BRADSHAW, Frank ",Inside Forward,17,0,0,0,0,0,0,0,0
+,"BUTLER, Jack ",Central Defender,18,0,0,1,0,0,0,0,0
+,"CLARK, John ",Winger,2,0,0,0,0,0,0,0,0
+,"DUNN, Stephen ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,1,1,0,0,0,0,0,0,0
+,"ELVEY, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"GRAHAM, Alex ",Centre Half,17,1,1,0,0,0,0,0,0
+,"HENDERSON, Bill ",Winger,2,0,0,0,0,0,0,0,0
+,"HOPKINS, Jimmy ",Inside Forward,2,2,0,0,0,0,0,0,0
+,"HUTCHINS, Arthur ",Full Back,10,1,1,0,0,0,0,0,0
+,"IRVING, Joseph ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JOHN, Bob ",Wing Half,24,0,0,2,0,0,0,0,0
+,"KENNEDY, Andy ",Full Back,24,0,0,2,0,0,0,0,0
+,"MACKIE, Alex ",Full Back,23,0,0,2,0,0,0,0,0
+,"MCCONNELL, Billy 'Pat' ",Full Back,0,0,0,0,0,0,0,0,0
+,"MCKENZIE, Alexander ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"MILNE, Billy ",Wing Half,31,0,0,2,0,0,0,0,0
+,"MOODY, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"PATERSON, Jimmy ",Winger,26,0,0,2,0,0,0,0,0
+,"ROBSON, Jock ",Goalkeeper,20,0,0,2,0,0,0,0,0
+,"ROE, Archie ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,26,1,0,0,0,0,0,0,0
+,"SISSONS, Albert ",Winger,0,0,0,0,0,0,0,0,0
+,"TONER, Joe ",Winger,7,0,0,0,0,0,0,0,0
+,"TOWNROW, Frank ",Wing Half,1,0,0,1,0,0,0,0,0
+,"TURNBULL, Bobby ",Centre Forward,35,20,0,2,1,0,0,0,0
+,"VOYSEY, Clem ",Centre Half,18,4,0,1,0,0,0,0,0
+,"WHITE, Bert ",Inside Forward,11,1,0,0,0,0,0,0,0
+,"WHITTAKER, Tom ",Wing Half,13,1,0,0,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"YOUNG, Andrew ",Centre Forward,13,3,0,0,0,0,0,0,0

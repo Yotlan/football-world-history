@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Willie	Winger	
-										
-BRADLEY, Bill	Goalkeeper	
-										
-CLARK, Jimmy	Inside Forward	
-										
-CLARK, Bob	Inside Forward	
-										
-CURRY, Tom	Wing Half	
-										
-DIXON, Stan	Centre Half	
-										
-HAGAN, Alfie	Inside Forward	
-										
-HAMPSON, Billy	Full Back	
-										
-HARRIS, Neil	Centre Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-KEEN, Jimmy	Winger	
-										
-LOW, Jimmy	Winger	
-										
-LOW, Wilf	Centre Half	
-										
-MACKENZIE, Roddie	Wing Half	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCDONALD, Tommy	Inside Forward	
-										
-MCINTOSH, Robert	Wing Half	
-										
-MITCHELL, Tom	Winger	
-										
-MOONEY, Peter	Wing Half	
-										
-MUTCH, Alex	Goalkeeper	
-										
-RICHARDSON, Eddie	Winger	
-										
-ROXBURGH, Robert	Full Back	
-										
-RUSSELL, Sam	Full Back	
-										
-SCOTT, William	Centre Forward	
-										
-SEYMOUR, Stan	Winger	
-										
-SMAILES, Andy	Inside Forward	
-										
-SPENCER, Charlie	Centre Half	
-										
-WOODS, Harry	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Willie ",Winger,25,4,0,1,0,0,0,0,0
+,"BRADLEY, Bill ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"CLARK, Jimmy ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"CLARK, Bob ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"CURRY, Tom ",Wing Half,38,0,0,0,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,4,0,0,0,0,0,0,0,0
+,"HAGAN, Alfie ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,31,0,0,0,0,0,0,0,0
+,"HARRIS, Neil ",Centre Forward,37,13,0,2,1,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,27,1,1,2,0,0,0,0,0
+,"KEEN, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"LOW, Jimmy ",Winger,37,2,0,2,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,24,0,0,2,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,13,0,0,2,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,36,15,1,2,0,0,0,0,0
+,"MCINTOSH, Robert ",Wing Half,27,1,0,2,0,0,0,0,0
+,"MITCHELL, Tom ",Winger,10,1,0,0,0,0,0,0,0
+,"MOONEY, Peter ",Wing Half,20,0,0,2,0,0,0,0,0
+,"MUTCH, Alex ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"RICHARDSON, Eddie ",Winger,2,0,0,0,0,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,11,0,0,0,0,0,0,0,0
+,"RUSSELL, Sam ",Full Back,1,0,0,0,0,0,0,0,0
+,"SCOTT, William ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"SEYMOUR, Stan ",Winger,28,4,0,1,0,0,0,0,0
+,"SMAILES, Andy ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"SPENCER, Charlie ",Centre Half,18,1,0,0,0,0,0,0,0
+,"WOODS, Harry ",Inside Forward,6,1,0,2,0,0,0,0,0

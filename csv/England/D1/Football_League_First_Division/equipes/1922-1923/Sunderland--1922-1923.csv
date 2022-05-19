@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDREWS, Arthur	Wing Half	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-CLACK, Ted	Winger	
-										
-CRESSWELL, Warney	Full Back	
-										
-DONALDSON, Alex	Winger	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-FERGUSON, Robert	Centre Half	
-										
-GILHOOLEY, Mike	Centre Half	
-										
-HARPER, Bill	Goalkeeper	
-										
-HAWES, Arthur	Inside Forward	
-										
-HUNTER, George	Wing Half	
-										
-JACKSON, Archie	Centre Half	
-										
-KASHER, Joe	Centre Half	
-										
-LOUGHRAN, Tommy	Inside Forward	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MITTON, Jack	Wing Half	
-										
-OAKLEY, James	Full Back	
-										
-PARKER, Charlie	Centre Half	
-										
-PATERSON, Jock	Centre Forward	
-										
-POOLE, Jack	Wing Half	
-										
-PRIOR, Jack	Winger	
-										
-REAY, Harold	Winger	
-										
-ROBINSON, Ray	Winger	
-										
-ROBSON, Ned	Goalkeeper	
-										
-STANNARD, Paul	Centre Forward	
-										
-STEWART, Duncan	Full Back	
-										
-WAGSTAFF, Tom	Inside Forward	
-										
-WHIPP, Percy	Inside Forward	
-										
-YOUNG, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDREWS, Arthur ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,41,30,0,2,1,0,0,0,0
+,"CLACK, Ted ",Winger,1,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,38,0,0,2,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,35,1,0,2,0,0,0,0,0
+,"ELLIS, Billy ",Winger,38,4,2,2,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,42,0,0,2,0,0,0,0,0
+,"FERGUSON, Robert ",Centre Half,13,0,0,2,0,0,0,0,0
+,"GILHOOLEY, Mike ",Centre Half,6,0,0,0,0,0,0,0,0
+,"HARPER, Bill ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"HAWES, Arthur ",Inside Forward,37,12,0,2,0,0,0,0,0
+,"HUNTER, George ",Wing Half,8,0,0,0,0,0,0,0,0
+,"JACKSON, Archie ",Centre Half,1,0,0,0,0,0,0,0,0
+,"KASHER, Joe ",Centre Half,4,0,0,0,0,0,0,0,0
+,"LOUGHRAN, Tommy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,9,0,0,0,0,0,0,0,0
+,"MITTON, Jack ",Wing Half,16,0,0,0,0,0,0,0,0
+,"OAKLEY, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"PARKER, Charlie ",Centre Half,39,1,0,2,0,0,0,0,0
+,"PATERSON, Jock ",Centre Forward,39,21,0,2,3,0,0,0,0
+,"POOLE, Jack ",Wing Half,37,0,0,2,0,0,0,0,0
+,"PRIOR, Jack ",Winger,6,0,0,0,0,0,0,0,0
+,"REAY, Harold ",Winger,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Ray ",Winger,0,0,0,0,0,0,0,0,0
+,"ROBSON, Ned ",Goalkeeper,32,0,0,2,0,0,0,0,0
+,"STANNARD, Paul ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"STEWART, Duncan ",Full Back,1,0,0,0,0,0,0,0,0
+,"WAGSTAFF, Tom ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WHIPP, Percy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"YOUNG, Bob ",Full Back,2,0,0,0,0,0,0,0,0

@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRRELL, Billy	Inside Forward	
-										
-BOTTRILL, Billy	Inside Forward	
-										
-BROWN, Thomas	Winger	
-										
-BUTLER, William	Winger	
-										
-CARR, George	Inside Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CLOUGH, Jack	Goalkeeper	
-										
-COCHRANE, Sandy	Inside Forward	
-										
-DAVIDSON, Stewart	Wing Half	
-										
-DAVISON, Joe	Full Back	
-										
-DONAGHY, Ted	Wing Half	
-										
-DONAGHY, Peter	Centre Forward	
-										
-DRAPER, John	Centre Forward	
-										
-ELLERINGTON, Bill	Centre Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-FAWCETT, Des	Goalkeeper	
-										
-FOX, Victor	Full Back	
-										
-HARRIS, Joe	Wing Half	
-										
-HOLMES, Walter	Full Back	
-										
-LLOYD, Eddie	Wing Half	
-										
-MARSHALL, Jock	Full Back	
-										
-MURRAY, Bill	Inside Forward	
-										
-PENDER, Robert	Wing Half	
-										
-SKULL, Frank	Wing Half	
-										
-SLADE, Charlie	Wing Half	
-										
-SMITH, Fred	Inside Forward	
-										
-URWIN, Tommy	Winger	
-										
-WEBSTER, Maurice	Central Defender	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-WILSON, Andy	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRRELL, Billy ",Inside Forward,38,9,0,3,1,0,0,0,0
+,"BOTTRILL, Billy ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"BROWN, Thomas ",Winger,1,0,0,0,0,0,0,0,0
+,"BUTLER, William ",Winger,2,0,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,13,4,0,1,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,24,2,0,3,0,0,0,0,0
+,"CLOUGH, Jack ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"COCHRANE, Sandy ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"DAVIDSON, Stewart ",Wing Half,22,0,0,2,0,0,0,0,0
+,"DAVISON, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"DONAGHY, Ted ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DONAGHY, Peter ",Centre Forward,7,2,0,0,0,0,0,0,0
+,"DRAPER, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"ELLERINGTON, Bill ",Centre Half,24,0,0,1,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,33,23,4,0,0,0,0,0,0
+,"FAWCETT, Des ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"FOX, Victor ",Full Back,37,0,0,3,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,8,0,0,0,0,0,0,0,0
+,"HOLMES, Walter ",Full Back,19,0,0,2,0,0,0,0,0
+,"LLOYD, Eddie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MARSHALL, Jock ",Full Back,23,0,0,1,0,0,0,0,0
+,"MURRAY, Bill ",Inside Forward,12,1,0,2,0,0,0,0,0
+,"PENDER, Robert ",Wing Half,33,1,0,3,0,0,0,0,0
+,"SKULL, Frank ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SLADE, Charlie ",Wing Half,20,0,0,0,0,0,0,0,0
+,"SMITH, Fred ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,37,2,0,3,0,0,0,0,0
+,"WEBSTER, Maurice ",Central Defender,23,0,0,3,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"WILSON, Andy ",Inside Forward,29,11,1,3,1,1,0,0,0

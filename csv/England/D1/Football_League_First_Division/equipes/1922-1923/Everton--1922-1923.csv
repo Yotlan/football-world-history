@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BREWSTER, George 'Dod'	Centre Half	
-										
-BROWN, William	Wing Half	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-CHEDGZOY, Sam	Winger	
-										
-COCK, Jack	Centre Forward	
-										
-DOWNS, Dickie	Full Back	
-										
-FAZACKERLEY, Stan	Inside Forward	
-										
-FERN, Tommy	Goalkeeper	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-FORBES, Fred	Inside Forward	
-										
-GRENYER, Alan	Wing Half	
-										
-HARLAND, Alfie	Goalkeeper	
-										
-HARRISON, George	Winger	
-										
-HART, Hunter	Wing Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-JEFFES, Bert	Wing Half	
-										
-JONES, George	Winger	
-										
-JONES, Tom	Full Back	
-										
-LIVINGSTONE, Duggie	Full Back	
-										
-MCBAIN, Neil	Centre Half	
-										
-MCDONALD, Jock	Full Back	
-										
-MILLER, Henry	Inside Forward	
-										
-PARRY, Frank	Winger	
-										
-PEACOCK, Joe	Wing Half	
-										
-RAITT, David	Full Back	
-										
-REID, David	Inside Forward	
-										
-TROUP, Alec	Winger	
-										
-WALL, Alec	Inside Forward	
-										
-WILLIAMS, William	Inside Forward	
-										
-YARWOOD, Jonty	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BREWSTER, George 'Dod' ",Centre Half,5,1,0,0,0,0,0,0,0
+,"BROWN, William ",Wing Half,8,0,0,2,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,27,11,2,1,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,36,5,0,2,1,0,0,0,0
+,"COCK, Jack ",Centre Forward,15,9,0,0,0,0,0,0,0
+,"DOWNS, Dickie ",Full Back,9,0,0,0,0,0,0,0,0
+,"FAZACKERLEY, Stan ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"FERN, Tommy ",Goalkeeper,25,0,0,0,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,23,0,0,2,0,0,0,0,0
+,"FORBES, Fred ",Inside Forward,10,4,0,0,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,7,1,0,0,0,0,0,0,0
+,"HARLAND, Alfie ",Goalkeeper,17,0,0,2,0,0,0,0,0
+,"HARRISON, George ",Winger,12,2,1,1,0,0,0,0,0
+,"HART, Hunter ",Wing Half,40,1,0,2,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,32,8,0,1,0,0,0,0,0
+,"JEFFES, Bert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JONES, George ",Winger,3,1,0,0,0,0,0,0,0
+,"JONES, Tom ",Full Back,0,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Duggie ",Full Back,8,0,0,2,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,15,0,0,0,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,29,0,0,0,0,0,0,0,0
+,"MILLER, Henry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"PARRY, Frank ",Winger,3,0,0,0,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,39,4,0,2,0,0,0,0,0
+,"RAITT, David ",Full Back,36,0,0,2,0,0,0,0,0
+,"REID, David ",Inside Forward,13,0,0,1,0,0,0,0,0
+,"TROUP, Alec ",Winger,17,2,0,0,0,0,0,0,0
+,"WALL, Alec ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, William ",Inside Forward,28,13,0,2,0,0,0,0,0
+,"YARWOOD, Jonty ",Full Back,0,0,0,0,0,0,0,0,0

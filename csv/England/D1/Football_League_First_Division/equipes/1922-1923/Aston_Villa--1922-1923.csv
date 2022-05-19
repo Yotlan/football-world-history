@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Tommy	Centre Half	
-										
-BARNIE-ADSHEAD, William	Centre Half	
-										
-BLACKBURN, George	Wing Half	
-										
-BRETT, Frank	Full Back	
-										
-CAPEWELL, Len	Centre Forward	
-										
-DEARN, Stephen	Wing Half	
-										
-DICKSON, Ian	Centre Forward	
-										
-DORRELL, Arthur	Winger	
-										
-GILLIBRAND, Ernest	Winger	
-										
-HARKUS, George	Central Defender	
-										
-HARRIS, Cecil	Full Back	
-										
-HOWGATE, Archie	Inside Forward	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JOHNSTONE, Jock	Wing Half	
-										
-JONES, Percy	Full Back	
-										
-KIRTON, Billy	Inside Forward	
-										
-MELLAN, David	Wing Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-PARKES, Horace	Full Back	
-										
-ROXBURGH, Jack	Winger	
-										
-SMART, Tommy	Full Back	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-STEPHENSON, George	Inside Forward	
-										
-WALKER, Billy	Inside Forward	
-										
-YORK, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Tommy ",Centre Half,35,0,0,1,0,0,0,0,0
+,"BARNIE-ADSHEAD, William ",Centre Half,2,1,0,0,0,0,0,0,0
+,"BLACKBURN, George ",Wing Half,38,0,0,1,0,0,0,0,0
+,"BRETT, Frank ",Full Back,0,0,0,0,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,17,5,0,0,0,0,0,0,0
+,"DEARN, Stephen ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DICKSON, Ian ",Centre Forward,30,7,0,1,0,0,0,0,0
+,"DORRELL, Arthur ",Winger,41,7,0,1,0,0,0,0,0
+,"GILLIBRAND, Ernest ",Winger,0,0,0,0,0,0,0,0,0
+,"HARKUS, George ",Central Defender,3,0,0,0,0,0,0,0,0
+,"HARRIS, Cecil ",Full Back,5,0,0,0,0,0,0,0,0
+,"HOWGATE, Archie ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"JOHNSTONE, Jock ",Wing Half,14,0,0,0,0,0,0,0,0
+,"JONES, Percy ",Full Back,3,0,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,31,7,0,1,0,0,0,0,0
+,"MELLAN, David ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MORT, Tommy ",Full Back,34,0,0,1,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,32,2,0,1,0,0,0,0,0
+,"PARKES, Horace ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROXBURGH, Jack ",Winger,12,3,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,42,0,0,1,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,34,0,0,1,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,40,23,4,1,0,0,0,0,0
+,"YORK, Dicky ",Winger,36,9,0,1,0,0,0,0,0

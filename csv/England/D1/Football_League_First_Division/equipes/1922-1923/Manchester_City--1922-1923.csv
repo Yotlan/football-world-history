@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jack	Full Back	
-										
-BARNES, Horace	Inside Forward	
-										
-BROWELL, Tommy	Centre Forward	
-										
-BULLOCK, Jim	Centre Forward	
-										
-CALDERWOOD, James	Full Back	
-										
-COOKSON, Sam	Full Back	
-										
-CROMPTON, Len	Goalkeeper	
-										
-DANIELS, Arthur	Winger	
-										
-DANIELS, Norman	Wing Half	
-										
-DORAN, Jack	Centre Forward	
-										
-ETHERINGTON, Robert	Winger	
-										
-FAIRBROTHER, Ronald	Centre Half	
-										
-FAYERS, Fred	Centre Half	
-										
-FLETCHER, Eli	Full Back	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HAMILL, Mickey	Wing Half	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-KELLY, Paddy	Winger	
-										
-MEREDITH, Billy	Winger	
-										
-MITCHELL, James	Goalkeeper	
-										
-MORRIS, Hugh	Winger	
-										
-MULLIGAN, Jimmy	Full Back	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-PRINGLE, Charlie	Wing Half	
-										
-ROBERTS, Frank	Centre Forward	
-										
-SHARP, Sammy	Wing Half	
-										
-THOMPSON, Frank	Full Back	
-										
-UTLEY, George	Wing Half	
-										
-WARNER, Jack	Inside Forward	
-										
-WILSON, Billy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jack ",Full Back,27,0,0,0,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,38,21,0,1,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,15,3,0,0,0,0,0,0,0
+,"BULLOCK, Jim ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"CALDERWOOD, James ",Full Back,4,0,0,0,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,25,0,0,1,0,0,0,0,0
+,"CROMPTON, Len ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DANIELS, Arthur ",Winger,10,0,0,0,0,0,0,0,0
+,"DANIELS, Norman ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DORAN, Jack ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"ETHERINGTON, Robert ",Winger,10,0,0,0,0,0,0,0,0
+,"FAIRBROTHER, Ronald ",Centre Half,0,0,0,0,0,0,0,0,0
+,"FAYERS, Fred ",Centre Half,1,0,0,0,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,5,0,0,0,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,20,0,0,0,0,0,0,0,0
+,"HAMILL, Mickey ",Wing Half,41,0,0,1,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,35,14,0,1,1,0,0,0,0
+,"KELLY, Paddy ",Winger,1,0,0,1,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"MITCHELL, James ",Goalkeeper,22,0,0,1,0,0,0,0,0
+,"MORRIS, Hugh ",Winger,26,0,0,0,0,0,0,0,0
+,"MULLIGAN, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,32,1,0,1,0,0,0,0,0
+,"PRINGLE, Charlie ",Wing Half,42,0,0,1,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,32,10,0,1,0,0,0,0,0
+,"SHARP, Sammy ",Wing Half,41,0,0,1,0,0,0,0,0
+,"THOMPSON, Frank ",Full Back,10,0,0,0,0,0,0,0,0
+,"UTLEY, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"WILSON, Billy ",Full Back,12,0,0,1,0,0,0,0,0

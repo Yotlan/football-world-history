@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1922/23
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKEN, Fergie	Winger	
-										
-BEARE, George	Winger	
-										
-BLAIR, Jimmy	Full Back	
-										
-BRITTAN, Charlie	Full Back	
-										
-CLENNELL, Joe	Inside Forward	
-										
-DAVIES, Ben	Goalkeeper	
-										
-DAVIES, Len	Inside Forward	
-										
-EVANS, Herbie	Wing Half	
-										
-EVANS, Charles	Wing Half	
-										
-EVANS, Jack	Winger	
-										
-EVANS, Sid	Winger	
-										
-FARQUHARSON, Tom	Goalkeeper	
-										
-GILL, Jimmy	Inside Forward	
-										
-GRIMSHAW, Billy	Winger	
-										
-HARDY, Billy	Wing Half	
-										
-JENKINS, Eddie	Wing Half	
-										
-JONES, Vince	Wing Half	
-										
-KEENOR, Fred	Central Defender	
-										
-KNEESHAW, Jack	Goalkeeper	
-										
-MASON, Fred	Full Back	
-										
-MCDONALD, Ken	Centre Forward	
-										
-MCGILL, Thomas	Inside Forward	
-										
-NASH, Harry	Wing Half	
-										
-NELSON, Jimmy	Full Back	
-										
-NOCK, Jack	Inside Forward	
-										
-PAGE, Jack	Full Back	
-										
-PUGSLEY, John	Wing Half	
-										
-REID, George	Centre Forward	
-										
-SMITH, Bert	Centre Half	
-										
-TAYLOR, Billy	Winger	
-										
-TURNBULL, Billy	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKEN, Fergie ",Winger,2,0,0,0,0,0,0,0,0
+,"BEARE, George ",Winger,0,0,0,0,0,0,0,0,0
+,"BLAIR, Jimmy ",Full Back,32,0,0,5,0,0,0,0,0
+,"BRITTAN, Charlie ",Full Back,13,0,0,1,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,35,14,2,5,1,0,0,0,0
+,"DAVIES, Ben ",Goalkeeper,20,0,0,4,0,0,0,0,0
+,"DAVIES, Len ",Inside Forward,27,19,0,4,3,0,0,0,0
+,"EVANS, Herbie ",Wing Half,27,0,0,4,1,0,0,0,0
+,"EVANS, Charles ",Wing Half,0,0,0,0,0,0,0,0,0
+,"EVANS, Jack ",Winger,41,1,0,5,2,2,0,0,0
+,"EVANS, Sid ",Winger,1,0,0,0,0,0,0,0,0
+,"FARQUHARSON, Tom ",Goalkeeper,21,0,0,1,0,0,0,0,0
+,"GILL, Jimmy ",Inside Forward,31,17,0,5,1,0,0,0,0
+,"GRIMSHAW, Billy ",Winger,40,6,0,5,0,0,0,0,0
+,"HARDY, Billy ",Wing Half,34,0,0,2,0,0,0,0,0
+,"JENKINS, Eddie ",Wing Half,0,0,0,1,0,0,0,0,0
+,"JONES, Vince ",Wing Half,1,0,0,0,0,0,0,0,0
+,"KEENOR, Fred ",Central Defender,38,3,0,4,0,0,0,0,0
+,"KNEESHAW, Jack ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MASON, Fred ",Full Back,1,0,0,0,0,0,0,0,0
+,"MCDONALD, Ken ",Centre Forward,7,5,0,1,0,0,0,0,0
+,"MCGILL, Thomas ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"NASH, Harry ",Wing Half,8,3,0,0,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,17,0,0,3,0,0,0,0,0
+,"NOCK, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"PAGE, Jack ",Full Back,23,0,0,1,0,0,0,0,0
+,"PUGSLEY, John ",Wing Half,0,0,0,0,0,0,0,0,0
+,"REID, George ",Centre Forward,7,4,0,0,0,0,0,0,0
+,"SMITH, Bert ",Centre Half,32,1,0,4,0,0,0,0,0
+,"TAYLOR, Billy ",Winger,1,0,0,0,0,0,0,0,0
+,"TURNBULL, Billy ",Winger,1,0,0,0,0,0,0,0,0
