@@ -1,85 +1,42 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEST, Bobby	Winger	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-CARR, Tony	Goalkeeper	
-										
-COOKE, Fred	Centre Forward	
-										
-COVERDALE, Robert	Wing Half	
-										
-CUGGY, Frank	Wing Half	
-										
-CURRAN, Andy	Centre Half	
-										
-DEMPSTER, James	Goalkeeper	
-										
-DICKINSON, Joe	Inside Forward	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-FOSTER, Jackie	Winger	
-										
-FOSTER, Bobby	Inside Forward	
-										
-GEORGE, Billy	Wing Half	
-										
-GIBSON, Jock	Full Back	
-										
-GILHESPY, Cyril	Winger	
-										
-GREGORY, Clarence	Winger	
-										
-GREGSON, Bill	Inside Forward	
-										
-HARRISON, George 'Ginger'	Wing Half	
-										
-HOBSON, Bert	Full Back	
-										
-JOHNSON, Joseph	Full Back	
-										
-KASHER, Joe	Centre Half	
-										
-MARSDEN, Billy	Wing Half	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MARTIN, Harry	Winger	
-										
-MITTON, Jack	Wing Half	
-										
-MOORE, Billy	Inside Forward	
-										
-PARKER, Charlie	Centre Half	
-										
-POOLE, Jack	Wing Half	
-										
-POWER, Geoff	Inside Forward	
-										
-RICHARDSON, George	Wing Half	
-										
-ROBINSON, Ray	Winger	
-										
-SCOTT, Leslie	Goalkeeper	
-										
-SHERWIN, Harry	Wing Half	
-										
-SHORE, Victor	Inside Forward	
-										
-TRAVERS, Barney	Centre Forward	
-										
-WATSON, Edward	Full Back	
-										
-WILLIAMS, Harry	Inside Forward	
-										
-WILSON, Charles	Wing Half	
-										
-YOUNG, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEST, Bobby ",Winger,13,1,0,0,0,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,39,27,0,1,0,0,0,0,0
+,"CARR, Tony ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"COOKE, Fred ",Centre Forward,11,4,1,0,0,0,0,0,0
+,"COVERDALE, Robert ",Wing Half,8,0,0,0,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,3,0,0,0,0,0,0,0,0
+,"CURRAN, Andy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"DEMPSTER, James ",Goalkeeper,25,0,0,1,0,0,0,0,0
+,"DICKINSON, Joe ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ELLIS, Billy ",Winger,6,0,0,0,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,34,0,0,0,0,0,0,0,0
+,"FOSTER, Jackie ",Winger,5,0,0,1,0,0,0,0,0
+,"FOSTER, Bobby ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GEORGE, Billy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"GIBSON, Jock ",Full Back,1,0,0,0,0,0,0,0,0
+,"GILHESPY, Cyril ",Winger,15,1,0,0,0,0,0,0,0
+,"GREGORY, Clarence ",Winger,1,0,0,0,0,0,0,0,0
+,"GREGSON, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HARRISON, George 'Ginger' ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HOBSON, Bert ",Full Back,36,0,0,1,0,0,0,0,0
+,"JOHNSON, Joseph ",Full Back,2,0,0,0,0,0,0,0,0
+,"KASHER, Joe ",Centre Half,27,0,0,0,0,0,0,0,0
+,"MARSDEN, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,18,7,0,0,0,0,0,0,0
+,"MARTIN, Harry ",Winger,38,2,0,1,0,0,0,0,0
+,"MITTON, Jack ",Wing Half,28,1,0,1,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,19,3,0,1,0,0,0,0,0
+,"PARKER, Charlie ",Centre Half,31,3,0,1,0,0,0,0,0
+,"POOLE, Jack ",Wing Half,26,0,0,0,0,0,0,0,0
+,"POWER, Geoff ",Inside Forward,10,0,0,0,0,0,0,0,0
+,"RICHARDSON, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Ray ",Winger,10,2,0,0,0,0,0,0,0
+,"SCOTT, Leslie ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"SHERWIN, Harry ",Wing Half,4,0,0,1,0,0,0,0,0
+,"SHORE, Victor ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"TRAVERS, Barney ",Centre Forward,16,5,0,1,0,0,0,0,0
+,"WATSON, Edward ",Full Back,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WILSON, Charles ",Wing Half,0,0,0,0,0,0,0,0,0
+,"YOUNG, Bob ",Full Back,10,0,0,1,0,0,0,0,0

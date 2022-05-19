@@ -1,77 +1,38 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BASSINDALE, Ike	Wing Half	
-										
-BELL, Peter	Winger	
-										
-BRADBURY, Bill	Wing Half	
-										
-BRAIDWOOD, Ernie	Wing Half	
-										
-BROADBENT, Billy	Wing Half	
-										
-BROMILOW, William	Goalkeeper	
-										
-BURROWS, George	Centre Forward	
-										
-BUTLER, Reuben	Centre Forward	
-										
-BYROM, Tom	Inside Forward	
-										
-CAMPBELL, Sandy	Inside Forward	
-										
-CAMPBELL, Joe	Winger	
-										
-CARLISLE, Dick	Centre Half	
-										
-CHARLTON, Stan	Full Back	
-										
-EDGE, Tommy	Winger	
-										
-FOWEATHER, Vince	Inside Forward	
-										
-FREEMAN, Reg	Full Back	
-										
-GEE, Arthur	Centre Forward	
-										
-GOODWIN, Bill	Full Back	
-										
-GRUNDY, Harry	Full Back	
-										
-HALLIGAN, Billy	Inside Forward	
-										
-HEMSLEY, Charles	Centre Forward	
-										
-HOOKER, Evan	Wing Half	
-										
-JONES, Dicky	Wing Half	
-										
-MARSHALL, Alf	Wing Half	
-										
-MARSHALL, Jimmy	Centre Forward	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-NORD, John	Winger	
-										
-PARRY, Ted	Full Back	
-										
-PATERSON, Alex	Inside Forward	
-										
-PILKINGTON, Elliot	Centre Half	
-										
-STEWART, Bob	Full Back	
-										
-TATTON, Jack	Winger	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-TAYLOR, Bill	Wing Half	
-										
-WALL, George	Winger	
-										
-WILSON, David	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BASSINDALE, Ike ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BELL, Peter ",Winger,1,0,0,0,0,0,0,0,0
+,"BRADBURY, Bill ",Wing Half,28,0,0,1,0,0,0,0,0
+,"BRAIDWOOD, Ernie ",Wing Half,9,1,0,0,0,0,0,0,0
+,"BROADBENT, Billy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"BROMILOW, William ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BURROWS, George ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"BUTLER, Reuben ",Centre Forward,33,16,2,0,0,0,0,0,0
+,"BYROM, Tom ",Inside Forward,5,0,0,0,0,0,0,0,0
+,"CAMPBELL, Sandy ",Inside Forward,25,6,0,0,0,0,0,0,0
+,"CAMPBELL, Joe ",Winger,0,0,0,0,0,0,0,0,0
+,"CARLISLE, Dick ",Centre Half,4,0,0,0,0,0,0,0,0
+,"CHARLTON, Stan ",Full Back,6,0,0,0,0,0,0,0,0
+,"EDGE, Tommy ",Winger,3,0,0,0,0,0,0,0,0
+,"FOWEATHER, Vince ",Inside Forward,5,1,0,1,0,0,0,0,0
+,"FREEMAN, Reg ",Full Back,20,0,0,0,0,0,0,0,0
+,"GEE, Arthur ",Centre Forward,19,3,0,1,0,0,0,0,0
+,"GOODWIN, Bill ",Full Back,11,0,0,0,0,0,0,0,0
+,"GRUNDY, Harry ",Full Back,17,0,0,0,0,0,0,0,0
+,"HALLIGAN, Billy ",Inside Forward,10,3,0,0,0,0,0,0,0
+,"HEMSLEY, Charles ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"HOOKER, Evan ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JONES, Dicky ",Wing Half,16,0,0,0,0,0,0,0,0
+,"MARSHALL, Alf ",Wing Half,7,0,0,0,0,0,0,0,0
+,"MARSHALL, Jimmy ",Centre Forward,31,6,0,1,1,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,26,0,0,0,0,0,0,0,0
+,"NORD, John ",Winger,1,0,0,0,0,0,0,0,0
+,"PARRY, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"PATERSON, Alex ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"PILKINGTON, Elliot ",Centre Half,34,2,0,1,0,0,0,0,0
+,"STEWART, Bob ",Full Back,12,0,0,1,0,0,0,0,0
+,"TATTON, Jack ",Winger,37,1,0,1,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,16,0,0,1,0,0,0,0,0
+,"TAYLOR, Bill ",Wing Half,16,0,0,1,0,0,0,0,0
+,"WALL, George ",Winger,34,7,1,1,0,0,0,0,0
+,"WILSON, David ",Wing Half,28,2,0,1,0,0,0,0,0

@@ -1,64 +1,31 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARCHIBALD, Jimmy	Wing Half	
-										
-BANKS, Jimmy	Inside Forward	
-										
-BARNETT, Fred	Winger	
-										
-BLISS, Bert	Inside Forward	
-										
-BROWN, Bob	Full Back	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CASTLE, Sid	Winger	
-										
-CLAY, Tommy	Full Back	
-										
-DIMMOCK, Jimmy	Winger	
-										
-FORSTER, Matt	Full Back	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HUNTER, Alex	Goalkeeper	
-										
-JACQUES, Bill	Goalkeeper	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-LINDSAY, Alex	Centre Forward	
-										
-LOWE, Harry	Centre Half	
-										
-MACDONALD, Bob	Full Back	
-										
-MCDONALD, Roy	Centre Half	
-										
-MILNE, Billy	Wing Half	
-										
-PEARSON, John	Full Back	
-										
-PURDY, Albert	Wing Half	
-										
-RANCE, Charlie	Centre Half	
-										
-SEED, Jimmy	Inside Forward	
-										
-SKINNER, Jimmy	Wing Half	
-										
-SMITH, Bert	Wing Half	
-										
-THOMPSON, Andy	Winger	
-										
-WALDEN, Fanny	Winger	
-										
-WALTERS, Charlie	Centre Half	
-										
-WILSON, Charlie	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARCHIBALD, Jimmy ",Wing Half,6,1,0,0,0,0,0,0,0
+,"BANKS, Jimmy ",Inside Forward,20,3,0,5,3,0,1,0,0
+,"BARNETT, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"BLISS, Bert ",Inside Forward,36,17,0,6,4,0,1,1,0
+,"BROWN, Bob ",Full Back,2,0,0,0,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,23,7,0,6,2,0,1,1,0
+,"CASTLE, Sid ",Winger,3,0,0,0,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,35,1,1,6,1,1,1,0,0
+,"DIMMOCK, Jimmy ",Winger,41,9,0,6,1,0,1,0,0
+,"FORSTER, Matt ",Full Back,7,0,0,0,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,38,3,0,6,0,0,1,0,0
+,"HUNTER, Alex ",Goalkeeper,11,0,0,3,0,0,1,0,0
+,"JACQUES, Bill ",Goalkeeper,30,0,0,3,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"LINDSAY, Alex ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"LOWE, Harry ",Centre Half,5,0,0,0,0,0,0,0,0
+,"MACDONALD, Bob ",Full Back,36,0,0,6,0,0,1,0,0
+,"MCDONALD, Roy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"MILNE, Billy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PEARSON, John ",Full Back,5,0,0,0,0,0,0,0,0
+,"PURDY, Albert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"RANCE, Charlie ",Centre Half,14,0,0,0,0,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,37,12,0,6,5,0,1,0,0
+,"SKINNER, Jimmy ",Wing Half,2,0,0,0,0,0,0,0,0
+,"SMITH, Bert ",Wing Half,36,3,0,6,1,0,1,0,0
+,"THOMPSON, Andy ",Winger,3,0,0,0,0,0,0,0,0
+,"WALDEN, Fanny ",Winger,22,5,0,1,1,0,0,0,0
+,"WALTERS, Charlie ",Centre Half,25,0,0,6,0,0,1,0,0
+,"WILSON, Charlie ",Centre Forward,20,9,0,0,0,0,0,0,0

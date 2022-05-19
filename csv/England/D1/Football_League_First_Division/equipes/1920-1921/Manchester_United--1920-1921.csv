@@ -1,73 +1,36 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALBINSON, George	Wing Half	
-										
-BARLOW, Cyril	Full Back	
-										
-BISSETT, George	Inside Forward	
-										
-FORSTER, Tommy	Wing Half	
-										
-GOODWIN, Billy	Centre Forward	
-										
-GRIMWOOD, Jack	Wing Half	
-										
-HARDY, John	Centre Half	
-										
-HARRIS, Frank	Wing Half	
-										
-HARRISON, Billy	Winger	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-HODGES, Frank	Winger	
-										
-HOFTON, Leslie	Full Back	
-										
-HOPKIN, Fred	Winger	
-										
-LEONARD, Harry	Centre Forward	
-										
-MEARS, Frank	Centre Forward	
-										
-MEEHAN, Tommy	Wing Half	
-										
-MEREDITH, Billy	Winger	
-										
-MEW, Jack	Goalkeeper	
-										
-MILLER, Tom	Centre Forward	
-										
-MONTGOMERY, Jim	Wing Half	
-										
-MOORE, Charlie	Full Back	
-										
-MYERSCOUGH, Joe	Inside Forward	
-										
-PARTRIDGE, Ted	Winger	
-										
-RADFORD, Charlie	Full Back	
-										
-RAINFORD, Billy	Inside Forward	
-										
-ROBINSON, James	Winger	
-										
-SAPSFORD, George	Inside Forward	
-										
-SCHOFIELD, George	Winger	
-										
-SILCOCK, Jack	Full Back	
-										
-SPENCE, Joe	Winger	
-										
-STEWARD, Alf	Goalkeeper	
-										
-TOMS, Bill	Inside Forward	
-										
-WATSON, Bert	Winger	
-										
-WILSON, Joe	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALBINSON, George ",Wing Half,0,0,0,1,0,0,0,0,0
+,"BARLOW, Cyril ",Full Back,19,0,0,1,0,0,0,0,0
+,"BISSETT, George ",Inside Forward,12,4,0,2,0,0,0,0,0
+,"FORSTER, Tommy ",Wing Half,26,0,0,1,0,0,0,0,0
+,"GOODWIN, Billy ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"GRIMWOOD, Jack ",Wing Half,25,4,0,2,0,0,0,0,0
+,"HARDY, John ",Centre Half,0,0,0,0,0,0,0,0,0
+,"HARRIS, Frank ",Wing Half,26,1,0,2,0,0,0,0,0
+,"HARRISON, Billy ",Winger,23,3,0,2,0,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,34,1,0,0,0,0,0,0,0
+,"HODGES, Frank ",Winger,2,0,0,0,0,0,0,0,0
+,"HOFTON, Leslie ",Full Back,1,0,0,1,0,0,0,0,0
+,"HOPKIN, Fred ",Winger,31,3,0,2,0,0,0,0,0
+,"LEONARD, Harry ",Centre Forward,10,5,0,0,0,0,0,0,0
+,"MEARS, Frank ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MEEHAN, Tommy ",Wing Half,15,4,0,0,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,14,1,1,0,0,0,0,0,0
+,"MEW, Jack ",Goalkeeper,40,0,0,2,0,0,0,0,0
+,"MILLER, Tom ",Centre Forward,25,7,0,2,1,0,0,0,0
+,"MONTGOMERY, Jim ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MOORE, Charlie ",Full Back,26,0,0,0,0,0,0,0,0
+,"MYERSCOUGH, Joe ",Inside Forward,13,5,0,0,0,0,0,0,0
+,"PARTRIDGE, Ted ",Winger,28,7,0,2,1,0,0,0,0
+,"RADFORD, Charlie ",Full Back,1,0,0,0,0,0,0,0,0
+,"RAINFORD, Billy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROBINSON, James ",Winger,7,2,0,0,0,0,0,0,0
+,"SAPSFORD, George ",Inside Forward,21,7,0,0,0,0,0,0,0
+,"SCHOFIELD, George ",Winger,1,0,0,0,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,37,1,1,2,0,0,0,0,0
+,"SPENCE, Joe ",Winger,15,7,0,0,0,0,0,0,0
+,"STEWARD, Alf ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"TOMS, Bill ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WATSON, Bert ",Winger,0,0,0,0,0,0,0,0,0
+,"WILSON, Joe ",Winger,0,0,0,0,0,0,0,0,0

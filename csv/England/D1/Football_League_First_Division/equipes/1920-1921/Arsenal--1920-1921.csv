@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Alf	Wing Half	
-										
-BLYTH, Billy	Inside Forward	
-										
-BRADSHAW, Frank	Inside Forward	
-										
-BUCKLEY, Chris	Centre Half	
-										
-BURGESS, Dan	Inside Forward	
-										
-BUTLER, Jack	Central Defender	
-										
-COWNLEY, Francis	Full Back	
-										
-DUNN, Stephen	Goalkeeper	
-										
-GRAHAM, Alex	Centre Half	
-										
-GROVES, Freddie	Winger	
-										
-HOPKINS, Jimmy	Inside Forward	
-										
-HUTCHINS, Arthur	Full Back	
-										
-MCKENZIE, Alexander	Inside Forward	
-										
-MCKINNON, Angus	Wing Half	
-										
-NORTH, Joe	Centre Forward	
-										
-PAGNAM, Fred	Centre Forward	
-										
-PATERSON, Jimmy	Winger	
-										
-PATTISON, George	Centre Half	
-										
-PEART, John	Full Back	
-										
-PRINGLE, Harry	Inside Forward	
-										
-ROSBOTHAM, Arthur	Inside Forward	
-										
-RUTHERFORD, Jock	Winger	
-										
-SHAW, Joe	Full Back	
-										
-SMITH, Jim	Winger	
-										
-TONER, Joe	Winger	
-										
-VOYSEY, Clem	Centre Half	
-										
-WALDEN, Harold	Centre Forward	
-										
-WHITE, Bert	Inside Forward	
-										
-WHITTAKER, Tom	Wing Half	
-										
-WILLIAMSON, Tim	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Alf ",Wing Half,37,2,1,0,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,39,7,0,1,0,0,0,0,0
+,"BRADSHAW, Frank ",Inside Forward,21,0,0,0,0,0,0,0,0
+,"BUCKLEY, Chris ",Centre Half,4,1,0,0,0,0,0,0,0
+,"BURGESS, Dan ",Inside Forward,4,0,0,0,0,0,0,0,0
+,"BUTLER, Jack ",Central Defender,6,0,0,1,0,0,0,0,0
+,"COWNLEY, Francis ",Full Back,1,0,0,0,0,0,0,0,0
+,"DUNN, Stephen ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"GRAHAM, Alex ",Centre Half,30,5,5,0,0,0,0,0,0
+,"GROVES, Freddie ",Winger,13,1,0,0,0,0,0,0,0
+,"HOPKINS, Jimmy ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"HUTCHINS, Arthur ",Full Back,39,0,0,1,0,0,0,0,0
+,"MCKENZIE, Alexander ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"MCKINNON, Angus ",Wing Half,37,2,0,1,0,0,0,0,0
+,"NORTH, Joe ",Centre Forward,8,2,0,0,0,0,0,0,0
+,"PAGNAM, Fred ",Centre Forward,25,14,0,1,0,0,0,0,0
+,"PATERSON, Jimmy ",Winger,20,0,0,0,0,0,0,0,0
+,"PATTISON, George ",Centre Half,6,0,0,0,0,0,0,0,0
+,"PEART, John ",Full Back,1,0,0,0,0,0,0,0,0
+,"PRINGLE, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"ROSBOTHAM, Arthur ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RUTHERFORD, Jock ",Winger,32,7,0,1,0,0,0,0,0
+,"SHAW, Joe ",Full Back,28,0,0,1,0,0,0,0,0
+,"SMITH, Jim ",Winger,10,1,0,0,0,0,0,0,0
+,"TONER, Joe ",Winger,12,3,0,1,0,0,0,0,0
+,"VOYSEY, Clem ",Centre Half,0,0,0,1,0,0,0,0,0
+,"WALDEN, Harold ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"WHITE, Bert ",Inside Forward,27,10,0,1,0,0,0,0,0
+,"WHITTAKER, Tom ",Wing Half,5,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,33,0,0,1,0,0,0,0,0

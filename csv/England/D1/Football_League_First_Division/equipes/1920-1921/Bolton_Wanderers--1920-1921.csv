@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BUCHAN, Tom	Wing Half	
-										
-CARTMAN, Bert	Winger	
-										
-DONALDSON, Alex	Winger	
-										
-DRABBLE, Frank	Goalkeeper	
-										
-ELVEY, John	Full Back	
-										
-FAY, Jimmy	Centre Half	
-										
-GUY, George	Centre Forward	
-										
-HERBERT, Billy	Inside Forward	
-										
-HINTON, Freddy	Goalkeeper	
-										
-HODSON, James	Full Back	
-										
-HUGHES, Joe	Goalkeeper	
-										
-JACK, David	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Jimmy	Full Back	
-										
-KIDD, Ernest	Winger	
-										
-LAWSON, Jim	Full Back	
-										
-LONGWORTH, Bruce	Wing Half	
-										
-MELLOR, Frank	Winger	
-										
-MILLS, James	Inside Forward	
-										
-MOSS, Albert	Wing Half	
-										
-ROBERTS, Frank	Centre Forward	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SMITH, Joe	Inside Forward	
-										
-VIZARD, Ted	Winger	
-										
-WALSH, Tommy 'Tot'	Centre Forward	
-										
-WATSON, Andrew	Full Back	
-										
-WRIGHT, Steve	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAVERSTOCK, Bert ",Full Back,33,0,0,1,0,0,0,0,0
+,"BUCHAN, Tom ",Wing Half,40,2,0,1,0,0,0,0,0
+,"CARTMAN, Bert ",Winger,7,0,0,0,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,26,0,0,1,0,0,0,0,0
+,"DRABBLE, Frank ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"ELVEY, John ",Full Back,3,0,0,0,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,11,0,0,1,0,0,0,0,0
+,"GUY, George ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"HERBERT, Billy ",Inside Forward,12,2,0,0,0,0,0,0,0
+,"HINTON, Freddy ",Goalkeeper,14,0,0,0,0,0,0,0,0
+,"HODSON, James ",Full Back,10,0,0,0,0,0,0,0,0
+,"HUGHES, Joe ",Goalkeeper,27,0,0,1,0,0,0,0,0
+,"JACK, David ",Inside Forward,19,4,0,1,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,18,0,0,0,0,0,0,0,0
+,"JONES, Jimmy ",Full Back,33,0,0,1,0,0,0,0,0
+,"KIDD, Ernest ",Winger,0,0,0,0,0,0,0,0,0
+,"LAWSON, Jim ",Full Back,0,0,0,0,0,0,0,0,0
+,"LONGWORTH, Bruce ",Wing Half,21,0,0,0,0,0,0,0,0
+,"MELLOR, Frank ",Winger,1,0,0,0,0,0,0,0,0
+,"MILLS, James ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MOSS, Albert ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,42,24,0,1,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,16,1,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,32,2,0,1,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,41,38,4,1,0,0,0,0,0
+,"VIZARD, Ted ",Winger,29,2,0,1,0,0,0,0,0
+,"WALSH, Tommy 'Tot' ",Centre Forward,12,1,0,0,0,0,0,0,0
+,"WATSON, Andrew ",Full Back,5,0,0,0,0,0,0,0,0
+,"WRIGHT, Steve ",Wing Half,6,0,0,0,0,0,0,0,0

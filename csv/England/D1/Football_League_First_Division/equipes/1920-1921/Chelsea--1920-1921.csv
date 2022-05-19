@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHFORD, James	Full Back	
-										
-BARRETT, Fred	Full Back	
-										
-BELL, John	Winger	
-										
-BETTRIDGE, Wally	Full Back	
-										
-CAMERON, David	Wing Half	
-										
-COCK, Jack	Centre Forward	
-										
-CROAL, Jimmy	Inside Forward	
-										
-DALE, George	Inside Forward	
-										
-DICKIE, Bill	Wing Half	
-										
-FERGUSON, Ted	Full Back	
-										
-FERRIS, Jimmy	Inside Forward	
-										
-FORD, Harry	Winger	
-										
-HALSE, Harold	Inside Forward	
-										
-HAMPTON, Colin	Goalkeeper	
-										
-HARROW, Jack	Full Back	
-										
-LANGTON, Joseph	Wing Half	
-										
-LEE, Jack	Winger	
-										
-LINFOOT, Fred	Winger	
-										
-LOGAN, Tom	Centre Half	
-										
-MCKENZIE, Kenneth	Centre Half	
-										
-MCNEIL, Bobby	Winger	
-										
-MEEHAN, Tommy	Wing Half	
-										
-MIDDELBOE, Nils	Wing Half	
-										
-MOLYNEUX, Jimmy	Goalkeeper	
-										
-PRIESTLEY, Jock	Wing Half	
-										
-SHARP, Kenny	Inside Forward	
-										
-THOMSON, Bobby	Centre Forward	
-										
-WARD, Joseph	Wing Half	
-										
-WILDING, Harry	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHFORD, James ",Full Back,4,0,0,0,0,0,0,0,0
+,"BARRETT, Fred ",Full Back,10,0,0,2,0,0,0,0,0
+,"BELL, John ",Winger,6,2,0,0,0,0,0,0,0
+,"BETTRIDGE, Wally ",Full Back,28,0,0,6,0,0,0,0,0
+,"CAMERON, David ",Wing Half,13,2,0,5,0,0,0,0,0
+,"COCK, Jack ",Centre Forward,32,12,0,6,3,0,0,0,0
+,"CROAL, Jimmy ",Inside Forward,33,7,0,6,2,0,0,0,0
+,"DALE, George ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"DICKIE, Bill ",Wing Half,7,0,0,3,0,0,0,0,0
+,"FERGUSON, Ted ",Full Back,1,0,0,0,0,0,0,0,0
+,"FERRIS, Jimmy ",Inside Forward,27,8,0,6,1,0,0,0,0
+,"FORD, Harry ",Winger,23,4,0,4,0,0,0,0,0
+,"HALSE, Harold ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"HAMPTON, Colin ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"HARROW, Jack ",Full Back,40,2,2,8,0,0,0,0,0
+,"LANGTON, Joseph ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LEE, Jack ",Winger,2,0,0,0,0,0,0,0,0
+,"LINFOOT, Fred ",Winger,13,0,0,4,0,0,0,0,0
+,"LOGAN, Tom ",Centre Half,15,0,0,0,0,0,0,0,0
+,"MCKENZIE, Kenneth ",Centre Half,3,0,0,0,0,0,0,0,0
+,"MCNEIL, Bobby ",Winger,39,6,0,8,1,0,0,0,0
+,"MEEHAN, Tommy ",Wing Half,19,0,0,4,0,0,0,0,0
+,"MIDDELBOE, Nils ",Wing Half,14,0,0,3,0,0,0,0,0
+,"MOLYNEUX, Jimmy ",Goalkeeper,36,0,0,8,0,0,0,0,0
+,"PRIESTLEY, Jock ",Wing Half,1,0,0,0,0,0,0,0,0
+,"SHARP, Kenny ",Inside Forward,8,0,0,3,1,0,0,0,0
+,"THOMSON, Bobby ",Centre Forward,13,2,0,2,0,0,0,0,0
+,"WARD, Joseph ",Wing Half,12,0,0,2,0,0,0,0,0
+,"WILDING, Harry ",Centre Half,40,3,0,8,1,0,0,0,0

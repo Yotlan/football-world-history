@@ -1,72 +1,35 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLEN, Jack	Full Back	
-										
-BARNES, Horace	Inside Forward	
-										
-BRENNAN, Jack	Wing Half	
-										
-BROAD, Tommy	Winger	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CARROLL, Frank	Inside Forward	
-										
-CARTWRIGHT, Joe	Winger	
-										
-COOKSON, Sam	Full Back	
-										
-CRAWSHAW, Dick	Inside Forward	
-										
-EDELSTON, Joe	Wing Half	
-										
-FAYERS, Fred	Centre Half	
-										
-FLETCHER, Eli	Full Back	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-GOODWIN, Ernest	Winger	
-										
-GRAY, George	Wing Half	
-										
-HAMILL, Mickey	Wing Half	
-										
-HORROCKS, Harry	Inside Forward	
-										
-JARVIS, Harold	Wing Half	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-JOHNSTONE, John	Centre Forward	
-										
-KELLY, Paddy	Winger	
-										
-LEYLAND, John	Centre Half	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-SCOTT, Sid	Centre Half	
-										
-SHARP, Harry	Winger	
-										
-SHARP, Sammy	Wing Half	
-										
-STANSFIELD, Jimmy	Full Back	
-										
-TAYLOR, Harry	Inside Forward	
-										
-THOMPSON, Jimmy	Winger	
-										
-TYLER, Herbert	Centre Half	
-										
-WARNER, Jack	Inside Forward	
-										
-WOODCOCK, Wilf	Inside Forward	
-										
-WOOSNAM, Max	Centre Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLEN, Jack ",Full Back,7,0,0,0,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,41,17,0,1,0,0,0,0,0
+,"BRENNAN, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"BROAD, Tommy ",Winger,23,0,0,1,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,42,31,3,1,0,0,0,0,0
+,"CARROLL, Frank ",Inside Forward,12,0,0,1,0,0,0,0,0
+,"CARTWRIGHT, Joe ",Winger,2,0,0,0,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,42,0,0,1,0,0,0,0,0
+,"CRAWSHAW, Dick ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"EDELSTON, Joe ",Wing Half,6,0,0,0,0,0,0,0,0
+,"FAYERS, Fred ",Centre Half,40,5,0,1,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,35,0,0,1,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,42,0,0,1,0,0,0,0,0
+,"GOODWIN, Ernest ",Winger,5,1,0,0,0,0,0,0,0
+,"GRAY, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HAMILL, Mickey ",Wing Half,28,0,0,0,0,0,0,0,0
+,"HORROCKS, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JARVIS, Harold ",Wing Half,1,0,0,0,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,12,5,0,0,0,0,0,0,0
+,"JOHNSTONE, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"KELLY, Paddy ",Winger,13,0,0,0,0,0,0,0,0
+,"LEYLAND, John ",Centre Half,1,0,0,0,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,40,8,0,1,0,0,0,0,0
+,"SCOTT, Sid ",Centre Half,2,0,0,0,0,0,0,0,0
+,"SHARP, Harry ",Winger,0,0,0,0,0,0,0,0,0
+,"SHARP, Sammy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"STANSFIELD, Jimmy ",Full Back,0,0,0,0,0,0,0,0,0
+,"TAYLOR, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"THOMPSON, Jimmy ",Winger,2,0,0,0,0,0,0,0,0
+,"TYLER, Herbert ",Centre Half,3,0,0,1,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"WOODCOCK, Wilf ",Inside Forward,13,2,0,0,0,0,0,0,0
+,"WOOSNAM, Max ",Centre Half,34,0,0,1,0,0,0,0,0

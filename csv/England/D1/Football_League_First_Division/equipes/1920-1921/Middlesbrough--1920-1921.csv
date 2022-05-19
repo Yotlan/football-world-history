@@ -1,67 +1,33 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BIRRELL, Billy	Inside Forward	
-										
-BROWN, Thomas	Winger	
-										
-CARR, George	Inside Forward	
-										
-CARR, Jackie	Inside Forward	
-										
-CARR, Willie	Centre Half	
-										
-CHIPPERFIELD, Frank	Wing Half	
-										
-CLARK, Wally	Winger	
-										
-DAVIDSON, Nichol	Inside Forward	
-										
-DAVIDSON, Stewart	Wing Half	
-										
-DIXON, Charlie	Full Back	
-										
-DONAGHY, John	Winger	
-										
-DONAGHY, Peter	Centre Forward	
-										
-DOWSON, Frank	Wing Half	
-										
-ELLERINGTON, Bill	Centre Half	
-										
-ELLIOTT, George	Centre Forward	
-										
-FOX, Victor	Full Back	
-										
-GALLAGHER, Jim	Full Back	
-										
-HARRIS, John	Winger	
-										
-HASTIE, John	Winger	
-										
-HOLMES, Walter	Full Back	
-										
-JENNINGS, Sam	Inside Forward	
-										
-MARSHALL, Jock	Full Back	
-										
-MORDUE, Jackie	Winger	
-										
-NEWCOMB, Lem	Wing Half	
-										
-PENDER, Robert	Wing Half	
-										
-POULTON, Jerry	Inside Forward	
-										
-TINSLEY, Walter	Inside Forward	
-										
-URWIN, Tommy	Winger	
-										
-WALKER, Jock	Full Back	
-										
-WILLIAMSON, Tim	Goalkeeper	
-										
-YOUNG, Ernie	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BIRRELL, Billy ",Inside Forward,14,2,0,0,0,0,0,0,0
+,"BROWN, Thomas ",Winger,4,0,0,0,0,0,0,0,0
+,"CARR, George ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"CARR, Jackie ",Inside Forward,38,4,0,1,0,0,0,0,0
+,"CARR, Willie ",Centre Half,32,2,0,1,0,0,0,0,0
+,"CHIPPERFIELD, Frank ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CLARK, Wally ",Winger,5,0,0,1,0,0,0,0,0
+,"DAVIDSON, Nichol ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DAVIDSON, Stewart ",Wing Half,37,0,0,1,0,0,0,0,0
+,"DIXON, Charlie ",Full Back,1,0,0,0,0,0,0,0,0
+,"DONAGHY, John ",Winger,0,0,0,0,0,0,0,0,0
+,"DONAGHY, Peter ",Centre Forward,10,0,0,0,0,0,0,0,0
+,"DOWSON, Frank ",Wing Half,7,2,0,0,0,0,0,0,0
+,"ELLERINGTON, Bill ",Centre Half,34,1,0,1,0,0,0,0,0
+,"ELLIOTT, George ",Centre Forward,36,26,2,1,0,0,0,0,0
+,"FOX, Victor ",Full Back,7,0,0,0,0,0,0,0,0
+,"GALLAGHER, Jim ",Full Back,1,0,0,0,0,0,0,0,0
+,"HARRIS, John ",Winger,0,0,0,0,0,0,0,0,0
+,"HASTIE, John ",Winger,1,0,0,0,0,0,0,0,0
+,"HOLMES, Walter ",Full Back,40,0,0,1,0,0,0,0,0
+,"JENNINGS, Sam ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"MARSHALL, Jock ",Full Back,36,0,0,1,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,19,1,0,0,0,0,0,0,0
+,"NEWCOMB, Lem ",Wing Half,0,0,0,0,0,0,0,0,0
+,"PENDER, Robert ",Wing Half,18,3,0,0,0,0,0,0,0
+,"POULTON, Jerry ",Inside Forward,14,5,0,1,0,0,0,0,0
+,"TINSLEY, Walter ",Inside Forward,12,2,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,39,3,0,1,0,0,0,0,0
+,"WALKER, Jock ",Full Back,2,0,0,0,0,0,0,0,0
+,"WILLIAMSON, Tim ",Goalkeeper,42,0,0,1,0,0,0,0,0
+,"YOUNG, Ernie ",Centre Forward,1,0,0,0,0,0,0,0,0

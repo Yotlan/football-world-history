@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENSON, George	Winger	
-										
-BIBBY, Joe	Full Back	
-										
-COPITCH, Bill	Inside Forward	
-										
-DAWSON, Percy	Centre Forward	
-										
-DONNELLY, Jim	Full Back	
-										
-DUCKWORTH, Fred	Full Back	
-										
-HAWKSWORTH, Ernest	Inside Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HEATON, Tommy	Wing Half	
-										
-HODGSON, Fred	Full Back	
-										
-HODKINSON, Joe	Winger	
-										
-HOLLAND, Peter	Inside Forward	
-										
-KERR, John	Wing Half	
-										
-MCCALL, Willie	Winger	
-										
-MCDONALD, John	Inside Forward	
-										
-MCKINNELL, Jimmy	Wing Half	
-										
-RALPHS, Bert	Winger	
-										
-REILLY, Frank	Centre Half	
-										
-ROBINSON, Alfred	Goalkeeper	
-										
-ROBINSON, Pat	Winger	
-										
-RODGERS, Norman	Inside Forward	
-										
-ROLLO, Dave	Full Back	
-										
-SANDHAM, William	Inside Forward	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SKINNER, George	Wing Half	
-										
-THORPE, Levy	Wing Half	
-										
-WATSON, William	Wing Half	
-										
-WEBSTER, Maurice	Central Defender	
-										
-WYLIE, Tom	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENSON, George ",Winger,0,0,0,0,0,0,0,0,0
+,"BIBBY, Joe ",Full Back,8,0,0,0,0,0,0,0,0
+,"COPITCH, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DAWSON, Percy ",Centre Forward,33,17,1,2,1,0,0,0,0
+,"DONNELLY, Jim ",Full Back,8,0,0,2,0,0,0,0,0
+,"DUCKWORTH, Fred ",Full Back,25,0,0,2,0,0,0,0,0
+,"HAWKSWORTH, Ernest ",Inside Forward,37,14,0,2,0,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,11,2,1,0,0,0,0,0,0
+,"HEATON, Tommy ",Wing Half,29,0,0,2,0,0,0,0,0
+,"HODGSON, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,39,2,0,2,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,18,6,0,1,0,0,0,0,0
+,"KERR, John ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MCCALL, Willie ",Winger,7,0,0,0,0,0,0,0,0
+,"MCDONALD, John ",Inside Forward,16,4,0,2,0,0,0,0,0
+,"MCKINNELL, Jimmy ",Wing Half,10,0,0,1,0,0,0,0,0
+,"RALPHS, Bert ",Winger,16,2,0,0,0,0,0,0,0
+,"REILLY, Frank ",Centre Half,38,2,0,2,0,0,0,0,0
+,"ROBINSON, Alfred ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Pat ",Winger,18,2,0,0,0,0,0,0,0
+,"RODGERS, Norman ",Inside Forward,6,2,0,0,0,0,0,0,0
+,"ROLLO, Dave ",Full Back,31,2,2,0,0,0,0,0,0
+,"SANDHAM, William ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,41,0,0,2,0,0,0,0,0
+,"SKINNER, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"THORPE, Levy ",Wing Half,42,1,0,2,0,0,0,0,0
+,"WATSON, William ",Wing Half,11,0,0,0,0,0,0,0,0
+,"WEBSTER, Maurice ",Central Defender,0,0,0,0,0,0,0,0,0
+,"WYLIE, Tom ",Full Back,12,0,0,0,0,0,0,0,0

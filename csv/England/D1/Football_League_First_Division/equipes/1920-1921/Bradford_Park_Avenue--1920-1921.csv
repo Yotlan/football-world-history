@@ -1,53 +1,26 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARNETT, Laurie	Full Back	
-										
-BATTEN, Jock	Inside Forward	
-										
-BAUCHOP, Jimmy	Inside Forward	
-										
-BINGHAM, Sam	Winger	
-										
-BLACKHAM, Sam	Full Back	
-										
-BROWN, Tommy	Wing Half	
-										
-BURKINSHAW, Jack	Wing Half	
-										
-CROZIER, Joe	Wing Half	
-										
-CURTIS, Tom	Full Back	
-										
-DICKINSON, Wally	Full Back	
-										
-HARTLES, Wilf	Winger	
-										
-HOWIE, David	Centre Half	
-										
-HOWLING, Teddy	Goalkeeper	
-										
-KEETLEY, Tom	Centre Forward	
-										
-LITTLE, Tommy	Inside Forward	
-										
-LLOYD, Evan	Centre Forward	
-										
-LOUGHRAN, Tommy	Inside Forward	
-										
-MCCANDLESS, Jack	Winger	
-										
-MCLEAN, David	Centre Forward	
-										
-NICHOLSON, Horace	Wing Half	
-										
-PEEL, Harold	Inside Forward	
-										
-SCATTERGOOD, Ernie	Goalkeeper	
-										
-SCOTT, Jack	Wing Half	
-										
-TURNBULL, Bobby	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARNETT, Laurie ",Full Back,17,0,0,0,0,0,0,0,0
+,"BATTEN, Jock ",Inside Forward,18,5,0,1,0,0,0,0,0
+,"BAUCHOP, Jimmy ",Inside Forward,35,4,0,2,0,0,0,0,0
+,"BINGHAM, Sam ",Winger,7,0,0,0,0,0,0,0,0
+,"BLACKHAM, Sam ",Full Back,32,0,0,2,0,0,0,0,0
+,"BROWN, Tommy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"BURKINSHAW, Jack ",Wing Half,23,2,0,2,1,0,0,0,0
+,"CROZIER, Joe ",Wing Half,30,0,0,1,0,0,0,0,0
+,"CURTIS, Tom ",Full Back,9,0,0,0,0,0,0,0,0
+,"DICKINSON, Wally ",Full Back,42,0,0,2,0,0,0,0,0
+,"HARTLES, Wilf ",Winger,2,1,0,0,0,0,0,0,0
+,"HOWIE, David ",Centre Half,39,1,0,2,0,0,0,0,0
+,"HOWLING, Teddy ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"KEETLEY, Tom ",Centre Forward,8,1,0,1,0,0,0,0,0
+,"LITTLE, Tommy ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"LLOYD, Evan ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LOUGHRAN, Tommy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"MCCANDLESS, Jack ",Winger,34,2,0,1,0,0,0,0,0
+,"MCLEAN, David ",Centre Forward,40,22,0,2,0,0,0,0,0
+,"NICHOLSON, Horace ",Wing Half,3,0,0,0,0,0,0,0,0
+,"PEEL, Harold ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SCATTERGOOD, Ernie ",Goalkeeper,41,0,0,2,0,0,0,0,0
+,"SCOTT, Jack ",Wing Half,27,1,0,2,0,0,0,0,0
+,"TURNBULL, Bobby ",Winger,35,4,0,2,0,0,0,0,0

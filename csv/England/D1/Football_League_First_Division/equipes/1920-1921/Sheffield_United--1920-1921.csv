@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BALL, Jack	Inside Forward	
-										
-BEAUMONT, Percy	Centre Half	
-										
-BENNETT, William	Inside Forward	
-										
-BLACKWELL, Ernest	Goalkeeper	
-										
-BOLAM, Bob	Winger	
-										
-BRELSFORD, Bill	Wing Half	
-										
-BROWN, Fred	Inside Forward	
-										
-CAMMACK, Francis	Winger	
-										
-COOK, Bill	Full Back	
-										
-COULE, John	Centre Forward	
-										
-FAZACKERLEY, Stan	Inside Forward	
-										
-FURNISS, Sam	Wing Half	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GOUGH, Harold	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-JOHNSON, Harry	Centre Forward	
-										
-KITCHEN, Joe	Centre Forward	
-										
-MCCOURT, Jimmy	Centre Half	
-										
-MERCER, Dave	Winger	
-										
-MILTON, Ernest	Full Back	
-										
-NASH, Bert	Winger	
-										
-NAYLOR, Bernard	Winger	
-										
-PANTLING, Harry	Wing Half	
-										
-PLANT, Jim	Wing Half	
-										
-RAWSON, Albert	Centre Forward	
-										
-SAMPY, Tommy	Wing Half	
-										
-SAVAGE, Harry	Winger	
-										
-STURGESS, Albert	Wing Half	
-										
-THOMPSON, Jack	Winger	
-										
-TUNSTALL, Fred	Winger	
-										
-UTLEY, George	Wing Half	
-										
-WILSON, Charlie	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BALL, Jack ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"BEAUMONT, Percy ",Centre Half,14,1,0,1,0,0,0,0,0
+,"BENNETT, William ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BLACKWELL, Ernest ",Goalkeeper,15,0,0,0,0,0,0,0,0
+,"BOLAM, Bob ",Winger,17,1,0,1,0,0,0,0,0
+,"BRELSFORD, Bill ",Wing Half,30,0,0,0,0,0,0,0,0
+,"BROWN, Fred ",Inside Forward,20,3,0,1,0,0,0,0,0
+,"CAMMACK, Francis ",Winger,6,0,0,0,0,0,0,0,0
+,"COOK, Bill ",Full Back,21,0,0,1,0,0,0,0,0
+,"COULE, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"FAZACKERLEY, Stan ",Inside Forward,10,1,0,0,0,0,0,0,0
+,"FURNISS, Sam ",Wing Half,3,0,0,0,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,33,4,0,1,0,0,0,0,0
+,"GOUGH, Harold ",Goalkeeper,27,0,0,1,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,6,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,31,12,0,0,0,0,0,0,0
+,"KITCHEN, Joe ",Centre Forward,13,3,0,1,0,0,0,0,0
+,"MCCOURT, Jimmy ",Centre Half,7,0,0,0,0,0,0,0,0
+,"MERCER, Dave ",Winger,19,3,2,1,0,0,0,0,0
+,"MILTON, Ernest ",Full Back,33,1,1,1,0,0,0,0,0
+,"NASH, Bert ",Winger,0,0,0,0,0,0,0,0,0
+,"NAYLOR, Bernard ",Winger,3,0,0,0,0,0,0,0,0
+,"PANTLING, Harry ",Wing Half,31,0,0,1,0,0,0,0,0
+,"PLANT, Jim ",Wing Half,13,0,0,1,0,0,0,0,0
+,"RAWSON, Albert ",Centre Forward,4,3,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,11,4,0,0,0,0,0,0,0
+,"SAVAGE, Harry ",Winger,10,0,0,0,0,0,0,0,0
+,"STURGESS, Albert ",Wing Half,31,0,0,0,0,0,0,0,0
+,"THOMPSON, Jack ",Winger,5,0,0,0,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,24,4,0,0,0,0,0,0,0
+,"UTLEY, George ",Wing Half,23,2,2,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,0,0,0,0,0,0,0,0,0

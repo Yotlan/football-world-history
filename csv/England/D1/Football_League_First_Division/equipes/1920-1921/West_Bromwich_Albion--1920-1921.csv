@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Billy	Full Back	
-										
-ASHMORE, George	Goalkeeper	
-										
-BEDFORD, Lew	Winger	
-										
-BENTLEY, Alf	Centre Forward	
-										
-BLOOD, Bobby	Centre Forward	
-										
-BOWSER, Sid	Centre Half	
-										
-CLARK, Benjamin	Winger	
-										
-COOK, Arthur	Full Back	
-										
-CRISP, Jack	Winger	
-										
-GREGORY, Howard	Winger	
-										
-HATTON, Sid	Wing Half	
-										
-IRWIN, George	Goalkeeper	
-										
-JAMES, Roly	Wing Half	
-										
-JEPHCOTT, Claude	Winger	
-										
-LEA, Alfred	Centre Forward	
-										
-LONG, Billy	Winger	
-										
-MAGEE, Tommy	Wing Half	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MORRIS, Fred	Inside Forward	
-										
-NEWALL, Tommy	Wing Half	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-SMITH, Alfred	Centre Forward	
-										
-SMITH, Joe	Full Back	
-										
-TAYLOR, Harry	Centre Forward	
-										
-TAYLOR, Billy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Billy ",Full Back,7,0,0,0,0,0,0,0,0
+,"ASHMORE, George ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"BEDFORD, Lew ",Winger,2,0,0,0,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,18,3,0,1,0,0,0,0,0
+,"BLOOD, Bobby ",Centre Forward,15,7,1,0,0,0,0,0,0
+,"BOWSER, Sid ",Centre Half,40,6,5,1,0,0,0,0,0
+,"CLARK, Benjamin ",Winger,1,0,0,0,0,0,0,0,0
+,"COOK, Arthur ",Full Back,4,0,0,1,0,0,0,0,0
+,"CRISP, Jack ",Winger,27,5,0,1,0,0,0,0,0
+,"GREGORY, Howard ",Winger,29,3,0,1,0,0,0,0,0
+,"HATTON, Sid ",Wing Half,4,0,0,0,0,0,0,0,0
+,"IRWIN, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"JAMES, Roly ",Wing Half,8,4,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,31,0,0,0,0,0,0,0,0
+,"LEA, Alfred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LONG, Billy ",Winger,2,0,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,37,1,0,1,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,37,16,1,1,0,0,0,0,0
+,"NEWALL, Tommy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,35,0,0,1,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,33,0,0,0,0,0,0,0,0
+,"REED, Fred ",Centre Half,1,0,0,0,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,38,0,0,1,0,0,0,0,0
+,"SMITH, Alfred ",Centre Forward,28,7,0,1,0,0,0,0,0
+,"SMITH, Joe ",Full Back,40,0,0,1,0,0,0,0,0
+,"TAYLOR, Harry ",Centre Forward,9,2,0,0,0,0,0,0,0
+,"TAYLOR, Billy ",Winger,0,0,0,0,0,0,0,0,0

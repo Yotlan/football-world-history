@@ -1,71 +1,35 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARCHER, Frederick	Inside Forward	
-										
-BALL, Tommy	Centre Half	
-										
-BARSON, Frank	Centre Half	
-										
-BELL, Albert	Full Back	
-										
-BLACKBURN, George	Wing Half	
-										
-BLACKBURN, Ernie	Full Back	
-										
-BOURNE, Hubert	Inside Forward	
-										
-BOYMAN, William	Centre Forward	
-										
-DICKSON, Ian	Centre Forward	
-										
-DORRELL, Arthur	Winger	
-										
-DUCAT, Andy	Wing Half	
-										
-HAMPSON, John	Centre Half	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-HUMPHRIES, Howard	Inside Forward	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-KIRTON, Billy	Inside Forward	
-										
-LEACH, Jimmy	Wing Half	
-										
-LEE, Jimmy	Goalkeeper	
-										
-MOSS, Frank	Wing Half	
-										
-PRICE, Lew	Winger	
-										
-REID, Dave	Wing Half	
-										
-SMART, Tommy	Full Back	
-										
-SPIERS, Cyril	Goalkeeper	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-STEPHENSON, Jimmy	Winger	
-										
-THOMPSON, Jack	Full Back	
-										
-WALKER, Billy	Inside Forward	
-										
-WALLACE, Charlie	Winger	
-										
-WESTON, Tommy	Full Back	
-										
-WRIGHT, Edmund	Goalkeeper	
-										
-YORK, Dicky	Winger	
-										
-YOUNG, Andrew	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARCHER, Frederick ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BALL, Tommy ",Centre Half,13,0,0,0,0,0,0,0,0
+,"BARSON, Frank ",Centre Half,29,2,1,5,0,0,0,0,0
+,"BELL, Albert ",Full Back,0,0,0,0,0,0,0,0,0
+,"BLACKBURN, George ",Wing Half,5,0,0,0,0,0,0,0,0
+,"BLACKBURN, Ernie ",Full Back,4,0,0,0,0,0,0,0,0
+,"BOURNE, Hubert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BOYMAN, William ",Centre Forward,10,3,0,0,0,0,0,0,0
+,"DICKSON, Ian ",Centre Forward,8,2,0,0,0,0,0,0,0
+,"DORRELL, Arthur ",Winger,34,4,0,5,0,0,0,0,0
+,"DUCAT, Andy ",Wing Half,24,0,0,5,0,0,0,0,0
+,"HAMPSON, John ",Centre Half,6,0,0,0,0,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,25,0,0,5,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,20,0,0,3,0,0,0,0,0
+,"HUMPHRIES, Howard ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"KIRTON, Billy ",Inside Forward,31,7,0,5,0,0,0,0,0
+,"LEACH, Jimmy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"LEE, Jimmy ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,32,1,0,4,0,0,0,0,0
+,"PRICE, Lew ",Winger,8,0,0,0,0,0,0,0,0
+,"REID, Dave ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,37,0,0,5,0,0,0,0,0
+,"SPIERS, Cyril ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,21,8,2,5,1,1,0,0,0
+,"STEPHENSON, Jimmy ",Winger,15,1,0,1,0,0,0,0,0
+,"THOMPSON, Jack ",Full Back,9,0,0,2,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,37,27,0,5,4,0,0,0,0
+,"WALLACE, Charlie ",Winger,18,1,0,4,0,0,0,0,0
+,"WESTON, Tommy ",Full Back,28,0,0,1,0,0,0,0,0
+,"WRIGHT, Edmund ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"YORK, Dicky ",Winger,11,1,0,0,0,0,0,0,0
+,"YOUNG, Andrew ",Centre Forward,13,5,0,0,0,0,0,0,0

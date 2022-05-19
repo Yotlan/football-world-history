@@ -1,57 +1,28 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Joe	Centre Forward	
-										
-BASNETT, Alf	Wing Half	
-										
-BIRCHENOUGH, Frank	Goalkeeper	
-										
-BOYLE, Tommy	Centre Half	
-										
-BROPHY, Tom	Full Back	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DOUGLAS, George	Winger	
-										
-EDGAR, Dave	Winger	
-										
-FREEMAN, Bert	Centre Forward	
-										
-HALLEY, George	Wing Half	
-										
-JONES, Cliff	Full Back	
-										
-KELLY, Bob	Inside Forward	
-										
-LANE, Jack	Inside Forward	
-										
-LINDSAY, James	Inside Forward	
-										
-MCGRORY, Bob	Full Back	
-										
-MOORWOOD, Len	Goalkeeper	
-										
-MOSSCROP, Eddie	Winger	
-										
-NESBITT, Billy	Winger	
-										
-SMELT, Len	Full Back	
-										
-SMELT, Tom	Inside Forward	
-										
-TAYLOR, David	Full Back	
-										
-TAYLOR, Bill	Wing Half	
-										
-WATSON, Billy	Wing Half	
-										
-WEAVER, Walter	Winger	
-										
-WOODWARD, Fred	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Joe ",Centre Forward,41,25,0,2,6,0,1,0,0
+,"BASNETT, Alf ",Wing Half,15,0,0,0,0,0,1,0,0
+,"BIRCHENOUGH, Frank ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Centre Half,38,7,3,3,0,0,1,0,0
+,"BROPHY, Tom ",Full Back,3,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,37,14,0,3,1,0,1,0,0
+,"DAWSON, Jerry ",Goalkeeper,39,0,0,3,0,0,1,0,0
+,"DOUGLAS, George ",Winger,2,0,0,0,0,0,0,0,0
+,"EDGAR, Dave ",Winger,0,0,0,0,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,3,0,0,1,0,0,0,0,0
+,"HALLEY, George ",Wing Half,26,0,0,2,0,0,0,0,0
+,"JONES, Cliff ",Full Back,31,0,0,3,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,37,20,0,3,3,0,1,0,0
+,"LANE, Jack ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"LINDSAY, James ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"MCGRORY, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"MOORWOOD, Len ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MOSSCROP, Eddie ",Winger,14,1,0,2,0,0,1,0,0
+,"NESBITT, Billy ",Winger,40,5,0,3,0,0,1,0,0
+,"SMELT, Len ",Full Back,39,0,0,3,0,0,1,0,0
+,"SMELT, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"TAYLOR, David ",Full Back,11,0,0,0,0,0,1,0,0
+,"TAYLOR, Bill ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,42,2,2,3,0,0,1,0,0
+,"WEAVER, Walter ",Winger,27,2,0,2,0,0,0,0,0
+,"WOODWARD, Fred ",Wing Half,0,0,0,0,0,0,0,0,0

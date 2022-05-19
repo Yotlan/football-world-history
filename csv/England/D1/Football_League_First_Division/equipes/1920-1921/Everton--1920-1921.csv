@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Howard	Goalkeeper	
-										
-BLAIR, John	Centre Forward	
-										
-BREWSTER, George 'Dod'	Centre Half	
-										
-BROWN, William	Wing Half	
-										
-CHEDGZOY, Sam	Winger	
-										
-CLENNELL, Joe	Inside Forward	
-										
-CROSSLEY, Charlie	Inside Forward	
-										
-DAVIES, Stan	Centre Forward	
-										
-DOWNS, Dickie	Full Back	
-										
-FARE, Harry	Full Back	
-										
-FARRAR, Peter	Wing Half	
-										
-FAZACKERLEY, Stan	Inside Forward	
-										
-FERN, Tommy	Goalkeeper	
-										
-FLEETWOOD, Tommy	Centre Half	
-										
-GARRATT, John	Wing Half	
-										
-GRENYER, Alan	Wing Half	
-										
-GUTTRIDGE, George	Centre Half	
-										
-HARRISON, George	Winger	
-										
-JONES, George	Winger	
-										
-KIRSOPP, Billy	Inside Forward	
-										
-LIVINGSTONE, Alan	Inside Forward	
-										
-MCDONALD, Jock	Full Back	
-										
-MOFFAT, Andy	Centre Forward	
-										
-PARKER, Bobby	Centre Forward	
-										
-PEACOCK, Joe	Wing Half	
-										
-REID, David	Inside Forward	
-										
-STROUD, William	Full Back	
-										
-THOMPSON, Bob	Full Back	
-										
-WALL, Alec	Inside Forward	
-										
-WELLER, Louis	Full Back	
-										
-YOUNG, Bert	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Howard ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"BLAIR, John ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"BREWSTER, George 'Dod' ",Centre Half,29,0,0,4,1,0,0,0,0
+,"BROWN, William ",Wing Half,10,0,0,0,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,35,5,0,5,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"CROSSLEY, Charlie ",Inside Forward,35,15,0,5,3,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,10,4,0,2,1,0,0,0,0
+,"DOWNS, Dickie ",Full Back,40,0,0,5,0,0,0,0,0
+,"FARE, Harry ",Full Back,0,0,0,0,0,0,0,0,0
+,"FARRAR, Peter ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FAZACKERLEY, Stan ",Inside Forward,20,8,0,5,0,0,0,0,0
+,"FERN, Tommy ",Goalkeeper,40,0,0,5,0,0,0,0,0
+,"FLEETWOOD, Tommy ",Centre Half,39,1,0,4,0,0,0,0,0
+,"GARRATT, John ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GRENYER, Alan ",Wing Half,23,1,0,1,0,0,0,0,0
+,"GUTTRIDGE, George ",Centre Half,0,0,0,0,0,0,0,0,0
+,"HARRISON, George ",Winger,38,8,0,5,0,0,0,0,0
+,"JONES, George ",Winger,7,0,0,0,0,0,0,0,0
+,"KIRSOPP, Billy ",Inside Forward,13,5,0,0,0,0,0,0,0
+,"LIVINGSTONE, Alan ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,39,0,0,5,0,0,0,0,0
+,"MOFFAT, Andy ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"PARKER, Bobby ",Centre Forward,17,11,0,2,1,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,28,3,0,2,0,0,0,0,0
+,"REID, David ",Inside Forward,21,5,0,0,0,0,0,0,0
+,"STROUD, William ",Full Back,0,0,0,0,0,0,0,0,0
+,"THOMPSON, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"WALL, Alec ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WELLER, Louis ",Full Back,9,0,0,4,0,0,0,0,0
+,"YOUNG, Bert ",Winger,0,0,0,0,0,0,0,0,0

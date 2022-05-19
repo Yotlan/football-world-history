@@ -1,75 +1,37 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, Thomas	Centre Forward	
-										
-BARRINGTON, Jimmy	Full Back	
-										
-BOND, Dickie	Winger	
-										
-BOOCOCK, Irvine	Full Back	
-										
-BROWN, Bob	Winger	
-										
-COOK, Charlie	Winger	
-										
-DELLOW, Stan	Full Back	
-										
-DOWNEY, Alf	Wing Half	
-										
-DUCKETT, Don	Wing Half	
-										
-EWART, Jock	Goalkeeper	
-										
-FOX, Oscar	Inside Forward	
-										
-HANDLEY, George	Winger	
-										
-HARGREAVES, Joe	Wing Half	
-										
-HEATH, Ernie	Goalkeeper	
-										
-HEBDEN, Jack	Full Back	
-										
-HEPPLE, Robert	Winger	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HOWSON, Billy	Inside Forward	
-										
-LINDLEY, Dick	Inside Forward	
-										
-LOGAN, Peter	Winger	
-										
-LYNCH, Walter	Centre Half	
-										
-MARSH, Joe	Inside Forward	
-										
-MARSHALL, Jimmy	Centre Forward	
-										
-MCILVENNY, Jimmy	Inside Forward	
-										
-NORTON, Horace	Inside Forward	
-										
-POTTS, Fred	Full Back	
-										
-RAMSBOTTOM, Thomas	Full Back	
-										
-RIGBY, Arthur	Winger	
-										
-STORER, Charlie	Centre Half	
-										
-WADDELL, George	Wing Half	
-										
-WADDINGTON, Abe	Goalkeeper	
-										
-WAKEFIELD, George	Wing Half	
-										
-WALKER, Bob	Full Back	
-										
-WILD, Bob	Wing Half	
-										
-WILKINSON, Algy	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, Thomas ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"BARRINGTON, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"BOND, Dickie ",Winger,30,9,2,2,1,1,0,0,0
+,"BOOCOCK, Irvine ",Full Back,41,0,0,2,0,0,0,0,0
+,"BROWN, Bob ",Winger,0,0,0,0,0,0,0,0,0
+,"COOK, Charlie ",Winger,5,0,0,1,0,0,0,0,0
+,"DELLOW, Stan ",Full Back,0,0,0,0,0,0,0,0,0
+,"DOWNEY, Alf ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DUCKETT, Don ",Wing Half,32,0,0,2,0,0,0,0,0
+,"EWART, Jock ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"FOX, Oscar ",Inside Forward,21,7,0,0,0,0,0,0,0
+,"HANDLEY, George ",Winger,3,0,0,1,0,0,0,0,0
+,"HARGREAVES, Joe ",Wing Half,38,4,1,0,0,0,0,0,0
+,"HEATH, Ernie ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"HEBDEN, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"HEPPLE, Robert ",Winger,3,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,29,13,0,2,0,0,0,0,0
+,"HOWSON, Billy ",Inside Forward,29,10,0,2,1,0,0,0,0
+,"LINDLEY, Dick ",Inside Forward,15,4,0,0,0,0,0,0,0
+,"LOGAN, Peter ",Winger,24,2,0,0,0,0,0,0,0
+,"LYNCH, Walter ",Centre Half,4,0,0,0,0,0,0,0,0
+,"MARSH, Joe ",Inside Forward,10,2,0,2,1,0,0,0,0
+,"MARSHALL, Jimmy ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"MCILVENNY, Jimmy ",Inside Forward,31,4,0,1,0,0,0,0,0
+,"NORTON, Horace ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"POTTS, Fred ",Full Back,39,0,0,2,0,0,0,0,0
+,"RAMSBOTTOM, Thomas ",Full Back,0,0,0,0,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,13,1,0,0,0,0,0,0,0
+,"STORER, Charlie ",Centre Half,36,2,0,2,0,0,0,0,0
+,"WADDELL, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"WADDINGTON, Abe ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WAKEFIELD, George ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WALKER, Bob ",Full Back,1,0,0,0,0,0,0,0,0
+,"WILD, Bob ",Wing Half,1,0,0,1,0,0,0,0,0
+,"WILKINSON, Algy ",Goalkeeper,4,0,0,0,0,0,0,0,0

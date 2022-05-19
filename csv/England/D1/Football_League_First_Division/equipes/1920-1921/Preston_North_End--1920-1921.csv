@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1920/21
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Tom	Goalkeeper	
-										
-BROADHURST, Fred	Full Back	
-										
-CAUSER, Arthur	Goalkeeper	
-										
-CROFT, Harry	Inside Forward	
-										
-DAVIES, Stan	Centre Forward	
-										
-DAWSON, George	Wing Half	
-										
-DOOLAN, Sandy	Full Back	
-										
-DUXBURY, Tom	Wing Half	
-										
-ELLIOTT, John	Goalkeeper	
-										
-GREATOREX, Billy	Full Back	
-										
-GREEN, James	Winger	
-										
-GREEN, Tommy 'Toby'	Winger	
-										
-HAMILTON, Tommy	Full Back	
-										
-HOLLAND, Jack	Inside Forward	
-										
-HOSKER, John	Inside Forward	
-										
-JEFFERIS, Frank	Inside Forward	
-										
-KNIGHT, John	Winger	
-										
-LEES, Jack	Full Back	
-										
-MARQUIS, Fred	Inside Forward	
-										
-MARSHALL, Jack	Centre Half	
-										
-MCCALL, Joe	Centre Half	
-										
-MERCER, Billy	Wing Half	
-										
-MITCHELL, James	Goalkeeper	
-										
-QUINN, Peter	Winger	
-										
-RAWLINGS, Archie	Winger	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-SHARKEY, Bernard	Inside Forward	
-										
-SLOANE, Joe	Goalkeeper	
-										
-SPEAK, George	Full Back	
-										
-WADDELL, George	Wing Half	
-										
-WILCOCK, George	Goalkeeper	
-										
-WOODHOUSE, Roland	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Tom ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BROADHURST, Fred ",Full Back,8,0,0,0,0,0,0,0,0
+,"CAUSER, Arthur ",Goalkeeper,26,0,0,4,0,0,0,0,0
+,"CROFT, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,13,7,0,0,0,0,0,0,0
+,"DAWSON, George ",Wing Half,9,0,0,0,0,0,0,0,0
+,"DOOLAN, Sandy ",Full Back,31,0,0,6,0,0,0,0,0
+,"DUXBURY, Tom ",Wing Half,4,0,0,0,0,0,0,0,0
+,"ELLIOTT, John ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"GREATOREX, Billy ",Full Back,7,0,0,0,0,0,0,0,0
+,"GREEN, James ",Winger,3,0,0,0,0,0,0,0,0
+,"GREEN, Tommy 'Toby' ",Winger,1,0,0,0,0,0,0,0,0
+,"HAMILTON, Tommy ",Full Back,14,0,0,0,0,0,0,0,0
+,"HOLLAND, Jack ",Inside Forward,4,0,0,2,0,0,0,0,0
+,"HOSKER, John ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"JEFFERIS, Frank ",Inside Forward,34,5,0,6,1,0,0,0,0
+,"KNIGHT, John ",Winger,2,0,0,1,0,0,0,0,0
+,"LEES, Jack ",Full Back,11,0,0,0,0,0,0,0,0
+,"MARQUIS, Fred ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MARSHALL, Jack ",Centre Half,7,0,0,0,0,0,0,0,0
+,"MCCALL, Joe ",Centre Half,33,1,0,6,0,0,0,0,0
+,"MERCER, Billy ",Wing Half,31,0,0,6,0,0,0,0,0
+,"MITCHELL, James ",Goalkeeper,5,0,0,2,0,0,0,0,0
+,"QUINN, Peter ",Winger,35,7,0,6,0,0,0,0,0
+,"RAWLINGS, Archie ",Winger,42,6,0,6,1,1,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,35,17,0,6,7,0,0,0,0
+,"SHARKEY, Bernard ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SLOANE, Joe ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SPEAK, George ",Full Back,24,0,0,6,0,0,0,0,0
+,"WADDELL, George ",Wing Half,32,2,0,6,0,0,0,0,0
+,"WILCOCK, George ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"WOODHOUSE, Roland ",Inside Forward,34,15,0,3,1,0,0,0,0
