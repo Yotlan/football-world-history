@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANN, Bill	Full Back	
-										
-BRITTON, Jack	Goalkeeper	
-										
-CLAY, Tommy	Full Back	
-										
-DIMMOCK, Jimmy	Winger	
-										
-ELKES, Jack	Inside Forward	
-										
-FORSTER, Matt	Full Back	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-HANDLEY, Charlie	Winger	
-										
-HARGREAVES, Harry	Inside Forward	
-										
-HINTON, Freddy	Goalkeeper	
-										
-KAINE, Bill	Goalkeeper	
-										
-LANE, Billy	Centre Forward	
-										
-LINDSAY, Alex	Centre Forward	
-										
-LOWE, Harry	Centre Half	
-										
-OSBORNE, Frank	Centre Forward	
-										
-ROE, Tommy	Inside Forward	
-										
-SAGE, Billy	Wing Half	
-										
-SEED, Jimmy	Inside Forward	
-										
-SKINNER, Jimmy	Wing Half	
-										
-SKITT, Harry	Central Defender	
-										
-SMITH, Bert	Wing Half	
-										
-SMITH, Jimmy	Goalkeeper	
-										
-THOMPSON, Andy	Winger	
-										
-WALTERS, Charlie	Centre Half	
-										
-WHITE, Sid	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANN, Bill ",Full Back,8,0,0,0,0,0,0,0,0
+,"BRITTON, Jack ",Goalkeeper,9,0,0,0,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,34,2,2,3,0,0,0,0,0
+,"DIMMOCK, Jimmy ",Winger,40,14,0,3,3,0,0,0,0
+,"ELKES, Jack ",Inside Forward,31,11,0,3,0,0,0,0,0
+,"FORSTER, Matt ",Full Back,42,0,0,3,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,13,0,0,0,0,0,0,0,0
+,"HANDLEY, Charlie ",Winger,2,0,0,0,0,0,0,0,0
+,"HARGREAVES, Harry ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"HINTON, Freddy ",Goalkeeper,15,0,0,2,0,0,0,0,0
+,"KAINE, Bill ",Goalkeeper,11,0,0,1,0,0,0,0,0
+,"LANE, Billy ",Centre Forward,5,0,0,0,0,0,0,0,0
+,"LINDSAY, Alex ",Centre Forward,24,2,0,3,1,0,0,0,0
+,"LOWE, Harry ",Centre Half,2,0,0,0,0,0,0,0,0
+,"OSBORNE, Frank ",Centre Forward,39,25,0,1,2,0,0,0,0
+,"ROE, Tommy ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"SAGE, Billy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"SEED, Jimmy ",Inside Forward,30,6,0,2,0,0,0,0,0
+,"SKINNER, Jimmy ",Wing Half,17,0,0,1,0,0,0,0,0
+,"SKITT, Harry ",Central Defender,35,0,0,3,0,0,0,0,0
+,"SMITH, Bert ",Wing Half,38,0,0,3,0,0,0,0,0
+,"SMITH, Jimmy ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"THOMPSON, Andy ",Winger,35,4,0,3,1,0,0,0,0
+,"WALTERS, Charlie ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WHITE, Sid ",Wing Half,10,0,0,2,0,0,0,0,0

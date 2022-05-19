@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASHURST, Bill	Full Back	
-										
-BARRY, Len	Winger	
-										
-COPE, Horace	Full Back	
-										
-CORNWELL, Ralph	Full Back	
-										
-CROPPER, Reg	Inside Forward	
-										
-DALY, Joe	Winger	
-										
-DAVIS, Arthur	Inside Forward	
-										
-DINSDALE, Norman	Centre Half	
-										
-FLINT, Billy	Wing Half	
-										
-HARRIS, Neil	Centre Forward	
-										
-HILLS, Walter	Wing Half	
-										
-HILTON, Fred	Wing Half	
-										
-IREMONGER, Albert	Goalkeeper	
-										
-KELLY, Peter	Inside Forward	
-										
-KEMP, Haydn	Wing Half	
-										
-MILLS, Paddy	Centre Forward	
-										
-PRICE, Lew	Winger	
-										
-SMITH, George	Full Back	
-										
-SMITH, William	Full Back	
-										
-STANIFORTH, Chris	Centre Forward	
-										
-STREETS, George	Goalkeeper	
-										
-SULLIVAN, Jim	Centre Forward	
-										
-TAYLOR, George	Winger	
-										
-WIDDOWSON, Alf	Inside Forward	
-										
-WREN, Jack	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASHURST, Bill ",Full Back,19,0,0,1,0,0,0,0,0
+,"BARRY, Len ",Winger,41,1,0,3,0,0,0,0,0
+,"COPE, Horace ",Full Back,23,2,1,0,0,0,0,0,0
+,"CORNWELL, Ralph ",Full Back,9,0,0,0,0,0,0,0,0
+,"CROPPER, Reg ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DALY, Joe ",Winger,7,2,0,0,0,0,0,0,0
+,"DAVIS, Arthur ",Inside Forward,36,14,0,3,0,0,0,0,0
+,"DINSDALE, Norman ",Centre Half,39,1,0,3,0,0,0,0,0
+,"FLINT, Billy ",Wing Half,23,1,0,2,0,0,0,0,0
+,"HARRIS, Neil ",Centre Forward,22,7,0,3,2,0,0,0,0
+,"HILLS, Walter ",Wing Half,0,0,0,1,0,0,0,0,0
+,"HILTON, Fred ",Wing Half,29,0,0,2,0,0,0,0,0
+,"IREMONGER, Albert ",Goalkeeper,34,0,0,3,0,0,0,0,0
+,"KELLY, Peter ",Inside Forward,14,2,0,0,0,0,0,0,0
+,"KEMP, Haydn ",Wing Half,27,0,0,2,0,0,0,0,0
+,"MILLS, Paddy ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"PRICE, Lew ",Winger,1,0,0,0,0,0,0,0,0
+,"SMITH, George ",Full Back,16,0,0,1,0,0,0,0,0
+,"SMITH, William ",Full Back,17,1,1,3,0,0,0,0,0
+,"STANIFORTH, Chris ",Centre Forward,21,6,0,0,0,0,0,0,0
+,"STREETS, George ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"SULLIVAN, Jim ",Centre Forward,9,7,0,2,0,0,0,0,0
+,"TAYLOR, George ",Winger,35,1,0,3,1,0,0,0,0
+,"WIDDOWSON, Alf ",Inside Forward,20,7,0,1,1,0,0,0,0
+,"WREN, Jack ",Wing Half,9,0,0,0,0,0,0,0,0

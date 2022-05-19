@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMS, Billy	Full Back	
-										
-ASHMORE, George	Goalkeeper	
-										
-BAUGH, Dicky	Full Back	
-										
-BYERS, Jack	Winger	
-										
-CARTER, Joe	Inside Forward	
-										
-CHAMBERS, Bill	Inside Forward	
-										
-DARNELL, Len	Wing Half	
-										
-DAVIES, Stan	Centre Forward	
-										
-DUTTON, Harry	Wing Half	
-										
-EVANS, Joseph	Centre Half	
-										
-FINCH, Bob	Full Back	
-										
-FITTON, Arthur	Winger	
-										
-GLIDDEN, Tommy	Winger	
-										
-JAMES, George	Centre Forward	
-										
-JONES, Ivor	Inside Forward	
-										
-LITTLEWOOD, George	Full Back	
-										
-MAGEE, Tommy	Wing Half	
-										
-MULCAHY, Patrick	Inside Forward	
-										
-PERRY, Arthur	Full Back	
-										
-REED, Fred	Centre Half	
-										
-RICHARDSON, Sammy	Wing Half	
-										
-ROOKE, Edward	Centre Half	
-										
-SMITH, Joe	Full Back	
-										
-SPENCER, James	Winger	
-										
-SPROSON, Thomas	Goalkeeper	
-										
-WILSON, Charlie	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMS, Billy ",Full Back,12,0,0,2,0,0,0,0,0
+,"ASHMORE, George ",Goalkeeper,40,0,0,2,0,0,0,0,0
+,"BAUGH, Dicky ",Full Back,32,0,0,1,0,0,0,0,0
+,"BYERS, Jack ",Winger,23,3,0,2,1,0,0,0,0
+,"CARTER, Joe ",Inside Forward,37,14,0,2,2,0,0,0,0
+,"CHAMBERS, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"DARNELL, Len ",Wing Half,2,0,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,26,19,2,1,0,0,0,0,0
+,"DUTTON, Harry ",Wing Half,29,1,0,2,0,0,0,0,0
+,"EVANS, Joseph ",Centre Half,1,0,0,0,0,0,0,0,0
+,"FINCH, Bob ",Full Back,5,0,0,0,0,0,0,0,0
+,"FITTON, Arthur ",Winger,19,2,0,0,0,0,0,0,0
+,"GLIDDEN, Tommy ",Winger,37,6,2,2,2,1,0,0,0
+,"JAMES, George ",Centre Forward,28,12,0,2,0,0,0,0,0
+,"JONES, Ivor ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"LITTLEWOOD, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"MAGEE, Tommy ",Wing Half,20,1,0,1,0,0,0,0,0
+,"MULCAHY, Patrick ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PERRY, Arthur ",Full Back,9,0,0,0,0,0,0,0,0
+,"REED, Fred ",Centre Half,39,2,0,2,0,0,0,0,0
+,"RICHARDSON, Sammy ",Wing Half,36,0,0,1,0,0,0,0,0
+,"ROOKE, Edward ",Centre Half,5,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Full Back,26,0,0,1,0,0,0,0,0
+,"SPENCER, James ",Winger,1,0,0,0,0,0,0,0,0
+,"SPROSON, Thomas ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"WILSON, Charlie ",Inside Forward,30,17,2,1,0,0,0,0,0

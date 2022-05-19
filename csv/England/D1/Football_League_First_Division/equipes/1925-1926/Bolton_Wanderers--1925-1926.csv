@@ -1,71 +1,35 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMSTRONG, Wally	Centre Forward	
-										
-BAGGETT, Bill	Inside Forward	
-										
-BOSTON, Harry	Winger	
-										
-BUTLER, Billy	Winger	
-										
-COPE, John	Wing Half	
-										
-DAVIES, Idwal	Centre Forward	
-										
-EATOCK, Tom	Winger	
-										
-FINNEY, Alex	Full Back	
-										
-FITTON, Fred	Centre Forward	
-										
-FORBES, Jimmy	Centre Half	
-										
-GORE, Tommy	Centre Half	
-										
-GREENHALGH, Harry	Full Back	
-										
-HAWORTH, Bob	Full Back	
-										
-HOWARTH, Nelson	Wing Half	
-										
-JACK, David	Inside Forward	
-										
-JACK, Rollo	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, John	Winger	
-										
-MORTIMER, Bob	Centre Forward	
-										
-NUTTALL, Harry	Wing Half	
-										
-PICKEN, Albert	Winger	
-										
-PYM, Dick	Goalkeeper	
-										
-ROBERTS, Les	Inside Forward	
-										
-ROUND, Jack	Central Defender	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SHAW, James	Inside Forward	
-										
-SLATER, Frank	Winger	
-										
-SMITH, Joe	Inside Forward	
-										
-SMITH, John	Centre Forward	
-										
-THORNBOROUGH, Ernie	Wing Half	
-										
-VIZARD, Ted	Winger	
-										
-WAGSTAFF, James	Full Back	
-										
-YATES, Bill	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMSTRONG, Wally ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"BAGGETT, Bill ",Inside Forward,19,8,0,3,1,0,0,0,0
+,"BOSTON, Harry ",Winger,10,1,0,2,1,0,0,0,0
+,"BUTLER, Billy ",Winger,32,5,0,7,2,0,0,0,0
+,"COPE, John ",Wing Half,19,0,0,3,0,0,0,0,0
+,"DAVIES, Idwal ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"EATOCK, Tom ",Winger,1,0,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,5,0,0,2,0,0,0,0,0
+,"FITTON, Fred ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"FORBES, Jimmy ",Centre Half,2,0,0,0,0,0,0,0,0
+,"GORE, Tommy ",Centre Half,0,0,0,0,0,0,0,0,0
+,"GREENHALGH, Harry ",Full Back,17,0,0,5,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,39,0,0,9,0,0,0,0,0
+,"HOWARTH, Nelson ",Wing Half,9,1,0,0,0,0,0,0,0
+,"JACK, David ",Inside Forward,37,14,0,7,5,0,0,0,0
+,"JACK, Rollo ",Inside Forward,7,4,0,1,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,29,0,0,4,0,0,0,0,0
+,"JONES, John ",Winger,2,0,0,0,0,0,0,0,0
+,"MORTIMER, Bob ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,22,0,0,6,0,0,0,0,0
+,"PICKEN, Albert ",Winger,3,0,0,0,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,39,0,0,9,0,0,0,0,0
+,"ROBERTS, Les ",Inside Forward,4,2,0,0,0,0,0,0,0
+,"ROUND, Jack ",Central Defender,10,0,0,1,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,29,0,0,8,0,0,0,0,0
+,"SHAW, James ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SLATER, Frank ",Winger,0,0,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,36,15,6,8,6,2,0,0,0
+,"SMITH, John ",Centre Forward,22,12,0,8,4,0,0,0,0
+,"THORNBOROUGH, Ernie ",Wing Half,23,0,0,7,0,0,0,0,0
+,"VIZARD, Ted ",Winger,38,13,0,9,0,0,0,0,0
+,"WAGSTAFF, James ",Full Back,4,0,0,0,0,0,0,0,0
+,"YATES, Bill ",Goalkeeper,3,0,0,0,0,0,0,0,0

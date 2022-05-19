@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRAYSHAW, Wally	Inside Forward	
-										
-CAMPBELL, Austen	Wing Half	
-										
-CRAWFORD, Jock	Goalkeeper	
-										
-CRISP, Jack	Winger	
-										
-DIXON, Stan	Centre Half	
-										
-FORREST, James	Full Back	
-										
-HAMPSON, Tommy	Goalkeeper	
-										
-HARPER, Ted	Centre Forward	
-										
-HEALLESS, Harry	Wing Half	
-										
-HOLLAND, Peter	Inside Forward	
-										
-HOPE, Phil	Full Back	
-										
-HULME, Joe	Winger	
-										
-JONES, Herbert	Full Back	
-										
-MCCLEERY, Billy	Inside Forward	
-										
-MCINTYRE, Johnny	Inside Forward	
-										
-MCKAY, Jock	Inside Forward	
-										
-MCKINNELL, Jimmy	Wing Half	
-										
-MITCHELL, Tommy	Winger	
-										
-PUDDEFOOT, Syd	Inside Forward	
-										
-RIGBY, Arthur	Winger	
-										
-ROLLO, Dave	Full Back	
-										
-ROSCAMP, Jack	Wing Half	
-										
-ROXBURGH, Robert	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-SMAILES, Matt	Centre Half	
-										
-WALTER, Joe	Winger	
-										
-WYLIE, Tom	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRAYSHAW, Wally ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"CAMPBELL, Austen ",Wing Half,34,2,0,2,0,0,0,0,0
+,"CRAWFORD, Jock ",Goalkeeper,18,0,0,1,0,0,0,0,0
+,"CRISP, Jack ",Winger,19,6,0,2,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,3,1,0,2,2,0,0,0,0
+,"FORREST, James ",Full Back,9,0,0,0,0,0,0,0,0
+,"HAMPSON, Tommy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"HARPER, Ted ",Centre Forward,37,43,6,3,1,0,0,0,0
+,"HEALLESS, Harry ",Wing Half,33,1,0,3,0,0,0,0,0
+,"HOLLAND, Peter ",Inside Forward,3,2,0,1,1,0,0,0,0
+,"HOPE, Phil ",Full Back,3,0,0,2,0,0,0,0,0
+,"HULME, Joe ",Winger,20,2,0,1,0,0,0,0,0
+,"JONES, Herbert ",Full Back,17,0,0,0,0,0,0,0,0
+,"MCCLEERY, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Inside Forward,35,3,0,3,0,0,0,0,0
+,"MCKAY, Jock ",Inside Forward,11,1,0,0,0,0,0,0,0
+,"MCKINNELL, Jimmy ",Wing Half,6,0,0,0,0,0,0,0,0
+,"MITCHELL, Tommy ",Winger,15,5,0,0,0,0,0,0,0
+,"PUDDEFOOT, Syd ",Inside Forward,37,10,0,1,0,0,0,0,0
+,"RIGBY, Arthur ",Winger,42,13,0,3,2,0,0,0,0
+,"ROLLO, Dave ",Full Back,37,0,0,1,0,0,0,0,0
+,"ROSCAMP, Jack ",Wing Half,29,1,0,3,0,0,0,0,0
+,"ROXBURGH, Robert ",Full Back,17,0,0,3,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,24,0,0,2,0,0,0,0,0
+,"SMAILES, Matt ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WALTER, Joe ",Winger,2,0,0,0,0,0,0,0,0
+,"WYLIE, Tom ",Full Back,1,0,0,0,0,0,0,0,0

@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAIN, David	Wing Half	
-										
-BATTEN, Bert	Inside Forward	
-										
-BROAD, Jimmy	Centre Forward	
-										
-BROWN, William	Wing Half	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-CHEDGZOY, Sam	Winger	
-										
-DEAN, Bill 'Dixie'	Centre Forward	
-										
-HARDY, Harry	Goalkeeper	
-										
-HARLAND, Alfie	Goalkeeper	
-										
-HART, Hunter	Wing Half	
-										
-IRVINE, Bobby	Inside Forward	
-										
-KENDALL, Jack	Goalkeeper	
-										
-KENNEDY, Fred	Inside Forward	
-										
-KERR, Jasper	Full Back	
-										
-LIVINGSTONE, Duggie	Full Back	
-										
-MCBAIN, Neil	Centre Half	
-										
-MCDONALD, Jock	Full Back	
-										
-MENHAM, Charles	Goalkeeper	
-										
-MURRAY, David	Inside Forward	
-										
-O'DONNELL, Jack	Full Back	
-										
-PARRY, Frank	Winger	
-										
-PEACOCK, Joe	Wing Half	
-										
-RAITT, David	Full Back	
-										
-RAND, Jack	Inside Forward	
-										
-REID, David	Inside Forward	
-										
-TROUP, Alec	Winger	
-										
-VIRR, Albert	Wing Half	
-										
-WEAVER, Walter	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAIN, David ",Wing Half,23,0,0,2,0,0,0,0,0
+,"BATTEN, Bert ",Inside Forward,11,1,0,0,0,0,0,0,0
+,"BROAD, Jimmy ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"BROWN, William ",Wing Half,28,0,0,0,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"CHEDGZOY, Sam ",Winger,38,7,0,2,0,0,0,0,0
+,"DEAN, Bill 'Dixie' ",Centre Forward,38,32,0,2,1,0,0,0,0
+,"HARDY, Harry ",Goalkeeper,27,0,0,2,0,0,0,0,0
+,"HARLAND, Alfie ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"HART, Hunter ",Wing Half,26,0,0,0,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,31,8,0,2,0,0,0,0,0
+,"KENDALL, Jack ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"KENNEDY, Fred ",Inside Forward,19,8,0,0,0,0,0,0,0
+,"KERR, Jasper ",Full Back,1,0,0,0,0,0,0,0,0
+,"LIVINGSTONE, Duggie ",Full Back,5,0,0,0,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,10,1,0,0,0,0,0,0,0
+,"MCDONALD, Jock ",Full Back,37,0,0,2,0,0,0,0,0
+,"MENHAM, Charles ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"MURRAY, David ",Inside Forward,2,1,0,0,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,27,5,0,2,0,0,0,0,0
+,"PARRY, Frank ",Winger,1,0,0,0,0,0,0,0,0
+,"PEACOCK, Joe ",Wing Half,18,1,0,2,0,0,0,0,0
+,"RAITT, David ",Full Back,30,0,0,2,0,0,0,0,0
+,"RAND, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"REID, David ",Inside Forward,11,0,0,0,0,0,0,0,0
+,"TROUP, Alec ",Winger,38,6,0,2,0,0,0,0,0
+,"VIRR, Albert ",Wing Half,16,0,0,2,0,0,0,0,0
+,"WEAVER, Walter ",Winger,4,1,0,0,0,0,0,0,0

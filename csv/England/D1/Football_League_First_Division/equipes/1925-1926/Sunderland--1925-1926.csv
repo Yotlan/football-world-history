@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDREWS, Arthur	Wing Half	
-										
-CLUNAS, Billy	Wing Half	
-										
-COGLIN, Steve	Inside Forward	
-										
-COXFORD, Jack	Central Defender	
-										
-CRESSWELL, Warney	Full Back	
-										
-DEATH, Billy	Winger	
-										
-DITCHBURN, Jock	Wing Half	
-										
-DOW, Hugh	Full Back	
-										
-ELLIS, Billy	Winger	
-										
-ENGLAND, Ernie	Full Back	
-										
-GRIMSHAW, Billy	Winger	
-										
-GURNEY, Bobby	Centre Forward	
-										
-HALLIDAY, Dave	Centre Forward	
-										
-HAWES, Arthur	Inside Forward	
-										
-HENDERSON, George	Central Defender	
-										
-HEYES, Jack	Inside Forward	
-										
-HODGSON, John	Full Back	
-										
-ISHERWOOD, Harry	Full Back	
-										
-KELLY, Bob	Inside Forward	
-										
-LIGHTBODY, John	Centre Forward	
-										
-LLOYD, Tommy	Full Back	
-										
-MAIDMENT, Tom	Inside Forward	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MCGORIAN, Ike	Wing Half	
-										
-MCINROY, Albert	Goalkeeper	
-										
-OAKLEY, James	Full Back	
-										
-PARKER, Charlie	Centre Half	
-										
-PEGG, Frank	Winger	
-										
-PRIOR, Jack	Winger	
-										
-RAMSAY, Stan	Full Back	
-										
-STONEHAM, John	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDREWS, Arthur ",Wing Half,28,0,0,3,0,0,0,0,0
+,"CLUNAS, Billy ",Wing Half,38,9,7,3,0,0,0,0,0
+,"COGLIN, Steve ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"COXFORD, Jack ",Central Defender,7,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,37,0,0,4,0,0,0,0,0
+,"DEATH, Billy ",Winger,18,5,0,3,2,0,0,0,0
+,"DITCHBURN, Jock ",Wing Half,1,0,0,0,0,0,0,0,0
+,"DOW, Hugh ",Full Back,0,0,0,0,0,0,0,0,0
+,"ELLIS, Billy ",Winger,24,7,0,1,0,0,0,0,0
+,"ENGLAND, Ernie ",Full Back,36,0,0,4,0,0,0,0,0
+,"GRIMSHAW, Billy ",Winger,13,3,0,0,0,0,0,0,0
+,"GURNEY, Bobby ",Centre Forward,6,4,0,0,0,0,0,0,0
+,"HALLIDAY, Dave ",Centre Forward,42,38,0,4,4,0,0,0,0
+,"HAWES, Arthur ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"HENDERSON, George ",Central Defender,5,0,0,0,0,0,0,0,0
+,"HEYES, Jack ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HODGSON, John ",Full Back,0,0,0,0,0,0,0,0,0
+,"ISHERWOOD, Harry ",Full Back,0,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,23,7,0,4,4,0,0,0,0
+,"LIGHTBODY, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LLOYD, Tommy ",Full Back,2,0,0,0,0,0,0,0,0
+,"MAIDMENT, Tom ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,36,6,0,4,3,0,0,0,0
+,"MCGORIAN, Ike ",Wing Half,13,1,0,2,0,0,0,0,0
+,"MCINROY, Albert ",Goalkeeper,31,0,0,3,0,0,0,0,0
+,"OAKLEY, James ",Full Back,9,0,0,0,0,0,0,0,0
+,"PARKER, Charlie ",Centre Half,30,1,0,4,0,0,0,0,0
+,"PEGG, Frank ",Winger,1,0,0,0,0,0,0,0,0
+,"PRIOR, Jack ",Winger,28,8,0,4,1,0,0,0,0
+,"RAMSAY, Stan ",Full Back,8,2,0,0,0,0,0,0,0
+,"STONEHAM, John ",Goalkeeper,11,0,0,1,0,0,0,0,0

@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ADAMSON, Tommy	Full Back	
-										
-AMOS, Wally	Winger	
-										
-BALL, Jack	Inside Forward	
-										
-BRADSHAW, Tom	Central Defender	
-										
-BROOKS, George	Wing Half	
-										
-BULLOCK, Norman	Centre Forward	
-										
-CHAMBERS, Jimmy	Winger	
-										
-DAVIES, Jack	Goalkeeper	
-										
-FINNEY, Arthur	Central Defender	
-										
-GALE, Arthur	Winger	
-										
-HARRISON, Billy	Goalkeeper	
-										
-HEAP, Fred	Full Back	
-										
-HUGHES, Joe	Centre Forward	
-										
-MATTHEWS, Cyril	Winger	
-										
-MERCER, Arthur	Inside Forward	
-										
-PORTER, Jimmy	Wing Half	
-										
-RICHARDSON, Billy	Goalkeeper	
-										
-ROBBIE, David	Winger	
-										
-ROSE, Billy	Inside Forward	
-										
-SMITH, Fred	Full Back	
-										
-STAGE, Billy	Inside Forward	
-										
-THOMPSON, Bob	Centre Forward	
-										
-TURNER, Bill	Wing Half	
-										
-WARD, Frank	Full Back	
-										
-WILSON, Norman	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ADAMSON, Tommy ",Full Back,37,0,0,3,0,0,0,0,0
+,"AMOS, Wally ",Winger,41,17,0,3,0,0,0,0,0
+,"BALL, Jack ",Inside Forward,40,14,1,3,2,0,0,0,0
+,"BRADSHAW, Tom ",Central Defender,42,2,0,3,0,0,0,0,0
+,"BROOKS, George ",Wing Half,9,0,0,0,0,0,0,0,0
+,"BULLOCK, Norman ",Centre Forward,41,31,1,2,1,0,0,0,0
+,"CHAMBERS, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"DAVIES, Jack ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"FINNEY, Arthur ",Central Defender,1,0,0,0,0,0,0,0,0
+,"GALE, Arthur ",Winger,5,2,0,0,0,0,0,0,0
+,"HARRISON, Billy ",Goalkeeper,11,0,0,2,0,0,0,0,0
+,"HEAP, Fred ",Full Back,42,0,0,3,0,0,0,0,0
+,"HUGHES, Joe ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"MATTHEWS, Cyril ",Winger,21,5,2,3,2,1,0,0,0
+,"MERCER, Arthur ",Inside Forward,11,3,0,0,0,0,0,0,0
+,"PORTER, Jimmy ",Wing Half,21,0,0,3,1,0,0,0,0
+,"RICHARDSON, Billy ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"ROBBIE, David ",Winger,22,4,0,0,0,0,0,0,0
+,"ROSE, Billy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SMITH, Fred ",Full Back,5,0,0,0,0,0,0,0,0
+,"STAGE, Billy ",Inside Forward,27,7,0,3,0,0,0,0,0
+,"THOMPSON, Bob ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"TURNER, Bill ",Wing Half,29,0,0,3,0,0,0,0,0
+,"WARD, Frank ",Full Back,10,0,0,0,0,0,0,0,0
+,"WILSON, Norman ",Wing Half,13,0,0,0,0,0,0,0,0

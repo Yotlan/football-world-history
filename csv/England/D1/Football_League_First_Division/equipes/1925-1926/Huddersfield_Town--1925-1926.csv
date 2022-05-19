@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BINKS, Sid	Centre Forward	
-										
-BROWN, George	Centre Forward	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-COOK, Billy	Inside Forward	
-										
-DENNIS, Harold	Winger	
-										
-DEVLIN, Bill	Centre Forward	
-										
-GOODALL, Roy	Full Back	
-										
-GRAY, Alec	Inside Forward	
-										
-HOBSON, George	Wing Half	
-										
-JACKSON, Alex	Winger	
-										
-MERCER, Billy	Goalkeeper	
-										
-RAW, Harry	Inside Forward	
-										
-RAYNER, Harry	Wing Half	
-										
-ROBINSON, Robby	Full Back	
-										
-ROEBUCK, Fred	Full Back	
-										
-SHAW, George	Full Back	
-										
-SMITH, Bertie	Centre Half	
-										
-SMITH, Billy	Winger	
-										
-SPENCE, Bonwell	Full Back	
-										
-STEELE, David	Wing Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-WADSWORTH, Sam	Full Back	
-										
-WATSON, Billy	Wing Half	
-										
-WILLIAMS, Joey	Winger	
-										
-WILSON, Charlie	Centre Forward	
-										
-WILSON, Tommy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,13,0,0,1,0,0,0,0,0
+,"BINKS, Sid ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"BROWN, George ",Centre Forward,41,35,0,2,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,24,0,0,2,0,0,0,0,0
+,"COOK, Billy ",Inside Forward,29,14,0,1,0,0,0,0,0
+,"DENNIS, Harold ",Winger,1,0,0,0,0,0,0,0,0
+,"DEVLIN, Bill ",Centre Forward,4,4,0,0,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,29,2,2,1,1,1,0,0,0
+,"GRAY, Alec ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HOBSON, George ",Wing Half,2,0,0,0,0,0,0,0,0
+,"JACKSON, Alex ",Winger,39,16,0,2,0,0,0,0,0
+,"MERCER, Billy ",Goalkeeper,13,0,0,0,0,0,0,0,0
+,"RAW, Harry ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"RAYNER, Harry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"ROBINSON, Robby ",Full Back,0,0,0,0,0,0,0,0,0
+,"ROEBUCK, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"SHAW, George ",Full Back,4,0,0,0,0,0,0,0,0
+,"SMITH, Bertie ",Centre Half,1,1,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,28,6,0,2,0,0,0,0,0
+,"SPENCE, Bonwell ",Full Back,1,0,0,0,0,0,0,0,0
+,"STEELE, David ",Wing Half,18,0,0,0,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,36,4,0,2,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,29,0,0,2,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,38,0,0,2,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,40,0,0,2,0,0,0,0,0
+,"WILLIAMS, Joey ",Winger,23,6,0,1,0,0,0,0,0
+,"WILSON, Charlie ",Centre Forward,4,2,1,0,0,0,0,0,0
+,"WILSON, Tommy ",Central Defender,41,0,0,2,0,0,0,0,0

@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAILLIE, David	Goalkeeper	
-										
-BARRETT, Jim	Central Defender	
-										
-BISHOP, Sid	Wing Half	
-										
-CADWELL, Albert	Wing Half	
-										
-CAMPBELL, John	Centre Forward	
-										
-CARTER, George	Wing Half	
-										
-COCKBURN, George	Winger	
-										
-COLLINS, Jimmy	Wing Half	
-										
-EARL, Alf	Full Back	
-										
-EARLE, Stan	Inside Forward	
-										
-EASTMAN, George	Centre Half	
-										
-EDWARDS, Billy	Winger	
-										
-GIBBINS, Viv	Centre Forward	
-										
-HEBDEN, Jack	Full Back	
-										
-HENDERSON, Billy	Full Back	
-										
-HODGSON, Tommy	Full Back	
-										
-HORLER, George	Full Back	
-										
-HUFTON, Ted	Goalkeeper	
-										
-KANE, Alex	Goalkeeper	
-										
-KAY, George	Centre Half	
-										
-MOORE, Billy	Inside Forward	
-										
-RUFFELL, Jimmy	Winger	
-										
-RUFFELL, Bill	Inside Forward	
-										
-SURTEES, Albert	Centre Forward	
-										
-WATSON, Vic	Centre Forward	
-										
-WEALE, Bobby	Winger	
-										
-WILLIAMS, Billy	Inside Forward	
-										
-YEWS, Tommy	Winger	
-										
-YOUNG, Jack	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAILLIE, David ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"BARRETT, Jim ",Central Defender,42,6,0,1,0,0,0,0,0
+,"BISHOP, Sid ",Wing Half,14,1,0,1,0,0,0,0,0
+,"CADWELL, Albert ",Wing Half,18,0,0,0,0,0,0,0,0
+,"CAMPBELL, John ",Centre Forward,6,4,0,0,0,0,0,0,0
+,"CARTER, George ",Wing Half,29,0,0,0,0,0,0,0,0
+,"COCKBURN, George ",Winger,0,0,0,0,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,24,0,0,1,0,0,0,0,0
+,"EARL, Alf ",Full Back,8,0,0,1,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,37,9,0,1,0,0,0,0,0
+,"EASTMAN, George ",Centre Half,1,0,0,0,0,0,0,0,0
+,"EDWARDS, Billy ",Winger,4,0,0,0,0,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,1,2,0,0,0,0,0,0,0
+,"HEBDEN, Jack ",Full Back,24,0,0,0,0,0,0,0,0
+,"HENDERSON, Billy ",Full Back,17,0,0,1,0,0,0,0,0
+,"HODGSON, Tommy ",Full Back,16,0,0,0,0,0,0,0,0
+,"HORLER, George ",Full Back,5,0,0,0,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,38,0,0,1,0,0,0,0,0
+,"KANE, Alex ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"KAY, George ",Centre Half,18,1,0,0,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,30,4,0,0,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,40,12,1,1,0,0,0,0,0
+,"RUFFELL, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SURTEES, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WATSON, Vic ",Centre Forward,38,20,0,1,0,0,0,0,0
+,"WEALE, Bobby ",Winger,3,0,0,0,0,0,0,0,0
+,"WILLIAMS, Billy ",Inside Forward,12,3,0,1,0,0,0,0,0
+,"YEWS, Tommy ",Winger,32,1,0,1,0,0,0,0,0
+,"YOUNG, Jack ",Full Back,1,0,0,0,0,0,0,0,0

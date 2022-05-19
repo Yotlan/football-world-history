@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ARMITAGE, Jack	Centre Half	
-										
-ASHCROFT, Gordon	Goalkeeper	
-										
-BASNETT, Alf	Wing Half	
-										
-BEEL, George	Centre Forward	
-										
-BLINKHORN, Fred	Full Back	
-										
-BRUTON, Jack	Winger	
-										
-CHADWICK, Jack	Inside Forward	
-										
-CROSS, Benny	Inside Forward	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DEVINE, Joe	Inside Forward	
-										
-DOUGAL, Billy	Wing Half	
-										
-FERGUS, Alex	Full Back	
-										
-FREEMAN, Albert	Inside Forward	
-										
-HAMPSON, Tommy	Goalkeeper	
-										
-HARGREAVES, Harry	Inside Forward	
-										
-HILL, Jack	Central Defender	
-										
-HUGHES, Len	Wing Half	
-										
-KELLY, Bob	Inside Forward	
-										
-MCCLUGGAGE, Andy	Full Back	
-										
-PAGE, Louis	Winger	
-										
-PARKIN, George	Wing Half	
-										
-POLLARD, Walter	Inside Forward	
-										
-RICHARDS, Percy	Centre Forward	
-										
-ROBERTS, Tommy	Centre Forward	
-										
-RUSSELL, Harry	Centre Forward	
-										
-SPARGO, Steve	Central Defender	
-										
-STEEL, John	Wing Half	
-										
-TONNER, Jimmy	Winger	
-										
-WATERFIELD, George	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ARMITAGE, Jack ",Centre Half,17,1,0,0,0,0,0,0,0
+,"ASHCROFT, Gordon ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BASNETT, Alf ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BEEL, George ",Centre Forward,33,14,0,2,2,0,0,0,0
+,"BLINKHORN, Fred ",Full Back,7,0,0,0,0,0,0,0,0
+,"BRUTON, Jack ",Winger,25,7,0,2,0,0,0,0,0
+,"CHADWICK, Jack ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"CROSS, Benny ",Inside Forward,24,3,0,2,0,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,35,0,0,2,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,9,2,0,0,0,0,0,0,0
+,"DOUGAL, Billy ",Wing Half,11,0,0,0,0,0,0,0,0
+,"FERGUS, Alex ",Full Back,13,0,0,2,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,1,0,0,2,0,0,0,0,0
+,"HAMPSON, Tommy ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"HARGREAVES, Harry ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,37,3,0,2,0,0,0,0,0
+,"HUGHES, Len ",Wing Half,26,1,0,2,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,17,4,1,0,0,0,0,0,0
+,"MCCLUGGAGE, Andy ",Full Back,33,5,5,0,0,0,0,0,0
+,"PAGE, Louis ",Winger,41,26,0,2,0,0,0,0,0
+,"PARKIN, George ",Wing Half,7,1,0,0,0,0,0,0,0
+,"POLLARD, Walter ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"RICHARDS, Percy ",Centre Forward,3,3,0,0,0,0,0,0,0
+,"ROBERTS, Tommy ",Centre Forward,27,13,0,0,0,0,0,0,0
+,"RUSSELL, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SPARGO, Steve ",Central Defender,2,0,0,0,0,0,0,0,0
+,"STEEL, John ",Wing Half,25,0,0,2,0,0,0,0,0
+,"TONNER, Jimmy ",Winger,10,0,0,0,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,32,0,0,2,0,0,0,0,0

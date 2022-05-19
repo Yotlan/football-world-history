@@ -1,70 +1,34 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEADLES, Harry	Inside Forward	
-										
-BLAIR, Jimmy	Full Back	
-										
-CASSIDY, Joe	Inside Forward	
-										
-CHARLTON, Billy	Winger	
-										
-COLLINS, Elvet	Winger	
-										
-DAVIES, Len	Inside Forward	
-										
-DAVIES, Willie	Winger	
-										
-EVANS, Herbie	Wing Half	
-										
-EVANS, Jack	Winger	
-										
-FARQUHARSON, Tom	Goalkeeper	
-										
-FERGUSON, Hughie	Centre Forward	
-										
-GILL, Jimmy	Inside Forward	
-										
-HAGAN, Alfie	Inside Forward	
-										
-HARDY, Billy	Wing Half	
-										
-HILLS, Joe	Goalkeeper	
-										
-JENKINS, Eddie	Wing Half	
-										
-JENNINGS, Jack	Full Back	
-										
-KEENOR, Fred	Central Defender	
-										
-LAWSON, Denis	Winger	
-										
-MCCRACKEN, Harry	Centre Forward	
-										
-MCLACHLAN, Alex	Wing Half	
-										
-MCLACHLAN, George	Winger	
-										
-NELSON, Jimmy	Full Back	
-										
-NICHOLSON, Joe	Wing Half	
-										
-PAGE, Jack	Full Back	
-										
-POTTER SMITH, Thomas	Inside Forward	
-										
-REED, Ebor	Centre Half	
-										
-SLOAN, Tom	Centre Half	
-										
-SMITH, Sam	Inside Forward	
-										
-TOWNSEND, Alf	Winger	
-										
-WAKE, Harry	Wing Half	
-										
-WATSON, Tommy	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEADLES, Harry ",Inside Forward,6,4,0,0,0,0,0,0,0
+,"BLAIR, Jimmy ",Full Back,16,0,0,1,0,0,0,0,0
+,"CASSIDY, Joe ",Inside Forward,24,6,0,3,1,0,0,0,0
+,"CHARLTON, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"COLLINS, Elvet ",Winger,6,0,0,0,0,0,0,0,0
+,"DAVIES, Len ",Inside Forward,37,9,0,1,1,0,0,0,0
+,"DAVIES, Willie ",Winger,36,8,0,2,0,0,0,0,0
+,"EVANS, Herbie ",Wing Half,3,0,0,0,0,0,0,0,0
+,"EVANS, Jack ",Winger,7,0,0,0,0,0,0,0,0
+,"FARQUHARSON, Tom ",Goalkeeper,33,0,0,0,0,0,0,0,0
+,"FERGUSON, Hughie ",Centre Forward,26,19,0,3,2,0,0,0,0
+,"GILL, Jimmy ",Inside Forward,11,2,0,0,0,0,0,0,0
+,"HAGAN, Alfie ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HARDY, Billy ",Wing Half,37,1,0,2,0,0,0,0,0
+,"HILLS, Joe ",Goalkeeper,9,0,0,3,0,0,0,0,0
+,"JENKINS, Eddie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"JENNINGS, Jack ",Full Back,2,0,0,0,0,0,0,0,0
+,"KEENOR, Fred ",Central Defender,25,2,0,0,0,0,0,0,0
+,"LAWSON, Denis ",Winger,20,1,0,2,0,0,0,0,0
+,"MCCRACKEN, Harry ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MCLACHLAN, Alex ",Wing Half,0,0,0,0,0,0,0,0,0
+,"MCLACHLAN, George ",Winger,19,3,0,3,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,34,0,0,3,0,0,0,0,0
+,"NICHOLSON, Joe ",Wing Half,18,5,0,3,0,0,0,0,0
+,"PAGE, Jack ",Full Back,3,0,0,0,0,0,0,0,0
+,"POTTER SMITH, Thomas ",Inside Forward,8,0,0,0,0,0,0,0,0
+,"REED, Ebor ",Centre Half,6,0,0,0,0,0,0,0,0
+,"SLOAN, Tom ",Centre Half,28,0,0,3,0,0,0,0,0
+,"SMITH, Sam ",Inside Forward,2,1,0,1,0,0,0,0,0
+,"TOWNSEND, Alf ",Winger,0,0,0,0,0,0,0,0,0
+,"WAKE, Harry ",Wing Half,15,0,0,0,0,0,0,0,0
+,"WATSON, Tommy ",Full Back,30,0,0,3,0,0,0,0,0

@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALLAN, Jimmy	Full Back	
-										
-ARMAND, Jack	Inside Forward	
-										
-ATKINSON, Josh	Wing Half	
-										
-BAKER, Jim	Wing Half	
-										
-CHADWICK, Wilf	Inside Forward	
-										
-DUFFIELD, Bert	Full Back	
-										
-EDWARDS, Willis	Wing Half	
-										
-FELL, Jackie	Winger	
-										
-HARRIS, Jack	Winger	
-										
-HART, Ernie	Central Defender	
-										
-JACKSON, Billy	Winger	
-										
-JENNINGS, Tommy	Centre Forward	
-										
-JOHNSON, Bill	Goalkeeper	
-										
-KIRKPATRICK, Jim	Full Back	
-										
-MEARS, Frank	Centre Forward	
-										
-MENZIES, Bill	Full Back	
-										
-POTTS, Jimmy	Goalkeeper	
-										
-REED, George	Wing Half	
-										
-ROBERTS, Harry	Full Back	
-										
-SISSONS, Albert	Winger	
-										
-SMITH, Len	Wing Half	
-										
-THORNTON, Dick	Goalkeeper	
-										
-TOWNSLEY, Tom	Full Back	
-										
-TURNBULL, Bobby	Winger	
-										
-WAINSCOAT, Russell	Inside Forward	
-										
-WHIPP, Percy	Inside Forward	
-										
-WHITE, Cecil	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALLAN, Jimmy ",Full Back,35,0,0,1,0,0,0,0,0
+,"ARMAND, Jack ",Inside Forward,17,9,4,1,1,1,0,0,0
+,"ATKINSON, Josh ",Wing Half,23,0,0,1,0,0,0,0,0
+,"BAKER, Jim ",Wing Half,9,0,0,0,0,0,0,0,0
+,"CHADWICK, Wilf ",Inside Forward,14,3,0,0,0,0,0,0,0
+,"DUFFIELD, Bert ",Full Back,6,0,0,0,0,0,0,0,0
+,"EDWARDS, Willis ",Wing Half,40,0,0,1,0,0,0,0,0
+,"FELL, Jackie ",Winger,7,1,0,0,0,0,0,0,0
+,"HARRIS, Jack ",Winger,4,1,0,0,0,0,0,0,0
+,"HART, Ernie ",Central Defender,26,2,0,0,0,0,0,0,0
+,"JACKSON, Billy ",Winger,30,2,0,1,0,0,0,0,0
+,"JENNINGS, Tommy ",Centre Forward,42,26,1,1,0,0,0,0,0
+,"JOHNSON, Bill ",Goalkeeper,29,0,0,1,0,0,0,0,0
+,"KIRKPATRICK, Jim ",Full Back,7,0,0,0,0,0,0,0,0
+,"MEARS, Frank ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"MENZIES, Bill ",Full Back,35,0,0,1,0,0,0,0,0
+,"POTTS, Jimmy ",Goalkeeper,12,0,0,0,0,0,0,0,0
+,"REED, George ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ROBERTS, Harry ",Full Back,1,0,0,0,0,0,0,0,0
+,"SISSONS, Albert ",Winger,6,0,0,0,0,0,0,0,0
+,"SMITH, Len ",Wing Half,6,0,0,0,0,0,0,0,0
+,"THORNTON, Dick ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"TOWNSLEY, Tom ",Full Back,21,1,0,1,0,0,0,0,0
+,"TURNBULL, Bobby ",Winger,37,6,0,1,0,0,0,0,0
+,"WAINSCOAT, Russell ",Inside Forward,25,8,0,0,0,0,0,0,0
+,"WHIPP, Percy ",Inside Forward,27,5,0,1,0,0,0,0,0
+,"WHITE, Cecil ",Wing Half,0,0,0,0,0,0,0,0,0

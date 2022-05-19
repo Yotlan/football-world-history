@@ -1,73 +1,36 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BRADLEY, Bill	Goalkeeper	
-										
-BROWN, Tommy	Full Back	
-										
-CHANDLER, Bert	Full Back	
-										
-CLARK, Bob	Inside Forward	
-										
-COWAN, Billy	Inside Forward	
-										
-CROWN, Laurie	Full Back	
-										
-CURRY, Tom	Wing Half	
-										
-DOWSEY, Jack	Wing Half	
-										
-GALLACHER, Hughie	Centre Forward	
-										
-GIBSON, Willie	Wing Half	
-										
-GRAHAM, George	Winger	
-										
-HAMPSON, Billy	Full Back	
-										
-HARRIS, Joe	Wing Half	
-										
-HARRIS, Neil	Centre Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-LAWSON, Tommy	Wing Half	
-										
-LEWINS, George	Full Back	
-										
-LOUGHLIN, Jimmy	Centre Forward	
-										
-LOW, Jimmy	Winger	
-										
-MACKENZIE, Roddie	Wing Half	
-										
-MAITLAND, Alf	Full Back	
-										
-MCDONALD, Tommy	Inside Forward	
-										
-MITCHELL, Tom	Winger	
-										
-MOONEY, Peter	Wing Half	
-										
-MORDUE, Tom 'Tucker'	Inside Forward	
-										
-NEVIN, George	Full Back	
-										
-NICHOLSON, Fred	Full Back	
-										
-PARK, Ossie	Central Defender	
-										
-ROBSON, George	Inside Forward	
-										
-SEYMOUR, Stan	Winger	
-										
-SPENCER, Charlie	Centre Half	
-										
-TAYLOR, Allan	Goalkeeper	
-										
-URWIN, Tommy	Winger	
-										
-WILSON, Willie	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BRADLEY, Bill ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"BROWN, Tommy ",Full Back,0,0,0,0,0,0,0,0,0
+,"CHANDLER, Bert ",Full Back,29,0,0,3,0,0,0,0,0
+,"CLARK, Bob ",Inside Forward,21,6,0,0,0,0,0,0,0
+,"COWAN, Billy ",Inside Forward,30,7,0,3,1,0,0,0,0
+,"CROWN, Laurie ",Full Back,2,0,0,0,0,0,0,0,0
+,"CURRY, Tom ",Wing Half,22,1,0,2,0,0,0,0,0
+,"DOWSEY, Jack ",Wing Half,3,0,0,0,0,0,0,0,0
+,"GALLACHER, Hughie ",Centre Forward,19,23,0,3,2,0,0,0,0
+,"GIBSON, Willie ",Wing Half,22,1,0,3,1,0,0,0,0
+,"GRAHAM, George ",Winger,0,0,0,0,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,16,0,0,0,0,0,0,0,0
+,"HARRIS, Joe ",Wing Half,16,0,0,3,0,0,0,0,0
+,"HARRIS, Neil ",Centre Forward,4,2,0,0,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,32,8,8,3,0,0,0,0,0
+,"LAWSON, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"LEWINS, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"LOUGHLIN, Jimmy ",Centre Forward,7,5,0,0,0,0,0,0,0
+,"LOW, Jimmy ",Winger,4,0,0,0,0,0,0,0,0
+,"MACKENZIE, Roddie ",Wing Half,25,0,0,0,0,0,0,0,0
+,"MAITLAND, Alf ",Full Back,5,0,0,0,0,0,0,0,0
+,"MCDONALD, Tommy ",Inside Forward,40,11,1,3,0,0,0,0,0
+,"MITCHELL, Tom ",Winger,14,1,0,1,0,0,0,0,0
+,"MOONEY, Peter ",Wing Half,8,0,0,0,0,0,0,0,0
+,"MORDUE, Tom 'Tucker' ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"NEVIN, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"NICHOLSON, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"PARK, Ossie ",Central Defender,4,0,0,0,0,0,0,0,0
+,"ROBSON, George ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SEYMOUR, Stan ",Winger,24,6,0,2,2,0,0,0,0
+,"SPENCER, Charlie ",Centre Half,27,0,0,1,0,0,0,0,0
+,"TAYLOR, Allan ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"URWIN, Tommy ",Winger,41,8,0,3,0,0,0,0,0
+,"WILSON, Willie ",Goalkeeper,40,0,0,3,0,0,0,0,0

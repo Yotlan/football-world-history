@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Jack	Goalkeeper	
-										
-BIRKS, Len	Full Back	
-										
-BOYLE, Tommy	Inside Forward	
-										
-COOK, Bill	Full Back	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GREEN, George	Wing Half	
-										
-GREEN, Harry	Wing Half	
-										
-HALLIWELL, Cliff	Wing Half	
-										
-HARRIS, Bernie	Full Back	
-										
-HOGG, James	Centre Forward	
-										
-HOYLAND, Walter	Inside Forward	
-										
-JOHNSON, Harry	Centre Forward	
-										
-KING, Seth	Central Defender	
-										
-LONGWORTH, Bruce	Wing Half	
-										
-MENLOVE, Bertie	Centre Forward	
-										
-MERCER, Dave	Winger	
-										
-MILTON, Ernest	Full Back	
-										
-PANTLING, Harry	Wing Half	
-										
-PARTRIDGE, Albert	Winger	
-										
-ROXBURGH, Jack	Winger	
-										
-SAMPY, Tommy	Wing Half	
-										
-SAMPY, Bill	Full Back	
-										
-SUTCLIFFE, Charles	Goalkeeper	
-										
-TUNSTALL, Fred	Winger	
-										
-WAINWRIGHT, Harry	Inside Forward	
-										
-WAUGH, Jimmy	Central Defender	
-										
-WEBSTER, Wally	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Jack ",Goalkeeper,39,0,0,2,0,0,0,0,0
+,"BIRKS, Len ",Full Back,24,0,0,2,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,32,13,1,2,1,0,0,0,0
+,"COOK, Bill ",Full Back,6,0,0,0,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,39,12,0,2,1,0,0,0,0
+,"GREEN, George ",Wing Half,38,1,0,2,0,0,0,0,0
+,"GREEN, Harry ",Wing Half,1,0,0,0,0,0,0,0,0
+,"HALLIWELL, Cliff ",Wing Half,2,0,0,0,0,0,0,0,0
+,"HARRIS, Bernie ",Full Back,13,0,0,0,0,0,0,0,0
+,"HOGG, James ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HOYLAND, Walter ",Inside Forward,6,3,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,30,23,0,1,1,0,0,0,0
+,"KING, Seth ",Central Defender,19,0,0,0,0,0,0,0,0
+,"LONGWORTH, Bruce ",Wing Half,3,1,0,0,0,0,0,0,0
+,"MENLOVE, Bertie ",Centre Forward,12,12,0,1,0,0,0,0,0
+,"MERCER, Dave ",Winger,29,8,0,2,0,0,0,0,0
+,"MILTON, Ernest ",Full Back,11,0,0,0,0,0,0,0,0
+,"PANTLING, Harry ",Wing Half,8,0,0,1,0,0,0,0,0
+,"PARTRIDGE, Albert ",Winger,14,6,0,0,0,0,0,0,0
+,"ROXBURGH, Jack ",Winger,2,1,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,33,0,0,1,0,0,0,0,0
+,"SAMPY, Bill ",Full Back,25,0,0,2,0,0,0,0,0
+,"SUTCLIFFE, Charles ",Goalkeeper,3,0,0,0,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,42,20,5,2,0,0,0,0,0
+,"WAINWRIGHT, Harry ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WAUGH, Jimmy ",Central Defender,26,1,0,2,0,0,0,0,0
+,"WEBSTER, Wally ",Full Back,4,0,0,0,0,0,0,0,0

@@ -1,63 +1,31 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-APPLETON, Fred	Full Back	
-										
-AUSTIN, Billy	Winger	
-										
-BENZIE, Robert	Wing Half	
-										
-BRADFORD, Leo	Winger	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CALDERWOOD, James	Full Back	
-										
-COOKSON, Sam	Full Back	
-										
-COUPLAND, Clifford 'Baggy'	Wing Half	
-										
-COWAN, Sam	Central Defender	
-										
-DANIELS, Arthur	Winger	
-										
-DENNISON, Bob	Inside Forward	
-										
-ELWOOD, Jimmy	Central Defender	
-										
-FLETCHER, Eli	Full Back	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HICKS, George	Winger	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-MCCLOY, Phil	Full Back	
-										
-MCMULLAN, Jimmy	Wing Half	
-										
-MITCHELL, James	Goalkeeper	
-										
-MURPHY, Billy 'Spud'	Winger	
-										
-OXLEY, Billy	Centre Forward	
-										
-PHILLIPS, John	Goalkeeper	
-										
-PRICE, Eric	Inside Forward	
-										
-PRINGLE, Charlie	Wing Half	
-										
-ROBERTS, Frank	Centre Forward	
-										
-SHARP, Sammy	Wing Half	
-										
-THOMPSON, Frank	Full Back	
-										
-TURNBULL, Billy	Winger	
-										
-WARNER, Jack	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"APPLETON, Fred ",Full Back,1,0,0,1,0,0,0,0,0
+,"AUSTIN, Billy ",Winger,36,12,0,7,3,1,0,0,0
+,"BENZIE, Robert ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BRADFORD, Leo ",Winger,5,1,0,0,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,32,21,0,5,7,0,0,0,0
+,"CALDERWOOD, James ",Full Back,2,0,0,2,0,0,0,0,0
+,"COOKSON, Sam ",Full Back,35,0,0,6,1,0,0,0,0
+,"COUPLAND, Clifford 'Baggy' ",Wing Half,23,2,0,3,0,0,0,0,0
+,"COWAN, Sam ",Central Defender,38,2,0,7,0,0,0,0,0
+,"DANIELS, Arthur ",Winger,1,0,0,0,0,0,0,0,0
+,"DENNISON, Bob ",Inside Forward,7,4,0,2,0,0,0,0,0
+,"ELWOOD, Jimmy ",Central Defender,4,0,0,1,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,1,0,0,0,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,24,0,0,7,0,0,0,0,0
+,"HICKS, George ",Winger,35,5,0,7,6,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,38,15,1,7,5,0,0,0,0
+,"MCCLOY, Phil ",Full Back,37,0,0,4,0,0,0,0,0
+,"MCMULLAN, Jimmy ",Wing Half,10,0,0,3,0,0,0,0,0
+,"MITCHELL, James ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"MURPHY, Billy 'Spud' ",Winger,9,2,0,0,0,0,0,0,0
+,"OXLEY, Billy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"PHILLIPS, John ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"PRICE, Eric ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"PRINGLE, Charlie ",Wing Half,36,0,0,7,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,38,21,0,7,9,0,0,0,0
+,"SHARP, Sammy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"THOMPSON, Frank ",Full Back,9,0,0,1,0,0,0,0,0
+,"TURNBULL, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"WARNER, Jack ",Inside Forward,7,4,0,0,0,0,0,0,0

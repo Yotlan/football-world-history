@@ -1,71 +1,35 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1925/26
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ASTLEY, Joe	Full Back	
-										
-BAIN, Jimmy	Central Defender	
-										
-BARSON, Frank	Centre Half	
-										
-BENNION, Ray	Wing Half	
-										
-BRISCOE, Jim	Full Back	
-										
-DAVIES, Roy	Winger	
-										
-DEE, Amos	Wing Half	
-										
-GRIMWOOD, Jack	Wing Half	
-										
-HALL, Jack	Winger	
-										
-HANNAFORD, Charlie	Winger	
-										
-HANSON, Jimmy	Inside Forward	
-										
-HASLAM, George 'Tiny'	Centre Half	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-IDDON, Richard	Centre Forward	
-										
-INGLIS, Bill	Full Back	
-										
-JONES, Tom	Full Back	
-										
-LOCHHEAD, Arthur	Inside Forward	
-										
-MANN, Frank	Inside Forward	
-										
-MCCRAE, Jimmy	Wing Half	
-										
-MCPHERSON, Frank	Winger	
-										
-MEW, Jack	Goalkeeper	
-										
-MOORE, Charlie	Full Back	
-										
-PAPE, Albert	Centre Forward	
-										
-PARTRIDGE, Ted	Winger	
-										
-RENNOX, Charlie	Inside Forward	
-										
-RICHARDSON, Lance	Goalkeeper	
-										
-SILCOCK, Jack	Full Back	
-										
-SMITH, Tom	Inside Forward	
-										
-SPENCE, Joe	Winger	
-										
-STEWARD, Alf	Goalkeeper	
-										
-SWEENEY, Eric	Inside Forward	
-										
-TAYLOR, Christopher	Centre Half	
-										
-THOMAS, Harry	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ASTLEY, Joe ",Full Back,1,0,0,0,0,0,0,0,0
+,"BAIN, Jimmy ",Central Defender,2,0,0,0,0,0,0,0,0
+,"BARSON, Frank ",Centre Half,28,2,0,4,0,0,0,0,0
+,"BENNION, Ray ",Wing Half,7,0,0,0,0,0,0,0,0
+,"BRISCOE, Jim ",Full Back,0,0,0,0,0,0,0,0,0
+,"DAVIES, Roy ",Winger,0,0,0,0,0,0,0,0,0
+,"DEE, Amos ",Wing Half,0,0,0,0,0,0,0,0,0
+,"GRIMWOOD, Jack ",Wing Half,7,0,0,1,0,0,0,0,0
+,"HALL, Jack ",Winger,3,0,0,0,0,0,0,0,0
+,"HANNAFORD, Charlie ",Winger,4,0,0,1,0,0,0,0,0
+,"HANSON, Jimmy ",Inside Forward,24,5,0,2,0,0,0,0,0
+,"HASLAM, George 'Tiny' ",Centre Half,9,0,0,2,0,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,28,1,0,3,0,0,0,0,0
+,"IDDON, Richard ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"INGLIS, Bill ",Full Back,7,1,1,0,0,0,0,0,0
+,"JONES, Tom ",Full Back,10,0,0,0,0,0,0,0,0
+,"LOCHHEAD, Arthur ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,34,0,0,7,0,0,0,0,0
+,"MCCRAE, Jimmy ",Wing Half,9,0,0,4,0,0,0,0,0
+,"MCPHERSON, Frank ",Winger,29,16,0,7,4,0,0,0,0
+,"MEW, Jack ",Goalkeeper,6,0,0,5,0,0,0,0,0
+,"MOORE, Charlie ",Full Back,33,0,0,7,0,0,0,0,0
+,"PAPE, Albert ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"PARTRIDGE, Ted ",Winger,3,0,0,0,0,0,0,0,0
+,"RENNOX, Charlie ",Inside Forward,34,17,0,7,1,0,0,0,0
+,"RICHARDSON, Lance ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,33,0,0,7,0,0,0,0,0
+,"SMITH, Tom ",Inside Forward,30,4,0,5,4,0,0,0,0
+,"SPENCE, Joe ",Winger,39,6,0,7,4,0,0,0,0
+,"STEWARD, Alf ",Goalkeeper,35,0,0,2,0,0,0,0,0
+,"SWEENEY, Eric ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"TAYLOR, Christopher ",Centre Half,6,6,0,0,0,0,0,0,0
+,"THOMAS, Harry ",Winger,29,5,0,6,1,0,0,0,0
