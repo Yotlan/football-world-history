@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAVERSTOCK, Bert	Full Back	
-										
-BAVERSTOCK, John	Goalkeeper	
-										
-DONALDSON, Alex	Winger	
-										
-EDMONDSON, John	Goalkeeper	
-										
-FAY, Jimmy	Centre Half	
-										
-FEEBERY, Jack	Full Back	
-										
-GIMBLETT, Gwilym	Wing Half	
-										
-GLENDENNING, Bob	Wing Half	
-										
-GREENHALGH, Sam	Centre Half	
-										
-HATELEY, Charlie	Winger	
-										
-HESLOP, Tom	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-JONES, Evan	Inside Forward	
-										
-LILLYCROP, George	Centre Forward	
-										
-LOCKHART, Alec	Winger	
-										
-ROWLEY, Walter	Centre Half	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SIDLOW, Edward	Goalkeeper	
-										
-SMITH, Harry	Inside Forward	
-										
-SMITH, Joe	Inside Forward	
-										
-STOKES, David	Winger	
-										
-STOTT, William	Full Back	
-										
-THOMAS, Joe	Wing Half	
-										
-TYLDESLEY, James	Goalkeeper	
-										
-VIZARD, Ted	Winger	
-										
-WHITESIDE, Ernie	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAVERSTOCK, Bert ",Full Back,31,0,0,3,0,0,0,0,0
+,"BAVERSTOCK, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"DONALDSON, Alex ",Winger,33,2,0,3,1,0,0,0,0
+,"EDMONDSON, John ",Goalkeeper,29,0,0,3,0,0,0,0,0
+,"FAY, Jimmy ",Centre Half,27,2,0,3,0,0,0,0,0
+,"FEEBERY, Jack ",Full Back,37,4,1,3,0,0,0,0,0
+,"GIMBLETT, Gwilym ",Wing Half,2,0,0,0,0,0,0,0,0
+,"GLENDENNING, Bob ",Wing Half,36,0,0,3,0,0,0,0,0
+,"GREENHALGH, Sam ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HATELEY, Charlie ",Winger,1,0,0,0,0,0,0,0,0
+,"HESLOP, Tom ",Inside Forward,6,0,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,10,0,0,0,0,0,0,0,0
+,"JONES, Evan ",Inside Forward,32,8,0,3,1,0,0,0,0
+,"LILLYCROP, George ",Centre Forward,37,24,0,3,1,0,0,0,0
+,"LOCKHART, Alec ",Winger,2,0,0,0,0,0,0,0,0
+,"ROWLEY, Walter ",Centre Half,24,1,0,3,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,1,0,0,0,0,0,0,0,0
+,"SIDLOW, Edward ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"SMITH, Harry ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"SMITH, Joe ",Inside Forward,35,17,0,3,4,0,0,0,0
+,"STOKES, David ",Winger,7,1,0,0,0,0,0,0,0
+,"STOTT, William ",Full Back,4,0,0,0,0,0,0,0,0
+,"THOMAS, Joe ",Wing Half,13,0,0,0,0,0,0,0,0
+,"TYLDESLEY, James ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"VIZARD, Ted ",Winger,31,5,0,3,0,0,0,0,0
+,"WHITESIDE, Ernie ",Wing Half,2,0,0,0,0,0,0,0,0

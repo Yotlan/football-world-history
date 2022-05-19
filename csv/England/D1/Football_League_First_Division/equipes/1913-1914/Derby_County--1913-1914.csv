@@ -1,53 +1,26 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATKIN, Jack	Full Back	
-										
-BAGSHAW, Jimmy	Wing Half	
-										
-BARBOUR, Tommy	Full Back	
-										
-BARNES, Horace	Inside Forward	
-										
-BETTS, Charlie	Full Back	
-										
-BLOOMER, Steve	Inside Forward	
-										
-BUCKLEY, Frank	Centre Half	
-										
-CALLENDER, Reg	Winger	
-										
-FELLOWS, Percy	Winger	
-										
-FORDHAM, Norman	Centre Forward	
-										
-GRIMES, Billy	Winger	
-										
-HARDMAN, Jack	Wing Half	
-										
-HENDERSON, James	Centre Forward	
-										
-LAWRENCE, George	Goalkeeper	
-										
-LEONARD, Harry	Centre Forward	
-										
-METHVEN, James	Inside Forward	
-										
-MOORE, Jim	Inside Forward	
-										
-NEVE, Ned	Winger	
-										
-READER, Dickie	Winger	
-										
-RICHARDS, George	Wing Half	
-										
-RITCHIE, Duncan	Winger	
-										
-SCATTERGOOD, Ernie	Goalkeeper	
-										
-WALKER, Harry	Wing Half	
-										
-WAUGH, Bob	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATKIN, Jack ",Full Back,33,0,0,2,0,0,0,0,0
+,"BAGSHAW, Jimmy ",Wing Half,26,0,0,2,0,0,0,0,0
+,"BARBOUR, Tommy ",Full Back,37,1,0,2,0,0,0,0,0
+,"BARNES, Horace ",Inside Forward,37,24,0,2,1,0,0,0,0
+,"BETTS, Charlie ",Full Back,11,0,0,0,0,0,0,0,0
+,"BLOOMER, Steve ",Inside Forward,5,2,0,1,0,0,0,0,0
+,"BUCKLEY, Frank ",Centre Half,35,1,0,2,0,0,0,0,0
+,"CALLENDER, Reg ",Winger,5,0,0,0,0,0,0,0,0
+,"FELLOWS, Percy ",Winger,2,1,0,0,0,0,0,0,0
+,"FORDHAM, Norman ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"GRIMES, Billy ",Winger,34,1,0,2,0,0,0,0,0
+,"HARDMAN, Jack ",Wing Half,13,0,0,1,0,0,0,0,0
+,"HENDERSON, James ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"LAWRENCE, George ",Goalkeeper,9,0,0,2,0,0,0,0,0
+,"LEONARD, Harry ",Centre Forward,24,9,0,1,0,0,0,0,0
+,"METHVEN, James ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MOORE, Jim ",Inside Forward,27,10,0,2,1,0,0,0,0
+,"NEVE, Ned ",Winger,29,0,0,1,0,0,0,0,0
+,"READER, Dickie ",Winger,4,0,0,0,0,0,0,0,0
+,"RICHARDS, George ",Wing Half,13,0,0,0,0,0,0,0,0
+,"RITCHIE, Duncan ",Winger,2,0,0,0,0,0,0,0,0
+,"SCATTERGOOD, Ernie ",Goalkeeper,29,2,2,0,0,0,0,0,0
+,"WALKER, Harry ",Wing Half,22,2,0,1,0,0,0,0,0
+,"WAUGH, Bob ",Full Back,14,0,0,1,1,0,0,0,0

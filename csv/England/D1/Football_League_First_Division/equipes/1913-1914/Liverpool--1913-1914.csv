@@ -1,59 +1,29 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANKS, Billy	Inside Forward	
-										
-BOVILL, John	Inside Forward	
-										
-CAMPBELL, Kenny	Goalkeeper	
-										
-CRAWFORD, Bob	Full Back	
-										
-DAWSON, Jimmy	Inside Forward	
-										
-FAIRFOUL, Tom	Wing Half	
-										
-FERGUSON, Bob	Wing Half	
-										
-GODDARD, Arthur	Winger	
-										
-GRACIE, Tommy	Inside Forward	
-										
-GRAYER, Frank	Full Back	
-										
-HOLDEN, Ralph	Centre Half	
-										
-LACEY, Billy	Winger	
-										
-LONGWORTH, Ephraim	Full Back	
-										
-LOWE, Harry	Wing Half	
-										
-MCDOUGALL, Bob	Centre Forward	
-										
-MCKINLAY, Donald	Full Back	
-										
-METCALF, Arthur	Inside Forward	
-										
-MILLER, Tom	Centre Forward	
-										
-NICHOLL, Jimmy	Winger	
-										
-PARKINSON, Jack	Centre Forward	
-										
-PEAKE, Ernie	Wing Half	
-										
-PURSELL, Bob	Full Back	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SHELDON, Jackie	Winger	
-										
-SPEAKMAN, Sam	Full Back	
-										
-STANIFORTH, Fred	Winger	
-										
-STEWART, Jimmy	Inside Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANKS, Billy ",Inside Forward,9,4,0,0,0,0,0,0,0
+,"BOVILL, John ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"CAMPBELL, Kenny ",Goalkeeper,34,0,0,8,0,0,0,0,0
+,"CRAWFORD, Bob ",Full Back,7,1,1,0,0,0,0,0,0
+,"DAWSON, Jimmy ",Inside Forward,13,3,0,1,0,0,0,0,0
+,"FAIRFOUL, Tom ",Wing Half,38,0,0,8,0,0,0,0,0
+,"FERGUSON, Bob ",Wing Half,36,0,0,7,1,0,0,0,0
+,"GODDARD, Arthur ",Winger,11,0,0,0,0,0,0,0,0
+,"GRACIE, Tommy ",Inside Forward,13,3,0,0,0,0,0,0,0
+,"GRAYER, Frank ",Full Back,1,0,0,0,0,0,0,0,0
+,"HOLDEN, Ralph ",Centre Half,1,0,0,0,0,0,0,0,0
+,"LACEY, Billy ",Winger,35,6,0,8,5,0,0,0,0
+,"LONGWORTH, Ephraim ",Full Back,27,0,0,7,0,0,0,0,0
+,"LOWE, Harry ",Wing Half,29,0,0,5,0,0,0,0,0
+,"MCDOUGALL, Bob ",Centre Forward,6,1,0,1,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,16,1,0,6,0,0,0,0,0
+,"METCALF, Arthur ",Inside Forward,10,2,0,5,1,0,0,0,0
+,"MILLER, Tom ",Centre Forward,32,16,0,8,4,0,0,0,0
+,"NICHOLL, Jimmy ",Winger,14,3,0,5,2,0,0,0,0
+,"PARKINSON, Jack ",Centre Forward,6,1,0,2,0,0,0,0,0
+,"PEAKE, Ernie ",Wing Half,5,0,0,0,0,0,0,0,0
+,"PURSELL, Bob ",Full Back,26,0,0,8,0,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,4,0,0,0,0,0,0,0,0
+,"SHELDON, Jackie ",Winger,22,5,2,8,1,0,0,0,0
+,"SPEAKMAN, Sam ",Full Back,14,0,0,1,0,0,0,0,0
+,"STANIFORTH, Fred ",Winger,3,0,0,0,0,0,0,0,0
+,"STEWART, Jimmy ",Inside Forward,3,0,0,0,0,0,0,0,0

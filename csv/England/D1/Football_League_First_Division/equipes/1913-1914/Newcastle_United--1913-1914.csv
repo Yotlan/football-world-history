@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-COOPER, Edward	Winger	
-										
-DIXON, Stan	Centre Half	
-										
-DOUGLAS, Angus	Winger	
-										
-FINLAY, Jock	Wing Half	
-										
-GOODWILL, Thomas	Winger	
-										
-GREY, Tom	Centre Half	
-										
-HALL, Tom	Inside Forward	
-										
-HAMPSON, Billy	Full Back	
-										
-HARDY, Stan	Inside Forward	
-										
-HAY, Jimmy	Wing Half	
-										
-HEWISON, Bob	Wing Half	
-										
-HIBBERT, Billy	Centre Forward	
-										
-HIGGINS, Sandy	Inside Forward	
-										
-HUDSPETH, Frank	Full Back	
-										
-KING, John	Inside Forward	
-										
-LAWRENCE, Jimmy	Goalkeeper	
-										
-LEE, John	Winger	
-										
-LOW, Wilf	Centre Half	
-										
-LOWES, Tommy	Inside Forward	
-										
-MCCRACKEN, Billy	Full Back	
-										
-MCDONALD, John	Winger	
-										
-MELLOR, William	Goalkeeper	
-										
-SHEPHERD, Albert	Centre Forward	
-										
-SHIELDS, Ralph	Centre Forward	
-										
-SPINK, Jimmy	Wing Half	
-										
-VEITCH, Colin	Centre Half	
-										
-WHITSON, Tony	Full Back	
-										
-WILSON, George	Winger	
-										
-WILSON, James	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"COOPER, Edward ",Winger,14,0,0,0,0,0,0,0,0
+,"DIXON, Stan ",Centre Half,1,0,0,0,0,0,0,0,0
+,"DOUGLAS, Angus ",Winger,22,1,0,1,0,0,0,0,0
+,"FINLAY, Jock ",Wing Half,20,0,0,1,0,0,0,0,0
+,"GOODWILL, Thomas ",Winger,18,2,0,1,0,0,0,0,0
+,"GREY, Tom ",Centre Half,1,0,0,0,0,0,0,0,0
+,"HALL, Tom ",Inside Forward,19,6,0,1,0,0,0,0,0
+,"HAMPSON, Billy ",Full Back,10,0,0,0,0,0,0,0,0
+,"HARDY, Stan ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"HAY, Jimmy ",Wing Half,33,0,0,1,0,0,0,0,0
+,"HEWISON, Bob ",Wing Half,20,0,0,0,0,0,0,0,0
+,"HIBBERT, Billy ",Centre Forward,35,6,0,1,0,0,0,0,0
+,"HIGGINS, Sandy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"HUDSPETH, Frank ",Full Back,36,4,4,1,0,0,0,0,0
+,"KING, John ",Inside Forward,15,1,0,0,0,0,0,0,0
+,"LAWRENCE, Jimmy ",Goalkeeper,21,0,0,0,0,0,0,0,0
+,"LEE, John ",Winger,0,0,0,0,0,0,0,0,0
+,"LOW, Wilf ",Centre Half,34,2,0,1,0,0,0,0,0
+,"LOWES, Tommy ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MCCRACKEN, Billy ",Full Back,20,0,0,1,0,0,0,0,0
+,"MCDONALD, John ",Winger,12,2,0,0,0,0,0,0,0
+,"MELLOR, William ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"SHEPHERD, Albert ",Centre Forward,20,10,1,0,0,0,0,0,0
+,"SHIELDS, Ralph ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"SPINK, Jimmy ",Wing Half,5,0,0,0,0,0,0,0,0
+,"VEITCH, Colin ",Centre Half,6,0,0,0,0,0,0,0,0
+,"WHITSON, Tony ",Full Back,6,0,0,0,0,0,0,0,0
+,"WILSON, George ",Winger,27,4,0,1,0,0,0,0,0
+,"WILSON, James ",Goalkeeper,1,0,0,1,0,0,0,0,0

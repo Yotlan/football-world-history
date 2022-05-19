@@ -1,61 +1,30 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEST, Bobby	Winger	
-										
-BUCHAN, Charlie	Inside Forward	
-										
-BUTLER, Joe	Goalkeeper	
-										
-CONNER, Jack	Centre Forward	
-										
-CRINGAN, Willie	Wing Half	
-										
-CROSSLEY, Charlie	Inside Forward	
-										
-CUGGY, Frank	Wing Half	
-										
-DANSKIN, Charlie	Winger	
-										
-GLADWIN, Charlie	Full Back	
-										
-HOBSON, Bert	Full Back	
-										
-HOLLEY, George	Inside Forward	
-										
-HOPKINS, Bill	Centre Half	
-										
-KELSALL, Josiah	Centre Forward	
-										
-LANE, Joe	Centre Forward	
-										
-LOW, Harry	Wing Half	
-										
-MARTIN, Harry	Winger	
-										
-MILTON, Albert	Full Back	
-										
-MOORE, Billy	Inside Forward	
-										
-MORDUE, Jackie	Winger	
-										
-NESS, Harry	Full Back	
-										
-RICHARDSON, Jimmy	Centre Forward	
-										
-SCOTT, Leslie	Goalkeeper	
-										
-SHERWIN, Harry	Wing Half	
-										
-THOMSON, Charlie	Centre Half	
-										
-TINSLEY, Walter	Inside Forward	
-										
-WAUGH, John	Centre Half	
-										
-WILLIAMS, Owen	Winger	
-										
-WILSON, Tommy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEST, Bobby ",Winger,26,9,4,1,2,0,0,0,0
+,"BUCHAN, Charlie ",Inside Forward,36,14,0,5,2,0,0,0,0
+,"BUTLER, Joe ",Goalkeeper,33,0,0,5,0,0,0,0,0
+,"CONNER, Jack ",Centre Forward,3,2,0,4,3,0,0,0,0
+,"CRINGAN, Willie ",Wing Half,26,3,0,0,0,0,0,0,0
+,"CROSSLEY, Charlie ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"CUGGY, Frank ",Wing Half,31,2,0,5,0,0,0,0,0
+,"DANSKIN, Charlie ",Winger,0,0,0,0,0,0,0,0,0
+,"GLADWIN, Charlie ",Full Back,11,0,0,0,0,0,0,0,0
+,"HOBSON, Bert ",Full Back,31,0,0,5,0,0,0,0,0
+,"HOLLEY, George ",Inside Forward,36,15,0,5,0,0,0,0,0
+,"HOPKINS, Bill ",Centre Half,6,0,0,0,0,0,0,0,0
+,"KELSALL, Josiah ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"LANE, Joe ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"LOW, Harry ",Wing Half,22,1,0,5,0,0,0,0,0
+,"MARTIN, Harry ",Winger,33,2,0,4,0,0,0,0,0
+,"MILTON, Albert ",Full Back,1,0,0,0,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"MORDUE, Jackie ",Winger,21,4,2,5,2,1,0,0,0
+,"NESS, Harry ",Full Back,33,0,0,5,0,0,0,0,0
+,"RICHARDSON, Jimmy ",Centre Forward,17,9,0,1,4,0,0,0,0
+,"SCOTT, Leslie ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"SHERWIN, Harry ",Wing Half,4,0,0,0,0,0,0,0,0
+,"THOMSON, Charlie ",Centre Half,29,0,0,5,1,0,0,0,0
+,"TINSLEY, Walter ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"WAUGH, John ",Centre Half,1,0,0,0,0,0,0,0,0
+,"WILLIAMS, Owen ",Winger,0,0,0,0,0,0,0,0,0
+,"WILSON, Tommy ",Central Defender,0,0,0,0,0,0,0,0,0

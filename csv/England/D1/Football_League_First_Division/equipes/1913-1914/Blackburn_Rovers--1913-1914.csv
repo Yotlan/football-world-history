@@ -1,51 +1,25 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AITKENHEAD, Wattie	Inside Forward	
-										
-ANTHONY, Walter	Winger	
-										
-BAKER, Howard	Goalkeeper	
-										
-BELL, Alex	Wing Half	
-										
-BRADSHAW, Billy	Wing Half	
-										
-CHAPMAN, George	Centre Forward	
-										
-CLENNELL, Joe	Inside Forward	
-										
-COWELL, Arthur	Full Back	
-										
-CRABTREE, Jimmy	Goalkeeper	
-										
-CROMPTON, Bob	Full Back	
-										
-DAWSON, Percy	Centre Forward	
-										
-GOODWIN, Billy	Centre Forward	
-										
-HODKINSON, Joe	Winger	
-										
-JOHNSTON, James	Full Back	
-										
-LATHERON, Eddie	Inside Forward	
-										
-MCGHIE, Alex	Winger	
-										
-ORR, Johnny	Inside Forward	
-										
-PORTEOUS, George	Centre Half	
-										
-ROBINSON, Alfred	Goalkeeper	
-										
-SHEA, Danny	Inside Forward	
-										
-SIMPSON, Jock	Winger	
-										
-SMITH, Percy	Centre Half	
-										
-WALMSLEY, Albert	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AITKENHEAD, Wattie ",Inside Forward,17,7,0,3,4,0,0,0,0
+,"ANTHONY, Walter ",Winger,1,0,0,0,0,0,0,0,0
+,"BAKER, Howard ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BELL, Alex ",Wing Half,8,0,0,1,0,0,0,0,0
+,"BRADSHAW, Billy ",Wing Half,27,3,3,2,0,0,0,0,0
+,"CHAPMAN, George ",Centre Forward,19,9,0,0,0,0,0,0,0
+,"CLENNELL, Joe ",Inside Forward,4,1,0,0,0,0,0,0,0
+,"COWELL, Arthur ",Full Back,38,0,0,3,0,0,0,0,0
+,"CRABTREE, Jimmy ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"CROMPTON, Bob ",Full Back,33,0,0,3,0,0,0,0,0
+,"DAWSON, Percy ",Centre Forward,8,3,0,0,0,0,0,0,0
+,"GOODWIN, Billy ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"HODKINSON, Joe ",Winger,33,2,0,3,0,0,0,0,0
+,"JOHNSTON, James ",Full Back,2,0,0,0,0,0,0,0,0
+,"LATHERON, Eddie ",Inside Forward,35,13,0,3,0,0,0,0,0
+,"MCGHIE, Alex ",Winger,9,3,0,0,0,0,0,0,0
+,"ORR, Johnny ",Inside Forward,5,2,0,0,0,0,0,0,0
+,"PORTEOUS, George ",Centre Half,1,0,0,0,0,0,0,0,0
+,"ROBINSON, Alfred ",Goalkeeper,28,0,0,3,0,0,0,0,0
+,"SHEA, Danny ",Inside Forward,36,27,1,3,2,0,0,0,0
+,"SIMPSON, Jock ",Winger,34,2,0,3,0,0,0,0,0
+,"SMITH, Percy ",Centre Half,33,3,0,3,0,0,0,0,0
+,"WALMSLEY, Albert ",Wing Half,37,1,0,3,0,0,0,0,0

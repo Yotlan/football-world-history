@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BANKS, Jimmy	Inside Forward	
-										
-BAUCHOP, Jimmy	Inside Forward	
-										
-BIGGAR, Alex	Winger	
-										
-BLISS, Bert	Inside Forward	
-										
-BOWLER, George	Wing Half	
-										
-CANTRELL, Jimmy	Centre Forward	
-										
-CARTWRIGHT, Bill	Full Back	
-										
-CLAY, Tommy	Full Back	
-										
-COLLINS, Tom	Full Back	
-										
-CROWL, Syd	Winger	
-										
-DARNELL, Jabez	Wing Half	
-										
-ELLIOTT, Jimmy	Wing Half	
-										
-FLEMING, John	Wing Half	
-										
-GEMMELL, George	Centre Forward	
-										
-GRIMSDELL, Arthur	Wing Half	
-										
-JOYCE, John 'Tiny'	Goalkeeper	
-										
-KING, Arthur	Goalkeeper	
-										
-LIGHTFOOT, Edward	Wing Half	
-										
-MIDDLEMISS, Bert	Winger	
-										
-MINTER, Billy	Inside Forward	
-										
-NEWMAN, Ernie	Inside Forward	
-										
-OLIVER, William	Winger	
-										
-SMITH, George	Goalkeeper	
-										
-SPARROW, Harry	Centre Forward	
-										
-STEEL, Bobby	Inside Forward	
-										
-TATE, John	Goalkeeper	
-										
-TATTERSALL, Wally	Winger	
-										
-WALDEN, Fanny	Winger	
-										
-WEBSTER, Fred	Full Back	
-										
-WEIR, Findlay	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BANKS, Jimmy ",Inside Forward,12,0,0,0,0,0,0,0,0
+,"BAUCHOP, Jimmy ",Inside Forward,10,6,0,0,0,0,0,0,0
+,"BIGGAR, Alex ",Winger,0,0,0,0,0,0,0,0,0
+,"BLISS, Bert ",Inside Forward,29,7,0,3,4,0,0,0,0
+,"BOWLER, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"CANTRELL, Jimmy ",Centre Forward,33,16,0,2,1,0,0,0,0
+,"CARTWRIGHT, Bill ",Full Back,13,0,0,2,0,0,0,0,0
+,"CLAY, Tommy ",Full Back,15,0,0,0,0,0,0,0,0
+,"COLLINS, Tom ",Full Back,15,0,0,3,0,0,0,0,0
+,"CROWL, Syd ",Winger,1,0,0,0,0,0,0,0,0
+,"DARNELL, Jabez ",Wing Half,1,0,0,0,0,0,0,0,0
+,"ELLIOTT, Jimmy ",Wing Half,1,0,0,0,0,0,0,0,0
+,"FLEMING, John ",Wing Half,8,1,0,0,0,0,0,0,0
+,"GEMMELL, George ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"GRIMSDELL, Arthur ",Wing Half,37,1,0,3,0,0,0,0,0
+,"JOYCE, John 'Tiny' ",Goalkeeper,17,1,1,2,0,0,0,0,0
+,"KING, Arthur ",Goalkeeper,19,0,0,1,0,0,0,0,0
+,"LIGHTFOOT, Edward ",Wing Half,2,1,0,3,0,0,0,0,0
+,"MIDDLEMISS, Bert ",Winger,34,3,0,3,0,0,0,0,0
+,"MINTER, Billy ",Inside Forward,16,5,0,2,1,0,0,0,0
+,"NEWMAN, Ernie ",Inside Forward,5,0,0,1,0,0,0,0,0
+,"OLIVER, William ",Winger,2,0,0,0,0,0,0,0,0
+,"SMITH, George ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"SPARROW, Harry ",Centre Forward,3,4,0,0,0,0,0,0,0
+,"STEEL, Bobby ",Inside Forward,37,0,0,3,0,0,0,0,0
+,"TATE, John ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"TATTERSALL, Wally ",Winger,7,0,0,0,0,0,0,0,0
+,"WALDEN, Fanny ",Winger,30,5,1,3,2,0,0,0,0
+,"WEBSTER, Fred ",Full Back,33,0,0,1,0,0,0,0,0
+,"WEIR, Findlay ",Wing Half,33,0,0,0,0,0,0,0,0

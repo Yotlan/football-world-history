@@ -1,47 +1,23 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROAD, Jimmy	Centre Forward	
-										
-COOK, Billy	Full Back	
-										
-COPE, Billy	Full Back	
-										
-DIXON, Arthur	Wing Half	
-										
-DONNACHIE, Joe	Winger	
-										
-DOUGLAS, Billy	Centre Forward	
-										
-GEE, Arthur	Centre Forward	
-										
-HODSON, Jimmy	Full Back	
-										
-JOYNSON, George	Inside Forward	
-										
-KEMP, Gilbert	Inside Forward	
-										
-LAWRENCE, Val	Wing Half	
-										
-MATTHEWS, Howard	Goalkeeper	
-										
-MOFFAT, Hugh	Wing Half	
-										
-ROBERTS, Charlie	Centre Half	
-										
-TAYLOR, Ted	Goalkeeper	
-										
-TOWARD, Alf	Centre Forward	
-										
-TUMMON, Ollie	Winger	
-										
-WALTERS, Joe	Inside Forward	
-										
-WATSON, Jack	Full Back	
-										
-WILSON, David	Wing Half	
-										
-WOODGER, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROAD, Jimmy ",Centre Forward,10,4,0,0,0,0,0,0,0
+,"COOK, Billy ",Full Back,27,3,3,1,0,0,0,0,0
+,"COPE, Billy ",Full Back,4,0,0,1,0,0,0,0,0
+,"DIXON, Arthur ",Wing Half,21,0,0,0,0,0,0,0,0
+,"DONNACHIE, Joe ",Winger,36,3,0,2,1,0,0,0,0
+,"DOUGLAS, Billy ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"GEE, Arthur ",Centre Forward,24,12,0,2,0,0,0,0,0
+,"HODSON, Jimmy ",Full Back,37,0,0,2,0,0,0,0,0
+,"JOYNSON, George ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"KEMP, Gilbert ",Inside Forward,9,1,0,0,0,0,0,0,0
+,"LAWRENCE, Val ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MATTHEWS, Howard ",Goalkeeper,31,0,0,0,0,0,0,0,0
+,"MOFFAT, Hugh ",Wing Half,32,1,0,2,0,0,0,0,0
+,"ROBERTS, Charlie ",Centre Half,38,2,0,2,0,0,0,0,0
+,"TAYLOR, Ted ",Goalkeeper,7,0,0,2,0,0,0,0,0
+,"TOWARD, Alf ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"TUMMON, Ollie ",Winger,38,10,1,2,0,0,0,0,0
+,"WALTERS, Joe ",Inside Forward,28,8,0,2,0,0,0,0,0
+,"WATSON, Jack ",Full Back,0,0,0,0,0,0,0,0,0
+,"WILSON, David ",Wing Half,38,2,0,2,0,0,0,0,0
+,"WOODGER, George ",Inside Forward,29,4,0,2,0,0,0,0,0

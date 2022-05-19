@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAMFORD, Tom	Full Back	
-										
-BELLAMY, Jim	Wing Half	
-										
-BOYLE, Tommy	Centre Half	
-										
-BRADSHAW, Ernest	Wing Half	
-										
-CHARLTON, Tommy	Winger	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-FREEMAN, Bert	Centre Forward	
-										
-HALLEY, George	Wing Half	
-										
-HODGSON, Teddy	Inside Forward	
-										
-HUSBAND, William	Winger	
-										
-JONES, Cliff	Full Back	
-										
-KELLY, Bob	Inside Forward	
-										
-LINDLEY, Dick	Inside Forward	
-										
-MCLAREN, Willie	Wing Half	
-										
-MILLIGAN, George	Inside Forward	
-										
-MOSSCROP, Eddie	Winger	
-										
-MOUNTFORD, Harry	Winger	
-										
-NESBITT, Billy	Winger	
-										
-PICKERING, William	Centre Forward	
-										
-REID, Bob	Full Back	
-										
-SEWELL, Ronnie	Goalkeeper	
-										
-TAYLOR, David	Full Back	
-										
-THORPE, Levy	Wing Half	
-										
-TRANTER, Richard	Inside Forward	
-										
-WATSON, Billy	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAMFORD, Tom ",Full Back,38,0,0,8,0,0,0,0,0
+,"BELLAMY, Jim ",Wing Half,4,1,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Centre Half,33,7,5,8,1,0,0,0,0
+,"BRADSHAW, Ernest ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CHARLTON, Tommy ",Winger,5,3,0,0,0,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,32,0,0,6,0,0,0,0,0
+,"FREEMAN, Bert ",Centre Forward,31,16,0,8,3,0,0,0,0
+,"HALLEY, George ",Wing Half,33,2,0,8,1,0,0,0,0
+,"HODGSON, Teddy ",Inside Forward,32,12,0,8,5,0,0,0,0
+,"HUSBAND, William ",Winger,10,0,0,0,0,0,0,0,0
+,"JONES, Cliff ",Full Back,5,0,0,0,0,0,0,0,0
+,"KELLY, Bob ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"LINDLEY, Dick ",Inside Forward,34,10,0,8,3,0,0,0,0
+,"MCLAREN, Willie ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MILLIGAN, George ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"MOSSCROP, Eddie ",Winger,29,2,0,8,0,0,0,0,0
+,"MOUNTFORD, Harry ",Winger,2,1,0,0,0,0,0,0,0
+,"NESBITT, Billy ",Winger,24,2,0,8,0,0,0,0,0
+,"PICKERING, William ",Centre Forward,3,1,0,0,0,0,0,0,0
+,"REID, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"SEWELL, Ronnie ",Goalkeeper,6,0,0,2,0,0,0,0,0
+,"TAYLOR, David ",Full Back,30,1,0,8,0,0,0,0,0
+,"THORPE, Levy ",Wing Half,17,1,0,0,0,0,0,0,0
+,"TRANTER, Richard ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"WATSON, Billy ",Wing Half,32,1,0,8,0,0,0,0,0

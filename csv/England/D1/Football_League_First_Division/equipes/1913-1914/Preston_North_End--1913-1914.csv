@@ -1,65 +1,32 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARLOW, George	Winger	
-										
-BOND, John	Winger	
-										
-BROADHURST, Fred	Full Back	
-										
-BROOME, Tommy	Wing Half	
-										
-COMMON, Alf	Inside Forward	
-										
-CORNTHWAITE, Tommy	Goalkeeper	
-										
-DAWSON, George	Wing Half	
-										
-FORD, John	Winger	
-										
-GILBOY, Bertram	Inside Forward	
-										
-GREEN, Benny	Inside Forward	
-										
-HALLIWELL, Joe	Centre Forward	
-										
-HENDERSON, William	Wing Half	
-										
-HOLBEM, Walter	Full Back	
-										
-HOLDSWORTH, Eddie	Wing Half	
-										
-JOHNSTON, James	Wing Half	
-										
-JONES, Charlie	Goalkeeper	
-										
-KENNEDY, James	Inside Forward	
-										
-MACAULEY, Jim	Inside Forward	
-										
-MARSHALL, John	Inside Forward	
-										
-MCCALL, Joe	Centre Half	
-										
-MCFADYEN, Charlie	Full Back	
-										
-MORLEY, John	Winger	
-										
-OSBORN, Freddie	Centre Forward	
-										
-PINCH, Charlie	Wing Half	
-										
-RODWAY, Tommy	Full Back	
-										
-SHANLEY, Frank	Goalkeeper	
-										
-SWARBRICK, William	Winger	
-										
-TAYLOR, Herbert	Goalkeeper	
-										
-TOWARD, Alf	Centre Forward	
-										
-VICKERS, Simeon	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARLOW, George ",Winger,34,3,0,3,1,0,0,0,0
+,"BOND, John ",Winger,1,1,0,0,0,0,0,0,0
+,"BROADHURST, Fred ",Full Back,25,0,0,3,0,0,0,0,0
+,"BROOME, Tommy ",Wing Half,15,0,0,0,0,0,0,0,0
+,"COMMON, Alf ",Inside Forward,14,2,0,0,0,0,0,0,0
+,"CORNTHWAITE, Tommy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"DAWSON, George ",Wing Half,27,1,0,3,0,0,0,0,0
+,"FORD, John ",Winger,18,2,0,3,0,0,0,0,0
+,"GILBOY, Bertram ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"GREEN, Benny ",Inside Forward,7,0,0,0,0,0,0,0,0
+,"HALLIWELL, Joe ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"HENDERSON, William ",Wing Half,8,1,0,0,0,0,0,0,0
+,"HOLBEM, Walter ",Full Back,8,0,0,2,0,0,0,0,0
+,"HOLDSWORTH, Eddie ",Wing Half,27,0,0,3,0,0,0,0,0
+,"JOHNSTON, James ",Wing Half,7,0,0,0,0,0,0,0,0
+,"JONES, Charlie ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"KENNEDY, James ",Inside Forward,3,1,0,0,0,0,0,0,0
+,"MACAULEY, Jim ",Inside Forward,22,7,0,3,0,0,0,0,0
+,"MARSHALL, John ",Inside Forward,10,2,0,3,1,0,0,0,0
+,"MCCALL, Joe ",Centre Half,29,2,0,1,0,0,0,0,0
+,"MCFADYEN, Charlie ",Full Back,16,0,0,0,0,0,0,0,0
+,"MORLEY, John ",Winger,21,2,0,0,0,0,0,0,0
+,"OSBORN, Freddie ",Centre Forward,35,22,3,3,4,2,0,0,0
+,"PINCH, Charlie ",Wing Half,3,0,0,0,0,0,0,0,0
+,"RODWAY, Tommy ",Full Back,25,0,0,1,0,0,0,0,0
+,"SHANLEY, Frank ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SWARBRICK, William ",Winger,3,2,0,0,0,0,0,0,0
+,"TAYLOR, Herbert ",Goalkeeper,34,0,0,3,0,0,0,0,0
+,"TOWARD, Alf ",Centre Forward,18,4,0,2,0,0,0,0,0
+,"VICKERS, Simeon ",Goalkeeper,1,0,0,0,0,0,0,0,0

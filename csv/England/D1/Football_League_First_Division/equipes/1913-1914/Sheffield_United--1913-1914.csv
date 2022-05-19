@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAGNALL, Sam	Winger	
-										
-BARNSHAW, Bob	Centre Half	
-										
-BENSON, Bob	Full Back	
-										
-BRELSFORD, Bill	Wing Half	
-										
-CLARK, Herbert	Full Back	
-										
-COOK, Bill	Full Back	
-										
-DAVIES, Walter	Centre Forward	
-										
-ENGLISH, Jack	Full Back	
-										
-EVANS, Bobby	Winger	
-										
-FAZACKERLEY, Stan	Inside Forward	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GOUGH, Harold	Goalkeeper	
-										
-HALL, Harry	Inside Forward	
-										
-HAWLEY, Fred	Centre Half	
-										
-HIBBERT, Harry	Wing Half	
-										
-HUFTON, Ted	Goalkeeper	
-										
-KIDGER, Edmund	Inside Forward	
-										
-KITCHEN, Joe	Centre Forward	
-										
-PEARSON, Bert	Winger	
-										
-REVILL, Jimmy	Winger	
-										
-RICHARDSON, Tom	Full Back	
-										
-SIMMONS, Jim	Inside Forward	
-										
-STURGESS, Albert	Wing Half	
-										
-URWIN, Thomas	Wing Half	
-										
-UTLEY, George	Wing Half	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAGNALL, Sam ",Winger,7,1,0,0,0,0,0,0,0
+,"BARNSHAW, Bob ",Centre Half,3,0,0,0,0,0,0,0,0
+,"BENSON, Bob ",Full Back,3,0,0,0,0,0,0,0,0
+,"BRELSFORD, Bill ",Wing Half,38,0,0,8,0,0,0,0,0
+,"CLARK, Herbert ",Full Back,0,0,0,0,0,0,0,0,0
+,"COOK, Bill ",Full Back,35,0,0,5,0,0,0,0,0
+,"DAVIES, Walter ",Centre Forward,5,2,0,0,0,0,0,0,0
+,"ENGLISH, Jack ",Full Back,27,0,0,8,0,0,0,0,0
+,"EVANS, Bobby ",Winger,15,2,0,1,0,0,0,0,0
+,"FAZACKERLEY, Stan ",Inside Forward,36,23,0,7,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,30,12,0,8,2,0,0,0,0
+,"GOUGH, Harold ",Goalkeeper,37,0,0,8,0,0,0,0,0
+,"HALL, Harry ",Inside Forward,5,0,0,1,0,0,0,0,0
+,"HAWLEY, Fred ",Centre Half,31,0,0,6,0,0,0,0,0
+,"HIBBERT, Harry ",Wing Half,0,0,0,0,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"KIDGER, Edmund ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"KITCHEN, Joe ",Centre Forward,29,17,2,8,2,1,0,0,0
+,"PEARSON, Bert ",Winger,1,0,0,0,0,0,0,0,0
+,"REVILL, Jimmy ",Winger,30,2,0,7,1,0,0,0,0
+,"RICHARDSON, Tom ",Full Back,1,0,0,0,0,0,0,0,0
+,"SIMMONS, Jim ",Inside Forward,31,3,0,7,4,0,0,0,0
+,"STURGESS, Albert ",Wing Half,28,0,0,7,0,0,0,0,0
+,"URWIN, Thomas ",Wing Half,2,0,0,0,0,0,0,0,0
+,"UTLEY, George ",Wing Half,23,1,0,7,4,0,0,0,0

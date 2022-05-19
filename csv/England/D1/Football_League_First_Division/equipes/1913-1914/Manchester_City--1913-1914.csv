@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ABBOTT, James	Inside Forward	
-										
-BIRDS, Joe	Goalkeeper	
-										
-BLYTH, Billy	Inside Forward	
-										
-BOTTOMLEY, Bill	Wing Half	
-										
-BROWELL, Tommy	Centre Forward	
-										
-CARTWRIGHT, Joe	Winger	
-										
-CUMMING, James	Winger	
-										
-DORSETT, Joe	Winger	
-										
-EADIE, Bill	Centre Half	
-										
-FAIRCLOUGH, Albert	Centre Forward	
-										
-FLETCHER, Eli	Full Back	
-										
-GARNER, William	Centre Half	
-										
-GOODCHILD, Jim	Goalkeeper	
-										
-HANNEY, Ted	Centre Half	
-										
-HENRY, Billy	Full Back	
-										
-HINDMARSH, Jimmy	Wing Half	
-										
-HOAD, Sid	Winger	
-										
-HOLFORD, Tom	Centre Half	
-										
-HOWARD, Fred	Centre Forward	
-										
-HUGHES, Teddy	Wing Half	
-										
-JONES, Lot	Inside Forward	
-										
-MCGUIRE, Paddy	Full Back	
-										
-PARKER, Fred	Centre Half	
-										
-SMITH, Walter	Goalkeeper	
-										
-SPOTTISWOOD, Joe	Winger	
-										
-TAYLOR, Harry	Inside Forward	
-										
-WALL, Len	Wing Half	
-										
-WALLACE, William	Winger	
-										
-WYNN, George	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ABBOTT, James ",Inside Forward,3,2,0,0,0,0,0,0,0
+,"BIRDS, Joe ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"BOTTOMLEY, Bill ",Wing Half,11,0,0,0,0,0,0,0,0
+,"BROWELL, Tommy ",Centre Forward,27,13,0,6,1,0,0,0,0
+,"CARTWRIGHT, Joe ",Winger,9,0,0,5,1,0,0,0,0
+,"CUMMING, James ",Winger,23,3,0,5,0,0,0,0,0
+,"DORSETT, Joe ",Winger,17,1,0,0,0,0,0,0,0
+,"EADIE, Bill ",Centre Half,6,0,0,0,0,0,0,0,0
+,"FAIRCLOUGH, Albert ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"FLETCHER, Eli ",Full Back,36,0,0,6,0,0,0,0,0
+,"GARNER, William ",Centre Half,2,0,0,0,0,0,0,0,0
+,"GOODCHILD, Jim ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"HANNEY, Ted ",Centre Half,24,1,0,6,0,0,0,0,0
+,"HENRY, Billy ",Full Back,33,0,0,6,0,0,0,0,0
+,"HINDMARSH, Jimmy ",Wing Half,24,1,0,6,1,0,0,0,0
+,"HOAD, Sid ",Winger,5,0,0,0,0,0,0,0,0
+,"HOLFORD, Tom ",Centre Half,15,0,0,0,0,0,0,0,0
+,"HOWARD, Fred ",Centre Forward,29,11,0,6,3,0,0,0,0
+,"HUGHES, Teddy ",Wing Half,30,2,0,6,0,0,0,0,0
+,"JONES, Lot ",Inside Forward,14,4,0,1,0,0,0,0,0
+,"MCGUIRE, Paddy ",Full Back,6,0,0,0,0,0,0,0,0
+,"PARKER, Fred ",Centre Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Walter ",Goalkeeper,36,0,0,6,0,0,0,0,0
+,"SPOTTISWOOD, Joe ",Winger,6,0,0,0,0,0,0,0,0
+,"TAYLOR, Harry ",Inside Forward,27,8,0,6,0,0,0,0,0
+,"WALL, Len ",Wing Half,4,0,0,0,0,0,0,0,0
+,"WALLACE, William ",Winger,15,1,0,1,0,0,0,0,0
+,"WYNN, George ",Inside Forward,12,3,0,0,0,0,0,0,0

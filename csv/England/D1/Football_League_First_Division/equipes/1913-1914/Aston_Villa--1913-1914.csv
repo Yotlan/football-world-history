@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANSTEY, Brendel	Goalkeeper	
-										
-BACHE, Joe	Inside Forward	
-										
-BARBER, Tommy	Wing Half	
-										
-BOYNE, Reg	Centre Forward	
-										
-CHANDLER, Robert	Goalkeeper	
-										
-CRISP, Jack	Winger	
-										
-DYKE, Archie	Winger	
-										
-EDGLEY, Harry	Winger	
-										
-HALL, Bert	Winger	
-										
-HAMPTON, Harry	Centre Forward	
-										
-HARDY, Sam	Goalkeeper	
-										
-HARROP, Jimmy	Centre Half	
-										
-LAIDLAW, John	Inside Forward	
-										
-LEACH, Jimmy	Wing Half	
-										
-LITTLEWOOD, Wilfred	Full Back	
-										
-LYONS, Tommy	Full Back	
-										
-MCLACHLAN, Albert	Wing Half	
-										
-MCLACHLAN, John	Inside Forward	
-										
-MCLAVERTY, John	Centre Half	
-										
-MILES, Alf	Full Back	
-										
-MORRIS, William	Centre Half	
-										
-RICHARDS, Leonard	Goalkeeper	
-										
-SLADE, Charlie	Wing Half	
-										
-SMART, Herbert	Inside Forward	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TRANTER, George	Wing Half	
-										
-WALLACE, Charlie	Winger	
-										
-WESTON, Tommy	Full Back	
-										
-WHITTAKER, Samson	Wing Half	
-										
-WILLIAMS, William	Full Back
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANSTEY, Brendel ",Goalkeeper,6,0,0,0,0,0,0,0,0
+,"BACHE, Joe ",Inside Forward,28,12,0,4,1,0,0,0,0
+,"BARBER, Tommy ",Wing Half,28,4,0,5,0,0,0,0,0
+,"BOYNE, Reg ",Centre Forward,4,0,0,0,0,0,0,0,0
+,"CHANDLER, Robert ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"CRISP, Jack ",Winger,0,0,0,0,0,0,0,0,0
+,"DYKE, Archie ",Winger,6,0,0,0,0,0,0,0,0
+,"EDGLEY, Harry ",Winger,19,5,0,5,1,0,0,0,0
+,"HALL, Bert ",Winger,3,1,0,0,0,0,0,0,0
+,"HAMPTON, Harry ",Centre Forward,30,19,5,5,5,0,0,0,0
+,"HARDY, Sam ",Goalkeeper,30,0,0,5,0,0,0,0,0
+,"HARROP, Jimmy ",Centre Half,35,1,0,5,0,0,0,0,0
+,"LAIDLAW, John ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"LEACH, Jimmy ",Wing Half,28,0,0,5,0,0,0,0,0
+,"LITTLEWOOD, Wilfred ",Full Back,7,0,0,0,0,0,0,0,0
+,"LYONS, Tommy ",Full Back,34,0,0,5,0,0,0,0,0
+,"MCLACHLAN, Albert ",Wing Half,3,0,0,0,0,0,0,0,0
+,"MCLACHLAN, John ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"MCLAVERTY, John ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MILES, Alf ",Full Back,6,0,0,0,0,0,0,0,0
+,"MORRIS, William ",Centre Half,13,0,0,0,0,0,0,0,0
+,"RICHARDS, Leonard ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"SLADE, Charlie ",Wing Half,3,0,0,0,0,0,0,0,0
+,"SMART, Herbert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,36,12,0,5,2,0,0,0,0
+,"TRANTER, George ",Wing Half,9,0,0,0,0,0,0,0,0
+,"WALLACE, Charlie ",Winger,32,4,1,5,0,0,0,0,0
+,"WESTON, Tommy ",Full Back,28,0,0,5,0,0,0,0,0
+,"WHITTAKER, Samson ",Wing Half,14,4,0,1,0,0,0,0,0
+,"WILLIAMS, William ",Full Back,1,0,0,0,0,0,0,0,0

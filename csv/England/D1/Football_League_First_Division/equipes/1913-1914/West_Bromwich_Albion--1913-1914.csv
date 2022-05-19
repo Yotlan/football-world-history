@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BACHE, Harold	Centre Forward	
-										
-BADDELEY, George	Wing Half	
-										
-BENTLEY, Alf	Centre Forward	
-										
-BOWSER, Sid	Centre Half	
-										
-BUCK, Fred	Inside Forward	
-										
-COOK, Arthur	Full Back	
-										
-DEACEY, Charlie	Centre Half	
-										
-EDWARDS, Ernie	Inside Forward	
-										
-GREGORY, Howard	Winger	
-										
-JEPHCOTT, Claude	Winger	
-										
-LEWIS, Albert	Winger	
-										
-LLOYD, Amos	Winger	
-										
-MCNEAL, Bobby	Wing Half	
-										
-MORRIS, Fred	Inside Forward	
-										
-NEWALL, Tommy	Wing Half	
-										
-NICHOLLS, Jack	Winger	
-										
-PAILOR, Bob	Centre Forward	
-										
-PEARSON, Hubert	Goalkeeper	
-										
-PENNINGTON, Jesse	Full Back	
-										
-SHEARMAN, Ben	Winger	
-										
-SMITH, Joe	Full Back	
-										
-SWIFT, Arthur	Centre Forward	
-										
-WATERHOUSE, Frank	Wing Half	
-										
-WOOD, Matt	Full Back	
-										
-WRIGHT, Harry	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BACHE, Harold ",Centre Forward,0,0,0,1,0,0,0,0,0
+,"BADDELEY, George ",Wing Half,6,0,0,0,0,0,0,0,0
+,"BENTLEY, Alf ",Centre Forward,31,16,2,3,1,0,0,0,0
+,"BOWSER, Sid ",Centre Half,13,0,0,1,1,0,0,0,0
+,"BUCK, Fred ",Inside Forward,19,2,1,3,0,0,0,0,0
+,"COOK, Arthur ",Full Back,4,0,0,0,0,0,0,0,0
+,"DEACEY, Charlie ",Centre Half,6,0,0,0,0,0,0,0,0
+,"EDWARDS, Ernie ",Inside Forward,7,3,0,1,1,0,0,0,0
+,"GREGORY, Howard ",Winger,5,3,0,0,0,0,0,0,0
+,"JEPHCOTT, Claude ",Winger,37,2,0,3,1,0,0,0,0
+,"LEWIS, Albert ",Winger,18,3,0,1,0,0,0,0,0
+,"LLOYD, Amos ",Winger,6,0,0,0,0,0,0,0,0
+,"MCNEAL, Bobby ",Wing Half,36,2,0,3,0,0,0,0,0
+,"MORRIS, Fred ",Inside Forward,26,6,0,2,1,0,0,0,0
+,"NEWALL, Tommy ",Wing Half,7,1,0,0,0,0,0,0,0
+,"NICHOLLS, Jack ",Winger,4,0,0,0,0,0,0,0,0
+,"PAILOR, Bob ",Centre Forward,2,1,0,0,0,0,0,0,0
+,"PEARSON, Hubert ",Goalkeeper,38,0,0,3,0,0,0,0,0
+,"PENNINGTON, Jesse ",Full Back,32,0,0,3,0,0,0,0,0
+,"SHEARMAN, Ben ",Winger,27,2,0,3,0,0,0,0,0
+,"SMITH, Joe ",Full Back,35,0,0,3,0,0,0,0,0
+,"SWIFT, Arthur ",Centre Forward,13,4,0,0,0,0,0,0,0
+,"WATERHOUSE, Frank ",Wing Half,37,0,0,3,0,0,0,0,0
+,"WOOD, Matt ",Full Back,5,0,0,0,0,0,0,0,0
+,"WRIGHT, Harry ",Inside Forward,4,1,0,0,0,0,0,0,0

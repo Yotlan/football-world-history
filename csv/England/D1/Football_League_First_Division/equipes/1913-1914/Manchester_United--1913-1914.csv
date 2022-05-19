@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1913/14
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ANDERSON, George	Centre Forward	
-										
-BEALE, Bobby	Goalkeeper	
-										
-CASHMORE, Arthur	Centre Forward	
-										
-CHORLTON, Tom	Full Back	
-										
-DUCKWORTH, Dick	Wing Half	
-										
-GIPPS, Tommy	Wing Half	
-										
-HAMILL, Mickey	Wing Half	
-										
-HAYWOOD, Joseph	Wing Half	
-										
-HODGE, Jimmy	Full Back	
-										
-HODGE, John	Full Back	
-										
-HOOPER, Arthur	Inside Forward	
-										
-HUDSON, Edward	Full Back	
-										
-HUNTER, George	Wing Half	
-										
-KNOWLES, Frank	Centre Half	
-										
-LIVINGSTONE, Geordie	Inside Forward	
-										
-MEREDITH, Billy	Winger	
-										
-MEW, Jack	Goalkeeper	
-										
-NEWCOMBE, Charles	Inside Forward	
-										
-NORTON, Joe	Winger	
-										
-POTTS, Arthur	Inside Forward	
-										
-ROBERTS, Robert	Full Back	
-										
-ROWE, Jocelyn	Full Back	
-										
-ROYALS, Ezra	Goalkeeper	
-										
-STACEY, George	Full Back	
-										
-THOMSON, James	Winger	
-										
-TRAVERS, George	Inside Forward	
-										
-TURNBULL, Sandy	Inside Forward	
-										
-WALL, George	Winger	
-										
-WEST, Enoch 'Knocker'	Centre Forward	
-										
-WHALLEY, Arthur	Centre Half	
-										
-WOODCOCK, Wilf	Inside Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ANDERSON, George ",Centre Forward,32,15,0,0,0,0,0,0,0
+,"BEALE, Bobby ",Goalkeeper,31,0,0,1,0,0,0,0,0
+,"CASHMORE, Arthur ",Centre Forward,3,0,0,0,0,0,0,0,0
+,"CHORLTON, Tom ",Full Back,4,0,0,0,0,0,0,0,0
+,"DUCKWORTH, Dick ",Wing Half,9,0,0,0,0,0,0,0,0
+,"GIPPS, Tommy ",Wing Half,11,0,0,0,0,0,0,0,0
+,"HAMILL, Mickey ",Wing Half,26,0,0,0,0,0,0,0,0
+,"HAYWOOD, Joseph ",Wing Half,14,0,0,0,0,0,0,0,0
+,"HODGE, Jimmy ",Full Back,28,0,0,1,0,0,0,0,0
+,"HODGE, John ",Full Back,4,0,0,0,0,0,0,0,0
+,"HOOPER, Arthur ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"HUDSON, Edward ",Full Back,9,0,0,0,0,0,0,0,0
+,"HUNTER, George ",Wing Half,7,0,0,0,0,0,0,0,0
+,"KNOWLES, Frank ",Centre Half,18,1,0,1,0,0,0,0,0
+,"LIVINGSTONE, Geordie ",Inside Forward,3,0,0,1,0,0,0,0,0
+,"MEREDITH, Billy ",Winger,34,2,0,1,0,0,0,0,0
+,"MEW, Jack ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"NEWCOMBE, Charles ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"NORTON, Joe ",Winger,8,0,0,0,0,0,0,0,0
+,"POTTS, Arthur ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"ROBERTS, Robert ",Full Back,2,0,0,0,0,0,0,0,0
+,"ROWE, Jocelyn ",Full Back,1,0,0,0,0,0,0,0,0
+,"ROYALS, Ezra ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"STACEY, George ",Full Back,34,1,0,1,0,0,0,0,0
+,"THOMSON, James ",Winger,6,1,0,0,0,0,0,0,0
+,"TRAVERS, George ",Inside Forward,13,4,0,0,0,0,0,0,0
+,"TURNBULL, Sandy ",Inside Forward,17,4,0,1,0,0,0,0,0
+,"WALL, George ",Winger,29,11,0,1,0,0,0,0,0
+,"WEST, Enoch 'Knocker' ",Centre Forward,30,6,0,1,0,0,0,0,0
+,"WHALLEY, Arthur ",Centre Half,18,2,0,1,0,0,0,0,0
+,"WOODCOCK, Wilf ",Inside Forward,11,2,0,1,0,0,0,0,0
