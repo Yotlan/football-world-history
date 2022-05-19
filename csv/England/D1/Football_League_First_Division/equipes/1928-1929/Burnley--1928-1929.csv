@@ -1,63 +1,31 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BEEL, George	Centre Forward	
-										
-BOWSHER, Stan	Central Defender	
-										
-BROWN, Jimmy	Wing Half	
-										
-BRUTON, Jack	Winger	
-										
-CONWAY, Thomas	Full Back	
-										
-DAWSON, Arthur	Winger	
-										
-DAWSON, Jerry	Goalkeeper	
-										
-DEVINE, Joe	Inside Forward	
-										
-DOWN, Billy	Goalkeeper	
-										
-FITTON, Fred	Centre Forward	
-										
-FLACK, Hugh	Full Back	
-										
-FORREST, Alex	Wing Half	
-										
-FREEMAN, Albert	Inside Forward	
-										
-HEAP, Clifford	Full Back	
-										
-HESLOP, Archie	Winger	
-										
-HILL, Jack	Central Defender	
-										
-HUNT, Patrick	Centre Half	
-										
-KNOX, William	Full Back	
-										
-MANTLE, Joe	Centre Forward	
-										
-MCCLUGGAGE, Andy	Full Back	
-										
-PAGE, Louis	Winger	
-										
-PARKIN, George	Wing Half	
-										
-SOMMERVILLE, George	Goalkeeper	
-										
-STAGE, Billy	Inside Forward	
-										
-STEEL, John	Wing Half	
-										
-STORER, Harry	Wing Half	
-										
-WALLACE, James	Inside Forward	
-										
-WALMSLEY, Cliff	Goalkeeper	
-										
-WATERFIELD, George	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BEEL, George ",Centre Forward,41,30,0,3,2,0,0,0,0
+,"BOWSHER, Stan ",Central Defender,9,0,0,0,0,0,0,0,0
+,"BROWN, Jimmy ",Wing Half,11,1,0,0,0,0,0,0,0
+,"BRUTON, Jack ",Winger,40,11,0,3,0,0,0,0,0
+,"CONWAY, Thomas ",Full Back,3,0,0,1,0,0,0,0,0
+,"DAWSON, Arthur ",Winger,0,0,0,0,0,0,0,0,0
+,"DAWSON, Jerry ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"DEVINE, Joe ",Inside Forward,42,10,0,3,2,0,0,0,0
+,"DOWN, Billy ",Goalkeeper,37,0,0,1,0,0,0,0,0
+,"FITTON, Fred ",Centre Forward,12,1,0,0,0,0,0,0,0
+,"FLACK, Hugh ",Full Back,3,0,0,0,0,0,0,0,0
+,"FORREST, Alex ",Wing Half,11,0,0,2,0,0,0,0,0
+,"FREEMAN, Albert ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"HEAP, Clifford ",Full Back,5,0,0,0,0,0,0,0,0
+,"HESLOP, Archie ",Winger,2,0,0,0,0,0,0,0,0
+,"HILL, Jack ",Central Defender,11,0,0,0,0,0,0,0,0
+,"HUNT, Patrick ",Centre Half,8,0,0,3,0,0,0,0,0
+,"KNOX, William ",Full Back,11,0,0,0,0,0,0,0,0
+,"MANTLE, Joe ",Centre Forward,4,1,0,0,0,0,0,0,0
+,"MCCLUGGAGE, Andy ",Full Back,36,6,6,3,1,1,0,0,0
+,"PAGE, Louis ",Winger,39,17,0,3,2,0,0,0,0
+,"PARKIN, George ",Wing Half,27,0,0,2,0,0,0,0,0
+,"SOMMERVILLE, George ",Goalkeeper,4,0,0,2,0,0,0,0,0
+,"STAGE, Billy ",Inside Forward,19,0,0,3,0,0,0,0,0
+,"STEEL, John ",Wing Half,33,0,0,1,0,0,0,0,0
+,"STORER, Harry ",Wing Half,12,2,0,0,0,0,0,0,0
+,"WALLACE, James ",Inside Forward,6,1,0,0,0,0,0,0,0
+,"WALMSLEY, Cliff ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"WATERFIELD, George ",Full Back,29,0,0,3,0,0,0,0,0

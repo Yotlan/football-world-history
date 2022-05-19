@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAILLIE, David	Goalkeeper	
-										
-BARRETT, Jim	Central Defender	
-										
-BOWDEN, Fred	Winger	
-										
-CADWELL, Albert	Wing Half	
-										
-COLLINS, Jimmy	Wing Half	
-										
-COSHALL, John	Full Back	
-										
-COX, Tommy	Wing Half	
-										
-COX, Charlie	Full Back	
-										
-DIXON, Bob	Goalkeeper	
-										
-EARL, Alf	Full Back	
-										
-EARLE, Stan	Inside Forward	
-										
-GIBBINS, Viv	Centre Forward	
-										
-HAGUE, Eric	Winger	
-										
-HODGSON, Tommy	Full Back	
-										
-HUFTON, Ted	Goalkeeper	
-										
-HULL, Archie	Wing Half	
-										
-MOORE, Billy	Inside Forward	
-										
-NORRINGTON, Cyril	Full Back	
-										
-NORRIS, Fred	Wing Half	
-										
-PAYNE, John	Winger	
-										
-ROBSON, George	Inside Forward	
-										
-RUFFELL, Jimmy	Winger	
-										
-SHARP, Arthur	Inside Forward	
-										
-SHONE, Danny	Inside Forward	
-										
-SIMMONS, Harry	Inside Forward	
-										
-SMAILES, Matt	Centre Half	
-										
-SMITH, George	Full Back	
-										
-SMITH, William	Full Back	
-										
-TATE, Hal	Goalkeeper	
-										
-WATSON, Vic	Centre Forward	
-										
-WHITE, Cecil	Wing Half	
-										
-YEWS, Tommy	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAILLIE, David ",Goalkeeper,2,0,0,1,0,0,0,0,0
+,"BARRETT, Jim ",Central Defender,22,1,0,2,3,0,0,0,0
+,"BOWDEN, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"CADWELL, Albert ",Wing Half,40,0,0,5,0,0,0,0,0
+,"COLLINS, Jimmy ",Wing Half,39,1,0,5,0,0,0,0,0
+,"COSHALL, John ",Full Back,2,0,0,0,0,0,0,0,0
+,"COX, Tommy ",Wing Half,0,0,0,0,0,0,0,0,0
+,"COX, Charlie ",Full Back,20,0,0,2,0,0,0,0,0
+,"DIXON, Bob ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"EARL, Alf ",Full Back,32,0,0,5,0,0,0,0,0
+,"EARLE, Stan ",Inside Forward,41,6,0,5,2,0,0,0,0
+,"GIBBINS, Viv ",Centre Forward,29,11,0,2,0,0,0,0,0
+,"HAGUE, Eric ",Winger,0,0,0,0,0,0,0,0,0
+,"HODGSON, Tommy ",Full Back,28,0,0,5,0,0,0,0,0
+,"HUFTON, Ted ",Goalkeeper,31,0,0,4,0,0,0,0,0
+,"HULL, Archie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MOORE, Billy ",Inside Forward,6,0,0,1,0,0,0,0,0
+,"NORRINGTON, Cyril ",Full Back,14,0,0,0,0,0,0,0,0
+,"NORRIS, Fred ",Wing Half,6,0,0,0,0,0,0,0,0
+,"PAYNE, John ",Winger,3,1,0,0,0,0,0,0,0
+,"ROBSON, George ",Inside Forward,5,1,0,0,0,0,0,0,0
+,"RUFFELL, Jimmy ",Winger,37,20,0,5,0,0,0,0,0
+,"SHARP, Arthur ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SHONE, Danny ",Inside Forward,12,5,0,0,0,0,0,0,0
+,"SIMMONS, Harry ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"SMAILES, Matt ",Centre Half,7,0,0,3,0,0,0,0,0
+,"SMITH, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"SMITH, William ",Full Back,1,0,0,0,0,0,0,0,0
+,"TATE, Hal ",Goalkeeper,7,0,0,0,0,0,0,0,0
+,"WATSON, Vic ",Centre Forward,34,29,0,5,1,0,0,0,0
+,"WHITE, Cecil ",Wing Half,0,0,0,0,0,0,0,0,0
+,"YEWS, Tommy ",Winger,41,10,0,5,3,0,0,0,0

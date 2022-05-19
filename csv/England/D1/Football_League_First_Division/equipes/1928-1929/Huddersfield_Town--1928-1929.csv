@@ -1,67 +1,33 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BARKAS, Ned	Full Back	
-										
-BIRD, Syd	Winger	
-										
-BROWN, George	Centre Forward	
-										
-BRUCE, Jackie	Goalkeeper	
-										
-CAMPBELL, Willie	Wing Half	
-										
-CARR, Billy	Wing Half	
-										
-CUMMING, Laurie	Inside Forward	
-										
-DENT, Johnny	Centre Forward	
-										
-EVANS, Dai Gethin	Wing Half	
-										
-FOGG, Billy	Wing Half	
-										
-GOODALL, Roy	Full Back	
-										
-HARLAND, Tommy	Full Back	
-										
-HILL, Albert	Centre Half	
-										
-JACKSON, Alex	Winger	
-										
-KELLY, Bob	Inside Forward	
-										
-LEWIS, Wilf	Centre Forward	
-										
-MEADS, Tommy	Wing Half	
-										
-NAYLOR, Jimmy	Wing Half	
-										
-PICKERING, Bill	Full Back	
-										
-RAW, Harry	Inside Forward	
-										
-REDFERN, Levi	Wing Half	
-										
-RILEY, Joe	Centre Forward	
-										
-ROUGHTON, George	Full Back	
-										
-SMAILES, Jimmy	Winger	
-										
-SMITH, Billy	Winger	
-										
-SPENCE, Bonwell	Full Back	
-										
-STEELE, David	Wing Half	
-										
-STEPHENSON, Clem	Inside Forward	
-										
-TURNER, Hugh	Goalkeeper	
-										
-WADSWORTH, Sam	Full Back	
-										
-WILSON, Tommy	Central Defender
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BARKAS, Ned ",Full Back,6,0,0,0,0,0,0,0,0
+,"BIRD, Syd ",Winger,0,0,0,0,0,0,0,0,0
+,"BROWN, George ",Centre Forward,28,15,0,6,8,0,0,0,0
+,"BRUCE, Jackie ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"CAMPBELL, Willie ",Wing Half,1,0,0,0,0,0,0,0,0
+,"CARR, Billy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"CUMMING, Laurie ",Inside Forward,17,6,0,2,2,0,0,0,0
+,"DENT, Johnny ",Centre Forward,21,9,0,3,0,0,0,0,0
+,"EVANS, Dai Gethin ",Wing Half,18,0,0,1,0,0,0,0,0
+,"FOGG, Billy ",Wing Half,4,0,0,0,0,0,0,0,0
+,"GOODALL, Roy ",Full Back,42,3,3,5,0,0,0,0,0
+,"HARLAND, Tommy ",Full Back,0,0,0,0,0,0,0,0,0
+,"HILL, Albert ",Centre Half,0,0,0,0,0,0,0,0,0
+,"JACKSON, Alex ",Winger,35,14,0,6,5,0,0,0,0
+,"KELLY, Bob ",Inside Forward,32,6,0,6,2,0,0,0,0
+,"LEWIS, Wilf ",Centre Forward,2,2,0,0,0,0,0,0,0
+,"MEADS, Tommy ",Wing Half,3,0,0,0,0,0,0,0,0
+,"NAYLOR, Jimmy ",Wing Half,22,1,0,6,0,0,0,0,0
+,"PICKERING, Bill ",Full Back,0,0,0,1,0,0,0,0,0
+,"RAW, Harry ",Inside Forward,16,4,0,1,0,0,0,0,0
+,"REDFERN, Levi ",Wing Half,9,0,0,3,0,0,0,0,0
+,"RILEY, Joe ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"ROUGHTON, George ",Full Back,2,0,0,0,0,0,0,0,0
+,"SMAILES, Jimmy ",Winger,10,1,0,0,0,0,0,0,0
+,"SMITH, Billy ",Winger,32,5,0,6,2,0,0,0,0
+,"SPENCE, Bonwell ",Full Back,13,0,0,0,0,0,0,0,0
+,"STEELE, David ",Wing Half,21,0,0,2,0,0,0,0,0
+,"STEPHENSON, Clem ",Inside Forward,12,4,0,0,0,0,0,0,0
+,"TURNER, Hugh ",Goalkeeper,42,0,0,6,0,0,0,0,0
+,"WADSWORTH, Sam ",Full Back,34,0,0,6,0,0,0,0,0
+,"WILSON, Tommy ",Central Defender,37,0,0,6,0,0,0,0,0

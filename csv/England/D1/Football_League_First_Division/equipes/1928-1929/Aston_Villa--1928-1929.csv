@@ -1,66 +1,32 @@
-
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BERESFORD, Joe	Inside Forward	
-										
-BOWEN, Teddy	Full Back	
-										
-BRITTLETON, John	Full Back	
-										
-CAPEWELL, Len	Centre Forward	
-										
-CHESTER, Reg	Winger	
-										
-COOK, Billy	Inside Forward	
-										
-DORRELL, Arthur	Winger	
-										
-GIBSON, Jimmy	Wing Half	
-										
-JACKSON, Tommy	Goalkeeper	
-										
-JAKEMAN, George	Wing Half	
-										
-JONES, Bill	Inside Forward	
-										
-KINGDON, Billy	Wing Half	
-										
-MILNE, Vic	Centre Half	
-										
-MORT, Tommy	Full Back	
-										
-MOSS, Frank	Wing Half	
-										
-OLNEY, Ben	Goalkeeper	
-										
-PEED, Frank	Inside Forward	
-										
-RICHARDS, David	Wing Half	
-										
-SMART, Tommy	Full Back	
-										
-SWALES, Norman	Wing Half	
-										
-TALBOT, Alec	Central Defender	
-										
-TATE, Joe	Wing Half	
-										
-TEBB, Tommy	Inside Forward	
-										
-TRENTHAM, Bert	Full Back	
-										
-TULLY, Fred	Winger	
-										
-WALKER, Billy	Inside Forward	
-										
-WARING, Tom 'Pongo'	Centre Forward	
-										
-WESTWOOD, Ray	Inside Forward	
-										
-YATES, Jack	Wing Half	
-										
-YORK, Dicky	Winger
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BERESFORD, Joe ",Inside Forward,38,11,0,6,3,0,0,0,0
+,"BOWEN, Teddy ",Full Back,34,0,0,4,0,0,0,0,0
+,"BRITTLETON, John ",Full Back,7,0,0,0,0,0,0,0,0
+,"CAPEWELL, Len ",Centre Forward,5,3,0,0,0,0,0,0,0
+,"CHESTER, Reg ",Winger,17,9,0,2,0,0,0,0,0
+,"COOK, Billy ",Inside Forward,9,3,0,1,1,0,0,0,0
+,"DORRELL, Arthur ",Winger,25,6,0,4,3,0,0,0,0
+,"GIBSON, Jimmy ",Wing Half,5,2,0,0,0,0,0,0,0
+,"JACKSON, Tommy ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"JAKEMAN, George ",Wing Half,3,0,0,0,0,0,0,0,0
+,"JONES, Bill ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"KINGDON, Billy ",Wing Half,38,0,0,6,0,0,0,0,0
+,"MILNE, Vic ",Centre Half,16,0,0,0,0,0,0,0,0
+,"MORT, Tommy ",Full Back,12,0,0,3,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,2,0,0,0,0,0,0,0,0
+,"OLNEY, Ben ",Goalkeeper,37,0,0,6,0,0,0,0,0
+,"PEED, Frank ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"RICHARDS, David ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SMART, Tommy ",Full Back,31,1,1,5,0,0,0,0,0
+,"SWALES, Norman ",Wing Half,5,0,0,2,1,0,0,0,0
+,"TALBOT, Alec ",Central Defender,25,2,0,6,0,0,0,0,0
+,"TATE, Joe ",Wing Half,30,0,0,4,1,0,0,0,0
+,"TEBB, Tommy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"TRENTHAM, Bert ",Full Back,0,0,0,0,0,0,0,0,0
+,"TULLY, Fred ",Winger,1,0,0,0,0,0,0,0,0
+,"WALKER, Billy ",Inside Forward,36,19,0,5,0,0,0,0,0
+,"WARING, Tom 'Pongo' ",Centre Forward,36,25,0,6,7,0,0,0,0
+,"WESTWOOD, Ray ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"YATES, Jack ",Wing Half,3,0,0,0,0,0,0,0,0
+,"YORK, Dicky ",Winger,42,16,0,6,2,0,0,0,0

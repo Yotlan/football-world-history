@@ -1,65 +1,32 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BENNION, Ray	Wing Half	
-										
-BOYLE, Tommy	Inside Forward	
-										
-COLLINS, Robert	Centre Forward	
-										
-DALE, Billy	Full Back	
-										
-HANSON, Jimmy	Inside Forward	
-										
-HILDITCH, Clarrie	Wing Half	
-										
-INGLIS, Bill	Full Back	
-										
-JOHN, Roy	Goalkeeper	
-										
-JOHNSTON, Billy	Inside Forward	
-										
-MANN, Frank	Inside Forward	
-										
-MCLENAHAN, Hugh	Wing Half	
-										
-MOORE, Charlie	Full Back	
-										
-NICOL, Geordie	Centre Forward	
-										
-PARTRIDGE, Ted	Winger	
-										
-RAMSDEN, Charlie	Winger	
-										
-RAWLINGS, Bill	Centre Forward	
-										
-REID, Tommy	Centre Forward	
-										
-RICHARDSON, Lance	Goalkeeper	
-										
-ROWLEY, Harry	Inside Forward	
-										
-SILCOCK, Jack	Full Back	
-										
-SPENCE, Joe	Winger	
-										
-SPENCER, Charlie	Centre Half	
-										
-STEWARD, Alf	Goalkeeper	
-										
-SWEENEY, Eric	Inside Forward	
-										
-TAYLOR, Christopher	Centre Half	
-										
-THOMAS, Harry	Winger	
-										
-THOMSON, Arthur	Inside Forward	
-										
-WARD, Bob	Wing Half	
-										
-WILLIAMS, Rees	Winger	
-										
-WILSON, Jack	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BENNION, Ray ",Wing Half,34,0,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"COLLINS, Robert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"DALE, Billy ",Full Back,19,0,0,0,0,0,0,0,0
+,"HANSON, Jimmy ",Inside Forward,42,19,1,1,1,0,0,0,0
+,"HILDITCH, Clarrie ",Wing Half,11,1,0,0,0,0,0,0,0
+,"INGLIS, Bill ",Full Back,1,0,0,0,0,0,0,0,0
+,"JOHN, Roy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"JOHNSTON, Billy ",Inside Forward,12,5,0,0,0,0,0,0,0
+,"MANN, Frank ",Inside Forward,25,1,0,2,0,0,0,0,0
+,"MCLENAHAN, Hugh ",Wing Half,1,0,0,0,0,0,0,0,0
+,"MOORE, Charlie ",Full Back,37,0,0,2,0,0,0,0,0
+,"NICOL, Geordie ",Centre Forward,2,0,0,0,0,0,0,0,0
+,"PARTRIDGE, Ted ",Winger,5,0,0,0,0,0,0,0,0
+,"RAMSDEN, Charlie ",Winger,5,3,0,0,0,0,0,0,0
+,"RAWLINGS, Bill ",Centre Forward,19,6,0,1,0,0,0,0,0
+,"REID, Tommy ",Centre Forward,17,14,0,0,0,0,0,0,0
+,"RICHARDSON, Lance ",Goalkeeper,5,0,0,0,0,0,0,0,0
+,"ROWLEY, Harry ",Inside Forward,25,5,0,0,0,0,0,0,0
+,"SILCOCK, Jack ",Full Back,27,1,0,2,0,0,0,0,0
+,"SPENCE, Joe ",Winger,36,5,0,2,1,0,0,0,0
+,"SPENCER, Charlie ",Centre Half,36,0,0,2,0,0,0,0,0
+,"STEWARD, Alf ",Goalkeeper,37,0,0,2,0,0,0,0,0
+,"SWEENEY, Eric ",Inside Forward,6,1,0,2,0,0,0,0,0
+,"TAYLOR, Christopher ",Centre Half,3,0,0,1,1,0,0,0,0
+,"THOMAS, Harry ",Winger,19,4,0,1,0,0,0,0,0
+,"THOMSON, Arthur ",Inside Forward,0,0,0,1,0,0,0,0,0
+,"WARD, Bob ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WILLIAMS, Rees ",Winger,18,0,0,1,0,0,0,0,0
+,"WILSON, Jack ",Wing Half,19,1,0,2,0,0,0,0,0

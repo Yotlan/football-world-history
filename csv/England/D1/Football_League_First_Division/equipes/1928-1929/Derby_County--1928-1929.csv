@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERMAN, Albert	Inside Forward	
-										
-BARCLAY, Bobby	Inside Forward	
-										
-BARKER, Jack	Central Defender	
-										
-BEDFORD, Harry	Centre Forward	
-										
-BOWERS, Jack	Centre Forward	
-										
-CARR, Billy	Full Back	
-										
-COLLIN, George	Full Back	
-										
-COOPER, Tommy	Full Back	
-										
-CROOKS, Sammy	Winger	
-										
-DAVISON, Tommy	Central Defender	
-										
-FEREDAY, David	Winger	
-										
-HAMPTON, John	Goalkeeper	
-										
-MALLOCH, Gavin	Wing Half	
-										
-MANN, Bert	Winger	
-										
-MCDOUGALL, Alexander	Wing Half	
-										
-MCINTYRE, Johnny	Wing Half	
-										
-MEE, George	Winger	
-										
-NICHOLAS, Jack	Wing Half	
-										
-RAMAGE, Peter	Inside Forward	
-										
-ROBINSON, Tom	Wing Half	
-										
-ROBSON, Jack	Winger	
-										
-ROBSON, Bill	Full Back	
-										
-RUDDY, Tom	Centre Forward	
-										
-SCOTT, Archie	Wing Half	
-										
-STEPHENSON, George	Inside Forward	
-										
-STORER, Harry	Wing Half	
-										
-WHITEHOUSE, Jack	Inside Forward	
-										
-WILKES, Harry	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERMAN, Albert ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"BARCLAY, Bobby ",Inside Forward,8,2,0,0,0,0,0,0,0
+,"BARKER, Jack ",Central Defender,20,0,0,2,0,0,0,0,0
+,"BEDFORD, Harry ",Centre Forward,41,27,0,3,3,0,0,0,0
+,"BOWERS, Jack ",Centre Forward,6,5,0,0,0,0,0,0,0
+,"CARR, Billy ",Full Back,14,0,0,0,0,0,0,0,0
+,"COLLIN, George ",Full Back,39,0,0,3,0,0,0,0,0
+,"COOPER, Tommy ",Full Back,28,0,0,3,0,0,0,0,0
+,"CROOKS, Sammy ",Winger,29,6,0,2,0,0,0,0,0
+,"DAVISON, Tommy ",Central Defender,22,1,1,1,0,0,0,0,0
+,"FEREDAY, David ",Winger,10,1,0,1,0,0,0,0,0
+,"HAMPTON, John ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"MALLOCH, Gavin ",Wing Half,12,0,0,0,0,0,0,0,0
+,"MANN, Bert ",Winger,4,0,0,2,0,0,0,0,0
+,"MCDOUGALL, Alexander ",Wing Half,2,0,0,0,0,0,0,0,0
+,"MCINTYRE, Johnny ",Wing Half,34,1,0,0,0,0,0,0,0
+,"MEE, George ",Winger,19,5,0,0,0,0,0,0,0
+,"NICHOLAS, Jack ",Wing Half,2,0,0,0,0,0,0,0,0
+,"RAMAGE, Peter ",Inside Forward,7,2,0,0,0,0,0,0,0
+,"ROBINSON, Tom ",Wing Half,1,0,0,2,0,0,0,0,0
+,"ROBSON, Jack ",Winger,21,4,0,1,0,0,0,0,0
+,"ROBSON, Bill ",Full Back,3,0,0,0,0,0,0,0,0
+,"RUDDY, Tom ",Centre Forward,5,5,0,0,0,0,0,0,0
+,"SCOTT, Archie ",Wing Half,3,0,0,1,0,0,0,0,0
+,"STEPHENSON, George ",Inside Forward,32,11,0,3,0,0,0,0,0
+,"STORER, Harry ",Wing Half,30,1,0,3,0,0,0,0,0
+,"WHITEHOUSE, Jack ",Inside Forward,27,14,0,3,2,0,0,0,0
+,"WILKES, Harry ",Goalkeeper,41,0,0,3,0,0,0,0,0

@@ -1,55 +1,27 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALDERSON, Jack	Goalkeeper	
-										
-BIRKS, Len	Full Back	
-										
-BLAIR, John	Inside Forward	
-										
-BOYLE, Tommy	Inside Forward	
-										
-CAWTHORNE, Harry	Wing Half	
-										
-CHANDLER, Bert	Full Back	
-										
-DAVIS, George	Central Defender	
-										
-DUNNE, Jimmy	Centre Forward	
-										
-GIBSON, Jock	Full Back	
-										
-GIBSON, Sid	Winger	
-										
-GILLESPIE, Billy	Inside Forward	
-										
-GREEN, George	Wing Half	
-										
-HUNTER, Norman	Inside Forward	
-										
-JENKINSON, Fred	Full Back	
-										
-JOHNSON, Harry	Centre Forward	
-										
-KING, Seth	Central Defender	
-										
-MATTHEWS, Vince	Centre Half	
-										
-OXLEY, Bernard	Winger	
-										
-PARTRIDGE, Albert	Winger	
-										
-PHILLIPSON, Tom	Centre Forward	
-										
-PICKERING, Jack	Inside Forward	
-										
-SAMPY, Tommy	Wing Half	
-										
-TUNSTALL, Fred	Winger	
-										
-WEBSTER, Wally	Full Back	
-										
-WHARTON, Norman	Goalkeeper	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALDERSON, Jack ",Goalkeeper,8,0,0,0,0,0,0,0,0
+,"BIRKS, Len ",Full Back,33,0,0,1,0,0,0,0,0
+,"BLAIR, John ",Inside Forward,8,1,0,0,0,0,0,0,0
+,"BOYLE, Tommy ",Inside Forward,8,3,0,0,0,0,0,0,0
+,"CAWTHORNE, Harry ",Wing Half,5,0,0,1,0,0,0,0,0
+,"CHANDLER, Bert ",Full Back,19,0,0,0,0,0,0,0,0
+,"DAVIS, George ",Central Defender,2,0,0,0,0,0,0,0,0
+,"DUNNE, Jimmy ",Centre Forward,2,2,0,0,0,0,0,0,0
+,"GIBSON, Jock ",Full Back,5,0,0,0,0,0,0,0,0
+,"GIBSON, Sid ",Winger,32,7,0,1,0,0,0,0,0
+,"GILLESPIE, Billy ",Inside Forward,30,6,0,1,1,0,0,0,0
+,"GREEN, George ",Wing Half,39,1,0,1,0,0,0,0,0
+,"HUNTER, Norman ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"JENKINSON, Fred ",Full Back,0,0,0,0,0,0,0,0,0
+,"JOHNSON, Harry ",Centre Forward,38,31,0,0,0,0,0,0,0
+,"KING, Seth ",Central Defender,2,0,0,0,0,0,0,0,0
+,"MATTHEWS, Vince ",Centre Half,40,1,0,1,0,0,0,0,0
+,"OXLEY, Bernard ",Winger,6,0,0,1,0,0,0,0,0
+,"PARTRIDGE, Albert ",Winger,14,0,0,0,0,0,0,0,0
+,"PHILLIPSON, Tom ",Centre Forward,31,14,0,1,0,0,0,0,0
+,"PICKERING, Jack ",Inside Forward,10,4,0,0,0,0,0,0,0
+,"SAMPY, Tommy ",Wing Half,41,1,0,1,0,0,0,0,0
+,"TUNSTALL, Fred ",Winger,41,12,7,1,0,0,0,0,0
+,"WEBSTER, Wally ",Full Back,14,0,0,0,0,0,0,0,0
+,"WHARTON, Norman ",Goalkeeper,34,0,0,1,0,0,0,0,0

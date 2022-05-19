@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-AUSTIN, Billy	Winger	
-										
-BACON, Arthur	Centre Forward	
-										
-BARBER, Lewis	Goalkeeper	
-										
-BARRASS, Matt	Inside Forward	
-										
-BENNETT, Edward	Full Back	
-										
-BROADHURST, Charlie	Centre Forward	
-										
-BROOK, Eric	Winger	
-										
-CONDON, Bernard	Centre Forward	
-										
-COWAN, Sam	Central Defender	
-										
-FELTON, Billy	Full Back	
-										
-GIBBONS, Syd	Central Defender	
-										
-GRAY, Bert	Goalkeeper	
-										
-HEINEMANN, George	Wing Half	
-										
-HEYWOOD, George	Full Back	
-										
-HICKS, George	Winger	
-										
-HORNE, Alf	Winger	
-										
-JOHNSON, Tommy	Inside Forward	
-										
-LEWINS, George	Full Back	
-										
-MARSHALL, Bobby	Inside Forward	
-										
-MCCLOY, Phil	Full Back	
-										
-MCMULLAN, Jimmy	Wing Half	
-										
-RIDLEY, Mick	Full Back	
-										
-ROBERTS, Frank	Centre Forward	
-										
-ROXBURGH, Alex	Goalkeeper	
-										
-TAIT, Tommy	Centre Forward	
-										
-TERRY, Cyril	Full Back	
-										
-TILSON, Fred	Inside Forward	
-										
-TOSELAND, Ernie	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"AUSTIN, Billy ",Winger,38,5,0,1,1,0,0,0,0
+,"BACON, Arthur ",Centre Forward,5,1,0,0,0,0,0,0,0
+,"BARBER, Lewis ",Goalkeeper,25,0,0,1,0,0,0,0,0
+,"BARRASS, Matt ",Inside Forward,40,2,0,1,0,0,0,0,0
+,"BENNETT, Edward ",Full Back,2,0,0,0,0,0,0,0,0
+,"BROADHURST, Charlie ",Centre Forward,5,4,0,0,0,0,0,0,0
+,"BROOK, Eric ",Winger,42,14,0,1,0,0,0,0,0
+,"CONDON, Bernard ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COWAN, Sam ",Central Defender,38,1,0,1,0,0,0,0,0
+,"FELTON, Billy ",Full Back,10,0,0,0,0,0,0,0,0
+,"GIBBONS, Syd ",Central Defender,3,0,0,0,0,0,0,0,0
+,"GRAY, Bert ",Goalkeeper,17,0,0,0,0,0,0,0,0
+,"HEINEMANN, George ",Wing Half,4,0,0,0,0,0,0,0,0
+,"HEYWOOD, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"HICKS, George ",Winger,1,0,0,0,0,0,0,0,0
+,"HORNE, Alf ",Winger,4,0,0,0,0,0,0,0,0
+,"JOHNSON, Tommy ",Inside Forward,39,38,0,1,0,0,0,0,0
+,"LEWINS, George ",Full Back,0,0,0,0,0,0,0,0,0
+,"MARSHALL, Bobby ",Inside Forward,33,7,0,1,0,0,0,0,0
+,"MCCLOY, Phil ",Full Back,31,0,0,1,0,0,0,0,0
+,"MCMULLAN, Jimmy ",Wing Half,38,0,0,1,0,0,0,0,0
+,"RIDLEY, Mick ",Full Back,40,0,0,1,0,0,0,0,0
+,"ROBERTS, Frank ",Centre Forward,14,6,0,1,0,0,0,0,0
+,"ROXBURGH, Alex ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"TAIT, Tommy ",Centre Forward,8,3,0,0,0,0,0,0,0
+,"TERRY, Cyril ",Full Back,0,0,0,0,0,0,0,0,0
+,"TILSON, Fred ",Inside Forward,22,12,0,0,0,0,0,0,0
+,"TOSELAND, Ernie ",Winger,3,1,0,0,0,0,0,0,0

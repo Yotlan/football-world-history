@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BELL, Tommy	Full Back	
-										
-CLIFFORD, George	Full Back	
-										
-COOK, Fred	Winger	
-										
-DAVIES, Frank	Wing Half	
-										
-DREYER, Fred	Wing Half	
-										
-EASSON, Jimmy	Inside Forward	
-										
-FARRELL, Bobby	Inside Forward	
-										
-FORWARD, Fred	Winger	
-										
-GILFILLAN, Jock	Goalkeeper	
-										
-IRVINE, Bobby	Inside Forward	
-										
-KNOX, Jimmy	Inside Forward	
-										
-LANYON, Billy	Winger	
-										
-LATIMER, John	Winger	
-										
-LEWIS, Ben	Goalkeeper	
-										
-MACKIE, Alex	Full Back	
-										
-MCCOLGAN, John	Full Back	
-										
-MCILWANE, Johnny	Central Defender	
-										
-MCNEIL, Johnny	Central Defender	
-										
-MCPHAIL, Dan	Goalkeeper	
-										
-MOFFAT, Billy	Wing Half	
-										
-NICHOL, Jimmy	Wing Half	
-										
-SHIPLEY, Thomas	Full Back	
-										
-SLACK, Bill	Wing Half	
-										
-SMITH, Jack	Inside Forward	
-										
-SMITH, Billy	Full Back	
-										
-THACKERAY, David	Wing Half	
-										
-WATSON, David	Inside Forward	
-										
-WEDDLE, Jack	Centre Forward	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BELL, Tommy ",Full Back,20,0,0,2,0,0,0,0,0
+,"CLIFFORD, George ",Full Back,14,0,0,0,0,0,0,0,0
+,"COOK, Fred ",Winger,42,6,0,7,1,0,0,0,0
+,"DAVIES, Frank ",Wing Half,0,0,0,0,0,0,0,0,0
+,"DREYER, Fred ",Wing Half,0,0,0,0,0,0,0,0,0
+,"EASSON, Jimmy ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"FARRELL, Bobby ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"FORWARD, Fred ",Winger,41,8,0,7,0,0,0,0,0
+,"GILFILLAN, Jock ",Goalkeeper,24,0,0,7,0,0,0,0,0
+,"IRVINE, Bobby ",Inside Forward,24,8,0,4,1,0,0,0,0
+,"KNOX, Jimmy ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"LANYON, Billy ",Winger,0,0,0,0,0,0,0,0,0
+,"LATIMER, John ",Winger,1,0,0,0,0,0,0,0,0
+,"LEWIS, Ben ",Goalkeeper,2,0,0,0,0,0,0,0,0
+,"MACKIE, Alex ",Full Back,31,0,0,7,0,0,0,0,0
+,"MCCOLGAN, John ",Full Back,17,0,0,5,0,0,0,0,0
+,"MCILWANE, Johnny ",Central Defender,32,4,1,6,0,0,0,0,0
+,"MCNEIL, Johnny ",Central Defender,9,5,0,2,2,0,0,0,0
+,"MCPHAIL, Dan ",Goalkeeper,16,0,0,0,0,0,0,0,0
+,"MOFFAT, Billy ",Wing Half,15,0,0,1,0,0,0,0,0
+,"NICHOL, Jimmy ",Wing Half,40,0,0,7,0,0,0,0,0
+,"SHIPLEY, Thomas ",Full Back,0,0,0,0,0,0,0,0,0
+,"SLACK, Bill ",Wing Half,0,0,0,0,0,0,0,0,0
+,"SMITH, Jack ",Inside Forward,38,8,0,7,3,0,0,0,0
+,"SMITH, Billy ",Full Back,1,0,0,0,0,0,0,0,0
+,"THACKERAY, David ",Wing Half,39,1,0,7,0,0,0,0,0
+,"WATSON, David ",Inside Forward,24,6,0,3,0,0,0,0,0
+,"WEDDLE, Jack ",Centre Forward,31,8,0,5,3,0,0,0,0

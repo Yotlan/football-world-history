@@ -1,69 +1,34 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKBURN, George	Wing Half	
-										
-DAVIES, Len	Inside Forward	
-										
-DAVIES, Stan	Centre Forward	
-										
-FARQUHARSON, Tom	Goalkeeper	
-										
-FERGUSON, Hughie	Centre Forward	
-										
-HAMPSON, Tommy	Goalkeeper	
-										
-HARDY, Billy	Wing Half	
-										
-HARRIS, Frank	Wing Half	
-										
-HELSBY, Tom	Wing Half	
-										
-HILLIER, Joe	Goalkeeper	
-										
-JENNINGS, Jack	Full Back	
-										
-JOHN, Emlyn	Wing Half	
-										
-KEENOR, Fred	Central Defender	
-										
-KIRBY, Herbert	Winger	
-										
-MATSON, Frank	Winger	
-										
-MCGRATH, Jimmy	Winger	
-										
-MCLACHLAN, George	Winger	
-										
-MILES, Alfie	Centre Forward	
-										
-MOSS, Frank	Wing Half	
-										
-MUNRO, Jim	Centre Forward	
-										
-NELSON, Jimmy	Full Back	
-										
-POTTER SMITH, Thomas	Inside Forward	
-										
-ROBBINS, Walter	Winger	
-										
-ROBERTS, Bill	Full Back	
-										
-ROBINSON, Matt	Inside Forward	
-										
-SHAW, William	Inside Forward	
-										
-SLOAN, Tom	Centre Half	
-										
-THIRLAWAY, Billy	Winger	
-										
-WAKE, Harry	Wing Half	
-										
-WARING, William	Winger	
-										
-WARREN, Freddie	Winger	
-										
-WATSON, Tommy	Full Back	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKBURN, George ",Wing Half,24,0,0,0,0,0,0,0,0
+,"DAVIES, Len ",Inside Forward,27,7,0,0,0,0,0,0,0
+,"DAVIES, Stan ",Centre Forward,14,2,0,0,0,0,0,0,0
+,"FARQUHARSON, Tom ",Goalkeeper,35,0,0,0,0,0,0,0,0
+,"FERGUSON, Hughie ",Centre Forward,20,14,1,0,0,0,0,0,0
+,"HAMPSON, Tommy ",Goalkeeper,6,0,0,1,0,0,0,0,0
+,"HARDY, Billy ",Wing Half,22,0,0,1,1,0,0,0,0
+,"HARRIS, Frank ",Wing Half,13,2,0,0,0,0,0,0,0
+,"HELSBY, Tom ",Wing Half,13,0,0,1,0,0,0,0,0
+,"HILLIER, Joe ",Goalkeeper,1,0,0,0,0,0,0,0,0
+,"JENNINGS, Jack ",Full Back,42,0,0,1,0,0,0,0,0
+,"JOHN, Emlyn ",Wing Half,2,0,0,0,0,0,0,0,0
+,"KEENOR, Fred ",Central Defender,36,0,0,1,0,0,0,0,0
+,"KIRBY, Herbert ",Winger,0,0,0,0,0,0,0,0,0
+,"MATSON, Frank ",Winger,6,0,0,0,0,0,0,0,0
+,"MCGRATH, Jimmy ",Winger,1,0,0,0,0,0,0,0,0
+,"MCLACHLAN, George ",Winger,33,2,0,1,0,0,0,0,0
+,"MILES, Alfie ",Centre Forward,2,1,0,1,0,0,0,0,0
+,"MOSS, Frank ",Wing Half,9,0,0,0,0,0,0,0,0
+,"MUNRO, Jim ",Centre Forward,11,2,0,0,0,0,0,0,0
+,"NELSON, Jimmy ",Full Back,11,0,0,0,0,0,0,0,0
+,"POTTER SMITH, Thomas ",Inside Forward,14,1,0,0,0,0,0,0,0
+,"ROBBINS, Walter ",Winger,7,1,0,1,0,0,0,0,0
+,"ROBERTS, Bill ",Full Back,21,0,0,0,0,0,0,0,0
+,"ROBINSON, Matt ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"SHAW, William ",Inside Forward,2,0,0,0,0,0,0,0,0
+,"SLOAN, Tom ",Centre Half,15,1,0,0,0,0,0,0,0
+,"THIRLAWAY, Billy ",Winger,37,6,0,1,0,0,0,0,0
+,"WAKE, Harry ",Wing Half,17,3,0,1,0,0,0,0,0
+,"WARING, William ",Winger,0,0,0,0,0,0,0,0,0
+,"WARREN, Freddie ",Winger,19,1,0,1,0,0,0,0,0
+,"WATSON, Tommy ",Full Back,1,0,0,0,0,0,0,0,0

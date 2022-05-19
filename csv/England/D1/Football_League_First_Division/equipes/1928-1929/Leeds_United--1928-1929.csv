@@ -1,61 +1,30 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ALMOND, Alfred	Full Back	
-										
-ARMAND, Jack	Inside Forward	
-										
-BELL, Gordon	Winger	
-										
-BUCK, Teddy	Wing Half	
-										
-COCHRANE, Tom	Winger	
-										
-EDWARDS, Willis	Wing Half	
-										
-FIRTH, Joe	Inside Forward	
-										
-GLOVER, Ted	Full Back	
-										
-GRIBBEN, Bill	Centre Half	
-										
-HART, Ernie	Central Defender	
-										
-JENNINGS, Tommy	Centre Forward	
-										
-KEETLEY, Charlie	Centre Forward	
-										
-LONGDEN, Eric	Inside Forward	
-										
-MCNESTRY, George	Winger	
-										
-MENZIES, Bill	Full Back	
-										
-MILBURN, Jack	Full Back	
-										
-MITCHELL, Tom	Winger	
-										
-POTTS, Jimmy	Goalkeeper	
-										
-REED, George	Wing Half	
-										
-ROBERTS, Harry	Full Back	
-										
-STACEY, Alec	Wing Half	
-										
-TOWNSLEY, Tom	Full Back	
-										
-TURNBULL, Bobby	Winger	
-										
-UNDERWOOD, Ben	Wing Half	
-										
-WAINSCOAT, Russell	Inside Forward	
-										
-WHITE, John	Inside Forward	
-										
-WILSON, George	Inside Forward	
-										
-WILSON, Jimmy	Goalkeeper
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ALMOND, Alfred ",Full Back,0,0,0,0,0,0,0,0,0
+,"ARMAND, Jack ",Inside Forward,9,3,0,0,0,0,0,0,0
+,"BELL, Gordon ",Winger,0,0,0,0,0,0,0,0,0
+,"BUCK, Teddy ",Wing Half,8,0,0,0,0,0,0,0,0
+,"COCHRANE, Tom ",Winger,11,0,0,2,1,0,0,0,0
+,"EDWARDS, Willis ",Wing Half,29,0,0,3,0,0,0,0,0
+,"FIRTH, Joe ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"GLOVER, Ted ",Full Back,0,0,0,0,0,0,0,0,0
+,"GRIBBEN, Bill ",Centre Half,3,0,0,0,0,0,0,0,0
+,"HART, Ernie ",Central Defender,35,2,0,3,0,0,0,0,0
+,"JENNINGS, Tommy ",Centre Forward,17,9,0,0,0,0,0,0,0
+,"KEETLEY, Charlie ",Centre Forward,29,20,0,3,2,0,0,0,0
+,"LONGDEN, Eric ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"MCNESTRY, George ",Winger,3,0,0,0,0,0,0,0,0
+,"MENZIES, Bill ",Full Back,38,0,0,3,1,0,0,0,0
+,"MILBURN, Jack ",Full Back,5,0,0,0,0,0,0,0,0
+,"MITCHELL, Tom ",Winger,30,3,0,1,0,0,0,0,0
+,"POTTS, Jimmy ",Goalkeeper,39,0,0,2,0,0,0,0,0
+,"REED, George ",Wing Half,39,0,0,3,1,0,0,0,0
+,"ROBERTS, Harry ",Full Back,6,0,0,0,0,0,0,0,0
+,"STACEY, Alec ",Wing Half,6,0,0,0,0,0,0,0,0
+,"TOWNSLEY, Tom ",Full Back,38,0,0,3,0,0,0,0,0
+,"TURNBULL, Bobby ",Winger,39,6,0,3,0,0,0,0,0
+,"UNDERWOOD, Ben ",Wing Half,1,0,0,0,0,0,0,0,0
+,"WAINSCOAT, Russell ",Inside Forward,39,18,1,3,1,0,0,0,0
+,"WHITE, John ",Inside Forward,28,9,0,3,0,0,0,0,0
+,"WILSON, George ",Inside Forward,3,0,0,0,0,0,0,0,0
+,"WILSON, Jimmy ",Goalkeeper,3,0,0,1,0,0,0,0,0

@@ -1,69 +1,34 @@
-	-- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BLACKMORE, Harold	Centre Forward	
-										
-BOSTON, Harry	Winger	
-										
-BUTLER, Billy	Winger	
-										
-COLLINS, Robert	Centre Forward	
-										
-COOK, Willie	Winger	
-										
-COPE, John	Wing Half	
-										
-FINNEY, Alex	Full Back	
-										
-GASKELL, Richard	Centre Forward	
-										
-GIBSON, George	Inside Forward	
-										
-GILL, Jimmy	Goalkeeper	
-										
-GREENHALGH, Harry	Full Back	
-										
-HAWORTH, Bob	Full Back	
-										
-JACK, David	Inside Forward	
-										
-JACK, Rollo	Inside Forward	
-										
-JENNINGS, Billy	Wing Half	
-										
-KEAN, Fred	Wing Half	
-										
-KNOX, Tommy	Goalkeeper	
-										
-MCCLELLAND, Jimmy	Inside Forward	
-										
-MORTIMER, Bob	Centre Forward	
-										
-MURPHY, Lionel 'Spud'	Winger	
-										
-NUTTALL, Harry	Wing Half	
-										
-PYM, Dick	Goalkeeper	
-										
-ROUND, Jack	Central Defender	
-										
-SEDDON, Jimmy	Central Defender	
-										
-SHOTTON, Bob	Full Back	
-										
-THORNBOROUGH, Ernie	Wing Half	
-										
-VIZARD, Ted	Winger	
-										
-WAGSTAFF, James	Full Back	
-										
-WALKER, Albert	Full Back	
-										
-WEBSTER, Ernie	Wing Half	
-										
-WORRALL, Fred	Winger	
-										
-WRIGHT, Billy	Wing Half
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BLACKMORE, Harold ",Centre Forward,35,30,0,8,7,0,0,0,0
+,"BOSTON, Harry ",Winger,3,0,0,0,0,0,0,0,0
+,"BUTLER, Billy ",Winger,38,6,0,8,5,0,0,0,0
+,"COLLINS, Robert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"COOK, Willie ",Winger,16,0,0,8,0,0,0,0,0
+,"COPE, John ",Wing Half,6,0,0,0,0,0,0,0,0
+,"FINNEY, Alex ",Full Back,32,0,0,7,0,0,0,0,0
+,"GASKELL, Richard ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GIBSON, George ",Inside Forward,40,17,0,8,3,0,0,0,0
+,"GILL, Jimmy ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"GREENHALGH, Harry ",Full Back,3,0,0,1,0,0,0,0,0
+,"HAWORTH, Bob ",Full Back,40,0,0,8,0,0,0,0,0
+,"JACK, David ",Inside Forward,7,1,0,0,0,0,0,0,0
+,"JACK, Rollo ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"JENNINGS, Billy ",Wing Half,9,0,0,0,0,0,0,0,0
+,"KEAN, Fred ",Wing Half,32,1,0,8,0,0,0,0,0
+,"KNOX, Tommy ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MCCLELLAND, Jimmy ",Inside Forward,39,9,0,8,1,0,0,0,0
+,"MORTIMER, Bob ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MURPHY, Lionel 'Spud' ",Winger,19,4,0,0,0,0,0,0,0
+,"NUTTALL, Harry ",Wing Half,31,0,0,8,0,0,0,0,0
+,"PYM, Dick ",Goalkeeper,32,0,0,8,0,0,0,0,0
+,"ROUND, Jack ",Central Defender,13,0,0,0,0,0,0,0,0
+,"SEDDON, Jimmy ",Central Defender,26,0,0,8,1,0,0,0,0
+,"SHOTTON, Bob ",Full Back,0,0,0,0,0,0,0,0,0
+,"THORNBOROUGH, Ernie ",Wing Half,14,0,0,0,0,0,0,0,0
+,"VIZARD, Ted ",Winger,7,3,0,0,0,0,0,0,0
+,"WAGSTAFF, James ",Full Back,1,0,0,0,0,0,0,0,0
+,"WALKER, Albert ",Full Back,0,0,0,0,0,0,0,0,0
+,"WEBSTER, Ernie ",Wing Half,0,0,0,0,0,0,0,0,0
+,"WORRALL, Fred ",Winger,0,0,0,0,0,0,0,0,0
+,"WRIGHT, Billy ",Wing Half,8,2,0,0,0,0,0,0,0

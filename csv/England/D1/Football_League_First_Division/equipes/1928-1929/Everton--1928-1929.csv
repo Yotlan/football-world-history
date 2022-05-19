@@ -1,55 +1,27 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-ATTWOOD, Arthur	Centre Forward	
-										
-COMMON, Ted	Full Back	
-										
-CRESSWELL, Warney	Full Back	
-										
-CRITCHLEY, Ted	Winger	
-										
-DAVIES, Arthur	Goalkeeper	
-										
-DEAN, Bill 'Dixie'	Centre Forward	
-										
-DIXON, Matt	Centre Half	
-										
-DUNN, Jimmy	Inside Forward	
-										
-EASTON, Bill	Inside Forward	
-										
-FORSHAW, Dick	Inside Forward	
-										
-GRIFFITHS, Tom	Central Defender	
-										
-HART, Hunter	Wing Half	
-										
-KELLY, Jerry	Wing Half	
-										
-KENNEDY, Andy	Full Back	
-										
-LEWIS, Tommy	Winger	
-										
-MAHER, Ted	Goalkeeper	
-										
-MARTIN, George	Inside Forward	
-										
-O'DONNELL, Jack	Full Back	
-										
-RITCHIE, Harry	Winger	
-										
-ROONEY, Walter	Wing Half	
-										
-STEIN, Jimmy	Winger	
-										
-TROUP, Alec	Winger	
-										
-VIRR, Albert	Wing Half	
-										
-WELDON, Tony	Inside Forward	
-										
-WHITE, Tommy	Central Defender	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"ATTWOOD, Arthur ",Centre Forward,1,0,0,0,0,0,0,0,0
+,"COMMON, Ted ",Full Back,10,0,0,0,0,0,0,0,0
+,"CRESSWELL, Warney ",Full Back,32,1,0,1,0,0,1,0,0
+,"CRITCHLEY, Ted ",Winger,25,1,0,0,0,0,0,0,0
+,"DAVIES, Arthur ",Goalkeeper,42,0,0,1,0,0,1,0,0
+,"DEAN, Bill 'Dixie' ",Centre Forward,29,26,0,1,0,0,1,2,0
+,"DIXON, Matt ",Centre Half,0,0,0,0,0,0,0,0,0
+,"DUNN, Jimmy ",Inside Forward,24,4,0,1,0,0,0,0,0
+,"EASTON, Bill ",Inside Forward,12,2,0,0,0,0,0,0,0
+,"FORSHAW, Dick ",Inside Forward,8,1,0,0,0,0,1,0,0
+,"GRIFFITHS, Tom ",Central Defender,26,2,0,1,0,0,1,0,0
+,"HART, Hunter ",Wing Half,40,0,0,1,0,0,1,0,0
+,"KELLY, Jerry ",Wing Half,21,0,0,0,0,0,0,0,0
+,"KENNEDY, Andy ",Full Back,1,0,0,0,0,0,0,0,0
+,"LEWIS, Tommy ",Winger,1,0,0,0,0,0,0,0,0
+,"MAHER, Ted ",Goalkeeper,0,0,0,0,0,0,0,0,0
+,"MARTIN, George ",Inside Forward,18,6,1,0,0,0,0,0,0
+,"O'DONNELL, Jack ",Full Back,41,0,0,1,0,0,1,0,0
+,"RITCHIE, Harry ",Winger,19,4,0,1,0,0,1,0,0
+,"ROONEY, Walter ",Wing Half,5,0,0,0,0,0,0,0,0
+,"STEIN, Jimmy ",Winger,4,0,0,1,0,0,0,0,0
+,"TROUP, Alec ",Winger,38,5,0,0,0,0,1,0,0
+,"VIRR, Albert ",Wing Half,24,0,0,1,0,0,1,0,0
+,"WELDON, Tony ",Inside Forward,20,3,0,1,0,0,1,0,0
+,"WHITE, Tommy ",Central Defender,21,6,0,0,0,0,0,0,0

@@ -1,59 +1,29 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BROMILOW, Tom	Wing Half	
-										
-CLARK, Bob	Inside Forward	
-										
-DAVIDSON, Dave	Central Defender	
-										
-DONE, Bob	Full Back	
-										
-EDMED, Dick	Winger	
-										
-FLANNIGAN, Pat	Centre Half	
-										
-GRAY, Jimmy	Full Back	
-										
-HODGSON, Gordon	Inside Forward	
-										
-HOPKIN, Fred	Winger	
-										
-JACKSON, Jimmy	Full Back	
-										
-LINDSAY, John	Winger	
-										
-LUCAS, Tommy	Full Back	
-										
-MARSHALL, John	Centre Forward	
-										
-MCBAIN, Neil	Centre Half	
-										
-MCDOUGALL, Jimmy	Wing Half	
-										
-MCFARLANE, John	Inside Forward	
-										
-MCKINLAY, Donald	Full Back	
-										
-MILLAR, Billy	Centre Forward	
-										
-MORRISON, Tom	Wing Half	
-										
-RACE, Harry	Inside Forward	
-										
-REID, Tommy	Centre Forward	
-										
-RILEY, Arthur	Goalkeeper	
-										
-SALISBURY, Bill	Centre Forward	
-										
-SCOTT, Elisha	Goalkeeper	
-										
-SHEARS, Bert	Central Defender	
-										
-VALENTINE, Albert	Centre Forward	
-										
-WHITEHURST, Bert	Centre Forward
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BROMILOW, Tom ",Wing Half,28,1,0,2,0,0,0,0,0
+,"CLARK, Bob ",Inside Forward,32,9,0,3,0,0,0,0,0
+,"DAVIDSON, Dave ",Central Defender,36,1,0,3,0,0,0,0,0
+,"DONE, Bob ",Full Back,37,5,3,3,0,0,0,0,0
+,"EDMED, Dick ",Winger,39,16,0,3,0,0,0,0,0
+,"FLANNIGAN, Pat ",Centre Half,0,0,0,0,0,0,0,0,0
+,"GRAY, Jimmy ",Full Back,1,0,0,0,0,0,0,0,0
+,"HODGSON, Gordon ",Inside Forward,38,30,0,3,2,0,0,0,0
+,"HOPKIN, Fred ",Winger,22,0,0,0,0,0,0,0,0
+,"JACKSON, Jimmy ",Full Back,42,0,0,3,0,0,0,0,0
+,"LINDSAY, John ",Winger,10,1,0,2,1,0,0,0,0
+,"LUCAS, Tommy ",Full Back,5,0,0,0,0,0,0,0,0
+,"MARSHALL, John ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"MCBAIN, Neil ",Centre Half,2,0,0,0,0,0,0,0,0
+,"MCDOUGALL, Jimmy ",Wing Half,36,8,0,3,0,0,0,0,0
+,"MCFARLANE, John ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"MCKINLAY, Donald ",Full Back,2,0,0,0,0,0,0,0,0
+,"MILLAR, Billy ",Centre Forward,3,2,0,0,0,0,0,0,0
+,"MORRISON, Tom ",Wing Half,42,0,0,3,0,0,0,0,0
+,"RACE, Harry ",Inside Forward,13,9,0,0,0,0,0,0,0
+,"REID, Tommy ",Centre Forward,5,2,0,1,0,0,0,0,0
+,"RILEY, Arthur ",Goalkeeper,20,0,0,3,0,0,0,0,0
+,"SALISBURY, Bill ",Centre Forward,16,2,0,1,1,0,0,0,0
+,"SCOTT, Elisha ",Goalkeeper,22,0,0,0,0,0,0,0,0
+,"SHEARS, Bert ",Central Defender,2,0,0,0,0,0,0,0,0
+,"VALENTINE, Albert ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"WHITEHURST, Bert ",Centre Forward,8,2,0,0,0,0,0,0,0

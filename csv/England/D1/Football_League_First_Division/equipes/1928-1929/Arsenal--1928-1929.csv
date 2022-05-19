@@ -1,57 +1,28 @@
--- League --	--- FA Cup ---	---- Other ----
-
-1928/29
-Position	App	Gls	Pen	App	Gls	Pen	App	Gls	Pen
-
-										
-BAKER, Alf	Wing Half	
-										
-BARLEY, Charlie	Wing Half	
-										
-BLYTH, Billy	Inside Forward	
-										
-BRAIN, Jimmy	Centre Forward	
-										
-BUTLER, Jack	Central Defender	
-										
-COPE, Horace	Full Back	
-										
-DIAPER, Bert	Wing Half	
-										
-FOSTER, Bernard	Centre Forward	
-										
-GILCHRIST, Albert	Inside Forward	
-										
-HAPGOOD, Eddie	Full Back	
-										
-HOAR, Sid	Winger	
-										
-HULME, Joe	Winger	
-										
-JACK, David	Inside Forward	
-										
-JOHN, Bob	Wing Half	
-										
-JONES, Charlie	Winger	
-										
-LAMBERT, Jack	Centre Forward	
-										
-LEWIS, Dan	Goalkeeper	
-										
-MAYCOCK, William	Winger	
-										
-PARKER, Tom	Full Back	
-										
-PARKIN, Ray	Inside Forward	
-										
-PATERSON, Willie	Goalkeeper	
-										
-PEEL, Harold	Inside Forward	
-										
-ROBERTS, Herbie	Central Defender	
-										
-THOMPSON, Len	Inside Forward	
-										
-TRICKER, Reg	Inside Forward	
-										
-WYPER, Tommy	Winger	
+Nation,Name,Position,App,Gls,Pen,App,Gls,Pen,App,Gls,Pen
+,,,League,League,League,FA Cup,FA Cup,FA Cup,Other,Other,Other
+,"BAKER, Alf ",Wing Half,31,0,0,5,0,0,0,0,0
+,"BARLEY, Charlie ",Wing Half,3,0,0,1,0,0,0,0,0
+,"BLYTH, Billy ",Inside Forward,21,1,0,1,0,0,0,0,0
+,"BRAIN, Jimmy ",Centre Forward,37,19,0,5,2,0,0,0,0
+,"BUTLER, Jack ",Central Defender,22,0,0,1,0,0,0,0,0
+,"COPE, Horace ",Full Back,23,0,0,1,0,0,0,0,0
+,"DIAPER, Bert ",Wing Half,0,0,0,0,0,0,0,0,0
+,"FOSTER, Bernard ",Centre Forward,0,0,0,0,0,0,0,0,0
+,"GILCHRIST, Albert ",Inside Forward,0,0,0,0,0,0,0,0,0
+,"HAPGOOD, Eddie ",Full Back,17,0,0,4,0,0,0,0,0
+,"HOAR, Sid ",Winger,6,1,0,1,0,0,0,0,0
+,"HULME, Joe ",Winger,41,6,0,5,1,0,0,0,0
+,"JACK, David ",Inside Forward,31,25,0,5,1,0,0,0,0
+,"JOHN, Bob ",Wing Half,34,1,0,3,0,0,0,0,0
+,"JONES, Charlie ",Winger,39,6,0,3,0,0,0,0,0
+,"LAMBERT, Jack ",Centre Forward,6,1,0,0,0,0,0,0,0
+,"LEWIS, Dan ",Goalkeeper,32,0,0,5,0,0,0,0,0
+,"MAYCOCK, William ",Winger,0,0,0,1,0,0,0,0,0
+,"PARKER, Tom ",Full Back,42,3,3,5,0,0,0,0,0
+,"PARKIN, Ray ",Inside Forward,5,3,0,0,0,0,0,0,0
+,"PATERSON, Willie ",Goalkeeper,10,0,0,0,0,0,0,0,0
+,"PEEL, Harold ",Inside Forward,24,5,0,5,1,0,0,0,0
+,"ROBERTS, Herbie ",Central Defender,20,0,0,4,0,0,0,0,0
+,"THOMPSON, Len ",Inside Forward,17,5,2,0,0,0,0,0,0
+,"TRICKER, Reg ",Inside Forward,1,0,0,0,0,0,0,0,0
+,"WYPER, Tommy ",Winger,0,0,0,0,0,0,0,0,0
