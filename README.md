@@ -7,6 +7,8 @@
   * [FIRST DIVISION OF ENGLAND FOOTBALL : SQUADS FILES](#first-division-of-england-football--squads-files)
   * [FIRST DIVISION OF ENGLAND FOOTBALL : GROUPED FILES](#first-division-of-england-football--grouped-files)
   * [SCRIPTS TO CLEAN DATA](#scripts-to-clean-data)
+  * [COURSES](#courses)
+  * [PROJECTS](#projects)
 - [AUTHORS](#authors)
 - [LICENSES](#licenses)
   * [LICENSE OF OUR DATASET](#license-of-our-dataset)
@@ -15,6 +17,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## MEANING
 
@@ -36,6 +39,14 @@ This files regroup all csv files in one files to simplify data analysis or use. 
 To have all scripts we used to clean data, you need to take all scripts files in these folders :
 - `scripts/python/*.py` (python)
 - `scripts/shell/*.sh` (shell)
+
+### COURSES
+To see all courses who used this dataset for example, you need to go in this folder :
+- `courses/`
+
+### PROJECTS
+To see all projects based on this dataset, you need to go in this folder :
+- `projects/`
 
 ## AUTHORS
 - Yotlan LE CROM (<https://github.com/Yotlan>)
