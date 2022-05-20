@@ -31,7 +31,7 @@ Follow these steps to install java on your computer :
 
 ### ON LINUX
 
-Follow these steps to install java on your computer :
+Follow these steps to install java on your computer (also work for Ubuntu built-in Windows 10):
 - Launch the **Terminal** application (type terminal on your search bar)
 - Enter the following command in your terminal : `sudo apt update` to update all what we need an update
 - Enter the following command in your terminal : `sudo apt install openjdk-18-jdk` to install the last JDK version
@@ -40,9 +40,9 @@ Follow these steps to install java on your computer :
 
 ## CHOOSE AN IDE
 
-I recommand you to choose the IDE in this following list :
+I recommand you to choose the IDE (Software to write, read and launch code) in this following list :
 - IntelliJ IDEA (<https://www.jetbrains.com/fr-fr/idea/download/#section=windows> and choose the version corresponding to your OS)
 - Eclipse IDE (<https://www.eclipse.org/downloads/>)
 - Visual Studio Code (<https://code.visualstudio.com/download> and choose the version corresponding to your OS)
 
-To simplify the learning of java, the IDE choosen now is Eclipse IDE.
+To simplify the learning of java, the IDE choosen now is Visual Studio Code.
