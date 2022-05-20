@@ -108,3 +108,212 @@ To see all projects based on this dataset, you need to go in this folder :
 - Wikipedia (<https://en.wikipedia.org/wiki/Main_Page>) for csv files in `csv/England/D1/Premier_League/*.csv` and `csv/England/D1/Football_League_First_Division/saisons/*.csv`
 - ENFA (<https://www.enfa.co.uk/>) for csv files in `csv/England/D1/Football_League_First_Division/equipes/*.csv`
 ```
+
+### REGULAR EXPRESSION
+
+It's something very important in computer science. Indeed, if you want to generalize choose of some folders, files or expressions, it's important to know regular expression. The following table explain how regular expression symbol work :
+
+| Symbol | Match                                 |
+|--------|---------------------------------------|
+| .      | Any character                         |
+| ^      | The starting symbol                   |
+| $      | The last symbol                       |
+| [ ]    | Set of matching character             |
+| [^ ]   | Set of no-matching character          |
+| ( )    | Sub expression                        |
+| *      | Between 0 and INFINITE                |
+| +      | Between 1 and INFINITE                |
+| ?      | Between 0 and 1                       |
+| {M,N}  | Between M and N                       |
+| \|     | First expression or second expression |
+
+We see some example to understand correctly how regular expression work (with the representation to an automaton).
+
+__**Example 1 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> [*] : any character
+note on link 
+  correspond to .
+  and only one character
+end note
+@enduml
+```
+
+Here we can see that we can enter whatever one symbol, it was accept. If you want to use something like this when you match with file, the equivalent is * (and)
+
+__**Example 2 :**__
+```plant uml
+@startuml
+hide empty description
+[*] --> A
+A --> A : a
+note on link 
+  correspond to a*
+  choose 0, 1, ..., n * a
+end note
+A --> [*]
+@enduml
+```
+
+Here we can see that we can enter the number of a we want (0 or n), it was accept. But other symbol ar not accept. 
+
+__**Example 3 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A : a
+A --> A : a
+note on link 
+  correspond to a+
+  choose 1, ..., n * a
+end note
+A --> [*]
+@enduml
+```
+
+Here it's the same pattern that previous part, but we need at least one a to be accept.
+
+__**Example 4 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A : a
+[*] --> [*]
+note on link 
+  correspond to a?
+  choose 0 or 1 a
+end note
+A --> [*]
+@enduml
+```
+
+Here we can see that we can enter 0 or one a only to be accept.
+
+__**Example 5 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A : a
+[*] --> B : b
+note on link 
+  correspond to a | b
+  choose a or b
+end note
+A --> [*]
+B --> [*]
+@enduml
+```
+
+Here we can see that we can enter a or b to be accept.
+
+__**Example 6 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A1 : a
+A1 --> A2 : a
+A2 --> A3 : a
+A3 --> A4 : a
+A2 --> [*]
+note on link 
+  correspond to a{2,4}
+  choose 2, 3 or 4 a
+end note
+A4 --> [*]
+@enduml
+```
+
+Here we can see that we can enter at least 2 a and at most 4 a to be accept.
+
+__**Example 7 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A : a
+A --> B : any character
+note on link 
+  correspond to ^a
+  choose word begin with a
+end note
+B --> [*]
+@enduml
+```
+
+Here we can see that we can enter only word begin with an a following by whatever symbol to be accept.
+
+__**Example 8 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A : any character
+note on link 
+  correspond to a$
+  choose word end with a
+end note
+A --> B : a
+B --> [*]
+@enduml
+```
+
+Here we can see that we can enter only word start with whatever symbol following and end by one a  to be accept.
+
+__**Example 9 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A1 : a
+[*] --> A2 : b
+[*] --> A3 : c
+A1 --> [*]
+A2 --> [*]
+A3 --> [*]
+note on link 
+  correspond to [a-c]
+  choose a, b or c
+end note
+@enduml
+```
+
+Here we can see that we can enter only a b or c to be accept.
+
+__**Example 10 :**__
+```plantuml
+@startuml
+hide empty description
+[*] --> A1 : d
+[*] --> A2 : ...
+[*] --> A3 : z
+A1 --> [*]
+A2 --> [*]
+A3 --> [*]
+note on link 
+  correspond to [^a-c]
+  choose d, e, ... or z
+end note
+@enduml
+```
+
+Here we can see that we can enter only d, e, ... or z. a b and c are not accept.
+
+__**Special example :**__
+The use of ( ) are to reffer these sub groups later in code (by use $1 or \1 (depending on the implementation) )
+
+Input :
+
+```java
+$string1 = "Hello World\n";
+if ($string1 =~ m/(H..).(o..)/) {
+  print "We matched '$1' and '$2'.\n";
+}
+```
+
+Output : 
+
+```sh
+java input.java
+> We matched 'Hel' and 'o W'.
+```
+
+(This example if from Wikipedia (<https://en.wikipedia.org/wiki/Regular_expression>) )
