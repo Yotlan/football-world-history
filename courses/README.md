@@ -130,170 +130,62 @@ It's something very important in computer science. Indeed, if you want to genera
 We see some example to understand correctly how regular expression work (with the representation to an automaton).
 
 __**Example 1 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> [*] : any character
-note on link 
-  correspond to .
-  and only one character
-end note
-@enduml
-```
 
-Here we can see that we can enter whatever one symbol, it was accept. If you want to use something like this when you match with file, the equivalent is * (and)
+![ex1](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex1.png)
+
+Here we can see that we can enter whatever one symbol, it was accept.
 
 __**Example 2 :**__
-```plant uml
-@startuml
-hide empty description
-[*] --> A
-A --> A : a
-note on link 
-  correspond to a*
-  choose 0, 1, ..., n * a
-end note
-A --> [*]
-@enduml
-```
+
+![ex2](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex2.png)
 
 Here we can see that we can enter the number of a we want (0 or n), it was accept. But other symbol ar not accept. 
 
 __**Example 3 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A : a
-A --> A : a
-note on link 
-  correspond to a+
-  choose 1, ..., n * a
-end note
-A --> [*]
-@enduml
-```
+
+![ex3](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex3.png)
 
 Here it's the same pattern that previous part, but we need at least one a to be accept.
 
 __**Example 4 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A : a
-[*] --> [*]
-note on link 
-  correspond to a?
-  choose 0 or 1 a
-end note
-A --> [*]
-@enduml
-```
+
+![ex4](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex4.png)
 
 Here we can see that we can enter 0 or one a only to be accept.
 
 __**Example 5 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A : a
-[*] --> B : b
-note on link 
-  correspond to a | b
-  choose a or b
-end note
-A --> [*]
-B --> [*]
-@enduml
-```
+
+![ex5](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex5.png)
 
 Here we can see that we can enter a or b to be accept.
 
 __**Example 6 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A1 : a
-A1 --> A2 : a
-A2 --> A3 : a
-A3 --> A4 : a
-A2 --> [*]
-note on link 
-  correspond to a{2,4}
-  choose 2, 3 or 4 a
-end note
-A4 --> [*]
-@enduml
-```
+
+![ex6](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex6.png)
 
 Here we can see that we can enter at least 2 a and at most 4 a to be accept.
 
 __**Example 7 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A : a
-A --> B : any character
-note on link 
-  correspond to ^a
-  choose word begin with a
-end note
-B --> [*]
-@enduml
-```
+
+![ex7](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex7.png)
 
 Here we can see that we can enter only word begin with an a following by whatever symbol to be accept.
 
 __**Example 8 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A : any character
-note on link 
-  correspond to a$
-  choose word end with a
-end note
-A --> B : a
-B --> [*]
-@enduml
-```
+
+![ex8](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex8.png)
 
 Here we can see that we can enter only word start with whatever symbol following and end by one a  to be accept.
 
 __**Example 9 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A1 : a
-[*] --> A2 : b
-[*] --> A3 : c
-A1 --> [*]
-A2 --> [*]
-A3 --> [*]
-note on link 
-  correspond to [a-c]
-  choose a, b or c
-end note
-@enduml
-```
+
+![ex9](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex9.png)
 
 Here we can see that we can enter only a b or c to be accept.
 
 __**Example 10 :**__
-```plantuml
-@startuml
-hide empty description
-[*] --> A1 : d
-[*] --> A2 : ...
-[*] --> A3 : z
-A1 --> [*]
-A2 --> [*]
-A3 --> [*]
-note on link 
-  correspond to [^a-c]
-  choose d, e, ... or z
-end note
-@enduml
-```
+
+![ex19](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Yotlan/football-world-history/master/courses/uml-diag/ex10.png)
 
 Here we can see that we can enter only d, e, ... or z. a b and c are not accept.
 
