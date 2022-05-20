@@ -2,9 +2,11 @@
 
 ## TABLE OF CONTENTS
 
-## INSTALLATION ON WINDOWS 10
+## INSTALLATION
 
-Follow theses steps to install java on your computer :
+### ON WINDOWS 10
+
+Follow these steps to install java on your computer :
 - Go on this link (<https://www.oracle.com/java/technologies/downloads/>)
 - Download the JDK depending on your OS
 - When it's download, launch the installer
@@ -25,4 +27,22 @@ Follow theses steps to install java on your computer :
 - Click `OK`
 - Click `OK`
 - Launch the **Command Prompt** application (type cmd on your search bar)
-- Enter the following command in your cmd : `javac -version` and see if your cmd return your JDK version
+- Enter the following command in your terminal : `javac -version` and see if your terminal return your JDK version
+
+### ON LINUX
+
+Follow these steps to install java on your computer :
+- Launch the **Terminal** application (type terminal on your search bar)
+- Enter the following command in your terminal : `sudo apt update` to update all what we need an update
+- Enter the following command in your terminal : `sudo apt install openjdk-18-jdk` to install the last JDK version
+- Enter the following command in your terminal : `javac -version` and see if your terminal return your JDK version
+- If the version return by the previous command is not your installing JDK version, enter the following command in your terminal : `sudo update-alternatives --config java` and enter the number corresponding to your JDK version (something like this : `/usr/lib/jvm/java-18-openjdk-amd64/bin/java`)
+
+## CHOOSE AN IDE
+
+I recommand you to choose the IDE in this following list :
+- IntelliJ IDEA (<https://www.jetbrains.com/fr-fr/idea/download/#section=windows> and choose the version corresponding to your OS)
+- Eclipse IDE (<https://www.eclipse.org/downloads/>)
+- Visual Studio Code (<https://code.visualstudio.com/download> and choose the version corresponding to your OS)
+
+To simplify the learning of java, the IDE choosen now is Eclipse IDE.
