@@ -46,3 +46,24 @@ I recommand you to choose the IDE (Software to write, read and launch code) in t
 - Visual Studio Code (<https://code.visualstudio.com/download> and choose the version corresponding to your OS)
 
 To simplify the learning of java, the IDE choosen now is Visual Studio Code.
+
+## GETTING START
+
+### EXERCICE 1
+
+The first exercice is simple : write in your terminal "Hello World !". It's important to know that java work with class. So create a first class who be your main class. After that, your main function who are launch by executing your java file (containing only 1 class) look like this :
+
+```java
+public static void main(String[] args) {
+    //Some code...
+}
+```
+
+After you doing this, you can use print command from `System.out` and print your message. To conclude, launch your java file by execute the following command in your terminal (here we launch the command in our IDE terminal (On Visual Studio Code, the terminal is available with the button `Terminal` and choose `New Terminal`) ). You can see this in your terminal :
+
+```sh
+java ex1.java
+> Hello World !
+```
+
+The correction of this exercice are available at `ex/ex1.java`
