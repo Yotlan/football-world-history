@@ -131,61 +131,61 @@ We see some example to understand correctly how regular expression work (with th
 
 __**Example 1 :**__
 
-![ex1](courses/uml-diag/ex1.png)
+![ex1](uml-diag/ex1.png)
 
 Here we can see that we can enter whatever one symbol, it was accept.
 
 __**Example 2 :**__
 
-![ex2](courses/uml-diag/ex2.png)
+![ex2](uml-diag/ex2.png)
 
 Here we can see that we can enter the number of a we want (0 or n), it was accept. But other symbol ar not accept. 
 
 __**Example 3 :**__
 
-![ex3](courses/uml-diag/ex3.png)
+![ex3](uml-diag/ex3.png)
 
 Here it's the same pattern that previous part, but we need at least one a to be accept.
 
 __**Example 4 :**__
 
-![ex4](courses/uml-diag/ex4.png)
+![ex4](uml-diag/ex4.png)
 
 Here we can see that we can enter 0 or one a only to be accept.
 
 __**Example 5 :**__
 
-![ex5](courses/uml-diag/ex5.png)
+![ex5](uml-diag/ex5.png)
 
 Here we can see that we can enter a or b to be accept.
 
 __**Example 6 :**__
 
-![ex6](courses/uml-diag/ex6.png)
+![ex6](uml-diag/ex6.png)
 
 Here we can see that we can enter at least 2 a and at most 4 a to be accept.
 
 __**Example 7 :**__
 
-![ex7](courses/uml-diag/ex7.png)
+![ex7](uml-diag/ex7.png)
 
 Here we can see that we can enter only word begin with an a following by whatever symbol to be accept.
 
 __**Example 8 :**__
 
-![ex8](courses/uml-diag/ex8.png)
+![ex8](uml-diag/ex8.png)
 
 Here we can see that we can enter only word start with whatever symbol following and end by one a  to be accept.
 
 __**Example 9 :**__
 
-![ex9](courses/uml-diag/ex9.png)
+![ex9](uml-diag/ex9.png)
 
 Here we can see that we can enter only a b or c to be accept.
 
 __**Example 10 :**__
 
-![ex19](courses/uml-diag/ex10.png)
+![ex19](uml-diag/ex10.png)
 
 Here we can see that we can enter only d, e, ... or z. a b and c are not accept.
 
