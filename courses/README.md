@@ -286,8 +286,8 @@ Bellow we talk about folder's tree. But what is a tree ? A tree is a powerfull d
 
 It's very usefull to create powerfull datastructure. The image bellow is an example how a binary tree work with pointer :
 
-![binary_tree](img/binary_tree.png)
+![binary_tree](img/binary_tree.jpg)
 
-*Take image from <http://cslibrary.stanford.edu/110/BinaryTrees.html>*
+*Take image from <https://codescracker.com/c/c-trees.htm>*
 
 With the image above, you can see how we can use a tree, but you can use tree (not necessarely binary (tree with at most 2 branch)) to create your own datastructure.
