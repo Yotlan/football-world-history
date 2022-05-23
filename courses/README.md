@@ -240,7 +240,7 @@ After that, you successfully install Ubuntu on Windows 10 ! (the original tutori
 | rm      | Delete a file in the current folder                                                                                                                                                                                                                                                        | rm file1.java<br>rm ../file1.java : Delete file1.java in the previous folder in the folder's tree<br>rm folder1/file1.java : Delete file1.java in folder1 if it exist                                                                                                                                                                                                                                                 |
 | chmod   | Give some permissions on folders/files (see all possibilities on this [link](<https://www.pluralsight.com/blog/it-ops/linux-file-permissions#:~:text=To%20change%20directory%20permissions%20in%20Linux%2C%20use%20the%20following%3A,filename%20to%20allow%20executable%20permissions.>)) | chmod u+r file1.java : Add the right to **R**ead file1.java to **U**sers<br>chmod u-r file1.java : Remove the right to **R**ead file1.java to **U**sers<br>chmod a+rw file1.java : Add the right to **R**ead and **W**rite in file1.java to **A**ll<br>chmod a-w file1.java : Remove the right to **W**rite file1.java to **A**ll<br>chmod u=x file1.java : Add only the right to e**X**ecute file1.java to **U**sers |
 
-## COURSES
+## DATASTRUCTURES
 
 To be good in computer sciences, pratice is important ! But you also need to know some computer science's theory, especially about how data structure work or all logic behind computer sciences languages.
 
@@ -292,7 +292,17 @@ It's very usefull to create powerfull datastructure. The image bellow is an exam
 
 With the image above, you can see how we can use a tree, but you can use tree (not necessarely binary (tree with at most 2 branch)) to create your own datastructure.
 
-### CLASS AND INTERFACE
+### GRAPHS
+
+The last datastructures we see in this part. You see how tree work, and trees are graphs (but graphs are not especially trees). In graph field, we can see 2 type of graph : Directed Graph and Undirected Graph. The image bellow explain the difference between these 2 types of graphs :
+
+![dir_undir_graph](img/dir_undir_graph.png)
+
+Indeed, Directed Graph work with arrow, where Undirected not work with them, but in practice, you see that type of graph work with arrow : S -> T and T -> S = S -- T. So you can use, in both case, pointer (or reference) we explain before, but don't forget that : **each edge (line) between 2 nodes represent 2 arrows following the rule I explain before in Undirected Graph**. 
+
+*Take image from <https://stackoverflow.com/questions/20556802/determining-whether-or-not-a-directed-or-undirected-graph-is-a-tree>*
+
+## CLASS AND INTERFACE
 
 Class and interface is very usefull when you want to create your own type. It's a base of OOP (Object-Oriented Programming). The image bellow explain how interface and class can work together :
 
@@ -332,3 +342,47 @@ run input.example
 > Club name : Liverpool
 > Club name : ChicagoBulls
 ```
+
+## ALGORITHMS
+
+Algorithm is the main subject in computer science. Indeed, without them, we can't do computer sciences. In this part, we explain the difference between iterative and recursive algorithm.
+
+### ITERATIVE AND RECURSIVE ALGORITHM
+
+It's a very important notion. Indeed, Iterative and recursive algorithm can do the same action, but not in the same way. For example, the code bellow increment a variable from 0 to 3 :
+
+Input :
+
+```
+#input.example
+
+print "Iterative version"
+for i from 0 to 3
+  print i
+
+print "Recursive version"
+display(int i)
+  if i <= 3
+    print i
+    display(i+1)
+
+display(0)
+```
+
+Output :
+
+```
+run input.example
+> Iterative version
+> 0
+> 1
+> 2
+> 3
+> Recursive version
+> 0
+> 1
+> 2
+> 3
+```
+
+Indeed, with this code, you can see that with the iterative version all the steps are "show", but it's not the case of the recursive version. It's pretty complicated to understand a recursive algorithm sometime, more than a iterative algorithm. To conclude, sometimes it's better to use iterative algorithm and much more easy to understand, but sometime it's the recursive algorithm who is better to understand and write. So **adapt your algorithm to your mind**.
