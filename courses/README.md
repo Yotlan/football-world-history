@@ -404,3 +404,96 @@ run input.example
 ```
 
 Indeed, with this code, you can see that with the iterative version all the steps are "show", but it's not the case of the recursive version. It's pretty complicated to understand a recursive algorithm sometime, more than a iterative algorithm. To conclude, sometimes it's better to use iterative algorithm and much more easy to understand, but sometime it's the recursive algorithm who is better to understand and write. So **adapt your algorithm to your mind**.
+
+## DATABASE
+
+It's a very important field to explain. Indeed, in this field, you have Relational Data Model, represent by SQL and Document Data Model, represent by NoSQL (Not Only SQL). Learn Relationnal Data Model is simple but this structure is strict, compare to Document Data Model who're more hard to understand (but stay simple) but who's dynamic. Moreover, even tough more company use Relational Data Model (because is more secure), we can see a conversion to Document Data Model, where we can do lot of things with it.
+
+### RELATIONAL DATA MODEL
+
+This picture bellow is our main example to explain how Relational Data Model work :
+
+![sql_ex](uml-diag/sql_ex.png)
+
+We can see above they are multiple Table (represent with a pink "T") who are connect to each other to form a Relational Data Model. But how we can read it ? It's very simple, just follow this rule : *name of 1st table* can have *the number near the 1st table and on the link with the 2nd table* *name of the 2nd table*. With that we can read that from our Relational Data Model :
+- *FootballClub* can have __**N**__ *Player* : A football club can have lot of player
+- *Player* can have __**1**__ *FootballClub* : A football player can be only in 1 team
+- *FootballClub* can have __**1**__ *Manager* : A football club can only have 1 manager
+- *Manager* can have __**1**__ *FootballClub* : A football manager can only lead 1 team
+- *FootballClub* can have __**1**__ *Stadium* : A football club have only 1 stadium
+- *Stadium* can have __**2**__ *FootballClub* : A football club can have at most 2 team (who player not at the same time)
+- *Stadium* can have __**1**__ *City* : A football stadium can be in only 1 city
+- *City* can have __**N**__ *Stadium* : A city can have lot of football stadium
+
+### DOCUMENT DATA MODEL
+
+The language JSON is a perfect example how Document Data Model work. Indeed, if we follow the model in the previous part, we can do this in JSON :
+
+Referenced version :
+
+```json
+[{
+	"_id": "Arsenal",
+	"name": "Arsenal",
+	"player_id": "ThierryHenry",
+	"manager_id": "ArseneWenger",
+	"stadium_id": "EmirateStadium"
+},
+{
+	"_id": "ArseneWenger",
+	"name": "Arsene Wenger",
+	"squad_id": "Arsenal"
+},
+{
+	"_id": "ThierryHenry",
+	"name": "Thierry Henry",
+	"squad_id": "Arsenal"
+},
+{
+	"_id": "EmirateStadium",
+	"name": "Emirate Stadium",
+	"squad_id": "Arsenal",
+	"city_id": "London"
+},
+{
+	"_id": "London",
+	"name": "London",
+	"stadium_id": "EmirateStadium"
+}]
+```
+
+Embedded version :
+
+```json
+[{
+	"name": "Thierry Henry",
+	"squad": {
+    "name": "Arsenal",
+    "manager": {
+      "name": "Arsene Wenger"
+    },
+    "stadium": {
+      "name": "Emirate Stadium",
+      "city": "London"
+    }
+  }
+}]
+```
+
+This kind of structured data was called **Column Family**. It exist other way to do a Document Data Model like **Graph** (see the part [GRAPHS](#graphs)), **Key-Value** (similar to lists, but here when you called in your database one key, it return a set of 1 or more values associate with this key) :
+
+![key-value](img/key-value.png)
+
+*Take image from <https://www.researchgate.net/figure/a-Key-value-store-KVS-data-model-b-Data-in-KVS_fig2_332763207>*
+
+And the last way to do a Document Data Model is **Document Database** :
+
+![doc](img/doc.png)
+
+*Take image from <https://bi-insider.com/posts/document-nosql-database/>*
+
+You can add lot of type of document (PDF, Excel, ...) but it's prefered to with languages XML or JSON (I recommanded you to use JSON because company use more JSON now).
+
+## CONCLUSION
+
+Now, you know all you need to do some informatic project, but it's important to practice before begin a huge project. So I recommand you to follow some other courses I say in [INTRODUCTION](#introduction).
