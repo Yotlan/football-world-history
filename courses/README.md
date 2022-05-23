@@ -2,6 +2,24 @@
 
 ## TABLE OF CONTENTS
 
+- [COMPUTER SCIENCE COURSES](#computer-science-courses)
+  * [TABLE OF CONTENTS](#table-of-contents)
+  * [INTRODUCTION](#introduction)
+    + [GIT](#git)
+    + [REGULAR EXPRESSION](#regular-expression)
+    + [LINUX COMMANDS](#linux-commands)
+      - [INSTALL UBUNTU ON WINDOWS 10](#install-ubuntu-on-windows-10)
+      - [LIST OF LINUX COMMANDS](#list-of-linux-commands)
+  * [DATASTRUCTURES](#datastructures)
+    + [LIST, STACK AND QUEUE](#list-stack-and-queue)
+    + [TREE](#tree)
+    + [GRAPHS](#graphs)
+  * [CLASS AND INTERFACE](#class-and-interface)
+  * [ALGORITHMS](#algorithms)
+    + [ITERATIVE AND RECURSIVE ALGORITHM](#iterative-and-recursive-algorithm)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## INTRODUCTION
 
 Computer Science is a wonderfull science. Indeed, this science is logical and use algorithm to execute some instruction. The first thing to do is to choose a language to develop some program with it. Bellow, you have a list of most use and popular computer sciences language and their uses :
