@@ -197,7 +197,7 @@ Input :
 ```
 #input.example
 
-string1 = "Hello World"
+string string1 = "Hello World"
 if string1 match (H..).(o..)
   print "We matched '$1' and '$2'."
 ```
@@ -253,7 +253,7 @@ Input :
 ```
 #input.example
 
-list1 = []
+string list1 = []
 list1[0] = "Hello"
 list1[1] = "World"
 print "list1 size : " list1.size()
@@ -291,3 +291,44 @@ It's very usefull to create powerfull datastructure. The image bellow is an exam
 *Take image from <https://codescracker.com/c/c-trees.htm>*
 
 With the image above, you can see how we can use a tree, but you can use tree (not necessarely binary (tree with at most 2 branch)) to create your own datastructure.
+
+### CLASS AND INTERFACE
+
+Class and interface is very usefull when you want to create your own type. It's a base of OOP (Object-Oriented Programming). The image bellow explain how interface and class can work together :
+
+![interface_class](uml-diag/interface_class.png)
+
+Indeed, a interface is a "void" class who define a more general type. With that, you can do this code bellow :
+
+Input :
+
+```
+#input.example
+
+Club list1 = []
+
+#Add all Football Club
+
+list1[0] = Arsenal
+list1[1] = ManchesterCity 
+list1[2] = Liverpool 
+...
+
+#Add all Basketball Club
+
+list1[3] = ChicagoBulls
+...
+
+for i from 0 to list1.size()
+  print "Club name : " list[i].getName()
+```
+
+Output :
+
+```
+run input.example
+> Club name : Arsenal
+> Club name : ManchesterCity
+> Club name : Liverpool
+> Club name : ChicagoBulls
+```
