@@ -194,17 +194,18 @@ The use of ( ) are to reffer these sub groups later in code (by use $1 or \1 (de
 
 Input :
 
-```java
-$string1 = "Hello World\n";
-if ($string1 =~ m/(H..).(o..)/) {
-  print "We matched '$1' and '$2'.\n";
-}
+```
+#input.example
+
+string1 = "Hello World"
+if string1 match (H..).(o..)
+  print "We matched '$1' and '$2'."
 ```
 
 Output : 
 
-```sh
-java input.java
+```
+run input.example
 > We matched 'Hel' and 'o W'.
 ```
 
@@ -212,7 +213,7 @@ java input.java
 
 ### LINUX COMMANDS
 
-It's important to know Linux commands. To do it on Windows, I recommanded you to install the built-in Ubuntu version for Windows 10 (<https://www.microsoft.com/store/productId/9PNKSF5ZN4SW> or type ubuntu on the Microsoft Store). 
+It's important to know essantial Linux commands. To do it on Windows, I recommanded you to install the built-in Ubuntu version for Windows 10 (<https://www.microsoft.com/store/productId/9PNKSF5ZN4SW> or type ubuntu on the Microsoft Store). 
 
 #### INSTALL UBUNTU ON WINDOWS 10
 
@@ -238,3 +239,55 @@ After that, you successfully install Ubuntu on Windows 10 ! (the original tutori
 | touch   | Create a files in the current folder                                                                                                                                                                                                                                                       | touch file1.java : Create file1.java in the current folder<br>touch ../file1.java : Create file1.java in the previous folder <br>in the folder's tree<br>touch folder1/file1.java : Create file1.java in folder1 if it exist                                                                                                                                                                                          |
 | rm      | Delete a file in the current folder                                                                                                                                                                                                                                                        | rm file1.java<br>rm ../file1.java : Delete file1.java in the previous folder in the folder's tree<br>rm folder1/file1.java : Delete file1.java in folder1 if it exist                                                                                                                                                                                                                                                 |
 | chmod   | Give some permissions on folders/files (see all possibilities on this [link](<https://www.pluralsight.com/blog/it-ops/linux-file-permissions#:~:text=To%20change%20directory%20permissions%20in%20Linux%2C%20use%20the%20following%3A,filename%20to%20allow%20executable%20permissions.>)) | chmod u+r file1.java : Add the right to **R**ead file1.java to **U**sers<br>chmod u-r file1.java : Remove the right to **R**ead file1.java to **U**sers<br>chmod a+rw file1.java : Add the right to **R**ead and **W**rite in file1.java to **A**ll<br>chmod a-w file1.java : Remove the right to **W**rite file1.java to **A**ll<br>chmod u=x file1.java : Add only the right to e**X**ecute file1.java to **U**sers |
+
+## COURSES
+
+To be good in computer sciences, pratice is important ! But you also need to know some computer science's theory, especially about how data structure work or all logic behind computer sciences languages.
+
+### LIST, STACK AND QUEUE
+
+Lists are very usefull to stock some datas. Indeed, add, remove and read in a list is very easy (not when you do it in parallel, but it's another problem). 
+
+Input :
+
+```
+#input.example
+
+list1 = []
+list1[0] = "Hello"
+list1[1] = "World"
+print "list1 size : " list1.size()
+for i from 0 to list1.size()
+  print "list1["i"] : " list1[i]
+```
+
+Output :
+
+```
+run input.example
+> list1 size : 2
+> list1[0] : Hello
+> list1[1] : World
+```
+
+But we can do stack (like a stack of pancakes) and queue (like when you are waiting to by the last FIFA games). In stack you can only add at the top of it and remove like the same manners. In queue, you add at the end of it and remove the first of it. It's very usefull data structures, especially when you want to do some applications.
+
+![stack_pile](img/stack_queue.png)
+
+*Take image from <https://tutsmaster.org/how-to-represent-stack-in-c-data-structure/>*
+
+### TREE
+
+Bellow we talk about folder's tree. But what is a tree ? A tree is a powerfull datastucture who work with pointer (or references with Java). But what is a pointer ? A pointer is a link with another object. The image below explain how a list work with pointer :
+
+![pointer](img/pointer.jpg)
+
+*Take image from <https://walkingtechie.blogspot.com/2018/12/inserting-node-in-singly-linked-list.html>*
+
+It's very usefull to create powerfull datastructure. The image bellow is an example how a binary tree work with pointer :
+
+![binary_tree](img/binary_tree.png)
+
+*Take image from <http://cslibrary.stanford.edu/110/BinaryTrees.html>*
+
+With the image above, you can see how we can use a tree, but you can use tree (not necessarely binary (tree with at most 2 branch)) to create your own datastructure.
