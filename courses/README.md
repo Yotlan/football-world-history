@@ -51,6 +51,7 @@ But first of all, it's important to prepare your computer to use language. In ea
 - `learn-c++/`
 - `learn-php/`
 - `learn-sql/`
+- `learn-latex/`
 
 ### GIT
 
