@@ -28,6 +28,8 @@
 \usepackage{float,graphicx}                         % Use float figure
 \usepackage{tikz}                                   % Use tikz picture
 \usepackage{pgf-umlcd}                              % Use UML
+\usepackage{pgf-pie}                                % Use pie chart
+\usepackage{pgfplots}                               % Use plot
 \usepackage{xypic}                                  % Use commutative figures
 \usetikzlibrary{trees}                              % Use graphs
 \usetikzlibrary{calc,trees,positioning,arrows,fit,shapes,calc,patterns}
@@ -210,4 +212,54 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin et a
 \bibliographystyle{splncs03}
 \bibliography{report}
 
+\newpage
+
+\section{Appendix}
+
+\begin{figure}[!htbp]
+    \centering
+        \begin{tikzpicture}
+    
+            \pie[radius=5,text=legend]
+            {
+                1.27/Manchester City,
+                3.02/Manchester United,
+                10.48/Liverpool,
+                31.43/Arsenal,
+                38.73/Chelsea,
+                15.08/Tottenham Hotspur
+            }
+    
+        \end{tikzpicture}
+        \caption{Percentage of goal score in the last 10 minutes in Premier League per squad}
+\end{figure}
+
+\pgfplotstableread[row sep=\\,col sep=&]{
+    squad & victory \\
+    Man. U. & 7  \\
+    Man. C. & 17  \\
+    Chel. & 8 \\
+    Ars. & 10 \\
+    Tott. & 9 \\
+    Liv. & 12 \\
+    Lei. C. & 8 \\
+}\mydata
+    
+\begin{figure}[!htbp]
+    \centering
+        \begin{tikzpicture}
+            \begin{axis}[
+                ybar,
+                symbolic x coords={Man. U., Man. C., Chel., Ars., Tott., Liv., Lei. C.},
+                xlabel={Squads},
+                ylabel={Victory in Premier League},
+                width=10cm,height=10cm,
+                ymin=0,
+                xtick=data,
+            ]
+                \addplot table[x=squad,y=victory]{\mydata};
+            \end{axis}
+        \end{tikzpicture}
+        \caption{Number of victory per squad in Premier League}
+\end{figure}
 \end{document}

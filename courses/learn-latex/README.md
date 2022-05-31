@@ -102,6 +102,116 @@ This code give a table of contents who look like this :
 
 Moreover, on this page too, you not have the page number, who start only in the next page.
 
+## SECTIONS
+
+Your report are compose with a cover page, table of contents, but that not all. Indeed, you need to add an introduction, some sections, a conclusion and a references part. For the references part, you can find a dedicated part call [REFERENCES](#references). 
+
+Introduction and conclusion part are just sections. So you can create them like this :
+
+```latex
+\section{Introduction}
+
+Some text here
+
+\section{Conclusion}
+
+Some text here
+```
+
+Moreover, you can create subsection and subsubsection. It's very usefull when you have some specific part inside part. So create them, follow the code bellow :
+
+```latex
+\subsection{Sub-part 1}
+
+Some text here
+
+\subsubsection{Sub-sub-part 1}
+
+Some text here
+```
+
+The whole example for section are in `ex/report.tex`.
+
+## PICTURES
+
+Pictures are very usefull when you want to show something in a report. To include an pictures in your report, you need to import them into your LaTeX project :
+
+![import_picture](img/import_picture.png)
+
+You need to click on the icon with an up arrow. When you doing this, you should have a pop up windows like this :
+
+![import_picture_windows](img/import_picture_windows.png)
+
+And here you can import your picture. Since your picture are imported, you can add it in your report with the same way you add the logo in the cover page :
+
+```latex
+    {\centering
+			\includegraphics[scale=0.25]{overleaf_logo.png}
+		\par}
+```
+
+And you can decide the size of the picture by changing the scale parameters.
+
+### FIGURES
+
+This part is dedicated to the figure you can create with LaTeX. I not show you the entire figure who exist in LaTeX, but few of them. If you want a specific figures, you can google it ! The LaTeX community are very active ! I give you 2 examples of figures bellow using tikz picture and pgf (2 LaTeX packages).
+
+#### PIE CHART
+
+You can create pie chart by following the code bellow :
+
+```latex
+\begin{figure}[!htbp]
+    \centering
+    \begin{tikzpicture}
+    
+        \pie[radius=5,text=legend]
+        {
+            1.27/Manchester City,
+            3.02/Manchester United,
+            10.48/Liverpool,
+            31.43/Arsenal,
+            38.73/Chelsea,
+            15.08/Tottenham Hotspur
+        }
+    
+    \end{tikzpicture}
+    \hypertarget{figure1}{\caption{Percentage of goal score in the last 10 minutes in Premier League per squad}}
+\end{figure}
+```
+
+You should see something like this with the code above :
+
+![pie_chart](img/pie_chart.png)
+
+#### PLOTS
+
+You can create plots like histogram by following the code bellow :
+
+```latex
+\begin{figure}[!htbp]
+    \centering
+        \begin{tikzpicture}
+            \begin{axis}[
+                ybar,
+                symbolic x coords={Man. U., Man. C., Chel., Ars., Tott., Liv., Lei. C.},
+                xlabel={Squads},
+                ylabel={Victory in Premier League},
+                width=10cm,height=10cm,
+                ymin=0,
+                xtick=data,
+            ]
+                \addplot table[x=squad,y=victory]{\mydata};
+            \end{axis}
+        \end{tikzpicture}
+        \caption{Number of victory per squad in Premier League}
+\end{figure}
+```
+
+You should see something like this with the code above :
+
+![hist](img/hist.png)
+
 ## REFERENCES
 
 When you read a report, it's important to cite other sources when you say something you didn't proove. To do this, you can do it by hand if your references part is not big, but I recommand you to do it automaticly. Indeed, with this, you can update your report, and so add other sources. You can see this in internet's articles. To add automaticly resources on your report, your need first to add the file `splncs03.bst` in your overleaf project by clicking on this button :
