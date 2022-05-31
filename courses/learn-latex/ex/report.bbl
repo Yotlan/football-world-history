@@ -1,0 +1,17 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{source1}
+Firstname Lastname, Firstname Lastname: Source name . Journal
+  pp. 1--3 (2022)
+
+\bibitem{source2}
+Firstname Lastname, Firstname Lastname: Source name . Journal
+  pp. 10--30 (2022)
+
+\bibitem{source3}
+Firstname Lastname, Firstname Lastname: Source name . Journal
+  pp. 100--300 (2022)
+
+\end{thebibliography}
