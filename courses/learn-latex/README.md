@@ -212,6 +212,59 @@ You should see something like this with the code above :
 
 ![hist](img/hist.png)
 
+## ALGORITHMS AND CODES
+
+Algorithms and codes is very important when you write a report. Indeed, these part can proove how something work. Algorithms is more mathematics than codes, who use some language specificity. To create an algorithm figures in your report, follow the code bellow :
+
+```latex
+\begin{algorithm}
+    \caption{Random algorithm}
+    \begin{algorithmic}
+    \REQUIRE{int n}
+    \ENSURE
+    \FOR{i, i $\leq$ n, i++}
+        \IF{i $\%$ 2 == 0}
+            \STATE print(i ' is an even number')
+        \ENDIF
+    \ENDFOR
+    \WHILE{i $\geq$ 0}
+        \IF{i $\%$ 2 == 1}
+            \STATE print(i ' is an odd number')
+        \ENDIF
+    \ENDWHILE
+    \IF{n $\%$ == 0}
+        \RETURN{'even'}
+    \ELSE
+        \RETURN{'odd'}
+    \ENDIF
+    \end{algorithmic}
+\end{algorithm}
+```
+
+With the code above, you should see this :
+
+![algo](img/algo.png)
+
+Lot of mathematician love this way to write algorithm, and in a report, because it's a pseudo-code language, it's very appreciated because you do not have some constraints due to the specitify of the language (for example : when you want to write `print('text')` in java, you need to write this `System.out.println('text')`. It's a simple case but, you can have more complex case, so pseudo-code is very usefull to give someone a way to think about what you do. It's abstract some language problem. Moreover, with the code above, you can write meta-code who is more abstract (instead of write `for i, i <= n, i++` you can write `for all int`)).
+
+The table bellow explain you some command of the code above :
+
+| Command   | Explanations                                                   |
+|-----------|----------------------------------------------------------------|
+| \caption  | Algorithm name                                                 |
+| \REQUIRE  | Input parameters of the algorithm                              |
+| \ENSURE   | Output of the algorithm                                        |
+| \IF       | Begin if state                                                 |
+| \ELSIF    | Begin elif state                                               |
+| \ELSE     | Else state. Similar to the elif state, but not add an if state |
+| \ENDIF    | End all if state                                               |
+| \FOR      | Begin for state                                                |
+| \FORALL   | Begin for all state                                            |
+| \ENDFOR   | End all for state                                              |
+| \WHILE    | Begin while state                                              |
+| \ENDWHILE | End while state                                                |
+| \RETURN   | Return state                                                   |
+
 ## REFERENCES
 
 When you read a report, it's important to cite other sources when you say something you didn't proove. To do this, you can do it by hand if your references part is not big, but I recommand you to do it automaticly. Indeed, with this, you can update your report, and so add other sources. You can see this in internet's articles. To add automaticly resources on your report, your need first to add the file `splncs03.bst` in your overleaf project by clicking on this button :

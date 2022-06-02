@@ -58,6 +58,8 @@ But first of all, it's important to prepare your computer to use language. In ea
 Furthermore, a good programmer know essential GIT commands :
 - `git clone https://github.com/username/repo.git` : You do it when you want to get a GIT project on your computer
 - `git add .` : You do it first to add all modified and/or new files to your next commit
+- `git add filename` : You do it first to add a certain modified/new files to your commit
+- `git add foldername` : You do it first to add  certain modified/new folders to your commit
 - `git commit -m "Your message"` : You do it after you add all files to present to your GIT project what you want to push
 - `git push` : You do it last to push on your GIT project all your files
 - `git push https://github.com/your-username/yourrepo.git` : You do it when it's your first push with GIT and when you generate a personnal access token (<https://github.com/settings/tokens>)
