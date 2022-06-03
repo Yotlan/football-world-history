@@ -214,6 +214,8 @@ You should see something like this with the code above :
 
 ## ALGORITHMS AND CODES
 
+### ALGORITHMS
+
 Algorithms and codes is very important when you write a report. Indeed, these part can proove how something work. Algorithms is more mathematics than codes, who use some language specificity. To create an algorithm figures in your report, follow the code bellow :
 
 ```latex
@@ -264,6 +266,74 @@ The table bellow explain you some command of the code above :
 | \WHILE    | Begin while state                                              |
 | \ENDWHILE | End while state                                                |
 | \RETURN   | Return state                                                   |
+
+### CODES
+
+Algorithms is cool, but computer scientist like too to have code in an appendix in the report to discuss about some details and choice that the developper take to make his code. But LaTeX don't implements the language style, so when you do this code bellow :
+
+```latex
+\begin{lstlisting}[language=Java]
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World !");
+    }
+}
+\end{lstlisting}
+```
+
+You should have something like this :
+
+![code_without_style](img/code_without_style.png)
+
+If you want to have some style, and so some color on your code part, you need to use the command `\lstdefinestyle`. In this part, I only show you the code style I use for Java, but in the file `ex/report.tex`, I give you lot of code style that you can take for your report. The code bellow set a Java style like you can see with Eclipse :
+
+```latex
+\definecolor{javared}{rgb}{0.6,0,0}                 % For strings
+\definecolor{javagreen}{rgb}{0.25,0.5,0.35}         % Comments
+\definecolor{javapurple}{rgb}{0.5,0,0.35}           % Keywords
+\definecolor{javadocblue}{rgb}{0.25,0.35,0.75}      % Javadoc
+
+\lstdefinestyle{javaStyle}
+{language=Java,
+basicstyle=\ttfamily,
+keywordstyle=\color{javapurple}\bfseries,
+stringstyle=\color{javared},
+commentstyle=\color{javagreen},
+morecomment=[s][\color{javadocblue}]{/**}{*/},
+numbers=left,
+numberstyle=\tiny\color{black},
+stepnumber=1,
+numbersep=10pt,
+tabsize=4,
+showspaces=false,
+showstringspaces=false}
+```
+
+*Modify a little the code from here <https://texblog.org/2011/06/11/latex-syntax-highlighting-examples/>*
+
+You first need to define some color. Here we define the color for string, comment, keyword and javadoc (multi-line comment). After that, you can start the command `\lstdefinestyle` and add the name of this style. Here the name of the style is `javaStyle`. After that, you need to specify the language (here Java), the basic style, and more important, the style of the keyword (use the color *javapurple* and bold the keyword text by using `\bfseries` **(TAKE CARE TO ADD THE FOLLOWING PACKAGE : `\usepackage{pxfonts}`)**), the style of string (use the color *javared*), the style of the comment (use the color *javagreen*) and the style of the javadoc (by using `morecomment=[s][\color{javadocblue}]{/**}{*/}`, more information about morecomment parameters here <https://www.pvv.ntnu.no/~berland/latex/docs/listings.pdf>). The others paramaters are for the general style (number at the left, tabulation, space). So when you use this style by adding `style=javaStyle` like the code bellow :
+
+```latex
+\begin{lstlisting}[language=Java, style=javaStyle]
+public class Main {
+    /**
+     * Display string App
+     */
+    public static void main(String[] args) {
+        // Set the string we want to display
+        String str = "Hello World !";
+        // Print the previous string we set
+        System.out.println(str);
+    }
+}
+\end{lstlisting}
+```
+
+You should see something like this :
+
+![code_with_style](img/code_with_style.png)
+
+It's smoother than the older version which are just black.
 
 ## REFERENCES
 
