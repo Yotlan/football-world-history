@@ -6,13 +6,14 @@
 % \frenchbsetup{StandardLists=true}                % When some word is not listed !
 \usepackage[T1]{fontenc}		                    % Policy
 \usepackage[utf8]{inputenc}	                        % Accents
+\usepackage{pxfonts}                                % Use font like \bfseries
 
 %% STYLE
 
 \usepackage{fancyhdr}			                    % Custom headpage and footpage
 \usepackage{lastpage}			                    % Create a reference to the previous page
 \usepackage{url}				                    % Use URL address
-\usepackage{xurl}                                   % Use URL address (better)
+\usepackage{xurl}                                   % Use URL address
 \usepackage[margin=2.5cm]{geometry}                 % Marges
 \usepackage{enumitem}                               % Use style item list
 \usepackage{hyperref}                               % Create link between 2 target
@@ -36,33 +37,35 @@
 
 %% ALGORITHM AND CODE
 
-\usepackage{algorithm}                              % Use algorithm style (better)
+\usepackage{algorithm}                              % Use algorithm style
 \usepackage{algorithmic}                            % Use algorithm style
 \usepackage{listings}                               % Code's block
-\lstset{frame=tb,
-    language=Java,
-    aboveskip=3mm,
-    belowskip=3mm,
-    showstringspaces=false,
-    columns=flexible,
-    basicstyle={\small\ttfamily},
-    numbers=none,
-    numberstyle=\tiny\color{gray},
-    keywordstyle=\color{blue},
-    commentstyle=\color{dkgreen},
-    stringstyle=\color{mauve},
-    breaklines=true,
-    breakatwhitespace=true,
-    tabsize=4
-}
+
+% FOR JAVA STYLE
+\definecolor{javared}{rgb}{0.6,0,0}                 % For strings
+\definecolor{javagreen}{rgb}{0.25,0.5,0.35}         % Comments
+\definecolor{javapurple}{rgb}{0.5,0,0.35}           % Keywords
+\definecolor{javadocblue}{rgb}{0.25,0.35,0.75}      % Javadoc
+ 
+\lstdefinestyle{javaStyle}
+{language=Java,
+basicstyle=\ttfamily,
+keywordstyle=\color{javapurple}\bfseries,
+stringstyle=\color{javared},
+commentstyle=\color{javagreen},
+morecomment=[s][\color{javadocblue}]{/**}{*/},
+numbers=left,
+numberstyle=\tiny\color{black},
+stepnumber=1,
+numbersep=10pt,
+tabsize=4,
+showspaces=false,
+showstringspaces=false}
 
 %% COLOR
 
 \usepackage{xcolor}                                 % Use color (already existing color)
 \usepackage{color}                                  % Use color (define custom color)
-\definecolor{dkgreen}{rgb}{0,0.6,0}
-\definecolor{gray}{rgb}{0.5,0.5,0.5}
-\definecolor{mauve}{rgb}{0.58,0,0.82}
 
 \pagestyle{fancy}
 \fancyhead[L]{Y. Le Crom,  E. Yu}					% Authors
@@ -132,6 +135,43 @@
 \section{Introduction}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit \cite{source1}. Maecenas vulputate scelerisque felis, vel tempor purus facilisis eget. Ut et aliquet nisl, eget vulputate nibh. Aliquam malesuada dolor id elit ultrices bibendum. Vestibulum fermentum odio porta nibh tincidunt ornare\cite{source2,source3}. Integer quis lacinia nunc. Sed convallis turpis libero. In placerat aliquet bibendum. Aliquam risus urna, rutrum eget blandit vitae, fermentum fringilla sapien. Pellentesque vel massa molestie, aliquam urna a, varius massa. Sed venenatis, ante id iaculis cursus, nisi justo accumsan tellus, vitae porttitor lacus eros ac diam. Nam eu magna mattis, consectetur lacus eu, maximus quam. Etiam elementum tortor vel congue elementum. Fusce urna erat, porta vel nisl eu, tristique laoreet ex. Integer lectus quam, imperdiet in elit euismod, lacinia dignissim arcu.
+
+\begin{algorithm}
+    \caption{Random algorithm}
+    \begin{algorithmic}
+    \REQUIRE{int n}
+    \ENSURE
+    \FOR{i, i $\leq$ n, i++}
+        \IF{i $\%$ 2 == 0}
+            \STATE print(i ' is an even number')
+        \ENDIF
+    \ENDFOR
+    \WHILE{i $\geq$ 0}
+        \IF{i $\%$ 2 == 1}
+            \STATE print(i ' is an odd number')
+        \ENDIF
+    \ENDWHILE
+    \IF{n $\%$ == 0}
+        \RETURN{'even'}
+    \ELSE
+        \RETURN{'odd'}
+    \ENDIF
+    \end{algorithmic}
+\end{algorithm}
+
+\begin{lstlisting}[language=Java, style=javaStyle]
+public class Main {
+    /**
+     * Display string App
+     */
+    public static void main(String[] args) {
+        // Set the string we want to display
+        String str = "Hello World !";
+        // Print the previous string we set
+        System.out.println(str);
+    }
+}
+\end{lstlisting}
 
 \newpage
 
