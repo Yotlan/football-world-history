@@ -343,7 +343,7 @@ You can do lot of other things with LaTeX. In this part, I show you some very us
 |------------------|-------------------------------|
 | \textbf{Word}    | **Word**                      |
 | \textif{Word}    | *Word*                        |
-| \underline{Word} | <u>Word</u>                   |
+| \underline{Word} | <ins>Word</ins>               |
 | \st{Word}        | ~~Word~~                      |
 | \hl{Word}        | `Word`                        |
 | \newpage         | New page                      |
