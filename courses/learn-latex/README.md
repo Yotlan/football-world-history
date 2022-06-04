@@ -335,6 +335,44 @@ You should see something like this :
 
 It's smoother than the older version which are just black.
 
+## OTHER STUFFS
+
+You can do lot of other things with LaTeX. In this part, I show you some very usefull command you can do with LaTeX. To simplify all the learning of the LaTeX command, I create a table how show you all LaTeX command :
+
+| Command          | Result                        |
+|------------------|-------------------------------|
+| \textbf{Word}    | **Word**                      |
+| \textif{Word}    | *Word*                        |
+| \underline{Word} | __Word__                      |
+| \st{Word}        | ~~Word~~                      |
+| \hl{Word}        | `Word`                        |
+| \newpage         | New page                      |
+| \newline         | New line after a written line |
+| \centering       | Centered figure               |
+| \vspace          | Void space                    |
+| \vfill           | Fill with void space          |
+
+In addition, table are very usefull to show some generic result. Readers prefer table to a list when you show result, so I highly recommand you to use table when you want to show some result. The code bellow is an example of table you can create with LaTeX :
+
+```latex
+\begin{tabular}{|c|c||c|}
+    \hline
+    Squads & Number of victory & Total of point \\
+    \hline
+    Manchester City & 24 & 98 \\
+    Manchester United & 14 & 54 \\
+    ... & ... & ... \\
+    Norwich City & 7 & 32 \\
+    \hline
+\end{tabular}
+```
+
+With the code above, you should see something like this :
+
+![table](img/table.png)
+
+Instead of **c**, you can use **l** to fix values at the left of the cell, or **r** to fix values at the right of the cell. For more example, you can see the documentation from Overleaf here <https://fr.overleaf.com/learn/latex/Tables>. To finish with this part, I recommand you to always be simple when your write a report, because simplicity is a factor who readers love. 
+
 ## REFERENCES
 
 When you read a report, it's important to cite other sources when you say something you didn't proove. To do this, you can do it by hand if your references part is not big, but I recommand you to do it automaticly. Indeed, with this, you can update your report, and so add other sources. You can see this in internet's articles. To add automaticly resources on your report, your need first to add the file `splncs03.bst` in your overleaf project by clicking on this button :
@@ -424,4 +462,4 @@ To conclude this, you need to add these command in your file `report.tex` to sta
 \bibliography{report}
 ```
 
-I recommand you to always add the references part **after** the conclusion part to not confuse the reader of your report.
+I recommand you to always add the references part **after** the conclusion part to not confuse the reader of your report. Moreover, to cite a paper of your bibliography, use this command `\cite{mypaperreference}`, and in your text, an automatic link are created between where you cite the paper and bibliography.
