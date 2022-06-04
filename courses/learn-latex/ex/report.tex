@@ -3,10 +3,12 @@
 %% TEXT
 
 \usepackage[english]{babel}		                    % English lang
-% \frenchbsetup{StandardLists=true}                % When some word is not listed !
+% \usepackage[french]{babel}                        % French lang
+% \frenchbsetup{StandardLists=true}                 % When some word is not listed !
 \usepackage[T1]{fontenc}		                    % Policy
 \usepackage[utf8]{inputenc}	                        % Accents
 \usepackage{pxfonts}                                % Use font like \bfseries
+\usepackage{soul}                                   % Use stikeout,highlight,... text
 
 %% STYLE
 
@@ -41,7 +43,7 @@
 \usepackage{algorithmic}                            % Use algorithm style
 \usepackage{listings}                               % Code's block
 
-% FOR JAVA STYLE
+% FOR JAVA STYLE                                    % From https://texblog.org/2011/06/11/latex-syntax-highlighting-examples/
 \definecolor{javared}{rgb}{0.6,0,0}                 % For strings
 \definecolor{javagreen}{rgb}{0.25,0.5,0.35}         % Comments
 \definecolor{javapurple}{rgb}{0.5,0,0.35}           % Keywords
@@ -61,6 +63,31 @@ numbersep=10pt,
 tabsize=4,
 showspaces=false,
 showstringspaces=false}
+
+% FOR SQL STYLE                                     % From https://gist.github.com/vivngo/e37e1c7b79bf7e8b910c6566c59c46be
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstdefinestyle{sqlStyle}
+{language=SQL,
+basicstyle={\small\ttfamily},
+belowskip=3mm,
+breakatwhitespace=true,
+breaklines=true,
+classoffset=0,
+columns=flexible,
+commentstyle=\color{dkgreen},
+framexleftmargin=0.25em,
+frameshape={}{}{}{},
+keywordstyle=\color{blue},
+numbers=left,
+numberstyle=\tiny\color{gray},
+showstringspaces=false,
+stringstyle=\color{mauve},
+tabsize=3,
+xleftmargin =1em
+}
 
 %% COLOR
 
@@ -134,7 +161,7 @@ showstringspaces=false}
 
 \section{Introduction}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit \cite{source1}. Maecenas vulputate scelerisque felis, vel tempor purus facilisis eget. Ut et aliquet nisl, eget vulputate nibh. Aliquam malesuada dolor id elit ultrices bibendum. Vestibulum fermentum odio porta nibh tincidunt ornare\cite{source2,source3}. Integer quis lacinia nunc. Sed convallis turpis libero. In placerat aliquet bibendum. Aliquam risus urna, rutrum eget blandit vitae, fermentum fringilla sapien. Pellentesque vel massa molestie, aliquam urna a, varius massa. Sed venenatis, ante id iaculis cursus, nisi justo accumsan tellus, vitae porttitor lacus eros ac diam. Nam eu magna mattis, consectetur lacus eu, maximus quam. Etiam elementum tortor vel congue elementum. Fusce urna erat, porta vel nisl eu, tristique laoreet ex. Integer lectus quam, imperdiet in elit euismod, lacinia dignissim arcu.
+\textbf{Lorem} \textit{ipsum} \underline{dolor} \st{sit} \hl{amet}, consectetur adipiscing elit \cite{source1}. Maecenas vulputate scelerisque felis, vel tempor purus facilisis eget. Ut et aliquet nisl, eget vulputate nibh. Aliquam malesuada dolor id elit ultrices bibendum. Vestibulum fermentum odio porta nibh tincidunt ornare\cite{source2,source3}. Integer quis lacinia nunc. Sed convallis turpis libero. In placerat aliquet bibendum. Aliquam risus urna, rutrum eget blandit vitae, fermentum fringilla sapien. Pellentesque vel massa molestie, aliquam urna a, varius massa. Sed venenatis, ante id iaculis cursus, nisi justo accumsan tellus, vitae porttitor lacus eros ac diam. Nam eu magna mattis, consectetur lacus eu, maximus quam. Etiam elementum tortor vel congue elementum. Fusce urna erat, porta vel nisl eu, tristique laoreet ex. Integer lectus quam, imperdiet in elit euismod, lacinia dignissim arcu.
 
 \begin{algorithm}
     \caption{Random algorithm}
@@ -159,6 +186,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit \cite{source1}. Maecenas
     \end{algorithmic}
 \end{algorithm}
 
+First line without newline
+Second line without newline
+
+First line with newline\newline
+Second line with newline
+
 \begin{lstlisting}[language=Java, style=javaStyle]
 public class Main {
     /**
@@ -172,6 +205,17 @@ public class Main {
     }
 }
 \end{lstlisting}
+
+\begin{tabular}{|c|c||c|}
+    \hline
+    Squads & Number of victory & Total of point \\
+    \hline
+    Manchester City & 24 & 98 \\
+    Manchester United & 14 & 54 \\
+    ... & ... & ... \\
+    Norwich City & 7 & 32 \\
+    \hline
+\end{tabular}
 
 \newpage
 
@@ -302,4 +346,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sollicitudin et a
         \end{tikzpicture}
         \caption{Number of victory per squad in Premier League}
 \end{figure}
+
+\newpage
+
+\begin{lstlisting}[language=SQL, style=sqlStyle]
+ALTER TABLE country
+	MODIFY capital SET NOT NULL;
+-- There is no MODIFY CONSTRAINT, so first remove than create anew:
+ALTER TABLE country
+	DROP CONSTRAINT country_capital_fkey;
+ALTER TABLE country
+	ADD CONSTRAINT country_capital_fkey FOREIGN KEY (capital) REFERENCES city(id) ON DELETE CASCADE;
+\end{lstlisting}
 \end{document}
