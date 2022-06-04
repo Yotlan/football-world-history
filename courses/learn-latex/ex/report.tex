@@ -86,8 +86,10 @@ numberstyle=\tiny\color{gray},
 showstringspaces=false,
 stringstyle=\color{mauve},
 tabsize=3,
-xleftmargin =1em
-}
+xleftmargin =1em}
+
+% FOR PYTHON STYLE                                  % From https://github.com/olivierverdier/python-latex-highlighting
+\usepackage{pythonhighlight}
 
 %% COLOR
 
@@ -358,4 +360,12 @@ ALTER TABLE country
 ALTER TABLE country
 	ADD CONSTRAINT country_capital_fkey FOREIGN KEY (capital) REFERENCES city(id) ON DELETE CASCADE;
 \end{lstlisting}
+
+\begin{python}
+class MyClass(Yourclass):
+    def __init__(self, my, yours):
+        bla = '5 1 2 3 4'
+        print bla
+\end{python}
+
 \end{document}
