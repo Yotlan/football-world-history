@@ -42,6 +42,7 @@
 \usepackage{algorithm}                              % Use algorithm style
 \usepackage{algorithmic}                            % Use algorithm style
 \usepackage{listings}                               % Code's block
+\usepackage{upquote}                                % Use quote
 
 % FOR JAVA STYLE                                    % From https://texblog.org/2011/06/11/latex-syntax-highlighting-examples/
 \definecolor{javared}{rgb}{0.6,0,0}                 % For strings
@@ -53,13 +54,13 @@
 {language=Java,
 basicstyle=\ttfamily,
 keywordstyle=\color{javapurple}\bfseries,
+numberstyle=\tiny\color{mGray},
 stringstyle=\color{javared},
 commentstyle=\color{javagreen},
 morecomment=[s][\color{javadocblue}]{/**}{*/},
 numbers=left,
-numberstyle=\tiny\color{black},
+numberstyle=\tiny\color{gray},
 stepnumber=1,
-numbersep=10pt,
 tabsize=4,
 showspaces=false,
 showstringspaces=false}
@@ -71,7 +72,7 @@ showstringspaces=false}
 
 \lstdefinestyle{sqlStyle}
 {language=SQL,
-basicstyle={\small\ttfamily},
+basicstyle=\ttfamily,
 belowskip=3mm,
 breakatwhitespace=true,
 breaklines=true,
@@ -85,20 +86,193 @@ numbers=left,
 numberstyle=\tiny\color{gray},
 showstringspaces=false,
 stringstyle=\color{mauve},
-tabsize=3,
-xleftmargin =1em}
+tabsize=3}
 
 % FOR PYTHON STYLE                                  % From https://github.com/olivierverdier/python-latex-highlighting
-\usepackage{pythonhighlight}
+\renewcommand*{\lstlistlistingname}{Code Listings}
+\renewcommand*{\lstlistingname}{Code Listing}
+\definecolor{gray}{gray}{0.5}
+\colorlet{commentcolour}{green!50!black}
+
+\colorlet{stringcolour}{red!60!black}
+\colorlet{keywordcolour}{magenta!90!black}
+\colorlet{exceptioncolour}{yellow!50!red}
+\colorlet{commandcolour}{blue!60!black}
+\colorlet{numpycolour}{blue!60!green}
+\colorlet{literatecolour}{magenta!90!black}
+\colorlet{promptcolour}{green!50!black}
+\colorlet{specmethodcolour}{violet}
+
+\newcommand*{\framemargin}{3ex}
+
+\newcommand*{\literatecolour}{\textcolor{literatecolour}}
+
+\newcommand*{\pythonprompt}{\textcolor{promptcolour}{{>}{>}{>}}}
+
+\lstdefinestyle{pythonStyle}{
+language=python,
+showtabs=true,
+tab=,
+tabsize=2,
+basicstyle=\ttfamily,
+numbers=left,
+numberstyle=\tiny\color{gray},
+stringstyle=\color{stringcolour},
+showstringspaces=false,
+alsoletter={1234567890},
+otherkeywords={\%, \}, \{, \&, \|},
+keywordstyle=\color{keywordcolour}\bfseries,
+emph={and,break,class,continue,def,yield,del,elif ,else,
+except,exec,finally,for,from,global,if,import,in,
+lambda,not,or,pass,print,raise,return,try,while,assert,with},
+emphstyle=\color{blue}\bfseries,
+emph={[2]True, False, None},
+emphstyle=[2]\color{keywordcolour},
+emph={[3]object,type,isinstance,copy,deepcopy,zip,enumerate,reversed,list,set,len,dict,tuple,xrange,append,execfile,real,imag,reduce,str,repr},
+emphstyle=[3]\color{commandcolour},
+emph={Exception,NameError,IndexError,SyntaxError,TypeError,ValueError,OverflowError,ZeroDivisionError},
+emphstyle=\color{exceptioncolour}\bfseries,
+morecomment=[s]{"""}{"""},
+commentstyle=\color{commentcolour}\slshape,
+emph={[4]ode, fsolve, sqrt, exp, sin, cos,arctan, arctan2, arccos, pi,  array, norm, solve, dot, arange, isscalar, max, sum, flatten, shape, reshape, find, any, all, abs, plot, linspace, legend, quad, polyval,polyfit, hstack, concatenate,vstack,column_stack,empty,zeros,ones,rand,vander,grid,pcolor,eig,eigs,eigvals,svd,qr,tan,det,logspace,roll,min,mean,cumsum,cumprod,diff,vectorize,lstsq,cla,eye,xlabel,ylabel,squeeze},
+emphstyle=[4]\color{numpycolour},
+emph={[5]__init__,__add__,__mul__,__div__,__sub__,__call__,__getitem__,__setitem__,__eq__,__ne__,__nonzero__,__rmul__,__radd__,__repr__,__str__,__get__,__truediv__,__pow__,__name__,__future__,__all__},
+emphstyle=[5]\color{specmethodcolour},
+emph={[6]assert,yield},
+emphstyle=[6]\color{keywordcolour}\bfseries,
+emph={[7]range},
+emphstyle={[7]\color{keywordcolour}\bfseries},
+literate=*
+{:}{{\literatecolour:}}{1}
+{=}{{\literatecolour=}}{1}
+{-}{{\literatecolour-}}{1}
+{+}{{\literatecolour+}}{1}
+{*}{{\literatecolour*}}{1}
+{**}{{\literatecolour{**}}}2
+{/}{{\literatecolour/}}{1}
+{//}{{\literatecolour{//}}}2
+{!}{{\literatecolour!}}{1}
+{[}{{\literatecolour[}}{1}
+{]}{{\literatecolour]}}{1}
+{<}{{\literatecolour<}}{1}
+{>}{{\literatecolour>}}{1}
+{>>>}{\pythonprompt}{3},
+rulecolor=\color{black!40},
+backgroundcolor=\color{white},
+}
 
 % FOR C++ STYLE                                     % From https://tex.stackexchange.com/questions/68091/how-do-i-add-syntax-coloring-to-my-c-source-code-in-beamer
 \lstdefinestyle{cppStyle}
 {language=C++,
 basicstyle=\ttfamily,
 keywordstyle=\color{blue}\ttfamily,
+numberstyle=\tiny\color{mGray},
 stringstyle=\color{red}\ttfamily,
 commentstyle=\color{dkgreen}\ttfamily,
-morecomment=[l][\color{magenta}]{\#}}
+morecomment=[l][\color{magenta}]{\#},
+numbers=left,  
+showspaces=false,                
+showstringspaces=false,
+showtabs=false}
+
+% FOR C STYLE                                       % From https://tex.stackexchange.com/questions/348651/c-code-to-add-in-the-document
+\definecolor{mGreen}{rgb}{0,0.6,0}
+\definecolor{mGray}{rgb}{0.5,0.5,0.5}
+\definecolor{mPurple}{rgb}{0.58,0,0.82}
+
+\lstdefinestyle{cStyle}
+{commentstyle=\color{mGreen},
+keywordstyle=\color{magenta},
+numberstyle=\tiny\color{mGray},
+stringstyle=\color{mPurple},
+basicstyle=\ttfamily,
+breakatwhitespace=false,         
+breaklines=true,                 
+captionpos=b,                    
+keepspaces=true,                 
+numbers=left,                  
+showspaces=false,                
+showstringspaces=false,
+showtabs=false,
+language=C}
+
+% FOR HTML5, CSS and JAVASCRIPT STYLE               % From https://fr.overleaf.com/latex/examples/listings-code-style-for-html5-css-html-javascript/htstpdbpnpmt
+\definecolor{lightgray}{rgb}{0.95, 0.95, 0.95}
+\definecolor{darkgray}{rgb}{0.4, 0.4, 0.4}
+\definecolor{editorGray}{rgb}{0.95, 0.95, 0.95}
+\definecolor{editorOcher}{rgb}{1, 0.5, 0}
+\definecolor{editorGreen}{rgb}{0, 0.5, 0}
+\definecolor{orange}{rgb}{1,0.45,0.13}		
+\definecolor{olive}{rgb}{0.17,0.59,0.20}
+\definecolor{brown}{rgb}{0.69,0.31,0.31}
+\definecolor{purple}{rgb}{0.38,0.18,0.81}
+\definecolor{lightblue}{rgb}{0.1,0.57,0.7}
+\definecolor{lightred}{rgb}{1,0.4,0.5}
+
+\lstdefinelanguage{CSS}
+{keywords={color,background-image:,margin,padding,font,weight,display,position,top,left,right,bottom,list,style,border,size,white,space,min,width, transition:, transform:, transition-property, transition-duration, transition-timing-function},	
+sensitive=true,
+morecomment=[l]{//},
+morecomment=[s]{/*}{*/},
+morestring=[b]',
+morestring=[b]",
+alsoletter={:},
+alsodigit={-}}
+
+\lstdefinelanguage{JavaScript}
+{morekeywords={typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
+morecomment=[s]{/*}{*/},
+morecomment=[l]//,
+morestring=[b]",
+morestring=[b]'}
+
+\lstdefinelanguage{HTML5}
+{language=html,
+sensitive=true,	
+alsoletter={<>=-},	
+morecomment=[s]{<!-}{-->},
+tag=[s],
+otherkeywords={
+>,
+<!DOCTYPE,
+</html, <html, <head, <title, </title, <style, </style, <link, </head, <meta, />,
+</body, <body,
+</div, <div, </div>, 
+</p, <p, </p>,
+</script, <script,
+<canvas, /canvas>, <svg, <rect, <animateTransform, </rect>, </svg>, <video, <source, <iframe, </iframe>, </video>, <image, </image>, <header, </header, <article, </article
+},
+ndkeywords={
+=,
+charset=, src=, id=, width=, height=, style=, type=, rel=, href=,
+fill=, attributeName=, begin=, dur=, from=, to=, poster=, controls=, x=, y=, repeatCount=, xlink:href=,
+margin:, padding:, background-image:, border:, top:, left:, position:, width:, height:, margin-top:, margin-bottom:, font-size:, line-height:,
+transform:, -moz-transform:, -webkit-transform:,
+animation:, -webkit-animation:,
+transition:,  transition-duration:, transition-property:, transition-timing-function:,
+}}
+
+\lstdefinestyle{htmlcssjsStyle} 
+{basicstyle={\ttfamily},
+numbers=left,
+numberstyle=\tiny\color{mGray},
+stepnumber=1,
+firstnumber=1,
+numberfirstline=true,	
+identifierstyle=\color{black},
+keywordstyle=\color{blue}\bfseries,
+ndkeywordstyle=\color{editorGreen}\bfseries,
+stringstyle=\color{editorOcher}\ttfamily,
+commentstyle=\color{brown}\ttfamily,
+language=HTML5,
+alsolanguage=JavaScript,
+alsodigit={.:;},	
+tabsize=2,
+showtabs=false,
+showspaces=false,
+showstringspaces=false,
+extendedchars=true,
+breaklines=true}
 
 %% COLOR
 
@@ -370,12 +544,12 @@ ALTER TABLE country
 	ADD CONSTRAINT country_capital_fkey FOREIGN KEY (capital) REFERENCES city(id) ON DELETE CASCADE;
 \end{lstlisting}
 
-\begin{python}
+\begin{lstlisting}[language=Python, style=pythonStyle]
 class MyClass(Yourclass):
     def __init__(self, my, yours):
         bla = '5 1 2 3 4'
         print bla
-\end{python}
+\end{lstlisting}
 
 \begin{lstlisting}[language=C++, style=cppStyle]
 #include<stdio.h>
@@ -385,6 +559,100 @@ int main(void)
 {
     printf("Hello World\n");
     return 0;
+}
+\end{lstlisting}
+
+\begin{lstlisting}[language=C, style=cStyle]
+#include <stdio.h>
+int main(void)
+{
+   printf("Hello World!"); 
+}
+\end{lstlisting}
+
+\newpage
+
+\begin{lstlisting}[style=htmlcssjsStyle]
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Listings Style Test</title>
+    <meta charset="UTF-8">
+    <style>
+      /* CSS Test */
+      * {
+        padding: 0;
+        border: 0;
+        margin: 0;
+      }
+    </style>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <header> hey </header>
+  <article> this is a article </article>
+  <body>
+    <!-- Paragraphs are fine -->
+    <div id="box">			
+			<p>
+			  Hello World
+			</p>
+      <p>Hello World</p>
+      <p id="test">Hello World</p>
+			<p></p>
+    </div>
+    <div>Test</div>
+    <!-- HTML script is not consistent -->
+    <script src="js/benchmark.js"></script>
+    <script>
+      function createSquare(x, y) {
+        // This is a comment.
+        var square = document.createElement('div');
+        square.style.width = square.style.height = '50px';
+        square.style.backgroundColor = 'blue';
+        
+        /*
+         * This is another comment.
+         */
+        square.style.position = 'absolute';
+        square.style.left = x + 'px'; 
+        square.style.top = y + 'px';
+        
+        var body = document.getElementsByTagName('body')[0];
+        body.appendChild(square);
+      };
+      
+      // Please take a look at +=
+      window.addEventListener('mousedown', function(event) {
+        var x = event.touches[0].pageX;
+        var y = event.touches[0].pageY;
+        var lookAtThis += 1;
+      });
+    </script>
+  </body>
+</html>
+\end{lstlisting}
+
+\begin{lstlisting}[style=htmlcssjsStyle]
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	#main {
+		width: 712px;
+		padding: 100px 28px 120px;
+	}
+	
+	/* .mono {
+		font-size: 90%;
+	} */
+	
+	.cssbtn a {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		width: 60px;  
+		height: 60px;   
+		font-size: 28px;
+		line-height: 62px;
+	}
 }
 \end{lstlisting}
 
