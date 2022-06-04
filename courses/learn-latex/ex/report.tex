@@ -274,6 +274,23 @@ showstringspaces=false,
 extendedchars=true,
 breaklines=true}
 
+% FOR XML STYLE                                     % From https://tex.stackexchange.com/questions/10255/xml-syntax-highlighting
+\definecolor{Maroon}{rgb}{0.5, 0.0, 0.0}
+\definecolor{DarkOliveGreen}{rgb}{0.33, 0.42, 0.18}
+
+\lstdefinelanguage{XML}
+{basicstyle=\ttfamily,
+morestring=[b]",
+moredelim=[s][\bfseries\color{Maroon}]{<}{\ },
+moredelim=[s][\bfseries\color{Maroon}]{</}{>},
+moredelim=[l][\bfseries\color{Maroon}]{/>},
+moredelim=[l][\bfseries\color{Maroon}]{>},
+morecomment=[s]{<?}{?>},
+morecomment=[s]{<!--}{-->},
+commentstyle=\color{DarkOliveGreen},
+stringstyle=\color{blue},
+identifierstyle=\color{red}}
+
 %% COLOR
 
 \usepackage{xcolor}                                 % Use color (already existing color)
@@ -654,6 +671,25 @@ int main(void)
 		line-height: 62px;
 	}
 }
+\end{lstlisting}
+
+\begin{lstlisting}[language=XML]
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="points">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="point">
+          <xs:complexType>
+            <xs:attribute name="x" type="xs:unsignedShort" use="required" />
+            <xs:attribute name="y" type="xs:unsignedShort" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
 \end{lstlisting}
 
 \end{document}
