@@ -91,6 +91,15 @@ xleftmargin =1em}
 % FOR PYTHON STYLE                                  % From https://github.com/olivierverdier/python-latex-highlighting
 \usepackage{pythonhighlight}
 
+% FOR C++ STYLE                                     % From https://tex.stackexchange.com/questions/68091/how-do-i-add-syntax-coloring-to-my-c-source-code-in-beamer
+\lstdefinestyle{cppStyle}
+{language=C++,
+basicstyle=\ttfamily,
+keywordstyle=\color{blue}\ttfamily,
+stringstyle=\color{red}\ttfamily,
+commentstyle=\color{dkgreen}\ttfamily,
+morecomment=[l][\color{magenta}]{\#}}
+
 %% COLOR
 
 \usepackage{xcolor}                                 % Use color (already existing color)
@@ -367,5 +376,16 @@ class MyClass(Yourclass):
         bla = '5 1 2 3 4'
         print bla
 \end{python}
+
+\begin{lstlisting}[language=C++, style=cppStyle]
+#include<stdio.h>
+#include<iostream>
+// A comment
+int main(void)
+{
+    printf("Hello World\n");
+    return 0;
+}
+\end{lstlisting}
 
 \end{document}
