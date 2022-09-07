@@ -67,3 +67,40 @@ java ex1.java
 ```
 
 The correction of this exercice are available at `ex/ex1.java`
+
+### EXERCICE 2
+
+The second exercice is about variable. It's very important to use variable, because you can update them when you want. For example, if you want to write all integer between 1 and 10, you can use a variable. So, instead of using 10 print method, you can use a for loop (or a while loop). A for loop in java look like this :
+
+```java
+for(int i=0; i<10; i++){
+    //Some code...
+}
+```
+
+And a while loop look like this :
+
+```java
+while(i<10){
+    //Some code...
+    i++;
+}
+```
+
+Ton conclude this exercice, you need to write in the terminal like the previous exercice and then launch your program with this command :
+
+```sh
+java ex2.java
+> 0
+> 1
+> 2
+> 3
+> 4
+> 5
+> 6
+> 7
+> 8
+> 9
+```
+
+The correction of this exercice are available at `ex/ex2.java`
