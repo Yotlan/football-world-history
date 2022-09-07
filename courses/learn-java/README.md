@@ -104,3 +104,34 @@ java ex2.java
 ```
 
 The correction of this exercice are available at `ex/ex2.java`
+
+### EXERCICE 3
+
+Now, you know variables. It's very usefull to use a value who will be update by another part of the code (like a for loop). Here you can have an example of some type you can use in your code :
+
+| Type          | Example                        |
+|---------------|--------------------------------|
+| String        | "Hello World !"                |
+| int           | 42                             |
+| float         | 3.14                           |
+| boolean       | true                           |
+
+Something which are very usefull, is to use some operation like + to concatenate 2 words. With integer and float, it's a simple addition. But you cannot do that with boolean. In this exercice, you need to use what we use before, but with some operation like + or - for integer and float, + for string and `and`or `or` for boolean. Before you start this exercice, we introduce very quickly :
+
+- and
+
+| Operation       | Result          |
+|-----------------|-----------------|
+| true and true   | true            |
+| true and false  | false           |
+| false and true  | false           |
+| false and false | false           |
+
+- or
+
+| Operation       | Result          |
+|-----------------|-----------------|
+| true or true    | true            |
+| true or false   | true            |
+| false or true   | true            |
+| false or false  | false           |
