@@ -81,6 +81,8 @@ for(int i=0; i<10; i++){
 And a while loop look like this :
 
 ```java
+int i=0;
+
 while(i<10){
     //Some code...
     i++;
