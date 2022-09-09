@@ -66,7 +66,7 @@ java ex1.java
 > Hello World !
 ```
 
-The correction of this exercice are available at `ex/ex1.java`
+The correction of this exercice is available at `ex/ex1.java`
 
 ### EXERCICE 2
 
@@ -89,7 +89,7 @@ while(i<10){
 }
 ```
 
-Ton conclude this exercice, you need to write in the terminal like the previous exercice and then launch your program with this command :
+To conclude this exercice, you need to write in the terminal like the previous exercice and then launch your program with this command :
 
 ```sh
 java ex2.java
@@ -105,7 +105,7 @@ java ex2.java
 > 9
 ```
 
-The correction of this exercice are available at `ex/ex2.java`
+The correction of this exercice is available at `ex/ex2.java`
 
 ### EXERCICE 3
 
@@ -118,7 +118,7 @@ Now, you know variables. It's very usefull to use a value who will be update by 
 | float         | 3.14                           |
 | boolean       | true                           |
 
-Something which are very usefull, is to use some operation like + to concatenate 2 words. With integer and float, it's a simple addition. But you cannot do that with boolean. In this exercice, you need to use what we use before, but with some operation like + or - for integer and float, + for string and `and`or `or` for boolean. Before you start this exercice, we introduce very quickly :
+Something which are very usefull, is to use some operation like + to concatenate 2 words. With integer and float, it's a simple addition. But you cannot do that with boolean. In this exercice, you need to use what we use before, but with some operation like + or - for integer and float, + for string and `and`, `or` or `not` for boolean. Before you start this exercice, we introduce boolean very quickly :
 
 - and
 
@@ -137,3 +137,39 @@ Something which are very usefull, is to use some operation like + to concatenate
 | true or false   | true            |
 | false or true   | true            |
 | false or false  | false           |
+
+- not
+
+| Operation       | Result          |
+|-----------------|-----------------|
+| not true        | false           |
+| not false       | true            |
+
+Boolean variables are very usefull if you want to check some condition. Instead, for example, in the previous for loop we saw in the last exercice, you can see `i<10`. This condition mean until i is lower than 10, you can continue the for loop (and increment i with `i++`). Now, in this exercice, what we want is that :
+
+- print the addition between 4 and 2
+- print the substraction between 3.14 and 1.5
+- print the concatenation between "Hello " and "World !"
+- all this printing line in a conditionnal loop (if) who check if the user use an arguments or not
+
+To do this, you follow this pattern :
+```java
+public static void main(String[] args) {
+    if(args.size > 0){
+        //Some code...
+    }
+}
+```
+
+Now, if you run your program, you can see this:
+
+```sh
+java ex3.java
+> 
+java ex3.java something
+> 6
+> 1.640000000000001
+> Hello World !
+```
+
+The correction of this exercice is available at `ex/ex3.java`
