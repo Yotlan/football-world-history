@@ -173,3 +173,7 @@ java ex3.java something
 ```
 
 The correction of this exercice is available at `ex/ex3.java`
+
+#### TIPS
+
+Something very boring when someone write code is when he use variable but with a strange name. For example, if you have a variable you use for a reference for the number of goal scored by Thierry Heny, but you named that variable `g`, only you can understand this ! The good way to named your variable is to named it like this `ThierryHenryGoal`. Like this, everyone understand the meaning of this variable : the number of goal scored by Thierry Henry.
