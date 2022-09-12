@@ -177,3 +177,44 @@ The correction of this exercice is available at `ex/ex3.java`
 #### TIPS
 
 Something very boring when someone write code is when he use variable but with a strange name. For example, if you have a variable you use for a reference for the number of goal scored by Thierry Heny, but you named that variable `g`, only you can understand this ! The good way to named your variable is to named it like this `ThierryHenryGoal`. Like this, everyone understand the meaning of this variable : the number of goal scored by Thierry Henry.
+
+#### IMPORTANT INFORMATIONS : DATA TYPES
+
+Before you continu this courses, you need to learn by heart this graphics bellow :
+
+![data-type](/courses/learn-java/img/java-data-types.jpg)
+
+This graphics is very important because if a type is primitives, you don't need to import his packages to use it (like int, float, boolean, ...). But if you use some non-primitives types, you need to import his packages like this :
+
+```java
+import java.util.ArrayList;
+
+public class Main {
+    //Some code ...
+}
+```
+
+The package we import is for ArrayList. With this data-type, you can now have a better table (better than String[] or Integer[]). Some package are directly import by default in java, like for the package String (who are in java.lang which is directly imported in java). So, it's very important to search the package to import if you want to use some non-primitives data types.
+
+### EXERCICE 4
+
+Something very usefull is type casting. Indeed, sometime you need to cast a type to another (for example an int to a double or a char to a string). They exist 2 types of type casting : 
+- Widening Casting : converting a smaller type to a larger one
+- Narrowing Casting : converting a larger type to a smaller one
+Widening Castings are doing automaticly, but not for Narrowing Casting who you need to do it manually. Indeed, in Widening Casting, you don't loose any information because you cast a smaller type to a larger one. But in Narrowing Casting, you loose some information. For example if you cast a float to an int, you loose all the number after the comma. In this exercice, you have to print with the same variable, an int and a float. To do this, you need to follow this schema : 
+
+```java
+float myVar = 3.14;
+
+System.out.println(myVar);
+System.out.println((int) myVar);
+```
+
+Now, if you run your program, you can see this :
+```sh
+java ex4.java
+> 3.14
+> 3
+```
+
+The correction of this exercice is available at `ex/ex4.java`
