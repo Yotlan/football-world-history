@@ -204,10 +204,13 @@ Something very usefull is type casting. Indeed, sometime you need to cast a type
 Widening Castings are doing automaticly, but not for Narrowing Casting who you need to do it manually. Indeed, in Widening Casting, you don't loose any information because you cast a smaller type to a larger one. But in Narrowing Casting, you loose some information. For example if you cast a float to an int, you loose all the number after the comma. In this exercice, you have to print with the same variable, an int and a float. To do this, you need to follow this schema : 
 
 ```java
-float myVar = 3.14;
+float myFloatVar = 3.14;
+int myIntVar = (int) myFloatVar; //Widening Casting
+float myNewFloatVar = myIntVar; //Narrowing Casting
 
-System.out.println(myVar);
-System.out.println((int) myVar);
+System.out.println(myFloatVar);
+System.out.println(myIntVar);
+System.out.println(myNewFloatVar);
 ```
 
 Now, if you run your program, you can see this :
@@ -215,6 +218,7 @@ Now, if you run your program, you can see this :
 java ex4.java
 > 3.14
 > 3
+> 3.0
 ```
 
 The correction of this exercice is available at `ex/ex4.java`
