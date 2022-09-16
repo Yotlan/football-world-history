@@ -223,3 +223,76 @@ java ex4.java
 ```
 
 The correction of this exercice is available at `ex/ex4.java`
+
+### EXERCICE 5
+
+Now you are familiarized with basic java, you need to know the most used java operator to create more complex program. Indeed, you have 4 types of java operators :
+- Arithmetic Operator
+- Assignment Operator
+- Comparison Operator
+- Logical Operator
+
+We start by presenting Arithmetic Operator :
+
+| Operation       | Result          | Explanation                            |
+|-----------------|-----------------|----------------------------------------|
+| 2 + 2           | 4               | Basic Addition                         |
+| 2 - 2           | 0               | Basic Substraction                     |
+| 2 * 2           | 4               | Basic Multiplication                   |
+| 2 / 2           | 1               | Basic Division                         |
+| 2 % 2           | 0               | Modulo (number exceed a certain value) |
+| 2++ or ++2      | 3               | Increment value by one                 |
+| 2-- or --2      | 1               | Decrement value by one                 |
+
+Arithmetic Operators are very simple operator. Everyone can understand it and use it for their own little program. But now, we'll going to see Assignment Operators, who are at first very simple, but some operator are more complicated :
+
+| Operation       | X's value       | Explanation                             |
+|-----------------|-----------------|-----------------------------------------|
+| x = 2           | 2               | Assign 2 to x                           |
+| x += 2          | 4               | Assign x + 2 to x (we assume here x = 2)|
+| x -= 2          | 2               | Assign x - 2 to x (we assume here x = 4)|
+| x *= 2          | 4               | Assign x * 2 to x (we assume here x = 2)|
+| x /= 2          | 2               | Assign x / 2 to x (we assume here x = 4)|
+| x %= 2          | 0               | Assign x % 2 to x (we assume here x = 2)|
+
+Now, we're going to see Comparison Operators, who used some logical function (like and, or, ...). It's very usefull if you want to put some condition to pass in some part of your code :
+
+| Operation       | Explanation                            |
+|-----------------|----------------------------------------|
+| x == 2          | True if x is equal to 2                |
+| x != 2          | True if x is different to 2            |
+| x > 2           | True if x are greater than 2           |
+| x < 2           | True if x are less than 2              |
+| x >= 2          | True if x are greater or equal to 2    |
+| x <= 2          | True if x are less or equal to 2       |
+
+To conclude with the little presentation of java operators, we need to know Logical Operators who're very usefull if you want to verify more than 1 condition in your program in just 1 if :
+
+- and
+
+| Operation       | Result          |
+|-----------------|-----------------|
+| true && true    | true            |
+| true && false   | false           |
+| false && true   | false           |
+| false && false  | false           |
+
+- or
+
+| Operation       | Result          |
+|-----------------|-----------------|
+| true || true    | true            |
+| true || false   | true            |
+| false || true   | true            |
+| false || false  | false           |
+
+- not
+
+| Operation       | Result          |
+|-----------------|-----------------|
+| ! true          | false           |
+| ! false         | true            |
+
+It's the same table we see before this exercice, but here we use Java Logicial Operators.
+
+To verify if you understand how to use Java Operators, you have to code your **FIRST** Java Project ! The goals of this project if to code a *guessing number game*. To code it, you need to use a special java package : Math. This package is already import by default in Java.
