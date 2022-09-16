@@ -201,12 +201,13 @@ The package we import is for ArrayList. With this data-type, you can now have a 
 Something very usefull is type casting. Indeed, sometime you need to cast a type to another (for example an int to a double or a char to a string). They exist 2 types of type casting : 
 - Widening Casting : converting a smaller type to a larger one
 - Narrowing Casting : converting a larger type to a smaller one
+
 Widening Castings are doing automaticly, but not for Narrowing Casting who you need to do it manually. Indeed, in Widening Casting, you don't loose any information because you cast a smaller type to a larger one. But in Narrowing Casting, you loose some information. For example if you cast a float to an int, you loose all the number after the comma. In this exercice, you have to print with the same variable, an int and a float. To do this, you need to follow this schema : 
 
 ```java
 float myFloatVar = 3.14;
-int myIntVar = (int) myFloatVar; //Widening Casting
-float myNewFloatVar = myIntVar; //Narrowing Casting
+int myIntVar = (int) myFloatVar; //Narrowing Casting
+float myNewFloatVar = myIntVar; //Widening Casting
 
 System.out.println(myFloatVar);
 System.out.println(myIntVar);
