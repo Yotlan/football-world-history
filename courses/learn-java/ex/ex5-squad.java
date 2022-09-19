@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.List;
 
 public class Squad {
@@ -92,6 +91,11 @@ public class Squad {
             this.managerName = managerName;
         }
         return isVoidString;
+    }
+
+    //Methods
+    public boolean isEmpty() {
+        return ((goalkeepersList.isEmpty()) || (defendersList.isEmpty()) || (midfieldersList.isEmpty()) || (strikersList.isEmpty()) || (squadName.isBlank()) || (managerName.isBlank()));
     }
 
 }
