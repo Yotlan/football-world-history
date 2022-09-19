@@ -295,4 +295,4 @@ To conclude with the little presentation of java operators, we need to know Logi
 
 It's the same table we see before this exercice, but here we use Java Logicial Operators.
 
-To verify if you understand how to use Java Operators, you have to code your **FIRST** Java Project ! The goals of this project if to code a *guessing number game*. To code it, you need to use a special java package : Math. This package is already import by default in Java.
+To verify if you understand how to use Java Operators, you have to code your **FIRST** Java Project ! The goals of this project if to code a *Football Match Simulation*. To code it, you need to use a special java package : Math. This package is already import by default in Java. Moreover, you need to use some data structure like array to stock some important informations. 
