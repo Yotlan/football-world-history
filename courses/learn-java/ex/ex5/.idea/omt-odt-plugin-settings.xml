@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.misset.opp.settings.SettingsState">
+    <option name="ontologyModelRootPath" value="$PROJECT_DIR$/model/ttl/root.ttl" />
+    <option name="referencesFolder" value="$PROJECT_DIR$/frontend/apps/app/src/assets/referentielijsten" />
+    <option name="tsConfigPath" value="$PROJECT_DIR$/frontend/tsconfig.base.json" />
+    <option name="omtAPIPath" value="$PROJECT_DIR$/core/omt/API.md" />
+    <option name="odtAPIPath" value="$PROJECT_DIR$/core/odt/API.md" />
+    <option name="modelInstanceMapping">
+      <map>
+        <entry key="http:\/\/data\.politie\.nl\/19000000000000_\S*" value="http://ontologie.politie.nl/def/platform#NamedGraph" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -9,7 +9,7 @@ public class Squad {
     private List<String> strikersList;
     private String squadName;
     private String managerName;
-    
+
     //Constructor
     public Squad(List<String> goalkeepersList, List<String> defendersList, List<String> midfieldersList, List<String> strikersList, String squadName, String managerName) {
         this.goalkeepersList = goalkeepersList;
@@ -30,7 +30,7 @@ public class Squad {
         if(!isVoidList) {
             this.goalkeepersList = goalkeepersList;
         }
-        return isVoidList;
+        return !isVoidList;
     }
 
     public List<String> getDefendersList() {
@@ -42,7 +42,7 @@ public class Squad {
         if(!isVoidList) {
             this.defendersList = defendersList;
         }
-        return isVoidList;
+        return !isVoidList;
     }
 
     public List<String> getMidfieldersList() {
@@ -54,19 +54,19 @@ public class Squad {
         if(!isVoidList) {
             this.midfieldersList = midfieldersList;
         }
-        return isVoidList;
+        return !isVoidList;
     }
 
     public List<String> getStrikersList() {
         return this.strikersList;
     }
 
-    public List<String> setStrikersList(List<String> strikersList) {
+    public boolean setStrikersList(List<String> strikersList) {
         boolean isVoidList = strikersList.isEmpty();
         if(!isVoidList) {
             this.strikersList = strikersList;
         }
-        return isVoidList;
+        return !isVoidList;
     }
 
     public String getSquadName() {
@@ -78,7 +78,7 @@ public class Squad {
         if(!isVoidString) {
             this.squadName = squadName;
         }
-        return isVoidString;
+        return !isVoidString;
     }
 
     public String getManagerName() {
@@ -90,7 +90,7 @@ public class Squad {
         if(!isVoidString) {
             this.managerName = managerName;
         }
-        return isVoidString;
+        return !isVoidString;
     }
 
     //Methods
