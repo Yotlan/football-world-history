@@ -49,6 +49,7 @@ To see all projects based on this dataset, you need to go in this folder :
 - Yotlan LE CROM (<https://github.com/Yotlan>)
 - Endy YU (<https://github.com/endyappel>)
 - Samuel PENAULT (<https://github.com/Samuel-Penault>)
+- Samuel RAVARD (<https://github.com/Samfire2k2>)
 
 ## LICENSES
 - CC BY-NC-SA 4.0 (FBREF from Sports Reference)
